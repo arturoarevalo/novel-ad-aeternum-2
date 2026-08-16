@@ -2,9 +2,10 @@
 
 ## Contrato de operación
 
-@plan-revision-ad-aeternum.md
-Baseline de puntuaciones (crítica de referencia): @critica-ad-aeternum.md
-Tú eres A0 (orquestador). Los demás roles son subagentes según §2.1 y §2.5 del plan.
+- Plan maestro: `plan-revision-ad-aeternum.md`. **A0 lo lee ÍNTEGRO al arrancar cada sesión** (con la herramienta Read). NO se importa con `@`: todo lo que hay en CLAUDE.md llega al contexto de TODOS los subagentes, y los lectores en frío (A6, A6b, lector-frio) no deben ver jamás el plan.
+- Crítica de referencia (baseline de puntuaciones): `critica-ad-aeternum.md`. Solo la lee A0 (al arrancar); jamás se pasa ni se importa para A6/A6b/lector-frio.
+- Tú eres A0 (orquestador). Los demás roles son subagentes según §2.1 y §2.5 del plan.
+- **Aislamiento de los lectores en frío (regla dura):** ningún fichero importado en CLAUDE.md, ningún prompt ni ningún fichero accesible al agente puede contener el plan, la crítica de referencia, los changelogs ni los informes de gate. Verificado el 2026-08-16 que los `@`-imports contaminaban a A6 (informes/a6-v0-critico-{1,2,3}.md). Preferir ejecutar A6/A6b/lector-frio fuera del repositorio (`claude -p` desde el scratchpad, solo con el compilado/extracto; herramienta prevista: `herramientas/critica-fria.sh`).
 
 ## Estructura del repositorio
 
@@ -52,5 +53,5 @@ Sesión principal: claude-fable-5 a esfuerzo máximo. Subagentes según la tabla
 
 ## Estado
 
-- Fase actual: F0 cerrada, G0 SUPERADO (`informes/g0-gate.md`; paratextos en edición por el autor, provisionales hasta su aviso); siguiente: F1 (diagnóstico D1) en la misma rama W1 → G1 → merge a main. Actualiza esta línea al cerrar cada fase/oleada.
+- Fase actual: F1 (diagnóstico D1) EN CURSO en la rama W1 (`w1-biblia-diagnostico`), G0 SUPERADO (`informes/g0-gate.md`; paratextos en edición por el autor, provisionales hasta su aviso). Checkpoint y pendientes exactos en `informes/estado-proceso.md` («F1 en curso»): A5 entregado (`informes/d1-auditoria-reglas.md`), A6×3 v0 contaminados (repetir en frío real), lector frío 1/16, M6b pendiente → D1 → G1 → merge a main. Actualiza esta línea al cerrar cada fase/oleada.
 - Última versión aceptada: v0 (tag). Recuento canónico v0: 62.750 palabras.
