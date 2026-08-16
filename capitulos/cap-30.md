@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2061-01-12
 estado: terminado
 analepsis: false
+estado_plan: RW
+proteccion: nucleo
+ot: OT-30
+delta_objetivo: +100
+orden_lectura: 30
 ---
 
 Telegrafbukta no alcanza para todas las que la recuerdan.

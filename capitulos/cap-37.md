@@ -5,6 +5,11 @@ pov: Nora → Jean → Maja → Astrid
 fecha: 2061-01-21T12:47
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: nucleo
+ot: OT-37
+delta_objetivo: +150
+orden_lectura: 37
 ---
 
 El enlace ya instalado entre la salida educativa interior y la mezcla pública entregó la primera salida ordinaria. La demostración hizo exactamente lo que Armstrong había prometido.

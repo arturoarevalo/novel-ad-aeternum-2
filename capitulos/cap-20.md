@@ -5,6 +5,11 @@ pov: Alana → Maja → Nora
 fecha: 2060-12-20
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: total
+ot: OT-20
+delta_objetivo: 0
+orden_lectura: 20
 ---
 
 Alana dejó la clave de auditoría en el centro del banco helado y retrocedió dos pasos.

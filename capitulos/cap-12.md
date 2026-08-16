@@ -5,6 +5,11 @@ pov: Nora
 fecha: 2060-12-09
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: "no"
+ot: OT-12
+delta_objetivo: +150
+orden_lectura: 12
 ---
 
 Deja de subir fotos si quieres que siga respondiendo.

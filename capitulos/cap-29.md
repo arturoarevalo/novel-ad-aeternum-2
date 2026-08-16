@@ -5,6 +5,11 @@ pov: Astrid
 fecha: 2061-01-09
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-29
+delta_objetivo: +200
+orden_lectura: 29
 ---
 
 Tomas Eide esperaba junto a la plaza de Astrid con una carpeta bajo la chaqueta. A las siete y cuarto había escogido el ángulo que la cámara tardaba seis segundos en recuperar.

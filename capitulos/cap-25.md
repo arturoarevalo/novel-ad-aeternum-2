@@ -5,6 +5,11 @@ pov: Jean (interior)
 fecha: 2061-01-03
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: nucleo
+ot: OT-25
+delta_objetivo: +100
+orden_lectura: 25
 ---
 
 Jean clasifica una amenaza citada sin bloquear a quien pidió ayuda.

@@ -5,6 +5,11 @@ pov: Jean Marie Larsson
 fecha: 2061-01-21T12:46
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: nucleo
+ot: OT-36
+delta_objetivo: +150
+orden_lectura: 36
 ---
 
 La caída mantiene diferida la cola no crítica y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.

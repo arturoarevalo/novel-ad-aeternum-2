@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-11-27T03:14
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: total
+ot: OT-05
+delta_objetivo: 0
+orden_lectura: 5
 ---
 
 Fije la vista en el centro de la imagen.

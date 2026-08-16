@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-12-25
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: nucleo
+ot: OT-21
+delta_objetivo: +50
+orden_lectura: 21
 ---
 
 Al consultar la ruta educativa, Jean recibe `EN MANTENIMIENTO`.

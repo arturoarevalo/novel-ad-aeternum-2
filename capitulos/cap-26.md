@@ -5,6 +5,11 @@ pov: Maja
 fecha: 2061-01-03
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-26
+delta_objetivo: +200
+orden_lectura: 26
 ---
 
 La tercera bolsa se quedó en el maletero. Si tenían que marcharse antes del amanecer, agradecerían no haber descargado la vida entera.

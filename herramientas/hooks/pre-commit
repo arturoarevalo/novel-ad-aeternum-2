@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Hook pre-commit (git): guardia de protegidos M9 (hash de ficheros 'total' y de spans, sobre el índice),
+# invariantes del manifiesto (campos de autor == v0 salvo gate registrado) y validador de frontmatter/contratos.
+# Instalación: git config core.hooksPath herramientas/hooks   (ya hecho por A0 en F0; repetir en clones nuevos)
+set -uo pipefail
+ROOT="$(git rev-parse --show-toplevel)"
+cd "$ROOT"
+fallo=0
+echo "[pre-commit] M9 protegidos (índice)…"
+if ! herramientas/proteger.sh verificar --staged; then fallo=1; fi
+echo "[pre-commit] manifiesto…"
+if ! herramientas/actualizar-metadatos.sh verificar >/tmp/aa-precommit-manifiesto.log 2>&1; then cat /tmp/aa-precommit-manifiesto.log; fallo=1; fi
+echo "[pre-commit] frontmatter/contratos…"
+if ! herramientas/validar-frontmatter.sh; then fallo=1; fi
+if [ "$fallo" -ne 0 ]; then
+  echo "[pre-commit] COMMIT RECHAZADO. Si se trata de una excepción aprobada en gate de autor: proteger.sh baseline --rebaseline --gate \"…\" y/o registra el gate." >&2
+  exit 1
+fi
+echo "[pre-commit] OK"

@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-11-26T14:00
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: total
+ot: OT-04
+delta_objetivo: 0
+orden_lectura: 4
 ---
 
 En casa de Maja y las niñas, la nevera empezó a pitar antes de que Jean hubiera terminado de quitarse el abrigo.

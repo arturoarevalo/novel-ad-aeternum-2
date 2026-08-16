@@ -5,6 +5,11 @@ pov: Alana
 fecha: 2060-12-19
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-19
+delta_objetivo: +150
+orden_lectura: 19
 ---
 
 El ferry atrapó las ruedas del coche corporativo entre dos calzos amarillos mientras Mats arrancaba la funda de papel de un gofre.

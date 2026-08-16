@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-12-09
 estado: terminado
 analepsis: false
+estado_plan: RW
+proteccion: nucleo
+ot: OT-13
+delta_objetivo: +400
+orden_lectura: 13
 ---
 
 La validación devuelve una respuesta que Jean no ha elegido.

@@ -5,6 +5,11 @@ pov: Alana
 fecha: 2060-12-06
 estado: terminado
 analepsis: true
+estado_plan: E
+proteccion: nucleo
+ot: OT-11
+delta_objetivo: +250
+orden_lectura: 11
 ---
 
 JM-L/0186 resolvía el 93,8 % de los casos que los moderadores humanos habían dejado sin clasificar. Otras tres líneas verdes repetían identificadores JM-L con porcentajes superiores al noventa.

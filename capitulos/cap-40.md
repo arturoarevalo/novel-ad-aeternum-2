@@ -5,6 +5,11 @@ pov: Nora
 fecha: 2061-02-03
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: nucleo
+ot: OT-40
+delta_objetivo: +150
+orden_lectura: 40
 ---
 
 La silla estaba atornillada al suelo. El altavoz, encastrado en la pared. El indicador había consumido ocho minutos y trece segundos del primer turno de Nora sin que llegara una respuesta.

@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-11-24T21:40
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: total
+ot: OT-01
+delta_objetivo: 0
+orden_lectura: 1
 ---
 
 La pestaña derecha de la corona volvió a resistirse.

@@ -5,6 +5,11 @@ pov: Maja
 fecha: 2060-12-11
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: nucleo
+ot: OT-14
+delta_objetivo: +100
+orden_lectura: 14
 ---
 
 La cena india para cuatro llegó con más de dos semanas de retraso, caliente aún, en manos de Alana Armstrong. Aquel gesto había empezado sin Maja.

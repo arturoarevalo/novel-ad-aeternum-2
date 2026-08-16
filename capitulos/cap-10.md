@@ -5,6 +5,11 @@ pov: Nora
 fecha: 2060-12-05
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: nucleo
+ot: OT-10
+delta_objetivo: +100
+orden_lectura: 10
 ---
 
 Nora pulsó «subir» y la red escolar rechazó la foto antes de que la barra alcanzara el dos por ciento.

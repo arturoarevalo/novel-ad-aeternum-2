@@ -5,6 +5,11 @@ pov: Maja
 fecha: 2060-12-13
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: "no"
+ot: OT-16
+delta_objetivo: +150
+orden_lectura: 16
 ---
 
 El campo del documento de origen era un rectángulo gris con la palabra «EXTERNO».

@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-12-12
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-15
+delta_objetivo: +200
+orden_lectura: 15
 ---
 
 La microetiqueta equivocada supera la validación.

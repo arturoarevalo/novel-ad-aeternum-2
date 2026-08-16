@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-12-04
 estado: terminado
 analepsis: false
+estado_plan: RW
+proteccion: "no"
+ot: OT-08
+delta_objetivo: 0
+orden_lectura: 8
 ---
 
 El acuse llega antes que su respuesta.

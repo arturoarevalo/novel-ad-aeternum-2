@@ -5,6 +5,11 @@ pov: Astrid
 fecha: 2061-01-22
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-39
+delta_objetivo: +200
+orden_lectura: 39
 ---
 
 La escarcha de la fotografía había convertido una tubería de NIDHOGG en una pregunta que nadie quería contestar.

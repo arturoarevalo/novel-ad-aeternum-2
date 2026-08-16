@@ -5,6 +5,11 @@ pov: Alana
 fecha: 2061-01-05
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-27
+delta_objetivo: +150
+orden_lectura: 27
 ---
 
 La resolución ocupaba la pantalla central antes de que Alana abriese su propuesta.

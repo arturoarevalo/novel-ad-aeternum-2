@@ -5,6 +5,11 @@ pov: Astrid
 fecha: 2060-12-27
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: "no"
+ot: OT-22
+delta_objetivo: +300
+orden_lectura: 22
 ---
 
 La primera puerta que contó Astrid quedaba entre el ascensor y la sala de auditoría, fuera del recorrido entregado. Era gris y solo llevaba el rótulo 6.14. El responsable de cumplimiento pasó de largo.

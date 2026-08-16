@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-11-26T09:00
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: "no"
+ot: OT-02
+delta_objetivo: +100
+orden_lectura: 2
 ---
 
 Aquel viernes, el cristal de la sala devolvía el pasillo entero y borraba a Jean de su propio reflejo. Desde fuera podían verla sentada bajo la luz blanca, con las manos sobre las rodillas. Desde dentro, las voces llegaban reducidas a un rumor sin palabras.

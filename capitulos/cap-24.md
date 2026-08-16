@@ -5,6 +5,11 @@ pov: Tomas → Jessie → Tomas
 fecha: 2061-01-02
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: "no"
+ot: OT-24
+delta_objetivo: +300
+orden_lectura: 24
 ---
 
 Tomas encontró la primera discrepancia a cuarenta pasos de la curva. La sal había borrado las marcas del coche, no el anclaje viejo bajo la barrera. La baliza nueva quedaba cuatro metros más al norte; el croquis daba a ambas la misma posición.

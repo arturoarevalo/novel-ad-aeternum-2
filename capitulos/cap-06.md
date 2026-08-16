@@ -5,6 +5,11 @@ pov: Maja
 fecha: 2060-11-26
 estado: terminado
 analepsis: true
+estado_plan: E
+proteccion: nucleo
+ot: OT-06
+delta_objetivo: +200
+orden_lectura: 6
 ---
 
 —Sí, el coche es gris. Si lo han encontrado y ella no está, necesito que…

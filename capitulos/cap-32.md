@@ -5,6 +5,11 @@ pov: Mats
 fecha: 2061-01-17
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-32
+delta_objetivo: +250
+orden_lectura: 32
 ---
 
 Las más de tres mil filas de `Consolidación L-Serie` estaban en verde. Mats llevó el índice izquierdo hacia la casilla de avance y el dedo volvió a detenerse antes de alcanzar el cristal. Estabilizó la mano izquierda con la derecha y validó con el pulgar.

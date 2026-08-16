@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-11-26T11:15
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: total
+ot: OT-03
+delta_objetivo: 0
+orden_lectura: 3
 ---
 
 Al sur, Tromsøya acababa en una franja de tejados azules y farolas encendidas a mediodía. Más allá, las montañas recortaban el cielo con la limpieza falsa de una pantalla recién calibrada. Aún estaba a tres pasos de la mesa cuando el camarero levantó una taza.

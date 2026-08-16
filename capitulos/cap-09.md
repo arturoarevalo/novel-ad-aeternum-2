@@ -5,6 +5,11 @@ pov: Nora
 fecha: 2060-12-03
 estado: terminado
 analepsis: true
+estado_plan: P
+proteccion: total
+ot: OT-09
+delta_objetivo: 0
+orden_lectura: 9
 ---
 
 El pastor calló y Nora midió el silencio en un compás de cuatro pulsos. Uno, dos, tres, cuatro. El hombre tomó aire antes de seguir y ella se aferró al intervalo, a su duración exacta, a cualquier cosa que no fueran las palabras.

@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2060-12-03
 estado: terminado
 analepsis: false
+estado_plan: R
+proteccion: "no"
+ot: OT-07
+delta_objetivo: +100
+orden_lectura: 7
 ---
 
 SEGURO.

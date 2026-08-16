@@ -5,6 +5,11 @@ pov: Nora
 fecha: 2061-01-07
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-28
+delta_objetivo: +150
+orden_lectura: 28
 ---
 
 Jessie se metió en la boca la última esquina del gofre y, antes de tragar, rasgó el envoltorio del segundo.

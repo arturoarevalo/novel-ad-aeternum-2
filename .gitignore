@@ -11,7 +11,7 @@ builds/*.epub
 .runner-state.json
 
 # Informes de salud generados
-informes/
+# informes/ se versiona (plan §2.2): diagnóstico, scoring, changelog, informe final
 
 # Sistema
 .DS_Store
@@ -21,3 +21,5 @@ Thumbs.db
 .env
 .env.local
 deploy/.env.production
+__pycache__/
+*.pyc

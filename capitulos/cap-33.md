@@ -5,6 +5,11 @@ pov: Maja
 fecha: 2061-01-20T21:10
 estado: terminado
 analepsis: false
+estado_plan: E
+proteccion: nucleo
+ot: OT-33
+delta_objetivo: +150
+orden_lectura: 33
 ---
 
 Maja encontró el repetidor dentro de la manga de Jessie.

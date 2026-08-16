@@ -5,6 +5,11 @@ pov: Nora
 fecha: 2060-12-29
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: total
+ot: OT-23
+delta_objetivo: 0
+orden_lectura: 23
 ---
 
 Maja hundió el pulgar en el temporizador. Las cifras rojas saltaron a 20:00. La pantalla del entorno aislado siguió apagada.

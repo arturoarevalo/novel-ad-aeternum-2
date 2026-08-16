@@ -1,0 +1,19 @@
+{
+  "etiqueta": "v0",
+  "fecha": "2026-08-16T16:31:52",
+  "capitulos": 41,
+  "palabras": 62750,
+  "por_parte": {
+    "1": 15599,
+    "2": 15855,
+    "3": 14089,
+    "4": 17207
+  },
+  "objetivo": 85000,
+  "banda": [
+    84000,
+    86000
+  ],
+  "en_banda": false,
+  "salida": "compilado/ad-aeternum-v0.md"
+}

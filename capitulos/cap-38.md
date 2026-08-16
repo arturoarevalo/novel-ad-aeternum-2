@@ -5,6 +5,11 @@ pov: Jean
 fecha: 2061-01-21T13:07
 estado: terminado
 analepsis: false
+estado_plan: P
+proteccion: nucleo
+ot: OT-38
+delta_objetivo: +100
+orden_lectura: 38
 ---
 
 Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».
