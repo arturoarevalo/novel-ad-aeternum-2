@@ -1,6 +1,6 @@
 # Dashboard de métricas · v0
 
-_Generado 2026-08-16T16:44:42 · baseline de comparación: —_
+_Generado 2026-08-16T17:16:47 · baseline de comparación: —_
 
 ## M8 · Palabras
 
@@ -8,51 +8,51 @@ _Generado 2026-08-16T16:44:42 · baseline de comparación: —_
 
 ## M1 · Opacidad (términos de sistema por 1.000 palabras) — objetivo T1: −30 % en 8, 13, 17, 21, 30, 36 (cap. 5 = referencia)
 
-_Lexicón: `herramientas/metricas/lexicon-bootstrap.json` (81 términos)_
+_Lexicón: `biblia/b3-lexicon.json` (117 términos)_
 
 | capítulo | pov | palabras | únicos | únicos/1000 | ocurr./1000 | Δ vs baseline (únicos/1000) | M2 mecánicas nuevas | M2 vs baseline |
 |---|---|---:|---:|---:|---:|---:|---:|---|
-| cap-01.md | Jean | 746 | 9 | 12.1 | 18.8 | — | 2 (lote, norna) |  |
-| cap-02.md | Jean | 1668 | 8 | 4.8 | 9.6 | — | 3 (salida, auditoria, tarea) |  |
-| cap-03.md | Jean | 2102 | 4 | 1.9 | 1.9 | — | 1 (margen) |  |
-| cap-04.md | Jean | 1501 | 1 | 0.7 | 0.7 | — | 0 () |  |
-| cap-05.md | Jean | 1782 | 10 | 5.6 | 10.1 | — | 3 (ventana, acuse, derivacion) |  |
-| cap-06.md | Maja | 2021 | 4 | 2.0 | 2.5 | — | 0 () |  |
-| cap-07.md | Jean | 1610 | 7 | 4.3 | 18.0 | — | 1 (revisar) |  |
-| cap-08.md **(T1)** | Jean | 967 | 11 | 11.4 | 31.0 | — | 1 (origen) |  |
-| cap-09.md | Nora | 1861 | 5 | 2.7 | 3.8 | — | 0 () |  |
-| cap-10.md | Nora | 1341 | 6 | 4.5 | 6.0 | — | 2 (atribucion, objecion) |  |
-| cap-11.md | Alana | 1818 | 19 | 10.5 | 31.4 | — | 0 () |  |
-| cap-12.md | Nora | 1896 | 6 | 3.2 | 5.8 | — | 1 (reserva) |  |
-| cap-13.md **(T1)** | Jean | 1206 | 17 | 14.1 | 46.4 | — | 4 (reinicio, amenaza, denegacion, apelacion) |  |
-| cap-14.md | Maja | 1703 | 7 | 4.1 | 5.9 | — | 0 () |  |
-| cap-15.md | Jean | 1135 | 19 | 16.7 | 44.9 | — | 2 (consolidacion, recurrencia) |  |
-| cap-16.md | Maja | 1758 | 15 | 8.5 | 22.2 | — | 1 (certificado) |  |
-| cap-17.md **(T1)** | Jean | 800 | 14 | 17.5 | 53.8 | — | 0 () |  |
-| cap-18.md | Nora | 2030 | 12 | 5.9 | 10.8 | — | 0 () |  |
-| cap-19.md | Alana | 2016 | 13 | 6.4 | 15.4 | — | 0 () |  |
-| cap-20.md | Alana → Maja → | 1493 | 9 | 6.0 | 12.7 | — | 0 () |  |
-| cap-21.md **(T1)** | Jean | 657 | 12 | 18.3 | 38.1 | — | 2 (cesion, sincronizacion) |  |
-| cap-22.md | Astrid | 1449 | 17 | 11.7 | 20.7 | — | 1 (ce-k) |  |
-| cap-23.md | Nora | 1847 | 7 | 3.8 | 8.7 | — | 0 () |  |
-| cap-24.md | Tomas → Jessie | 1665 | 8 | 4.8 | 12.0 | — | 1 (geovalla) |  |
-| cap-25.md | Jean (interior | 890 | 18 | 20.2 | 78.7 | — | 2 (candidatura, escalada) |  |
-| cap-26.md | Maja | 1704 | 9 | 5.3 | 10.0 | — | 0 () |  |
-| cap-27.md | Alana | 1786 | 22 | 12.3 | 31.4 | — | 0 () |  |
-| cap-28.md | Nora | 1463 | 8 | 5.5 | 8.9 | — | 0 () |  |
-| cap-29.md | Astrid | 1268 | 17 | 13.4 | 33.1 | — | 0 () |  |
-| cap-30.md **(T1)** | Jean | 1360 | 19 | 14.0 | 55.1 | — | 3 (adhesion, papeleta, deduplicar) |  |
-| cap-31.md | Nora | 1458 | 22 | 15.1 | 34.3 | — | 0 () |  |
-| cap-32.md | Mats | 1585 | 22 | 13.9 | 30.9 | — | 0 () |  |
-| cap-33.md | Maja | 1530 | 6 | 3.9 | 7.8 | — | 0 () |  |
-| cap-34.md | Tomas → Alana  | 2323 | 21 | 9.0 | 19.8 | — | 0 () |  |
-| cap-35.md | Jessie | 1820 | 11 | 6.0 | 13.2 | — | 0 () |  |
-| cap-36.md **(T1)** | Jean Marie Lar | 1038 | 17 | 16.4 | 62.6 | — | 0 () |  |
-| cap-37.md | Nora → Jean →  | 2156 | 30 | 13.9 | 32.0 | — | 1 (break-glass) |  |
-| cap-38.md | Jean | 1321 | 32 | 24.2 | 73.4 | — | 0 () |  |
-| cap-39.md | Astrid | 1548 | 29 | 18.7 | 31.7 | — | 0 () |  |
-| cap-40.md | Nora | 1724 | 10 | 5.8 | 9.3 | — | 0 () |  |
-| cap-41.md | Nora | 704 | 3 | 4.3 | 4.3 | — | 0 () |  |
+| cap-01.md | Jean | 746 | 11 | 14.7 | 28.2 | — | 5 (entrada, lote, canal, validacion, firma-testimonio) |  |
+| cap-02.md | Jean | 1668 | 16 | 9.6 | 19.2 | — | 7 (tarea, salida, rafaga, prioridad, higiene-sensorial, umbral) |  |
+| cap-03.md | Jean | 2102 | 5 | 2.4 | 3.3 | — | 1 (margen) |  |
+| cap-04.md | Jean | 1501 | 2 | 1.3 | 1.3 | — | 0 () |  |
+| cap-05.md | Jean | 1782 | 14 | 7.9 | 25.8 | — | 6 (acuse, formulas-validacion, asignacion, blanco, ejecucion, ventana) |  |
+| cap-06.md | Maja | 2021 | 5 | 2.5 | 3.5 | — | 0 () |  |
+| cap-07.md | Jean | 1610 | 13 | 8.1 | 51.6 | — | 2 (categorias-salida, patron-adversarial) |  |
+| cap-08.md **(T1)** | Jean | 967 | 17 | 17.6 | 44.5 | — | 3 (procedencia, continuidad, ruta) |  |
+| cap-09.md | Nora | 1861 | 6 | 3.2 | 4.3 | — | 1 (ruta-educativa) |  |
+| cap-10.md | Nora | 1341 | 5 | 3.7 | 5.2 | — | 1 (objecion) |  |
+| cap-11.md | Alana | 1818 | 30 | 16.5 | 50.1 | — | 4 (gobernanza-edda, instancia, fase-comun, juicio-contextual) |  |
+| cap-12.md | Nora | 1896 | 10 | 5.3 | 8.4 | — | 1 (residuo-no-determinista) |  |
+| cap-13.md **(T1)** | Jean | 1206 | 25 | 20.7 | 82.9 | — | 7 (desviacion-pedagogica, reinicio, cesion-de-estado, fusion, apelacion, rama) |  |
+| cap-14.md | Maja | 1703 | 8 | 4.7 | 5.3 | — | 0 () |  |
+| cap-15.md | Jean | 1135 | 26 | 22.9 | 71.4 | — | 2 (campo-secundario, resistencia-cognitiva) |  |
+| cap-16.md | Maja | 1758 | 24 | 13.7 | 29.0 | — | 1 (plantilla) |  |
+| cap-17.md **(T1)** | Jean | 800 | 21 | 26.2 | 76.2 | — | 2 (contencion, copia-supervision) |  |
+| cap-18.md | Nora | 2030 | 22 | 10.8 | 18.7 | — | 2 (sincronizacion, geovalla) |  |
+| cap-19.md | Alana | 2016 | 33 | 16.4 | 39.7 | — | 3 (compilacion, replicacion, ventana-reflexiva) |  |
+| cap-20.md | Alana → Maja → | 1493 | 12 | 8.0 | 18.1 | — | 0 () |  |
+| cap-21.md **(T1)** | Jean | 657 | 16 | 24.4 | 67.0 | — | 0 () |  |
+| cap-22.md | Astrid | 1449 | 21 | 14.5 | 27.6 | — | 0 () |  |
+| cap-23.md | Nora | 1847 | 10 | 5.4 | 12.5 | — | 0 () |  |
+| cap-24.md | Tomas → Jessie | 1665 | 13 | 7.8 | 20.4 | — | 1 (presencia-local) |  |
+| cap-25.md | Jean (interior | 890 | 28 | 31.5 | 111.2 | — | 2 (candidatura, consolidacion) |  |
+| cap-26.md | Maja | 1704 | 14 | 8.2 | 17.0 | — | 0 () |  |
+| cap-27.md | Alana | 1786 | 33 | 18.5 | 51.0 | — | 0 () |  |
+| cap-28.md | Nora | 1463 | 7 | 4.8 | 8.9 | — | 0 () |  |
+| cap-29.md | Astrid | 1268 | 24 | 18.9 | 54.4 | — | 1 (las-necesarias) |  |
+| cap-30.md **(T1)** | Jean | 1360 | 29 | 21.3 | 95.6 | — | 3 (adhesion, papeleta, propagacion) |  |
+| cap-31.md | Nora | 1458 | 34 | 23.3 | 59.0 | — | 1 (vinculacion) |  |
+| cap-32.md | Mats | 1585 | 31 | 19.6 | 50.5 | — | 0 () |  |
+| cap-33.md | Maja | 1530 | 11 | 7.2 | 17.6 | — | 0 () |  |
+| cap-34.md | Tomas → Alana  | 2323 | 40 | 17.2 | 46.9 | — | 0 () |  |
+| cap-35.md | Jessie | 1820 | 22 | 12.1 | 38.5 | — | 1 (fail-secure) |  |
+| cap-36.md **(T1)** | Jean Marie Lar | 1038 | 27 | 26.0 | 97.3 | — | 0 () |  |
+| cap-37.md | Nora → Jean →  | 2156 | 45 | 20.9 | 50.1 | — | 1 (break-glass) |  |
+| cap-38.md | Jean | 1321 | 38 | 28.8 | 103.0 | — | 1 (respuesta-comun) |  |
+| cap-39.md | Astrid | 1548 | 33 | 21.3 | 43.3 | — | 0 () |  |
+| cap-40.md | Nora | 1724 | 15 | 8.7 | 14.5 | — | 0 () |  |
+| cap-41.md | Nora | 704 | 6 | 8.5 | 8.5 | — | 0 () |  |
 
 ## M3 · Presencia familiar (POV Maja/Nora/Jessie) por parte
 
@@ -174,12 +174,12 @@ Total familia: 43.8 %
 ```
 AVISO: capitulos/00-aviso.md es provisional (pendiente de validación de autor): sin hash.
 AVISO: capitulos/99-recursos.md es provisional (pendiente de validación de autor): sin hash.
-M9 OK · 8 ficheros íntegros · 34 spans íntegros
+M9 OK · 8 ficheros íntegros · 108 spans íntegros
 ```
 
 ## M10 · Ledger Chéjov — 🟡
 
-- {'ok': None, 'nota': 'biblia/b4-ledger.json aún no existe (B4)'}
+- {'total': 83, 'por_estado': {'PENDIENTE-ASIGNAR': 14, 'PAGADO': 62, 'SIN-PAGO-INTENCIONAL': 7}, 'pct_cerrado': 83.1, 'pendientes': ['CH-1', 'CH-2', 'CH-3', 'CH-4', 'CH-5', 'CH-6', 'CH-26', 'CH-27', 'CH-28', 'CH-31', 'CH-44', 'CH-46', 'CH-47', 'CH-75']}
 
 ## M8 · Real vs presupuesto por capítulo
 

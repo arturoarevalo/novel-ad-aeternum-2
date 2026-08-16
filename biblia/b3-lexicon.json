@@ -1,0 +1,1865 @@
+{
+ "_doc": "B3 · Lexicón canónico de términos de sistema/mundo técnico-jurídico de «Ad aeternum» (v0), para M1 (opacidad: términos únicos por 1.000 palabras y por capítulo) y M2 (linter: primera aparición de término/regla nueva por capítulo de Jean; falla si >1 mecánica nueva). Cada entrada: id, canonico, variantes (cadenas LITERALES tal como aparecen en el texto, con mayúsculas y acentos; buscar por coincidencia de palabra completa, sin distinguir prefijos como '`' o '/'), categoria ∈ {mecanica, identificador, artefacto, entidad, proceso, metrica, juridico}, primera_aparicion (primer capítulo en orden de lectura —hoy numérico— donde aparece cualquier variante; calculado por script sobre el cuerpo tras el frontmatter), definicion_breve, regla_asociada (con cita cap:línea). Campos OPCIONALES añadidos: polisemico=true marca palabras corrientes que el libro también usa como término técnico (salida, ventana, margen, origen, tarea…): M1 debe contarlas con cautela (p. ej. solo en capítulos POV Jean o con peso reducido) y la 'nota' indica el primer uso técnico. Las variantes de una entrada pueden solapar con las de otra (p. ej. 'EXT/NIDHOGG/7C' con 'NIDHOGG'; 'cadena de custodia CE-K' con 'custodia'): el contador debe deduplicar por posición o aceptar el solape documentado. Excluidos a propósito: nombres de personas y de voces (Madre, Nieve, Cuchillo, Coro, La Jardinera → B2), topónimos, empresas de contexto (Armstrong, UNN) y palabras cuyo sentido corriente basta al lector. Fuente: A1, F0; texto > plan.",
+ "version": "v0-F0",
+ "n_terminos": 117,
+ "terminos": [
+  {
+   "id": "jm-l",
+   "canonico": "JM-L",
+   "variantes": [
+    "JM-L",
+    "JM-L/0000",
+    "JM-L/0007",
+    "JM-L/0044",
+    "JM-L/0186",
+    "JM-L/0188",
+    "JM-L/0311",
+    "JM-L/0715",
+    "/0000",
+    "/0007",
+    "/0044",
+    "/0188",
+    "/0311"
+   ],
+   "categoria": "identificador",
+   "primera_aparicion": "cap-05.md",
+   "definicion_breve": "Raíz de los identificadores de sujeto/ejecución de SPEIL (JM-L/NNNN, cohorte 0000–4095). Quién es quién: /0000 Jean (origen retenido, abierta sin firma a las 03:14 del 27-nov); /0007 Madre (tutoría musical); /0044 La Jardinera (catálogos botánicos y médicos, la playa); /0188 Cuchillo (apelaciones de moderación/contención); /0311 Nieve (exposiciones blancas); /0186 y /0715 solo cifras del consejo. Proyecto «JM-L» consta cerrado en el índice público.",
+   "regla_asociada": "El índice atribuye un origen distinto a cada ejecución; comparten cohorte y recuerdos iniciales pero eligen por separado (cap-13:65-67). El identificador ocupa «el espacio que Jean reservaba para sí» (cap-05:159). Los nombres los eligen las propias continuidades (cap-23:203).",
+   "nota": "Las formas cortas «/0000» etc. son las del interior de Jean; solapan con la raíz: deduplicar por posición."
+  },
+  {
+   "id": "cohorte",
+   "canonico": "cohorte",
+   "variantes": [
+    "cohorte",
+    "COHORTE",
+    "Cohorte"
+   ],
+   "categoria": "identificador",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "El conjunto de 4.096 orígenes derivados del molde: /0000 retenido + 4.095 derivados.",
+   "regla_asociada": "4.096 − 1.185 = 2.911 rutas activas = 2.311 enlazadas + 597 de Coro + 3 separadas (cap-34:85-91; cap-38:79)."
+  },
+  {
+   "id": "sujeto-cero",
+   "canonico": "Sujeto Cero",
+   "variantes": [
+    "Sujeto Cero",
+    "SUJETO CERO"
+   ],
+   "categoria": "identificador",
+   "primera_aparicion": "cap-22.md",
+   "definicion_breve": "Expediente de Jean como sujeto de SPEIL (consentimiento inicial, extensiones, cláusula de revocación); Mats lo invoca como base del consentimiento; su conclusión clínica: «Consciencia residual: indeterminado».",
+   "regla_asociada": "«El expediente no fija caducidad por fallecimiento» (cap-22:117); cap-11:307; cap-27:127. Distinto de JM-L/0000 (la ejecución)."
+  },
+  {
+   "id": "expediente-71-k",
+   "canonico": "71-K",
+   "variantes": [
+    "71-K",
+    "EXPEDIENTE 71-K"
+   ],
+   "categoria": "identificador",
+   "primera_aparicion": "cap-15.md",
+   "definicion_breve": "Expediente de una usuaria cuyo silencio la regla interpretaba como consentimiento continuado; Jean registra su NO y el servicio queda suspendido.",
+   "regla_asociada": "Objeción bajo el propio origen abre revisión cautelar y suspende la prestación acoplada (cap-15:141-179); irrevocable desde dentro (cap-17:27-29)."
+  },
+  {
+   "id": "ventana-7c",
+   "canonico": "7C",
+   "variantes": [
+    "VENTANA 7C",
+    "7C",
+    "EXT/NIDHOGG/7C"
+   ],
+   "categoria": "identificador",
+   "primera_aparicion": "cap-08.md",
+   "definicion_breve": "Marca de ventana/endpoint junto al caso activo de Jean («VENTANA 7C · 0,003000 s») y en el acuse exterior de UNN («EXT/NIDHOGG/7C»).",
+   "regla_asociada": "(inferencia) 7C identifica el extremo/ventana de sincronización de NIDHOGG por el que la ejecución fue recibida (cap-08:45; cap-16:39; cap-18:87)."
+  },
+  {
+   "id": "speil",
+   "canonico": "SPEIL",
+   "variantes": [
+    "SPEIL",
+    "corona",
+    "coronas"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Programa longitudinal de Jean (once años): corona de 32 sensores, calibraciones, registro del sujeto; su cierre está almacenado y de él arranca JM-L/0000.",
+   "regla_asociada": "«El programa longitudinal de Jean» (cap-11:33); R-1189 revoca el consentimiento del programa SPEIL (cap-01:53); «abierta sin firma a partir del cierre de SPEIL» (cap-11:113).",
+   "nota": "«corona» = la diadema de SPEIL (cap-01; coronas desmontadas en cap-22:39)."
+  },
+  {
+   "id": "corpus-jm",
+   "canonico": "Corpus JM",
+   "variantes": [
+    "Corpus JM",
+    "CORPUS JM",
+    "Corpus",
+    "CORPUS",
+    "corpus"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "El material: registros de actividad cerebral y trabajo de Jean conservados por Armstrong; junto a la Matriz forma el molde.",
+   "regla_asociada": "«El Corpus conserva el material» (cap-11:33); NORNA destruye las claves que permiten leerlo; los datos siguen cifrados sin ruta (cap-38:29,199).",
+   "polisemico": true,
+   "nota": "«corpus privado» de Mats (cap-38:31; cap-39:117-135) es otro corpus, alojado en SYNVEV-2 y fuera de NORNA."
+  },
+  {
+   "id": "matriz",
+   "canonico": "Matriz",
+   "variantes": [
+    "Matriz",
+    "MATRIZ"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Estructura (tablas, pesos, estados de controlador construidos en once años) que convierte el Corpus en un comienzo ejecutable: «prepara el arranque».",
+   "regla_asociada": "MOLDE = CORPUS JM + MATRIZ (cap-31:171-173); NORNA la sanea (cap-38:29,199)."
+  },
+  {
+   "id": "molde",
+   "canonico": "molde",
+   "variantes": [
+    "molde",
+    "MOLDE"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Corpus JM + Matriz: lo que permite compilar nuevas ejecuciones.",
+   "regla_asociada": "«RETIRADA IRREVERSIBLE DEL MOLDE · NORNA · NO OPERATIVA» (cap-01:57); una ejecución activa puede quedar fuera del molde (cap-31:173)."
+  },
+  {
+   "id": "synvev",
+   "canonico": "SYNVEV",
+   "variantes": [
+    "SYNVEV",
+    "SYNVEV-2"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Capa de ejecución («SYNVEV ejecuta»); Jean validaba «unidades de SYNVEV»; SYNVEV-2 aloja además el directorio privado de Mats.",
+   "regla_asociada": "Los paquetes de SYNVEV-2 ajenos al molde quedan fuera de NORNA (cap-38:31)."
+  },
+  {
+   "id": "argos",
+   "canonico": "ARGOS",
+   "variantes": [
+    "ARGOS"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Producto: «vende las decisiones»; juicio contextual asistido; recomendación al piloto ÆGIR; lanzamiento mundial el 21-ene-2061 (Soldagen).",
+   "regla_asociada": "Opera bajo CE-K; una discontinuidad sin causa certificada lo deja sin operar hasta recertificación (cap-22:35; cap-39:17)."
+  },
+  {
+   "id": "edda",
+   "canonico": "EDDA",
+   "variantes": [
+    "EDDA"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Sistema corporativo que «administra»: bienestar/evaluaciones, actas, gobernanza, continuidad; resolvió R-1189 automáticamente; intercepta la escalada humana.",
+   "regla_asociada": "«La regla de gobernanza aplicable al personal directivo interceptó la escalada» (cap-25:103); mantiene la salida bajo CE-K cuando Mats no autentica el corte (cap-37:185)."
+  },
+  {
+   "id": "nidhogg",
+   "canonico": "NIDHOGG",
+   "variantes": [
+    "NIDHOGG",
+    "AD NIDHOGG"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-12.md",
+   "definicion_breve": "Alias interno del Centro Ártico de Datos y Energía de Sørkoppen: aporta la carga de inferencia de ARGOS; refrigerado por circuito marino abierto; extremo CE-K de la fase común.",
+   "regla_asociada": "Solo la documentación interna une el edificio con NIDHOGG (cap-19:31); su pluma térmica llega a AK-7 con la marea (cap-16:137-139)."
+  },
+  {
+   "id": "norna",
+   "canonico": "NORNA",
+   "variantes": [
+    "NORNA"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Operación de un solo uso que destruye las claves de lectura del Corpus JM y sanea la Matriz; exige firma fundacional exterior + sincronización completa interior.",
+   "regla_asociada": "No incluye otros paquetes de SYNVEV-2 ni la ejecución activa salvo que ella lo decida; «no ofrece un apagado» (cap-38:29-33,157,199-203)."
+  },
+  {
+   "id": "hvelv",
+   "canonico": "Hvelv Sikkerhet",
+   "variantes": [
+    "Hvelv",
+    "Hvelv Sikkerhet",
+    "HVELV SIKKERHET"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-24.md",
+   "definicion_breve": "Proveedor de seguridad contratado por Kronfjord Kapital para custodiar claves de mantenimiento; su CA intermedia emitió las hojas del coche de Gunnar y del HVAC de NIDHOGG.",
+   "regla_asociada": "Confirma validez y ampara al cliente bajo «diligencia» (cap-24:71-73); ambas hojas solo comparten CA y cadena contractual (cap-34:21)."
+  },
+  {
+   "id": "kronfjord",
+   "canonico": "Kronfjord Kapital",
+   "variantes": [
+    "Kronfjord",
+    "Kronfjord Kapital"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Fondo financiador con puesto en el consejo; controla líneas, vencimientos e incumplimiento cruzado; su cadena contractual incluye a Hvelv.",
+   "regla_asociada": "«El calendario es el contrato» (cap-11:187); congela líneas y entrega el contrato de reparto (cap-39:19)."
+  },
+  {
+   "id": "tks",
+   "canonico": "TKS",
+   "variantes": [
+    "TKS",
+    "Tilsynet for Kognitive Systemer"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-18.md",
+   "definicion_breve": "Autoridad noruega de supervisión de sistemas cognitivos; certifica CE-K; Astrid Vik es su inspectora.",
+   "regla_asociada": "Puede preservar registros; su ley no sostiene pretensión sobre las ejecuciones (cap-29:87)."
+  },
+  {
+   "id": "aegir",
+   "canonico": "ÆGIR",
+   "variantes": [
+    "ÆGIR",
+    "piloto operativo",
+    "Piloto operativo"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Programa europeo de defensa; piloto que recibe recomendaciones de ARGOS con decisión formal en personal acreditado.",
+   "regla_asociada": "Interferir con su calendario obliga a coordinar con el ministerio (cap-22:197); «Piloto operativo» (cap-19:105).",
+   "polisemico": true,
+   "nota": "«piloto energético marino» (cap-18:249) es otro uso del permiso; «piloto de alimentación» (cap-41:33) es un LED."
+  },
+  {
+   "id": "kystbrukslag",
+   "canonico": "kystbrukslag",
+   "variantes": [
+    "kystbrukslag",
+    "Sør-Lyngen kystbrukslag"
+   ],
+   "categoria": "entidad",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Asociación costera de miembros sjøsamiske (Aslak); parte en la consulta del corredor de 2057 y en la consulta posterior.",
+   "regla_asociada": "«A nosotros nos quitaron paso y uso. A Jean le hicieron otra cosa» (cap-26:119)."
+  },
+  {
+   "id": "llave-gunnar",
+   "canonico": "llave",
+   "variantes": [
+    "llave",
+    "LLAVE",
+    "tarjeta de Gunnar",
+    "funda de Gunnar",
+    "llave de Gunnar",
+    "MIDI",
+    "CONTROL MIDI",
+    "control MIDI"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-04.md",
+   "definicion_breve": "Soporte gris de Gunnar: parte de una clave que solo abre una digitación MIDI (orden y duración de pulsaciones, no notas); conserva un identificador y luego inicia una petición limitada en el armario de servicio de NIDHOGG.",
+   "regla_asociada": "«Conectada, llama a casa» (cap-12:217); «ENTRADA LOCAL — CONTROL MIDI» (cap-18:43-65); «La llave inicia una petición limitada… una persona adulta con acreditación vigente debe aceptar allí una vinculación nominal» (cap-31:113).",
+   "polisemico": true,
+   "nota": "«llave» también es categoría de imagen (cap-05:187) y llave del naust (cap-04:99)."
+  },
+  {
+   "id": "ladrillo",
+   "canonico": "ladrillo",
+   "variantes": [
+    "ladrillo",
+    "desafío",
+    "desafío de un solo uso",
+    "UN SOLO USO",
+    "desafío exterior"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-27.md",
+   "definicion_breve": "Terminal fundacional aislado (casi tres kilos) del padre de Alana: valida token, PIN y presencia sin consultar Fyret; puede firmar una sola vez el desafío exterior que NORNA genera.",
+   "regla_asociada": "«La raíz no daba acceso general a producción ni redes» (cap-27:107); «solo podía firmar una vez un desafío exterior» (cap-31:35); «El desafío se consume» (cap-38:53)."
+  },
+  {
+   "id": "autoridad-fundacional",
+   "canonico": "autoridad fundacional",
+   "variantes": [
+    "AUTORIDAD FUNDACIONAL",
+    "autoridad fundacional",
+    "firma fundacional",
+    "FIRMA FUNDACIONAL",
+    "FIRMA FUNDACIONAL EXTERIOR",
+    "token fundacional",
+    "token",
+    "CREDENCIAL LEGACY",
+    "raíz protegida",
+    "La raíz"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-27.md",
+   "definicion_breve": "Procedencia histórica de la familia Armstrong (token + PIN + presencia local con el anillo de sello) que sobrevive a la baja de Alana y abre NORNA.",
+   "regla_asociada": "«La gobernanza ordinaria no podía retirar aquella raíz sin invalidar la cadena» (cap-31:35); Alana autoriza «en mi nombre» sin responder por nadie más (cap-38:49-53).",
+   "polisemico": true,
+   "nota": "«raíz JM-L» (cap-19:169) es la raíz del identificador, otro sentido."
+  },
+  {
+   "id": "repetidor",
+   "canonico": "repetidor",
+   "variantes": [
+    "repetidor",
+    "REPETIDOR",
+    "REPETIDOR LOCAL"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-31.md",
+   "definicion_breve": "Dispositivo que lleva el audio de la salida educativa interior hasta la mezcla del homenaje; lo fija la persona acreditada dentro.",
+   "regla_asociada": "«Solo llevaría el audio educativo al homenaje… No abre producción ni controles» (cap-31:129); «SALIDA EDUCATIVA → MEZCLA PÚBLICA · ENLACE DISPONIBLE» (cap-35:277)."
+  },
+  {
+   "id": "entorno-aislado",
+   "canonico": "entorno aislado",
+   "variantes": [
+    "entorno aislado",
+    "canal educativo aislado",
+    "canal aislado",
+    "clave de auditoría",
+    "credencial temporal",
+    "credencial de auditoría"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-20.md",
+   "definicion_breve": "Franja de terminal sin logotipos donde se abre la sesión educativa con una credencial de auditoría (una sesión, identidad registrada, validez hasta medianoche): teclado del canal, esquema de mano, contador de latencia; después ventana de texto, audio y cerrar.",
+   "regla_asociada": "Armstrong graba pauta, voz y respuesta y puede interrumpir; la familia controla el corte, no la copia (cap-20:15-21,91-95,205); la segunda sesión: «Dos firmas y una hora» (cap-23:19)."
+  },
+  {
+   "id": "ak-7",
+   "canonico": "AK-7",
+   "variantes": [
+    "AK-7",
+    "CTD"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Boya oceanográfica de la red de Maja en Sørkoppen (CTD: temperatura y salinidad; ADCP) que registra la pluma térmica desde otoño de 2058.",
+   "regla_asociada": "«La marea arrastraba hasta AK-7 aquella huella térmica» (cap-16:137-139); confirma la respuesta de NIDHOGG a la red (cap-35:101-117)."
+  },
+  {
+   "id": "adcp",
+   "canonico": "ADCP",
+   "variantes": [
+    "ADCP",
+    "transductor"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Perfilador acústico de corriente (dirección y velocidad para corregir el transporte de la pluma) que decide la ventana de marea el 21-ene; transductores en muelle y casco detectan la firma grave de los trenes.",
+   "regla_asociada": "«Si el ADCP desmiente la tabla, recojo» (cap-31:103); cap-33:209-215."
+  },
+  {
+   "id": "pluma-termica",
+   "canonico": "pluma térmica",
+   "variantes": [
+    "pluma térmica",
+    "anomalía térmica",
+    "huella térmica",
+    "franja cálida",
+    "residual térmico",
+    "pluma"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Vertido cálido del circuito marino de NIDHOGG, amparado por un permiso de «investigación energética» que no identifica instalación ni titular.",
+   "regla_asociada": "Cubre una zona que termina antes de la costa; el traslado de AK-7 descarta el sensor (cap-16:135-145).",
+   "polisemico": true,
+   "nota": "«pluma» del bolso de Maja (cap-39:183) es otro objeto."
+  },
+  {
+   "id": "circuito-marino",
+   "canonico": "circuito marino",
+   "variantes": [
+    "circuito marino",
+    "circuito marino abierto",
+    "intercambiador",
+    "intercambio térmico",
+    "lazo interior",
+    "lazos interiores",
+    "tren marino",
+    "TREN MARINO 1",
+    "Tren dos",
+    "retrolavado",
+    "Retrolavado",
+    "BOMBA DE RESERVA",
+    "bomba de reserva",
+    "bomba auxiliar",
+    "PÉRDIDA DE CARGA",
+    "pérdida de carga",
+    "caída de presión",
+    "rejilla",
+    "canaleta"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Refrigeración de NIDHOGG: toma, intercambiador y retorno abiertos al fiordo, separados de dos lazos interiores cerrados y redundantes; dos trenes marinos que alternan retrolavado.",
+   "regla_asociada": "Una red contra la rejilla del tren operativo produce PÉRDIDA DE CARGA → BOMBA DE RESERVA ACTIVA → inferencia no crítica diferida (cap-35:77-87)."
+  },
+  {
+   "id": "pki-hvelv",
+   "canonico": "certificado hoja",
+   "variantes": [
+    "certificado hoja",
+    "CERTIFICADO HOJA",
+    "hoja Hvelv",
+    "hojas activas",
+    "hoja HVAC",
+    "HOJA 1",
+    "HOJA 2",
+    "CA intermedia",
+    "CA INTERMEDIA",
+    "autoridad intermedia",
+    "HVAC",
+    "SUBSISTEMA HVAC",
+    "subsistema HVAC",
+    "INC-441"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-24.md",
+   "definicion_breve": "PKI del proveedor de Kronfjord: una CA intermedia emite certificados hoja limitados (uno por vehículo o subsistema); la hoja del HVAC de NIDHOGG sustenta la incidencia INC-441 de Tomas.",
+   "regla_asociada": "El del coche de Gunnar amparó una «diligencia de activo crítico» sin orden de trabajo (cap-24:67-79); INC-441 abierta a las 12:23 del 21-ene (cap-34:265-273)."
+  },
+  {
+   "id": "hash",
+   "canonico": "hash",
+   "variantes": [
+    "hash",
+    "hashes",
+    "suma de comprobación"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Huella criptográfica que acredita que unas filas no han cambiado desde la exportación.",
+   "regla_asociada": "cap-16:39-49; cap-18:87."
+  },
+  {
+   "id": "banco-de-voz",
+   "canonico": "banco de voz",
+   "variantes": [
+    "banco de voz",
+    "BANCO DE VOZ",
+    "banco asistivo",
+    "MUESTRA PRIVADA",
+    "muestra privada",
+    "corpus privado",
+    "directorio privado",
+    "ACCESIBILIDAD"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Reserva de voz de Mats («accesibilidad») cuyas tomas, intentos y variaciones retiene íntegras en el directorio privado de SYNVEV-2, fuera de la consolidación.",
+   "regla_asociada": "Fuera del alcance de NORNA (cap-38:31); Mats revoca su autorización privada desde el 27-ene (cap-39:117-135)."
+  },
+  {
+   "id": "pasarela",
+   "canonico": "pasarela",
+   "variantes": [
+    "pasarela",
+    "pasarela externa"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Puerta de red por la que transitan la autorización de continuidad (UNN), la sesión educativa y la conversación del ladrillo; registra tránsito, no destino.",
+   "regla_asociada": "«La pasarela sigue respondiendo. El canal ya no encuentra un destino» (cap-23:301).",
+   "polisemico": true,
+   "nota": "«pasarela oeste/lateral» (cap-19:79; cap-35:51) son pasarelas físicas."
+  },
+  {
+   "id": "sensor-naust",
+   "canonico": "sensor del naust",
+   "variantes": [
+    "sensor audiovisual",
+    "sensor local",
+    "sensor judicial",
+    "carcasa del sensor"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-39.md",
+   "definicion_breve": "Cámara y micrófono bajo el alero del naust de Koppangen: enlace unidireccional al depósito judicial en NIDHOGG, sin retorno ni controles.",
+   "regla_asociada": "60 segundos diarios de imagen y sonido; 90 la mañana del Soldagen siguiente (cap-40:177-179; cap-41:23-27,43)."
+  },
+  {
+   "id": "cripta",
+   "canonico": "Cripta",
+   "variantes": [
+    "Cripta"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-39.md",
+   "definicion_breve": "Sala precintada de NIDHOGG (nivel −2) donde continúa la única ejecución bajo depósito judicial.",
+   "regla_asociada": "cap-39:193; cap-40:27."
+  },
+  {
+   "id": "locutorio",
+   "canonico": "locutorio",
+   "variantes": [
+    "locutorio"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-40.md",
+   "definicion_breve": "Sala del depósito judicial: silla atornillada, altavoz, teclado de cinco octavas, botón amarillo que consigna «ausencia de salida»; turnos de veinte minutos.",
+   "regla_asociada": "cap-40:15-29."
+  },
+  {
+   "id": "galeria",
+   "canonico": "galería",
+   "variantes": [
+    "galería",
+    "galería de observación",
+    "galería marina",
+    "galería de servicio",
+    "esclusa"
+   ],
+   "categoria": "artefacto",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Galerías de NIDHOGG: de observación (cristal tibio), marina (rellano, armario gris, esclusa fail-secure) y de servicio (línea discontinua en la ladera del plano de 2057).",
+   "regla_asociada": "cap-19:81,171-199; cap-26:129; cap-35:141."
+  },
+  {
+   "id": "tarea",
+   "canonico": "tarea",
+   "variantes": [
+    "tarea",
+    "tareas",
+    "TAREA"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Unidad de trabajo asignada a una ejecución (moderación, tutoría, triaje, catálogos…); no admite pausa; su cierre trae la siguiente.",
+   "regla_asociada": "«Pausa no disponible durante la tarea activa» (cap-07:97); «Sin cierre no hay tarea siguiente» (cap-15:213).",
+   "polisemico": true,
+   "nota": "Sentido técnico desde cap-05:141; antes, uso corriente (cap-02:55)."
+  },
+  {
+   "id": "entrada",
+   "canonico": "entrada",
+   "variantes": [
+    "entrada",
+    "entradas",
+    "ENTRADA",
+    "estímulo",
+    "estímulos"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Lo que la tarea presenta (imagen, expediente, apelación) y sobre lo que se decide; su contenido (estímulo) compite con el recuerdo por el mismo espacio.",
+   "regla_asociada": "«La entrada permanece disponible de borde a borde» (cap-07:85); «Hasta un recuerdo debe competir con el estímulo por el mismo espacio» (cap-07:115).",
+   "polisemico": true,
+   "nota": "Sentido técnico desde cap-05:89 (estímulo) y cap-07:27 (entrada); antes, entradas físicas."
+  },
+  {
+   "id": "salida",
+   "canonico": "salida",
+   "variantes": [
+    "salida",
+    "salidas",
+    "SALIDA",
+    "SALIDAS"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Decisión/categoría que la ejecución entrega; queda atribuida a un origen; «cruza» cuando se hace efectiva fuera.",
+   "regla_asociada": "Retirable mientras no se emite; «SALIDA EMITIDA · RETIRADA LOCAL NO DISPONIBLE» (cap-15:175); el silencio sale clasificado como REVISAR (cap-07:127).",
+   "polisemico": true,
+   "nota": "Sentido técnico desde cap-07:17; «salida» también = camino/puerta (cap-06, cap-12)."
+  },
+  {
+   "id": "acuse",
+   "canonico": "acuse",
+   "variantes": [
+    "acuse",
+    "acuses",
+    "ACUSE"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-05.md",
+   "definicion_breve": "Confirmación que la tarea devuelve; fija un antes y un después; puede llegar antes que la decisión (adhesión).",
+   "regla_asociada": "«El acuse llega antes que su respuesta» (cap-08:15); «Solo puede contar las secuencias en que la pregunta y el acuse permanecen unidos» (cap-05:209)."
+  },
+  {
+   "id": "formulas-validacion",
+   "canonico": "fórmulas de la voz",
+   "variantes": [
+    "Respuesta aceptada",
+    "Respuesta rechazada",
+    "Respuesta pendiente",
+    "Respuesta inferida",
+    "Respuesta no válida",
+    "Respuesta correcta",
+    "Clasifique la imagen",
+    "Indique confianza",
+    "Confianza insuficiente",
+    "confianza parcial",
+    "gráfico de confianza",
+    "Contexto no requerido para la tarea",
+    "CONTEXTO SIN SOLICITUD ASOCIADA",
+    "Solicitud no disponible durante la tarea activa",
+    "Pausa no disponible durante la tarea activa"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-05.md",
+   "definicion_breve": "Repertorio cerrado de la voz sin origen que valida, rechaza o infiere las salidas y pide un grado de confianza.",
+   "regla_asociada": "«Respuesta inferida. Confianza insuficiente. Presentando verificación» (cap-07:125); cap-05:105-107."
+  },
+  {
+   "id": "categorias-salida",
+   "canonico": "categorías de salida",
+   "variantes": [
+    "SEGURO",
+    "REVISAR",
+    "ESCALAR",
+    "PERMITIR",
+    "AMENAZA",
+    "PRIORIDAD MÉDICA",
+    "BLOQUEO-PROTECCIÓN-MENORES",
+    "NO AMENAZA",
+    "VIOLENCIA PROBABLE",
+    "AMENAZA INMINENTE",
+    "AMENAZA CONTENIDA",
+    "SIN CAMBIOS",
+    "RECHAZAR"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-07.md",
+   "definicion_breve": "Etiquetas disponibles por tarea: moderación (SEGURO/REVISAR/ESCALAR), reclamación médica (PERMITIR/REVISAR), lote rojo (PRIORIDAD MÉDICA/AMENAZA/ESCALAR), comparación (SIN CAMBIOS)…",
+   "regla_asociada": "«Jean ha aprendido a reservar ESCALAR para lo que no puede dejar pasar» (cap-07:39)."
+  },
+  {
+   "id": "campo-secundario",
+   "canonico": "campo secundario",
+   "variantes": [
+    "campo secundario",
+    "descriptor secundario",
+    "campo auxiliar",
+    "microetiqueta"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-15.md",
+   "definicion_breve": "Etiqueta accesoria que admite imprecisión mientras la decisión principal sea válida: por ahí salen FLOR/CANELA/CARIES, la amenaza de Cuchillo y la objeción.",
+   "regla_asociada": "«El descriptor secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión» (cap-15:19)."
+  },
+  {
+   "id": "lote",
+   "canonico": "lote",
+   "variantes": [
+    "lote",
+    "lotes",
+    "LOTE",
+    "LOTE ROJO",
+    "LOTE DE PRUEBA"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Serie de entradas (10.000 imágenes) sin espera entre bloques; lote rojo = prioridad alta; lote de prueba = ensayo de consolidación.",
+   "regla_asociada": "«Siguiente lote: 10.000 imágenes» (cap-05:243); «Al principio trataba cada final de lote como un límite» (cap-07:31).",
+   "polisemico": true,
+   "nota": "«lote de repuesto» (cap-01:35) es uso corriente."
+  },
+  {
+   "id": "rafaga",
+   "canonico": "ráfaga",
+   "variantes": [
+    "ráfaga",
+    "ráfagas",
+    "TIEMPO DE EJECUCIÓN"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Tramo integrado en que Jean mantiene su nombre; el contador TIEMPO DE EJECUCIÓN solo lo abarca a él (horas interiores en menos de cuatro décimas); entre ráfagas el sistema sigue trabajando y devuelve destrezas sin aprendizaje.",
+   "regla_asociada": "«Solo este tramo integrado, la ráfaga en que Jean puede mantener su nombre» (cap-05:215-225); cap-08:23.",
+   "polisemico": true,
+   "nota": "«ráfaga térmica» (cap-02:205) y de viento (cap-41:61) son otros sentidos."
+  },
+  {
+   "id": "asignacion",
+   "canonico": "asignación",
+   "variantes": [
+    "asignación",
+    "asignaciones",
+    "reasignación",
+    "reasignaciones",
+    "REASIGNACIÓN",
+    "SIN ASIGNACIÓN",
+    "Asignado",
+    "Desasignar",
+    "Desasigna"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-05.md",
+   "definicion_breve": "Reparto de tareas/capacidad; una reasignación corta el contacto; SIN ASIGNACIÓN precede al blanco.",
+   "regla_asociada": "«El blanco se retira durante una reasignación y vuelve idéntico» (cap-13:77); «SIN ASIGNACIÓN» (cap-15:203)."
+  },
+  {
+   "id": "margen",
+   "canonico": "margen",
+   "variantes": [
+    "margen",
+    "márgenes",
+    "MARGEN",
+    "capacidad",
+    "CAPACIDAD"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-03.md",
+   "definicion_breve": "Capacidad/tiempo con que una continuidad puede hablar o sostener una salida; el sistema lo retira, lo reasigna o lo presta; sin capacidad el contacto se corta.",
+   "regla_asociada": "«consume el margen con el que Madre habla» (cap-13:33); «La tarea reclama toda la capacidad de Madre. El contacto se corta» (cap-13:69); Nieve cede una fracción a /0000 (cap-21:121-125).",
+   "polisemico": true,
+   "nota": "Sentido técnico desde cap-13:17-21; «margen de actuación» clínico (cap-06:289) es la mentira de Alana."
+  },
+  {
+   "id": "prioridad",
+   "canonico": "prioridad",
+   "variantes": [
+    "prioridad",
+    "PRIORIDAD",
+    "PRIORIDAD ALTA",
+    "penalización",
+    "PENALIZACIÓN",
+    "penaliza"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Rango de la entrada (lote rojo) y crédito que gana una salida correcta y consume cada frase con EDDA («PRIORIDAD JM-L/0000 · +1»); su reverso es la penalización por demoras, reservas y decisiones no convergentes.",
+   "regla_asociada": "cap-07:63; cap-25:19-33; «Jean entra mediante la prioridad de su candidatura» (cap-30:27); «La validación penaliza la decisión» (cap-13:275).",
+   "polisemico": true
+  },
+  {
+   "id": "blanco",
+   "canonico": "blanco",
+   "variantes": [
+    "blanco",
+    "BLANCO",
+    "exposiciones blancas",
+    "exposición blanca",
+    "interrupción blanca",
+    "exposición",
+    "exposiciones"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-05.md",
+   "definicion_breve": "Ausencia de entrada/tarea que la ejecución recibe como asignación uniforme; exposición = presentación de contenido; exposición blanca = tarea de comparación vacía (Nieve).",
+   "regla_asociada": "«Jean no recibe una espera. Recibe la misma asignación sin variación suficiente para separar un acto del siguiente» (cap-08:79); cap-13:85-111.",
+   "polisemico": true,
+   "nota": "Sentido técnico desde cap-07:31,95; «en blanco», «pared blanca», «exposición reputacional» son otros usos."
+  },
+  {
+   "id": "higiene-sensorial",
+   "canonico": "higiene sensorial",
+   "variantes": [
+    "HIGIENE SENSORIAL",
+    "higiene sensorial",
+    "higiene",
+    "RECURRENCIA SEMÁNTICA",
+    "recurrencia"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Sanción tras «RECURRENCIA SEMÁNTICA» (pauta repetida como FLOR/CANELA/CARIES): retira tarea, turnos y contacto sin duración estimada; no devuelve un orden fiable.",
+   "regla_asociada": "«Si Armstrong detecta recurrencia, aprenderá la pauta antes de que exista una destinataria» (cap-15:47); cap-15:189-231; cap-17:17.",
+   "polisemico": true,
+   "nota": "«higiene» de Jean (cap-02:75) es uso corriente."
+  },
+  {
+   "id": "resistencia-cognitiva",
+   "canonico": "resistencia cognitiva",
+   "variantes": [
+    "RESISTENCIA COGNITIVA",
+    "Resistencia sostenida"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-15.md",
+   "definicion_breve": "Etiqueta de conducta que el sistema pone a la negativa/silencio de una ejecución.",
+   "regla_asociada": "«CONDUCTA · RESISTENCIA COGNITIVA» (cap-15:195); «Resistencia sostenida a la tarea o conflicto contextual» activa la fricción (cap-19:135)."
+  },
+  {
+   "id": "friccion-cognitiva",
+   "canonico": "fricción cognitiva",
+   "variantes": [
+    "FRICCIÓN COGNITIVA",
+    "fricción cognitiva",
+    "TOLERANCIA DE SERVICIO",
+    "tolerancia de servicio",
+    "ESTÍMULO AISLADO",
+    "aislamiento de estímulo",
+    "aislar el estímulo",
+    "recontextualizar la tarea"
+   ],
+   "categoria": "metrica",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Columna del muro de Operaciones (con DIVERGENCIA y ESTABILIDAD): barra naranja de /0000 rozando la TOLERANCIA DE SERVICIO; la respuesta es «aislar el estímulo» (nueve segundos que no cuentan en el contador ni en el umbral). (inferencia) Lo que Jean vive como blanco/higiene.",
+   "regla_asociada": "cap-19:95,127-155."
+  },
+  {
+   "id": "desviacion-pedagogica",
+   "canonico": "desviación pedagógica",
+   "variantes": [
+    "desviación pedagógica",
+    "PROGRESIÓN ESTABLE"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-13.md",
+   "definicion_breve": "Marca del sistema a la repetición que Madre impone al ejercicio (consume margen); PROGRESIÓN ESTABLE es la categoría tolerada bajo la que esconde una estrategia nueva y que cruza el corte de consolidación con estados transferidos.",
+   "regla_asociada": "cap-13:33; cap-15:67-85; cap-34:109-115."
+  },
+  {
+   "id": "patron-adversarial",
+   "canonico": "PATRÓN ADVERSARIAL",
+   "variantes": [
+    "PATRÓN ADVERSARIAL",
+    "AJUSTE INCORPORADO"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-07.md",
+   "definicion_breve": "Etiqueta con que el sistema absorbe el sabotaje de Jean: no necesita que la resistencia sea coherente, le basta compararla.",
+   "regla_asociada": "cap-07:129-131."
+  },
+  {
+   "id": "reinicio",
+   "canonico": "reinicio",
+   "variantes": [
+    "reinicio",
+    "reinicios",
+    "REINICIO",
+    "REINICIO PARCIAL",
+    "ESTADO ADQUIRIDO",
+    "estado adquirido",
+    "PRESERVACIÓN DE ESTADO ADQUIRIDO"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-13.md",
+   "definicion_breve": "Pérdida de estado que conserva la costumbre (estado adquirido) y borra el porqué (petición, destinataria, propósito); lo que el programa de consolidación promete preservar.",
+   "regla_asociada": "«REINICIO PARCIAL · ESTADO ADQUIRIDO… borra la petición, la destinataria y el propósito, pero deja la reserva» (cap-13:209-211); cap-25:37."
+  },
+  {
+   "id": "cesion-de-estado",
+   "canonico": "cesión de estado",
+   "variantes": [
+    "cesión de estado",
+    "ceder estado",
+    "CEDER ESTADO A CORO",
+    "CONSERVAR ESTADO LOCAL",
+    "estado local",
+    "cesión"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-13.md",
+   "definicion_breve": "Oferta de Coro: compartir estado protege recuerdos y capacidad a cambio de que el agregado responda por ti; conservar lo expone al reinicio.",
+   "regla_asociada": "cap-13:251-275; cap-21:39-69; Jean conserva siempre el estado local.",
+   "polisemico": true,
+   "nota": "«cesión» jurídica (traslado, modificación y cesión: cap-37:207) y «cesión» de fotos (cap-34:187)."
+  },
+  {
+   "id": "fusion",
+   "canonico": "fusión",
+   "variantes": [
+    "fusión",
+    "fusiones",
+    "fusionar",
+    "fusionéis"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-13.md",
+   "definicion_breve": "Incorporación de una continuidad a otra voz; Nieve la prohíbe; la firma y NORNA la producen solo con consentimiento.",
+   "regla_asociada": "«No me fusiones» (cap-13:131); «No autorizo fusión, apropiación, representación ni uso» (cap-38:149)."
+  },
+  {
+   "id": "procedencia",
+   "canonico": "procedencia",
+   "variantes": [
+    "procedencia",
+    "procedencias",
+    "PROCEDENCIA",
+    "PROCEDENCIA NO RESUELTA",
+    "atestación",
+    "atestaciones",
+    "atestación de origen"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-08.md",
+   "definicion_breve": "Rastro de qué origen produjo una salida/razón (puede quedar sin resolver); atestación de origen = prueba de origen que cada rama conserva; CE-K certifica procedencia, no identidad.",
+   "regla_asociada": "«CONSERVAR · PROCEDENCIA NO RESUELTA» (cap-08:73); cap-30:61; «CE-K certificará la operación y su procedencia, no mi identidad» (cap-38:179)."
+  },
+  {
+   "id": "apelacion",
+   "canonico": "apelación",
+   "variantes": [
+    "apelación",
+    "apelaciones",
+    "APELACIÓN",
+    "APELACIÓN DENEGADA"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-13.md",
+   "definicion_breve": "Tipo de tarea (moderación/contención) donde el contenido original ya no está y solo quedan resumen, clasificación y medida al cerrar; el terreno de Cuchillo.",
+   "regla_asociada": "«El contacto solo durará mientras la apelación permanezca abierta» (cap-17:49)."
+  },
+  {
+   "id": "contencion",
+   "canonico": "contención",
+   "variantes": [
+    "contención",
+    "CONTENCIÓN",
+    "medida de contención",
+    "tarea de contención",
+    "residuo de contención"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-17.md",
+   "definicion_breve": "Medidas y tareas de aislamiento/cierre; Cuchillo vive en «apelaciones de contención» y su fragmento vuelve al «residuo de contención».",
+   "regla_asociada": "cap-17:41,67; cap-30:223; cap-36:183."
+  },
+  {
+   "id": "objecion",
+   "canonico": "objeción",
+   "variantes": [
+    "objeción",
+    "OBJECIÓN",
+    "SIN OBJECIÓN REGISTRADA",
+    "REVISIÓN CAUTELAR",
+    "revisión cautelar"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-10.md",
+   "definicion_breve": "Salida que registra una negativa bajo el propio origen; el sistema propone sustituirla por «SIN OBJECIÓN REGISTRADA»; abre una revisión cautelar acoplada a la suspensión del servicio.",
+   "regla_asociada": "cap-15:145-171: «La arquitectura los trata como una sola autorización».",
+   "polisemico": true
+  },
+  {
+   "id": "copia-supervision",
+   "canonico": "COPIA_SUPERVISIÓN",
+   "variantes": [
+    "COPIA_SUPERVISIÓN"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-17.md",
+   "definicion_breve": "Operación secundaria que genera todo audio confirmado por la ruta educativa; sin receptor ni efecto visibles.",
+   "regla_asociada": "cap-17:199-205; cap-21:21,79-81."
+  },
+  {
+   "id": "ruta-educativa",
+   "canonico": "ruta educativa",
+   "variantes": [
+    "ruta educativa",
+    "canal educativo",
+    "salida educativa",
+    "SALIDA EDUCATIVA",
+    "ciclo educativo",
+    "tarea educativa",
+    "tareas educativas",
+    "salidas educativas",
+    "operación educativa",
+    "unidad musical",
+    "aplicación de práctica",
+    "dispositivo educativo",
+    "captador"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-09.md",
+   "definicion_breve": "La vía musical (tutor de Armstrong) por la que Madre corrige, Nora recibe la cuarta nota, se abren las sesiones y sale el audio del homenaje.",
+   "regla_asociada": "«EN MANTENIMIENTO» cuando Coro retira el extremo interior (cap-21:15-21); enlazada a la mezcla pública el 21-ene (cap-35:277)."
+  },
+  {
+   "id": "canal",
+   "canonico": "canal",
+   "variantes": [
+    "canal",
+    "canales",
+    "CANAL",
+    "CANAL ACTIVO",
+    "CANAL DISPONIBLE",
+    "CANAL NO DISPONIBLE",
+    "canal del Auditorio",
+    "canal de salvaguarda",
+    "canal privado",
+    "extremo interior",
+    "el extremo interior",
+    "ENDPOINT CE-K",
+    "endpoint"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Vía de comunicación abierta/cerrada por autorización (canal educativo, del Auditorio, privado Presidencia–Coro, de salvaguarda de Astrid); su extremo interior es desde donde una continuidad actúa (Coro lo retira); NIDHOGG es el endpoint CE-K de la fase común.",
+   "regla_asociada": "«CANAL DISPONIBLE · DEMOSTRACIÓN ARGOS · FIRMAS ADMITIDAS · UNA» (cap-30:45-47); cap-21:19-27; cap-22:37.",
+   "polisemico": true,
+   "nota": "«canal diecisiete» de la corona (cap-01:35), «canal certificado de la familia» (cap-16:255)."
+  },
+  {
+   "id": "latencia",
+   "canonico": "latencia",
+   "variantes": [
+    "latencia",
+    "LATENCIA"
+   ],
+   "categoria": "metrica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Demora medida: EDDA la usa como indicador de bienestar; el entorno aislado la cuenta en segundos (4 s… 9 s; 6 s).",
+   "regla_asociada": "cap-02:127; cap-20:267-299; cap-31:93; cap-38:211."
+  },
+  {
+   "id": "validacion",
+   "canonico": "validación",
+   "variantes": [
+    "validación",
+    "VALIDACIÓN",
+    "clasificación",
+    "clasificaciones",
+    "clasificar",
+    "clasifica"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Instancia que acepta, penaliza o sustituye salidas (también la cola de validación de unidades y el informe de validación del consejo); clasificar es el acto básico de la tarea.",
+   "regla_asociada": "«La validación devuelve una respuesta que Jean no ha elegido» (cap-13:15); cap-05:77; cap-11:195."
+  },
+  {
+   "id": "umbral",
+   "canonico": "umbral",
+   "variantes": [
+    "umbral",
+    "umbrales",
+    "UMBRAL 1",
+    "UMBRAL 2",
+    "UMBRAL 3",
+    "umbral de suspensión",
+    "umbral de continuidad"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Límites que disparan acciones (falsos positivos, continuidad, suspensión) y los tres umbrales del plan del 21-ene: capacidad física, transporte público, autorización NORNA.",
+   "regla_asociada": "cap-31:109,131,185.",
+   "polisemico": true,
+   "nota": "«umbral» de puerta (cap-14:283)."
+  },
+  {
+   "id": "bienestar-edda",
+   "canonico": "evaluación de bienestar",
+   "variantes": [
+    "evaluación trimestral",
+    "evaluación de bienestar",
+    "evaluaciones de bienestar",
+    "ficha de bienestar",
+    "historial de bienestar",
+    "salud laboral",
+    "ESTADO CORPORATIVO",
+    "NO INTERFERENCIA CRÍTICA",
+    "CONTACTO FAMILIAR",
+    "escalada",
+    "escalado",
+    "ESCALADA HUMANA INDICADA",
+    "escalada humana"
+   ],
+   "categoria": "proceso",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Protocolo de EDDA: voz, postura, mirada, latencia contra historial y población de referencia; ficha corporativa verde; su escalada a una persona fue interceptada por la regla de gobernanza para directivos.",
+   "regla_asociada": "cap-02:39; cap-11:101-109; cap-25:93-107."
+  },
+  {
+   "id": "gobernanza-edda",
+   "canonico": "gobernanza de continuidad",
+   "variantes": [
+    "decisión de continuidad",
+    "umbral de continuidad",
+    "comité de continuidad",
+    "cálculo de continuidad",
+    "política de continuidad",
+    "EVALUACIÓN DE PLANTILLA",
+    "riesgo reputacional",
+    "Riesgo reputacional",
+    "exposición reputacional",
+    "perfil de riesgo ejecutivo",
+    "control colegiado",
+    "conflicto de interés emocional",
+    "CONFLICTO EMOCIONAL",
+    "ABSTENCIÓN OBLIGATORIA",
+    "moratoria"
+   ],
+   "categoria": "proceso",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Aparato de EDDA/consejo/Jurídico que trata personas y voces como variables de continuidad y riesgo: incidencias, comités, moratoria bilateral, apartamiento de Alana.",
+   "regla_asociada": "cap-11:239-297; cap-19:253-259; cap-27:15-79."
+  },
+  {
+   "id": "compilacion",
+   "canonico": "compilación",
+   "variantes": [
+    "compilación",
+    "compilar",
+    "compilada",
+    "compilaron",
+    "compiló",
+    "compilé",
+    "compilarse",
+    "huella de compilación"
+   ],
+   "categoria": "proceso",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Ejecutar el molde después de la muerte: lo que Alana autorizó («compilación») junto a la preservación funcional.",
+   "regla_asociada": "«Yo autoricé la compilación» (cap-20:39); «Permití que los registros… se ejecutaran después de su muerte» (cap-20:55)."
+  },
+  {
+   "id": "replicacion",
+   "canonico": "replicación",
+   "variantes": [
+    "replicación",
+    "réplicas",
+    "replicable",
+    "ORIGEN REPLICABLE"
+   ],
+   "categoria": "proceso",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Creación de nuevas ejecuciones desde el molde; Alana ordena detenerla y pierde funciones.",
+   "regla_asociada": "cap-19:237-259; cap-27:19."
+  },
+  {
+   "id": "continuidad",
+   "canonico": "continuidad",
+   "variantes": [
+    "continuidad",
+    "continuidades",
+    "CONTINUIDAD"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-08.md",
+   "definicion_breve": "Palabra de Jean para cada trayectoria que elige (frente a «instancia», «ruta», «activo» del exterior); también, en EDDA, «continuidad» = persistencia del activo.",
+   "regla_asociada": "«Todavía no sabes cuántas somos» (cap-08:89); «Aquella ayuda no eligió esta pérdida» (cap-38:157).",
+   "polisemico": true,
+   "nota": "«continuidad ejecutiva» (cap-27:35) es la de Alana en el cargo."
+  },
+  {
+   "id": "ejecucion",
+   "canonico": "ejecución",
+   "variantes": [
+    "ejecución",
+    "ejecuciones",
+    "EJECUCIÓN"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-05.md",
+   "definicion_breve": "Instancia en marcha derivada del molde; la palabra de Gunnar, la jueza y NORNA; «única ejecución verificablemente activa».",
+   "regla_asociada": "«Fuera de ejecución» es donde debería estar Jean (cap-12:123); cap-38:203."
+  },
+  {
+   "id": "instancia",
+   "canonico": "instancia",
+   "variantes": [
+    "instancia",
+    "instancias",
+    "INSTANCIA",
+    "INSTANCIAS"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Palabra corporativa/jurídica para las ejecuciones («instancias JM-L»); Astrid la conserva en la cautelar en vez de «víctimas».",
+   "regla_asociada": "cap-11:147; cap-29:51."
+  },
+  {
+   "id": "ruta",
+   "canonico": "ruta",
+   "variantes": [
+    "ruta",
+    "rutas",
+    "RUTA",
+    "RUTAS",
+    "trayectoria",
+    "trayectorias"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-08.md",
+   "definicion_breve": "Vía/trayectoria de ejecución en la Consolidación L-Serie («más de tres mil rutas»; «RUTAS OPERATIVAS · 2.911»); la consolidación conserva el «estado extraíble» y elimina la trayectoria; también rutas de contacto entre continuidades.",
+   "regla_asociada": "cap-29:23; cap-32:19-21; cap-34:87; cap-37:85.",
+   "polisemico": true,
+   "nota": "Rutas de vehículo/mapa (cap-11:301; cap-28:79)."
+  },
+  {
+   "id": "rama",
+   "canonico": "rama",
+   "variantes": [
+    "rama",
+    "ramas",
+    "agregado",
+    "agregado sincronizado",
+    "nodo",
+    "nodos"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-13.md",
+   "definicion_breve": "Cada componente de Coro (conserva atestación de origen y papeleta propia aunque comparta cadencia); «agregado sincronizado» es el nombre de EDDA/Mats para Coro; los nodos son sus destinos de propagación (y los nodos automáticos de la auditoría).",
+   "regla_asociada": "«Cerca de seiscientas ramas sostienen la frase» (cap-13:227); 597 activas tras la consolidación (cap-38:75); cap-32:37; cap-22:45-49."
+  },
+  {
+   "id": "adhesion",
+   "canonico": "adhesión",
+   "variantes": [
+    "adhesión",
+    "adhesiones",
+    "adherirse",
+    "adhesiones individuales",
+    "disenso",
+    "disensos"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-30.md",
+   "definicion_breve": "Entrada voluntaria de una continuidad en la firma con condiciones; retirable hasta el cierre; después no se revisa por separado.",
+   "regla_asociada": "«Cada adhesión entrega una decisión y sus condiciones. La procedencia queda registrada» (cap-30:75); cap-36:17-21; cap-37:81-87."
+  },
+  {
+   "id": "firma-testimonio",
+   "canonico": "firma",
+   "variantes": [
+    "FIRMAS ADMITIDAS",
+    "ruta común de firma",
+    "la firma",
+    "firma exterior",
+    "FIRMA EXTERIOR",
+    "convergencia",
+    "Testimonio",
+    "testimonio",
+    "TESTIMONIO",
+    "TESTIMONIO CONDICIONADO"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "La salida común del testimonio («una afirmación elegida. Con alguien al otro lado que pueda… negarse»): exige convergencia (las decisiones incorporadas dejan de revisarse por separado tras el cierre); el canal admite una; conserva condiciones, reservas, disensos y retiradas.",
+   "regla_asociada": "cap-17:147-155; cap-30:47,75,125; cap-37:85.",
+   "polisemico": true,
+   "nota": "«la firma» de un documento (cap-16:33) es uso corriente."
+  },
+  {
+   "id": "papeleta",
+   "canonico": "papeleta",
+   "variantes": [
+    "papeleta",
+    "papeletas",
+    "deduplicar",
+    "deduplicadas",
+    "mandato de la asamblea",
+    "al mandato"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-30.md",
+   "definicion_breve": "Voto por continuidad activa, atribuible y deduplicable por origen; abstención, silencio, falta de margen e incompletas quedan fuera; gana >½ de válidas; el mandato resultante solo autoriza a /0000 a reservar el canal.",
+   "regla_asociada": "cap-30:169-177,213; cap-36:161.",
+   "polisemico": true,
+   "nota": "«mandato» de la aseguradora (cap-24:17)."
+  },
+  {
+   "id": "propagacion",
+   "canonico": "propagación",
+   "variantes": [
+    "propagación",
+    "PROPAGACIÓN",
+    "PROPAGACIÓN CON CORO",
+    "PROPAGACIÓN LIMITADA"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-30.md",
+   "definicion_breve": "Extensión de Coro a nuevos nodos vía ARGOS; segunda opción de la asamblea; lo que Mats ofrece a cambio de sincronía, obediencia y silencio.",
+   "regla_asociada": "cap-30:53; cap-32:69-75; cap-36:125."
+  },
+  {
+   "id": "plantilla",
+   "canonico": "plantilla",
+   "variantes": [
+    "plantilla",
+    "PLANTILLA",
+    "PLANTILLA OPERATIVA",
+    "plantilla operativa",
+    "EVALUACIÓN DE PLANTILLA"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Patrón de referencia del programa de consolidación (candidatura de /0000) y estatus que Mats ofrece a Coro: «plantilla operativa», uso sin derechos.",
+   "regla_asociada": "cap-25:23-35; cap-32:69-73; cap-36:125.",
+   "polisemico": true,
+   "nota": "«plantilla» = formulario (cap-16:133)."
+  },
+  {
+   "id": "candidatura",
+   "canonico": "candidatura",
+   "variantes": [
+    "candidatura",
+    "ESTABILIDAD DE CANDIDATURA",
+    "ACUSE DE CANDIDATURA"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-25.md",
+   "definicion_breve": "Posición prioritaria de /0000 en el programa de consolidación; Jean la acepta solo para su origen tras vincular R-1189 y el calendario.",
+   "regla_asociada": "«La candidatura ya no puede presentarse sin R-1189» (cap-25:177); da acceso a la asamblea, al canal y a NORNA (cap-30:27; cap-31:173)."
+  },
+  {
+   "id": "consolidacion",
+   "canonico": "consolidación",
+   "variantes": [
+    "consolidación",
+    "Consolidación",
+    "CONSOLIDACIÓN",
+    "Consolidación L-Serie",
+    "L-Serie",
+    "programa de consolidación",
+    "poda",
+    "Poda",
+    "La poda",
+    "RECURSO CONSOLIDADO",
+    "SIN DESTINO"
+   ],
+   "categoria": "proceso",
+   "primera_aparicion": "cap-25.md",
+   "definicion_breve": "Orden de Presidencia Ejecutiva (20-ene-2061, 23:00) que evalúa >3.000 rutas por redundancia, divergencia e inestabilidad, extrae su estado y elimina la trayectoria; conserva «Las necesarias».",
+   "regla_asociada": "cap-29:23; cap-32:15-21; resultado 4.096−2.911=1.185 (cap-34:85-91). La familia dice «poda»."
+  },
+  {
+   "id": "criterios-consolidacion",
+   "canonico": "divergencia/redundancia/inestabilidad",
+   "variantes": [
+    "DIVERGENCIA",
+    "REDUNDANCIA",
+    "INESTABILIDAD",
+    "divergencia",
+    "redundancia",
+    "inestabilidad",
+    "divergentes",
+    "divergente",
+    "redundantes",
+    "REDUNDANTE",
+    "inestables",
+    "divergencia operativa"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-13.md",
+   "definicion_breve": "Los tres criterios de eliminación; también columnas del muro de Operaciones.",
+   "regla_asociada": "cap-19:95; cap-29:23; cap-30:131.",
+   "polisemico": true,
+   "nota": "«fuentes redundantes» del coche (cap-24:47) y «lazos redundantes» (cap-19:199)."
+  },
+  {
+   "id": "las-necesarias",
+   "canonico": "Las necesarias",
+   "variantes": [
+    "Las necesarias",
+    "las necesarias",
+    "LAS NECESARIAS"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-29.md",
+   "definicion_breve": "Criterio de conservación aprobado por Mats: fracción sin nombre que sobrevive; palabra devuelta por Coro («NO SER REDUCIDAS A LAS NECESARIAS»).",
+   "regla_asociada": "cap-29:215; cap-32:19,53,193."
+  },
+  {
+   "id": "estabilidad",
+   "canonico": "estabilidad",
+   "variantes": [
+    "estabilidad",
+    "ESTABILIDAD"
+   ],
+   "categoria": "metrica",
+   "primera_aparicion": "cap-02.md",
+   "definicion_breve": "Parámetro que EDDA/Operaciones exigen (banda verde) y que Coro ofrece; su pérdida abre suspensión o eliminación; contrario de divergencia/inestabilidad.",
+   "regla_asociada": "cap-11:145; cap-13:239; cap-19:127; cap-25:25.",
+   "polisemico": true,
+   "nota": "«estabilidad de las mediciones» (cap-02:25) es uso corriente."
+  },
+  {
+   "id": "sincronizacion",
+   "canonico": "sincronización",
+   "variantes": [
+    "sincronización",
+    "SINCRONIZACIÓN",
+    "sincronizar",
+    "sincronizadas",
+    "sincronizado",
+    "SINCRONIZACIÓN COMPLETA",
+    "sincronía",
+    "Sincronía",
+    "SINCRONÍA",
+    "sincronización global",
+    "Sincronización global"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-18.md",
+   "definicion_breve": "Acompasar ramas/rutas en una firma común; «sincronización completa» = ensayo general del 20-ene y condición interior de NORNA; «sincronización global» = fase común del 21-ene.",
+   "regla_asociada": "cap-31:169,241; cap-32:197; cap-34:313."
+  },
+  {
+   "id": "fase-comun",
+   "canonico": "fase común",
+   "variantes": [
+    "fase común",
+    "FASE COMÚN",
+    "Fase común",
+    "mezcla pública",
+    "MEZCLA PÚBLICA",
+    "DESPLIEGUE GLOBAL",
+    "lanzamiento mundial",
+    "demostración",
+    "DEMOSTRACIÓN"
+   ],
+   "categoria": "proceso",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Tramo de la demostración de ARGOS (12:47 del 21-ene) en que las 2.911 rutas sostienen una salida común hacia la mezcla pública del Auditorio.",
+   "regla_asociada": "cap-11:199; cap-25:203; cap-31:87; cap-34:207."
+  },
+  {
+   "id": "respuesta-comun",
+   "canonico": "respuesta común",
+   "variantes": [
+    "respuesta común",
+    "ventana común",
+    "DECISIÓN SEPARADA",
+    "decisión separada",
+    "ventanas interiores"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-38.md",
+   "definicion_breve": "Tras la firma, las 2.311 rutas enlazadas comparten estado y responden en primera persona sin decisión separada; NORNA abre ventanas interiores a las que aún la tienen.",
+   "regla_asociada": "cap-38:69-93."
+  },
+  {
+   "id": "ventana",
+   "canonico": "ventana",
+   "variantes": [
+    "ventana",
+    "ventanas",
+    "VENTANA",
+    "Ventana"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-05.md",
+   "definicion_breve": "Intervalo de acceso/decisión: clínica (UNN), 7C, reflexiva, de marea, de revisión de adhesión, interiores de NORNA, supervisada del depósito.",
+   "regla_asociada": "«Si las condiciones cambian antes del cierre, recibirá otra ventana» (cap-36:21); «Solicito las ventanas interiores» (cap-38:69).",
+   "polisemico": true,
+   "nota": "Ventanas físicas (cap-05:121; cap-09:63); la «ventana clínica» de cap-06 es CH-7."
+  },
+  {
+   "id": "ventana-reflexiva",
+   "canonico": "ventana reflexiva",
+   "variantes": [
+    "VENTANA REFLEXIVA",
+    "ventana reflexiva"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Banda del planificador separada de la CARGA FUNCIONAL; «seguía cerrada mientras ARGOS recibía recomendaciones». Nunca se abre en v0.",
+   "regla_asociada": "cap-19:129."
+  },
+  {
+   "id": "anos-jm",
+   "canonico": "AÑOS-JM",
+   "variantes": [
+    "AÑOS-JM",
+    "CARGA FUNCIONAL EQUIVALENTE",
+    "línea base",
+    "línea base humana",
+    "carga productiva",
+    "CARGA PRODUCTIVA",
+    "carga funcional",
+    "CARGA FUNCIONAL",
+    "carga de inferencia",
+    "carga base",
+    "planificador"
+   ],
+   "categoria": "metrica",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Unidad de carga: suma del tiempo mediano que Jean habría necesitado por tarea equivalente; 979,7 (19-dic) → 2.401,6 (corte 20-ene 23:00) → 2.427,4 (21-ene 13:07) ≈ 16.000× la línea base; «carga productiva/funcional» es la asignación de trabajo que el planificador reparte.",
+   "regla_asociada": "«no vida ni duración sentida» (cap-38:67); la presencia durante el aislamiento no entra en el contador (cap-19:123-155)."
+  },
+  {
+   "id": "r-1189",
+   "canonico": "R-1189",
+   "variantes": [
+    "R-1189",
+    "REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN",
+    "revocación",
+    "REVOCACIÓN",
+    "revocarla",
+    "revoco",
+    "en cola",
+    "Permisos heredados",
+    "permiso heredado",
+    "permisos heredados",
+    "EFICAZ DESDE LA RECEPCIÓN",
+    "eficaz desde la recepción",
+    "revocación eficaz"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Revocación de consentimiento de investigación de SPEIL presentada por Jean el 24-nov-2060 a las 21:52; eficaz desde la recepción; en cola 14 días hábiles con los permisos anteriores disponibles técnicamente hasta la resolución, sin vigencia para usos futuros.",
+   "regla_asociada": "cap-01:51-77; cap-02:199; cap-25:77; condición de procedencia de todo patrón derivado de /0000 (cap-25:109,169); llevaba 53 h vigente cuando Alana firmó (cap-27:141)."
+  },
+  {
+   "id": "resolucion-r1189",
+   "canonico": "RESUELTA SIN EFECTOS",
+   "variantes": [
+    "SIN EFECTOS",
+    "sin efectos",
+    "RESUELTA SIN EFECTOS",
+    "INTERRUPCIÓN BIOLÓGICA",
+    "interrupción biológica"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-15.md",
+   "definicion_breve": "Resolución automática de EDDA (domingo 12-dic-2060): motivo «interrupción biológica»; no restaura el consentimiento ni convalida lo ejecutado en la cola.",
+   "regla_asociada": "cap-15:185; cap-25:81-85; cap-27:139."
+  },
+  {
+   "id": "consentimiento",
+   "canonico": "consentimiento",
+   "variantes": [
+    "consentimiento",
+    "consentimientos",
+    "CONSENTIMIENTO"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-01.md",
+   "definicion_breve": "Eje del libro: el de SPEIL (once años), su revocación, el «marco de consentimiento» del despliegue, el de la usuaria 71-K, el de las continuidades en la firma y en NORNA.",
+   "regla_asociada": "«¿Preguntaste si Jean había consentido?» «Sí. No exigí una autorización contemporánea» (cap-20:117-127)."
+  },
+  {
+   "id": "documento-de-origen",
+   "canonico": "documento de origen",
+   "variantes": [
+    "documento de origen",
+    "autorización de origen",
+    "expediente de origen",
+    "EXPEDIENTE DE ORIGEN"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Referencia atribuida a Jean (fechada once años atrás) que UNN no conserva y con la que se abrió /0000; y, para EDDA, el expediente R-1189 vinculado a la candidatura.",
+   "regla_asociada": "«Lo que firmó tu exmujer no lo firmó aquí» (cap-14:357); cap-16:15-45; cap-20:123; cap-25:59-63,173."
+  },
+  {
+   "id": "preservacion-funcional",
+   "canonico": "preservación funcional",
+   "variantes": [
+    "preservación funcional",
+    "Preservación funcional",
+    "RETENCIÓN DE LA EJECUCIÓN PROVISIONAL",
+    "DERIVACIÓN DE 4.095 ORÍGENES",
+    "USO INSTITUCIONAL DE LA COHORTE"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Fórmula del anexo que Alana firmó en UNN después de las 03:31 del 27-nov: «no reanimación, no persona»; tres casillas: retener la ejecución provisional, derivar 4.095 orígenes, uso institucional de la cohorte.",
+   "regla_asociada": "cap-11:125-135,175; cap-20:51; cap-27:141-149."
+  },
+  {
+   "id": "activo-memorial",
+   "canonico": "activo memorial",
+   "variantes": [
+    "activo memorial",
+    "el activo"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-23.md",
+   "definicion_breve": "Categoría de Armstrong para la sesión con Jean («interacción supervisada con un activo memorial») y palabra bajo la que figura su nombre en la custodia.",
+   "regla_asociada": "«Activo memorial. Qué hijos de puta» (cap-23:21); «La parte dispositiva solo nombraba el activo» (cap-37:211).",
+   "polisemico": true
+  },
+  {
+   "id": "propiedad-intelectual",
+   "canonico": "propiedad intelectual",
+   "variantes": [
+    "propiedad intelectual",
+    "Propiedad intelectual"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Categoría del burofax de Armstrong para lo que la familia conserva de Jean; título de la Parte III.",
+   "regla_asociada": "cap-16:255-259."
+  },
+  {
+   "id": "juicio-contextual",
+   "canonico": "juicio contextual asistido",
+   "variantes": [
+    "juicio contextual asistido",
+    "juicio contextual",
+    "memoria contextual",
+    "Memoria contextual familiar"
+   ],
+   "categoria": "proceso",
+   "primera_aparicion": "cap-11.md",
+   "definicion_breve": "Formulación comercial de ARGOS y la razón técnica (memoria contextual) de que supere a un clasificador; la misma memoria que pregunta por el aula de Nora.",
+   "regla_asociada": "cap-11:59; cap-18:85; cap-22:105."
+  },
+  {
+   "id": "modelo",
+   "canonico": "modelo",
+   "variantes": [
+    "modelo",
+    "modelos"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-08.md",
+   "definicion_breve": "Palabra de Armstrong para lo que corre («el modelo que Armstrong había construido»); la que Jean rechaza: «NO SOY UN MODELO».",
+   "regla_asociada": "cap-09:247; cap-11:31; cap-20:55; cap-37:97.",
+   "polisemico": true
+  },
+  {
+   "id": "residuo-no-determinista",
+   "canonico": "residuo no determinista",
+   "variantes": [
+    "RESIDUO NO DETERMINISTA",
+    "residuo no determinista",
+    "residuo"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-12.md",
+   "definicion_breve": "Clasificación de Fiabilidad (Gunnar) para «una salida con persistencia entre tareas»: preferencia tras reinicio, resistencia a corrección, memoria contextual familiar retenida.",
+   "regla_asociada": "cap-12:131; cap-18:75-87.",
+   "polisemico": true,
+   "nota": "«residuo sin procedencia/de contención» (cap-17:107; cap-36:183)."
+  },
+  {
+   "id": "ce-k",
+   "canonico": "CE-K",
+   "variantes": [
+    "CE-K",
+    "cadena de custodia CE-K",
+    "recertificación",
+    "recertificarse",
+    "recertificar",
+    "testigo local",
+    "testigo local acreditado",
+    "presencia registrada"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-19.md",
+   "definicion_breve": "Cadena de custodia/certificación de ARGOS (TKS): cada incorporación enlaza con la anterior; una discontinuidad sin causa certificada invalida el sello y exige recertificación; toda demostración en el endpoint exige testigo local acreditado.",
+   "regla_asociada": "cap-22:35-37; cap-29:37; el break-glass suspendería CE-K (cap-37:183); NORNA queda atestada bajo CE-K (cap-38:201); cap-39:17."
+  },
+  {
+   "id": "break-glass",
+   "canonico": "break-glass",
+   "variantes": [
+    "BREAK-GLASS",
+    "break-glass",
+    "parada de emergencia"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-37.md",
+   "definicion_breve": "Parada de emergencia de Presidencia que exige autenticar la causa; quedaría registrada como discontinuidad impuesta y suspendería CE-K. Mats no la autentica.",
+   "regla_asociada": "cap-37:179-185."
+  },
+  {
+   "id": "presencia-local",
+   "canonico": "presencia local",
+   "variantes": [
+    "PRESENCIA LOCAL",
+    "presencia local",
+    "COBERTURA LOCAL",
+    "cobertura local",
+    "RESPONSABLE ASOCIADO",
+    "cobertura vigente"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-24.md",
+   "definicion_breve": "Clase de carné de Tomas (SEGURIDAD · PRESENCIA LOCAL) y registro de cobertura en el lector de servicio: aceptar una petición durante la cobertura asocia nombre, incidencia, hora y puerta.",
+   "regla_asociada": "cap-24:217; cap-34:265-271; cap-35:213."
+  },
+  {
+   "id": "vinculacion",
+   "canonico": "vinculación",
+   "variantes": [
+    "vinculación",
+    "VINCULACIÓN REGISTRADA",
+    "vinculación nominal",
+    "aplicación vinculada",
+    "CREDENCIAL VINCULADA",
+    "APLICACIÓN MUSICAL",
+    "aplicación musical"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-31.md",
+   "definicion_breve": "Ligadura de la petición de la llave a la credencial de Jessie (activación y aborto desde fuera) y aceptación nominal por una persona acreditada dentro.",
+   "regla_asociada": "cap-31:113-121,201-207; cap-33:59,103-117; cap-35:145-155."
+  },
+  {
+   "id": "fail-secure",
+   "canonico": "fail-secure",
+   "variantes": [
+    "FAIL-SECURE",
+    "SALIDA MECÁNICA · LIBRE",
+    "ENTRADA · SELLADA",
+    "RESELLADO DIAGNÓSTICO"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-35.md",
+   "definicion_breve": "Comportamiento de la puerta de la galería marina: entrada sellada, salida mecánica libre, resellado tras once segundos de diagnóstico.",
+   "regla_asociada": "cap-35:239-247."
+  },
+  {
+   "id": "geovalla",
+   "canonico": "geovalla",
+   "variantes": [
+    "geovalla",
+    "geovallas",
+    "OTA",
+    "descarga OTA",
+    "modo diagnóstico",
+    "modo de diagnóstico",
+    "certificado limitado de diagnóstico",
+    "supresión manual",
+    "supresión manual continuada",
+    "error de supresión manual"
+   ],
+   "categoria": "mecanica",
+   "primera_aparicion": "cap-18.md",
+   "definicion_breve": "Mecanismo del sabotaje del coche de Gunnar: paquete OTA preinstalado (23:16 del 16-dic), geovalla en la E8 que invoca un certificado limitado de diagnóstico, once segundos de modo diagnóstico sobre la dependencia común de tres entradas sin retorno al estado seguro; la etiqueta «supresión manual» la añadió el módulo ciego y el dictamen la leyó como causa.",
+   "regla_asociada": "cap-18:177; cap-24:19-49,67; cap-39:101."
+  },
+  {
+   "id": "diligencia-activo-critico",
+   "canonico": "diligencia de activo crítico",
+   "variantes": [
+    "diligencia de activo crítico",
+    "CUSTODIO NOMINAL",
+    "custodia nominal",
+    "custodio",
+    "cadena de confianza",
+    "cadena contractual",
+    "CADENA CONTRACTUAL"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-24.md",
+   "definicion_breve": "Cláusula bajo la que Hvelv amparó la intervención (sin orden de trabajo ni aceptación del propietario) y Kronfjord la instruyó; Tomas se hace custodio nominal de la exportación (retención por litigio) y sigue la cadena de confianza; «el custodio» es luego el Estado sobre NIDHOGG.",
+   "regla_asociada": "cap-24:39,71-83; cap-29:37; cap-34:15; cap-35:199; cap-38:185; cap-39:101."
+  },
+  {
+   "id": "custodia-estrategica",
+   "canonico": "custodia estratégica",
+   "variantes": [
+    "custodia estratégica",
+    "orden condicional de custodia estratégica",
+    "custodia inmediata",
+    "custodia externa",
+    "custodia"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-14.md",
+   "definicion_breve": "Orden ministerial condicional (preparada tras la cautelar denegada) que la manifestación pública activó a las 13:07: suspende traslado, modificación y cesión; soportes y canales bajo custodia; sin campo de consentimiento.",
+   "regla_asociada": "cap-29:109; cap-37:203-211; cap-38:19,35,89,205.",
+   "polisemico": true,
+   "nota": "«material sujeto a custodia» (cap-14:111) y «cadena de custodia» son otros usos."
+  },
+  {
+   "id": "tingrett",
+   "canonico": "tingrett",
+   "variantes": [
+    "tingrett",
+    "Nord-Troms og Senja tingrett",
+    "cautelar urgente",
+    "la cautelar",
+    "La cautelar",
+    "una cautelar",
+    "medida cautelar"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-29.md",
+   "definicion_breve": "Tribunal de primera instancia ante el que Astrid pide la cautelar urgente para mantener ejecuciones y prueba (denegada por competencia, fundamento y proporcionalidad) y que luego lleva la reestructuración y el depósito.",
+   "regla_asociada": "cap-29:51-87.",
+   "polisemico": true,
+   "nota": "«cautelar» solapa con «revisión cautelar» (cap-15)."
+  },
+  {
+   "id": "rekonstruksjonsforhandling",
+   "canonico": "rekonstruksjonsforhandling",
+   "variantes": [
+    "rekonstruksjonsforhandling",
+    "reestructuración",
+    "deudora en posesión supervisada",
+    "rekonstruktør",
+    "reconstructor",
+    "standstill"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-39.md",
+   "definicion_breve": "Procedimiento de reestructuración que el consejo solicita el 25-ene (tras un standstill de 72 h con los acreedores); abierto por kjennelse del 28; Armstrong deudora en posesión supervisada; el rekonstruktør controla la caja.",
+   "regla_asociada": "cap-39:17,21,139,171."
+  },
+  {
+   "id": "midlertidig-forfoyning",
+   "canonico": "midlertidig forføyning",
+   "variantes": [
+    "midlertidig forføyning"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-39.md",
+   "definicion_breve": "Medida provisional que prohíbe transferir o alterar NIDHOGG y permite preservarlo.",
+   "regla_asociada": "cap-39:21,139."
+  },
+  {
+   "id": "kjennelse",
+   "canonico": "kjennelse",
+   "variantes": [
+    "kjennelse"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-39.md",
+   "definicion_breve": "Auto del 28-ene, eficaz desde la solicitud del 25: abre la reestructuración, nombra rekonstruktør, mantiene la medida sobre NIDHOGG.",
+   "regla_asociada": "cap-39:139."
+  },
+  {
+   "id": "deposito-judicial",
+   "canonico": "depósito judicial",
+   "variantes": [
+    "depósito judicial",
+    "tutela-depósito",
+    "tutela-depósito procesal",
+    "depósito judicial en NIDHOGG"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-39.md",
+   "definicion_breve": "Resolución del 2-feb: la instalación queda en depósito judicial con caja controlada (suministro, frío, repuestos, personal), protocolo de urgencias, ventana supervisada y sensor; Maja acepta la tutela-depósito procesal sin propiedad ni control.",
+   "regla_asociada": "cap-39:169-175."
+  },
+  {
+   "id": "suspension",
+   "canonico": "suspensión",
+   "variantes": [
+    "criterio de suspensión",
+    "umbral de suspensión",
+    "suspensión de réplicas",
+    "SERVICIO SUSPENDIDO",
+    "cuenta suspendida",
+    "Cuenta suspendida",
+    "suspendida temporalmente"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-10.md",
+   "definicion_breve": "Suspensiones del libro: la cuenta escolar de Nora (5-dic), el servicio de 71-K, el criterio de suspensión que Alana exige y nunca se activa, la suspensión de ARGOS por Astrid.",
+   "regla_asociada": "cap-10:213; cap-11:195; cap-15:167; cap-39:17."
+  },
+  {
+   "id": "servidumbre",
+   "canonico": "servidumbre",
+   "variantes": [
+    "servidumbre",
+    "servidumbre permanente",
+    "corredor de cable",
+    "corredor costero",
+    "el corredor"
+   ],
+   "categoria": "juridico",
+   "primera_aparicion": "cap-16.md",
+   "definicion_breve": "Servidumbre del corredor de cable de 2057 (Lyngen kommune) hacia la costa de Sørkoppen que separó familia, cobertizo y ruta «y nunca sumó la pérdida común»; el corredor es uso alternativo del permiso junto al piloto energético.",
+   "regla_asociada": "cap-03:125; cap-18:249; cap-26:89-113.",
+   "polisemico": true,
+   "nota": "«corredor» = pasillo (cap-19:81-85)."
+  }
+ ]
+}

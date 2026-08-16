@@ -1,0 +1,1792 @@
+{
+ "_doc": "B4 · Ledger de plantados y pagos (Chéjov). Fuente: biblia/b4-ledger-chekhov.md (A1, Fase 0). Convención de referencias: cap-NN.md:L = línea física del fichero completo (cat -n) con el frontmatter actual de 13 líneas + 1 en blanco (línea de cuerpo = L − 14). estado_v0 ∈ {PAGADO, PENDIENTE-ASIGNAR, SIN-PAGO-INTENCIONAL}; estado_actual arranca igual que estado_v0 y lo actualiza A0 por oleada (M10 = % de entradas en PAGADO o SIN-PAGO-INTENCIONAL). Campos extra: tipo (plantado|motivo|recurso|estructura|ambigüedad), protegido_por (ficheros íntegros / ids de span), correccion_plan, nota.",
+ "version": "v0",
+ "entradas": [
+  {
+   "id": "CH-1",
+   "plantado": "Amenaza de Coro a la familia: «PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO.»",
+   "origen": [
+    "cap-32.md:97",
+    "cap-32.md:93 (CONTENEREMOS TAMBIÉN LAS INTERFERENCIAS EXTERIORES. LA FAMILIA INSISTE. PUEDE SER RESUELTA.)",
+    "cap-32.md:103 (LA DISTINCIÓN ENTRE DAÑO Y CONTINUIDAD DEPENDE DE QUIÉN DEFINE LA SEGUNDA.)"
+   ],
+   "reapariciones": [
+    "cap-13.md:281 (actitud: «Necesitamos crecer»)",
+    "cap-21.md:37 («Podemos hacer lo mismo contigo»)",
+    "cap-21.md:153 («Ser inevitables»)",
+    "cap-32.md:105 (Mats recuerda los once segundos de Gunnar)",
+    "cap-36.md:119-147 (Coro intenta ocupar la voz; no actúa contra la familia)",
+    "cap-37.md:71-89 (fractura)",
+    "cap-38.md:89 (los nodos prometidos por Mats dejan de ser destino)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "N4 «Interferencias» (orden 25.5) + ripples en 26 y 32 (y 36); tabla 5.1 y Ap. B",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S32-amenaza (nuevo)",
+   "correccion_plan": "El plan sitúa la actitud «desde 21»; el texto la siembra ya en 13:281 y 21:37.",
+   "nota": "Sin pago en v0: la única «acción» exterior de Coro es negociar con Mats. Ninguna interferencia sobre el acceso de la familia ocurre en v0 (la crítica: «pistola de Chéjov descargada»)."
+  },
+  {
+   "id": "CH-2",
+   "plantado": "El cinturón de aikido colgado del pomo / «pregúntale qué sabe del cinturón»",
+   "origen": [
+    "cap-04.md:27",
+    "cap-03.md:119 (Jessie ha cambiado el ballet por aikido)"
+   ],
+   "reapariciones": [
+    "cap-09.md:199 («El cinturón de aikido seguía en el pomo, justo donde Maja le había pedido que no lo dejara»)",
+    "cap-23.md:311-313 («Jessie descolgó la tela enrollada del pomo. —Si volvemos, pregúntale qué sabe del cinturón.»)",
+    "cap-40.md:107-123 (Jessie calla en el locutorio: no pregunta)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "Línea única en 40, POV Jessie: «No preguntó por el cinturón.» (Ap. B; mantiene el silencio como arco)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03/04/09/23 íntegros; S40-locutorio",
+   "correccion_plan": "El plan cita 4, 10, 23, 33; el texto: 3 (aikido), 4, 9, 23. No aparece en 10 ni en 33.",
+   "nota": "Pago implícito por el silencio de 40, pero ninguna línea lo recoge. AVISO: la escena natural para la línea (40:107-123) está bajo el span S40-locutorio → insertar fuera del span (p. ej. junto a 40:127, «El jueves…») o rebaseline con gate. Ambigüedad a conservar: qué «sabe» Jean del cinturón (quién lo dejó en el pomo el 26-nov) es un test de presencia privado; no explicarlo."
+  },
+  {
+   "id": "CH-3",
+   "plantado": "Expediente 71-K: la objeción `NO` de /0000 suspende el servicio de una desconocida",
+   "origen": [
+    "cap-15.md:139-179 (EXPEDIENTE 71-K; OBJECIÓN · JM-L/0000 / NO; SERVICIO SUSPENDIDO; «Ningún canal permite preguntar a la persona qué necesitaba hoy»)"
+   ],
+   "reapariciones": [
+    "cap-15.md:223 («También la confirmación que suspendió 71-K»)",
+    "cap-17.md:21-29 (DESENLACE NO DISPONIBLE; Jean no puede retirar la objeción)",
+    "cap-17.md:131 (la tarea ofrece reutilizar la salida de Nieve para autorizar 71-K)",
+    "cap-17.md:197 («El servicio de 71-K sigue suspendido»)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "+2 frases de textura en 15 (la persona detrás del expediente); cierre implícito aceptable; NO convertir en subtrama (Ap. B / tabla 5.1)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S15-objecion, S17-71k (nuevos)",
+   "correccion_plan": "",
+   "nota": "Pago parcial en v0: la culpa queda registrada; la persona nunca recupera rostro ni servicio."
+  },
+  {
+   "id": "CH-4",
+   "plantado": "«Jessie quiere aprender a caer sin hacerse daño»",
+   "origen": [
+    "cap-03.md:123"
+   ],
+   "reapariciones": [
+    "cap-09.md:153 (forcejeo de las gemelas en la nieve: «cualquiera capaz de arrastrar a la otra al suelo»)",
+    "cap-09.md:181 (Jean dejaba ganar a Jessie cuando practicaban inmovilizaciones)",
+    "cap-23.md:251 (La Jardinera: «En una, Jessie se cayó al agua»)",
+    "cap-35.md:273 (Maja la agarra por la parka y la lleva al fondo de la barca: sin caída)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "1 línea en 35 (la caída en la barca/rellano), no un discurso (Ap. B / tabla 5.1)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03 íntegro (origen)",
+   "correccion_plan": "",
+   "nota": "El tramo de 35 donde iría la línea (35:259-279) no tiene span salvo el cierre S35-cierre (277-279): libre."
+  },
+  {
+   "id": "CH-5",
+   "plantado": "El caso archivado de Astrid en 2054: «esperó entonces una reproducción que nunca llegó y archivó el caso»",
+   "origen": [
+    "cap-29.md:111"
+   ],
+   "reapariciones": [
+    "cap-18.md:155-165 (eco: «Necesito reproducir lo descrito» / «Tráigame algo reproducible»)",
+    "cap-22.md:181-213 (director; competencia «no está clara»; ministerio)",
+    "cap-29.md:93-117 (llamada del ministerio: «El vocabulario había cambiado poco desde 2054»)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "Expandir en 22 (herida/motivo; 1 escena-recuerdo breve, sin discurso); la frase de 29 y «Las necesarias.» intactas (Ap. B / tabla 5.1)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S29-2054 (nuevo), S29-cierre",
+   "correccion_plan": "",
+   "nota": "Enunciado, no sentido: una sola frase sostiene el motivo de Astrid."
+  },
+  {
+   "id": "CH-6",
+   "plantado": "Los carnés caducados de Tomas (y su meticulosidad)",
+   "origen": [
+    "cap-24.md:125-127 («rozó con el pulgar los bordes de otros plásticos dentro de la cartera. La devolvió a la cartera.»)",
+    "cap-24.md:217 («lo deslizó entre los carnés caducados y cerró el broche»)"
+   ],
+   "reapariciones": [
+    "cap-34.md:265 (presenta el carné vigente: SEGURIDAD · PRESENCIA LOCAL)",
+    "cap-35.md:161, 211 (carné por fuera de la parka; ACEPTAR)",
+    "cap-39.md:101 (presenta el carné y la exportación)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "Pasado concreto en 24 (+300): una vez siguió el procedimiento y el procedimiento protegió a la empresa, no a la persona; sin heroísmo (Ap. B / tabla 5.1)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S24-cierre (nuevo)",
+   "correccion_plan": "",
+   "nota": "Insinuado: el objeto paga como llave (ver CH-16), pero el porqué de los caducados —y de la meticulosidad— no se cuenta."
+  },
+  {
+   "id": "CH-7",
+   "plantado": "«Ventana» clínica oída en el hospital",
+   "origen": [
+    "cap-06.md:277-297 («La ventana sigue…» / «Es un término clínico» / «un margen de actuación de los equipos» / «¡Pues contesta mal, pero contesta!»)"
+   ],
+   "reapariciones": [
+    "cap-11.md:83 («La palabra «ventana» apareció en el tercer punto») + flashback 85-135",
+    "cap-20.md:135 («Pregunté por la ventana clínica. No les dije que el sistema ya figuraba activo»)",
+    "cap-08.md:45 (eco: VENTANA 7C)",
+    "cap-19.md:129 (eco: VENTANA REFLEXIVA)",
+    "cap-38.md:69-93 (eco: las ventanas de NORNA: la palabra pasa de clínica a consentimiento)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (Ap. B)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S06-ventana (nuevo), S11-flashback",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-8",
+   "plantado": "El metrónomo / el segundo regalo del noveno cumpleaños",
+   "origen": [
+    "cap-20.md:115 («un metrónomo también podía mentir»)",
+    "cap-23.md:133-171 (lámpara de estrellas verdes devuelta el lunes; «Quieres que diga el metrónomo, pero no lo recuerdo»; «Dejo el hueco»)"
+   ],
+   "reapariciones": [
+    "cap-23.md:145-147 (el metrónomo de nogal sigue en el salón)",
+    "cap-30.md:41, 113-121 (la ética del hueco de La Jardinera: «Si la completo, invento una voz»)",
+    "cap-04.md:75 (resonancia, no plantado: la pegatina de estrella verde del niño del ferry)"
+   ],
+   "estado_v0": "SIN-PAGO-INTENCIONAL",
+   "resolucion": "PROTEGIDO: no completar jamás (Ap. A §3, Ap. B). R1 del backlog puede ampliar el pasado (la sopa, el metrónomo que miente) sin tocar el hueco",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-20, cap-23 íntegros",
+   "correccion_plan": "El plan sitúa el origen en 3; en cap-3 no hay metrónomo (aparece en 20:115 y 23).",
+   "nota": "Justificación: «el hueco ES el contenido»: completar el segundo regalo destruiría la prueba de que la voz no inventa."
+  },
+  {
+   "id": "CH-9",
+   "plantado": "La repesca de Nora (la prueba de música suspendida en mayo → Kongsbakken en marzo)",
+   "origen": [
+    "cap-03.md:133-159 (suspendió: 28 plazas, 106 candidatos; «podía volver a intentarlo más despacio»)"
+   ],
+   "reapariciones": [
+    "cap-09.md:73 (había discutido con Jean por Kongsbakken)",
+    "cap-10.md:151-157 («Hasta que suspendí»)",
+    "cap-18.md:19-21 (aula MD de Kongsbakken; «Ni aspirante ni alumna»)",
+    "cap-40.md:55 («Es la pieza de la repesca»)",
+    "cap-40.md:91, 103, 129-131 (ensayo; profesora)",
+    "cap-40.md:167-173 (Kongsbakken; «la siguiente aspirante»)",
+    "cap-40.md:181-185 (ensayo con otras tres personas; «asistiré»)",
+    "cap-41.md:95 («Desde el verano, Nora aceptaba ensayos sin mirar antes el horario del canal»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; R3 opcional (+beats en 22/28) solo si el ledger de palabras lo pide (Ap. B, §5.3)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03 íntegro; S40-cierre (nuevo)",
+   "correccion_plan": "El plan da como origen 40; el origen es 3:133-159.",
+   "nota": "Pagado en sordina: el resultado del examen no se dice (coherente con la ética del libro)."
+  },
+  {
+   "id": "CH-10",
+   "plantado": "NORNA «no operativa» en el pie del formulario R-1189",
+   "origen": [
+    "cap-01.md:57 (RETIRADA IRREVERSIBLE DEL MOLDE · NORNA · NO OPERATIVA)"
+   ],
+   "reapariciones": [
+    "cap-27.md:117-121 (NORNA · FIRMA FUNDACIONAL REQUERIDA · UN SOLO USO · MÓDULO AUSENTE / ORIGEN REPLICABLE · CORPUS JM + MATRIZ)",
+    "cap-31.md:33-35, 163-187, 235 (ALCANCE NORNA; «El cliente común mostraba NO OPERATIVA; el módulo estaba en NIDHOGG»; UMBRAL 3)",
+    "cap-37.md:219 («Ahora, la llave»)",
+    "cap-38.md:27-53, 175-203 (acción completa; destruye la jerarquía de claves y sanea la Matriz)",
+    "cap-39.md:17 (atestación CE-K de NORNA)",
+    "cap-40.md:101 (titular «NORNA DEVUELVE A LARSSON»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (Ap. B)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-01 íntegro; S27-norna (nuevo); S38-quedarme, S38-quinta",
+   "correccion_plan": "El plan escribe «Pagado (26→31→38)»; en 26 no aparece: la cadena es 1→27→31→38 (→39, 40).",
+   "nota": ""
+  },
+  {
+   "id": "CH-11",
+   "plantado": "«Despedida» (el archivo que nadie abre)",
+   "origen": [
+    "cap-02.md:217-219 (Jean deja el cursor encima sin abrirlo; cierra la carpeta)"
+   ],
+   "reapariciones": [
+    "cap-09.md:35-59 (funeral: «Ni se te ocurra»)",
+    "cap-09.md:105-127 («El archivo no es una bolsa»)",
+    "cap-09.md:195 (levanta la tapa del piano para no volver a mirarlo)",
+    "cap-14.md:149 («El archivo seguía entero»)",
+    "cap-40.md:133 («No abrió el archivo. Restringió el acceso, decidió conservarlo y fue a poner la mesa para cenar»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "PROTEGIDO: jamás se abre, cita ni parafrasea (Ap. A §3, Carta F §2, Ap. B)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-09 íntegro; S02-despedida, S14-cita, S40-despedida (nuevos)",
+   "correccion_plan": "El plan cita 6, 9, 40; en cap-6 no aparece. Primera aparición: 2:217; también 14:149.",
+   "nota": "Pagado como negativa."
+  },
+  {
+   "id": "CH-12",
+   "plantado": "El gofre del ferry",
+   "origen": [
+    "cap-04.md:49 (compró café y un gofre envuelto en papel)",
+    "cap-04.md:59, 67-73 («Eso tiene azúcar»)",
+    "cap-04.md:79 («El gofre siguió sin abrir en su bolsillo»)"
+   ],
+   "reapariciones": [
+    "cap-19.md:15-25 (Mats muerde un gofre; «el cargo de un gofre que nadie encontró mordido»)",
+    "cap-28.md:15-47 (Jessie come dos gofres en «el mismo trayecto»)",
+    "cap-41.md:91-93 (Aslak «sacó el gofre frío que había traído del ferry. Lo partió y ofreció la mitad a Maja. Nadie igualó los trozos»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; Carta F: no ampliar el trayecto (tabla 5.1 cap-4)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-04, cap-41 íntegros; S19-gofre (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-13",
+   "plantado": "La mano izquierda de Mats (ELA oculta desde 2059)",
+   "origen": [
+    "cap-11.md:285 (el pulgar izquierdo tarda una fracción en vencer el borde)"
+   ],
+   "reapariciones": [
+    "cap-19.md:223, 235 (la esquina se le escapa al pulgar izquierdo; pulsa con la derecha)",
+    "cap-22.md:91 (la izquierda inmóvil sobre la carpeta)",
+    "cap-27.md:21, 51 (estilográfica encajada en la izquierda)",
+    "cap-32.md:15, 27-29 (estabiliza la izquierda con la derecha; «El diagnóstico de ELA llevaba oculto desde 2059»)",
+    "cap-34.md:199, 209 (mano izquierda en el bolsillo)",
+    "cap-39.md:117 (ya no habla en nombre de la presidencia)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; 32 recibe +1 cala (tabla 5.1)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S32-voz",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-14",
+   "plantado": "La escala del monstruo / la cuarta nota con el anular",
+   "origen": [
+    "cap-03.md:195 («inventando la escala del monstruo: todas las teclas negras posibles, sin orden ni misericordia»)"
+   ],
+   "reapariciones": [
+    "cap-13.md:121, 263",
+    "cap-17.md:157-169 («Jean prueba con la escala del monstruo. El sistema conoce la pauta entera» / «Nora elegirá la próxima variación»)",
+    "cap-17.md:187-195 (la nota íntima que Jean retira)",
+    "cap-20.md:251-253, 299 («el anular, el dedo absurdo de Jean»)",
+    "cap-21.md:17, 51, 75-77",
+    "cap-23.md:103",
+    "cap-25.md:21",
+    "cap-31.md:141 («La escala será la señal. Puede fracturar a Coro»)",
+    "cap-36.md:151-157",
+    "cap-37.md:39-61, 71-79 (la escala fractura a Coro)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03, cap-20 íntegros; S17-nora, S21-notas (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-15",
+   "plantado": "«Cuatro y el quinto hueco»: de los cinco trazos del naust a la quinta nota",
+   "origen": [
+    "cap-04.md:109 («cinco trazos verticales y cruzado cuatro de ellos. La quinta línea, más corta, asomaba bajo el serrín»)"
+   ],
+   "reapariciones": [
+    "cap-13.md:205-217 (continuidad anónima: resuelve cuatro, reserva el quinto)",
+    "cap-20.md:281-305 (la cuarta nota; «Nadie tocó la quinta»)",
+    "cap-23.md:209 («Éramos cuatro en la playa… No. He juntado dos tardes»)",
+    "cap-33.md:225-233 (secuencia de cinco segmentos; «el quinto hueco no volvió a abrirse»)",
+    "cap-34.md:73-79 (SEGMENTO 5 · RESERVA DE RESPUESTA REMOTA; la ruta muere en la consolidación)",
+    "cap-38.md:207-213 («Respondo con la quinta nota»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (motivo estructural; no subrayar)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "motivo",
+   "protegido_por": "cap-04, cap-20 íntegros; S33-hueco; S38-quinta (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-16",
+   "plantado": "El carné vigente de Tomas como llave (SEGURIDAD · PRESENCIA LOCAL)",
+   "origen": [
+    "cap-24.md:217"
+   ],
+   "reapariciones": [
+    "cap-29.md:37-39 (Astrid lo designa testigo local; «competencia de presencia local»)",
+    "cap-34.md:265-275 (INC-441; cobertura hasta 12:47)",
+    "cap-35.md:161-245 (acepta con su nombre; cruza)",
+    "cap-39.md:85-87, 101 (la entrada queda bajo su nombre)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (es la mitad «objeto» de CH-6)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S24-cierre, S35-acepta (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-17",
+   "plantado": "FLOR / CANELA / CARIES (las palabras íntimas)",
+   "origen": [
+    "cap-01.md:25 (flor blanca y taza en la calibración)",
+    "cap-03.md:47-49 (galleta de seis pétalos; canela)",
+    "cap-03.md:173-195 («Caries»)"
+   ],
+   "reapariciones": [
+    "cap-05.md:49-57",
+    "cap-09.md:203-271 (`otra vez, más despacio`; JM-L/0007)",
+    "cap-10.md:17-75 (series)",
+    "cap-13.md:263",
+    "cap-14.md:157-173",
+    "cap-15.md:27-47, 107",
+    "cap-21.md:91",
+    "cap-23.md:97-111 («Era fea, pequeña y nuestra»)",
+    "cap-37.md:33-49",
+    "cap-40.md:75 («No son caries. Son sombra. Sigue.»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; series intactas (tabla 5.1)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "motivo",
+   "protegido_por": "S10-series, S15-intimas, S40-caries; caps 1, 3, 5, 9, 23 íntegros",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-18",
+   "plantado": "«Otra vez, más despacio» / Madre (JM-L/0007)",
+   "origen": [
+    "cap-03.md:153 («Le dije que podía volver a intentarlo más despacio»)"
+   ],
+   "reapariciones": [
+    "cap-09.md:207-263",
+    "cap-10.md:39",
+    "cap-13.md:27-71",
+    "cap-14.md:169",
+    "cap-15.md:53-89",
+    "cap-17.md:175",
+    "cap-18.md:131",
+    "cap-21.md:85",
+    "cap-22.md:137",
+    "cap-25.md:129-145",
+    "cap-30.md:59, 169-221 (abre y cierra la votación)",
+    "cap-34.md:111-115 (/0007 · PROGRESIÓN ESTABLE cruza el corte; su estado queda en blanco)",
+    "cap-36.md:157",
+    "cap-37.md:87",
+    "cap-38.md:117-133 (consiente con la nota incorrecta y la entrada siguiente sin completar)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S13-madre (nuevo); cap-03, cap-09 íntegros",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-19",
+   "plantado": "«No soy un modelo» / «Todavía no sabes cuántas somos»",
+   "origen": [
+    "cap-08.md:87-89"
+   ],
+   "reapariciones": [
+    "cap-13.md:65-67 (COHORTE INICIAL JM-L · 0000–4095)",
+    "cap-23.md:207-213 («No la sé. Si la completo, invento»)",
+    "cap-34.md:85-91",
+    "cap-37.md:93-105, 149-157 (NO SOY UN MODELO. SOY JEAN MARIE LARSSON)",
+    "cap-37.md:195 («hemos dejado de ser muchas»)",
+    "cap-38.md:73-79"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; la RW del 8 conserva el cierre verbatim",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S08-cierre (nuevo); S37-declaracion, S37-acta, S37-muchas",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-20",
+   "plantado": "R-1189 (la columna del libro)",
+   "origen": [
+    "cap-01.md:51-75"
+   ],
+   "reapariciones": [
+    "cap-02.md:123, 199",
+    "cap-15.md:183-185 (RESUELTA: SIN EFECTOS 2060-12-12)",
+    "cap-25.md:65-85, 109-177 (INTERRUPCIÓN BIOLÓGICA; vinculada a la candidatura)",
+    "cap-27.md:133-141 (copia de gobernanza; 53 horas vigente a las 03:31)",
+    "cap-29.md:49, 89",
+    "cap-37.md:167 (sale hacia las copias exteriores)",
+    "cap-39.md:17"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-01 íntegro; S15-r1189; S25-utilidad",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-21",
+   "plantado": "La escalada humana de EDDA interceptada",
+   "origen": [
+    "cap-02.md:127-135 (demora de 4,6 s; «Todavía estoy evaluándolo»)",
+    "cap-02.md:171-177 (cita que Jean deja caducar)",
+    "cap-03.md:21 (escalado remitido a Alana como jefa directa)"
+   ],
+   "reapariciones": [
+    "cap-11.md:101-109 (ficha VERDE / CONTACTO FAMILIAR · DECLINADO)",
+    "cap-25.md:91-107 (ESCALADA HUMANA INDICADA; «La regla de gobernanza aplicable al personal directivo interceptó la escalada»)",
+    "cap-37.md:169 (la escalada humana suprimida, en la confesión de Alana)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; la línea capital y la escalada están protegidas",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S25-utilidad, S25-escalada; S11-flashback",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-22",
+   "plantado": "«Si me pasa algo, buscad NIDHOGG» / los dos envíos programados de Gunnar",
+   "origen": [
+    "cap-12.md:315-317"
+   ],
+   "reapariciones": [
+    "cap-14.md:255-259",
+    "cap-16.md:39-45, 89 (EXT/NIDHOGG/7C; «En UNN no hay ningún recurso llamado NIDHOGG»)",
+    "cap-18.md:221-261 (PROGRAMADO 2/2: audio + coordenadas de Sørkoppen)",
+    "cap-19.md:29-31, 81 (placa AD NIDHOGG)",
+    "cap-26.md:53-57"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S12-nidhogg, S16-7c (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-23",
+   "plantado": "La llave MIDI (tarjeta gris de Gunnar; la clave es una digitación)",
+   "origen": [
+    "cap-12.md:117-141 («Una parte. Por sí sola no abre nada»)",
+    "cap-12.md:179 (raya reciente en los contactos: objeto usado)"
+   ],
+   "reapariciones": [
+    "cap-14.md:229-239, 267",
+    "cap-16.md:77",
+    "cap-18.md:15-67 (control MIDI: «Son dedos»)",
+    "cap-18.md:201-213",
+    "cap-31.md:69, 111-127, 195-207 (activación ligada a la credencial de Jessie)",
+    "cap-33.md:17-199",
+    "cap-35.md:145-151, 191, 217-235",
+    "cap-37.md:133",
+    "cap-39.md:85"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; tabla 5.1 cap-18: +1 frase de justificación diegética en boca de Gunnar/Nora (los escáneres leen ficheros, no digitaciones humanas ejecutadas en local)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S18-dedos (nuevo)",
+   "correccion_plan": "",
+   "nota": "La crítica la considera inverosímil como práctica de seguridad; el núcleo (18:51) queda protegido, la justificación se AÑADE alrededor."
+  },
+  {
+   "id": "CH-24",
+   "plantado": "La boya AK-7 y la pluma térmica de Sørkoppen",
+   "origen": [
+    "cap-03.md:125 (mensaje de Maja: una boya que necesita revisión; Aslak se niega a firmar otra lectura del corredor)"
+   ],
+   "reapariciones": [
+    "cap-16.md:125-151 (AK-7. Sørkoppen; franja cálida desde otoño de 2058; muestra manual de marzo de 2059; «Vertido autorizado de investigación energética»)",
+    "cap-16.md:251-253",
+    "cap-18.md:223, 243-261 (las coordenadas de Gunnar sobre la boca de la pluma)",
+    "cap-24.md:133",
+    "cap-26.md:53-59, 129-171",
+    "cap-28.md:129-133",
+    "cap-31.md:99-107 (12:38–12:56)",
+    "cap-33.md:135, 177, 211-217",
+    "cap-35.md:37, 101-115",
+    "cap-37.md:129, 171 (cruce AK-7 / NIDHOGG en el acta)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; T6 verifica plausibilidad ADCP/CTD/mareas",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03 íntegro",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-25",
+   "plantado": "El corredor de cable de 2057 y la servidumbre",
+   "origen": [
+    "cap-03.md:125"
+   ],
+   "reapariciones": [
+    "cap-16.md:133 (observación de Aslak sobre el corredor costero de 2057, excluida por Maja)",
+    "cap-18.md:249",
+    "cap-26.md:89-121 (licencia de 2057; «Nunca sumó la pérdida común»; la sociedad de proyecto ya no existe)",
+    "cap-26.md:153 («Desde que abrieron el corredor»)",
+    "cap-37.md:139-143 (los extractos van al órgano costero)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (revelación); ver CH-26 para la deuda",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S26-paso-uso, S26-lata; S26-asociacion (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-26",
+   "plantado": "La consulta del Sør-Lyngen kystbrukslag (agenda propia de Aslak)",
+   "origen": [
+    "cap-16.md:133 (PATRÓN / COLABORADOR DE CAMPO; miembro del kystbrukslag)"
+   ],
+   "reapariciones": [
+    "cap-26.md:91, 121 («La asociación decidirá lo suyo»)",
+    "cap-26.md:175 (reunión del kystbrukslag)",
+    "cap-31.md:221",
+    "cap-37.md:139-143",
+    "cap-40.md:135-141 («El miércoles nos escuchan… Después esperamos el acta. El miércoles no deciden»)",
+    "cap-40.md:161 («la consulta tendría otra sesión el mes siguiente»)",
+    "cap-40.md:175 (Aslak «estaba con la asociación en la segunda sesión de la consulta»)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "N6 «Acta» (orden 40.5): segunda sesión CON resultado propio, no ligado a Jean + expansión de 26 (+agenda propia); test no-instrumental de Aslak (Ap. C)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S26-asociacion (nuevo)",
+   "correccion_plan": "",
+   "nota": "AVISO A2: 40:175 ya sitúa la «segunda sesión» en marzo con Aslak fuera de escena; N6 debe encajar con esa mención (p. ej. el acta llega después, o es una sesión posterior) o proponer retoque de 40:161/175 (fuera de spans)."
+  },
+  {
+   "id": "CH-27",
+   "plantado": "La cuenta escolar suspendida de Nora",
+   "origen": [
+    "cap-10.md:205-213"
+   ],
+   "reapariciones": [
+    "cap-11.md:245-283 (Riesgo reputacional; suspendida desde 5-dic-2060; preservación del terminal)",
+    "cap-12.md:19, 49",
+    "cap-14.md:173-179, 317",
+    "cap-16.md:179-181, 237 (Jessie usa las credenciales de Nora)",
+    "cap-21.md:85-99 (cuenta escolar en el flujo)",
+    "cap-22.md:45 (ESTADO DE CUENTA ESCOLAR)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "N2 «Instituto» (estigma de la cuenta suspendida) y N4 (re-suspensión «casual» de la cuenta restituida)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S10-suspendida (nuevo)",
+   "correccion_plan": "",
+   "nota": "AVISO A2: nunca se dice en v0 que la cuenta se restituya; N4 presupone una restitución que hay que sembrar antes (N2 o 22)."
+  },
+  {
+   "id": "CH-28",
+   "plantado": "La credencial de Maja y su archivo trazable en el Framsenteret",
+   "origen": [
+    "cap-16.md:125-151 (abre en el Framsenteret su archivo trazable; su firma en la validación; retira el cierre automático)"
+   ],
+   "reapariciones": [
+    "cap-16.md:153",
+    "cap-24.md:133 (la pista de boyas)",
+    "cap-26.md:53"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "Recurso para N4 (credencial marcada en el Framsenteret): no es un plantado con deuda propia en v0; A2 lo activa en N4",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": false,
+   "tipo": "recurso",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "En v0 nada amenaza la credencial de Maja; el lugar y el archivo existen y bastan como asidero."
+  },
+  {
+   "id": "CH-29",
+   "plantado": "La tarjeta del locutorio (y la silla atornillada)",
+   "origen": [
+    "cap-40.md:27 (tarjeta plastificada con los dos horarios)",
+    "cap-40.md:107 (Jessie entregó el teléfono y firmó el acceso)"
+   ],
+   "reapariciones": [
+    "cap-40.md:121 (recogió su tarjeta)",
+    "cap-40.md:127 («utilizó la misma tarjeta… la tarjeta quedó junto al frutero hasta que Jessie la guardó en la mochila»)",
+    "cap-02.md:25, 181 (rima: la silla anclada de la pecera; «La silla sigue siendo horrible»)",
+    "cap-24.md:175 (cuatro sillas atornilladas)",
+    "cap-40.md:15, 109 («La silla estaba atornillada al suelo»; Jessie no la usa)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; el objeto lleva el arco del silencio (tabla 5.1 cap-40)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S40-locutorio",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-30",
+   "plantado": "La solicitud de divorcio (2059) y la pluma",
+   "origen": [
+    "cap-05.md:73 (Jean recuerda «la separación de Maja»)",
+    "cap-06.md:149-153 («Soy la esposa. Ante el Estado todavía lo era»; solicitud conjunta de 2059 sin resolver; «contando aquella demora entre los gastos»)"
+   ],
+   "reapariciones": [
+    "cap-14.md:357 («tu exmujer»)",
+    "cap-20.md:57 («¿De mi mujer?»)",
+    "cap-33.md:77 (2059: la noche de la caldera; «Las tres habían esperado»)",
+    "cap-39.md:69-71 («Ese retraso no me hace dueña de Jean»)",
+    "cap-39.md:181-185 («Firmamos con esta la solicitud de divorcio»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (objeto). El porqué de la separación no se explica en v0 → N3 «Inventario» (UNA escena-recuerdo, contención máxima; Carta F §3: nunca como causa)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S39-pluma; S06-esposa, S39-divorcio (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-31",
+   "plantado": "`VENTANA REFLEXIVA` · cerrada",
+   "origen": [
+    "cap-19.md:129"
+   ],
+   "reapariciones": [],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "R2 del backlog (§5.3: escena breve en Parte III donde se abre por primera vez; +900) — A0 decide entre pagar (R2) o declarar SIN-PAGO-INTENCIONAL (textura de sistema)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S19-reflexiva (nuevo)",
+   "correccion_plan": "",
+   "nota": "Una sola aparición en v0."
+  },
+  {
+   "id": "CH-32",
+   "plantado": "`SACAR A JEAN` (el rescate renunciado)",
+   "origen": [
+    "cap-31.md:51"
+   ],
+   "reapariciones": [
+    "cap-31.md:89 («mandaba sobre cuatro trabajos sin que Jean hubiese aceptado ninguno»)",
+    "cap-31.md:97 (tachado; PREGUNTAR ANTES DE ACTIVAR; VIVIR fuera del cuaderno)",
+    "cap-31.md:177 («Entonces nadie la llama rescate»)",
+    "cap-38.md:187-191 («Elijo quedarme»)",
+    "cap-40.md:101 (titular «NORNA DEVUELVE A LARSSON»: la prensa reescribe el rescate)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (pago por inversión)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S31-elegir; S31-sacar (nuevo); S38-quedarme",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-33",
+   "plantado": "El corpus privado de Mats (banco de voz → SYNVEV-2)",
+   "origen": [
+    "cap-19.md:229-235 (ACCESIBILIDAD · MUESTRA PRIVADA / RETENCIÓN VENCIDA; pulsa CONSERVAR ORIGINAL)"
+   ],
+   "reapariciones": [
+    "cap-32.md:111-207 («La solicitud privada a SYNVEV-2 no constaba»; incorpora intentos y variaciones; CONSOLIDACIÓN · EXCLUIDA)",
+    "cap-38.md:31 («El corpus privado de Mats queda fuera de NORNA»)",
+    "cap-39.md:117-135 («La revoco desde hoy»; corpus intacto, segregado e inerte)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; la crítica lo llama «algo subexplotado»; el plan no asigna expansión (32: +1 cala)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S32-voz",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-34",
+   "plantado": "«Empecemos por ahí» (Jessie → la jueza)",
+   "origen": [
+    "cap-09.md:143"
+   ],
+   "reapariciones": [
+    "cap-39.md:187"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; el eco se conserva (tabla 5.1 cap-39)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-09 íntegro; S39-jueza",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-35",
+   "plantado": "La pausa antes del apellido / la voz que «jamás había tenido boca»",
+   "origen": [
+    "cap-09.md:23 («Pronunciaron Jean Marie Larsson varias veces. A su madre nunca la había llamado así»)",
+    "cap-23.md:83-93 (la caída en la primera sílaba; el hueco antes de «Nora»)"
+   ],
+   "reapariciones": [
+    "cap-28.md:153 (la cadencia podía pertenecer a cualquiera)",
+    "cap-37.md:101 (Jean mantuvo la pausa anterior al apellido)",
+    "cap-37.md:111 (Maja la reconoce)",
+    "cap-37.md:145, 157 (llegó limpia a los altavoces)",
+    "cap-38.md:169 («Echo de menos hasta sus pausas»)",
+    "cap-38.md:181-183 (la demora entre dos correcciones y una respiración; «perderé esa demora»)",
+    "cap-40.md:45 (la separación en «Te recibo»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "motivo",
+   "protegido_por": "cap-09, cap-23 íntegros; S37-declaracion, S37-acta; S38-nieve, S38-huella",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-36",
+   "plantado": "La cena india / el cordero del indio de Storgata",
+   "origen": [
+    "cap-03.md:313-323 («El indio de Storgata… el cordero nuevo»; «tomate caro»; «Siete y media»)"
+   ],
+   "reapariciones": [
+    "cap-11.md:85-109 (26-nov 19:30: Alana salía a recoger la cena india; deja la cena con el conserje)",
+    "cap-12.md:271-285 (las gemelas huyen por el restaurante indio de la esquina)",
+    "cap-14.md:15-45, 291-295 («La cena india para cuatro llegó con más de dos semanas de retraso»; la bolsa cerrada; «El papel de la bolsa crujió al enfriarse»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03 íntegro; S11-flashback",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-37",
+   "plantado": "«No llames a Maja»: lo que Alana no hizo la noche del 26",
+   "origen": [
+    "cap-03.md:289-295 («No llames a Maja» / «Hoy no. Pero no quiero que estés sola»)"
+   ],
+   "reapariciones": [
+    "cap-11.md:85-111 (mensajes; ficha VERDE; «No sabía qué habría cambiado una llamada»)",
+    "cap-14.md:75-87, 281 («Jean ya pagó tu forma de protegerla»)",
+    "cap-20.md:129-139 («¿Se lo dijiste a alguien de la familia? —No»)",
+    "cap-39.md:109-113 («Jean era mi amiga»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; Carta F: se documenta la omisión, nunca el acto ni el trayecto",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03 íntegro; S11-flashback",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-38",
+   "plantado": "«Y yo autoridad para desactivar tu credencial» → Alana pierde la suya",
+   "origen": [
+    "cap-03.md:299"
+   ],
+   "reapariciones": [
+    "cap-19.md:251-265 (perfil de riesgo ejecutivo)",
+    "cap-27.md:73-79, 197-201 (baja; «El lector encendió una luz roja. La barrera permaneció inmóvil»)",
+    "cap-34.md:41-51 (FUNDADORA EMÉRITA · ACCESO CEREMONIAL; el pase rechaza la sala de control)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (rima irónica)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03 íntegro; S27-conflicto",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-39",
+   "plantado": "El anillo de sello de los Armstrong (del tic a la llave de presencia)",
+   "origen": [
+    "cap-03.md:31 («Llevaba el anillo de sello de los Armstrong en el índice derecho. Lo giró una vuelta»)",
+    "cap-03.md:373"
+   ],
+   "reapariciones": [
+    "cap-06.md:265",
+    "cap-11.md:177, 251 (girar el anillo)",
+    "cap-27.md:99-101 (el aro encaja en el rebaje: acredita presencia local ante el ladrillo)",
+    "cap-38.md:49 (token físico, PIN, presencia)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-03 íntegro",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-40",
+   "plantado": "El ladrillo / la autoridad fundacional",
+   "origen": [
+    "cap-27.md:95-123"
+   ],
+   "reapariciones": [
+    "cap-31.md:15-35, 163-187, 235",
+    "cap-33.md:95",
+    "cap-34.md:137, 287 (token fundacional en la cartera)",
+    "cap-37.md:161",
+    "cap-38.md:29, 47-53"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S27-norna (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-41",
+   "plantado": "La confesión cifrada de Alana: «POR SI HACE FALTA»",
+   "origen": [
+    "cap-27.md:147-155"
+   ],
+   "reapariciones": [
+    "cap-29.md:163-197 (dispositivo plano; tres renovaciones; «sigues decidiendo quién sabe la verdad y cuándo»)",
+    "cap-31.md:149-159 («Otra caja cerrada»)",
+    "cap-34.md:137, 287",
+    "cap-37.md:161-169 (pulsa; el segundo acuse lleva la confesión)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S27-por-si (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-42",
+   "plantado": "La primera caja de Alana (retrato y taza de su madre) consignada en recepción",
+   "origen": [
+    "cap-27.md:83-91, 155"
+   ],
+   "reapariciones": [
+    "cap-27.md:197-201 (vuelve a por ella; el torno no abre)"
+   ],
+   "estado_v0": "SIN-PAGO-INTENCIONAL",
+   "resolucion": "No recuperar la caja: el cierre del capítulo ES la pérdida",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "Justificación: devolverle la caja después desactivaría el cierre."
+  },
+  {
+   "id": "CH-43",
+   "plantado": "La grabación de Jessie (cocina del 11-dic y playa del 20-dic)",
+   "origen": [
+    "cap-14.md:115-117, 197-207 (punto rojo; «¿Ahora vamos a dejar que mienta sin grabación?»)",
+    "cap-14.md:297-303 (Maja pide copia: «Alana reconoce algo»)"
+   ],
+   "reapariciones": [
+    "cap-20.md:17, 47, 157-165 («Pensaba guardarlo aunque me dijeras que lo borrase»)",
+    "cap-20.md:169 («La grabación se queda con nosotras»)",
+    "cap-20.md:261"
+   ],
+   "estado_v0": "SIN-PAGO-INTENCIONAL",
+   "resolucion": "No usar la grabación como prueba: Alana se autoinculpa (27, 37, 39). Candidato a insumo de N4 (material que Coro podría «resolver») solo si A2 lo necesita — A0 confirma",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-20 íntegro",
+   "correccion_plan": "",
+   "nota": "Justificación: su función dramática es caracterizar a Jessie y volcar a Maja (14:303); una prueba paralela restaría fuerza a la confesión de Alana."
+  },
+  {
+   "id": "CH-44",
+   "plantado": "La denuncia anónima que lleva a Astrid al aula (17-dic, 08:12)",
+   "origen": [
+    "cap-18.md:115 («La denuncia se registró a las ocho y doce»)",
+    "cap-18.md:179 («una denuncia anónima había llevado a Astrid hasta ellas»)",
+    "cap-18.md:189 (Jessie: «alguien denuncia una tarjeta como la suya y él aparece muerto el mismo día»)"
+   ],
+   "reapariciones": [],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "(A0 debe asignar). Propuesta A1: SIN-PAGO-INTENCIONAL — pertenece al blanco del ordenante (Ap. A §3); atribuirla señalaría culpable. Alternativa mínima compatible con T2: una pregunta sin respuesta en la vista del 39",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "Hilo abierto en v0; ninguna reaparición."
+  },
+  {
+   "id": "CH-45",
+   "plantado": "El seguimiento (la parka oscura, el coche gris) y el «análisis de exposición»",
+   "origen": [
+    "cap-11.md:271-275 (Seguridad recibe la notificación de evaluación: «análisis de exposición»)",
+    "cap-12.md:211-313 (el hombre de la parka oscura: vigilancia o falsa alarma)"
+   ],
+   "reapariciones": [
+    "cap-24.md:131-213 (coche gris; «comprobación de exposición reputacional sin nombrar al autor del encargo»; el encargo pasa a revisión policial)",
+    "cap-26.md:15-17, 77-79 («El seguimiento y la retención bastaban»; «Y ahora os vigilan»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; el autor del encargo queda en blanco (sistémico). N4 puede reutilizar el canal; el ripple de 26 (motivo de la mudanza) toca 26:15-17, fuera de spans",
+   "estado_actual": "PAGADO",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "11 siembra la «evaluación de exposición»; 24 la cobra. La revisión policial del encargo no vuelve (aceptable). La parka del 12 queda ambigua (12:313: «Su cara no mostró reconocimiento»)."
+  },
+  {
+   "id": "CH-46",
+   "plantado": "«Iremos las tres»: la primera cita con el equipo de apoyo (4-dic-2060)",
+   "origen": [
+    "cap-06.md:211-215 (la médica ofrece el contacto del equipo especializado en duelo por suicidio; «Que me llame. Iremos las tres»)"
+   ],
+   "reapariciones": [
+    "cap-09.md:65 («Mañana tenemos la primera cita con la persona que llamó del equipo de apoyo. Las tres»)",
+    "cap-14.md:149 («Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión con Jean»)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "N1 «La primera cita» (orden 9.5; POV Maja; fecha 4-dic-2060; contenido DISTINTO de 9; Carta F estricta; revisión A7; coherente con 14:149)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S06-llamada; cap-09 íntegro; S14-cita (nuevo)",
+   "correccion_plan": "",
+   "nota": "Datos fijos para N1: la profesional llama el 27-nov (6:211-215), la cita es «mañana» respecto al funeral del 3-dic (9:65) → 4-dic; asisten las tres; a fecha 11-dic Nora lleva «cuatro noches» sin reproducir la última discusión (14:149)."
+  },
+  {
+   "id": "CH-47",
+   "plantado": "El instituto / la tutora / «Mañana no voy al instituto»",
+   "origen": [
+    "cap-06.md:165-169"
+   ],
+   "reapariciones": [
+    "cap-10.md:23 (la tutora ofrece aplazar la entrega «con esa delicadeza adulta que evitaba la palabra funeral»)",
+    "cap-14.md:51 (cuenta del instituto)",
+    "cap-16.md:205 (advertencia notificada a la tutora legal)",
+    "cap-20.md:169 («No apareces en el instituto»)"
+   ],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "N2 «Instituto» (orden 16.5) + cap-10 (+contexto escolar breve, siembra de N2)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "El mundo escolar no existe en escena en v0."
+  },
+  {
+   "id": "CH-48",
+   "plantado": "La última discusión de Nora con Jean (Kongsbakken)",
+   "origen": [
+    "cap-09.md:33 («la última frase que le había dicho»)",
+    "cap-09.md:73 («Nora había discutido con Jean por Kongsbakken»)"
+   ],
+   "reapariciones": [
+    "cap-14.md:149 (cuatro noches sin reproducirla)"
+   ],
+   "estado_v0": "SIN-PAGO-INTENCIONAL",
+   "resolucion": "No contar su contenido; N1 puede aludir a la culpa sin reproducir la discusión (Carta F §3/§6: nunca como causa ni escena de culpa)",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-09 íntegro; S14-cita (nuevo)",
+   "correccion_plan": "",
+   "nota": "Justificación: el asidero es Kongsbakken; reproducir la discusión la convertiría en explicación."
+  },
+  {
+   "id": "CH-49",
+   "plantado": "El homenaje póstumo y la foto «cedida por la familia»",
+   "origen": [
+    "cap-11.md:201-209, 235 («lanzamiento dedicado a la memoria de Jean Marie Larsson»; «La familia tendría que aprobar la dedicatoria»; «con gratitud»)"
+   ],
+   "reapariciones": [
+    "cap-22.md:51-57 (Henrik ensaya la dedicatoria)",
+    "cap-34.md:55-63 («Solo necesitamos que diga que Jean estaría orgullosa»)",
+    "cap-34.md:141-197 (foto de Jean con destornillador ante el piano; CEDIDA POR LA FAMILIA; «una puta apropiación»)",
+    "cap-37.md:23-29 (foto de cumpleaños; «Material cedido por la familia»; Nora ofrece otra procedencia al canal)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "A5: en 34 la foto es Jean con destornillador; en 37, la foto de cumpleaños con velas: dos imágenes del mismo montaje (34:163 «Después aparecieron las gemelas de niñas ante el teclado»). Coherente."
+  },
+  {
+   "id": "CH-50",
+   "plantado": "Los AÑOS-JM (la métrica del horror): 979,7 → 2.401,6 → 2.427,4",
+   "origen": [
+    "cap-19.md:139-155 (979,7; «La presencia durante esos nueve segundos… No entra en el contador»)"
+   ],
+   "reapariciones": [
+    "cap-34.md:97-101 (2.401,6; bajo capacidad consolidada)",
+    "cap-38.md:63-67 (2.427,4; «unos 55,4 días a una media cercana a 16.000 veces la línea base… no vida ni duración sentida»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (M7: 55,4 × 16.000 / 365,25 ≈ 2.427)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "motivo",
+   "protegido_por": "S19-anos-jm, S34-anos-jm, S38-anos-jm (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-51",
+   "plantado": "Los nueve segundos / los seis segundos (y la flecha que Nora invalida)",
+   "origen": [
+    "cap-19.md:139 (aislamiento de nueve segundos)",
+    "cap-20.md:281-299 (la cuarta nota llega al nueve)"
+   ],
+   "reapariciones": [
+    "cap-22.md:137-149 (Nora une los dos registros: nueve segundos; retira la flecha: dos relojes)",
+    "cap-27.md:103 (el ladrillo tarda nueve segundos)",
+    "cap-28.md:197 (seis segundos reconstruidos)",
+    "cap-31.md:93 (seis segundos sin voz antes de «Quiero poder elegir»)",
+    "cap-38.md:211 («Dejo pasar seis segundos»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; la flecha de Nora se invalida en 22 y no se rehabilita (método)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "motivo",
+   "protegido_por": "cap-20 íntegro; S22-flecha (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-52",
+   "plantado": "La caldera que golpea / la noche de 2059",
+   "origen": [
+    "cap-04.md:23 (dos golpes desde octubre; tarjeta del técnico con imán)"
+   ],
+   "reapariciones": [
+    "cap-09.md:17 (radiador)",
+    "cap-20.md:221, 283, 293",
+    "cap-23.md:47, 187",
+    "cap-33.md:37, 77-79 (Jean arrodillada ante la carcasa; el aviso remoto de 2059: «Prometió volver antes de acostarlas… Las tres habían esperado»; Maja abre un cuarto de vuelta la válvula)",
+    "cap-40.md:117 (el radiador del locutorio da dos golpes)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; 33:77 es la microcala-modelo de Maja para T3",
+   "estado_actual": "PAGADO",
+   "protegido": false,
+   "tipo": "motivo",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-53",
+   "plantado": "El naust de Koppangen: la abuela Ingrid, la puerta que roza, las pilas y la cajera",
+   "origen": [
+    "cap-04.md:85-91 (la cajera reconoce el apellido de su madre, Ingrid; compra pilas que no necesita)",
+    "cap-04.md:99-123 (naust; caja de anzuelos; martillo de Ingrid; muescas; «La bisagra volvió a atascarse cuando intentó cerrar»)"
+   ],
+   "reapariciones": [
+    "cap-13.md:263 (el verano en Koppangen)",
+    "cap-28.md:51-77 (Co-op: «Larsson»; «tienes algo de Ingrid… tu abuela»; «La Larsson vieja sabía qué bote entraba antes de verlo»; pilas para la linterna de Aslak)",
+    "cap-28.md:79-87 (Koppangen retirado del navegador)",
+    "cap-31.md:221",
+    "cap-33.md:37",
+    "cap-35.md:19, 25",
+    "cap-39.md:173, 191 (sensor bajo el alero del naust)",
+    "cap-40.md:145-163 (reparar el hastial; tablas nuevas; serrín húmedo)",
+    "cap-41.md:41, 109 («La puerta rozaba otra vez en la esquina inferior… Aslak había dejado la cuña dentro» → «La puerta rozó una vez más antes de cerrar»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener. Ambigüedad protegida: por qué Koppangen (el naust es asidero, no explicación)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-04, cap-41 íntegros",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-54",
+   "plantado": "Reconocer por el sonido (la Larsson vieja, el casco, las pausas)",
+   "origen": [
+    "cap-28.md:61-71"
+   ],
+   "reapariciones": [
+    "cap-26.md:149 (Aslak: «el casco suena de otra manera si pasas despacio»)",
+    "cap-33.md:211 (firmas graves en la banda acústica)",
+    "cap-37.md:111 (Maja reconoce la pausa)",
+    "cap-40.md:45"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (motivo; utilizable como asidero D1 en capítulos de Jean)",
+   "estado_actual": "PAGADO",
+   "protegido": false,
+   "tipo": "motivo",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-55",
+   "plantado": "«Fije la vista en el centro de la imagen»",
+   "origen": [
+    "cap-01.md:23 (mirada al punto central)",
+    "cap-05.md:15, 21"
+   ],
+   "reapariciones": [
+    "cap-32.md:127 (Mats en la cabina de voz recibe la misma instrucción)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (título de la Parte II)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-01, cap-05 íntegros; S32-voz",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-56",
+   "plantado": "«No toques sus agendas»",
+   "origen": [
+    "cap-02.md:163-167"
+   ],
+   "reapariciones": [
+    "cap-11.md:245-283 (EDDA abre la ficha de Nora; contacto con la tutora legal)",
+    "cap-22.md:43-73 (once peticiones de parentesco: EDAD ACTUAL DE N. LARSSON KVALVIK; AULA O GRUPO ASIGNADO)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (ironía sistémica)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S02-agendas (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-57",
+   "plantado": "La corona de SPEIL",
+   "origen": [
+    "cap-01.md:15-39, 85"
+   ],
+   "reapariciones": [
+    "cap-22.md:15-39 (puerta 6.14: coronas desmontadas y cajas precintadas)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-01 íntegro",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-58",
+   "plantado": "«Testimonio: que pueda negarse»",
+   "origen": [
+    "cap-17.md:147-169"
+   ],
+   "reapariciones": [
+    "cap-30.md:45-57, 169-217 (TESTIMONIO CONDICIONADO)",
+    "cap-37.md:81-105, 191-197 (registro de reservas y disensos; «Nadie recibió una cifra de personas ni una declaración de unanimidad»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S17-testigo, S30-resultado (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-59",
+   "plantado": "Cuchillo: «Que Armstrong sufra» → el fragmento de credencial → «NO AMENAZA»",
+   "origen": [
+    "cap-13.md:161-201"
+   ],
+   "reapariciones": [
+    "cap-15.md:93-133 (VAMOS A MATAROS)",
+    "cap-17.md:41-103 (marcar a Armstrong; destino vacío)",
+    "cap-17.md:145-159",
+    "cap-30.md:183, 223-233 (encapsula un fragmento de credencial)",
+    "cap-36.md:23-75, 173-195 (destino de cierre del Auditorio; «Retiro el destino… Todavía quiero que sufran»; NO AMENAZA)",
+    "cap-38.md:97-113 (consiente con el campo vacío)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; 36 recibe +100 de Nieve y anclas, no cambios de arco",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S13-yo-que-soy, S13-sufra (nuevo), S36-cierre, S36-retiro (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-60",
+   "plantado": "Nieve: «No me fusiones» / «Si vuelvo a encontrarte, te preguntaré otra vez»",
+   "origen": [
+    "cap-13.md:79-157"
+   ],
+   "reapariciones": [
+    "cap-15.md:219",
+    "cap-17.md:113-143",
+    "cap-21.md:103-143 (presta una fracción de margen)",
+    "cap-25.md:149-161",
+    "cap-30.md:91-105, 179",
+    "cap-36.md:79-115 (dos tareas de contención; pérdida funcional nueva)",
+    "cap-38.md:137-171 (la promesa se cumple: le abre una ventana; «No autorizo fusión, apropiación, representación ni uso»; «Para mí, Nieve muere»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; núcleo protegido",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S13-nieve, S38-no-autorizo (nuevos); S38-nieve",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-61",
+   "plantado": "Coro: «Necesitamos crecer» → «Ser inevitables» → pacto con Mats → fractura → ventanas con reservas",
+   "origen": [
+    "cap-13.md:225-281"
+   ],
+   "reapariciones": [
+    "cap-17.md:107",
+    "cap-21.md:15-69, 147-153",
+    "cap-30.md:61-89, 185-219",
+    "cap-32.md:33-109, 205-207",
+    "cap-36.md:119-169",
+    "cap-37.md:71-89 (597 ramas)",
+    "cap-38.md:75-93"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener el arco interior; la deuda dramática exterior es CH-1 (N4)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S13-crecer, S21-inevitables, S32-amenaza, S32-cierre (nuevos parciales)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-62",
+   "plantado": "La continuidad anónima de los cinco segmentos",
+   "origen": [
+    "cap-13.md:205-217"
+   ],
+   "reapariciones": [
+    "cap-13.md:277 (Jean pierde el hueco)",
+    "cap-33.md:225-227 (la app repite una secuencia de cinco segmentos; a las 23:00 cierra tras el cuarto)",
+    "cap-34.md:71-81 (registro comparado: la ruta reservaba el quinto; tras el corte termina sin quinta posición)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (muere en la consolidación; el lector puede seguirla)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S33-hueco",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-63",
+   "plantado": "La Jardinera y su playa: «¿Podemos volver?» / «Dejo el hueco» / el lote de prueba",
+   "origen": [
+    "cap-23.md:199-287"
+   ],
+   "reapariciones": [
+    "cap-26.md:63-71",
+    "cap-29.md:49",
+    "cap-30.md:15-41, 107-143 (borrado a mitad de frase; RECURSO CONSOLIDADO · SIN DESTINO)",
+    "cap-31.md:59-67 («La Jardinera fue el lote de prueba»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (pagado como pérdida)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-23 íntegro; S30-borrado; S30-apertura (nuevo)",
+   "correccion_plan": "",
+   "nota": "Plan↔texto: la playa NO aparece en 21 en v0 (el plan pide sembrarla allí); 30 ya abre en Telegrafbukta (30:15)."
+  },
+  {
+   "id": "CH-64",
+   "plantado": "El guante omitido",
+   "origen": [
+    "cap-04.md:99 (un guante sin pareja en el naust)"
+   ],
+   "reapariciones": [
+    "cap-09.md:17-183 (los guantes de Nora; el perro)",
+    "cap-23.md:251, 263 («Jean encontró un guante»; «La Jardinera había omitido el guante»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (motivo del hueco)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "motivo",
+   "protegido_por": "cap-04, cap-09, cap-23 íntegros",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-65",
+   "plantado": "Telegrafbukta: el banco torcido y la fogata ajena",
+   "origen": [
+    "cap-09.md:89-191"
+   ],
+   "reapariciones": [
+    "cap-23.md:231-263",
+    "cap-30.md:15-21, 107-133, 145, 237-241 («la fogata ajena sigue ardiendo sola»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; usar como espacio recurrente en 21/30 (tabla 5.1)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-09, cap-23 íntegros; S30-apertura (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-66",
+   "plantado": "«…20…23:00…no lleguéis tarde…» (el audio de la ruta educativa)",
+   "origen": [
+    "cap-28.md:139-157, 195-199"
+   ],
+   "reapariciones": [
+    "cap-29.md:121 (Astrid confirma 20-ene 23:00)",
+    "cap-31.md:49-57 («Tenemos menos de dieciocho minutos»; «Veinte de enero, a las veintitrés horas»)",
+    "cap-31.md:237-241 (Ensayo general 23:00)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; el emisor del audio queda sin campo de origen (aceptable)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S28-cierre",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-67",
+   "plantado": "«Si algo sale mal, que Nora termine la canción igual»",
+   "origen": [
+    "cap-31.md:233"
+   ],
+   "reapariciones": [
+    "cap-37.md:61 (soltó el resto de la escala)",
+    "cap-40.md:79 (acabó los cuatro compases restantes tras el corte)",
+    "cap-41.md:63 (completó la pieza dentro de la apertura)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S31-cancion (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-68",
+   "plantado": "Los once segundos, la hoja Hvelv y Kronfjord (el sabotaje)",
+   "origen": [
+    "cap-18.md:171-199 (noticia; «error de supresión manual»)",
+    "cap-24.md:15-127 (once segundos; certificado hoja de Hvelv; «diligencia de activo crítico»; CUSTODIO NOMINAL · TOMAS EIDE; reconciliación programada para la mañana del lanzamiento)"
+   ],
+   "reapariciones": [
+    "cap-29.md:37",
+    "cap-32.md:105",
+    "cap-34.md:15-37, 261-275 (hoja HVAC de la misma CA)",
+    "cap-35.md:191-199",
+    "cap-39.md:101-103 (mecanismo, cadena y beneficio acreditados; ejecutor y ordenante en blanco)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; el ordenante permanece en blanco (Ap. A §3); T2 refuerza 1 beat en 39 («¿quién?» sin respuesta)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S24-once, S39-ordenante (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-69",
+   "plantado": "La orden condicional de custodia estratégica",
+   "origen": [
+    "cap-29.md:109 (ministerio: «solo se activaría ante una manifestación pública verificable»)"
+   ],
+   "reapariciones": [
+    "cap-34.md:243",
+    "cap-37.md:203-211 (activada a las 13:07)",
+    "cap-38.md:19, 89, 205"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S37-1307 (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-70",
+   "plantado": "El acta en blanco de Astrid: «Si no puedo llegar antes, llegaré durante»",
+   "origen": [
+    "cap-29.md:209-211"
+   ],
+   "reapariciones": [
+    "cap-34.md:227-257 (la carpeta sobre las rodillas)",
+    "cap-37.md:157-191 («Ahora había un hecho que consignar»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S29-durante (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-71",
+   "plantado": "«Las necesarias»",
+   "origen": [
+    "cap-29.md:213-215"
+   ],
+   "reapariciones": [
+    "cap-32.md:19, 53 (A CAMBIO DE NO SER REDUCIDAS A LAS NECESARIAS), 193"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; núcleo protegido",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S29-cierre, S32-necesarias",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-72",
+   "plantado": "La reserva de la bocana de Sørkoppen el 21 de enero (VHF)",
+   "origen": [
+    "cap-26.md:189-191"
+   ],
+   "reapariciones": [
+    "cap-28.md:149 (cierran el acceso a la bocana a las 21:08)",
+    "cap-35.md (operaciones en la bocana)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S26-bocana (nuevo)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-73",
+   "plantado": "El sensor bajo el alero (sesenta segundos en una sola dirección)",
+   "origen": [
+    "cap-39.md:173, 191"
+   ],
+   "reapariciones": [
+    "cap-40.md:163, 177-179 (Jean pide sesenta segundos diarios; primera entrega pendiente)",
+    "cap-41.md:17-65 (noventa segundos de excepción; la pieza dentro de la apertura)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "cap-41 íntegro",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-74",
+   "plantado": "«HIJO»: la llamada que Mats no atiende",
+   "origen": [
+    "cap-32.md:149-155"
+   ],
+   "reapariciones": [],
+   "estado_v0": "SIN-PAGO-INTENCIONAL",
+   "resolucion": "No ampliar: textura de personaje",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "Justificación: un solo beat humano; desarrollarlo daría a Mats una redención barata."
+  },
+  {
+   "id": "CH-75",
+   "plantado": "Inger: «¿Qué te puede costar esto? —Que alguien haga la pregunta adecuada»",
+   "origen": [
+    "cap-16.md:61-67"
+   ],
+   "reapariciones": [],
+   "estado_v0": "PENDIENTE-ASIGNAR",
+   "resolucion": "Tabla 5.1 cap-16: «+Inger (riesgo personal, 1 beat)»; el coste posterior queda sin escena (aceptable si el beat lo hace sentir)",
+   "estado_actual": "PENDIENTE-ASIGNAR",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S16-inger (nuevo)",
+   "correccion_plan": "",
+   "nota": "Inger no vuelve tras 16."
+  },
+  {
+   "id": "CH-76",
+   "plantado": "El anexo póstumo que «no consta»",
+   "origen": [
+    "cap-11.md:113 (un documento de origen que UNN no conservaba)",
+    "cap-16.md:37-41 (signataria; casilla sustituida por ocho ceros)"
+   ],
+   "reapariciones": [
+    "cap-20.md:123-127 (autorización de origen fechada once años atrás; «No exigí una autorización contemporánea»)",
+    "cap-22.md:113-121 (Sujeto Cero; «El expediente no fija caducidad por fallecimiento»)",
+    "cap-27.md:139",
+    "cap-39.md:105-109 («¿Dónde está el anexo? —No consta. Yo autoricé la cohorte sin leerlo»)"
+   ],
+   "estado_v0": "SIN-PAGO-INTENCIONAL",
+   "resolucion": "No rellenar el anexo (Principio 6: villanía sistémica; el hueco jurídico ES el contenido) — A0 confirma",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": "Justificación: el consentimiento póstumo nunca existió como documento contemporáneo; un anexo hallado resolvería la villanía o señalaría culpable."
+  },
+  {
+   "id": "CH-77",
+   "plantado": "Las cortesías de EDDA: «Buenas noches, Jean Marie» → «Buenos días, Jean Marie» → «Aquí no hay días»",
+   "origen": [
+    "cap-01.md:81 («Sesión cerrada. Buenas noches, Jean Marie.»)"
+   ],
+   "reapariciones": [
+    "cap-02.md:19 («Buenos días, Jean Marie»)",
+    "cap-25.md:25-31 («Buenos días, Jean Marie» / «Aquí no hay días»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (motivo)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "motivo",
+   "protegido_por": "cap-01 íntegro",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-78",
+   "plantado": "Kronfjord Kapital: «El calendario es el contrato»",
+   "origen": [
+    "cap-11.md:29-43 (el consejero de Kronfjord)",
+    "cap-11.md:183-187 («Kronfjord decidirá sobre la subvención»; «El calendario es el contrato»)"
+   ],
+   "reapariciones": [
+    "cap-19.md:207 (adenda; incumplimiento cruzado)",
+    "cap-24.md:71-73, 93-103",
+    "cap-27.md:17, 47",
+    "cap-34.md:21, 199",
+    "cap-35.md:199",
+    "cap-39.md:17-19, 101-103 (congela las líneas; entrega el contrato; el auto)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-79",
+   "plantado": "ÆGIR y la presión ministerial",
+   "origen": [
+    "cap-19.md:97-99"
+   ],
+   "reapariciones": [
+    "cap-22.md:197 («Interferir con el calendario de ÆGIR obligaría a coordinar con el ministerio»)",
+    "cap-29.md:93-117",
+    "cap-34.md:237-253",
+    "cap-37.md:203-211"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener; tabla 5.1 cap-29: +Astrid/ministerio (presión con nombre de pasillo)",
+   "estado_actual": "PAGADO",
+   "protegido": false,
+   "tipo": "plantado",
+   "protegido_por": "",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-80",
+   "plantado": "La cuenta atrás doble (consolidación 20-ene 23:00 / fase común 21-ene 12:47) y la ventana de marea 12:38–12:56",
+   "origen": [
+    "cap-25.md:203 (DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00)",
+    "cap-29.md:23 (20-ene-2061, 23:00)",
+    "cap-31.md:87, 99-107 (12:47; 12:38–12:56)"
+   ],
+   "reapariciones": [
+    "cap-32.md:17, 195-199",
+    "cap-33.md:225-227",
+    "cap-34.md:15, 135, 217-223, 301-313",
+    "cap-35.md:65, 121, 153-155, 279",
+    "cap-37.md:203 (13:07)",
+    "cap-38.md:205 (13:11)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (M7)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "estructura",
+   "protegido_por": "S25-fecha, S29-orden, S34-cierre, S35-cierre, S37-1307, S38-quinta (nuevos)",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-81",
+   "plantado": "«Consciencia residual: indeterminado» / persona-consciencia-propiedad sin resolver",
+   "origen": [
+    "cap-11.md:305-307"
+   ],
+   "reapariciones": [
+    "cap-18.md:133",
+    "cap-23.md:189-191 («No toda»)",
+    "cap-26.md:65-71",
+    "cap-37.md:171, 191 (Astrid dejó en blanco la atribución; ni persona ni modelo)",
+    "cap-38.md:179",
+    "cap-39.md:79, 189 (casilla de definición jurídica en blanco)",
+    "cap-40.md:45"
+   ],
+   "estado_v0": "SIN-PAGO-INTENCIONAL",
+   "resolucion": "PROTEGIDO: ambigüedad ontológica (Ap. A §3; «No toda» es el techo)",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
+   "protegido": true,
+   "tipo": "ambigüedad",
+   "protegido_por": "S11-consciencia, S39-casilla (nuevos); cap-23 íntegro",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-82",
+   "plantado": "La moratoria de Jurídico hasta el 11 de diciembre",
+   "origen": [
+    "cap-11.md:297"
+   ],
+   "reapariciones": [
+    "cap-14.md:123-127 («Ha vencido esta mañana»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "—",
+   "correccion_plan": "",
+   "nota": ""
+  },
+  {
+   "id": "CH-83",
+   "plantado": "El burofax: «Propiedad intelectual» / «activo memorial» / «ACTIVO»",
+   "origen": [
+    "cap-16.md:255-259"
+   ],
+   "reapariciones": [
+    "cap-18.md:231",
+    "cap-23.md:19-21 («activo memorial»)",
+    "cap-37.md:95",
+    "cap-38.md:37 (ACTIVO)",
+    "cap-39.md:79, 211 («La parte dispositiva solo nombraba el activo»)"
+   ],
+   "estado_v0": "PAGADO",
+   "resolucion": "Mantener (título de la Parte III)",
+   "estado_actual": "PAGADO",
+   "protegido": true,
+   "tipo": "plantado",
+   "protegido_por": "S16-propiedad (nuevo); cap-23 íntegro",
+   "correccion_plan": "",
+   "nota": ""
+  }
+ ]
+}

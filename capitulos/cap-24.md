@@ -6,7 +6,7 @@ fecha: 2061-01-02
 estado: terminado
 analepsis: false
 estado_plan: E
-proteccion: "no"
+proteccion: nucleo
 ot: OT-24
 delta_objetivo: +300
 orden_lectura: 24
