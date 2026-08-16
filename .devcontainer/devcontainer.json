@@ -6,7 +6,7 @@
     "ghcr.io/devcontainers/features/github-cli:1": {},
     "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
   },
-  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y tmux && npm install",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y tmux",
   "customizations": {
     "vscode": {
       "extensions": [

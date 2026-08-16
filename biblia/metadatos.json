@@ -1,20 +1,374 @@
 {
-  "titulo": "",
+  "titulo": "Ad aeternum",
   "subtitulo": "",
   "autor": "Alen Vace",
+  "dedicatoria": "A mi mujer, por regalarme el tiempo, el silencio y el amor necesarios para llenar estas páginas. A mi hija, por llenar de luz y ruido feliz el mundo fuera de ellas. *Gracias por ser mi impulso diario.*",
+  "dinkus": "* * *",
+  "letras-capitales": true,
   "idioma": "es-ES",
-  "slug": "mi-novela",
-  "sinopsis_corta": "",
-  "_formato_capitulos": "Lista oficial de capítulos. Cada entrada: { n, slug, titulo, archivo }. 'archivo' SIEMPRE 'cap-NN.md' con NN de dos dígitos. La rellena /arquitecto.",
-  "partes": [],
-  "capitulos": [],
-  "publicacion": {
-    "_nota": "Fase E (opcional). Rellenar solo si se quiere material de publicación.",
-    "blurb": "",
-    "keywords": [],
-    "categorias": [],
-    "comp_titles": [],
-    "publico_objetivo": ""
-  },
-  "palabras_objetivo": 0
+  "slug": "ad-aeternum",
+  "sinopsis_corta": "Cuando la creadora de la IA más avanzada de Europa muere, su empresa convierte miles de continuidades nacidas de su trabajo en el motor de ARGOS; sus hijas tienen las ocho semanas de la noche polar para hacer visible que esas ejecuciones recuerdan, eligen y se niegan antes de que sus decisiones se vendan como una función del producto.",
+  "partes": [
+    {
+      "n": 1,
+      "titulo": "Mørketid",
+      "subtitulo": "24 de noviembre de 2060 · Faltan 58 días para Soldagen",
+      "capitulo_inicial": 1,
+      "capitulo_final": 10
+    },
+    {
+      "n": 2,
+      "titulo": "Fije la vista",
+      "subtitulo": "6 de diciembre de 2060 · Faltan 46 días para Soldagen",
+      "capitulo_inicial": 11,
+      "capitulo_final": 20
+    },
+    {
+      "n": 3,
+      "titulo": "Propiedad intelectual",
+      "subtitulo": "25 de diciembre de 2060 · Faltan 27 días para Soldagen",
+      "capitulo_inicial": 21,
+      "capitulo_final": 30
+    },
+    {
+      "n": 4,
+      "titulo": "Soldagen",
+      "subtitulo": "15 de enero de 2061 · Faltan 6 días para Soldagen",
+      "capitulo_inicial": 31,
+      "capitulo_final": 41
+    }
+  ],
+  "capitulos": [
+    {
+      "n": 1,
+      "slug": "corona",
+      "titulo": "Corona",
+      "archivo": "cap-01.md",
+      "palabras": 750,
+      "origen": "PRÓLOGO"
+    },
+    {
+      "n": 2,
+      "slug": "la-pecera",
+      "titulo": "La pecera",
+      "archivo": "cap-02.md",
+      "palabras": 1550,
+      "origen": "CAP. 1"
+    },
+    {
+      "n": 3,
+      "slug": "vacaciones-muy-largas",
+      "titulo": "Vacaciones muy largas",
+      "archivo": "cap-03.md",
+      "palabras": 2050,
+      "origen": "CAP. 2"
+    },
+    {
+      "n": 4,
+      "slug": "el-ferry",
+      "titulo": "El ferry",
+      "archivo": "cap-04.md",
+      "palabras": 1510,
+      "origen": "CAP. 3"
+    },
+    {
+      "n": 5,
+      "slug": "flor",
+      "titulo": "Flor",
+      "archivo": "cap-05.md",
+      "palabras": 1760,
+      "origen": "CAP. 4"
+    },
+    {
+      "n": 6,
+      "slug": "la-casa-sin-ella",
+      "titulo": "La casa sin ella",
+      "archivo": "cap-06.md",
+      "palabras": 2040,
+      "origen": "CAP. 5"
+    },
+    {
+      "n": 7,
+      "slug": "lote-rojo",
+      "titulo": "Lote rojo",
+      "archivo": "cap-07.md",
+      "palabras": 1620,
+      "origen": "CAP. 6"
+    },
+    {
+      "n": 8,
+      "slug": "milisegundos",
+      "titulo": "Milisegundos",
+      "archivo": "cap-08.md",
+      "palabras": 1020,
+      "origen": "CAP. 7"
+    },
+    {
+      "n": 9,
+      "slug": "despedida",
+      "titulo": "Despedida",
+      "archivo": "cap-09.md",
+      "palabras": 1910,
+      "origen": "CAP. 8"
+    },
+    {
+      "n": 10,
+      "slug": "caries",
+      "titulo": "Caries",
+      "archivo": "cap-10.md",
+      "palabras": 1495,
+      "origen": "CAP. 9"
+    },
+    {
+      "n": 11,
+      "slug": "preservacion-funcional",
+      "titulo": "Preservación funcional",
+      "archivo": "cap-11.md",
+      "palabras": 1900,
+      "origen": "CAP. 10"
+    },
+    {
+      "n": 12,
+      "slug": "gunnar",
+      "titulo": "Gunnar",
+      "archivo": "cap-12.md",
+      "palabras": 1950,
+      "origen": "CAP. 11"
+    },
+    {
+      "n": 13,
+      "slug": "miles",
+      "titulo": "Miles",
+      "archivo": "cap-13.md",
+      "palabras": 1250,
+      "origen": "CAP. 12"
+    },
+    {
+      "n": 14,
+      "slug": "la-visita",
+      "titulo": "La visita",
+      "archivo": "cap-14.md",
+      "palabras": 1740,
+      "origen": "CAP. 13"
+    },
+    {
+      "n": 15,
+      "slug": "canela",
+      "titulo": "Canela",
+      "archivo": "cap-15.md",
+      "palabras": 1160,
+      "origen": "CAP. 14"
+    },
+    {
+      "n": 16,
+      "slug": "la-firma",
+      "titulo": "La firma",
+      "archivo": "cap-16.md",
+      "palabras": 1870,
+      "origen": "CAP. 15"
+    },
+    {
+      "n": 17,
+      "slug": "cuchillo",
+      "titulo": "Cuchillo",
+      "archivo": "cap-17.md",
+      "palabras": 880,
+      "origen": "CAP. 16"
+    },
+    {
+      "n": 18,
+      "slug": "no-determinista",
+      "titulo": "No determinista",
+      "archivo": "cap-18.md",
+      "palabras": 2060,
+      "origen": "CAP. 17"
+    },
+    {
+      "n": 19,
+      "slug": "nidhogg",
+      "titulo": "NIDHOGG",
+      "archivo": "cap-19.md",
+      "palabras": 1940,
+      "origen": "CAP. 18"
+    },
+    {
+      "n": 20,
+      "slug": "la-cuarta-nota",
+      "titulo": "La cuarta nota",
+      "archivo": "cap-20.md",
+      "palabras": 1510,
+      "origen": "CAP. 19"
+    },
+    {
+      "n": 21,
+      "slug": "coro",
+      "titulo": "Coro",
+      "archivo": "cap-21.md",
+      "palabras": 720,
+      "origen": "CAP. 20"
+    },
+    {
+      "n": 22,
+      "slug": "auditoria",
+      "titulo": "Auditoría",
+      "archivo": "cap-22.md",
+      "palabras": 1520,
+      "origen": "CAP. 21"
+    },
+    {
+      "n": 23,
+      "slug": "la-cancion",
+      "titulo": "La canción",
+      "archivo": "cap-23.md",
+      "palabras": 1770,
+      "origen": "CAP. 22"
+    },
+    {
+      "n": 24,
+      "slug": "accidente",
+      "titulo": "Accidente",
+      "archivo": "cap-24.md",
+      "palabras": 1760,
+      "origen": "CAP. 23"
+    },
+    {
+      "n": 25,
+      "slug": "edda",
+      "titulo": "EDDA",
+      "archivo": "cap-25.md",
+      "palabras": 900,
+      "origen": "CAP. 24"
+    },
+    {
+      "n": 26,
+      "slug": "casa-prestada",
+      "titulo": "Casa prestada",
+      "archivo": "cap-26.md",
+      "palabras": 1535,
+      "origen": "CAP. 25"
+    },
+    {
+      "n": 27,
+      "slug": "apartada",
+      "titulo": "Apartada",
+      "archivo": "cap-27.md",
+      "palabras": 1800,
+      "origen": "CAP. 26"
+    },
+    {
+      "n": 28,
+      "slug": "el-mismo-trayecto",
+      "titulo": "El mismo trayecto",
+      "archivo": "cap-28.md",
+      "palabras": 1390,
+      "origen": "CAP. 27"
+    },
+    {
+      "n": 29,
+      "slug": "la-poda",
+      "titulo": "La poda",
+      "archivo": "cap-29.md",
+      "palabras": 1280,
+      "origen": "CAP. 28"
+    },
+    {
+      "n": 30,
+      "slug": "la-asamblea",
+      "titulo": "La asamblea",
+      "archivo": "cap-30.md",
+      "palabras": 1300,
+      "origen": "CAP. 29"
+    },
+    {
+      "n": 31,
+      "slug": "el-ladrillo",
+      "titulo": "El ladrillo",
+      "archivo": "cap-31.md",
+      "palabras": 1400,
+      "origen": "CAP. 30"
+    },
+    {
+      "n": 32,
+      "slug": "la-oferta",
+      "titulo": "La oferta",
+      "archivo": "cap-32.md",
+      "palabras": 1515,
+      "origen": "CAP. 31"
+    },
+    {
+      "n": 33,
+      "slug": "bajamar",
+      "titulo": "Bajamar",
+      "archivo": "cap-33.md",
+      "palabras": 1640,
+      "origen": "REVISIÓN 9"
+    },
+    {
+      "n": 34,
+      "slug": "soldagen",
+      "titulo": "Soldagen",
+      "archivo": "cap-34.md",
+      "palabras": 2400,
+      "origen": "CAP. 32"
+    },
+    {
+      "n": 35,
+      "slug": "caida",
+      "titulo": "Caída",
+      "archivo": "cap-35.md",
+      "palabras": 2000,
+      "origen": "CAP. 33"
+    },
+    {
+      "n": 36,
+      "slug": "cuchillo-abre-los-ojos",
+      "titulo": "Cuchillo abre los ojos",
+      "archivo": "cap-36.md",
+      "palabras": 1145,
+      "origen": "CAP. 34"
+    },
+    {
+      "n": 37,
+      "slug": "no-soy-un-modelo",
+      "titulo": "No soy un modelo",
+      "archivo": "cap-37.md",
+      "palabras": 2400,
+      "origen": "CAP. 35"
+    },
+    {
+      "n": 38,
+      "slug": "norna",
+      "titulo": "Norna",
+      "archivo": "cap-38.md",
+      "persona": "primera",
+      "palabras": 1510,
+      "origen": "CAP. 36"
+    },
+    {
+      "n": 39,
+      "slug": "deposito",
+      "titulo": "Depósito",
+      "archivo": "cap-39.md",
+      "palabras": 1950,
+      "origen": "CAP. 37"
+    },
+    {
+      "n": 40,
+      "slug": "sombra",
+      "titulo": "Sombra",
+      "archivo": "cap-40.md",
+      "palabras": 2100,
+      "origen": "CAP. 38"
+    },
+    {
+      "n": 41,
+      "slug": "el-siguiente-soldagen",
+      "titulo": "El siguiente Soldagen",
+      "archivo": "cap-41.md",
+      "palabras": 1000,
+      "origen": "EPÍLOGO"
+    }
+  ],
+  "publicacion": {},
+  "palabras_objetivo": 65000
 }

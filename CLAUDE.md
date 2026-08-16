@@ -1,61 +1,52 @@
-# CLAUDE.md — convenciones del proyecto
+# Proyecto: revisión-expansión de la novela «Ad aeternum»
 
-Repositorio para escribir **una novela larga** (español de España) asistida por Claude Code. Esto son las reglas que siempre se cumplen. Mantenlo corto: es contexto estable (se cachea).
+## Contrato de operación
 
-## Regla de oro
+@plan-revision-ad-aeternum.md
+Baseline de puntuaciones (crítica de referencia): @critica-ad-aeternum.md
+Tú eres A0 (orquestador). Los demás roles son subagentes según §2.1 y §2.5 del plan.
 
-**El orquestador (la sesión principal y los comandos `/arquitecto`, `/capitulo`…) NO escribe prosa de la novela.** La prosa la escribe SIEMPRE el subagente **redactor**. El director diseña, delega y verifica. Escribir prosa en la sesión principal gasta contexto y la compactación borraría el diseño.
+## Estructura del repositorio
 
-## Idioma
+- `capitulos/cap-01.md … cap-41.md` — un capítulo por fichero, frontmatter YAML del autor (`capitulo`, `titulo`, `pov`, `fecha`, `estado`, `analepsis`).
+- `capitulos/cap-n1.md … cap-n6.md` — capítulos nuevos del plan (tabla 5.1), con `orden_lectura` decimal (§2.4).
+- `biblia/metadatos.json` — MANIFIESTO del proyecto: partes (títulos y subtítulos con cuenta atrás), registro de capítulos (n, slug, archivo, origen, palabras), campos editoriales del autor. Fuente de verdad editorial.
+- `biblia/` (resto) — B0–B8 generados por A1 en Fase 0.
+- `ordenes/`, `informes/`, `protegidos/`, `herramientas/`, `compilado/` — según §2.2.
 
-Toda la novela y la biblia, en **español de España** (vosotros, RAE, léxico peninsular). La raya (—) es la puntuación correcta del diálogo; úsala con normalidad.
+## Reglas del manifiesto (metadatos.json)
 
-## Registro
+- Campos de AUTOR — `titulo`, `subtitulo`, `autor`, `dedicatoria`, `sinopsis_corta`, `dinkus`, `letras-capitales`, `idioma`, `slug`, `publicacion` — intocables sin gate de autor.
+- Campos OPERATIVOS — `capitulos[]`, `partes[].capitulo_inicial/final`, `palabras`, `palabras_objetivo` — solo se modifican vía `herramientas/actualizar-metadatos.sh` (nunca a mano), con historia git.
+- En F0: `palabras_objetivo` 65.000 → 85.000; añade `palabras_real` por capítulo (recuento real, sin frontmatter); reescribe `palabras` como presupuesto vF = palabras_real(v0) + `delta_objetivo` (tabla 5.1). M8 lee la banda del manifiesto (objetivo ± 1.000).
+- Capítulos nuevos: se registran en `capitulos[]` SOLO tras superar G-A2, con `origen: "REVISIÓN 10"` (convención del autor: cap-33 consta como "REVISIÓN 9").
+- Rangos de `partes[]`: NO se tocan durante el trabajo (los `orden_lectura` decimales caen dentro de los rangos vigentes). Renumeración de `capitulo` y rangos: una sola vez, en W7 (pasan a 1–12, 13–24, 25–36, 37–47).
+- `persona` por capítulo (p. ej. `"primera"` en cap-38) es contrato estilístico: el validador falla si la prosa no coincide. El cambio de persona del 38 está protegido (Apéndice A).
 
-El registro lo manda la historia: lenguaje malsonante, sexo y violencia están permitidos cuando la escena los requiere, especialmente en diálogo (ver `biblia/estilo.md` §14; el nivel de crudeza de cada novela se declara en `biblia/premisa.md`). No desinfectar. Único límite innegociable: nada que sexualice a menores.
+## Reglas duras (siempre)
 
-## Estructura
+- Ficheros con `proteccion: total` — cap-01, cap-03, cap-04, cap-05, cap-09, cap-20, cap-23, cap-41, 00-aviso, 99-recursos — son INTOCABLES: diff = 0 salvo ortotipografía aprobada en gate. Verificación por hash (M9) en pre-commit; hook PreToolUse bloquea Write/Edit sobre ellos.
+- Los núcleos con `proteccion: nucleo` (Apéndice A del plan) se verifican por hash de span.
+- El tag git `v0` es la baseline congelada: prohibido reescribir historia anterior al tag.
+- Carta de sensibilidad (Apéndice F del plan): vinculante en TODO borrador, incluso descartado. Veto de A7 no negociable.
+- Máximo 1 mecánica nueva por capítulo de Jean (M2). Toda inserción lleva etiqueta de función; sin etiqueta, se borra.
+- Frontmatter: los campos del autor no se eliminan ni renombran jamás; el plan solo AÑADE los suyos (`estado_plan`, `proteccion`, `ot`, `delta_objetivo`, `orden_lectura`). `capitulo` y `titulo` no se renumeran hasta W7. Nada de notas de trabajo en el cuerpo de los capítulos.
+- Una rama git por oleada; merge a `main` solo tras superar el gate; un commit por capítulo con el ID de orden de trabajo en el mensaje.
+- A6 (críticos fríos) y A6b (beta) reciben ÚNICAMENTE `compilado/ad-aeternum-vX.md` — sin frontmatter, sin dedicatoria ni sinopsis, nunca el plan ni los changelogs.
+- En los gates G-A1, G-A2 y G-A3: detente y pregúntame. No los auto-apruebes.
 
-- `biblia/` — diseño (la fuente de verdad). `estilo.md` es la ley de la prosa y no se reescribe a la ligera.
-- `memoria/` — estado acumulado: `hechos.md`, `nombres.md`, `preguntas-abiertas.md`, `motivos.md`, `ideas.md`, `rasgos.md` (tics/rasgos/sensaciones por personaje, para anti-repetición).
-- `estado/despues-cap-NN.md` — instantánea del mundo tras cada capítulo (la escribe el archivista).
-- `capitulos/cap-NN.md` — la prosa. `briefs/cap-NN.md` — el encargo. `notas/cap-NN.md` — feedback del autor.
-- `scripts/` — instrumental TypeScript (CLI). `builds/` — salida concatenada.
+## Comandos
 
-## Convención de nombres (estricta, la usan los scripts)
+- `herramientas/compilar.sh` — lee el manifiesto + `orden_lectura`, genera las cabeceras de parte desde `partes[]`, quita frontmatter, excluye dedicatoria/sinopsis, escribe en `compilado/` y reporta M8.
+- `herramientas/actualizar-metadatos.sh` — única vía de escritura de campos operativos del manifiesto.
+- `herramientas/medir.sh` — ejecuta M1–M10 y vuelca el dashboard en `informes/`.
+  (Los creas tú en Fase 0 si no existen.)
 
-`cap-NN.md` con NN de **dos dígitos** (cap-01, cap-02…). Igual para `briefs/cap-NN.md`, `estado/despues-cap-NN.md`, `notas/cap-NN.md`. La lista oficial de capítulos vive en `biblia/metadatos.json`.
+## Modelos y esfuerzo
 
-## Front-matter de capítulo
+Sesión principal: claude-fable-5 a esfuerzo máximo. Subagentes según la tabla de §2.5 del plan: escritores/línea/sensibilidad con `inherit`; críticos A6 FIJADOS por ID (2× claude-fable-5 + 1× claude-opus-4-8, jueces mixtos también en la A/B ciega); A5 y A6b en claude-opus-4-8; A8 en claude-haiku-4-5 con `effort: low`.
 
-```
----
-capitulo: N
-titulo: <título>
-pov: <personaje>
-fecha: <ISO: 1992-04-05 o 1992-04-05T21:30>
-estado: terminado   # o borrador / pendiente
-analepsis: false    # true si retrocede en el tiempo
----
-```
+## Estado
 
-## Comandos (instrumental, 0 tokens de modelo)
-
-- `npm run lint -- capitulos/cap-NN.md` — linter de prosa (AI-ismos, cadencia, español).
-- `npm run coherencia -- status` — documentos obsoletos. `impact <ruta>` — qué depende de algo.
-- `npm run cronologia` — valida fechas. `npm run similitud` — reincidencias entre capítulos.
-- `npm run repeticiones` — tics/rasgos/sensaciones que un personaje repite (determinista, 0 tokens).
-- `npm run hilos` — presagios vencidos, tensión viva (preguntas mayores), longitud y presupuesto de palabras.
-- `npm run tipografia -- --fix` — ortotipografía española (raya de diálogo, «», …, ¿¡, espacios); corrige sola lo inequívoco.
-- `npm run originalidad` — extrae candidatos antiplagio (versos, citas, aperturas, n-gramas raros) para la skill /originalidad.
-- `npm run salud` — Definition of Done de la novela (puerta de calidad).
-- `npm run build` — concatena en `builds/<slug>.md`. `npm run deploy` — previsualización (stub).
-- `npm run escribir-resto` — runner autónomo de capítulos pendientes.
-
-## Caché (tokens)
-
-El material estable (estilo, esta guía, biblia que no cambia) va al **principio** de cada prompt de subagente; lo volátil (el brief) al **final**. Para tiradas autónomas: `CLAUDE_CACHE_TTL=1h` y capítulos seguidos.
-
-## Flujo
-
-`/arquitecto` (biblia) → revisar → `/capitulo 1` → revisar voz → `/escribir-resto` → `/informe` → `/ejecutar-plan` → `/pulir` (notas) → `/aplicar-notas` → `/originalidad` (antes de publicar). `/podar <objetivo>` si la novela se pasa. Detalle en RUNBOOK.md.
+- Fase actual: F0 (B0 auditoría del manifiesto + Biblia B1–B8). Actualiza esta línea al cerrar cada fase/oleada.
+- Última versión aceptada: v0 (tag).
