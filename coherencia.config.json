@@ -1,0 +1,48 @@
+{
+  "scan": [
+    { "path": "biblia", "tipo": "biblia" },
+    { "path": "briefs", "tipo": "brief" },
+    { "path": "capitulos", "tipo": "capitulo" },
+    { "path": "estado", "tipo": "estado" },
+    { "path": "memoria", "tipo": "memoria" },
+    { "path": "notas", "tipo": "nota" }
+  ],
+  "reglas": [
+    {
+      "nombre": "la biblia informa los briefs",
+      "from": "biblia/*.md",
+      "to": "briefs/*.md",
+      "relacion": "informa"
+    },
+    {
+      "nombre": "la biblia informa los capitulos",
+      "from": "biblia/*.md",
+      "to": "capitulos/*.md",
+      "relacion": "informa"
+    },
+    {
+      "nombre": "el brief alimenta su capitulo",
+      "from": "briefs/cap-{n}.md",
+      "to": "capitulos/cap-{n}.md",
+      "relacion": "alimenta"
+    },
+    {
+      "nombre": "el capitulo actualiza su estado del mundo",
+      "from": "capitulos/cap-{n}.md",
+      "to": "estado/despues-cap-{n}.md",
+      "relacion": "actualiza"
+    },
+    {
+      "nombre": "los capitulos nutren la memoria",
+      "from": "capitulos/*.md",
+      "to": "memoria/*.md",
+      "relacion": "extrae"
+    },
+    {
+      "nombre": "las notas alimentan su capitulo",
+      "from": "notas/cap-{n}.md",
+      "to": "capitulos/cap-{n}.md",
+      "relacion": "revision"
+    }
+  ]
+}

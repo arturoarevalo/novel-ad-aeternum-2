@@ -1,0 +1,20 @@
+{
+  "titulo": "",
+  "subtitulo": "",
+  "autor": "Alen Vace",
+  "idioma": "es-ES",
+  "slug": "mi-novela",
+  "sinopsis_corta": "",
+  "_formato_capitulos": "Lista oficial de capítulos. Cada entrada: { n, slug, titulo, archivo }. 'archivo' SIEMPRE 'cap-NN.md' con NN de dos dígitos. La rellena /arquitecto.",
+  "partes": [],
+  "capitulos": [],
+  "publicacion": {
+    "_nota": "Fase E (opcional). Rellenar solo si se quiere material de publicación.",
+    "blurb": "",
+    "keywords": [],
+    "categorias": [],
+    "comp_titles": [],
+    "publico_objetivo": ""
+  },
+  "palabras_objetivo": 0
+}

@@ -1,0 +1,27 @@
+{
+  "name": "novela",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:24",
+  "shutdownAction": "none",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y tmux && npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "anthropic.claude-code",
+        "dbaeumer.vscode-eslint",
+        "yzhang.markdown-all-in-one"
+      ],
+      "settings": {
+        "editor.wordWrap": "on",
+        "files.eol": "\n"
+      }
+    }
+  },
+  "remoteEnv": {
+    "ANTHROPIC_API_KEY": "${localEnv:ANTHROPIC_API_KEY}"
+  },
+  "//": "Claude Code se instala globalmente en postCreate. Si prefieres el instalador nativo, sustituye el comando por el de la documentación oficial. Para sesiones autónomas largas conviene exportar tu credencial y lanzar con --dangerously-skip-permissions (ver RUNBOOK.md)."
+}

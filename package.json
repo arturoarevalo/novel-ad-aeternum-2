@@ -1,0 +1,32 @@
+{
+  "name": "novela",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Plantilla de novela larga asistida por Claude Code (español de España).",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "cli": "tsx scripts/src/cli.ts",
+    "build": "tsx scripts/src/cli.ts build",
+    "build-docx": "tsx scripts/src/cli.ts build-docx",
+    "deploy": "tsx scripts/src/cli.ts deploy",
+    "coherencia": "tsx scripts/src/cli.ts coherencia",
+    "lint": "tsx scripts/src/cli.ts lint",
+    "similitud": "tsx scripts/src/cli.ts similitud",
+    "repeticiones": "tsx scripts/src/cli.ts repeticiones",
+    "hilos": "tsx scripts/src/cli.ts hilos",
+    "cronologia": "tsx scripts/src/cli.ts cronologia",
+    "salud": "tsx scripts/src/cli.ts salud",
+    "check": "tsx scripts/src/cli.ts salud",
+    "escribir-resto": "tsx scripts/src/cli.ts runner",
+    "tipografia": "tsx scripts/src/cli.ts tipografia",
+    "originalidad": "tsx scripts/src/cli.ts originalidad"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  }
+}

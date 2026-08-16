@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat | grep -qE '\"file_path\"[^,]*(capitulos/|biblia/)' && npm run --silent coherencia -- status --warn-only || true"
+          }
+        ]
+      }
+    ]
+  },
+  "//": "Hook barato (~0 tokens): tras editar un capitulo o la biblia, avisa de documentos que han quedado obsoletos. NO ejecuta build ni deploy: eso lo hace el ultimo paso de /capitulo, cuando ya estan todos los cambios del pipeline. Si tu sistema no pasa el JSON del hook por stdin, el grep simplemente no encontrara nada y no hara ruido."
+}

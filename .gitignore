@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+
+# Salidas de build/deploy (se regeneran)
+builds/*.md
+builds/*.html
+builds/*.epub
+!builds/.gitkeep
+
+# Estado del runner autónomo
+.runner-state.json
+
+# Informes de salud generados
+informes/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Secretos / entorno local
+.env
+.env.local
+deploy/.env.production
