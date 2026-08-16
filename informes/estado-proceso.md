@@ -30,6 +30,13 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 B0 `informes/b0-discrepancias.md` · B1 `biblia/b1-cronologia.md` · B2 `biblia/b2-dossieres-voces-1-…` y `-2-…` · B3 `biblia/b3-canon-sistema.md` + `b3-lexicon.json` · B4 `biblia/b4-ledger-chekhov.md` + `b4-ledger.json` · B5 `biblia/b5-lista-protegida.md` + `protegidos/` · B6 `biblia/b6-huella-estilistica.md` (+ lista negra A4) · B7 `biblia/b7-carta-sensibilidad.md` · B8 no aplica. Hallazgos para G-A1: `informes/g0-gate.md` §3.
 
+## F1 en curso (checkpoint 2026-08-16, sesión 2)
+
+- Rama `w1-biblia-diagnostico` limpia al arrancar; agentes de `.claude/agents/` ya disponibles por nombre.
+- Nueva herramienta: `herramientas/extraer.sh <etiqueta> [archivos]` → `compilado/extractos/<etiqueta>/cap-NN.md` (cabecera numerada + cuerpo sin frontmatter; insumo ÚNICO de `lector-frio`). Generados los 16 extractos v0 de capítulos de Jean (01 02 03 04 05 07 08 13 15 17 21 25 30 36 37 38).
+- **Lanzados en segundo plano (resultados NO recogidos aún; si la sesión se corta, hay que relanzarlos):** A6×3 sobre `compilado/ad-aeternum-v0.md` (calibración; salida prevista `informes/a6-v0-critico-{1,2,3}.md`), A5 auditoría de reglas B3 §19 (+§21, calendario domingos) → `informes/d1-auditoria-reglas.md`, `lector-frio` sobre cap-01.
+- **Pendiente de lanzar:** `lector-frio` para los otros 15 extractos (salida a `informes/d1-lector-frio/cap-NN.md`); M6b con `informes/m6-muestra-v0.md` (protocolo decidido: agente general con `model: opus`, variante 1 «reparto neutro» = canónica, variante 2 con guías Ap. C, + una pasada `fable`; puntuar con `herramientas/lib/m6_muestra.py puntuar v0 <respuestas.json>`); decisiones A0 sobre B3 §19 (A/B/C por flexión) y ledger B4 (CH-31, CH-44, CH-76; criterios de aceptación por OT); D1 (`informes/d1-diagnostico.md`) con objetivos numéricos por capítulo (M1 −30 % en los seis; M4 sobre censo B6 = 32 → ≤ 18 con lista blanca 12; M3 P3; M5 valle; lector frío ≥ v0+1); pase de A7 sobre B1/B2 + resúmenes de lector frío (petición G0 §3.14); `informes/g1-gate.md`; actualizar CLAUDE.md «Estado»; commit; presentar G1 + consumo al autor ANTES de fusionar en main.
+
 ## Plan inmediato (F1)
 
 1. Reiniciar la sesión (para que `.claude/agents/` esté disponible) → comprobar `git status`, `git log`.
