@@ -4,7 +4,7 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 ## Situación
 
-- **Fase actual:** F0 CERRADA — G0 presentado (`informes/g0-gate.md`): superado con condiciones de autor C1 (paratextos) y C2 (borradores 85k). Siguiente: F1 (D1) en la misma rama W1 → G1 → merge a main.
+- **Fase actual:** F0 CERRADA — G0 SUPERADO (decisiones de autor registradas abajo). Siguiente: F1 (D1) en la misma rama W1 → G1 → merge a main.
 - **Rama:** `w1-biblia-diagnostico` (oleada W1 = F0 + F1; merge a `main` solo tras G0 + G1).
 - **Baseline:** tag `v0` (61e446f). Recuento canónico v0: 62.750 palabras.
 - **Última versión aceptada:** v0.
@@ -19,11 +19,12 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 6. Subagentes en `.claude/agents/` (17 ficheros; modelos/esfuerzo exactos §2.5). **Requieren reiniciar la sesión para estar disponibles por nombre.** En F0 el trabajo de A1/A7 se ha lanzado con agentes generales que llevan el prompt del rol y heredan el modelo (coincide con §2.5).
 7. Paratextos provisionales `00-aviso.md`/`99-recursos.md` (pendientes de validación de autor).
 
-## Pendiente de autor (G0)
+## Decisiones de autor en G0 (registradas 2026-08-16)
 
-- C1: aportar/validar aviso de contenido y recursos de ayuda (borradores provisionales; A7 los aprobó con observaciones).
-- C2: ¿existen los borradores de ~85.000 palabras? No están en el repositorio.
-- Aceptar el recuento canónico (62.750) como referencia del ledger (el plan citaba ~63.400) y que la reserva §5.3 se usará casi entera.
+- **C1:** el autor edita él mismo `capitulos/00-aviso.md` y `capitulos/99-recursos.md`. Siguen `provisional: true` (sin hash M9) hasta que diga «paratextos listos»; entonces A0 pone `provisional: false`, re-registra con `actualizar-metadatos.sh paratexto`, y congela con `proteger.sh baseline`. Mientras tanto el compilado los incluye tal como estén.
+- **C2:** no existen borradores previos → B8 cerrado (no aplica).
+- **Recuento canónico 62.750 aceptado** como referencia del ledger.
+- G0: **SUPERADO**.
 
 ## Biblia entregada (F0)
 

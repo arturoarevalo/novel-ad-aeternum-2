@@ -4,7 +4,7 @@
 
 ## 1. Veredicto de A0
 
-**G0: SUPERADO CON DOS CONDICIONES DE AUTOR (no bloqueantes para F1).** B0–B7 están completos y verificados; B8 no aplica por ausencia de insumo. Las condiciones: (C1) validar o sustituir los paratextos provisionales `00-aviso.md` / `99-recursos.md`; (C2) confirmar si existen los borradores de ~85k (B8). Ambas pueden resolverse durante F1.
+**G0: SUPERADO.** (Decisiones de autor 2026-08-16: C1 los paratextos los edita el autor y siguen provisionales hasta su aviso; C2 no hay borradores → B8 cerrado; recuento 62.750 aceptado.) B0–B7 están completos y verificados; B8 no aplica por ausencia de insumo. Las condiciones: (C1) validar o sustituir los paratextos provisionales `00-aviso.md` / `99-recursos.md`; (C2) confirmar si existen los borradores de ~85k (B8). Ambas pueden resolverse durante F1.
 
 ## 2. Checklist de artefactos
 

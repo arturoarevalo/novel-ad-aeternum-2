@@ -52,5 +52,5 @@ Sesión principal: claude-fable-5 a esfuerzo máximo. Subagentes según la tabla
 
 ## Estado
 
-- Fase actual: F0 cerrada (G0 presentado en `informes/g0-gate.md`, con condiciones C1/C2 de autor); siguiente: F1 (diagnóstico D1) en la misma rama W1 → G1 → merge a main. Actualiza esta línea al cerrar cada fase/oleada.
+- Fase actual: F0 cerrada, G0 SUPERADO (`informes/g0-gate.md`; paratextos en edición por el autor, provisionales hasta su aviso); siguiente: F1 (diagnóstico D1) en la misma rama W1 → G1 → merge a main. Actualiza esta línea al cerrar cada fase/oleada.
 - Última versión aceptada: v0 (tag). Recuento canónico v0: 62.750 palabras.
