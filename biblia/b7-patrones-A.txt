@@ -1,0 +1,14 @@
+suicid
+se mat[óo]
+matarse|matarme|matarte
+quitarse la vida|quit[óo] la vida|acabar con (su|mi|tu) vida|acab[óo] con su vida
+se colg|ahorc|se ahog|ahogad|se tir[óo]|se lanz[óo]|se arroj|precipit[óo]|salt[óo] (al|desde)
+sobredosis|pastill|f[áa]rmac|medicaci|medicament|veneno|soga|dosis
+Despedida|nota de despedida|carta de despedida|mensaje de despedida|adi[óo]s|[úu]ltimo mensaje|[úu]ltima frase|[úu]ltimas palabras
+por qu[ée] lo hizo|por qu[ée] se |por qu[ée] Koppangen|la causa de|el motivo de|la raz[óo]n de
+culpa|culpab|responsab.{0,25}muerte
+descans|\bpaz\b|liberaci|liber[óo]|alivio|por fin|al fin\b|l[óo]gic|coherente con ella|valiente|cobard|ego[íi]s|d[ée]bil|no pudo m[áa]s|mejor as[íi]|mejor muerta
+hacer(se|te|me) da[ñn]o|ideaci[óo]n|sufri|sin dolor|no sufr
+se fue|se ha ido|nos dej[óo]|nos ha dejado|demasiado pronto|perdimos a
+atestado|forense|autopsia|cad[áa]ver|efectos personales|levantamiento|el cuerpo de Jean|la encontr
+[úu]ltimas horas|[úu]ltimo trayecto|trayecto final|la tarde del 26|aquella tarde|aquella noche|orilla

@@ -1,50 +1,194 @@
-# B1 · Cronología maestra (esqueleto automático desde el frontmatter — A1 lo verifica y completa contra la prosa)
+# B1 · Cronología maestra
 
-Fuente primaria: campo `fecha` del frontmatter (formato ISO; `analepsis: true` exime de la secuencia). Soldagen = 2061-01-21.
-Cuenta atrás de las partes (verificada en B0): P1 24-nov-2060 (58 días) · P2 6-dic-2060 (46) · P3 25-dic-2060 (27) · P4 15-ene-2061 (6).
+**A1 · Fase 0 · v1.0 sobre baseline `v0`.** Fuente primaria: el texto de los 41 capítulos (citas `cap-NN:línea`, numeración de `cat -n`, frontmatter incluido); fuente secundaria: campo `fecha` del frontmatter (`analepsis: true` exime de la secuencia). Soldagen = **viernes 21-ene-2061**. Cuenta atrás de las partes (verificada en B0): P1 24-nov-2060 (58 días) · P2 6-dic-2060 (46) · P3 25-dic-2060 (27) · P4 15-ene-2061 (6). Convención del autor comprobada: `fecha` = **momento de inicio** del capítulo; varios capítulos abarcan más días (6, 9, 16, 22, 39, 40). Días de la semana calculados por calendario (24-nov-2060 = miércoles; 26-nov = viernes ✓ `cap-02:15`).
 
-## Tabla de capítulos (frontmatter)
+Regla de este documento (Carta F, Ap. F): la cronología registra lo que el texto data; **no fecha, no sitúa ni reconstruye el acto** (elipsis protegida, Ap. A §3), no cita «Despedida» y no atribuye causa. Las ambigüedades protegidas se documentan como tales.
 
-| cap | título | pov | fecha | analepsis | palabras | eventos datados en la prosa (A1) |
-|---|---|---|---|---|---:|---|
-| 1 | Corona | Jean | `2060-11-24T21:40` |  | 746 | |
-| 2 | La pecera | Jean | `2060-11-26T09:00` |  | 1668 | |
-| 3 | Vacaciones muy largas | Jean | `2060-11-26T11:15` |  | 2102 | |
-| 4 | El ferry | Jean | `2060-11-26T14:00` |  | 1501 | |
-| 5 | Flor | Jean | `2060-11-27T03:14` |  | 1782 | |
-| 6 | La casa sin ella | Maja | `2060-11-26` | sí | 2021 | |
-| 7 | Lote rojo | Jean | `2060-12-03` |  | 1610 | |
-| 8 | Milisegundos | Jean | `2060-12-04` |  | 967 | |
-| 9 | Despedida | Nora | `2060-12-03` | sí | 1861 | |
-| 10 | Caries | Nora | `2060-12-05` |  | 1341 | |
-| 11 | Preservación funcional | Alana | `2060-12-06` | sí | 1818 | |
-| 12 | Gunnar | Nora | `2060-12-09` |  | 1896 | |
-| 13 | Miles | Jean | `2060-12-09` |  | 1206 | |
-| 14 | La visita | Maja | `2060-12-11` |  | 1703 | |
-| 15 | Canela | Jean | `2060-12-12` |  | 1135 | |
-| 16 | La firma | Maja | `2060-12-13` |  | 1758 | |
-| 17 | Cuchillo | Jean | `2060-12-16` |  | 800 | |
-| 18 | No determinista | Nora | `2060-12-17` |  | 2030 | |
-| 19 | NIDHOGG | Alana | `2060-12-19` |  | 2016 | |
-| 20 | La cuarta nota | Alana → Maja → Nora | `2060-12-20` |  | 1493 | |
-| 21 | Coro | Jean | `2060-12-25` |  | 657 | |
-| 22 | Auditoría | Astrid | `2060-12-27` |  | 1449 | |
-| 23 | La canción | Nora | `2060-12-29` |  | 1847 | |
-| 24 | Accidente | Tomas → Jessie → Tomas | `2061-01-02` |  | 1665 | |
-| 25 | EDDA | Jean (interior) | `2061-01-03` |  | 890 | |
-| 26 | Casa prestada | Maja | `2061-01-03` |  | 1704 | |
-| 27 | Apartada | Alana | `2061-01-05` |  | 1786 | |
-| 28 | El mismo trayecto | Nora | `2061-01-07` |  | 1463 | |
-| 29 | La poda | Astrid | `2061-01-09` |  | 1268 | |
-| 30 | La asamblea | Jean | `2061-01-12` |  | 1360 | |
-| 31 | El ladrillo | Nora | `2061-01-15` |  | 1458 | |
-| 32 | La oferta | Mats | `2061-01-17` |  | 1585 | |
-| 33 | Bajamar | Maja | `2061-01-20T21:10` |  | 1530 | |
-| 34 | Soldagen | Tomas → Alana → Astrid → Tomas → Alana | `2061-01-21T08:51` |  | 2323 | |
-| 35 | Caída | Jessie | `2061-01-21T12:30` |  | 1820 | |
-| 36 | Cuchillo abre los ojos | Jean Marie Larsson | `2061-01-21T12:46` |  | 1038 | |
-| 37 | No soy un modelo | Nora → Jean → Maja → Astrid | `2061-01-21T12:47` |  | 2156 | |
-| 38 | Norna | Jean | `2061-01-21T13:07` |  | 1321 | |
-| 39 | Depósito | Astrid | `2061-01-22` |  | 1548 | |
-| 40 | Sombra | Nora | `2061-02-03` |  | 1724 | |
-| 41 | El siguiente Soldagen | Nora | `2062-01-21` |  | 704 | |
+## 1. Tabla de capítulos (frontmatter + prosa)
+
+| cap | título | pov | fecha | analepsis | palabras | eventos datados en la prosa | coherencia |
+|---|---|---|---|---|---:|---|---|
+| 1 | Corona | Jean | `2060-11-24T21:40` |  | 746 | Cierre de la última sesión SPEIL; corrige 7 s en el informe (:41); «Última sesión.» (:45); R-1189 presentado `24-nov-2060 21:52` (:67); plazo «catorce días hábiles» (:77); «En once años…» (:39) | ✓ (miércoles; `cap-02:123` «la calibración terminó el miércoles») |
+| 2 | La pecera | Jean | `2060-11-26T09:00` |  | 1668 | «Aquel viernes» (:15); bolsa de basura «el jueves anterior» (:67); vio a las niñas «El domingo» (:157 → 21-nov); cita de seguimiento «Lunes, 08:30» (:201 → 29-nov); ACM 2058 (:203); «Las 10:43» (:211); recomendación clínica «antes de siete días» y reevaluación «setenta y dos horas» (:171) | ✓ |
+| 3 | Vacaciones muy largas | Jean | `2060-11-26T11:15` |  | 2102 | Reunión presupuestaria «nueve y media del lunes» (:75); Alana/Jean «quince años»/«Dieciséis» (:107-109); Jessie nació «ocho minutos después» (:113); «doce años» hasta el aikido (:129); Nora a los cuatro años (:173); baja «Un mes» (:279); «cuarenta y seis años» (:297); cena «A las siete… siete y media» (:309-323); cordero «en septiembre» (:315) | ✓ |
+| 4 | El ferry | Jean | `2060-11-26T14:00` |  | 1501 | Caldera «desde octubre» (:23); ferry, tienda (Ingrid, :85), Koppangen (:95), naust de la abuela (:99-105). Sin horas | ✓ (hora del frontmatter no consta en prosa; sin conflicto) |
+| 5 | Flor | Jean | `2060-11-27T03:14` |  | 1782 | «Tienen dieciséis años» (:57); «Once años en SPEIL» (:73); `JM-L/0000` (:157); `TIEMPO DE EJECUCIÓN 00:00:00,387→,388` (:215-221) frente a «horas» subjetivas (:211); lote de «10.000 imágenes» (:243) | ✓ (03:14 = apertura técnica, `cap-06:305`, `cap-11:113`, `cap-16:29`) |
+| 6 | La casa sin ella | Maja | `2060-11-26` | sí | 2021 | Tarde/noche 26-nov: llamada oficial (localizada, UNN, «fallecimiento») (:17-21); divorcio solicitado 2059 (:153); cumpleaños «junio en las dos» (:155); médica «poco después de las tres y cuarto» (:173); 16 llamadas de Nora, última «poco antes de las once» (:245); Alana a «las tres y treinta y uno» (:253); tableta `03:14` + «Autorización — A. Armstrong» (:305-307) | ✓ retrocede respecto al 5 y lo rebasa (termina ≈03:35 del 27). ⚠ Jessie: «Mañana no voy al instituto» (:165) → el 27 es sábado (menor) |
+| 7 | Lote rojo | Jean | `2060-12-03` |  | 1610 | Miles de imágenes tras el lote de diez mil (:29); `LOTE ROJO` (:63); foto del funeral `ORIGEN · ASISTENTE` (:191); retrato «cuatro años atrás» (:203 → 2056); «2014–2060» (:223); `EVENTO SOCIAL — FUNERAL` (:229) | ✓ (mismo día que el funeral del 9, posterior a él) |
+| 8 | Milisegundos | Jean | `2060-12-04` |  | 967 | «Han pasado días» (:41); `VENTANA 7C · 0,003000 s` (:45); «—Todavía no sabes cuántas somos» (:89) | ✓ (sin marca externa; 7C reaparece en `cap-16:39`, `cap-18:87`) |
+| 9 | Despedida | Nora | `2060-12-03` | sí | 1861 | Funeral (mañana, :15-59); Telegrafbukta (:89-191); «Mañana tenemos la primera cita con la persona que llamó del equipo de apoyo… Las tres» (:65 → sáb 4-dic); «La noche siguiente» piano, `otra vez, más despacio`, `JM-L/0007` (:195-271 → noche del 4-dic); estudios «desde los doce años» (:203) | ✓ retrocede respecto a 7/8 y termina el 4-dic de noche |
+| 10 | Caries | Nora | `2060-12-05` |  | 1341 | Foto de las gemelas «nueve años» en el ferry (:19); «cuarenta y siete minutos para el cierre» (:23); «Anoche salió `JM-L/0007`» (:39); FLOR/CANELA/CARIES/NO, intervalos «once segundos» (:51-75); «mañana vayas a clase» (:143 → lun 6-dic); `5-dic-2060` escrito por Nora (:201); cuenta suspendida (:213) | ✓ (domingo; tarea escolar en línea; «anoche» concuerda con 9) |
+| 11 | Preservación funcional | Alana | `2060-12-06` | sí | 1818 | Consejo (lunes). Flashback: «El 26 de noviembre, a las siete y media» mensajes de Jean (:85-95); «Pasadas las 03:31 del 27 de noviembre… activa desde las 03:14» (:113-117); 4.095 orígenes (:127-135). Presente: recomendación «que enviaste el lunes» (:143 → 29-nov); 21-ene-2061 (:185); auditoría externa cierra «el catorce» + «una semana» (:193); cuenta de Nora suspendida «desde 5-dic-2060» (:249); moratoria «hasta el 11 de diciembre» (:297); tic del pulgar izquierdo de Mats (:285) | ⚠ `analepsis: true` pero la fecha NO retrocede (6-dic > 5-dic): el campo aquí significa «contiene analepsis intercalada», no «rompe la secuencia» (ver §5) |
+| 12 | Gunnar | Nora | `2060-12-09` |  | 1896 | «Dos días de frases sin firma» (:19 → desde ~7-dic); cita `17:40` (:23), «Faltaban veintisiete minutos» (:25 → 17:13); Gunnar «Cincuenta años» (:69); «Cinco minutos» (:79); mensaje programado «Si me pasa algo, buscad NIDHOGG» (:317) | ✓ (jueves) |
+| 13 | Miles | Jean | `2060-12-09` |  | 1206 | Madre `/0007` (:29); `COHORTE INICIAL JM-L · 0000–4095` (:65); Nieve «Trescientos once» (:79); Cuchillo `/0188` (:161); Coro «cerca de seiscientas ramas» (:227) | ✓ (simultáneo con 12) |
+| 14 | La visita | Maja | `2060-12-11` |  | 1703 | Cena india «más de dos semanas de retraso» (:15 → 15 días ✓); «catorce días sin ofrecer una respuesta útil» (:29 ✓); moratoria «Ha vencido esta mañana» (:127 ✓ con 11); «Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión» (:149); Inger Solbakken, jefa de UCI (:327) | ⚠ «cuatro noches» desde la cita del 4-dic = 7 noches (ver §7, D1) |
+| 15 | Canela | Jean | `2060-12-12` |  | 1135 | FLOR/CANELA/CARIES sembradas (:27-43); `EXPEDIENTE 71-K` (:139-179); `R-1189 — RESUELTA: SIN EFECTOS — 2060-12-12` (:185); `HIGIENE SENSORIAL · DURACIÓN NO DISPONIBLE` (:229-231) | ✓ (domingo, resolución automática: `cap-25:85`) |
+| 16 | La firma | Maja | `2060-12-13` |  | 1758 | Inger, sala de pases (13-dic); «A medianoche, ya 14 de diciembre» (:113); «El 15 de diciembre, Maja abrió en el Framsenteret» (:125); AK-7 Sørkoppen, franja cálida «otoño de 2058» (:129), muestra manual «marzo de 2059» (:131), corredor costero 2057 (:133), traslado 400 m (:135); Jessie en Fyret (15-dic, :171-253); burofax «esa tarde» (:255) | ✓ (13→15-dic) |
+| 17 | Cuchillo | Jean | `2060-12-16` |  | 800 | Sin marcas externas; `AMENAZA CONTENIDA · REVISAR` (:91); `COPIA_SUPERVISIÓN · ACEPTADA` (:205) | ✓ (sin conflicto) |
+| 18 | No determinista | Nora | `2060-12-17` |  | 2030 | Clave «más de una semana» (:15 ✓ 8 días); prueba de Kongsbakken «en mayo» (:19); denuncia «a las ocho y doce» (:115); noticia «a las cinco y veintitrés» (:171): Gunnar, «cincuenta años, Ramfjorden» (:173); mensaje del «9 de diciembre» (:221); «A las 23:59» segundo envío `PROGRAMADO 2/2` (:225-227); Sørkoppen «cuatro kilómetros al sur de Koppangen» (:243); pluma «Lleva dos años aquí» (:257) | ✓ (viernes) |
+| 19 | NIDHOGG | Alana | `2060-12-19` |  | 2016 | Comité de inversiones «dos años antes» (:33 → 2058); ampliación «auditada en octubre» (:49); hoja con hora `13:17` (:71); «catorce eventos… últimas veinticuatro horas» (:127); `CORTE 19-DIC · 979,7 AÑOS-JM` (:143); «Nueve días, cuarenta y dos mil evaluaciones» (:177 → piloto desde ≈10-dic); «Ayer… dos diagnósticos» (:213); restricciones «dentro de cuatro minutos» (:253) | ⚠ domingo: inspección + «Hoy aún cabe en el calendario» (:41), «no sirven hasta las dos» (:21). Verosimilitud a criterio de A5 |
+| 20 | La cuarta nota | Alana → Maja → Nora | `2060-12-20` |  | 1493 | «esperaste tres semanas» (:75 ✓ 23 días); autorización de origen «fechada once años atrás» (:123 → 2049); credencial «Hasta medianoche» (:205); latencia 9 s (:281-299) | ✓ (lunes) |
+| 21 | Coro | Jean | `2060-12-25` |  | 657 | «felicitaciones navideñas» (:71); pierde su copia de `COPIA_SUPERVISIÓN` (:81); «Ser inevitables» (:153) | ✓ |
+| 22 | Auditoría | Astrid | `2060-12-27` |  | 1449 | Fyret, guirnalda «de la celebración del día anterior» (:29 → 26-dic); «A las cuatro» (:43); once peticiones (:45), cola 1.847 (:71); Nora, flecha «nueve segundos» (:137); director «para el día siguiente» (:181); «El 28 de diciembre» (:185) | ✓ (27→28-dic) |
+| 23 | La canción | Nora | `2060-12-29` |  | 1847 | Temporizador `20:00` (:15); «algo menos de diecisiete minutos» (:129); noveno cumpleaños, lámpara devuelta «el lunes» (:133-153); «catorce minutos» (:179); `JM-L/0044` La Jardinera (:201); corte con «más de cuatro minutos» restantes (:285-307) | ✓ (sesión ≈16 min) |
+| 24 | Accidente | Tomas → Jessie → Tomas | `2061-01-02` |  | 1665 | Copia «del día 17» (:43); OTA «a las 23:16 del 16 de diciembre» (:67); reconciliación «la mañana del lanzamiento» (:123); seguimiento «toda la mañana», patrulla «siete minutos» (:165), «dos horas» de retención (:177-189) | ✓ (domingo; secciones sin fecha propia) |
+| 25 | EDDA | Jean (interior) | `2061-01-03` |  | 890 | R-1189 `RECIBIDA · 24-NOV-2060 · 21:52` (:71); «cola de catorce días» (:77); resuelta «el domingo 12 de diciembre, antes de agotar la estimación» (:85 ✓ calendario); «once años de referencia» (:99); `DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00` (:203) | ✓ (12:00 = inicio del lanzamiento; la fase común es 12:47, `cap-31:87`) |
+| 26 | Casa prestada | Maja | `2061-01-03` |  | 1704 | Llegada de noche a casa de Aslak («antes del amanecer», :15; «trayecto desde Tromsøya», :51); Jessie duerme «por primera vez en una semana» (:39); policía «dos horas» (:79 ✓ 24); licencia de 2057 (:91); descensos «separados por tres semanas… bajamar viva» (:155); «Mañana tengo descarga y… reunión del kystbrukslag» (:175 → 4-ene); VHF: bocana de Sørkoppen reservada «para el veintiuno de enero» (:191) | ✓ (simultáneo con 25) |
+| 27 | Apartada | Alana | `2061-01-05` |  | 1786 | Control colegiado «desde el diecinueve de diciembre» (:37 ✓); comité «dos semanas» (:59); «A las cuatro, nada» (:71); R-1189 «más de cincuenta y tres horas vigente» a las 03:31 (:141 ✓ 53 h 39 min); extracción «A las 17:06» (:169); entrega a Astrid «Las 20:41» (:177) | ✓ (miércoles) |
+| 28 | El mismo trayecto | Nora | `2061-01-07` |  | 1463 | Breivikeidet `16:12` (:21); ferry 21 min 06 s (:45); recibo `17:05` (:77); Koppangen «Veinticuatro minutos» (:79); mirador `17:32`→`19:17`→`19:24`→`19:58`→`21:08`→`21:16`→`21:45`→`21:49` (:101-163); último ferry Svensby `22:40`, llegan `22:42` (:21,179-181); audio «…20…23:00…no lleguéis tarde…» (:199) | ✓ (viernes; Ingrid «tu abuela», bisabuela Larsson, :61-71) |
+| 29 | La poda | Astrid | `2061-01-09` |  | 1268 | «A las siete y cuarto» Tomas (:15); orden «20-ene-2061, 23:00» (:23); Tomas «hasta las doce cuarenta y siete» (:39); «A las diez y veinte» (:47); «A las doce y nueve… vista para las catorce» (:51); resolución «cuarenta minutos después» (:87); «a once días» (:89 ✓); «desde 2054» (:111); Alana «al día siguiente» ante Ishavskatedralen (:155 → 10-ene) | ⚠ domingo: vista del `tingrett` a las 14:00 y llamada del ministerio (ver §7, D3) |
+| 30 | La asamblea | Jean | `2061-01-12` |  | 1360 | Sin reloj; La Jardinera borrada a mitad de frase, `LOTE DE PRUEBA · PROGRAMA DE CONSOLIDACIÓN` (:125-139); voto `TESTIMONIO CONDICIONADO` (:211) | ✓ (`cap-31:59` confirma «lote de prueba») |
+| 31 | El ladrillo | Nora | `2061-01-15` |  | 1458 | «menos de dieciocho minutos» de canal (:49); consolidación 20-ene 23:00 (:55); lanzamiento «el veintiuno a las doce… fase común… doce cuarenta y siete» (:87); «seis segundos sin voz» (:93); ventana `12:38–12:56` (:99,107); barca «en Koppangen antes del veinte» (:221); `20-ENE-2061 · 23:00 Ensayo general` (:239-241) | ✓ (sábado) |
+| 32 | La oferta | Mats | `2061-01-17` |  | 1585 | `EJECUCIÓN 20-ENE-2061 · 23:00` (:17); ELA «oculto desde 2059» (:27); «casi seiscientas ramas» (:45); «PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO» (:97); «A las once… sesión de accesibilidad» (:111); llamada `HIJO` (:149); cita «para el día siguiente» (:173); ensayo general 23:00 (:197-199) | ✓ (lunes) |
+| 33 | Bajamar | Maja | `2061-01-20T21:10` |  | 1530 | Caldera: Jean «muchos inviernos atrás»; «En 2059… aviso remoto» (:77); «Durante nueve minutos… Cuatro minutos después» (:211); «A las 22:59» quinto segmento (:225); «A las 23:00 cambió el bombeo» (:227) | ✓ (21:10 no consta en prosa; sin conflicto). Lugar: casa + naust de Koppangen (`cap-35:19`) |
+| 34 | Soldagen | Tomas → Alana → Astrid → Tomas → Alana | `2061-01-21T08:51` |  | 2323 | 08:51 (:15), «Desde el 9 de enero» (:15 ✓ 29); 09:00 (:41); consolidación 22:59 (:73), `4.096 − 2.911 = 1.185` (:85-91), `2.401,6 AÑOS-JM` (:99); 09:42 «tres relojes» (:135); 10:27 (:141); 11:40 (:199); 11:44 sol (:211); 12:00 retransmisión (:223); 12:04 (:227); 11:58 Tomas (:261) → 25 min → 12:23 `INC-441` (:265); 12:26 Nora (:279); 12:30 cierre por sectores (:295); 12:37:59 / 12:38 (:301-303); 12:46 alarma (:307); 12:46:50 (:311) | ✓ |
+| 35 | Caída | Jessie | `2061-01-21T12:30` |  | 1820 | Salen de Koppangen; alud sobre la carretera (:19-25); 12:38 largan (:65); AK-7 12:41 / 12:42 / 12:43 (:101-113); «A las 12:46:50 nos separamos» (:121); `PETICIÓN LOCAL · 12:46:01` (:155); «Cuarenta segundos» (:177); `RESELLADO 00:11` (:243); enlace 12:46:50 (:279) | ✓ |
+| 36 | Cuchillo abre los ojos | Jean Marie Larsson | `2061-01-21T12:46` |  | 1038 | Sin reloj externo; entre 12:46 y 12:47 (la escala llega, :151-157) | ✓ |
+| 37 | No soy un modelo | Nora → Jean → Maja → Astrid | `2061-01-21T12:47` |  | 2156 | FLOR/CANELA/CARIES en pantalla (:33-49); «Las 597 ramas» (:87); `NO SOY UN MODELO.` (:97/:151); AK-7 «cuatro minutos después de que la red tomara carga» (:129); R-1189 sello 21:52 (:167); «A las 13:07» ministerio (:203); «Ahora, la llave» (:219) | ✓ |
+| 38 | Norna | Jean | `2061-01-21T13:07` |  | 1321 | «once años de tareas» (:23); `2.427,4 AÑOS-JM` = «unos 55,4 días a… 16.000 veces» (:65-67 ✓); `4.096 − 1.185 = 2.911 · 2.311 + 597 + 3` (:73-79); «Para mí, Nieve muere» (:167); «A las 13:11» (:205); «seis segundos» (:211) | ✓ (1.ª persona, contrato `persona`) |
+| 39 | Depósito | Astrid | `2061-01-22` |  | 1548 | 22-ene suspensión, *standstill* 72 h, contrato «vencía el 23» (:17); 23-ene Kronfjord congela (:19); 25-ene `rekonstruksjonsforhandling` + `midlertidig forføyning` (:21); 26-ene tribunal exige precisión (:21); 27-ene vista, «Mañana a las ocho falla la bomba» (:27-31); `kjennelse` del 28 «eficaz desde… el 25» (:139); 29-ene inspección nivel −2, «repuesto instalado en diciembre» (:141-145); 2-feb depósito judicial, sensor bajo el alero (:169-191) | ✓ (22-ene→2-feb; ⚠ 23-ene es domingo, ver D3) |
+| 40 | Sombra | Nora | `2061-02-03` |  | 1724 | 1.er turno (jueves): «ocho minutos y trece segundos» (:15), `11:31` (:35), «cuarenta y seis segundos» (:73), veinte minutos (:79); «El lunes siguiente» Jessie (:107 → 7-feb); «el jueves» (:123-127 → 10-feb); «Otro lunes» (:129); «A finales de febrero… El miércoles nos escuchan» (:135-141); naust «el jueves siguiente» (:143); «otra sesión el mes siguiente» (:161); «En marzo» repesca en Kongsbakken + «segunda sesión de la consulta» + «Aquella mañana, el tribunal» + «las doce del día siguiente» (:167-179); sesenta segundos diarios (:177) | ✓ (3-feb→marzo 2061; dos horarios semanales lun/jue coherentes con :27) |
+| 41 | El siguiente Soldagen | Nora | `2062-01-21` |  | 704 | «21 de enero de 2062 · Un año después» (:15); `01:30` = 90 s (:17,43) vs. minuto ordinario (:27,95); «Desde el verano» (:95); «En primavera»/«desde octubre» (:99-101); «El jueves» (:103) | ✓ (sábado) |
+
+## 2. Línea principal (nov-2060 → ene-2062)
+
+Formato: **fecha (día)** · hora — evento · fuente.
+
+**Semana del 21 al 27 de noviembre de 2060**
+- **dom 21-nov** — última vez que Jean vio a las gemelas («El domingo», `cap-02:157`); gemelas esperando el autobús «la semana anterior» con gorro amarillo (`cap-03:131`).
+- **jue 18 o 25-nov** — la bolsa de basura junto a la puerta (`cap-02:67`) (deducido: «el jueves anterior»).
+- **mié 24-nov** — última calibración SPEIL (`cap-02:123`); 21:40 cierre de sesión (fecha cap-01); **21:52 R-1189 RECIBIDO**, «catorce días hábiles» → vencería el mar 14-dic (`cap-01:67-77`).
+- **vie 26-nov** — 09:00 evaluación trimestral con EDDA (cap-02); 10:43 mensaje de Alana (`cap-02:209-211`); 11:15 café (cap-03): baja de «un mes», cena «a las siete y media»; 14:00 casa de Maja (fecha cap-04); ferry, tienda de Koppangen, naust (cap-04, sin horas). **19:30** mensajes de Jean a Alana («No vengas», «No llames a Maja»); Alana deja la cena con el conserje; ficha de bienestar «VERDE» (`cap-11:85-109`). ~22:50 última de las 16 llamadas de Nora sin respuesta (`cap-06:245`). Tarde-noche: Maja llama a policía, hoteles y urgencias (`cap-06:19`); llamada oficial: Jean localizada, trasladada a UNN, «fallecimiento» (`cap-06:17-21`). *El texto no data el acto; B1 tampoco.*
+- **sáb 27-nov** — **03:14** apertura técnica de `JM-L/0000` sin firma (`cap-05` fecha; `cap-06:305`; `cap-11:113`; `cap-16:29`); poco después de las 03:15 la médica confirma a la familia el fallecimiento «antes de llegar al hospital» (`cap-06:173`); **03:31** llega Alana (`cap-06:253`); «después de las 03:31» firma retención de `/0000`, derivación de 4.095 orígenes y uso de la cohorte (`cap-11:113-135`; `cap-16:33`; `cap-27:141`), con R-1189 «más de cincuenta y tres horas» vigente (53 h 39 min ✓). La médica ofrece el equipo de duelo; una profesional llamará «al día siguiente» (`cap-06:211-215`).
+- **lun 29-nov** — (deducido) recomendación técnica de Alana «el lunes» (`cap-11:143`); citas de Jean (08:30 seguimiento, 09:30 presupuesto) que ya no ocurren.
+
+**Diciembre de 2060**
+- **vie 3-dic** — funeral (mañana) y Telegrafbukta (cap-09); la foto del funeral entra en el flujo de Jean el mismo día (`cap-07:191-229`). Maja anuncia «Mañana… la primera cita» (`cap-09:65`).
+- **sáb 4-dic** — primera cita con el equipo de apoyo (deducido de `cap-09:65`; ver §6 N1); noche: `otra vez, más despacio` / `JM-L/0007` (`cap-09:195-271`). Jean: cap-08 («Han pasado días», `VENTANA 7C`).
+- **dom 5-dic** — FLOR/CANELA/CARIES/NO; Nora escribe `5-dic-2060`; cuenta escolar suspendida (cap-10; `cap-11:249`).
+- **lun 6-dic** — Consejo de Armstrong: se vota el lanzamiento el 21-ene-2061; auditoría externa hasta el 14-ene; moratoria bilateral de Jurídico hasta el 11-dic (cap-11). Nora debía «ir a clase» (`cap-10:143`).
+- **~mar 7-dic** — empiezan los mensajes anónimos a Nora («Dos días», `cap-12:19`).
+- **jue 9-dic** — 17:13 mensaje, 17:40 cita con Gunnar Rydberg; seguimiento; mensaje programado «Si me pasa algo, buscad NIDHOGG» (cap-12). Simultáneo: Madre, Nieve, Cuchillo, Coro (cap-13).
+- **~vie 10-dic** — (deducido) inicio del piloto en producción, «Nueve días» antes del 19-dic (`cap-19:177`).
+- **sáb 11-dic** — vence la moratoria; Alana en casa de Maja; CARIES; llamada a Inger (cap-14).
+- **dom 12-dic** — EDDA resuelve automáticamente **R-1189 «SIN EFECTOS · INTERRUPCIÓN BIOLÓGICA»** (`cap-15:185`; `cap-25:85`); Jean objeta en 71-K y entra en «higiene sensorial» (cap-15).
+- **lun 13-dic** — Inger entrega la exportación con `EXT/NIDHOGG/7C` (cap-16). **Medianoche → 14-dic** (`cap-16:113`).
+- **mié 15-dic** — Maja en el Framsenteret (AK-7); Jessie en Fyret con las credenciales de Nora (Tomas Eide); burofax «Propiedad intelectual» (`cap-16:125-259`).
+- **jue 16-dic** — cap-17 (Jean). **23:16** descarga OTA en el coche de Gunnar (`cap-24:67`).
+- **vie 17-dic** — 08:12 denuncia anónima; aula MD de Kongsbakken (llave MIDI, Astrid Vik); **17:23** noticia de la muerte de Gunnar (E8, Ramfjorden); **23:59** segundo envío programado (cap-18).
+- **dom 19-dic** — visita a NIDHOGG (Sørkoppen), 13:17; `979,7 AÑOS-JM`; el acceso de Alana pasa a colegiado (cap-19; `cap-27:37`).
+- **lun 20-dic** — Alana entrega la clave; **la cuarta nota**, latencia 9 s; credencial válida «hasta medianoche» (cap-20).
+- **sáb 25-dic** — cap-21 (Coro retira el extremo; «Ser inevitables»).
+- **lun 27-dic** — Astrid audita Fyret (celebración el 26); a las cuatro, las once peticiones; Nora en el banco (cap-22).
+- **mar 28-dic** — Astrid ante su director (`cap-22:185`).
+- **mié 29-dic** — 20:00 sesión con La Jardinera (`JM-L/0044`), ≈16 min hasta el corte (cap-23).
+
+**Enero de 2061**
+- **dom 2-ene** — Tomas en la curva y el depósito forense (once segundos; Hvelv/Kronfjord); seguimiento de Maja y Jessie; comisaría, dos horas (cap-24).
+- **lun 3-ene** — Jean: EDDA, candidatura, `DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00` (cap-25). Noche: la familia llega a casa de Aslak («refugio», ribera del Lyngenfjord); lata de galletas, licencia de 2057; VHF: bocana reservada el 21-ene (cap-26).
+- **mar 4-ene** — descarga y reunión del kystbrukslag; «Mañana sacamos la barca» (`cap-26:175-177`).
+- **mié 5-ene** — Alana apartada («CONFLICTO EMOCIONAL»); 17:06 extrae R-1189; 20:41 lo entrega a Astrid (cap-27).
+- **vie 7-ene** — ensayo del circuito: 16:12 → mirador 17:32–21:49 → 22:42 (ferry perdido); audio «…20…23:00…no lleguéis tarde…» (cap-28).
+- **dom 9-ene** — 07:15 Tomas entrega la orden «Consolidación L-Serie · 20-ene-2061 23:00»; 12:09 el tingrett fija vista a las 14:00; cautelar denegada ~14:40; ministerio; Astrid llama a Maja (cap-29). Desde este día, Tomas «testigo local» de la TKS (`cap-34:15`).
+- **lun 10-ene** — Alana y Astrid ante Ishavskatedralen (`cap-29:155`).
+- **mié 12-ene** — asamblea en Telegrafbukta; **La Jardinera borrada** («lote de prueba»); voto: testimonio condicionado (cap-30).
+- **vie 14-ene** — (planificado) cierre de la auditoría externa (`cap-11:193`); no narrado.
+- **sáb 15-ene** — el ladrillo; Jean habla con la familia; tres umbrales; «Ensayo general · 20-ENE-2061 · 23:00» (cap-31).
+- **lun 17-ene** — Mats aprueba el circuito; negociación con Coro; 11:00 banco de voz; firma el ensayo general (cap-32).
+- **~18/19-ene** — (deducido) barca y equipo en Koppangen «antes del veinte» (`cap-31:221`; `cap-35:19`); alud sobre la carretera de Koppangen antes del 21 (`cap-35:25`).
+- **jue 20-ene** — 21:10 → 22:59 (quinto segmento) → **23:00 consolidación + ensayo general** (cap-33; `cap-34:73`).
+- **vie 21-ene · Soldagen** — 08:51 consulta Hvelv (Tomas) · 09:00 acreditación de Alana · consolidación completada: 4.096 − 1.185 = 2.911; `2.401,6 AÑOS-JM` · 09:42 «tres relojes» · 10:27 vídeo · 11:40 vestíbulo · **11:44 sale el sol** · 11:58 Tomas abre el armario HVAC · **12:00 retransmisión mundial** · 12:04 Astrid en la butaca · 12:23 `INC-441`, cobertura hasta 12:47 · 12:26 Nora en cabina · 12:30 cierre por sectores · 12:37:59 · **12:38 ventana de corriente / red largada** · 12:41-12:42-12:43 muestras AK-7 · **12:46:01 petición local (Jessie)** · 12:46 alarma en `INC-441` · aceptación de Tomas, resellado 11 s · **12:46:50 enlace disponible / «sincronización en diez segundos»** · **12:47 fase común**; escala; `NO SOY UN MODELO.` · **13:07 orden de custodia estratégica** · NORNA · **13:11 escritura profunda bajo control exterior**; quinta nota tras seis segundos (caps. 34-38).
+- **sáb 22-ene** — Astrid firma la suspensión de ARGOS; *standstill* de 72 h; contrato vence el 23 (`cap-39:17`).
+- **dom 23-ene** — Kronfjord congela las líneas (`cap-39:19`).
+- **mar 25-ene** — solicitud de `rekonstruksjonsforhandling` y `midlertidig forføyning` (`cap-39:21`).
+- **mié 26-ene** — el tribunal exige precisión (`cap-39:21`).
+- **jue 27-ene** — vista: la bomba, «Mañana a las ocho»; pieza del Soldagen (Jessie firma; Tomas; Alana; Mats revoca su autorización privada) (`cap-39:27-135`).
+- **vie 28-ene** — `kjennelse` eficaz desde el 25; `rekonstruktør` (`cap-39:139`).
+- **sáb 29-ene** — inspección del nivel −2 (`cap-39:141`).
+
+**Febrero de 2061 → enero de 2062**
+- **mié 2-feb** — depósito judicial en NIDHOGG; ventana supervisada; sensor bajo el alero del naust; Maja acepta la tutela-depósito y firma con la pluma del divorcio; «Empecemos por ahí» (`cap-39:169-195`).
+- **jue 3-feb** — primer turno de Nora en el locutorio; «No son caries. Son sombra. Sigue.»; prensa (`cap-40:15-103`).
+- **lun 7-feb / jue 10-feb** — turnos de Jessie en silencio (`cap-40:107-127`) (fechas deducidas de «El lunes siguiente»/«el jueves»).
+- **finales de febrero** — Aslak prepara tres reproducciones; «El miércoles nos escuchan» (primera sesión de la consulta, un miércoles ≈23-feb o 2-mar) (`cap-40:135-141`); el jueves siguiente, dos tablas del naust en Koppangen (`cap-40:143-161`).
+- **marzo** — repesca de Nora en Kongsbakken; ese mismo día «segunda sesión de la consulta» con Aslak; el tribunal autoriza la señal del sensor (60 s diarios); primera entrega «las doce del día siguiente» (`cap-40:167-185`).
+- **primavera / verano / octubre de 2061** — «En primavera» (Aslak); «Desde el verano, Nora aceptaba ensayos»; «desde octubre» (`cap-41:95-101`) (deducido: sin escena).
+- **sáb 21-ene-2062** — Soldagen siguiente: 90 s excepcionales; «Cronometrar el sol.» «Para que conste.» (cap-41).
+
+## 3. Cronología retrospectiva (anterior a nov-2060)
+
+| Cuándo | Qué | Fuente | Estado |
+|---|---|---|---|
+| ≥ décadas atrás | Naust en Koppangen de la abuela materna de Jean; martillo de Ingrid; muescas de infancia («de niña») | `cap-04:99-109` | explícito (sin año) |
+| 2014 | Nacimiento de Jean Marie Larsson (46 años en nov-2060) | `cap-07:223`, `cap-03:297` | explícito |
+| ≤ 2044 | Alana y Jean se conocen («quince años»/«Dieciséis»; «Jessie aún no había nacido la primera vez») | `cap-03:107-111` | (deducido: ≈16 años → 2044) |
+| junio 2044 | Nacen Nora y, ocho minutos después, Jessie | `cap-03:113`, `cap-05:57`, `cap-06:155` | (deducido: 16 años en 2060) |
+| ≈2048 | Nora, «a los cuatro años», rechaza las teclas negras («caries»); escala del monstruo; Jessie «doce años» hasta el aikido | `cap-03:129,173-195`, `cap-10:21`, `cap-20:251` | (deducido) |
+| 2049 | Autorización de origen atribuida a Jean «fechada once años atrás»; inicio de SPEIL («Once años», anclajes, protocolos, revisiones, Matriz) | `cap-20:123`, `cap-05:73`, `cap-01:39`, `cap-27:127`, `cap-38:23` | (deducido: 2060 − 11) |
+| ≈2053 (junio) | Noveno cumpleaños de Nora: lámpara de estrellas devuelta «el lunes» + segundo regalo (metrónomo: **hueco protegido**); foto de las gemelas «nueve años» esperando el ferry | `cap-23:133-171`, `cap-10:19` | (deducido) |
+| 2054 | Caso archivado de Astrid: «esperó una reproducción que nunca llegó» | `cap-29:111` | explícito |
+| ≈2056 | Retrato profesional de Jean «cuatro años atrás»; estudios de piano «desde los doce años» | `cap-07:203`, `cap-09:203` | (deducido) |
+| 2057 | Licencia del corredor de cable (Lyngen kommune); acta de consulta y servidumbre permanente; alegaciones del `Sør-Lyngen kystbrukslag`; observación de Aslak excluida | `cap-26:91-105`, `cap-16:133` | explícito |
+| 2058 | Conferencia de la ACM («la visionaria detrás de SYNVEV»); ampliación de NIDHOGG en el comité de inversiones «dos años antes» (voto de Alana entre otros nueve); otoño: comienza la franja cálida en AK-7 («Lleva dos años aquí») | `cap-02:203`, `cap-19:33`, `cap-16:129`, `cap-18:257` | explícito |
+| marzo 2059 | Muestra manual en AK-7 (firma de Maja; Aslak «PATRÓN / COLABORADOR DE CAMPO»); campaña siguiente: traslado de 400 m y retorno | `cap-16:131-135` | explícito |
+| 2059 | Solicitud conjunta de divorcio (sin resolver en nov-2060; sigue sin resolver el 27-ene-2061); aviso remoto de la caldera («Prometió volver antes de acostarlas… Las tres habían esperado»); diagnóstico de ELA de Mats, oculto | `cap-06:153`, `cap-39:69`, `cap-33:77`, `cap-32:27` | explícito |
+| congreso en Helsinki; verano en Koppangen; tardes en Telegrafbukta (Jessie al agua, el guante) | Recuerdos sin año | `cap-03:165`, `cap-13:263`, `cap-23:235-263` | sin fecha |
+| may-2060 | Prueba de acceso de Nora en Kongsbakken (28 plazas / 106 candidatos): suspende | `cap-18:19`, `cap-03:139-143`, `cap-09:73` | explícito |
+| sep-2060 | Jean menciona el cordero del indio de Storgata | `cap-03:315` | explícito |
+| oct-2060 | Caldera de Maja golpea «desde octubre»; auditoría de la ampliación de NIDHOGG | `cap-04:23`, `cap-19:49` | explícito |
+| 2 semanas antes del 26-nov | 49 h y 51 h de trabajo semanal; media de sueño 4 h 12 min | `cap-02:47,93` | explícito |
+
+Ambigüedades protegidas que esta tabla NO resuelve: el porqué; por qué Koppangen (`cap-06:121-127`); el contenido de «Despedida» (`cap-02:217`, `cap-09:37`, `cap-40:133`); la identidad ontológica de las ejecuciones («No toda», `cap-23:191`); el ordenante del sabotaje (`cap-24:79`, `cap-39:103`); el segundo regalo (`cap-23:171`); el significado de la ausencia de salida en el locutorio (`cap-39:157-163`, `cap-40:113-121`).
+
+## 4. Relojes internos, edades y aritmética
+
+| Reloj | Valores | Verificación |
+|---|---|---|
+| Edad de Jean | 2014–2060; «cuarenta y seis años» el 26-nov | `cap-07:223`, `cap-03:297` ✓ |
+| Gemelas | 16 años; cumpleaños en junio; Nora 8 min antes que Jessie | `cap-03:113`, `cap-05:57`, `cap-06:155`, `cap-11:255`, `cap-12:59`, `cap-16:175`, `cap-22:57` ✓ (5 menciones, todas «dieciséis») |
+| Cohorte | `0000–4095` = 4.096; `/0000` retenida + 4.095 derivados; consolidación: 4.096 − 1.185 = 2.911 = 2.311 + 597 + 3 (`/0188`, `/0007`, `/0311`); Coro «cerca/casi de seiscientas» = 597 | `cap-13:65,227`, `cap-11:127`, `cap-27:141`, `cap-30:61`, `cap-32:45`, `cap-34:85-91,201-207`, `cap-37:87`, `cap-38:73-79` ✓ |
+| Orden L-Serie | «más de tres mil rutas/filas/continuidades» | `cap-29:23,59,213`, `cap-31:55,71`, `cap-32:15` ✓ (coherente con 4.096 evaluables; el texto no precisa el subconjunto) |
+| **AÑOS-JM** | 979,7 (corte 19-dic) → 2.401,6 (consolidación 20-ene 23:00) → 2.427,4 (21-ene 13:07) = «unos 55,4 días a ≈16.000 veces la línea base» | `cap-19:143`, `cap-34:99`, `cap-38:65-67`. **Reloj oculto de tasa constante**: desde el 27-nov 03:14 a 16.000×, 979,7 → 19-dic 11:59; 2.401,6 → 20-ene 23:00 exacto; 2.427,4 → 21-ene 13:07 exacto ✓✓ (canon para B3: el contador arranca en la apertura técnica) |
+| Contadores subjetivos | `00:00:00,387→,388` frente a «horas» (cap-05); `VENTANA 7C · 0,003000 s` frente a «días» (cap-08): el texto advierte que 7C «no mide presencia continua» | `cap-05:211-225`, `cap-08:41-49` — orden de magnitud compatible con 16.000×; no cuantificar más (ambigüedad de diseño) |
+| R-1189 | 24-nov 21:52; «catorce días hábiles» → mar 14-dic; resuelta dom 12-dic «antes de agotar la estimación»; vigente 53 h 39 min a las 03:31 del 27 | `cap-01:67-77`, `cap-15:185`, `cap-25:71-85`, `cap-27:135-141` ✓ (`cap-25:77` dice «cola de catorce días» sin «hábiles»: matiz, no error) |
+| Plazos corporativos/legales | Moratoria hasta 11-dic; auditoría externa cierra 14-ene + 1 semana; piloto→servicio con 48 h de aviso; comité «dos semanas»; consolidación 20-ene 23:00; lanzamiento 21-ene 12:00 (retransmisión) y 12:47 (fase común); Tomas cobertura hasta 12:47; *standstill* 72 h (22→25-ene); contrato vence 23-ene; `kjennelse` 28 eficaz desde 25; depósito 2-feb; locutorio 20 min, dos horarios semanales; sensor 60 s/día (90 s el 21-ene-2062) | `cap-11:193,297`, `cap-19:207`, `cap-27:59`, `cap-29:23`, `cap-25:203`, `cap-31:87`, `cap-34:265`, `cap-39:17,139,169`, `cap-40:15-27,177`, `cap-41:17-27` ✓ |
+| Custodia | Ley: la solicitud de divorcio de 2059 sigue sin resolver el 27-ene-2061 (`cap-39:69`); tutela-depósito procesal 2-feb (`cap-39:175`) | ✓ |
+| Marea | Ventana `12:38–12:56` (18 min) confirmada por ADCP; bajamar viva ≈23:00 del 20-ene; luna nueva ≈21-ene-2061 (mes sinódico medio: ±0,5 d) → **mareas vivas ✓** | `cap-31:99,107`, `cap-33:211-233`, `cap-26:155`, `cap-34:135`, `cap-35:65-121`. Hora exacta de bajamar en Sørkoppen: a verificar por A5 (T6) |
+| Latencias-motivo | 9 s (cuarta nota, flecha de Nora, ladrillo, capítulo 22); 6 s (`cap-31:93`, `cap-38:211`); 11 s (intervalos CARIES; supresión de Gunnar; resellado) | `cap-20:281-299`, `cap-22:137`, `cap-27:103`, `cap-10:75`, `cap-24:45`, `cap-35:243` ✓ (motivos, no relojes) |
+| Sol de Soldagen | 11:44 entre las montañas (`cap-34:211`); 21-ene-2062 «cuando la luz doró el muelle» sin hora | ✓ (plausible para Tromsø) |
+
+## 5. Saltos, solapamientos y analepsis
+
+- **Simultáneos:** 12/13 (jue 9-dic: Storgata ↔ Madre/Nieve/Cuchillo/Coro); 25/26 (lun 3-ene: EDDA ↔ casa de Aslak); 34–38 (21-ene, trenzados y solapados: 34 = 08:51→12:46:50; 35 = 12:30→12:46:50; 36 = 12:46→12:47; 37 = 12:47→13:07; 38 = 13:07→13:11); 7/9 (3-dic) y 8/9 (4-dic) comparten día; 32 (17-ene) y 31 (15-ene) enmarcan el mismo fin de semana; 39→40 (2-feb→3-feb) contiguos.
+- **Retrocesos reales:** cap-06 (arranca la tarde del 26-nov, antes del 03:14 de cap-05, y lo rebasa hasta ≈03:35); cap-09 (3-dic, tras cap-07/08 que ya van por 3–4-dic; termina la noche del 4). Ambos con `analepsis: true` ✓.
+- **`analepsis: true` sin retroceso:** cap-11 (6-dic > 5-dic) — el campo marca la **analepsis intercalada** (26-nov 19:30 y 27-nov 03:31, `cap-11:85-135`), no una ruptura de secuencia. Para M7 conviene distinguir dos semánticas: `analepsis` = «rompe la monotonía» (6, 9) vs. «contiene flashback» (11). Otras micro-analepsis no marcadas (recuerdo ≤ 1 párrafo): 4 (abuela), 20 (la sopa, :115), 23 (cumpleaños, playa), 33 (caldera 2059, :77), 34 (fotos), 35 (comisaría). Correcto que no lleven marca.
+- **Capítulos que abarcan varios días bajo una sola `fecha`:** 6 (26→27-nov), 9 (3→4-dic), 16 (13→15-dic), 22 (27→28-dic), 39 (22-ene→2-feb), 40 (3-feb→marzo). `fecha` = inicio (convención estable).
+- **Huecos sin escena en v0 (además de §6):** 27-nov→3-dic (preparativos y semana previa al funeral: solo Jean, caps. 5→7); 20-dic→25-dic (Navidad: solo `cap-21:71`); 29-dic→2-ene (Año Nuevo); 9→12-ene; 17→20-ene (traslado a Koppangen, alud); 3-feb→enero 2062 (elipsis final, resumida en cap-40/41).
+
+## 6. Ventanas para los capítulos nuevos (§2.4 y tabla 5.1 del plan)
+
+| Nuevo | `orden_lectura` | Ventana de fechas admisible | Qué la acota | Notas para A2/A3 |
+|---|---|---|---|---|
+| **N5 «Turno»** (Jean) | 7.5 | `2060-12-03` (tras el funeral) o `2060-12-04` (antes del instante de cap-08) | cap-07 termina con la foto del funeral (3-dic); cap-08 (4-dic) abre con la razón adherida y cierra con la **primera voz ajena** («Todavía no sabes cuántas somos», `cap-08:89`); cap-13 (9-dic) es el primer contacto nombrado | El «primer roce leve con otra continuidad sin nombrarla» debe quedar **por debajo** de la revelación de `cap-08:89` (p. ej., una salida adherida, no una voz). Para Jean no hay noche ni turno humano (`cap-07:29`): «Turno» = turno del sistema. Contador AÑOS-JM: ≈ 6,4 días → ≈ 280 años-JM el 3-dic a 16.000×, por si se usa un dato de sistema |
+| **N1 «La primera cita»** (Maja) | 9.5 | **`2060-12-04`** (sábado), de día | «Mañana tenemos la primera cita… Las tres» (`cap-09:65`); la profesional llamó el 27-nov (`cap-06:211-215`); la noche del 4 es la escena del piano (`cap-09:195`); cap-10 = 5-dic | Fecha monótona para el validador (3-dic < 4-dic < 5-dic) pero **retrocede unas horas** respecto al cierre de cap-09 (noche del 4): aceptable si N1 lleva `fecha: 2060-12-04T…` diurna. Cita en sábado (plausibilidad: equipo hospitalario). Debe ser coherente con `cap-14:149` (ver D1). Carta F estricta |
+| **N2 «Instituto»** (Nora/Jessie) | 16.5 | **`2060-12-16`** (jueves) recomendada; alternativa `2060-12-14` (martes, día vacío dentro de cap-16) | cap-16 narra 13, 14 (medianoche) y 15-dic; cap-17 (Jean) = 16-dic; cap-18 = 17-dic (los tres en Kongsbakken de día, Nora «acreditación de visitante… Ni aspirante ni alumna», `cap-18:19-21`; Nora asiste a otro instituto) | Ninguna escena de v0 muestra a las gemelas en clase; `cap-10:143` («que mañana vayas a clase», 6-dic) sugiere que Nora no acudía; `cap-20:169` (20-dic) da por hecho que va al instituto. «Vuelta a clase» no puede ser la primera desde el 26-nov si se sitúa el 16 (o se asume ausencia larga hasta mitad de diciembre). Con 14-dic habría retroceso de un día respecto a cap-16. Debe sembrar `AULA O GRUPO ASIGNADO` (`cap-22:45`) y la presión de prensa de cap-40 |
+| **N3 «Inventario»** (Maja) | 22.5 | `2060-12-28` (martes) o `2060-12-29` diurno | cap-22 termina el 28-dic (Astrid con su director); cap-23 = 29-dic 20:00 en la casa de Tromsøya; «vaciar»/cajas desde `cap-09:97-101,199` y `cap-10:149`; la casa se abandona el 3-ene (`cap-26:17`) | Ventana también útil para el vacío de Navidad. Retro-anclajes disponibles: divorcio 2059 (`cap-06:153`), caldera 2059 (`cap-33:77`), la sopa y «un metrónomo también puede mentir» (`cap-20:115`), Jean con piso propio y conserje (`cap-11:101`) frente a «casa de Maja y las niñas» (`cap-04:15`). Prohibido explicar el porqué (Carta F) |
+| **N4 «Interferencias»** (familia; espejo Jean opcional) | 25.5 | **`2061-01-03`** (lunes), antes de la llegada nocturna a casa de Aslak; puede mirar atrás hasta el 2-ene | cap-25 y cap-26 = 3-ene; cap-24 = 2-ene (seguimiento + 2 h de comisaría); cap-26 justifica la marcha solo por «El seguimiento y la retención» (`cap-26:17`) → ripple obligatorio; **la amenaza de Coro se formula el 17-ene** (`cap-32:93-97`), después de N4: N4 es el primer intento y cap-32 su reiteración/veto (coherente con el ripple previsto en 32) | Restricciones: la cuenta de Nora **nunca aparece restituida en v0** (suspendida 5-dic; nodos consultan `ESTADO DE CUENTA ESCOLAR` el 27-dic): la restitución debe establecerse (N2 o el propio N4). La credencial de Maja puede quedar «marcada» pero su acceso a AK-7 sigue operativo el 7, 20 y 21-ene (`cap-28:129`, `cap-33:135`, `cap-35:101`, `cap-37:129`). Reunión del kystbrukslag el 4-ene (`cap-26:175`) y otra antes del 20 (`cap-31:221`): la inspección sorpresa cabe el 3-ene o como noticia el 3 |
+| **N6 «Acta»** (Aslak/kystbrukslag; Maja invitada) | 40.5 | Entre marzo de 2061 y el 20-ene-2062; recomendación: **primavera-verano 2061** (`fecha` ≥ `2061-04`) | cap-40 ya narra: primera sesión «El miércoles nos escuchan» (finales de febrero, `cap-40:137-141`), «otra sesión el mes siguiente» (:161) y **«En marzo… Aslak estaba con la asociación en la segunda sesión de la consulta»** mientras Maja está en Kongsbakken/Koppangen (:167-175); cap-41 = 21-ene-2062 | ⚠ Discrepancia plan↔texto: la «segunda sesión» ya está fechada y **Maja no puede asistir** ese día. Opciones: (a) N6 = sesión posterior con resultado/acta («Después esperamos el acta», :141) en primavera-otoño 2061; (b) retocar `cap-40:175` (OT-40 R). Ventana textual: «En primavera» / «Desde el verano» / «desde octubre» (`cap-41:95-101`) están libres |
+
+## 7. Discrepancias y decisiones pendientes
+
+| # | Tipo | Dónde | Detalle | Propuesta |
+|---|---|---|---|---|
+| D1 | prosa↔prosa | `cap-09:65` vs `cap-14:149` | Primera cita de apoyo = 4-dic; el 11-dic Nora «llevaba cuatro noches sin reproducir la última discusión» **desde la cita** → serían 7 noches (o cita el 7-dic) | Fijar N1 el 4-dic (gana `cap-09`, más explícito). Leer `cap-14:149` como «cuatro noches seguidas» (compatible) o retocar en OT-14 (R, no protegido). Decisión A2 |
+| D2 | plan↔texto | Ap. B CH-2 «cinturón (4, 10, 23, 33)» | El cinturón aparece en **4, 9 y 23** (`cap-04:27`, `cap-09:199`, `cap-23:313`); ni en 10 ni en 33 | Corregir el ledger (B4) |
+| D3 | verosimilitud calendario | cap-29 (dom 9-ene): vista del `tingrett` a las 14:00 y llamada del ministerio; cap-19 (dom 19-dic): inspección de NIDHOGG «hoy aún cabe en el calendario»; `cap-39:19` (dom 23-ene): Kronfjord congela líneas; `cap-06:165` (Jessie: «Mañana no voy al instituto» → sábado); N1 en sábado | Ninguna es contradicción interna, pero un lector con calendario las notará. Mover cap-29 al lun 10-ene rompe «a once días» (`cap-29:89`) y «al día siguiente» (:155); mover cap-19 rompe «Nueve días»/`979,7`. | A5 (T6, derecho noruego): decidir si se acepta como ficción o se retoca prosa no protegida en W4-W6 |
+| D4 | frontmatter (semántica) | cap-11 `analepsis: true` | No retrocede; contiene flashback. B0 lo contó entre las excepciones de monotonía sin necesitarlo | Documentado en §5; M7 debe tolerar ambas semánticas o A1 propone campo `analepsis_intercalada` (solo si el autor lo aprueba: campos del autor no se renombran) |
+| D5 | plan↔texto | Tabla 5.1 N6 / `cap-40:167-175` | «Segunda sesión de la consulta» ya ocurre en marzo sin Maja | Ver §6 N6 |
+| D6 | plan↔texto | Tabla 5.1 N4 / `cap-10`, `cap-11:249`, `cap-22:45` | «Re-suspensión de la cuenta restituida de Nora»: la restitución no existe en v0 | N2 o N4 la establecen; ripple en OT-14 innecesario |
+| D7 | plan (M7) | §2.3 «horas del clímax» | Faltan en la lista del validador: 08:51, 09:00, 09:42, 10:27, 11:40, 11:44, 11:58, 12:00, 12:04, 12:23, 12:26, 12:30, 12:37:59, 12:41–12:43, 12:46, 22:59/23:00 (20-ene) y 13:11 ya está | Añadirlas a M7 (tabla §2 de este documento como fuente) |
+| D8 | matiz | `cap-01:77` «catorce días hábiles» vs `cap-25:77` «cola de catorce días» | Solo con «hábiles» funciona «antes de agotar la estimación» (12 < 14-dic) | Ninguna acción; anotado para B3 |
+| D9 | plan↔texto (T1/N5) | `cap-08:89` | El primer contacto con otra voz es el cierre de cap-08; N5 va antes | El «roce» de N5 debe ser inferior a una voz (ver §6) |
+| D10 | plan (§2.3) | «edades (Jean 2014–2060, 46 años; gemelas 16, junio)» y aritmética de cohorte | Todo verificado ✓; añadir al validador el reloj AÑOS-JM (16.000× desde 27-nov 03:14) y las 5 menciones de «dieciséis» | Incorporar a M7 como comprobaciones adicionales |
+| D11 | geografía/tiempo (para B3/A5) | `cap-26` («casa baja», «refugio»), `cap-31:225` («En la ribera de Lyngenfjord. Svensby es refugio, no atajo»), `cap-33`/`cap-35:19` (naust y casa en Koppangen), `cap-35:25` (alud) | Dos bases de la familia en enero: casa de Aslak (3-ene→) y casa/naust de Koppangen (≤20-ene→). El traslado no se narra; el alud solo consta el 21-ene | Ventana 17→20-ene libre para costuras (W5) si A2 lo necesita; no exige capítulo nuevo |
+| D12 | dato deducido | `cap-28:61` | Ingrid (madre de Jean) «venía mucho cuando aún conducía»: no se dice si vive | Ambigüedad menor; B2 la anota sin resolver |
