@@ -4,7 +4,7 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 ## Situación
 
-- **Fase actual:** W1 (F0 + F1) CERRADA — **G1 APROBADO por el autor (2026-08-16)** y fusionada en `main`. **Fase 2 EN CURSO** (rama `f2-plan-estructural`: A2 redacta OT + briefs) → **G-A1** (autor).
+- **Fase actual:** **FASE 2 ENTREGADA — G-A1 PENDIENTE DE DECISIÓN DEL AUTOR** (`informes/g-a1-gate.md`; rama `f2-plan-estructural`, sin fusionar). W1 (F0 + F1) cerrada y en `main` (G0, G1 aprobados).
 - **Rama:** `f2-plan-estructural` (Fase 2: solo `ordenes/` e `informes/`; merge a `main` tras G-A1). W1 (`w1-biblia-diagnostico`) fusionada en `main`.
 - **Baseline:** tag `v0` (61e446f). Recuento canónico v0: 62.750 palabras.
 - **Última versión aceptada:** v0.
@@ -38,13 +38,14 @@ B0 `informes/b0-discrepancias.md` · B1 `biblia/b1-cronologia.md` · B2 `biblia/
 - **Gate:** `informes/g1-gate.md` APROBADO; decisiones del autor en `informes/registro-gates-autor.md` (M6b ≥ 60 %; jurado frío como baseline; R2 provisional; escena de Jean viva → brief N3/N1 para G-A1; coche gris → N4; **bolsa/efectos personales SÍ aparecen en vF bajo protocolo A7**; A6b en el primer hito).
 - **Tras la aprobación de G1:** merge de `w1-biblia-diagnostico` en `main`; después Fase 2 (A2: 47 OT + briefs N1–N6) → **G-A1** (autor).
 
-## Plan inmediato (tras G1)
+## F2 · Plan estructural ENTREGADO — G-A1 pendiente (2026-08-16, sesión 3)
 
-1. Autor aprueba G1 (o pide ajustes) → merge `w1-biblia-diagnostico` → `main`.
-2. Fase 2 (A2 editor estructural, esfuerzo max): 47 órdenes de trabajo con los criterios de aceptación de D1 §10, briefs de N1–N6 (con los ripples de G0 §3 y D1 §11), mapa de intervenciones, posición de R2; A0 revisa solapes 13/15/17/21 → **G-A1** (autor: posiciones/temas de N1–N6, ledger, liberaciones de spans, R1/R2).
-3. W2 (rama `w2-reescrituras`): 8, 13, 30, 17, 21, 36 → M1 −30 %, lector frío ≥ 3, A6×3 frío (ritmo/tema sin caída).
+- 47 OT en `ordenes/` (plantilla `ordenes/PLANTILLA-OT.md`), briefs N1–N6, `ordenes/RESERVA.md`, `informes/f2-mapa-intervenciones.md` (tabla maestra generada con `herramientas/lib/mapa_ot.py --md`), `informes/g-a1-gate.md`. Σ Δ = +17.900 → 80.650; con reserva entera 84.650. 163 intervenciones etiquetadas; ningún span requiere liberación. Arbitraje A0: la línea de registro de N4 en 36 entra en W5 (nota en OT-36 §5); OT-26 es W5.
+- **Decisiones pedidas al autor en G-A1** (`g-a1-gate.md` §1): A posiciones/temas N1–N6 (N6 POV Aslak) · B recuerdo de Jean viva en N3 (candidato A) · C reserva R1–R5 con posiciones (R1 en N3; R2 cola de 25 como OT-25b) · D ledger (CH-31/44/76/2/48) · E sin liberaciones de spans · F N4 (mecánica única, sin espejo, inspección → 26/N6, cuenta restituida dentro) · G bolsa/efectos ya decidido (protocolo A7) · H ajustes menores (OT-30 +160…+240; M6-continuidades ≥ 75 % en 13; OT-37 → A3b; A6b tras W2; amistad Maja–Alana no en 6) · I merge y W2.
+- **Tras la aprobación:** registrar decisiones; ajustar OT afectadas (+ OT-25b si procede); merge `f2-plan-estructural` → `main`; rama `w2-reescrituras`; `inyectar-frontmatter.sh --set cap-NN.md estado=en_oleada` para 8, 13, 17, 21, 30, 36; W2 con A3a en el orden 8, 13, 30, 17, 21, 36 → A4 → A5 → A8 → lector frío ×6 + A6×3 frío → gate W2.
 
 ## Registro de consumo (orientativo)
 
+- Sesión 3 (2026-08-16), Fase 2: A2 ×4 ≈ 2,03 M tokens (A2-W2 477k · A2-N 493k · A2-F1 504k · A2-F2 561k); contexto de A0 ≈ 0,15 M. Acumulado subagentes ≈ 6,1 M.
 - Sesión 3 (2026-08-16): F1 cerrada. Subagentes en sesión: sonda haiku 18k · A7 221k · A1-mant. 189k + 69k (+ A5 176k de la sesión 2) ≈ 0,67 M; fuera de sesión (`critica-fria.sh`, coste real): A6×3 frío 10,79 USD · lector frío ×16 1,00 USD · M6b ×4 0,30 USD ≈ 12,1 USD; contexto de A0 ≈ 0,35 M. Cada hito de puntuación completo costará ≈ 12 USD (A6×3 + lector frío de los capítulos tocados + M6b), + ≈ 9 USD si se añaden los A6b ×4.
 - Sesión 1 (2026-08-16): F0 completa. Subagentes: guía técnica 56k · B1 352k · B7 379k · B2a 353k · B2b 475k · B6 417k · B4/B5 460k · B3 481k · B6b (A4) 345k ≈ 3,4 M tokens de subagentes (con caché) + ~0,4 M del contexto de A0.
