@@ -41,7 +41,7 @@
     "cap-40.md:107-123 (Jessie calla en el locutorio: no pregunta)"
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
-   "resolucion": "Línea única en 40, POV Jessie: «No preguntó por el cinturón.» (Ap. B; mantiene el silencio como arco)",
+   "resolucion": "Línea única en 40, POV Jessie: «No preguntó por el cinturón.» (Ap. B; mantiene el silencio como arco). [D1 · A0 2026-08-16] Decisión A0 (D1): la línea se inserta FUERA de S40-locutorio (párrafo del jueves, 40:127, o inmediatamente tras la escena); sin rebaseline",
    "estado_actual": "PENDIENTE-ASIGNAR",
    "protegido": true,
    "tipo": "plantado",
@@ -710,7 +710,7 @@
    ],
    "reapariciones": [],
    "estado_v0": "PENDIENTE-ASIGNAR",
-   "resolucion": "R2 del backlog (§5.3: escena breve en Parte III donde se abre por primera vez; +900) — A0 decide entre pagar (R2) o declarar SIN-PAGO-INTENCIONAL (textura de sistema)",
+   "resolucion": "[D1 · A0 2026-08-16] Decisión A0 (D1): R2 del backlog activada provisionalmente (+900, escena breve en Parte III, etiqueta INTERIORIDAD/TENSIÓN, una sola vez, sin tocar S19-reflexiva); A2 fija la posición en F2 (candidatas: cola de 25 o escena propia 29.5); confirmación de autor en G-A1. [v0: R2 del backlog (§5.3) — A0 decide entre pagar (R2) o declarar SIN-PAGO-INTENCIONAL]",
    "estado_actual": "PENDIENTE-ASIGNAR",
    "protegido": true,
    "tipo": "plantado",
@@ -978,13 +978,13 @@
    ],
    "reapariciones": [],
    "estado_v0": "PENDIENTE-ASIGNAR",
-   "resolucion": "(A0 debe asignar). Propuesta A1: SIN-PAGO-INTENCIONAL — pertenece al blanco del ordenante (Ap. A §3); atribuirla señalaría culpable. Alternativa mínima compatible con T2: una pregunta sin respuesta en la vista del 39",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "resolucion": "[D1 · A0 2026-08-16] Decisión A0 (D1): pertenece al blanco del ordenante (Principio 6, Ap. A §3); el hueco se escenifica en la vista del 39 (OT-39, beat ≤ 40 palabras: la denuncia figura entre lo que nadie contesta); nunca se atribuye. Justificación en la sección 3.2 del ledger (.md). [Propuesta A1 v0: SIN-PAGO-INTENCIONAL — misma línea]",
+   "estado_actual": "SIN-PAGO-INTENCIONAL",
    "protegido": false,
    "tipo": "plantado",
    "protegido_por": "",
    "correccion_plan": "",
-   "nota": "Hilo abierto en v0; ninguna reaparición."
+   "nota": "Hilo abierto en v0; ninguna reaparición. [D1 · A0 2026-08-16] Reclasificado a SIN-PAGO-INTENCIONAL (pagado como hueco escenificado en 39)."
   },
   {
    "id": "CH-45",
@@ -1063,7 +1063,7 @@
    "tipo": "plantado",
    "protegido_por": "cap-09 íntegro; S14-cita (nuevo)",
    "correccion_plan": "",
-   "nota": "Justificación: el asidero es Kongsbakken; reproducir la discusión la convertiría en explicación."
+   "nota": "Justificación: el asidero es Kongsbakken; reproducir la discusión la convertiría en explicación. [D1 · A0 2026-08-16] A0 D1: los tres críticos fríos piden una escena de Jean viva con sus hijas; se atiende sin dramatizar la discusión — propuesta de recuerdo dramatizado ≤ 300 pal. en el brief de N3/N1, decisión de autor en G-A1."
   },
   {
    "id": "CH-49",
@@ -1441,7 +1441,7 @@
    "tipo": "plantado",
    "protegido_por": "S28-cierre",
    "correccion_plan": "",
-   "nota": ""
+   "nota": "[D1 · A0 2026-08-16] Emisor del audio de 28 (28:197-199, «campo de origen vacío»): NO es `/0000` (31:73 lo contradiría); candidata Madre/`PROGRESIÓN ESTABLE` (34:113). Canon B3 §21.3 (CERRADA)."
   },
   {
    "id": "CH-67",
@@ -1627,7 +1627,7 @@
     "cap-39.md:105-109 («¿Dónde está el anexo? —No consta. Yo autoricé la cohorte sin leerlo»)"
    ],
    "estado_v0": "SIN-PAGO-INTENCIONAL",
-   "resolucion": "No rellenar el anexo (Principio 6: villanía sistémica; el hueco jurídico ES el contenido) — A0 confirma",
+   "resolucion": "No rellenar el anexo (Principio 6: villanía sistémica; el hueco jurídico ES el contenido) — A0 confirma SIN-PAGO-INTENCIONAL (A0 confirma, D1) [D1 · A0 2026-08-16]",
    "estado_actual": "SIN-PAGO-INTENCIONAL",
    "protegido": false,
    "tipo": "plantado",

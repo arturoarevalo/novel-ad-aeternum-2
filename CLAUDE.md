@@ -5,7 +5,7 @@
 - Plan maestro: `plan-revision-ad-aeternum.md`. **A0 lo lee ÍNTEGRO al arrancar cada sesión** (con la herramienta Read). NO se importa con `@`: todo lo que hay en CLAUDE.md llega al contexto de TODOS los subagentes, y los lectores en frío (A6, A6b, lector-frio) no deben ver jamás el plan.
 - Crítica de referencia (baseline de puntuaciones): `critica-ad-aeternum.md`. Solo la lee A0 (al arrancar); jamás se pasa ni se importa para A6/A6b/lector-frio.
 - Tú eres A0 (orquestador). Los demás roles son subagentes según §2.1 y §2.5 del plan.
-- **Aislamiento de los lectores en frío (regla dura):** ningún fichero importado en CLAUDE.md, ningún prompt ni ningún fichero accesible al agente puede contener el plan, la crítica de referencia, los changelogs ni los informes de gate. Verificado el 2026-08-16 que los `@`-imports contaminaban a A6 (informes/a6-v0-critico-{1,2,3}.md). Preferir ejecutar A6/A6b/lector-frio fuera del repositorio (`claude -p` desde el scratchpad, solo con el compilado/extracto; herramienta prevista: `herramientas/critica-fria.sh`).
+- **Aislamiento de los lectores en frío (regla dura):** A6, A6b, `lector-frio` y `m6-atribuidor` se lanzan ÚNICAMENTE con `herramientas/critica-fria.sh` (`claude -p` desde fuera del repositorio, system prompt = rúbrica del agente, modelo fijado por ID, sin herramientas, insumo único inline: compilado/extracto), NUNCA como subagentes de la sesión: todo subagente hereda CLAUDE.md, la memoria y el email (verificado con sonda haiku el 2026-08-16; los `@`-imports además contaminaban con el plan y la crítica: `informes/a6-v0-critico-{1,2,3}.md`, conservados como evidencia). Protocolo y evidencia: `informes/d1-aislamiento.md`. Ningún prompt ni fichero accesible a un lector frío puede contener el plan, la crítica de referencia, los changelogs ni los informes de gate.
 
 ## Estructura del repositorio
 
@@ -42,9 +42,10 @@
 - `herramientas/actualizar-metadatos.sh` — única vía de escritura de campos operativos del manifiesto (`palabras-real`, `objetivo`, `presupuestos --v0`, `registrar --gate`, `paratexto`, `renumerar --w7`, `verificar`).
 - `herramientas/medir.sh <etiqueta> [--baseline v0]` — ejecuta M1–M10 y vuelca el dashboard en `informes/`.
 - `herramientas/proteger.sh baseline|verificar|listar` — M9 (hashes de ficheros `total` y de spans; `--rebaseline --gate` solo para excepciones aprobadas).
-- `herramientas/validar-frontmatter.sh`, `herramientas/auditar-manifiesto.sh`, `herramientas/inyectar-frontmatter.sh` (campos del plan; `--set cap-NN.md estado=en_oleada`), `herramientas/sensibilidad.sh` (pre-chequeo T7: hits nuevos vs baseline de A7), `herramientas/lib/m6_muestra.py` (M6b), `herramientas/lib/huella.py` (B6 datos).
+- `herramientas/critica-fria.sh <rol> <insumo> --salida <informe.md>` — lectura en frío real (A6/A6b/lector-frio/m6-atribuidor) desde fuera del repo; `--sonda` verifica el aislamiento; env `AA_FRIO_DIR` = directorio de ejecución (scratchpad).
+- `herramientas/validar-frontmatter.sh`, `herramientas/auditar-manifiesto.sh`, `herramientas/inyectar-frontmatter.sh` (campos del plan; `--set cap-NN.md estado=en_oleada`), `herramientas/sensibilidad.sh` (pre-chequeo T7: hits nuevos vs baseline de A7), `herramientas/lib/m6_muestra.py` (M6b), `herramientas/lib/m4b_antepuestas.py` (M4b subordinadas antepuestas), `herramientas/lib/huella.py` (B6 datos).
 - Hooks: PreToolUse en `.claude/settings.json`; pre-commit vía `git config core.hooksPath herramientas/hooks` (repetir en clones nuevos). Excepción de gate de autor en Bash: prefijo `AA_GATE_AUTOR="motivo"`.
-- Los subagentes de `.claude/agents/` (17, con `model`/`effort` de §2.5) se indexan al arrancar la sesión: tras crearlos o editarlos hay que reiniciar la sesión para lanzarlos por nombre.
+- Los subagentes de `.claude/agents/` (18, con `model`/`effort` de §2.5; `m6-atribuidor` añadido en F1) se indexan al arrancar la sesión: tras crearlos o editarlos hay que reiniciar la sesión para lanzarlos por nombre.
 - Documento vivo de estado: `informes/estado-proceso.md`. Gates: `informes/g0-gate.md`, …
 
 ## Modelos y esfuerzo
@@ -53,5 +54,5 @@ Sesión principal: claude-fable-5 a esfuerzo máximo. Subagentes según la tabla
 
 ## Estado
 
-- Fase actual: F1 (diagnóstico D1) EN CURSO en la rama W1 (`w1-biblia-diagnostico`), G0 SUPERADO (`informes/g0-gate.md`; paratextos en edición por el autor, provisionales hasta su aviso). Checkpoint y pendientes exactos en `informes/estado-proceso.md` («F1 en curso»): A5 entregado (`informes/d1-auditoria-reglas.md`), A6×3 v0 contaminados (repetir en frío real), lector frío 1/16, M6b pendiente → D1 → G1 → merge a main. Actualiza esta línea al cerrar cada fase/oleada.
+- Fase actual: **F1 CERRADA por A0 (D1 entregado) — G1 PENDIENTE DE DECISIÓN DEL AUTOR**, en la rama W1 (`w1-biblia-diagnostico`); G0 SUPERADO (`informes/g0-gate.md`; paratextos en edición por el autor, provisionales hasta su aviso). Gate: `informes/g1-gate.md` (8 decisiones pedidas). Diagnóstico: `informes/d1-diagnostico.md` (objetivos por capítulo = criterios de aceptación de las OT). Baseline fría real de v0 (A6×3, mediana): global 8,0 · ritmo 7 · estructura/trama 7,5 · duelo 9 · tema 8,5 · resto 8 (`informes/a6-v0-critico-{1,2,3}-frio.md`). **No fusionar W1 en main hasta la aprobación de G1.** Después: Fase 2 (A2: OT + briefs) → G-A1. Checkpoint exacto en `informes/estado-proceso.md`. Actualiza esta línea al cerrar cada fase/oleada.
 - Última versión aceptada: v0 (tag). Recuento canónico v0: 62.750 palabras.

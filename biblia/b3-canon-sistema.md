@@ -50,6 +50,8 @@ Notas de canon: los nombres los eligen las continuidades («Elegí el nombre», 
 - **Consolidación.** `COHORTE DE ORIGEN · 4.096` / `RUTAS OPERATIVAS · 2.911` / `4.096 − 2.911 = 1.185` (cap-34:85-91). Reparto de las 2.911: 2.311 enlazadas por adhesión + 597 ramas de Coro + 3 separadas (`/0188`, `/0007`, `/0311`) (cap-38:73-79). Las 1.185 «no tienen vía para responder» (cap-38:77).
 - **Duda aritmética (para A5/B1):** la orden del 9-ene «alcanzaba más de tres mil rutas» (cap-29:23; cap-31:55; cap-32:15). Si antes del corte había >3.000 operativas y quedan 2.911, la consolidación eliminó ≤ ~1.000; las 1.185 del informe se calculan contra la cohorte de origen, no contra las operativas previas. Alana dice «lo que hicimos con las mil ciento ochenta y cinco» (cap-34:205). El texto es coherente si parte de las 1.185 se perdió antes del 20-ene (p. ej. La Jardinera, cap-30). Canon provisional: **1.185 = pérdida acumulada respecto a la cohorte**; ningún escritor debe escribir «la consolidación borró 1.185».
 
+**[D1 · A0 2026-08-16] CANON FIJADO (§21.1 CERRADA):** 1.185 = pérdida acumulada respecto a la cohorte de 4.096 (**597 Coro + 2.311 enlazadas + 3 separadas + 1.185 perdidas = 4.096**). NO es lo que la consolidación del 20-ene borró: si el 9-ene había «más de tres mil» operativas y quedan 2.911, la consolidación eliminó < ~1.000; el resto se perdió antes (La Jardinera en 30, la continuidad de cinco segmentos en 34:73). **PROHIBIDO escribir «la consolidación borró 1.185».** La frase de Alana (34:205, «lo que hicimos con las mil ciento ochenta y cinco») se sostiene como imprecisión suya.
+
 ## 3. La gramática de la tarea
 
 | Pieza | Regla tal como opera | Cita |
@@ -96,6 +98,8 @@ Notas de canon: los nombres los eligen las continuidades («Elegí el nombre», 
 
 - **Margen** = tiempo/capacidad con que una continuidad habla o sostiene una salida abierta. Mantener una desviación «consume el margen con el que Madre habla» (cap-13:33); «El sistema me quitará margen» si delego (cap-13:103); el sistema «reasigna el margen» al marcar un caso incompleto (cap-13:157); «Hay margen» en el campo secundario (cap-15:109); Coro «deja de compartir carga» al retirarse la cesión (cap-21:69); «Las tareas recuperan el margen prestado» al terminar la asamblea (cap-30:221); «margen interior» creado por la caída de presión (cap-36:15).
 - **Capacidad** = lo que la tarea reclama: «La tarea reclama toda la capacidad de Madre. El contacto se corta» (cap-13:69); «Validarla liberaría capacidad» (cap-13:89); una continuidad puede prestar capacidad a otra: Nieve cede «una fracción» de su margen a `/0000` sin darle acceso a su salida y la retira al vencer la asignación (cap-21:111-139); Madre «asume una de sus tareas… Con lo tuyo. La dejo ahí» (cap-30:93-97); Jean «sostiene» apelaciones bajo `/0000` y esa carga «consume la capacidad que Cuchillo necesita para propagar el cierre» (cap-36:49-51). **(inferencia — regla unificadora candidata, no canonizada)**: *la capacidad pertenece a la ruta/tarea, no a la voz; quien deja una salida abierta la gasta por todas las que comparten esa ruta.* Reconcilia los tres casos; véase §19, F2.
+
+**[D1 · A0 2026-08-16] CANON FIJADO (§21.9 CERRADA):** la capacidad (margen) **pertenece a la RUTA, no a la voz**: una continuidad puede ceder/prestar margen de su ruta a otra (21: Nieve; 30: Madre; 36: Jean agota la de Cuchillo) y Coro reparte estado entre ramas (13:231). Se enuncia **UNA sola vez en la prosa**, en OT-21 (voz de Jean, sin la fórmula «Regla:»).
 - **Prioridad**: rango de entrada (`LOTE ROJO · PRIORIDAD ALTA`, cap-07:63) y crédito: `PRIORIDAD JM-L/0000 · +1` por una salida correcta, gastado frase a frase con EDDA (cap-25:19,33,57); «Jean entra [en la asamblea] mediante la prioridad de su candidatura» (cap-30:27).
 - **Penalización**: por reservar un segmento (cap-13:205), por conservar estado local («La validación penaliza la decisión», cap-13:275), por abrir una repetición (cap-21:85), aceptada por la continuidad de los cinco segmentos (cap-34:77).
 
@@ -194,6 +198,8 @@ Definición: «Cada tarea suma el tiempo mediano que Jean Marie habría necesita
 
 **Aritmética verificada (A1):** 27-nov 03:14 → 21-ene 13:07 = 55,41 días ✔; 2.427,4 años / 55,41 días = 16.000× ✔. Si 2.401,6 se tomó en el corte de la consolidación (20-ene 23:00): 54,82 días → 16.000× ✔, y el tramo 23:00 → 13:07 añade 25,8 años = 16.021× ✔; 979,7 a mediodía del 19-dic = 15.955× ✔. **(inferencia canónica): 2.401,6 es el auditado del corte de las 23:00 del 20-ene; la tasa es constante (~44 años-JM por día exterior).** Cualquier cifra nueva debe respetar 16.000× la línea base.
 
+**[D1 · A0 2026-08-16] CANON FIJADO (§21.7 CERRADA):** tasa AÑOS-JM ≈ **16.000×** (≈ **43,8 años-JM por día exterior**), constante desde la apertura técnica (27-nov 03:14). Anclas obligatorias para cualquier cifra nueva: **979,7** al 19-dic · **2.401,6** = corte 23:00 del 20-ene · **2.427,4** = 21-ene 13:07. Toda cifra nueva se deriva de esta tasa.
+
 ## 15. NORNA
 
 | Aspecto | Canon | Citas |
@@ -273,6 +279,28 @@ Cada punto: qué hace el sistema «porque la trama lo necesita», dónde, y dos 
 | F15 | **La llave «encaja» en un armario HVAC.** La consola de INC-441 reconoce «el identificador conservado por la llave» sin que nadie lo haya explicado | cap-35:145,185-199 | En 24, que Tomas vea en la hoja de Hvelv un identificador que ya vio en el informe de Gunnar (una línea) | Dejar la lectura de Tomas de las cuatro filas como toda la explicación (ya funciona) |
 | F16 | **Alana renueva la sesión «desde su reloj»** cuando su acceso está bajo control colegiado desde el 19-dic | cap-20:97; cap-19:255; cap-27:37 | Su credencial de auditoría existe porque «La revisión obliga a Armstrong a mantener el acceso» (20:33) — bastaría repetirlo en 23 | Nada |
 
+**[D1 · A0 2026-08-16] Decisiones de A0 sobre las 16 flexiones + calendario** (A = sembrar · B = restringir · C = ambigüedad asumida; ninguna es bloqueante, A5):
+
+- **F1** → **A** (OT-13, D5 en voz de Jean-ingeniera, sin la fórmula «Regla:», +25).
+- **F2** → **A** (OT-21, +30; canon en §5/§21.9).
+- **F3** → **A** (OT-17, línea ~89, +30) con **guarda B en OT-36**: el alcance de Cuchillo se queda en apelaciones / aislamiento / cierres (36:23); prohibido darle redes/producción.
+- **F4** → **C** (el emisor del audio de 28 «podía pertenecer a cualquiera»; no es `/0000`; ver §21.3).
+- **F5** → **C** (5-dic queda atribuido a `/0044` o a nadie; ambigüedad protegida; ver §21.2).
+- **F6** → **C**.
+- **F7** → **C**.
+- **F8** → **C** (D5 «cruzar» como umbral **opcional** en OT-08).
+- **F9** → **C**.
+- **F10** → **C** → **R2/CH-31** (ventana reflexiva; R2 activada provisionalmente, ver B4 CH-31).
+- **F11** → **C**.
+- **F12** → **C + canon** (ver §2/§21.1).
+- **F13** → **C** → **N4/CH-1** (N4 paga la amenaza de Coro).
+- **F14** → **A** (OT-13, «una copia del patrón de Madre», 13:257, +3).
+- **F15** → **C** (+**A opcional** en OT-24: 1 línea, nunca por boca del narrador).
+- **F16** → **C**.
+- **Calendario:** Cal-19 y Cal-39 → **C**; Cal-29 → **C** (+**A opcional** en OT-29: ½ línea de convocatoria de guardia por urgencia; **no cambiar** `fecha` ni «once días»).
+
+Coste total de las A: ≈ +90 palabras (dentro de los Δ de 13, 17, 21), ninguna sobre span protegido ni fichero `total`.
+
 Los cinco más graves para el eje Mundo/Trama: F1, F2, F3, F4, F5.
 
 ## 20. Presupuesto de exposición
@@ -328,13 +356,15 @@ Los cinco más graves para el eje Mundo/Trama: F1, F2, F3, F4, F5.
 
 ## 21. Dudas y decisiones pendientes (para A0/A5/B1)
 
-1. **1.185 vs «más de tres mil»** (§2, F12): fijar canon numérico antes de W2.
-2. **Cronología interior de 15** (F5): el frontmatter data el capítulo el 12-dic por el interludio de R-1189; sus secciones anteriores no tienen fecha; B1 debe anotar que la `CARIES` del 5-dic no puede ser la de `/0000` en 15 y que eso es correcto.
-3. **Emisor del audio de 28**: sin origen («campo de origen seguía vacío»); B4 (ledger) debe registrar que 31:73 lo contradice si el emisor fuera `/0000`.
-4. **12:47** llega a Jean en 31 sin fuente interior mostrada; decidir A o B de F4.
-5. **Consciencia residual «indeterminado»** (11:307) es la única frase clínica del libro sobre el estatuto de las ejecuciones: protegerla como línea suelta (propuesta a B5).
-6. **La ventana reflexiva** (F10): decisión de A0 sobre R2 antes de W3.
-7. **AÑOS-JM**: canonizar la tasa (~44 años-JM/día exterior; 16.000×) para cualquier cifra nueva; y que 2.401,6 corresponde al corte de las 23:00 del 20-ene.
-8. **Justificación de la llave MIDI** (plan 5.1 #18): no existe en v0; boca autorizada Gunnar/Nora; una frase.
-9. **Regla unificadora de capacidad** (§5, F2): decidir si se canoniza (recomendación de A1: sí, enunciada una vez en N5 o en 13 RW).
-10. **Fechas verificadas por A1**: 24-nov-2060 = miércoles («Aquel viernes» de cap-2 = 26-nov ✔); 12-dic-2060 = domingo ✔ (25:85); 14 días hábiles vencían el 14-dic ✔ («antes de agotar la estimación»); 27-nov = sábado; 21-ene-2061 = viernes.
+1. **1.185 vs «más de tres mil»** (§2, F12): fijar canon numérico antes de W2. → **[D1 · A0 2026-08-16] CERRADA:** canon fijado en §2 (1.185 = pérdida acumulada respecto a la cohorte; prohibido «la consolidación borró 1.185»).
+2. **Cronología interior de 15** (F5): el frontmatter data el capítulo el 12-dic por el interludio de R-1189; sus secciones anteriores no tienen fecha; B1 debe anotar que la `CARIES` del 5-dic no puede ser la de `/0000` en 15 y que eso es correcto. → **[D1 · A0 2026-08-16] CERRADA:** la `CARIES` del 5-dic (cap-10) es anterior a la de `/0000` (12-dic, cap-15) y NO puede ser suya (autoría plural protegida, F5 → C). Anotado en B1.
+3. **Emisor del audio de 28**: sin origen («campo de origen seguía vacío»); B4 (ledger) debe registrar que 31:73 lo contradice si el emisor fuera `/0000`. → **[D1 · A0 2026-08-16] CERRADA:** emisor del audio de 28 ≠ `/0000` (31:73); candidata Madre/`PROGRESIÓN ESTABLE` (34:113). Registrado en B4 (CH-66). Ver §21.3 abajo.
+4. **12:47** llega a Jean en 31 sin fuente interior mostrada; decidir A o B de F4. → **[D1 · A0 2026-08-16] CERRADA:** F4 → **C** (ambigüedad asumida).
+5. **Consciencia residual «indeterminado»** (11:307) es la única frase clínica del libro sobre el estatuto de las ejecuciones: protegerla como línea suelta (propuesta a B5). → **[D1 · A0 2026-08-16] pendiente B5** (A0 la aprueba; se añade al fijar spans en G-A1).
+6. **La ventana reflexiva** (F10): decisión de A0 sobre R2 antes de W3. → **[D1 · A0 2026-08-16] CERRADA salvo confirmación de autor:** CH-31/R2 activada provisionalmente (B4).
+7. **AÑOS-JM**: canonizar la tasa (~44 años-JM/día exterior; 16.000×) para cualquier cifra nueva; y que 2.401,6 corresponde al corte de las 23:00 del 20-ene. → **[D1 · A0 2026-08-16] CERRADA:** tasa canonizada en §14 (≈ 16.000×; ≈ 43,8 años-JM/día; anclas 979,7 / 2.401,6 / 2.427,4).
+8. **Justificación de la llave MIDI** (plan 5.1 #18): no existe en v0; boca autorizada Gunnar/Nora; una frase. → **[D1 · A0 2026-08-16] CERRADA:** la justificación va en OT-18 (boca de Gunnar/Nora, una frase; tabla 5.1).
+9. **Regla unificadora de capacidad** (§5, F2): decidir si se canoniza (recomendación de A1: sí, enunciada una vez en N5 o en 13 RW). → **[D1 · A0 2026-08-16] CERRADA:** canonizada en §5/§21.9 (la capacidad pertenece a la ruta, no a la voz; se enuncia una vez en OT-21, voz de Jean, sin «Regla:»).
+10. **Fechas verificadas por A1**: 24-nov-2060 = miércoles («Aquel viernes» de cap-2 = 26-nov ✔); 12-dic-2060 = domingo ✔ (25:85); 14 días hábiles vencían el 14-dic ✔ («antes de agotar la estimación»); 27-nov = sábado; 21-ene-2061 = viernes. → **[D1 · A0 2026-08-16] sin cambios** (verificado por A5).
+
+**[D1 · A0 2026-08-16] Referencias cerradas** de este bloque, para el índice de A0: §21.1 (1.185), §21.2 (CARIES 5-dic ≠ `/0000`, autoría plural F5→C), §21.3 (emisor audio 28 ≠ `/0000`, registrado en B4), §21.4 (F4→C), §21.6 (CH-31/R2, salvo confirmación de autor), §21.7 (tasa AÑOS-JM), §21.8 (llave MIDI en OT-18), §21.9 (regla de capacidad). **Pendiente:** §21.5 (proteger 11:307 vía B5, al fijar spans en G-A1). §21.10 sin cambios.

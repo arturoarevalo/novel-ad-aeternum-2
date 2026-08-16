@@ -68,7 +68,7 @@
 | cap:línea | réplica |
 |---|---|
 | 6:149 | Soy la esposa. |
-| 6:191 | ¿Sufrió? |
+| 6:191 | ¿Sufrió? [A7 D1 2026-08-16: no reutilizable (B7 §6 N1); v0 la deja sin respuesta] |
 | 9:71 | No. Y yo tampoco puedo daros una sola causa. Pero necesito que oigáis esto sin que quede escondido dentro de otra frase: nada de lo que dijisteis, hicisteis o dejasteis de hacer causó la muerte de Jean. |
 | 14:275 | Fuera. |
 | 14:325 | Alana quería las pruebas. Yo quiero una fuente que le lleve la contraria. |
@@ -182,7 +182,7 @@
 
 ## 3. Jessie Larsson Kvalvik
 
-**(a) Identidad y función.** Dieciséis años, ocho minutos menor; cambió el ballet por aikido, «quiere aprender a caer sin hacerse daño» (3:119-123); labio abierto y moratón (3:131); cordón suelto cuando algo la impacienta (7:133-139). Función: la hija que nombra las cosas («Mamá se mató»), graba, encara, roba el terminal y activa desde fuera la petición del Soldagen; su arco termina en silencio (locutorio) y en «Para que conste».
+**(a) Identidad y función.** Dieciséis años, ocho minutos menor; cambió el ballet por aikido, «quiere aprender a caer sin hacerse daño» (3:119-123); labio abierto y moratón (3:131); cordón suelto cuando algo la impacienta (7:133-139). Función: la hija que nombra las cosas («Mamá se mató») [A7 D1 2026-08-16: acto único de cap-09, no muletilla; estigma de N2 sin método (B7 §6)], graba, encara, roba el terminal y activa desde fuera la petición del Soldagen; su arco termina en silencio (locutorio) y en «Para que conste».
 
 **(b) Arco en v0.** POV en 35 y tramo de 24; presencia continua desde 6.
 
@@ -208,7 +208,7 @@
 | 40 | Locutorio en el suelo, sin hablar; «Vuelvo el jueves» (40:107-123); tornillos en el naust (40:145). |
 | 41 | Móvil en el tejado; «Cronometrar el sol.» «Para que conste.» (41:75-81). |
 
-**(c) Heridas y motivaciones acreditadas.** La rabia contra el eufemismo (9:131-143). «Todo con mamá acababa yendo de ganar» (9:179) y el dato de Nora de que Jean la dejaba ganar en las inmovilizaciones (9:181). «Eso no hace que la perdone» (9:81). El deseo negado de mirar «Despedida» (9:171-175). El cinturón que no vuelve a colgar (23:311-313: lo descuelga y solo pide preguntar). La necesidad de ser útil («Al menos he hecho algo», 16:243; «Entonces sigo siendo necesaria», 33:121). Alivio en «Y mamá tenía enemigos» (24:211). Su lenguaje se limpia de vulgarismos a partir de 35: ninguno en 35, 37, 39, 40, 41.
+**(c) Heridas y motivaciones acreditadas.** La rabia contra el eufemismo (9:131-143). «Todo con mamá acababa yendo de ganar» (9:179) y el dato de Nora de que Jean la dejaba ganar en las inmovilizaciones (9:181). «Eso no hace que la perdone» (9:81). El deseo negado de mirar «Despedida» (9:171-175). El cinturón que no vuelve a colgar (23:311-313: lo descuelga y solo pide preguntar). La necesidad de ser útil («Al menos he hecho algo», 16:243; «Entonces sigo siendo necesaria», 33:121). Alivio en «Y mamá tenía enemigos» (24:211) **(inferencia)** [A7 D1 2026-08-16: no es hipótesis de causa; narrador, N2 y N4 no lo vuelven explicación]. Su lenguaje se limpia de vulgarismos a partir de 35: ninguno en 35, 37, 39, 40, 41.
 
 **(d) Lo que sabe y cuándo.** Comparte casi todo con Nora (10, 12, 14, 18, 20, 23, 31). Propio: es ella quien pregunta «¿Por qué Koppangen?» (6:121) y no obtiene respuesta; conoce el contenido del cinturón como pregunta (23:313), no como dato; sabe que la aplicación quedó ligada a su credencial (31:201) y qué significa exponerla (35:147-151); sabe que Tomas «había preservado el coche de Gunnar» (35:161) —**v0 no muestra cómo lo supo: duda para A5**—; en 39 sabe qué firma y qué no (39:91-95). Se lo dice: a Maja por radio (37:133), a la jueza (39:85).
 
@@ -242,13 +242,15 @@
 
 **(g) Prohibiciones.** Jessie «hablando por fin» en el locutorio (40:113: la transcripción en blanco es el arco; el plan añade como mucho «No preguntó por el cinturón»); Jessie que llora en escena (v0 solo da la aspiración tras la puerta, 26:27, y «la piel hinchada», 26:31); Jessie que entra en la galería (39:95); Jessie que perdona a Jean o a Alana en palabras; más de un vulgarismo por escena nueva; conducta de riesgo presentada como eficaz sin coste (24 le cuesta dos horas e investigación; 16, un incidente policial); resolver el cinturón (CH-2/CH-8: el hueco es contenido); Jessie sentimental con Tomas (35:225 «Podía haber tardado… Le entregó la llave» es el techo).
 
-**(h) Relaciones.** *Nora:* ver §2(h); Jessie protege a Nora de la esperanza fabricada (31:159) y de los adultos anónimos (12:59); la mesa sin resumen (40:127) es su forma de paz. *Maja:* pulso por el perímetro («Tú no entras» / «No te lo estoy preguntando», 31:121-123); acuerdo por objetos (33:197-203); «Respuesta correcta» (26:37). *Alana:* la enemiga que se deja usar (14, 20, 31:79-83). *Gunnar:* «Le temblaban los dedos» (12:309) es su forma de creer. *Tomas:* de la silla de Fyret (16) al «Tú» del rellano (35:163) y a la firma que lo nombra a él (39:85). *Aslak:* órdenes de barca aceptadas sin réplica (35:31-43); ajusta con él el encuadre del móvil (41:49).
+**(h) Relaciones.** *Nora:* ver §2(h); Jessie protege a Nora de la esperanza fabricada (31:159) y de los adultos anónimos (12:59); no resume; nadie le pide resumen (40:127) [A7 D1 2026-08-16, B7 cap-40]. *Maja:* pulso por el perímetro («Tú no entras» / «No te lo estoy preguntando», 31:121-123); acuerdo por objetos (33:197-203); «Respuesta correcta» (26:37). *Alana:* la enemiga que se deja usar (14, 20, 31:79-83). *Gunnar:* «Le temblaban los dedos» (12:309) es su forma de creer. *Tomas:* de la silla de Fyret (16) al «Tú» del rellano (35:163) y a la firma que lo nombra a él (39:85). *Aslak:* órdenes de barca aceptadas sin réplica (35:31-43); ajusta con él el encuadre del móvil (41:49).
 
 **(i) Huecos previstos.** N2 (casi-pelea, «hija de» público); pago del aikido en 35 (CH-4: v0 tiene «Maja agarró a Jessie por la parte posterior de la parka y la llevó al fondo de la barca», 35:273, sin la caída); CH-2 en 40 (línea única); textura marina en 33; siembra de la presión mediática de 40 (40:93-103) desde N2.
 
 ---
 
 ## 4. Nora ↔ Jessie: rasgos discriminantes para M6
+
+[A7 D1 2026-08-16: nadie escribe «a la tabla» discriminante de M6 (Nora = método, Jessie = golpe); N2 aporta aula/tutora/prensa sin hacer de Jessie portavoz del eufemismo (9:131–143 es techo, no repertorio) ni de Nora una investigadora sin edad; su rabia contra Jean se dice y no se corrige (Carta 4).]
 
 | rasgo | Nora | Jessie |
 |---|---|---|
