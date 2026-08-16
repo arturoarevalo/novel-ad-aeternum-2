@@ -4,7 +4,7 @@
 
 ## 1. Veredicto de A0
 
-**G1: SUPERADO por A0, condicionado a la aprobación del autor** (decisiones de §4). Los siete puntos de la Fase 1 están hechos y documentados; los objetivos numéricos por capítulo (D1 §10) son los criterios de aceptación que A2 llevará a las 47 OT en la Fase 2. El hallazgo crítico de la sesión 2 (aislamiento roto de los lectores en frío) está resuelto, verificado y convertido en herramienta y regla dura.
+**G1: SUPERADO** — aprobado por el autor el 2026-08-16 (decisiones de §4 registradas en `informes/registro-gates-autor.md`; en la 6, el autor decide que la bolsa/efectos personales SÍ aparecen en vF bajo el protocolo de A7). Los siete puntos de la Fase 1 están hechos y documentados; los objetivos numéricos por capítulo (D1 §10) son los criterios de aceptación que A2 llevará a las 47 OT en la Fase 2. El hallazgo crítico de la sesión 2 (aislamiento roto de los lectores en frío) está resuelto, verificado y convertido en herramienta y regla dura.
 
 ## 2. Checklist de la Fase 1 (§4 del plan)
 

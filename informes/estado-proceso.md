@@ -4,8 +4,8 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 ## Situación
 
-- **Fase actual:** F1 CERRADA por A0 (D1 entregado) — **G1 pendiente de decisión del autor**. Siguiente: aprobación G1 → merge W1 en main → Fase 2 (A2) → G-A1.
-- **Rama:** `w1-biblia-diagnostico` (oleada W1 = F0 + F1; merge a `main` solo tras G0 + G1).
+- **Fase actual:** W1 (F0 + F1) CERRADA — **G1 APROBADO por el autor (2026-08-16)** y fusionada en `main`. **Fase 2 EN CURSO** (rama `f2-plan-estructural`: A2 redacta OT + briefs) → **G-A1** (autor).
+- **Rama:** `f2-plan-estructural` (Fase 2: solo `ordenes/` e `informes/`; merge a `main` tras G-A1). W1 (`w1-biblia-diagnostico`) fusionada en `main`.
 - **Baseline:** tag `v0` (61e446f). Recuento canónico v0: 62.750 palabras.
 - **Última versión aceptada:** v0.
 
@@ -30,12 +30,12 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 B0 `informes/b0-discrepancias.md` · B1 `biblia/b1-cronologia.md` · B2 `biblia/b2-dossieres-voces-1-…` y `-2-…` · B3 `biblia/b3-canon-sistema.md` + `b3-lexicon.json` · B4 `biblia/b4-ledger-chekhov.md` + `b4-ledger.json` · B5 `biblia/b5-lista-protegida.md` + `protegidos/` · B6 `biblia/b6-huella-estilistica.md` (+ lista negra A4) · B7 `biblia/b7-carta-sensibilidad.md` · B8 no aplica. Hallazgos para G-A1: `informes/g0-gate.md` §3.
 
-## F1 · D1 ENTREGADO — G1 pendiente de decisión del autor (checkpoint 2026-08-16, sesión 3)
+## F1 · D1 ENTREGADO — G1 APROBADO (2026-08-16, sesión 3)
 
 - **Aislamiento resuelto** (`informes/d1-aislamiento.md`): sonda haiku confirmó que TODO subagente hereda CLAUDE.md + memoria + email; nueva herramienta `herramientas/critica-fria.sh` (claude -p fuera del repo, rúbrica como system prompt, modelo por ID, sin herramientas, insumo inline) verificada limpia; A6/A6b/lector-frio/m6-atribuidor solo se lanzan así (regla dura en CLAUDE.md).
 - **Baseline fría real de v0 (A6×3):** mediana global **8,0** · premisa 8 · estructura 7,5 · prosa 8 · diálogo 8 · personajes 8 · mundo 8 · **ritmo 7** · trama 7,5 · duelo 9 · tema 8,5 (`informes/a6-v0-critico-{1,2,3}-frio.md`). Es la baseline de anti-regresión (§7.3). Los contaminados se conservan.
 - **D1 entregado:** `informes/d1-diagnostico.md` (objetivos numéricos por capítulo = criterios de aceptación de las OT; decisiones B3 §19 y ledger B4; hallazgos nuevos para F2/G-A1). Insumos: lector frío ×16 en frío (`informes/d1-lector-frio/lf-NN.md`; T1 = 2/5, cap. 5 = 4/5), M6b (`informes/m6b/`, canónica 42 %), M4b (`herramientas/lib/m4b_antepuestas.py`, 5,3 %), A5 (`d1-auditoria-reglas.md`), A7 (`d1-a7-biblia.md`), A1-mantenimiento aplicó canon B3 §21 y ledger B4 (CH-44/76 SIN-PAGO-INTENCIONAL; CH-31 → R2 provisional).
-- **Gate:** `informes/g1-gate.md`. **NO fusionar W1 en main hasta la aprobación del autor** (decisiones pedidas: M6b ≥ 60 % en vez de M6 ≥ 80 %; objetivos por eje con el jurado frío; R2/CH-31; escena de Jean viva con sus hijas para el brief de N3/N1; coche gris del 24; A6b v0 opcional).
+- **Gate:** `informes/g1-gate.md` APROBADO; decisiones del autor en `informes/registro-gates-autor.md` (M6b ≥ 60 %; jurado frío como baseline; R2 provisional; escena de Jean viva → brief N3/N1 para G-A1; coche gris → N4; **bolsa/efectos personales SÍ aparecen en vF bajo protocolo A7**; A6b en el primer hito).
 - **Tras la aprobación de G1:** merge de `w1-biblia-diagnostico` en `main`; después Fase 2 (A2: 47 OT + briefs N1–N6) → **G-A1** (autor).
 
 ## Plan inmediato (tras G1)
