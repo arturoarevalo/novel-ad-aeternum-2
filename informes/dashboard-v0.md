@@ -1,6 +1,6 @@
 # Dashboard de métricas · v0
 
-_Generado 2026-08-16T17:16:47 · baseline de comparación: —_
+_Generado 2026-08-16T17:17:50 · baseline de comparación: —_
 
 ## M8 · Palabras
 
@@ -164,9 +164,9 @@ Total familia: 43.8 %
 ## M7 · Cronología — 🟢
 
 - Errores: ninguno
-- Avisos: ['cifras de cohorte no encontradas en prosa: 4.096, 1.185']
+- Avisos: ninguno
 - Horas del clímax: {'12:38': ['cap-31.md', 'cap-34.md', 'cap-35.md'], '12:46:01': ['cap-35.md'], '12:46:50': ['cap-34.md', 'cap-35.md'], '12:47': ['cap-34.md', 'cap-35.md'], '13:07': ['cap-37.md'], '13:11': ['cap-38.md']}
-- Cifras de cohorte encontradas: {'0000': 3, '4.095': 3, '0188': 1, '2061': 1, '0311': 1, '597': 3, '2.911': 1, '2.311': 1, '1189': 1}
+- Cifras de cohorte encontradas: {'0000': 3, '4.095': 3, '0188': 1, '2061': 1, '0311': 1, '597': 3, '2.911': 1, '2.311': 1, '1189': 1, '4.096': 1, '1.185': 1}
 - Cifras sospechosas: ['cap-11.md: «0000» junto a «orígenes»', 'cap-15.md: «0188» junto a «origen»', 'cap-15.md: «0000» junto a «continuidades»', 'cap-29.md: «2061» junto a «rutas»', 'cap-36.md: «0311» junto a «ruta»', 'cap-38.md: «0000» junto a «ruta»', 'cap-39.md: «1189» junto a «filas»']
 
 ## M9 · Protegidos — 🟢

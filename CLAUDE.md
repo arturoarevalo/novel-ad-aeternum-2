@@ -37,10 +37,14 @@ Tú eres A0 (orquestador). Los demás roles son subagentes según §2.1 y §2.5 
 
 ## Comandos
 
-- `herramientas/compilar.sh` — lee el manifiesto + `orden_lectura`, genera las cabeceras de parte desde `partes[]`, quita frontmatter, excluye dedicatoria/sinopsis, escribe en `compilado/` y reporta M8.
-- `herramientas/actualizar-metadatos.sh` — única vía de escritura de campos operativos del manifiesto.
-- `herramientas/medir.sh` — ejecuta M1–M10 y vuelca el dashboard en `informes/`.
-  (Los creas tú en Fase 0 si no existen.)
+- `herramientas/compilar.sh <etiqueta>` — lee el manifiesto + `orden_lectura`, genera las cabeceras de parte desde `partes[]`, quita frontmatter, excluye dedicatoria/sinopsis, incluye aviso y recursos, escribe en `compilado/` y reporta M8.
+- `herramientas/actualizar-metadatos.sh` — única vía de escritura de campos operativos del manifiesto (`palabras-real`, `objetivo`, `presupuestos --v0`, `registrar --gate`, `paratexto`, `renumerar --w7`, `verificar`).
+- `herramientas/medir.sh <etiqueta> [--baseline v0]` — ejecuta M1–M10 y vuelca el dashboard en `informes/`.
+- `herramientas/proteger.sh baseline|verificar|listar` — M9 (hashes de ficheros `total` y de spans; `--rebaseline --gate` solo para excepciones aprobadas).
+- `herramientas/validar-frontmatter.sh`, `herramientas/auditar-manifiesto.sh`, `herramientas/inyectar-frontmatter.sh` (campos del plan; `--set cap-NN.md estado=en_oleada`), `herramientas/sensibilidad.sh` (pre-chequeo T7: hits nuevos vs baseline de A7), `herramientas/lib/m6_muestra.py` (M6b), `herramientas/lib/huella.py` (B6 datos).
+- Hooks: PreToolUse en `.claude/settings.json`; pre-commit vía `git config core.hooksPath herramientas/hooks` (repetir en clones nuevos). Excepción de gate de autor en Bash: prefijo `AA_GATE_AUTOR="motivo"`.
+- Los subagentes de `.claude/agents/` (17, con `model`/`effort` de §2.5) se indexan al arrancar la sesión: tras crearlos o editarlos hay que reiniciar la sesión para lanzarlos por nombre.
+- Documento vivo de estado: `informes/estado-proceso.md`. Gates: `informes/g0-gate.md`, …
 
 ## Modelos y esfuerzo
 
@@ -48,5 +52,5 @@ Sesión principal: claude-fable-5 a esfuerzo máximo. Subagentes según la tabla
 
 ## Estado
 
-- Fase actual: F0 (B0 auditoría del manifiesto + Biblia B1–B8). Actualiza esta línea al cerrar cada fase/oleada.
-- Última versión aceptada: v0 (tag).
+- Fase actual: F0 cerrada (G0 presentado en `informes/g0-gate.md`, con condiciones C1/C2 de autor); siguiente: F1 (diagnóstico D1) en la misma rama W1 → G1 → merge a main. Actualiza esta línea al cerrar cada fase/oleada.
+- Última versión aceptada: v0 (tag). Recuento canónico v0: 62.750 palabras.

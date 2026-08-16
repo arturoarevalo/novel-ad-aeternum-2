@@ -1,6 +1,6 @@
 {
  "etiqueta": "v0",
- "generado": "2026-08-16T17:16:47",
+ "generado": "2026-08-16T17:17:50",
  "M1": {
   "lexicon": "biblia/b3-lexicon.json",
   "n_terminos_lexicon": 117,
@@ -2655,9 +2655,7 @@
  },
  "M7": {
   "errores": [],
-  "avisos": [
-   "cifras de cohorte no encontradas en prosa: 4.096, 1.185"
-  ],
+  "avisos": [],
   "horas_climax": {
    "12:38": [
     "cap-31.md",
@@ -2691,7 +2689,9 @@
    "597": 3,
    "2.911": 1,
    "2.311": 1,
-   "1189": 1
+   "1189": 1,
+   "4.096": 1,
+   "1.185": 1
   },
   "cifras_sospechosas": [
    "cap-11.md: «0000» junto a «orígenes»",

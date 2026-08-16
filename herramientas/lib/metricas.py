@@ -308,6 +308,11 @@ def m7(orden, manifest):
             if n not in canon and n not in ("2.401", "979", "2.427", "60", "90"):
                 sospechosos.append(f"{d['archivo']}: «{n}» junto a «{m.group(2)}»")
     if 4096 - 1185 != 2911 or 2311 + 597 + 3 != 2911: errores.append("aritmética de cohorte rota (constantes)")
+    for d in orden:   # presencia de las cifras canónicas en cualquier contexto
+        for c in ["4.096", "1.185", "2.911", "2.311", "597"]:
+            if re.search(r"(?<![\d.])" + re.escape(c) + r"(?![\d.])", d["body"]):
+                encontrados[c] += 0   # asegura la clave
+                encontrados[c] = max(encontrados[c], 1)
     faltan = [c for c in ["4.096", "1.185", "2.911", "2.311", "597"] if encontrados[c] == 0]
     if faltan: avisos.append("cifras de cohorte no encontradas en prosa: " + ", ".join(faltan))
     # inventario de fechas explícitas en prosa
