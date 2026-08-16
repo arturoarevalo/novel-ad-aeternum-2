@@ -43,7 +43,7 @@
 | Flashback en pluscuamperfecto largo; «recordó cuando…» | recuerdo ≤ 40–60 palabras con objeto (03:131, 33:77); ≥ 4 pluscuamperfectos en un párrafo = devolver | A1-16; A2-10 | 1 (04:105 P) |
 | Personajes que explican al lector; sigla + paréntesis | 0. La pregunta puede hacerse; la respuesta no glosa (06:281–289 «¿Qué ventana?» «Es un término clínico.») | B-5, B-7 | 1 (20:53) / 0 |
 | Diálogo socrático entre continuidades («—¿Qué es una ventana?» «—Una ventana es…») | 0; las continuidades disputan, no se instruyen (13:169–183) | B-6 + lectura | 0 |
-| Frase > 45 palabras; párrafo > 90; réplicas > 25 encadenadas; réplica ≥ 40 | frase larga solo cuerpo o paisaje descompuesto y seguida de golpe (B6 §2.2); párrafo ≤ 90; encadenadas 0; ≥ 40 solo Astrid/Alana/Mats/Coro | awk (e, f, g); B-10 | 0 / 1 (26:185) / 0 / 7 |
+| Frase > 45 palabras; párrafo > 90; réplicas > 25 encadenadas; réplica ≥ 40 | frase larga solo cuerpo o paisaje descompuesto y seguida de golpe (B6 §2.2); párrafo ≤ 90; encadenadas 0; ≥ 40 solo Astrid/Alana/Mats/Coro | awk (e, f, g); B-11 | 0 / 1 (26:185) / 0 / 7 |
 | «ella/él» sujeto; punto y coma | nombre propio como sujeto; «;» ≤ 1 por capítulo nuevo | A2-8, A2-9 | 14 / 15 |
 | Paisaje sin objeto en uso; personaje por biografía; narrador que glosa mecánica o sigla | 0 (B6 §6) | lectura de A4; M1/M2 | — |
 
@@ -95,7 +95,7 @@ awk '/^—/{n=NF;if(n>25&&p>25)print NR;p=n;next} NF{p=0}' $C
 
 **Lectura:** A1 → esperado **0** en prosa nueva; cada hit se corrige o se justifica en la OT (span protegido). A2 → contra la banda de B6 §7 (capítulo nuevo: «como si» ≤ 1, «;» ≤ 1, lágrimas 0 en N1/N3, «ella/él» sujeto < 1 %). B → en contexto: vulgarismos ≤ 1 por escena y solo Jessie; `-mente` y «muy» solo Nora/Astrid/Alana; réplicas ≥ 40 palabras solo Astrid/Alana/Mats/Coro; `—¿Qué es un…?` y «explícamelo» = sospecha de diálogo socrático.
 
-**Falsos positivos sobre v0 (verificado).** Comando literal `grep -E -c -f $F` (sin `-i`, comentarios incluidos): cap-01 = 1 · cap-06 = 6 · cap-13 = 3 · cap-23 = 9 · cap-37 = 9 líneas: nada masivo. Por bloques, narración/diálogo separados: cap-01 A1 0 · A2 1 · B 0; cap-06 A1 1 (06:211 «¿Sufrió?» citada) · A2 2 · B 2 («exactamente», Nora); cap-13 A1 1 (13:211) · A2 1 · B 0; cap-23 A1 0 · A2 5 · B 1 («puta», Jessie 23:21); cap-37 A1 2 (37:15 exactamente, 37:43 miedo) · A2 8 · B 0. Sobre los 41 capítulos: **A1 = 31 líneas**, todas catalogadas en §1 (7 -mente + 1 en registro 10:213, 5 valorativos, 2 «jarrita», 4 nombres de emoción, 2 mensajes de Coro, 2 cursivas, y 04:105, 06:211, 09:33, 12:29, 13:211, 15:145, 28:129, 35:151); **A2 = 95**; **B = 38**. Un capítulo nuevo o expandido con hits A1 no justificados vuelve a A3.
+**Falsos positivos sobre v0 (verificado).** Comando literal `grep -E -c -f $F` (sin `-i`, comentarios incluidos): cap-01 = 1 · cap-06 = 6 · cap-13 = 3 · cap-23 = 9 · cap-37 = 9 líneas: nada masivo. Por bloques, narración/diálogo separados: cap-01 A1 0 · A2 1 · B 0; cap-06 A1 1 (06:211 «¿Sufrió?» citada) · A2 2 · B 2 («exactamente», Nora); cap-13 A1 1 (13:211) · A2 1 · B 0; cap-23 A1 0 · A2 5 · B 1 («puta», Jessie 23:21); cap-37 A1 2 (37:15 exactamente, 37:43 miedo) · A2 8 · B 0. Sobre los 41 capítulos: **A1 = 30 líneas**, todas catalogadas en §1 (7 -mente, 5 valorativos, 2 «jarrita», 4 nombres de emoción, 2 mensajes de Coro, 2 cursivas, y 04:105, 06:211, 09:33, 12:29, 13:211, 15:145, 28:129, 35:151); **A2 = 95**; **B = 38**. Un capítulo nuevo o expandido con hits A1 no justificados vuelve a A3.
 
 ## 6. Dudas para A0
 
