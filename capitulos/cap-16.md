@@ -18,7 +18,7 @@ Inger mantuvo el índice encima, sin llegar a tocar la pantalla. Había elegido 
 
 —Esta exportación se genera para una revisión clínica —dijo Inger—. No para entregársela a una familiar.
 
-Miraba el aviso legal, impreso al pie. Cuando alzó la cabeza, empujó hacia Maja un sobre de papel.
+Miraba el aviso legal, impreso al pie. Alzó la cabeza y empujó hacia Maja un sobre de papel.
 
 —Por eso te doy los campos que puedo justificar como parte del episodio de Jean Marie Larsson. Y los códigos.
 
@@ -48,6 +48,8 @@ El documento de origen tenía su propia casilla, sustituida por ocho ceros.
 
 —Los hashes están en el sobre. Acreditan que las filas no han cambiado desde la exportación. El historial deja mi usuario como responsable de esta consulta.
 
+Maja pasó las hojas hasta la última. Cada una repetía abajo la hora de la consulta y el usuario que la había pedido. Siete veces el apellido de Inger, en letra más pequeña que el resto. Maja las alineó por ese borde.
+
 —Podías haberme dado solo la versión oficial.
 
 —El resumen dice que el episodio se cerró conforme al protocolo.
@@ -76,6 +78,8 @@ Nora dejó los horarios en el margen del cuaderno pautado. Maja atravesó el sob
 
 Nora trazó tres columnas: quién, acto y procedencia. Trabajaron con copias del archivo programado y los registros del hospital. La tarjeta de Gunnar siguió lejos de cualquier lector. Nora distribuyó el documento de origen, el acuse, la autorización y el receptor, cuya procedencia dejó vacía.
 
+La mesa de la cocina quedó ocupada de lado a lado. El pentagrama se comió las tres columnas y Nora escribió encima de las líneas. Una apertura a las 03:14, sin firma. Una autorización con el nombre de Alana, recibida después de las 03:31 por una pasarela. Un acuse con el destino recortado y la casilla del receptor bloqueada. La tarjeta de Gunnar quedó abajo, fuera de las columnas, sin conectar. Nora sostenía el lápiz.
+
 Jessie miró el nombre de Alana y después los dos terminales junto a la base de carga.
 
 Leídas de izquierda a derecha, las filas no formaban una secuencia.
@@ -86,7 +90,7 @@ Jessie dejó el vaso encima del renglón vacío.
 
 —En cabreo —dijo Nora—. C mayúscula.
 
-Al ampliar el acuse conservado por UNN, Nora aisló `NIDHOGG`. Abrió al lado el mensaje de Gunnar. El nombre se repetía allí sin barras ni sufijo. Escribió `ORIGEN · UNN`.
+Nora amplió el acuse conservado por UNN y aisló `NIDHOGG`. Abrió al lado el mensaje de Gunnar. El nombre se repetía allí sin barras ni sufijo. Escribió `ORIGEN · UNN`.
 
 —Borra UNN de la primera columna —dijo Maja.
 

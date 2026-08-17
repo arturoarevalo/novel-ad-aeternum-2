@@ -148,7 +148,7 @@ La puerta del piso de arriba se abrió. En el descanso apareció Nora con su cua
 
 Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión con Jean. El archivo seguía entero.
 
-Para dejar libre el paso desde la escalera, Alana se apartó de la encimera.
+Alana se apartó de la encimera y dejó libre el paso desde la escalera.
 
 —Nora, no debes volver a entrar en ese entorno.
 
@@ -156,7 +156,7 @@ En el último peldaño, Nora abrió el cuaderno por una página marcada.
 
 —¿Qué significa CARIES?
 
-Al buscar apoyo en la encimera, Alana calculó mal la distancia y golpeó la madera con los nudillos. Durante un instante, la piel alrededor de su boca tomó el mismo tono ceniza que la calle tras la ventana.
+Alana buscó apoyo en la encimera, calculó mal la distancia y golpeó la madera con los nudillos. La piel alrededor de su boca tomó un instante el mismo tono ceniza que la calle tras la ventana.
 
 —¿Dónde has visto eso? —preguntó Alana.
 
@@ -173,6 +173,8 @@ Entonces Nora volvió el cuaderno hacia ella. Había cuatro palabras en mayúscu
 —Dos veces: `FLOR`, `CANELA`, `CARIES`, `NO`. Luego me suspendieron.
 
 La palabra hizo que Maja se volviera hacia Alana.
+
+CARIES era una palabra de aquella casa. La había dicho una niña de cuatro años delante del teclado y desde entonces no había salido de la cocina. Ahora estaba escrita en mayúsculas, la tercera de cuatro, entre dos líneas de un pentagrama. La página estaba vuelta hacia una mujer que no necesitaba leerla. Alana no la leyó. Maja se puso entre Alana y la escalera.
 
 —Le bloqueasteis la cuenta a mi hija. Y vuestra primera idea fue venir aquí antes que llamarme.
 
@@ -220,15 +222,15 @@ Alana miró a Maja.
 
 —Necesito saber qué habéis interpretado. Y qué puede salir de aquí.
 
-Sin retirar la mano, Nora cerró el cuaderno sobre el dedo.
+Nora cerró el cuaderno sobre el dedo sin retirar la mano.
 
 —Que sea Jean… No. Solo… —Nora no terminó.
 
-Al sacar el dedo, Nora dejó que la tapa cayera. El impulso de Maja por apartarla del golpe cedió ante la necesidad de mirar a Alana.
+Nora sacó el dedo y dejó que la tapa cayera. El impulso de Maja por apartarla del golpe cedió ante la necesidad de mirar a Alana.
 
 —Claro. También tenemos una tarjeta y una clave. Te hacemos un paquetito.
 
-Al oírla, Alana se volvió hacia ella.
+Alana se volvió hacia Jessie.
 
 —¿Qué os ha entregado?
 
@@ -242,11 +244,11 @@ Maja buscó la cara de Nora.
 
 —¿Y pensabais contármelo cuándo? —preguntó Maja.
 
-Con la barbilla, Jessie señaló a Alana.
+Jessie señaló a Alana con la barbilla.
 
 —En cuanto terminase de demostrar por qué era mala idea contar cosas a adultos.
 
-Por el momento, Maja dejó pasar el golpe. Discutirían esa parte cuando la casa estuviera vacía.
+Maja dejó pasar el golpe. Discutirían esa parte cuando la casa estuviera vacía.
 
 —¿Qué más pasó?
 
@@ -270,7 +272,7 @@ Alana miró a Jessie.
 
 —Sé que esos sistemas pueden haceros daño.
 
-Con los guantes tendidos, Maja señaló el pasillo.
+Maja tendió los guantes y señaló el pasillo.
 
 —Fuera.
 
@@ -280,7 +282,7 @@ Cuando Maja abrió la puerta de la calle, el aire frío barrió el pasillo y ent
 
 —Jean ya pagó tu forma de protegerla.
 
-Con los guantes en la mano, Alana pasó junto a Maja y se detuvo en el umbral.
+Alana pasó junto a Maja con los guantes en la mano y se detuvo en el umbral.
 
 —Si alguien contacta con Nora, llamadme antes de responder.
 

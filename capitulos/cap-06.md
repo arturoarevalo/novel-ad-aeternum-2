@@ -98,7 +98,9 @@ Jessie obedeció. Maja cerró la cremallera hasta arriba y ajustó el cordón de
 
 —Y sabes lo demás.
 
-Maja recogió sus propias botas del suelo. La nieve ya había mojado los calcetines de Jessie. Volvieron a la cocina, donde Nora esperaba de pie, con los tres abrigos que quedaban en el perchero descolgados sobre una silla.
+Maja recogió sus propias botas del suelo. Tenía los pies mojados desde la puerta del garaje. Volcó la bota derecha antes de ponérsela. Terminó de calzarse de pie, apoyada en la pared. Había salido sin nada encima y el jersey se le había endurecido en los hombros. La nieve ya había mojado los calcetines de Jessie. Maja tardó en llegar al escalón del garaje. Jessie la esperaba allí.
+
+Volvieron a la cocina, donde Nora esperaba de pie, con los tres abrigos que quedaban en el perchero descolgados sobre una silla. El abrigo de Jessie se quedó en la silla. Maja cogió el suyo y se lo puso sin cerrar.
 
 —¿Qué han dicho exactamente? —preguntó Nora.
 
@@ -112,7 +114,7 @@ Maja repitió la llamada. Localización. Traslado. Fallecimiento. UNN. Acceso C.
 
 —Nora, el abrigo.
 
-Las sacó de casa. Después condujo hacia Breivika con Jessie delante y Nora detrás.
+Las sacó de casa. Cerró la puerta y comprobó el tirador. Después condujo hacia Breivika con Jessie delante y Nora detrás.
 
 Ninguna encendió la radio.
 
@@ -242,7 +244,7 @@ Se puso en pie tan deprisa que la silla arañó el suelo.
 
 —Nada. Dame el tuyo.
 
-Nora se lo entregó. Dieciséis llamadas salientes a Jean ocupaban la pantalla. La última era de poco antes de las once. Maja dejó el terminal boca abajo y se sentó otra vez.
+Nora se lo entregó. Dieciséis llamadas salientes a Jean ocupaban la pantalla. La última era de poco antes de las once. La lista continuaba por encima de esa hora. Maja no subió la pantalla. Miró la carga que le quedaba al terminal. Suficiente para la noche. Nora mantenía la mano abierta entre las dos, sin pedir nada. Maja no le preguntó desde cuándo llamaba. Nora tampoco lo dijo. Maja dejó el terminal boca abajo y se sentó otra vez.
 
 * * *
 
@@ -250,7 +252,7 @@ Alana apareció por el extremo del pasillo con el abrigo abierto y el pelo sujet
 
 Ninguna de las tres la había avisado.
 
-Nora se levantó primero. Alana abrió los brazos, pero se detuvo antes de tocarla. Jessie no se movió. Maja miró la hora en el terminal de Nora: las tres y treinta y uno.
+Nora se levantó primero. Alana abrió los brazos, pero se detuvo antes de tocarla. Jessie no se movió. Maja miró la hora en el terminal de Nora: las tres y treinta y uno. Volvió a mirar la hora. Los números no habían cambiado. La empleada de seguridad seguía junto a la puerta, a la misma distancia. Maja no soltó el terminal hasta que Alana habló.
 
 —He pedido una sala privada —dijo Alana—. También un coche para cuando queráis marcharos.
 
