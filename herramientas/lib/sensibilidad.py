@@ -47,7 +47,14 @@ def main():
     patsB = cargar_patrones(os.path.join(aa.BIBLIA, "b7-patrones-B.txt"))
     paths = sorted(os.path.join(aa.CAPITULOS, f) for f in os.listdir(aa.CAPITULOS) if f.endswith(".md"))
     if a.solo:
-        paths = [p for p in paths if os.path.basename(p) in a.solo]
+        # se admite tanto `cap-08.md` como `capitulos/cap-08.md`; un nombre que no case es ERROR,
+        # no una lista vacía: este pre-chequeo alimenta un gate con veto y no puede fallar abierto.
+        pedidos = [os.path.basename(s) for s in a.solo]
+        disponibles = {os.path.basename(p) for p in paths}
+        faltan = [s for s in pedidos if s not in disponibles]
+        if faltan:
+            sys.exit(f"sensibilidad: no existe(n) en capitulos/: {', '.join(faltan)}")
+        paths = [p for p in paths if os.path.basename(p) in pedidos]
     H = hits(paths, patsA, patsB)
     base_textos = set()
     if os.path.exists(a.baseline):
