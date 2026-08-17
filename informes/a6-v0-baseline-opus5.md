@@ -29,3 +29,27 @@ Coste: 2,18 + 2,21 USD (≈ 200–225 s cada uno; 172k tokens de entrada, 13–1
 ## 3. Regla operativa
 
 Todo hito de puntuación se mide con este jurado (A6-1/2 `claude-opus-5` max, A6-3 `claude-opus-4-8` high) vía `critica-fria.sh`; en cada hito un crítico adicional relee v0 como control de deriva (§7.1). Los objetivos absolutos de vF (§0 del plan) se mantienen: global ≥ 9,0 y suelo ≥ 8,5, medidos con este jurado; anti-regresión: caída > 0,5 respecto a esta tabla → revert de la oleada.
+
+## 4. Actualización 2026-08-17 · A6-3 pasa a `gpt-5.6-sol` (jurado mixto de dos familias)
+
+**Decisión de autor del 2026-08-17** (`informes/registro-gates-autor.md`): A6-3 deja de ser `claude-opus-4-8` y pasa a **`gpt-5.6-sol` (OpenAI, esfuerzo max)**, ejecutado con `herramientas/critica-fria.sh --motor codex`. Motivo: tras G-A1 escribían y juzgaban modelos de la misma familia, así que la diversidad de conjunto que justifica A6-3 en §2.5 era nominal. Protocolo de aislamiento, sonda que falla cerrada, salvedades y prueba de aptitud: `informes/d1-aislamiento.md` §5. Informe: `informes/a6-v0-critico-sol-frio.md`.
+
+| Eje | opus-5 n.º 1 | opus-5 n.º 2 | **sol-5.6 (A6-3 nuevo)** | **Mediana (baseline vigente)** | opus-4-8 (A6-3 anterior) | Mediana anterior |
+|---|---:|---:|---:|---:|---:|---:|
+| Premisa | 8,5 | 8,5 | 9,5 | **8,5** | 9 | 8,5 |
+| Estructura | 8,5 | 8,5 | 8,5 | **8,5** | 8,5 | 8,5 |
+| Prosa | 8,5 | 8,5 | 9 | **8,5** | 8,5 | 8,5 |
+| Diálogo | 8 | 8 | 8,5 | **8** | 8,5 | 8 |
+| Personajes | 8,5 | 8,5 | 9 | **8,5** | 8 | 8,5 |
+| Mundo | 9 | 9 | 9 | **9** | 8,5 | 9 |
+| Ritmo | 7,5 | 8 | 7,5 | **7,5** | 7 | 7,5 |
+| Trama | 8,5 | 8,5 | 8,5 | **8,5** | 8 | 8,5 |
+| Duelo | 9,5 | 9,5 | 9,5 | **9,5** | 9 | 9,5 |
+| Tema | 9 | 9 | 9 | **9** | 9 | 9 |
+| **Global** | 8,5 | 8,5 | 8,5 | **8,5** | 8,5 | 8,5 |
+
+**La mediana no se mueve en ninguno de los once ejes.** El cambio de jurado no altera la baseline de anti-regresión (§7.3) y no obliga a repetir nada: las cifras del apartado 1 siguen vigentes tal cual, ahora con un juez de otra familia dentro. Sin veto en Duelo (los tres jueces responden «no» a la pregunta obligatoria).
+
+**Lo que aporta el juez nuevo, más allá de la nota:** coincide en el suelo (ritmo 7,5 exacto), en el registro «ensayístico» compartido por Astrid/Maja/Jean/Jessie, en los secundarios instrumentales y en el 24 como escena que sobra; **y pide, por su cuenta, una escena doméstica de duelo sin interfaces** («la mañana posterior a la cuarta nota»), que es la misma deuda que el jurado opus-5 formuló como «Maja frente al locutorio». Dos familias de modelos, sin contacto entre sí, señalan el mismo hueco: eso deja de ser opinión y pasa a ser dato para W4/W5. Divergencias: sol considera que **el clímax se gana** (los opus-5 lo discutían por la fractura de Coro) y es más generoso en premisa, prosa y personajes (+0,5/+1).
+
+**Regla operativa actualizada:** todo hito se mide con A6-1/2 `claude-opus-5` (max) + A6-3 `gpt-5.6-sol` (max, motor codex), mediana por eje. La **A/B ciega final de §7.3 no usa codex**: los dos manuscritos completos (~265k tokens) no caben en su ventana de 272k; se ejecuta con jueces Claude.

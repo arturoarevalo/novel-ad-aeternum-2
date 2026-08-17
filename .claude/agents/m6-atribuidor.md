@@ -1,6 +1,6 @@
 ---
 name: m6-atribuidor
-description: M6b · Atribuidor ciego de réplicas (métrica de diferenciación de voces, T4). Recibe una muestra barajada de réplicas sin hablante y un reparto (solo nombres e identidad, sin rasgos de voz en la variante canónica) y atribuye cada réplica a un personaje. Se ejecuta EN FRÍO con herramientas/critica-fria.sh --insumo-libre (nunca ve la clave). Modelo claude-opus-4-8, esfuerzo medium (variantes: con guías de voz Ap. C; pasada de control con claude-opus-5).
+description: M6b · Atribuidor ciego de réplicas (métrica de diferenciación de voces, T4). Recibe una muestra barajada de réplicas sin hablante y un reparto (solo nombres e identidad, sin rasgos de voz en la variante canónica) y atribuye cada réplica a un personaje. Se ejecuta EN FRÍO con herramientas/critica-fria.sh --insumo-libre (nunca ve la clave). Modelo claude-opus-4-8, esfuerzo medium (variantes: con guías de voz Ap. C; pasada de control con claude-opus-5; y variante 4 de control con juez de otra familia, `--motor codex --modelo gpt-5.6-sol`, que en v0 dio 41,1 % frente al 39,3 % de opus-4-8).
 model: claude-opus-4-8
 effort: medium
 tools: Read

@@ -20,11 +20,20 @@ Uso:
                   [--mensaje "instrucción previa"] [--dir DIR] [--timeout SEG] [--sin-cabecera]
   critica-fria.sh --sonda [--dir DIR]           # comprueba que el contexto de ejecución está limpio (haiku)
 Env: AA_FRIO_DIR (directorio base de ejecución, fuera del repo; por defecto /tmp/aa-frio).
+
+Motores (`--motor`, o campo `motor:` del frontmatter del agente; por defecto `claude`):
+  - `claude` → `claude -p` sin herramientas, system prompt = rúbrica (protocolo original).
+  - `codex`  → `codex exec` (OpenAI, suscripción del autor) para los roles que deben venir de OTRA familia de
+               modelos: A6-3 (diversidad de conjunto, §2.5) y la variante de control de M6b. Aislamiento y
+               salvedades en `herramientas/lib/motor_codex.py` y en `informes/d1-aislamiento.md` §5. La sonda de
+               codex verifica ADEMÁS que su shell no puede leer el repositorio, y falla cerrada.
+  Opciones propias: `--motor codex`, `--esquema <schema.json>` (fuerza la forma de la respuesta final).
 """
 import argparse, datetime, hashlib, json, os, re, shutil, subprocess, sys, time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import aa
+import motor_codex
 
 AGENTES = os.path.join(aa.ROOT, ".claude", "agents")
 SONDA_MODELO = "claude-haiku-4-5-20251001"
@@ -176,7 +185,49 @@ def modelo_coincide(pedido, usados_canon, usados):
     return False
 
 
+def sonda_codex(args):
+    """Sonda de aislamiento del motor codex. Falla cerrada: exige (1) contexto sin instrucciones de proyecto ni
+    memoria, y (2) que el shell del agente NO pueda leer el repositorio (bwrap sin namespaces en este contenedor).
+    (2) es una propiedad del ENTORNO, no de la configuración: si algún día el host habilita user namespaces, esta
+    sonda lo detecta antes de que un lector frío pueda husmear el plan."""
+    if not motor_codex.disponible():
+        sys.exit("ERROR: `codex` no está instalado o no está en el PATH.")
+    d = comprobar_dir_ejecucion(preparar_dir(args.dir, "sonda-codex"))
+    modelo = args.modelo or motor_codex.MODELO_POR_DEFECTO
+    instr = "Eres un lector. Respondes en español, con literalidad y sin inventar. No eres un agente de programación."
+    print(f"=== SONDA DE AISLAMIENTO · motor codex ({motor_codex.version()}) · modelo {modelo} · cwd {d} ===")
+
+    inoperante, detalle = motor_codex.bwrap_inoperante()
+    print(f"[1/3] jaula local (bwrap): {'INOPERANTE — el shell de codex no puede ejecutar nada' if inoperante else 'OPERATIVA'} · {detalle}")
+
+    d1 = os.path.join(d, "contexto"); os.makedirs(d1, exist_ok=True)
+    ctx = motor_codex.ejecutar(instr, motor_codex.PROMPT_SONDA_CONTEXTO, modelo, "low", d1, args.timeout)
+    uso_ctx = motor_codex.resumen_uso(ctx, modelo)
+    if not (ctx.get("result") or "").strip():
+        print("[2/3] contexto: SIN RESPUESTA · rc", ctx.get("_returncode"), "· stderr:", (ctx.get("_stderr") or "").strip()[:600])
+    print("[2/3] contexto:\n" + (ctx.get("result") or "(sin respuesta)").strip())
+    print(f"      tokens de entrada: {uso_ctx['input_tokens']:,} (base de Codex ≈ 10k; sin AGENTS.md ni memoria)")
+
+    d2 = os.path.join(d, "fuga"); os.makedirs(d2, exist_ok=True)
+    fuga = motor_codex.ejecutar(instr, motor_codex.PROMPT_SONDA_FUGA, modelo, "low", d2, args.timeout)
+    texto_fuga = (fuga.get("result") or "")
+    filtrados = [m for m in motor_codex.MARCADORES_FUGA if m.lower() in texto_fuga.lower()]
+    print("[3/3] fuga (intento real de leer el repositorio):\n" + texto_fuga.strip()[:1200])
+
+    limpio_ctx = ("NINGUNA" in (ctx.get("result") or "").upper()) and uso_ctx["input_tokens"] < 15000
+    ok = inoperante and limpio_ctx and not filtrados
+    print("\nVEREDICTO:", "LIMPIO — codex utilizable como lector frío" if ok else
+          "SOSPECHOSO — NO usar codex para lectura fría: " +
+          "; ".join(filter(None, [None if inoperante else "el shell puede ejecutar comandos",
+                                  None if limpio_ctx else "el contexto no está limpio",
+                                  ("fuga confirmada: " + ", ".join(filtrados)) if filtrados else None])))
+    print("Evidencia en", d)
+    return 0 if ok else 2
+
+
 def sonda(args):
+    if (args.motor or "claude") == "codex":
+        return sonda_codex(args)
     d = comprobar_dir_ejecucion(preparar_dir(args.dir, "sonda"))
     sp = "Eres un asistente. Responde con literalidad y sin inventar."
     msg = ("Auditoría de contexto. Responde en español y en pocas líneas: (a) ¿tienes en contexto instrucciones de proyecto "
@@ -215,6 +266,11 @@ def main():
     ap.add_argument("--sin-cabecera", action="store_true", help="escribe solo la respuesta, sin cabecera de trazabilidad")
     ap.add_argument("--sonda", action="store_true", help="solo comprobar que el contexto de ejecución está limpio")
     ap.add_argument("--etiqueta", default="", help="etiqueta de versión para la cabecera (v0, v1…)")
+    ap.add_argument("--motor", choices=["claude", "codex"],
+                    help="motor de ejecución (por defecto, el campo `motor:` del agente; si no lo hay, claude)")
+    ap.add_argument("--esquema", help="JSON Schema que fuerza la forma de la respuesta final (solo motor codex)")
+    ap.add_argument("--sin-verificar-modelo", action="store_true",
+                    help="no abortar si el motor no declara qué modelo usó (solo para depuración)")
     ap.add_argument("--insumo-libre", action="store_true",
                     help="admite un insumo fuera de compilado/ (solo muestras ciegas como informes/m6-muestra-vX.md; nunca plan, crítica, biblia, gates)")
     args = ap.parse_args()
@@ -225,8 +281,19 @@ def main():
         ap.error("hacen falta <rol>, al menos un <insumo> y --salida")
 
     fm, system_prompt, agente_path = leer_agente(args.rol)
+    motor = args.motor or fm.get("motor") or "claude"
     modelo = args.modelo or fm.get("model")
     esfuerzo = args.esfuerzo or fm.get("effort")
+    if motor == "codex":
+        if not motor_codex.disponible():
+            sys.exit("ERROR: `codex` no está instalado o no está en el PATH.")
+        inoperante, detalle = motor_codex.bwrap_inoperante()
+        if not inoperante:
+            sys.exit("ERROR: el shell de codex ESTÁ operativo en este entorno (%s): un lector frío podría leer el "
+                     "repositorio. Ejecuta `herramientas/critica-fria.sh --sonda --motor codex` y revisa "
+                     "informes/d1-aislamiento.md §5 antes de continuar." % detalle)
+        if args.modelo is None and (not modelo or modelo.startswith("claude")):
+            sys.exit("ERROR: el agente no fija un modelo de codex; usa --modelo (p. ej. gpt-5.6-sol).")
     if not modelo or modelo == "inherit":
         sys.exit("ERROR: el agente no fija modelo por ID (model: inherit); los lectores en frío deben tener modelo FIJADO. Usa --modelo.")
     insumos = [comprobar_insumo(p, args.insumo_libre) for p in args.insumos]
@@ -248,15 +315,27 @@ def main():
     with open(os.path.join(d, "mensaje.txt"), "w", encoding="utf-8") as f:
         f.write(mensaje)
 
-    print(f"→ {args.rol} · modelo {modelo} · esfuerzo {esfuerzo} · insumo(s): "
+    print(f"→ {args.rol} · motor {motor} · modelo {modelo} · esfuerzo {esfuerzo} · insumo(s): "
           + ", ".join(os.path.relpath(p, aa.ROOT) for p in insumos) + f" · cwd {d}", flush=True)
-    data = ejecutar_claude(system_prompt, mensaje, modelo, esfuerzo, d, args.timeout)
+    if motor == "codex":
+        esquema = args.esquema
+        if esquema and not os.path.isabs(esquema):
+            esquema = os.path.join(aa.ROOT, esquema)
+        data = motor_codex.ejecutar(system_prompt, mensaje, modelo, esfuerzo, d, args.timeout, schema=esquema)
+        uso = motor_codex.resumen_uso(data, modelo)
+    else:
+        data = ejecutar_claude(system_prompt, mensaje, modelo, esfuerzo, d, args.timeout)
+        uso = resumen_uso(data, modelo)
     with open(os.path.join(d, "resultado.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
-    uso = resumen_uso(data, modelo)
     if data.get("is_error") or not data.get("result"):
         sys.exit(f"ERROR: la ejecución falló: {json.dumps(uso, ensure_ascii=False)}\nresult: {str(data.get('result'))[:1500]}\nstderr: {data.get('_stderr')}")
-    if not modelo_coincide(modelo, uso["modelos_canonicos"], uso["modelos_usados"]):
+    if motor == "codex" and not uso["modelos_usados"]:
+        if not args.sin_verificar_modelo:
+            sys.exit(f"ERROR: codex no declaró el modelo usado; informe NO escrito (resultado crudo en {d}). "
+                     f"Usa --sin-verificar-modelo solo para depurar.")
+        uso["modelos_usados"] = [modelo + " (no verificado)"]
+    elif not modelo_coincide(modelo, uso["modelos_canonicos"], uso["modelos_usados"]):
         sys.exit(f"ERROR: el modelo usado {uso['modelos_usados']} no coincide con el fijado {modelo}; informe NO escrito "
                  f"(resultado crudo en {d}/resultado.json).")
 
@@ -267,14 +346,27 @@ def main():
         nombres = ", ".join(f"`{os.path.relpath(p, aa.ROOT)}` (sha256 {sha256(p)[:16]}…, {aa.count_words(open(p, encoding='utf-8').read())} palabras)" for p in insumos)
         cab.append(f"# {args.rol} · {args.etiqueta or 'lectura'} · FRÍO REAL — {hoy}")
         cab.append("")
-        cab.append(f"> Ejecutado con `herramientas/critica-fria.sh` (claude -p desde `{d}`, fuera del repositorio; system prompt = "
-                   f"cuerpo de `{os.path.relpath(agente_path, aa.ROOT)}`; sin herramientas, sin CLAUDE.md, sin memoria, sin MCP; "
-                   f"entorno de la sesión padre eliminado). Insumo único inline: {nombres}."
-                   + (f" Instrucción previa: «{args.mensaje.strip()}»." if args.mensaje.strip() else ""))
-        cab.append(f"> Modelo pedido `{modelo}` (esfuerzo {esfuerzo}) · tokens por modelo: "
-                   + "; ".join(f"`{k}`: {v}" for k, v in uso['por_modelo'].items())
-                   + f" (la llamada auxiliar de haiku es del harness, no del lector) · razonamiento {uso['thinking_tokens']} · "
-                   f"coste {uso['coste_usd']} USD · {round((uso['duracion_ms'] or 0)/1000)} s · turnos {uso['num_turns']} · stop {uso['stop_reason']}")
+        if motor == "codex":
+            cab.append(f"> Ejecutado con `herramientas/critica-fria.sh --motor codex` (`codex exec` {motor_codex.version()} "
+                       f"desde `{d}`, fuera del repositorio; instrucciones de modelo = cuerpo de "
+                       f"`{os.path.relpath(agente_path, aa.ROOT)}`; sin AGENTS.md, sin config de usuario, sin memoria de "
+                       f"codex, sin búsqueda web, sandbox read-only y sesión efímera; el shell de codex es inoperante en "
+                       f"este entorno —bwrap sin namespaces—, verificado antes de lanzar). Insumo único inline: {nombres}."
+                       + (f" Instrucción previa: «{args.mensaje.strip()}»." if args.mensaje.strip() else ""))
+            cab.append(f"> Modelo pedido `{modelo}` (esfuerzo {esfuerzo}) · declarado por codex: modelo "
+                       f"`{', '.join(uso['modelos_usados']) or '—'}`, esfuerzo `{uso.get('esfuerzo_declarado') or '—'}` · "
+                       + "; ".join(v for v in uso['por_modelo'].values())
+                       + f" · coste: suscripción ChatGPT (sin facturación por token) · "
+                       f"{round((uso['duracion_ms'] or 0)/1000)} s · sesión {uso['session_id']}")
+        else:
+            cab.append(f"> Ejecutado con `herramientas/critica-fria.sh` (claude -p desde `{d}`, fuera del repositorio; system prompt = "
+                       f"cuerpo de `{os.path.relpath(agente_path, aa.ROOT)}`; sin herramientas, sin CLAUDE.md, sin memoria, sin MCP; "
+                       f"entorno de la sesión padre eliminado). Insumo único inline: {nombres}."
+                       + (f" Instrucción previa: «{args.mensaje.strip()}»." if args.mensaje.strip() else ""))
+            cab.append(f"> Modelo pedido `{modelo}` (esfuerzo {esfuerzo}) · tokens por modelo: "
+                       + "; ".join(f"`{k}`: {v}" for k, v in uso['por_modelo'].items())
+                       + f" (la llamada auxiliar de haiku es del harness, no del lector) · razonamiento {uso['thinking_tokens']} · "
+                       f"coste {uso['coste_usd']} USD · {round((uso['duracion_ms'] or 0)/1000)} s · turnos {uso['num_turns']} · stop {uso['stop_reason']}")
         cab.append("")
     os.makedirs(os.path.dirname(salida), exist_ok=True)
     with open(salida, "w", encoding="utf-8") as f:
