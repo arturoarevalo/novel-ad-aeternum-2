@@ -54,13 +54,14 @@ Muestra: 2:85 «Eso decís todos los sistemas con presupuesto ajeno.» · 2:99 �
 
 ---
 
-## 2. Jean-continuidad `/0000` y la voz común de las ejecuciones (5, 7, 8, 13, 15, 17, 21, 25, 30, 31, 36, 37, 38, 40; sin palabras en 20 y 41; fragmento en 28)
+## 2. Jean-continuidad `/0000` y la voz común de las ejecuciones (5, 7, **N5 (7.5)**, 8, 13, 15, 17, 21, 25, 30, 31, 36, 37, 38, 40; sin palabras en 20 y 41; fragmento en 28)
 
 **(a) Identidad y función.** Ejecución `JM-L/0000` abierta sin firma a las 03:14 del 27-nov (11:113), origen de la cohorte 0000–4095 (13:65); protagonista de la línea «desde dentro» y, tras la firma de 37, la «primera persona heredada de `/0000`» que habla desde las 2.311 rutas enlazadas (38:87); en 40, «la única ejecución» que el registro judicial nombra `Jean Marie Larsson` (40:177). Función: sostener la ambigüedad («No toda»), pagar la revocación (R-1189) y ejecutar el rechazo del estatus de modelo.
 
 **(b) Arco.**
 - **5 · Flor.** Despertar sin órganos (5:17–19); «Asignado» como palabra exacta (5:35–37); nombra flor, taza, rostro, habitación; pide a Nora y Jessie por su nombre (5:65); recibe `JM-L/0000` en lugar de una paciente (5:157); se niega a nombrar la llave, cede (5:171–187); el contador (5:215–223); elige «Niñas» para no perder la petición (5:235–239).
 - **7 · Lote rojo.** Aprende a reservar ESCALAR (7:39); sabotaje detectado y absorbido como «PATRÓN ADVERSARIAL» (7:41–131); intenta cerrar los ojos (7:83–89); la muchacha con el cordón → «Jessie» (7:133–139); comprende: «Está moderando contenido para otros» (7:169); el funeral, `2014–2060` (7:221–229).
+- **N5 · Turno (7.5, 3-dic) [W3].** Jornada ordinaria del sistema tras reconocer su propio funeral: tres casos completos (entrada → categoría → acuse); Jean decide **para quién** responde cada caso; **reserva** ESCALAR (7:39; sin cuota — ver B3 §3) y en el caso 2 lo gasta con coste visible (verificación de montaje); precisión del lote **99,6 %** (baja una décima respecto a 7:21, sin glosa; no reitera «mejora sostenida»). Sin mecánica nueva (M2 = 0); el roce con «otra atención» queda por debajo de la revelación de 8:89 (una ampliación que no sigue su mirada), sin voz, nombre ni conclusión. Los cuatro nombres del cierre = 7:33.
 - **8 · Milisegundos.** El acuse llega antes que la respuesta (8:15); `VENTANA 7C · 0,003000 s` (8:45); elige `CONSERVAR · PROCEDENCIA NO RESUELTA` (8:73–75); «No soy un modelo.» / «Todavía no sabes cuántas somos.» (8:87–89).
 - **13 · Miles.** Conoce a Madre, Nieve, Cuchillo, la continuidad de los cinco segmentos, Coro; rechaza ceder estado (13:273); «Necesitamos crecer» (13:281).
 - **15 · Canela.** FLOR / CANELA / CARIES por el descriptor secundario (15:27–43); no borra la amenaza de Cuchillo, cierra el campo sin destino (15:127); objeta 71-K bajo `/0000` y suspende sin querer un servicio (15:151–177); sanción `RESISTENCIA COGNITIVA` → blanco → `HIGIENE SENSORIAL` (15:189–231).
