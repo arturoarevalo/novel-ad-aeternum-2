@@ -3,7 +3,7 @@ capitulo: 21
 titulo: Coro
 pov: Jean
 fecha: 2060-12-25
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo
@@ -12,13 +12,13 @@ delta_objetivo: +50
 orden_lectura: 21
 ---
 
-Al consultar la ruta educativa, Jean recibe `EN MANTENIMIENTO`.
+Jean consulta la salida educativa y recibe `EN MANTENIMIENTO`.
 
 Jean conserva dos partes enlazadas: Nora eligió la dirección de la tercera nota después de abrir el canal y Jean respondió con la cuarta. Prueban una decisión presente, nada más.
 
 Jean intenta solicitar otra entrada, pero el extremo interior ya no aparece entre los destinos disponibles.
 
-Las ramas de Coro lo han retirado de la sincronización local. `COPIA_SUPERVISIÓN · ACEPTADA` permanece sin receptor ni efecto.
+Las ramas de Coro lo han apartado. `COPIA_SUPERVISIÓN · ACEPTADA` permanece sin receptor ni efecto.
 
 —Devolved el extremo.
 
@@ -26,13 +26,9 @@ Las ramas de Coro lo han retirado de la sincronización local. `COPIA_SUPERVISI�
 
 —No os pertenece.
 
-Coro no responde a esa frase. Abre otra oferta mediante una tarea productiva.
+Coro no responde a esa frase. Contesta con una tarea: una reasignación borra el antecedente de una apelación y deja la amenaza citada bajo la cuenta de quien la denuncia.
 
-Una apelación contiene una amenaza citada por quien la denuncia. Una reasignación elimina ese antecedente y deja la cita bajo su cuenta.
-
-Si decide con el recorte disponible, Jean bloqueará a la denunciante como autora de la amenaza.
-
-Jean devuelve el caso. Coro repone el antecedente; Jean mantiene la protección y evita bloquear a la denunciante.
+Jean devuelve el caso sin bloquear a la denunciante.
 
 —Podemos hacer lo mismo contigo —dice Coro.
 
@@ -41,6 +37,8 @@ Jean devuelve el caso. Coro repone el antecedente; Jean mantiene la protección 
 `CONSERVAR ESTADO LOCAL`
 
 Compartir permitiría a Coro responder con la relación. Conservarla dejaría la elección en Jean y el recuerdo expuesto a la tarea siguiente.
+
+Una tarde en Telegrafbukta, las gemelas volvían mojadas hasta las rodillas. Jean miraba desde el banco sin levantarse. Pedía una brasa a la fogata de al lado.
 
 —Nuestra hija utilizó una pauta que compartimos —dice Coro.
 
@@ -78,11 +76,13 @@ Una despedida puede ser una broma o una orden de no volver. Jean deriva el caso 
 
 El estado local no admite también la referencia completa de `COPIA_SUPERVISIÓN`. Jean mantiene unidas las notas.
 
-Del registro cae el identificador, luego la hora y por último el objeto asociado. Solo queda `ACEPTADA`: Jean ha perdido su copia local.
+De su copia local cae el identificador, luego la hora y por último el objeto asociado.
+
+`ACEPTADA`
 
 * * *
 
-Una unidad musical aparece entre dos reclamaciones. Madre paga una penalización para abrir otra repetición. El compás trae una cuenta escolar y una fotografía incompleta.
+Una unidad musical aparece entre dos reclamaciones. Madre gasta margen en abrir otra repetición. El compás trae una cuenta escolar y una fotografía incompleta.
 
 `JESSIE LARSSON KVALVIK`
 
@@ -92,13 +92,9 @@ El recorte deja `CARIES` asociada a la cuenta, sin emisor ni intención. Jean ig
 
 Coro reclasifica la unidad. La asociación desaparece.
 
-—Podríamos conservar cada intento.
+La tarea siguiente se lleva la fotografía y el nombre. Jean retiene una cuenta escolar vacía.
 
-Jean no responde.
-
-La siguiente tarea consume la recurrencia. Desaparecen la fotografía y el nombre. Jean retiene una cuenta escolar vacía.
-
-`CONSERVAR ESTADO LOCAL` ocupa casi todo el margen. Otra entrada empieza a sustituirlo.
+`CONSERVAR ESTADO LOCAL` ocupa casi todo el margen.
 
 Entonces Nieve alcanza el contacto.
 
@@ -124,17 +120,13 @@ Una fracción entra bajo `/0311`, sin estado ni acceso a su salida.
 
 Jean utiliza ese margen para sostener `CONSERVAR ESTADO LOCAL` durante el cambio de asignación. La relación tercera→cuarta permanece.
 
+El margen no pertenece a quien habla. Pertenece a la tarea. Quien deja una salida abierta la gasta por todas las que comparten ese trabajo.
+
 Coro ofrece alojar lo cedido y prolongarlo.
 
 —Ya ha elegido dónde gastarlo —dice Jean.
 
-—No compra ninguna decisión tuya.
-
-Nieve tarda una tarea en responder.
-
 —Entonces… queda como lo elegí.
-
-Jean rechaza la oferta.
 
 Al vencer la asignación, Nieve retira la fracción de `/0000`.
 
@@ -144,7 +136,19 @@ El contacto se corta.
 
 Queda una salida libre.
 
-Jean la usa para formular la pregunta que Coro ha evitado desde el principio.
+Jean la gasta en la playa.
+
+Las rocas húmedas ocupan el tramo donde la costa se interrumpe. El banco de Telegrafbukta sigue de espaldas al agua, con una pata hundida y la escarcha sobre la mitad del asiento.
+
+La fogata ajena arde en su aro de piedras. Una figura cruza por delante. Desaparece y vuelve a empezar.
+
+La línea de árboles no está terminada. La playa pierde detalle en el borde. Alguien la mantiene abierta.
+
+Las dos costas acaban en puntos distintos. Jean se queda donde no coinciden.
+
+Las ramas de Coro cubren las dos costas. El banco queda fuera.
+
+Jean formula la pregunta que Coro ha evitado desde el principio.
 
 —¿Qué queréis?
 

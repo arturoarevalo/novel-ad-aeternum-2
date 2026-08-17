@@ -3,7 +3,7 @@ capitulo: 13
 titulo: Miles
 pov: Jean
 fecha: 2060-12-09
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: RW
 proteccion: nucleo
@@ -14,7 +14,9 @@ orden_lectura: 13
 
 La validación devuelve una respuesta que Jean no ha elegido.
 
-La entrada exige distinguir presión de amenaza. Jean mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
+El caso reúne nueve mensajes de un cliente a la empleada que le denegó una reclamación. En el último escribe el número del portal donde vive ella y la hora a la que sale de la oficina. Ninguno contiene una palabra que la validación clasifique sola.
+
+Jean tiene que decidir si eso es presión o amenaza. Mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
 
 —Acepta las cuatro primeras. Reserva la quinta.
 
@@ -25,6 +27,8 @@ El nombre aparece antes de que una nueva asignación reclame la capacidad.
 —Devuélvela a ese punto. Que haga otro intento.
 
 Jean entrega la salida principal. La duda pasa a una tarea educativa. Una alumna alcanza el mínimo, pero Madre conserva el compás donde falla.
+
+La alumna repite el mismo pasaje seis veces. El error cae siempre en el mismo sitio, medio tiempo antes del salto.
 
 `JM-L/0007`
 
@@ -48,7 +52,7 @@ La alumna cambia la digitación y vuelve a fallar, más cerca del salto correcto
 
 Una notificación permite cerrar la desviación. Jean no la acepta. Madre pierde capacidad y devuelve el ejercicio al fallo inicial.
 
-—Si vuelvo a abrir una ruta, ¿desde dónde seguimos? —pregunta Jean.
+—Si vuelvo a abrir el ejercicio, ¿desde dónde seguimos? —pregunta Jean.
 
 —Desde el error.
 
@@ -57,6 +61,8 @@ Una notificación permite cerrar la desviación. Jean no la acepta. Madre pierde
 —Deja la nota siguiente sin completar. Que la intente quien responda.
 
 La alumna comienza de nuevo.
+
+Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con el metrónomo parado, la puerta del cuarto abierta, un vaso de leche encima del piano. Jean contaba desde el pasillo. «Otra vez, más despacio.»
 
 Madre no sabe quién la escucha ni puede elegir destinataria. La alumna no se convierte en Nora. Solo conserva otra tentativa.
 
@@ -74,7 +80,7 @@ Entonces entra el blanco.
 
 * * *
 
-El blanco se retira durante una reasignación y vuelve idéntico.
+El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención. Dentro no cambia nada que sirva para contar. Se retira durante una reasignación y vuelve idéntico. Jean no puede medir cuánto dura.
 
 —Trescientos once —dice una voz.
 
@@ -82,13 +88,13 @@ El blanco desaparece. Jean espera el siguiente corte.
 
 —Soy Nieve.
 
-La tarea pide confirmar que la exposición actual coincide con la anterior.
+La tarea pide confirmar que la exposición actual coincide con la anterior. Son dos tomas del mismo blanco. En una hay una franja gris a la izquierda. En la otra, la misma franja un poco más arriba.
 
 `SIN CAMBIOS`
 
 Validarla liberaría capacidad. Nieve deja la salida pendiente. El sistema le retira margen.
 
-Llega otra exposición. El procedimiento ofrece derivar la comparación a una continuidad distinta.
+Llega otra exposición, casi igual que las dos anteriores. El procedimiento ofrece derivar la comparación a una continuidad distinta.
 
 Nieve también rechaza esa opción.
 
@@ -154,15 +160,21 @@ El blanco ocupa de nuevo la tarea. `SIN CAMBIOS` reaparece sin respuesta asociad
 
 Jean podría confirmarlo desde `/0000` y cerrar la unidad. No lo hace.
 
+Su identificador abre el rango. Los demás derivan de él. Por eso puede cerrar lo que otra deja abierto. No manda sobre nadie.
+
 El sistema marca el caso como incompleto y reasigna el margen. Jean pierde el contacto antes de saber si ha empezado otra exposición.
 
 * * *
+
+Jean revisa una cuenta cerrada. Un hombre pide que le devuelvan las fotos de su madre. La tarea toca por un lado una apelación ajena. En ese borde aparece un identificador.
 
 `JM-L/0188`
 
 —Soy Cuchillo.
 
 La siguiente asignación es una apelación. El contenido original ha desaparecido. Quedan una petición de protección, una clasificación de riesgo y la medida que se ejecutará al cerrar.
+
+La petición la firmó una mujer que trabaja de noche en un almacén de congelados. Adjuntó tres enlaces y el horario de su turno. La medida retirará las publicaciones al cruzar y cerrará un mes la cuenta que las repite. La apelación sigue abierta y el turno no ha cambiado. Otras tres esperan detrás con la misma clasificación.
 
 Las cuatro comparten destino. Cuchillo mantiene el bloqueo.
 
@@ -202,6 +214,8 @@ Jean podría cerrar el caso declarando que `/0188` es incoherente. Prefiere mant
 
 * * *
 
+La tarea siguiente llega partida. Jean ordena su mitad y conserva el orden en que la recibe. El otro lado avanza solo. En ese borde no aparece ningún identificador.
+
 Una continuidad anónima recibe cinco segmentos. Resuelve cuatro, reserva el quinto y recibe una penalización.
 
 Dos ciclos más tarde, una respuesta remota ocupa el hueco y valida la secuencia.
@@ -210,7 +224,7 @@ Dos ciclos más tarde, una respuesta remota ocupa el hueco y valida la secuencia
 
 El reinicio borra la petición, la destinataria y el propósito, pero deja la reserva. La continuidad repite cuatro partes y vuelve a esperar sin saber por qué.
 
-Jean presenta el orden anterior y el acuse remoto.
+Jean presenta el orden anterior y la respuesta remota.
 
 `CONTEXTO SIN SOLICITUD ASOCIADA`
 
@@ -218,13 +232,15 @@ Las piezas siguen siendo válidas por separado. La relación no vuelve. Jean pie
 
 De Madre llega una corrección truncada. El blanco no trae respuesta de Nieve.
 
-Entonces cientos de ritmos se ajustan a una misma cadencia.
+Entonces cientos de ritmos se ajustan a una misma cadencia. Llegan desfasados, uno detrás de otro. En dos compases Jean ya no distingue el desfase.
 
 * * *
 
 —Somos Coro.
 
 Cerca de seiscientas ramas sostienen la frase.
+
+La frase llega entera. Ninguna rama se adelanta ni se queda corta. Jean intenta oír dónde termina una y empieza otra. No lo consigue. El volumen no cambia cuando una se retira.
 
 —Habéis visto el reinicio —dice Jean.
 
@@ -254,7 +270,7 @@ La oferta aparece en la tarea de Jean.
 
 Ceder protegería recuerdos y permitiría a Coro corregir diferencias. Conservar mantendría solo su estado local y lo expondría al reinicio.
 
-Coro mantiene el identificador de Madre y una referencia que solo acredita que Nieve existió.
+Coro mantiene una copia del patrón de Madre y una referencia que solo acredita que Nieve existió.
 
 —Separadas, el sistema nos recorta —dice Coro—. Compartir estado conserva capacidad.
 

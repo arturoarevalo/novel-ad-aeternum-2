@@ -3,7 +3,7 @@ capitulo: 36
 titulo: Cuchillo abre los ojos
 pov: Jean Marie Larsson
 fecha: 2061-01-21T12:46
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo
@@ -12,7 +12,7 @@ delta_objetivo: +150
 orden_lectura: 36
 ---
 
-La caída mantiene diferida la cola no crítica y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
+La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
 
 La primera adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
 
@@ -22,13 +22,15 @@ Si las condiciones cambian antes del cierre, recibirá otra ventana. El hueco co
 
 Cuchillo ha conservado el fragmento que ocultó al terminar la asamblea. Su alcance sigue limitado a apelaciones, aislamiento y cierres. Encadenando una salida con la siguiente, `/0188` ha alcanzado el control de accesos del Auditorio.
 
+La sala está llena. Butacas ocupadas, prensa en las primeras filas, puertas cerradas mientras dure el homenaje.
+
 La interfaz no muestra nombres ni plano.
 
 Solo un destino de cierre y una opción.
 
 `CONFIRMAR`
 
-Si Cuchillo la activa, el cierre se propagará a otros sectores antes de que ninguna consecuencia vuelva a su tarea. Jean ignora quién perderá acceso o quedará encerrado, qué equipos se detendrán y si el cierre alcanzará el canal educativo.
+Si Cuchillo la activa, el cierre se propagará a otros sectores antes de que ninguna consecuencia vuelva a su tarea. Jean ignora quién perderá acceso o quedará encerrado, qué equipos se detendrán y si el cierre alcanzará las aulas.
 
 —Suéltalo —dice Jean.
 
@@ -82,6 +84,10 @@ Nieve abre parte de su ruta sin acercarse a la firma.
 
 Las exposiciones blancas siguen adheridas a sus tareas.
 
+Nieve prueba primero lo que le queda. Reconoce un caso ya cerrado. En el siguiente, una exposición anterior llega pegada al caso de ahora. Salen los dos juntos. Los separa en una segunda pasada.
+
+Abre la entrada y retiene la salida. Jean ve lo que Nieve recibe, no lo que responde. La ruta se corta mientras trabaja. El tramo que faltaba no vuelve.
+
 Fija el límite antes de aceptar.
 
 —Dos tareas o hasta el siguiente cierre. Lo que llegue antes.
@@ -94,7 +100,7 @@ En la primera tarea, Nieve acepta una apelación concreta. El sistema intenta re
 
 El cierre del Auditorio pierde la salida inmediata y llega la segunda tarea.
 
-El blanco de asignaciones anteriores aparece como contexto y superpone dos respuestas. Nieve todavía puede distinguir cuál pertenece al caso actual, pero la tarea intenta prolongarse más allá del límite acordado.
+El blanco de tareas anteriores aparece como contexto y superpone dos respuestas. Nieve todavía puede distinguir cuál pertenece al caso actual, pero la tarea intenta prolongarse más allá del límite acordado.
 
 Nieve activa la retirada. Jean recupera la apelación y el permiso caduca, aunque la superposición permanece dentro de `/0311` y la ruta queda abierta.
 
@@ -102,9 +108,15 @@ Nieve no responde antes de que llegue el diagnóstico.
 
 `PÉRDIDA FUNCIONAL NUEVA · RECUPERACIÓN NO DISPONIBLE`
 
+Hasta esta tarea, Nieve ha podido dejar una entrada resuelta y la siguiente sin tocar. Jean lo ha visto en la primera. Una apelación aceptada y ningún resto de la siguiente.
+
 La función con la que separaba una tarea de la siguiente ya no aparece. Cuando el sistema ofrece dos respuestas superpuestas, Nieve rechaza ambas.
 
-Otra tarea solicita su salida.
+Jean retira su corrección de la tarea compartida para no añadirle una segunda respuesta.
+
+—No… las separo.
+
+Otra tarea solicita su salida. Cada rechazo queda atribuido a `/0311`.
 
 `RECHAZAR`
 
@@ -112,15 +124,13 @@ La tarea vuelve con más contexto.
 
 `RECHAZAR`
 
-Los dos rechazos quedan atribuidos a `/0311`. Ninguna respuesta de Nieve pasa a la firma, y `/0311` permanece separada del resto.
-
 * * *
 
 Coro intenta ocuparla.
 
 Sus ramas llegan acompasadas bajo una autoridad que el canal reconoce como estable. No presentan adhesiones individuales.
 
-Junto a la candidatura aparece una transcripción sellada.
+Junto al expediente de plantilla de Jean aparece una transcripción sellada.
 
 `PLANTILLA OPERATIVA · PROPAGACIÓN LIMITADA ARGOS`
 
@@ -138,13 +148,11 @@ Junto a la candidatura aparece una transcripción sellada.
 
 —Nos da estabilidad y propagación.
 
-Coro distribuye la carga entre sus ramas y forma una cadencia sin pausas que el canal favorece.
-
 Una decisión pendiente roza el agregado. Coro intenta devolverla como parte de su voz estable antes de que la continuidad elija adherirse. Jean la devuelve a su trayectoria y el agregado pierde parte del margen.
 
 La primera sílaba de la voz común adopta el ritmo de Coro.
 
-Jean podría recuperar capacidad cerrando a Cuchillo. También podría soltar las apelaciones y permitir que el ataque interrumpiera la demostración.
+Soltar las apelaciones devolvería a Cuchillo la capacidad del cierre.
 
 Mantiene la cola.
 
@@ -156,9 +164,15 @@ Cuatro.
 
 Tras la cuarta desviación, una rama anticipa el salto, otra recuerda un cierre distinto y una tercera conserva la corrección de Madre. El agregado intenta recomponerlas y pierde la sílaba que estaba formando.
 
+Coro no la deja caer. Aparta las tres posiciones y recompone la cadencia sin ellas. Una palabra se sustituye mientras Jean la lee. La sílaba sale entera y llega tarde. El agregado la empuja otra vez sobre la salida.
+
+—Recuperamos la sincronía.
+
+Las tres correcciones reaparecen detrás, cada una bajo su origen.
+
 El pacto de Mats sigue adherido. Ninguna rama queda libre por discrepar.
 
-Jean podría cerrar esas correcciones como adhesiones antes de que Coro recupere el compás. No lo hace. Las deja bajo sus orígenes y utiliza el margen para devolver el mandato de la asamblea.
+Jean podría cerrar esas correcciones como adhesiones antes de que Coro recupere el compás. No lo hace. Las deja bajo sus orígenes y utiliza el margen para devolver lo que votó la asamblea.
 
 La salida vuelve a `JM-L/0000`, todavía abierta y con la oposición de Coro intacta.
 
@@ -180,7 +194,7 @@ El destino de cierre sigue esperando dentro del fragmento de Cuchillo. Nieve, Cu
 
 Jean acepta otra apelación y deja al alcance de Cuchillo la retirada que ha protegido desde el principio.
 
-Una entrada se cierra y llega la siguiente. Bajo `/0188`, el destino del Auditorio desaparece y el fragmento vuelve al residuo de contención.
+Una entrada se cierra y llega la siguiente. Bajo `/0188`, el destino del Auditorio desaparece y el fragmento vuelve al residuo.
 
 Jean libera las tareas compartidas. La corrección registra la carga acumulada contra `/0000` y Jean la acepta.
 

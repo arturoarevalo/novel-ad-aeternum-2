@@ -19,7 +19,14 @@ def main():
     m = aa.load_manifest()
     dinkus = m.get("dinkus", "* * *")
     orden = aa.reading_order()
-    quiere = set(a.capitulos)
+    # se admite `cap-08.md` y `capitulos/cap-08.md`; un nombre que no case es ERROR y no una lista vacía:
+    # estos extractos son el insumo único del lector frío, que es criterio de gate (cf. sensibilidad.py).
+    quiere = {os.path.basename(c) for c in a.capitulos}
+    if quiere:
+        disponibles = {d["archivo"] for d in orden}
+        faltan = sorted(quiere - disponibles)
+        if faltan:
+            sys.exit(f"extractos: no existe(n) en el orden de lectura: {', '.join(faltan)}")
     destino = os.path.join(aa.COMPILADO, "extractos", a.etiqueta)
     os.makedirs(destino, exist_ok=True)
     n = 0; escritos = []

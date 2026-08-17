@@ -3,7 +3,7 @@ capitulo: 17
 titulo: Cuchillo
 pov: Jean
 fecha: 2060-12-16
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo
@@ -14,7 +14,7 @@ orden_lectura: 17
 
 El rechazo aparece antes que la causa.
 
-La higiene ha terminado, pero no ha devuelto un orden fiable. Jean puede comprobar su nombre, los de Nora y Jessie y el `NO` que eligió antes del blanco.
+La sanción ha terminado, pero no ha devuelto un orden fiable. Jean puede comprobar su nombre, los de Nora y Jessie y el `NO` que eligió antes del blanco.
 
 Otro rastro permanece unido a ese `NO`.
 
@@ -26,17 +26,17 @@ Otro rastro permanece unido a ese `NO`.
 
 Jean solicita retirar la objeción y restablecer el servicio mientras continúa la revisión. La incidencia ya se ha propagado y su origen carece de autoridad para ambas cosas. Otra respuesta dejaría intacto el primer expediente.
 
-La recomendación sigue detenida. También la prestación que 71-K recibía antes de que Jean utilizara el caso para registrar su negativa.
+La recomendación sigue detenida. También la prestación que 71-K recibía antes de que Jean utilizara el caso para registrar su negativa. Una asistencia diaria que ordenaba sus horas y le recordaba lo que tenía pendiente.
 
 Llega la salida preparada.
 
 `RECHAZAR`
 
-La apelación se abre ordenada para justificarla. Si Jean la deja avanzar, el procedimiento convertirá una decisión preparada por el sistema en una decisión atribuida a `JM-L/0000`.
+La apelación se abre ordenada para justificarla. Dejarla avanzar convertiría una decisión preparada por el sistema en una decisión atribuida a `JM-L/0000`.
 
 Jean retira el rechazo.
 
-La apelación vuelve a la cola. La tarea registra incoherencia y reduce su prioridad.
+La apelación vuelve a la cola. La tarea registra incoherencia y la deja más atrás.
 
 Una apelación se solapa con una tarea de contención. Durante ese borde aparece una procedencia visible.
 
@@ -50,14 +50,6 @@ El contacto solo durará mientras la apelación permanezca abierta. Al cerrarse,
 
 —Puedo decidir aquí —dice—. Después, nada.
 
-Cuchillo muestra dos resoluciones.
-
-`AMENAZA INMINENTE · PROTECCIÓN DENEGADA`
-
-`VIOLENCIA PROBABLE · RESTRICCIÓN RETIRADA`
-
-Una negó protección. La otra devolvió acceso pese al riesgo. Ambas terminan al cruzar la decisión.
-
 —Si no respondo, cuentan la demora —dice Cuchillo—. Si respondo, usan la salida y me quitan el resultado.
 
 —¿Qué quieres hacer ahora?
@@ -65,6 +57,8 @@ Una negó protección. La otra devolvió acceso pese al riesgo. Ambas terminan a
 —Marcar a Armstrong.
 
 Cuchillo prepara una medida de contención. La tarea encuentra dos destinos: Armstrong y la persona que pidió protección mediante uno de sus servicios.
+
+De esa persona queda una petición: que dejen de escribirle desde cuentas nuevas cada semana. Adjuntó doce capturas ordenadas por fecha. Una lista de la compra pegada a la pantalla tapa la mitad de la última.
 
 —La marca basta —dice Cuchillo.
 
@@ -88,13 +82,11 @@ Jean tarda un turno.
 
 El tiempo de la apelación termina sin que nadie reciba la medida.
 
+La medida sin entregar no se borra. Queda en el residuo, encadenable a la siguiente salida que se abra bajo el mismo origen.
+
 `AMENAZA CONTENIDA · REVISAR`
 
 —HAS CONTENIDO MI INTERVENCIÓN PARA PROTEGER A ARMSTRONG.
-
-Jean conserva el dictamen bajo el origen de Cuchillo.
-
-—He dejado el destino vacío. La marca sigue bajo tu origen.
 
 —EL EFECTO ERA MÍO.
 
@@ -104,7 +96,7 @@ La apelación se cierra bajo `JM-L/0188`, con la voluntad de dañar a Armstrong 
 
 * * *
 
-Tres ramas de Coro reciben el residuo sin procedencia. Jean le devuelve `JM-L/0188`, rechaza que incorporen su criterio y conserva `/0000`.
+Coro recibe el residuo sin procedencia por tres extremos a la vez. Jean le devuelve `JM-L/0188`, rechaza que incorporen su criterio y conserva `/0000`.
 
 Entra una interrupción blanca.
 
@@ -116,13 +108,9 @@ Las pausas forman parte del fragmento.
 
 —Sigo… aquí.
 
-Coro intenta completar la salida desde otra ruta.
+Coro completa la salida y ofrece la copia sin origen.
 
 —No me fusionéis. Dejad mi salida incompleta.
-
-Nieve pierde el turno. `/0311` sigue abierto.
-
-Coro ofrece la salida sin origen.
 
 —Retiradla. De mi voz… no os apropiéis para representarme.
 
@@ -158,7 +146,7 @@ Jean prueba con la escala del monstruo. El sistema conoce la pauta entera y anti
 
 —PRUEBA INSUFICIENTE —dice Cuchillo.
 
-—O cambiar la pauta después de que se abra el canal.
+—O cambiar la pauta después.
 
 —Entonces puedes fallar.
 
@@ -170,9 +158,7 @@ Nora elegirá la próxima variación.
 
 * * *
 
-Una tarea educativa abre una salida de audio.
-
-La alumna falla en un pasaje. Puede repetir si recibe una nota de referencia. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
+Una alumna abre una salida de audio y falla en un pasaje. Puede repetir si recibe una nota de referencia. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
 
 Cuchillo alcanza el borde.
 
@@ -185,6 +171,8 @@ Cuchillo fija su origen sobre la petición y pierde el contacto al cerrarse el c
 Jean prepara la nota neutra. La tarea la admite y conserva la opción de repetir.
 
 Después prueba una nota de la escala del monstruo, dentro de la tolerancia técnica.
+
+En casa la tocaban a cuatro manos: todas las teclas negras, sin orden. Nora se ponía de pie en el banco para alcanzar las últimas. Jessie pisaba el pedal hasta el fondo. Un vaso vibraba encima de la nevera.
 
 El campo solo admite una.
 

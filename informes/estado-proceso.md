@@ -4,8 +4,8 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 ## Situación
 
-- **Fase actual:** **G-A1 APROBADO (2026-08-17) y Fase 2 fusionada en `main`. W2 NO arrancada: el autor reinicia la sesión con los agentes en `claude-opus-5` y dará la orden.** W1 (F0 + F1) cerrada (G0, G1 aprobados).
-- **Rama:** `main` (W1 y F2 fusionadas). La siguiente rama será `w2-reescrituras` cuando el autor ordene arrancar W2.
+- **Fase actual:** **W2 EJECUTADA Y MEDIDA. Gate W2 pendiente de decisión del autor (`informes/w2-gate.md`): NO fusionar hasta que lo apruebe.** G-A1 aprobado (2026-08-17) y Fase 2 fusionada en `main`. W1 (F0 + F1) cerrada (G0, G1 aprobados).
+- **Rama:** `w2-reescrituras` (11 commits sobre `main`, sin fusionar). M9 OK y validador limpio en todos.
 - **Baseline:** tag `v0` (61e446f). Recuento canónico v0: 62.750 palabras.
 - **Última versión aceptada:** v0.
 
@@ -54,8 +54,20 @@ B0 `informes/b0-discrepancias.md` · B1 `biblia/b1-cronologia.md` · B2 `biblia/
 - **Límite conocido:** la A/B ciega final (§7.3) NO puede ejecutarse en codex (v0 + vF ≈ 265k tokens contra una ventana de 272k); se queda en jueces Claude.
 - **W2 sigue sin arrancar:** esperando la orden del autor.
 
+## W2 · Reescrituras críticas — EJECUTADA, gate pendiente del autor (2026-08-17, sesión 5)
+
+- **Los seis capítulos reescritos, un commit por OT.** M1: −33 · −32 · −32 · −33 · −31 · −32 % (objetivo −30 %). M2 = 0 mecánicas nuevas en los 41. Cero términos del lexicón nuevos: la lista de cada capítulo es subconjunto estricto de la de v0. +892 palabras (62.750 → 63.642), +142 sobre la línea de «reescrituras netas» del ledger, todo dentro de banda por capítulo.
+- **Cadena completa:** A3a ×6 → A7 (caps. 8 y 17) → A4 pasada de línea → A5 continuidad → auditoría adversarial ×6 (`gpt-5.6-sol`) → A4 reparación → A8 → 36 lecturas de lector frío + 4 críticos A6 + 8 lectores beta.
+- **Anti-regresión:** mediana w2 idéntica a la baseline salvo estructura y mundo (−0,5), y el **control de deriva** demuestra que es varianza de juez: el mismo crítico, el mismo día, puntúa v0 en 8 y 8,5 en esos dos ejes. Pareado v0↔w2 con el mismo juez: **ningún eje baja, cuatro suben** (prosa, diálogo, personajes, trama). Global 8,5. Ritmo 7,5. Tema 9,0. Sin veto en Duelo.
+- **Cualitativo clave:** el cap. 8 **desaparece** de la lista de «dónde estuve a punto de abandonar» de los críticos (ahora nombran 24, 16 y 30) y del lector que abandonó. Los tres críticos enuncian la regla del capítulo denso que les toca. El lector frío responde «dónde ocurre» en el 21 y el 30 (Telegrafbukta).
+- **Criterios incumplidos y su explicación medida:** lector frío ≥ 3 (2,11 frente a 2,17 de v0 con el mismo instrumento; la baseline de D1 era **un solo pase** y con tres el cap. 8 de v0 da 3-3-3) y ≤ 6 términos (solo el 8). Detalle en `informes/w2-gate.md` §4.
+- **Decisiones que el gate somete al autor:** D-1 reformular el criterio de lector frío; D-2 sustituir «M6-continuidades ≥ 75 %» por anti-regresión (v0 = 73,2 %); **D-3 asignar R4 → N4 con encargo redefinido** (los cuatro A6b no piden más instituto ni más amenaza: piden entender a Coro); D-4 fusionar.
+- **Hallazgos para las oleadas siguientes:** el valle procedimental (22, 24, 27, 29, 39) es el nuevo cuello de botella y el 24 lo señalan tres lectores; «Jean viva con sus hijas» la piden por unanimidad (y también en v0) → confirma la decisión B de G-A1; **T1 y T4 se contradicen** (retirar un término puede llevarse el marcador de voz de quien lo dice: caso medido «divergencia»); el cap. 30 queda con 0,3 de margen de M1 para W5.
+- **Dos herramientas fallaban abiertas y se corrigieron:** `sensibilidad.sh --solo` y `extraer.sh` no comprobaban nada si se les pasaba una ruta en vez del basename. La primera alimenta un gate con veto.
+
 ## Registro de consumo (orientativo)
 
+- Sesión 5 (2026-08-17), W2 completa: subagentes en sesión ≈ **1,96 M tokens** (A3a ×6 1,17 M · A4 ×2 384k · A5 205k · A7 ×2 202k). Fuera de sesión (`critica-fria.sh`, coste real): **24,09 USD** — A6b ×8 (w2 y v0) 15,38 · A6 ×3 (2 sobre w2 + control de deriva sobre v0) 6,59 · lector frío ×36 (w2 ×3 pases y v0 ×3) 1,63 · M6-continuidades ×12 0,49. **Sin coste por token** (suscripción del autor): A6-3 `gpt-5.6-sol` sobre w2, auditor adverso ×6 y las dos sondas. Contexto de A0 ≈ 0,5 M. Acumulado de subagentes del proyecto ≈ 8,1 M.
 - Sesión 4 (2026-08-17), motor codex: sonda + A6-3 sol sobre v0 (113k tokens) + M6b variante 4 (16k) **sin coste por token** (suscripción ChatGPT del autor); contexto de A0 ≈ 0,1 M. A partir de ahora cada hito de puntuación baja de ≈ 12 USD a ≈ 8,8 USD (A6-3 deja de facturarse).
 - Sesión 3 (2026-08-17), cierre de G-A1: OT-25b y ajustes escritos por A0; re-baseline A6-1/2 opus-5 4,4 USD (total fuera de sesión 16,5 USD); contexto de A0 ≈ 0,1 M.
 - Sesión 3 (2026-08-16), Fase 2: A2 ×4 ≈ 2,03 M tokens (A2-W2 477k · A2-N 493k · A2-F1 504k · A2-F2 561k); contexto de A0 ≈ 0,15 M. Acumulado subagentes ≈ 6,1 M.
