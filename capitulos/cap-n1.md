@@ -3,7 +3,7 @@ capitulo: N1
 titulo: La primera cita
 pov: Maja
 fecha: 2060-12-04T15:00
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: N
 proteccion: no

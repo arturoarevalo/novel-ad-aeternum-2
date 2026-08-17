@@ -3,7 +3,7 @@ capitulo: N6
 titulo: Acta
 pov: Aslak
 fecha: 2061-05-11
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: N
 proteccion: no

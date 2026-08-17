@@ -3,7 +3,7 @@ capitulo: N3
 titulo: Inventario
 pov: Maja
 fecha: 2060-12-29
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: N
 proteccion: no

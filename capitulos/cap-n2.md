@@ -3,7 +3,7 @@ capitulo: N2
 titulo: Instituto
 pov: Nora → Jessie
 fecha: 2060-12-16
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: N
 proteccion: no

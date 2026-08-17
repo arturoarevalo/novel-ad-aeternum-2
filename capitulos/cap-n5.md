@@ -3,7 +3,7 @@ capitulo: N5
 titulo: Turno
 pov: Jean
 fecha: 2060-12-03
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: N
 proteccion: no
