@@ -84,11 +84,19 @@ Las cajas eran las mismas que usaban en la planta quinta para trasladar muestras
 
 El último rediseño había respetado el despacho fundacional. La mesa de su madre servía ahora a una unidad jurídica. En la pared quedaban la oblea inaugural y una fotografía de ambos fundadores. Abajo, la mancha del café de su padre.
 
+La mesa tenía dos pantallas y una etiqueta con el número de la unidad. Los cajones estaban sin llaves.
+
+El día que colgaron la oblea, su padre subió el café en una bandeja y la dejó en el suelo para sostener el nivel. Alguien la volcó con el pie y nadie limpió a tiempo. Su madre firmó allí las primeras nóminas, con la puerta abierta para oír quién entraba.
+
+En la fotografía, sus padres estaban delante de la puerta de la sede antigua, con el rótulo a medio montar. Alana la descolgó y miró el reverso. No llevaba número.
+
 Alana metió el retrato en la caja.
 
-Su acceso al despacho caducaría al final de la jornada. EDDA se lo había recordado dos veces.
+Su acceso al despacho caducaría al final de la jornada. EDDA se lo había recordado una vez.
 
 Una abogada había pegado etiquetas blancas sobre los armarios. PERSONAL, SOCIETARIO, RETENCIÓN OBLIGATORIA. Casi todo se quedaría en Fyret. La taza desportillada de su madre no figuraba en el inventario. Alana la guardó junto al retrato.
+
+La oblea llevaba etiqueta y número. La mesa, también. Alana comprobó los dos y volvió a los cajones. Lo atornillado se quedaba. Lo numerado, también. En la caja sobraba sitio.
 
 Fuera, la abogada atendía una llamada. No vigilaba. El inventario se actualizaba al retirar cada objeto etiquetado.
 
@@ -111,6 +119,10 @@ Alana eligió `COMPROBACIÓN LOCAL NO AUTORIZANTE`. El ladrillo validó token, P
 `CREDENCIAL LEGACY A. ARMSTRONG · VÁLIDA`
 
 Alana guardó el comprobante en la memoria aislada y apagó la interfaz de comunicaciones.
+
+—Alana, tu acceso al despacho fundacional caduca a las diecinueve —dijo EDDA.
+
+Alana no levantó la vista.
 
 En el índice de autoridades vinculadas, los procedimientos vigentes se mezclaban con restos de migraciones antiguas. Alana descartó las entradas que devolvían `MÓDULO AUSENTE` hasta llegar a un nombre que no recordaba.
 
@@ -152,7 +164,7 @@ Expuso el consentimiento antiguo que había aceptado y las preguntas que no exig
 
 Cifró la grabación con su credencial personal y selló la huella en el propio soporte. La copia exportada quedó en una lámina aislada. En la etiqueta escribió POR SI HACE FALTA.
 
-Guardó la lámina en el bolsillo interior de la bolsa antiestática, cerró de nuevo la segunda caja y la llevó al coche. La primera, con el retrato y la taza, quedó consignada junto a recepción para recogerla después.
+La primera caja, con el retrato y la taza, quedó consignada junto a recepción para recogerla después. Guardó la lámina en el bolsillo interior de la bolsa antiestática, cerró de nuevo la segunda y la llevó al coche.
 
 * * *
 

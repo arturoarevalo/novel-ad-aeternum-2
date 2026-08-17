@@ -22,8 +22,6 @@ El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En para
 
 Astrid volvió la fotografía.
 
-* * *
-
 El 27 de enero, la jueza la colocó en el centro de la mesa. La tubería escarchada cruzaba por encima de una puerta de acero.
 
 El papel fue pasando de mano en mano. La defensa de Armstrong habló de continuidad operativa. El Estado, de protección del activo. El acreedor que ofrecía el dinero había añadido seis condiciones a la garantía desde la noche anterior. Cuando la jueza le dio paso, Astrid señaló la tubería, aún sin bomba, sin técnico y sin factura pagada.
@@ -31,6 +29,8 @@ El papel fue pasando de mano en mano. La defensa de Armstrong habló de continui
 —Mañana a las ocho falla la bomba —dijo—. ¿Quién paga la prestación futura?
 
 La abogada de Armstrong señaló el compromiso de financiación. Seguía sujeto a la apertura y al control de caja.
+
+La mesa era larga y sobraban sillas. Enfrente de la abogada se sentaba el representante estatal, con la carpeta abierta por la última página. La del acreedor ocupaba la esquina, junto al enchufe. El proveedor había llegado tarde y siguió de pie hasta que la jueza le señaló un sitio. Astrid puso su carpeta en el suelo, contra la pata de la mesa.
 
 —¿Quién ordena la reparación?
 
@@ -43,6 +43,8 @@ El representante estatal pidió la palabra. La vigilancia era suya. La facultad 
 —¿Y quién cambia la bomba?
 
 El técnico figuraba en un contrato cuyo pago nadie garantizaba aún. La jueza esperó. Los cuatro tramos de una reparación estaban repartidos entre cinco manos.
+
+El papel había vuelto al centro con una esquina doblada. Nadie lo empujó hacia nadie.
 
 —Cada uno de ustedes puede impedir algo —dijo—. Sigo buscando quién puede hacerlo.
 
@@ -80,6 +82,8 @@ La jueza prohibió provisionalmente transferir o alterar NIDHOGG y ordenó una i
 
 A continuación se abrió la pieza relativa a los hechos del Soldagen. Jessie se sentó junto a su letrada. Maja ocupó la silla de detrás.
 
+Jessie llevaba el abrigo puesto y no lo dejó en el respaldo. Puso las dos manos sobre la mesa y las mantuvo ahí. Maja dejó el bolso en el suelo, entre los pies, y no volvió a tocarlo.
+
 —¿Quién cruzó la puerta? —preguntó la jueza.
 
 —Tomas. Yo inicié desde fuera y se lo entregué.
@@ -98,7 +102,17 @@ La fiscal retiró la referencia a daños interiores y entregó la frase corregid
 
 Jessie leyó de nuevo y firmó. Maja no intervino.
 
+Tomas esperó de pie a que la letrada retirase los folios de la mesa. Llevaba el carné en la mano desde antes de entrar en la sala. Nadie le indicó dónde sentarse y no se sentó.
+
 Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había forzado once segundos de diagnóstico, alterado el retorno seguro y usado una hoja de Hvelv dentro de la contratación de Kronfjord. Los registros de emisión de Hvelv devolvieron la ruta de firma y las guardias activas. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
+
+—¿Quién dio la instrucción? —preguntó la jueza.
+
+Nadie contestó.
+
+—¿Y quién avisó?
+
+—Una denuncia anónima, a las ocho y doce del diecisiete de diciembre —dijo Astrid—. No puedo acreditar su origen.
 
 Astrid abrió el contrato recibido el día 23. La telemetría y los controles de Armstrong confirmaban la recepción del resultado y el beneficio corporativo. Con esos retornos, la jueza tuvo por acreditados el mecanismo deliberado, la cadena Hvelv–Kronfjord y el beneficio de Armstrong. El auto dejó en blanco al ejecutor y al ordenante individuales.
 
@@ -122,7 +136,7 @@ El resguardo identificaba el corpus y la autorización privada aún activa.
 
 —Sí.
 
-El formulario le permitía mantener vigente su autorización privada sobre el corpus o revocarla desde aquel día.
+El formulario le permitía mantener vigente su autorización privada sobre el corpus o revocarla desde aquel día. El corpus seguiría intacto, segregado e inerte bajo custodia, y cualquier uso futuro tendría que empezar con autorización contemporánea y control externo.
 
 —Si la mantengo, puedo frenar un uso precipitado mientras se fija un protocolo estable —dijo Mats.
 
@@ -131,8 +145,6 @@ El formulario le permitía mantener vigente su autorización privada sobre el co
 Mats leyó las dos opciones otra vez.
 
 —La revoco desde hoy.
-
-El acuse dejó el corpus intacto, segregado e inerte bajo custodia. Cualquier uso futuro tendría que empezar con autorización contemporánea y control externo. Mats guardó el terminal.
 
 * * *
 
@@ -161,6 +173,20 @@ Maja señaló la línea de salida de la única traza.
 —¿Qué significará?
 
 —El registro no puede decirlo.
+
+La comisión cerró la inspección junto al ascensor de carga. La técnica guardó la sonda en su funda y esperó al lado del precinto.
+
+Maja tenía en la mano un papel doblado en dos, con una lista de la compra por detrás. Astrid la había visto escribir en el ascensor: tres líneas cortas, con un guion delante de cada una.
+
+Había preguntado dos. Astrid no leyó la tercera.
+
+—¿Alguna petición más para el acta? —preguntó el funcionario que la levantaba.
+
+Maja miró otra vez la línea de salida de la traza. Dobló el papel por el mismo pliegue y se lo guardó en el bolsillo del abrigo.
+
+—No —dijo.
+
+La técnica tocó el precinto y anotó la hora.
 
 Maja no solicitó acceso.
 

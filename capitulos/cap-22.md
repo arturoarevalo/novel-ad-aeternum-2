@@ -76,6 +76,8 @@ Astrid anotó solo once.
 
 Mats Haldorsen llegó sin séquito y se sentó frente a Astrid. Dejó una carpeta sobre sus rodillas. Ni siquiera preguntó qué había encontrado.
 
+La sala tenía dos sillas y una mesa atornillada al suelo. La impresora de papel numerado arrancó sola, avanzó una página en blanco y se detuvo. Haldorsen no miró hacia ella.
+
 —¿Cuánto han reducido los falsos positivos? —dijo Astrid.
 
 —Un dieciocho por ciento en el piloto. Las demás métricas no son comparables.
@@ -134,6 +136,16 @@ Nora esperaba fuera de «Fyret», sentada en un banco público bajo la luz amari
 
 Nora le mostró el mensaje. Era una cita de entrega voluntaria emitida por la TKS: indicaba aquel banco y una hora, no el motivo de la presencia de Astrid en «Fyret». Astrid se quedó de pie.
 
+El cuaderno estaba abierto por la mitad. En las primeras páginas los pentagramas seguían vacíos, con un título a lápiz en la cabecera y una indicación de tempo debajo. Después empezaban las columnas.
+
+—Esa parte es de piano —dijo Nora—. Empecé el cuaderno para eso.
+
+—¿Y las columnas?
+
+—Los pentagramas sirven para alinear las horas.
+
+Astrid no preguntó por el título. Anotó que la entrega procedía de un cuaderno de uso propio y que las páginas útiles iban numeradas a mano.
+
 Nora había separado por fecha, hora y fuente la corrección `JM-L/0007`, los reintentos de `CARIES` y la cuarta nota. A lápiz había unido el primer registro con el último: nueve segundos.
 
 —Creo que el intervalo se repite porque responde el mismo proceso —dijo Nora.
@@ -158,6 +170,12 @@ La chica borró la línea allí mismo, sin defenderla. El grafito dejó una fran
 
 Nora pasó la página sin intentar recuperar la flecha.
 
+En 2054, un hombre llevó a la supervisión dos resoluciones de un mismo sistema certificado. La primera le denegaba una licencia de actividad. La segunda, con los mismos campos, se la concedía. Astrid le pidió que reprodujera la segunda delante de un técnico. El hombre volvió cuatro veces con capturas distintas y ninguna dio el mismo resultado.
+
+El proveedor ofreció un informe interno y no la entrega de los registros. Alguien del ministerio pidió «prudencia estratégica» y habló de «oportunidad». El hombre retiró los originales y no volvió a escribir. Astrid pudo acreditar las dos resoluciones y no pudo acreditar que la segunda volviera a producirse. Archivó el caso y bajó la carpeta al cajón inferior del armario, con el número en el lomo.
+
+En la página anterior seguía la franja gris.
+
 —Quiero conservar una imagen de esta página y de la anterior.
 
 —¿Por qué?
@@ -169,6 +187,8 @@ Nora pasó la página sin intentar recuperar la flecha.
 —No puedo hablarte del contenido de una auditoría abierta.
 
 Astrid capturó ambas páginas y generó un recibo con fecha, autora declarada y entrega voluntaria. Nora lo leyó antes de firmar.
+
+Firmó con el dedo sobre el cristal y devolvió el terminal. Astrid siguió de pie. Un autobús paró en la marquesina, esperó con las puertas abiertas y arrancó vacío. Un guarda las miraba desde el vestíbulo y no salió. La chica se subió el cuello del abrigo y metió las manos en las mangas.
 
 —¿Entonces ya no sirve?
 
@@ -203,6 +223,8 @@ En la propuesta no aparecían el piloto, el uso en defensa ni las fechas estrat�
 —No registraré la ampliación hasta que el enlace ministerial proponga una fecha.
 
 Astrid tenía la cadena, la recurrencia, la fuente independiente y la fila en un anexo.
+
+Había impreso el anexo en el papel numerado de la sala y había dejado esa fila sola en la última página. Comprobó desde el otro lado de la mesa que se leía sin acercarse. Después la puso debajo de la propuesta, con el resto del anexo encima.
 
 Abrió el formulario de incidencia administrativa y escribió el nombre de Industrias Armstrong. Su director retiró la mano de las páginas.
 
