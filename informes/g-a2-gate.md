@@ -95,13 +95,17 @@ N5 —el capítulo-escuela que debía preparar ese terreno— no ha bastado por 
 
 El mismo crítico señala N3 como segundo riesgo: «cuatro mil palabras de inventario doméstico». Es el capítulo más largo del libro y lleva dentro las 1.200 de R1. El lector frío le da 4/5 y lo resume con precisión. Lo dejo anotado sin recomendación de recorte: si algo sobra ahí, W6 es el sitio.
 
-### D-4 · Recalibrar M6b (viene del hallazgo de §4)
+### D-4 · Recalibrar M6b — RESUELTO
+
+Hecho ya, y el resultado retira una conclusión mía anterior: ver §4.1. No requiere decisión tuya.
 
 ---
 
 ## 4. Hallazgos de la oleada
 
-1. **La métrica de voces medía mal desde F1.** La muestra ciega de las gemelas de N2 dio 20,8 · 62,5 · 20,8 % con el azar en 50 %: dos pases por debajo del azar, que en una tarea binaria solo puede significar etiquetas invertidas. Con un ancla de dos líneas y sin tocar una sola réplica: **86,1 %**. Y el control de v0 con la misma ancla: **64,3 %**. Es decir, N2 mejora la diferenciación de las gemelas en **+21,8 puntos** y cumple el criterio de G1 con holgura — pero también significa que **v0 estaba en 64,3 % y no en el 21 % que registró D1**. El diagnóstico que justifica el peso de T4 en W4 y W6 estaba inflado por el instrumento. Detalle en `informes/m6b/m6-voces-w3.md`. **Antes de dimensionar W4 y W6 hay que rehacer la medición global con ancla por personaje.**
+1. **La métrica de voces medía mal con pocos hablantes, y las gemelas estaban mejor de lo que creíamos.** La muestra ciega de las gemelas de N2 dio 20,8 · 62,5 · 20,8 % con el azar en 50 %: dos pases por debajo del azar, que en una tarea binaria solo puede significar etiquetas invertidas. Con un ancla de dos líneas y sin tocar una réplica: **86,1 %**; el control de v0 con la misma ancla: **64,3 %**. N2 mejora la diferenciación de las gemelas en **+21,8 puntos** y cumple el criterio de G1 con holgura, y el 21 % que registró D1 sobre ellas era una distorsión del instrumento.
+   **Corrección de A0:** en una primera lectura deduje de aquí que la justificación del peso de T4 en W4 y W6 estaba inflada. **Rehecha la medición global con ancla, esa deducción no se sostiene y la retiro**: con nueve nombres el ancla solo aporta unos cinco puntos (v0 33,9 %, w3 32,7 %, azar 11 %), porque el modelo no puede permutar todos los nombres a la vez. La diferenciación de voces **a escala de libro es genuinamente baja y no ha cambiado**, así que **T4 conserva su justificación y W4/W6 no se redimensionan por este motivo**. Detalle y aritmética en `informes/m6b/m6-voces-w3.md` §5.
+
 2. **La auditoría adversarial volvió a encontrar lo que nadie más vio.** N5 se había inventado una cuota («Jean gasta ESCALAR una vez por serie… consume esa única salida») donde el canon de 7:39 solo tiene una disciplina que ella se impone — y donde el capítulo 7 la muestra escalando tres veces. A5 revisó ese punto exacto y lo dio por bueno. Corregido por A4 devolviendo el verbo de v0: «Jean reserva ESCALAR».
 3. **Un crítico frío encontró un error factual que nadie buscaba:** en N1, Maja apagaba el motor y once líneas después «el motor siguió en marcha hasta que Maja lo apagó». Corregido.
 4. **A7 detectó un hueco de proceso mío:** N4 y N5 no tenían dictamen suyo, y N5 dispara T7 por caer en el rango de los capítulos 1–10 — su propia OT lo decía en la cabecera y yo no lo enruté. A7 los leyó y los aprobó.
@@ -114,7 +118,7 @@ El mismo crítico señala N3 como segundo riesgo: «cuatro mil palabras de inven
 
 1. **Aprobar o no los seis capítulos** (el gate propiamente dicho).
 2. **D-1**: conservar el espejo de N4 o revertirlo a las 2.400 palabras.
-3. **D-4**: autorizar la recalibración de M6b con ancla antes de dimensionar W4 y W6.
+3. **D-4 · resuelto sin coste, ya no requiere decisión**: la recalibración se ha hecho (§4.1). Solo queda como regla operativa que M6b con pocos hablantes se mide siempre con ancla.
 4. **Fusionar `w3-nuevos` en `main`** — no lo hago sin tu visto bueno. Tras la fusión, A1-mantenimiento registra los seis en `capitulos[]` con `origen: "REVISIÓN 10"`, que es la convención que el manifiesto exige y que solo puede hacerse **después** de superar este gate.
 
 ---

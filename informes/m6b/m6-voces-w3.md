@@ -70,3 +70,28 @@ Misma prueba, mismo ancla, con las réplicas de las gemelas de la muestra de v0 
 - **El umbral de G1 (M6b canónica ≥ 60 %) se fijó contra un número producido por el instrumento defectuoso.** A0 propone al autor recalibrarlo cuando se rehaga la medición con ancla, junto con la propuesta D-2 del gate de W2 (anti-regresión en vez de umbral absoluto).
 - **Efecto sobre W4 y W6:** T4 (diferenciación de voces) es el objetivo declarado de esas dos oleadas y su prioridad se justificaba con el 39–42 % de v0. Antes de dimensionar ese trabajo hay que rehacer la medición global con ancla por personaje: puede que el problema real sea bastante menor de lo que el plan supone, y que el presupuesto de W4/W6 deba ir a otra parte.
 - Ninguna de estas mediciones cambia una palabra del manuscrito.
+
+---
+
+## 5. Recalibración global con ancla (2026-08-17, posterior) — y corrección de §4
+
+Se rehízo la medición **global** con ancla: a la muestra de 54 réplicas (w3) y de 56 (v0) se le antepuso un ejemplo identificado de **cada** hablante, tomado de otro pasaje y ausente de la lista. Tres pases por condición.
+
+| | sin ancla | **con ancla** | azar |
+|---|---:|---:|---:|
+| v0 (8 hablantes) | 26,8 % | **33,9 %** | 12,5 % |
+| w3 (9 hablantes) | 28,4 % | **32,7 %** | 11,1 % |
+
+**Lo que esto corrige.** En §4 se afirmó que «M6b sin ancla infravalora sistemáticamente la diferenciación de voces» y que, por tanto, el diagnóstico que justifica el peso de T4 en W4 y W6 estaba inflado. **La segunda parte de esa afirmación no se sostiene y queda retirada.** El efecto del ancla depende del número de hablantes:
+
+- **Con dos hablantes** el fallo es catastrófico, porque el modelo agrupa bien y luego tiene que adivinar cuál de los dos grupos lleva cada nombre: una moneda al aire que arrastra toda la puntuación. De ahí el salto de 34,7 % a 86,1 % en las gemelas.
+- **Con ocho o nueve** el modelo no puede permutar sistemáticamente todos los nombres, así que el ancla solo recupera unos cinco puntos (+7,1 en v0, +4,3 en w3).
+
+**Conclusión revisada, en dos partes:**
+
+1. **La mejora de las gemelas en N2 es real y está bien medida** (86,1 % frente a 64,3 % de v0, con el mismo ancla y el mismo día), y el diagnóstico de D1 sobre *ellas* —21 %— sí estaba distorsionado por el instrumento.
+2. **La diferenciación de voces a escala de libro es genuinamente baja** (≈33 % con nueve nombres y el azar en 11 %), y no ha cambiado entre v0 y w3. **La premisa de T4 sigue en pie** y el trabajo de W4 y W6 sobre voces conserva su justificación.
+
+Las comparaciones por personaje entre las dos columnas no son concluyentes: las dos muestras son sorteos distintos sobre corpus distintos, así que el conjunto de réplicas de cada personaje no es el mismo. Solo el agregado admite lectura, y con cautela.
+
+**Regla operativa que sí se mantiene:** toda medición de M6b con pocos hablantes se hace **con ancla**, y las cifras históricas de pruebas binarias sin ancla no son interpretables.
