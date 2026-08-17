@@ -103,6 +103,16 @@
       "palabras_real": 1610
     },
     {
+      "n": null,
+      "slug": "turno",
+      "titulo": "Turno",
+      "archivo": "cap-n5.md",
+      "palabras": 1900,
+      "palabras_real": 1822,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 7.5
+    },
+    {
       "n": 8,
       "slug": "milisegundos",
       "titulo": "Milisegundos",
@@ -119,6 +129,16 @@
       "palabras": 1861,
       "origen": "CAP. 8",
       "palabras_real": 1861
+    },
+    {
+      "n": null,
+      "slug": "la-primera-cita",
+      "titulo": "La primera cita",
+      "archivo": "cap-n1.md",
+      "palabras": 2200,
+      "palabras_real": 2065,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 9.5
     },
     {
       "n": 10,
@@ -182,6 +202,16 @@
       "palabras": 1908,
       "origen": "CAP. 15",
       "palabras_real": 1758
+    },
+    {
+      "n": null,
+      "slug": "instituto",
+      "titulo": "Instituto",
+      "archivo": "cap-n2.md",
+      "palabras": 2000,
+      "palabras_real": 1946,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 16.5
     },
     {
       "n": 17,
@@ -263,6 +293,16 @@
       "palabras": 990,
       "origen": "CAP. 24",
       "palabras_real": 890
+    },
+    {
+      "n": null,
+      "slug": "interferencias",
+      "titulo": "Interferencias",
+      "archivo": "cap-n4.md",
+      "palabras": 3200,
+      "palabras_real": 3156,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 25.5
     },
     {
       "n": 26,
@@ -399,6 +439,16 @@
       "palabras": 1874,
       "origen": "CAP. 38",
       "palabras_real": 1724
+    },
+    {
+      "n": null,
+      "slug": "acta",
+      "titulo": "Acta",
+      "archivo": "cap-n6.md",
+      "palabras": 1700,
+      "palabras_real": 1641,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 40.5
     },
     {
       "n": 41,
