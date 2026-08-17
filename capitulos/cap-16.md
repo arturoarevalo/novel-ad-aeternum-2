@@ -3,7 +3,7 @@ capitulo: 16
 titulo: La firma
 pov: Maja
 fecha: 2060-12-13
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

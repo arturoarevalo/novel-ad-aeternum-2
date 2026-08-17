@@ -3,7 +3,7 @@ capitulo: 33
 titulo: Bajamar
 pov: Maja
 fecha: 2061-01-20T21:10
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

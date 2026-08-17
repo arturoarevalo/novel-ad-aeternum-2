@@ -3,7 +3,7 @@ capitulo: 22
 titulo: Auditoría
 pov: Astrid
 fecha: 2060-12-27
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

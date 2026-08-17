@@ -3,7 +3,7 @@ capitulo: 14
 titulo: La visita
 pov: Maja
 fecha: 2060-12-11
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo

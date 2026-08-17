@@ -3,7 +3,7 @@ capitulo: 28
 titulo: El mismo trayecto
 pov: Nora
 fecha: 2061-01-07
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

@@ -3,7 +3,7 @@ capitulo: 29
 titulo: La poda
 pov: Astrid
 fecha: 2061-01-09
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
