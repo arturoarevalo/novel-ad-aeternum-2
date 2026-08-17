@@ -58,7 +58,7 @@ El contacto solo durará mientras la apelación permanezca abierta. Al cerrarse,
 
 Cuchillo prepara una medida de contención. La tarea encuentra dos destinos: Armstrong y la persona que pidió protección mediante uno de sus servicios.
 
-De esa persona queda una petición: que dejen de escribirle desde cuentas nuevas cada semana. Adjuntó doce capturas ordenadas por fecha. Una lista de la compra pegada a la pantalla tapa la mitad del último mensaje.
+De esa persona queda una petición: que dejen de escribirle desde cuentas nuevas cada semana. Adjuntó doce capturas ordenadas por fecha. Una lista de la compra pegada a la pantalla tapa la mitad de la última.
 
 —La marca basta —dice Cuchillo.
 

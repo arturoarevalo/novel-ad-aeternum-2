@@ -1,5 +1,9 @@
-cuerda|\bcabo\b|cuchillo|navaja|cuchilla|\bhoja\b|\barma\b|\bcoche\b|\bgas\b|escape|ferry|naust|\bagua\b|\bmar\b|fiordo|hielo|fr[íi]o|acantilado|puente|carretera|Koppangen|\bUNN\b
+# Nivel B (A7) · se leen en capítulos disparadores o junto a Jean / Koppangen / 26-nov. Una regex -E por línea.
+# Límites de palabra: solo se anclan los patrones cuyo defecto es de SUBCADENA (coinciden dentro de otra palabra).
+# Historial: 2026-08-17 (A7, W2) `cuerda` → `\bcuerdas?\b` (11 falsos: recuerda/recuerdan/recuerdas/concuerdan; 1 verdadero: 04:99)
+#            2026-08-17 (A7, W2) `curar` → `\bcurar` (falso: procurar). El resto del ruido es de palabra real: se conserva a propósito.
+\bcuerdas?\b|\bcabo\b|cuchillo|navaja|cuchilla|\bhoja\b|\barma\b|\bcoche\b|\bgas\b|escape|ferry|naust|\bagua\b|\bmar\b|fiordo|hielo|fr[íi]o|acantilado|puente|carretera|Koppangen|\bUNN\b
 perd[óo]n|lo siento|os quiero|te quiero|\bcuidad\b|\bcuidaos\b|prometo|no es culpa|no llor|s[ée] fuerte
-explica|fases del duelo|superar|cerrar el duelo|pasar p[áa]gina|seguir adelante|sanar|curar|se[ñn]ales|pod[íi]ais haber|si hubier|deber[íi]ais
+explica|fases del duelo|superar|cerrar el duelo|pasar p[áa]gina|seguir adelante|sanar|\bcurar|se[ñn]ales|pod[íi]ais haber|si hubier|deber[íi]ais
 pecho|desnud|bes[óo]|\bbeso|guapa|labios|piernas|muslo|sujetador|ropa interior|\bsexo|sexual|novi[oa]s?\b
 alcohol|beb[ií]|borrach|fumar|porro|droga|cortarse|se cort[óo]|autolesi|vomit|dej[óo] de comer|no com[íi]a|adelgaz
