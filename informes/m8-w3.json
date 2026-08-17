@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w3",
+  "fecha": "2026-08-17T20:51:53",
+  "capitulos": 47,
+  "palabras": 77849,
+  "por_parte": {
+    "1": 19541,
+    "2": 18201,
+    "3": 21107,
+    "4": 19000
+  },
+  "objetivo": 85000,
+  "banda": [
+    84000,
+    86000
+  ],
+  "en_banda": false,
+  "salida": "compilado/ad-aeternum-w3.md"
+}

@@ -1,16 +1,4 @@
----
-capitulo: N1
-titulo: La primera cita
-pov: Maja
-fecha: 2060-12-04T15:00
-estado: en_oleada
-analepsis: false
-estado_plan: N
-proteccion: no
-ot: OT-N1
-delta_objetivo: +2200
-orden_lectura: 9.5
----
+## 11. La primera cita
 
 Maja rascó la escarcha del parabrisas con el canto de una tarjeta caducada. El motor llevaba cinco minutos en marcha y el cristal seguía empañado.
 
@@ -42,7 +30,7 @@ Las tiendas estaban abiertas y la gente cruzaba fuera de los pasos. En cada sem�
 
 Jessie tiró del cordón de la capucha hasta que el nudo se cerró del todo.
 
-El edificio estaba detrás de la biblioteca, entre un taller de bicicletas cerrado y un portal con dos placas. Maja comprobó el número en el terminal. Aparcó a dos calles y pagó hora y media en el parquímetro.
+El edificio estaba detrás de la biblioteca, entre un taller de bicicletas cerrado y un portal con dos placas. Maja comprobó el número en el terminal antes de apagar el motor. Aparcó a dos calles y pagó hora y media en el parquímetro.
 
 —¿Y si acaba antes?
 
