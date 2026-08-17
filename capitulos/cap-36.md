@@ -130,7 +130,7 @@ Coro intenta ocuparla.
 
 Sus ramas llegan acompasadas bajo una autoridad que el canal reconoce como estable. No presentan adhesiones individuales.
 
-Junto al expediente de plantilla aparece una transcripción sellada.
+Junto al expediente de plantilla de Jean aparece una transcripción sellada.
 
 `PLANTILLA OPERATIVA · PROPAGACIÓN LIMITADA ARGOS`
 
