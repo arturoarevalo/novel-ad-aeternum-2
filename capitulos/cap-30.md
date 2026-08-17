@@ -78,7 +78,7 @@ Una continuidad de contratos pregunta:
 
 —Si elegimos testificar, ¿apareceremos en el canal o podremos decidir dentro de él?
 
-Jean prueba dos variantes de la misma decisión desde `JM-L/0000`, una con el reparo y otra sin él, y cuando el canal empieza a coordinarlas solo recupera una.
+Jean prueba dos variantes de la misma decisión desde `JM-L/0000`, una con el reparo y otra sin él. El canal empieza a coordinarlas. Jean solo recupera una.
 
 —La firma exige convergencia —dice—. Cada adhesión entrega una decisión y sus condiciones. La procedencia queda registrada. Después del cierre no podrá revisarlas desde su trayectoria anterior.
 

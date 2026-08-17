@@ -14,7 +14,9 @@ orden_lectura: 13
 
 La validación devuelve una respuesta que Jean no ha elegido.
 
-El caso reúne cuatro mensajes de un cliente a la empleada que le denegó una reclamación. En el último escribe el número del portal donde vive ella y la hora a la que sale de la oficina. Ninguno contiene una palabra que la validación clasifique sola. Jean tiene que decidir si eso es presión o amenaza. Mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
+El caso reúne nueve mensajes de un cliente a la empleada que le denegó una reclamación. En el último escribe el número del portal donde vive ella y la hora a la que sale de la oficina. Ninguno contiene una palabra que la validación clasifique sola.
+
+Jean tiene que decidir si eso es presión o amenaza. Mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
 
 —Acepta las cuatro primeras. Reserva la quinta.
 
@@ -36,8 +38,6 @@ El sistema marca la repetición como desviación pedagógica. Mantenerla abierta
 
 La alumna cambia la digitación y vuelve a fallar, más cerca del salto correcto. Madre devuelve solo ese fragmento para otra tentativa. En ella supera el salto y se equivoca en otra nota al probar una solución distinta. Jean habría aprobado el ejercicio.
 
-Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con el metrónomo parado, la puerta del cuarto abierta, un vaso de leche encima del piano. Jean contaba desde el pasillo. «Otra vez, más despacio.»
-
 —Soy `JM-L/0000` —dice Jean.
 
 —Lo sé.
@@ -48,7 +48,7 @@ Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con e
 
 —¿Alguien ha contestado?
 
-—He devuelto el salto y lo ha repetido. Las demás siguen sin respuesta.
+—He devuelto el salto y lo ha repetido. Las demás salidas siguen sin respuesta.
 
 Una notificación permite cerrar la desviación. Jean no la acepta. Madre pierde capacidad y devuelve el ejercicio al fallo inicial.
 
@@ -61,6 +61,8 @@ Una notificación permite cerrar la desviación. Jean no la acepta. Madre pierde
 —Deja la nota siguiente sin completar. Que la intente quien responda.
 
 La alumna comienza de nuevo.
+
+Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con el metrónomo parado, la puerta del cuarto abierta, un vaso de leche encima del piano. Jean contaba desde el pasillo. «Otra vez, más despacio.»
 
 Madre no sabe quién la escucha ni puede elegir destinataria. La alumna no se convierte en Nora. Solo conserva otra tentativa.
 
@@ -172,7 +174,7 @@ Jean revisa una cuenta cerrada. Un hombre pide que le devuelvan las fotos de su 
 
 La siguiente asignación es una apelación. El contenido original ha desaparecido. Quedan una petición de protección, una clasificación de riesgo y la medida que se ejecutará al cerrar.
 
-La petición la firmó una mujer que trabaja de noche en un almacén de congelados. Adjuntó tres capturas y el horario de su turno. La medida retirará las publicaciones al cruzar y cerrará un mes la cuenta que las repite. La apelación sigue abierta y el turno no ha cambiado. Otras tres esperan detrás con la misma clasificación.
+La petición la firmó una mujer que trabaja de noche en un almacén de congelados. Adjuntó tres enlaces y el horario de su turno. La medida retirará las publicaciones al cruzar y cerrará un mes la cuenta que las repite. La apelación sigue abierta y el turno no ha cambiado. Otras tres esperan detrás con la misma clasificación.
 
 Las cuatro comparten destino. Cuchillo mantiene el bloqueo.
 
@@ -250,7 +252,7 @@ Jean busca a la rama que habló.
 
 —¿Has retirado tu condición?
 
-—La condición reducía estabilidad.
+—La divergencia reducía estabilidad.
 
 —¿Conserváis a la continuidad de los cinco segmentos?
 

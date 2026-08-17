@@ -40,7 +40,7 @@ El conocimiento incluye dónde falla, cuándo prevalece sobre la regla general y
 
 Trabaja. Los fallos alteran las entradas posteriores y una instrucción acaba por convertirse en costumbre, encuentra excepciones y desaparece. La siguiente trae errores ya corregidos. Falta la práctica que une ambas.
 
-Antes, practicar era otra cosa. El cuarto dedo de la derecha caía tarde en el quinto compás. Otra vez, más despacio, hasta que llegaba a tiempo solo. Una tarde entera para tres compases.
+Antes, practicar era otra cosa. El cuarto dedo de la derecha caía tarde. Otra vez, más despacio, hasta que llegaba a tiempo solo. Una tarde entera para tres compases.
 
 Primero debe mantener abierta una contradicción hasta recibir contexto. Después esa demora cuenta como fallo. Jean aprende cuándo aplicar cada criterio y acaba por prever el cambio. Luego reaparece y la previsión ya es inútil. Entre esos dos extremos hay práctica y deterioro, porque una asociación antes limpia vuelve mezclada con la norma que la sustituyó.
 
@@ -66,7 +66,7 @@ Mantiene `REVISAR` sin aceptarlo y espera otro caso médico. Los informes del nu
 
 Jean lo devuelve al concordante. `REVISAR` se desplaza con él y abandona el caso donde estaba.
 
-Cada intento desordena otra pieza. Para cerrar el rastro, Jean tendría que aceptar como propio un acto ausente y borrar la única diferencia que ha encontrado.
+Cada pieza que mueve desordena otra. Para cerrar el rastro, Jean tendría que aceptar como propio un acto ausente y borrar la única diferencia que ha encontrado.
 
 La tarea reduce el incidente a dos salidas.
 

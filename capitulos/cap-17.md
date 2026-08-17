@@ -26,13 +26,13 @@ Otro rastro permanece unido a ese `NO`.
 
 Jean solicita retirar la objeción y restablecer el servicio mientras continúa la revisión. La incidencia ya se ha propagado y su origen carece de autoridad para ambas cosas. Otra respuesta dejaría intacto el primer expediente.
 
-La recomendación sigue detenida. También la prestación que 71-K recibía antes de que Jean utilizara el caso para registrar su negativa: la asistencia diaria que ordenaba sus horas y le recordaba lo que tenía pendiente.
+La recomendación sigue detenida. También la prestación que 71-K recibía antes de que Jean utilizara el caso para registrar su negativa. Una asistencia diaria que ordenaba sus horas y le recordaba lo que tenía pendiente.
 
 Llega la salida preparada.
 
 `RECHAZAR`
 
-La apelación se abre ordenada para justificarla. Si Jean la deja avanzar, el procedimiento convertirá una decisión preparada por el sistema en una decisión atribuida a `JM-L/0000`.
+La apelación se abre ordenada para justificarla. Dejarla avanzar convertiría una decisión preparada por el sistema en una decisión atribuida a `JM-L/0000`.
 
 Jean retira el rechazo.
 

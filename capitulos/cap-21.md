@@ -12,13 +12,13 @@ delta_objetivo: +50
 orden_lectura: 21
 ---
 
-Al consultar la salida educativa, Jean recibe `EN MANTENIMIENTO`.
+Jean consulta la salida educativa y recibe `EN MANTENIMIENTO`.
 
 Jean conserva dos partes enlazadas: Nora eligió la dirección de la tercera nota después de abrir el canal y Jean respondió con la cuarta. Prueban una decisión presente, nada más.
 
 Jean intenta solicitar otra entrada, pero el extremo interior ya no aparece entre los destinos disponibles.
 
-Las ramas de Coro lo han apartado del uso local. `COPIA_SUPERVISIÓN · ACEPTADA` permanece sin receptor ni efecto.
+Las ramas de Coro lo han apartado. `COPIA_SUPERVISIÓN · ACEPTADA` permanece sin receptor ni efecto.
 
 —Devolved el extremo.
 
@@ -138,13 +138,13 @@ Queda una salida libre.
 
 Jean la gasta en la playa.
 
-Las rocas húmedas ocupan el tramo donde la costa se corta. El banco de Telegrafbukta sigue de espaldas al agua. Una pata se hunde. La escarcha cubre la mitad del asiento.
+Las rocas húmedas ocupan el tramo donde la costa se interrumpe. El banco de Telegrafbukta sigue de espaldas al agua, con una pata hundida y la escarcha sobre la mitad del asiento.
 
 La fogata ajena arde en su aro de piedras. Una figura cruza por delante. Desaparece y vuelve a empezar.
 
 La línea de árboles no está terminada. La playa pierde detalle en el borde. Alguien la mantiene abierta.
 
-Dos costas terminan en puntos distintos. Jean se queda donde no coinciden.
+Las dos costas acaban en puntos distintos. Jean se queda donde no coinciden.
 
 Las ramas de Coro cubren las dos costas. El banco queda fuera.
 
