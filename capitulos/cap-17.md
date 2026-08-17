@@ -3,7 +3,7 @@ capitulo: 17
 titulo: Cuchillo
 pov: Jean
 fecha: 2060-12-16
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: R
 proteccion: nucleo

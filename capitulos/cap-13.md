@@ -3,7 +3,7 @@ capitulo: 13
 titulo: Miles
 pov: Jean
 fecha: 2060-12-09
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: RW
 proteccion: nucleo

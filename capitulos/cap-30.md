@@ -3,7 +3,7 @@ capitulo: 30
 titulo: La asamblea
 pov: Jean
 fecha: 2061-01-12
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: RW
 proteccion: nucleo
