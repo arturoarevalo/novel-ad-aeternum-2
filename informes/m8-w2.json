@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w2",
+  "fecha": "2026-08-17T17:34:26",
+  "capitulos": 41,
+  "palabras": 63642,
+  "por_parte": {
+    "1": 15649,
+    "2": 16255,
+    "3": 14379,
+    "4": 17359
+  },
+  "objetivo": 85000,
+  "banda": [
+    84000,
+    86000
+  ],
+  "en_banda": false,
+  "salida": "compilado/ad-aeternum-w2.md"
+}
