@@ -12,3 +12,4 @@
 - 2026-08-17T21:20:16 · registrar cap-n2.md (Instituto) orden_lectura 16.5 · motivo: G-A2 2026-08-17 (informes/g-a2-gate.md; commit 72cb45a)
 - 2026-08-17T21:20:16 · registrar cap-n4.md (Interferencias) orden_lectura 25.5 · motivo: G-A2 2026-08-17 (informes/g-a2-gate.md; commit 72cb45a)
 - 2026-08-17T21:20:17 · registrar cap-n6.md (Acta) orden_lectura 40.5 · motivo: G-A2 2026-08-17 (informes/g-a2-gate.md; commit 72cb45a)
+- 2026-08-17T21:31:15 · registrar cap-n3.md (Inventario) orden_lectura 22.5 · motivo: G-A2 2026-08-17 aprobado por el autor; R1 (+1.200) incluida en el delta por decisión de G-A1

@@ -8,7 +8,7 @@ analepsis: false
 estado_plan: N
 proteccion: no
 ot: OT-N3
-delta_objetivo: +2300
+delta_objetivo: +3500
 orden_lectura: 22.5
 ---
 

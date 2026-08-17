@@ -11,7 +11,7 @@
 | Δ objetivo · presupuesto vF · banda de aceptación | +2.300 (tabla 5.1) **+ 1.200 (R1, APROBADA G-A1) = 3.500 palabras · banda [3.325–3.675]**. (Texto original de A2:) +2.300 · 2.300 palabras · **[1.955–2.645]**. **Si el autor activa R1 dentro de N3 (ver `ordenes/RESERVA.md`), el presupuesto pasa a 3.500 y la banda a [3.325–3.675]; el ledger de A0 manda** |
 | Oleada · escritor · editor de línea | W3 (cuarto) · **A3b** · A4 |
 | Gates que dispara | **A7 obligatorio y doble** (T7 nominal: N3; B7 §6 N3 íntegro; **protocolo de la bolsa/efectos: A7 autoriza o veta la frase literal por escrito en `informes/a7-w3-n3.md` ANTES de integrar N3**) · A5 (M7; canon nuevo: procedencia de las cajas; casa de Tromsøya; salón de 23) · A8 · **G-A1 (autor): recuerdo dramatizado de Jean viva con las gemelas ≤ 300 palabras (propuesta) y R1** |
-| Frontmatter obligatorio del fichero nuevo | `capitulo: N3` · `titulo: Inventario` · `pov: Maja` · `fecha: 2060-12-29` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N3` · `delta_objetivo: +2300` · `orden_lectura: 22.5` |
+| Frontmatter obligatorio del fichero nuevo | `capitulo: N3` · `titulo: Inventario` · `pov: Maja` · `fecha: 2060-12-29` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N3` · `delta_objetivo: +3500` (R1 incluida: APROBADA por el autor en G-A1; el bloque de §0 decía +2300 y contradecía a la propia cabecera de la OT — corregido por A0 el 2026-08-17, simétrico a OT-N4 con R4) · `orden_lectura: 22.5` |
 | Estado de la OT | pendiente |
 
 ## 1. Diagnóstico (cifras de D1 y lectura de A2)
