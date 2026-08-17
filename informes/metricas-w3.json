@@ -1,6 +1,6 @@
 {
  "etiqueta": "w3",
- "generado": "2026-08-17T20:57:45",
+ "generado": "2026-08-17T21:31:47",
  "M1": {
   "lexicon": "biblia/b3-lexicon.json",
   "n_terminos_lexicon": 117,
@@ -3069,7 +3069,7 @@
    86000
   ],
   "en_banda": false,
-  "suma_presupuestos": 68150,
+  "suma_presupuestos": 82650,
   "por_capitulo": {
    "cap-01.md": {
     "real": 746,
@@ -3108,8 +3108,8 @@
    },
    "cap-n5.md": {
     "real": 1822,
-    "presupuesto": null,
-    "delta": null
+    "presupuesto": 1900,
+    "delta": -78
    },
    "cap-08.md": {
     "real": 1017,
@@ -3123,8 +3123,8 @@
    },
    "cap-n1.md": {
     "real": 2065,
-    "presupuesto": null,
-    "delta": null
+    "presupuesto": 2200,
+    "delta": -135
    },
    "cap-10.md": {
     "real": 1341,
@@ -3163,8 +3163,8 @@
    },
    "cap-n2.md": {
     "real": 1946,
-    "presupuesto": null,
-    "delta": null
+    "presupuesto": 2000,
+    "delta": -54
    },
    "cap-17.md": {
     "real": 844,
@@ -3198,8 +3198,8 @@
    },
    "cap-n3.md": {
     "real": 3572,
-    "presupuesto": null,
-    "delta": null
+    "presupuesto": 3500,
+    "delta": 72
    },
    "cap-23.md": {
     "real": 1847,
@@ -3218,8 +3218,8 @@
    },
    "cap-n4.md": {
     "real": 3156,
-    "presupuesto": null,
-    "delta": null
+    "presupuesto": 3200,
+    "delta": -44
    },
    "cap-26.md": {
     "real": 1704,
@@ -3298,8 +3298,8 @@
    },
    "cap-n6.md": {
     "real": 1641,
-    "presupuesto": null,
-    "delta": null
+    "presupuesto": 1700,
+    "delta": -59
    },
    "cap-41.md": {
     "real": 704,
@@ -3315,24 +3315,18 @@
  "M10": {
   "total": 83,
   "por_estado": {
-   "PENDIENTE-ASIGNAR": 13,
-   "PAGADO": 62,
+   "PAGADO": 68,
+   "PENDIENTE-ASIGNAR": 7,
    "SIN-PAGO-INTENCIONAL": 8
   },
-  "pct_cerrado": 84.3,
+  "pct_cerrado": 91.6,
   "pendientes": [
-   "CH-1",
    "CH-2",
    "CH-3",
    "CH-4",
    "CH-5",
    "CH-6",
-   "CH-26",
-   "CH-27",
-   "CH-28",
    "CH-31",
-   "CH-46",
-   "CH-47",
    "CH-75"
   ]
  }

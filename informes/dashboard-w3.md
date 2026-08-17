@@ -1,10 +1,10 @@
 # Dashboard de métricas · w3
 
-_Generado 2026-08-17T20:57:45 · baseline de comparación: v0_
+_Generado 2026-08-17T21:31:47 · baseline de comparación: v0_
 
 ## M8 · Palabras
 
-- Total: **77844** · objetivo 85000 (banda 84000–86000) → 🔴 · suma de presupuestos del manifiesto: 68150
+- Total: **77844** · objetivo 85000 (banda 84000–86000) → 🔴 · suma de presupuestos del manifiesto: 82650
 
 ## M1 · Opacidad (términos de sistema por 1.000 palabras) — objetivo T1: −30 % en 8, 13, 17, 21, 30, 36 (cap. 5 = referencia)
 
@@ -191,7 +191,7 @@ M9 OK · 8 ficheros íntegros · 108 spans íntegros
 
 ## M10 · Ledger Chéjov — 🟡
 
-- {'total': 83, 'por_estado': {'PENDIENTE-ASIGNAR': 13, 'PAGADO': 62, 'SIN-PAGO-INTENCIONAL': 8}, 'pct_cerrado': 84.3, 'pendientes': ['CH-1', 'CH-2', 'CH-3', 'CH-4', 'CH-5', 'CH-6', 'CH-26', 'CH-27', 'CH-28', 'CH-31', 'CH-46', 'CH-47', 'CH-75']}
+- {'total': 83, 'por_estado': {'PAGADO': 68, 'PENDIENTE-ASIGNAR': 7, 'SIN-PAGO-INTENCIONAL': 8}, 'pct_cerrado': 91.6, 'pendientes': ['CH-2', 'CH-3', 'CH-4', 'CH-5', 'CH-6', 'CH-31', 'CH-75']}
 
 ## M8 · Real vs presupuesto por capítulo
 
@@ -204,10 +204,10 @@ M9 OK · 8 ficheros íntegros · 108 spans íntegros
 | cap-05.md | 1782 | 1782 | 0 |
 | cap-06.md | 2021 | 2221 | -200 |
 | cap-07.md | 1610 | 1710 | -100 |
-| cap-n5.md | 1822 | None | — |
+| cap-n5.md | 1822 | 1900 | -78 |
 | cap-08.md | 1017 | 967 | 50 |
 | cap-09.md | 1861 | 1861 | 0 |
-| cap-n1.md | 2065 | None | — |
+| cap-n1.md | 2065 | 2200 | -135 |
 | cap-10.md | 1341 | 1441 | -100 |
 | cap-11.md | 1818 | 2068 | -250 |
 | cap-12.md | 1896 | 2046 | -150 |
@@ -215,18 +215,18 @@ M9 OK · 8 ficheros íntegros · 108 spans íntegros
 | cap-14.md | 1703 | 1803 | -100 |
 | cap-15.md | 1135 | 1335 | -200 |
 | cap-16.md | 1758 | 1908 | -150 |
-| cap-n2.md | 1946 | None | — |
+| cap-n2.md | 1946 | 2000 | -54 |
 | cap-17.md | 844 | 850 | -6 |
 | cap-18.md | 2030 | 2180 | -150 |
 | cap-19.md | 2016 | 2166 | -150 |
 | cap-20.md | 1493 | 1493 | 0 |
 | cap-21.md | 736 | 707 | 29 |
 | cap-22.md | 1449 | 1749 | -300 |
-| cap-n3.md | 3572 | None | — |
+| cap-n3.md | 3572 | 3500 | 72 |
 | cap-23.md | 1847 | 1847 | 0 |
 | cap-24.md | 1665 | 1965 | -300 |
 | cap-25.md | 890 | 990 | -100 |
-| cap-n4.md | 3156 | None | — |
+| cap-n4.md | 3156 | 3200 | -44 |
 | cap-26.md | 1704 | 1904 | -200 |
 | cap-27.md | 1786 | 1936 | -150 |
 | cap-28.md | 1463 | 1613 | -150 |
@@ -242,5 +242,5 @@ M9 OK · 8 ficheros íntegros · 108 spans íntegros
 | cap-38.md | 1321 | 1421 | -100 |
 | cap-39.md | 1548 | 1748 | -200 |
 | cap-40.md | 1724 | 1874 | -150 |
-| cap-n6.md | 1641 | None | — |
+| cap-n6.md | 1641 | 1700 | -59 |
 | cap-41.md | 704 | 704 | 0 |
