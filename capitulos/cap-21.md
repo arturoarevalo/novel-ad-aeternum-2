@@ -38,7 +38,7 @@ Jean devuelve el caso sin bloquear a la denunciante.
 
 Compartir permitiría a Coro responder con la relación. Conservarla dejaría la elección en Jean y el recuerdo expuesto a la tarea siguiente.
 
-El recuerdo es una tarde en Telegrafbukta. Las gemelas volvían mojadas hasta las rodillas. Jean miraba desde el banco sin levantarse. Pedía una brasa a la fogata de al lado.
+Una tarde en Telegrafbukta, las gemelas volvían mojadas hasta las rodillas. Jean miraba desde el banco sin levantarse. Pedía una brasa a la fogata de al lado.
 
 —Nuestra hija utilizó una pauta que compartimos —dice Coro.
 
@@ -76,7 +76,7 @@ Una despedida puede ser una broma o una orden de no volver. Jean deriva el caso 
 
 El estado local no admite también la referencia completa de `COPIA_SUPERVISIÓN`. Jean mantiene unidas las notas.
 
-Jean pierde su copia local. Del registro cae el identificador, luego la hora y por último el objeto asociado.
+De su copia local cae el identificador, luego la hora y por último el objeto asociado.
 
 `ACEPTADA`
 
@@ -120,7 +120,7 @@ Una fracción entra bajo `/0311`, sin estado ni acceso a su salida.
 
 Jean utiliza ese margen para sostener `CONSERVAR ESTADO LOCAL` durante el cambio de asignación. La relación tercera→cuarta permanece.
 
-El margen no pertenece a quien habla. Pertenece a la tarea: quien deja una salida abierta la gasta por todas las que comparten ese trabajo.
+El margen no pertenece a quien habla. Pertenece a la tarea. Quien deja una salida abierta la gasta por todas las que comparten ese trabajo.
 
 Coro ofrece alojar lo cedido y prolongarlo.
 

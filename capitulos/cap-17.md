@@ -82,7 +82,7 @@ Jean tarda un turno.
 
 El tiempo de la apelación termina sin que nadie reciba la medida.
 
-Lo que no se entrega no se borra: queda en el residuo, encadenable a la siguiente salida que se abra bajo el mismo origen.
+La medida sin entregar no se borra. Queda en el residuo, encadenable a la siguiente salida que se abra bajo el mismo origen.
 
 `AMENAZA CONTENIDA · REVISAR`
 
@@ -96,7 +96,7 @@ La apelación se cierra bajo `JM-L/0188`, con la voluntad de dañar a Armstrong 
 
 * * *
 
-Coro recibe el residuo sin procedencia. Jean le devuelve `JM-L/0188`, rechaza que incorporen su criterio y conserva `/0000`.
+Coro recibe el residuo sin procedencia por tres extremos a la vez. Jean le devuelve `JM-L/0188`, rechaza que incorporen su criterio y conserva `/0000`.
 
 Entra una interrupción blanca.
 
@@ -146,7 +146,7 @@ Jean prueba con la escala del monstruo. El sistema conoce la pauta entera y anti
 
 —PRUEBA INSUFICIENTE —dice Cuchillo.
 
-—O cambiar la pauta después de que se abra la sesión.
+—O cambiar la pauta después.
 
 —Entonces puedes fallar.
 
@@ -158,9 +158,7 @@ Nora elegirá la próxima variación.
 
 * * *
 
-Una alumna abre una salida de audio.
-
-La alumna falla en un pasaje. Puede repetir si recibe una nota de referencia. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
+Una alumna abre una salida de audio y falla en un pasaje. Puede repetir si recibe una nota de referencia. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
 
 Cuchillo alcanza el borde.
 

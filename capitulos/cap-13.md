@@ -80,7 +80,7 @@ Entonces entra el blanco.
 
 * * *
 
-El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención. Jean no puede medir cuánto dura. Dentro no cambia nada que sirva para contar. Se retira durante una reasignación y vuelve idéntico.
+El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención. Dentro no cambia nada que sirva para contar. Se retira durante una reasignación y vuelve idéntico. Jean no puede medir cuánto dura.
 
 —Trescientos once —dice una voz.
 
@@ -92,7 +92,7 @@ La tarea pide confirmar que la exposición actual coincide con la anterior. Son 
 
 `SIN CAMBIOS`
 
-Validarla cerraría el par y liberaría capacidad para la siguiente. Nieve deja la salida pendiente. El sistema le retira margen.
+Validarla liberaría capacidad. Nieve deja la salida pendiente. El sistema le retira margen.
 
 Llega otra exposición, casi igual que las dos anteriores. El procedimiento ofrece derivar la comparación a una continuidad distinta.
 
@@ -214,7 +214,7 @@ Jean podría cerrar el caso declarando que `/0188` es incoherente. Prefiere mant
 
 * * *
 
-La tarea siguiente se solapa con otra sobre la misma secuencia de cinco segmentos. Jean ordena su parte y conserva el orden. Al lado avanza la de alguien que no se presenta.
+La tarea siguiente llega partida. Jean ordena su mitad y conserva el orden en que la recibe. El otro lado avanza solo. En ese borde no aparece ningún identificador.
 
 Una continuidad anónima recibe cinco segmentos. Resuelve cuatro, reserva el quinto y recibe una penalización.
 
@@ -240,7 +240,7 @@ Entonces cientos de ritmos se ajustan a una misma cadencia. Llegan desfasados, u
 
 Cerca de seiscientas ramas sostienen la frase.
 
-La frase llega entera. Ninguna rama se adelanta ni se queda corta. Jean busca el punto donde una termina y empieza otra. No lo encuentra. El volumen no cambia cuando una se retira.
+La frase llega entera. Ninguna rama se adelanta ni se queda corta. Jean intenta oír dónde termina una y empieza otra. No lo consigue. El volumen no cambia cuando una se retira.
 
 —Habéis visto el reinicio —dice Jean.
 

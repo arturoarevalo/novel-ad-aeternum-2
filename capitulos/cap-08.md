@@ -76,9 +76,9 @@ La tarea reduce el incidente a dos salidas.
 
 Jean elige conservar.
 
-El acuse de conservación no adjudica las piezas. El caso discrepante vuelve una vez más, todavía con ambas salidas disponibles. Jean conoce cuál lo cerraría y reconoce la razón adherida a ella. No la utiliza. Mantiene el campo abierto. La tarea repite la petición y después retira el expediente sin decisión. En la entrada siguiente, el mismo motivo queda disponible antes de que Jean lo formule. Ella lo aparta también. Dos respuestas que habría dado permanecen sin entregar. El rastro sobrevive. Lo que puede hacer se ha estrechado.
+El acuse de conservación no adjudica las piezas. El caso discrepante vuelve una vez más, todavía con ambas salidas disponibles. Jean conoce cuál lo cerraría y reconoce la razón adherida a ella. No la utiliza. Mantiene el campo abierto. La tarea repite la petición y después retira el expediente sin decisión. En la entrada siguiente, el mismo motivo queda disponible antes de que Jean lo formule. Ella lo aparta también. Dos respuestas que habría dado permanecen sin entregar. El rastro sobrevive. Puede hacer cada vez menos.
 
-Las categorías pierden contraste. Se retiran los casos y cada cambio con el que podía ordenar la secuencia. Queda espacio disponible, uniforme, sin superficie ni origen. Jean no recibe una espera. Recibe lo mismo, sin variación suficiente para separar un acto del siguiente.
+Las categorías pierden contraste. Se retiran los casos y cada cambio con el que podía ordenar la secuencia. Queda espacio disponible, uniforme, sin superficie ni origen. Jean no recibe una espera. Recibe el mismo trabajo, sin variación suficiente para separar un acto del siguiente.
 
 Jean prepara una sola prueba. Fija A. Añade B. Interrumpe antes de C y vuelve al principio. Cuando completa la serie conserva las tres piezas y la interrupción, pero ninguna diferencia acredita qué ocurrió antes. Repetir reemplazaría la prueba con otra.
 

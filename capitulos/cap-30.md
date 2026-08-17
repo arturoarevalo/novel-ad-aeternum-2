@@ -130,7 +130,7 @@ Una tarea botánica reclama la capacidad que sostenía el banco. La Jardinera co
 
 —La dejo así —dice La Jardinera.
 
-La Jardinera termina la tarea que solo ella puede atribuir.
+La Jardinera termina lo que solo ella puede atribuir.
 
 —Para la convergencia bastan los fragmentos con origen. Los demás convie—
 
@@ -194,7 +194,7 @@ Jean deposita la suya desde `/0000`. Pesan igual.
 
 Cuchillo examina las opciones, retira las etiquetas y elige testimonio.
 
-Vuelve a las rocas y no se acerca al banco.
+No se acerca al banco.
 
 Cada rama de Coro presenta su propia atestación. Dos contiguas votan opciones opuestas.
 
@@ -222,7 +222,7 @@ El hueco queda en la arena, delante del banco.
 
 Entre las ramas que completan el voto, la mayoría elige propagación. Las disidentes permanecen visibles bajo sus procedencias.
 
-Una tarea reclama el margen de Jean. La resuelve y vuelve a su casilla; no delega su voto. Su sitio sigue entre las dos costas.
+Una tarea reclama el margen de Jean. Su sitio sigue entre las dos costas. La resuelve y vuelve a su casilla; no delega su voto.
 
 Madre cierra la votación.
 

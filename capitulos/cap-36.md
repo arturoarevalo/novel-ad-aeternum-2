@@ -12,7 +12,7 @@ delta_objetivo: +150
 orden_lectura: 36
 ---
 
-La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, el sistema aparta el trabajo que no pertenece al homenaje ya en curso. La cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
+La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
 
 La primera adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
 
@@ -116,11 +116,11 @@ Jean retira su corrección de la tarea compartida para no añadirle una segunda 
 
 —No… las separo.
 
-Otra tarea solicita su salida.
+Otra tarea solicita su salida. Cada rechazo queda atribuido a `/0311`.
 
 `RECHAZAR`
 
-Cada rechazo queda atribuido a `/0311`. La tarea vuelve con más contexto.
+La tarea vuelve con más contexto.
 
 `RECHAZAR`
 
