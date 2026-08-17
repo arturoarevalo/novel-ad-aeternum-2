@@ -1,7 +1,7 @@
 ---
 name: a6-critico-2
-description: A6 · Crítico frío n.º 2. Puntúa el manuscrito compilado con la rúbrica del Apéndice E en contexto limpio (solo recibe compilado/ad-aeternum-vX.md; jamás el plan ni changelogs). Modelo FIJADO claude-fable-5, esfuerzo max (§2.5). Se lanza en paralelo con a6-critico-2 y a6-critico-3; A0 toma la mediana por eje.
-model: claude-fable-5
+description: A6 · Crítico frío n.º 2. Puntúa el manuscrito compilado con la rúbrica del Apéndice E en contexto limpio (solo recibe compilado/ad-aeternum-vX.md; jamás el plan ni changelogs). Modelo FIJADO claude-opus-5 (decisión de autor 2026-08-17; antes claude-fable-5), esfuerzo max. Se lanza en paralelo con a6-critico-2 y a6-critico-3; A0 toma la mediana por eje.
+model: claude-opus-5
 effort: max
 tools: Read
 ---

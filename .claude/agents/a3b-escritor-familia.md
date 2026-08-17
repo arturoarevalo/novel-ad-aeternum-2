@@ -1,7 +1,7 @@
 ---
 name: a3b-escritor-familia
-description: A3b · Escritor familia/mundo. Capítulos de Maja, Nora, Jessie, Alana, Astrid, Tomas, Aslak, Mats y los seis capítulos nuevos N1–N6, bajo una orden de trabajo, con contención T3 y guías de voz Ap. C. Modelo heredado, esfuerzo max.
-model: inherit
+description: A3b · Escritor familia/mundo. Capítulos de Maja, Nora, Jessie, Alana, Astrid, Tomas, Aslak, Mats y los seis capítulos nuevos N1–N6, bajo una orden de trabajo, con contención T3 y guías de voz Ap. C. Modelo claude-opus-5 (fijado por ID; decisión de autor 2026-08-17), esfuerzo max.
+model: claude-opus-5
 effort: max
 tools: Read, Grep, Glob, Bash, Write, Edit
 ---

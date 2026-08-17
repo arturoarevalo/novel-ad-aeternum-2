@@ -1,6 +1,6 @@
 # G-A1 · Gate de autor n.º 1 (tras la Fase 2): mapa de intervenciones, capítulos nuevos y ledger
 
-**A0 · 2026-08-16 · rama `f2-plan-estructural` (solo `ordenes/` e `informes/`; cero prosa tocada; M9 OK).** Según §7.5 del plan, en G-A1 el autor aprueba **posiciones y temas de N1–N6 y las decisiones del ledger Chéjov** — no borradores, solo el mapa. Este informe resume el paquete de la Fase 2 (`informes/f2-mapa-intervenciones.md`, 47 OT en `ordenes/`, `ordenes/RESERVA.md`) y las decisiones que se le piden. **Hasta su aprobación no se fusiona la rama ni arranca W2.**
+**A0 · 2026-08-16 · rama `f2-plan-estructural` (solo `ordenes/` e `informes/`; cero prosa tocada; M9 OK).** Según §7.5 del plan, en G-A1 el autor aprueba **posiciones y temas de N1–N6 y las decisiones del ledger Chéjov** — no borradores, solo el mapa. Este informe resume el paquete de la Fase 2 (`informes/f2-mapa-intervenciones.md`, 47 OT en `ordenes/`, `ordenes/RESERVA.md`) y las decisiones que se le piden. **APROBADO por el autor el 2026-08-17** (todas las recomendaciones de A0; decisiones registradas en `informes/registro-gates-autor.md`; ajustes aplicados en `ordenes/` incl. la nueva `OT-25b.md`; rama fusionada en `main`). Por instrucción del autor, **W2 no arranca hasta nueva orden** (cambio de modelos de los agentes a `claude-opus-5` y reinicio de la sesión).
 
 ## 1. Qué hay que aprobar (resumen ejecutivo)
 

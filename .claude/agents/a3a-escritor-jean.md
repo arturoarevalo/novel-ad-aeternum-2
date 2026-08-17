@@ -1,7 +1,7 @@
 ---
 name: a3a-escritor-jean
-description: A3a · Escritor Jean-POV. Redacta/expande/reescribe capítulos de Jean y de las continuidades (Madre, Nieve, Cuchillo, Coro, La Jardinera) bajo T1, M1/M2 y el catálogo de anclajes (Ap. D), siguiendo una orden de trabajo. Modelo heredado, esfuerzo max.
-model: inherit
+description: A3a · Escritor Jean-POV. Redacta/expande/reescribe capítulos de Jean y de las continuidades (Madre, Nieve, Cuchillo, Coro, La Jardinera) bajo T1, M1/M2 y el catálogo de anclajes (Ap. D), siguiendo una orden de trabajo. Modelo claude-opus-5 (fijado por ID; decisión de autor 2026-08-17), esfuerzo max.
+model: claude-opus-5
 effort: max
 tools: Read, Grep, Glob, Bash, Write, Edit
 ---

@@ -4,8 +4,8 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 ## Situación
 
-- **Fase actual:** **FASE 2 ENTREGADA — G-A1 PENDIENTE DE DECISIÓN DEL AUTOR** (`informes/g-a1-gate.md`; rama `f2-plan-estructural`, sin fusionar). W1 (F0 + F1) cerrada y en `main` (G0, G1 aprobados).
-- **Rama:** `f2-plan-estructural` (Fase 2: solo `ordenes/` e `informes/`; merge a `main` tras G-A1). W1 (`w1-biblia-diagnostico`) fusionada en `main`.
+- **Fase actual:** **G-A1 APROBADO (2026-08-17) y Fase 2 fusionada en `main`. W2 NO arrancada: el autor reinicia la sesión con los agentes en `claude-opus-5` y dará la orden.** W1 (F0 + F1) cerrada (G0, G1 aprobados).
+- **Rama:** `main` (W1 y F2 fusionadas). La siguiente rama será `w2-reescrituras` cuando el autor ordene arrancar W2.
 - **Baseline:** tag `v0` (61e446f). Recuento canónico v0: 62.750 palabras.
 - **Última versión aceptada:** v0.
 
@@ -38,11 +38,11 @@ B0 `informes/b0-discrepancias.md` · B1 `biblia/b1-cronologia.md` · B2 `biblia/
 - **Gate:** `informes/g1-gate.md` APROBADO; decisiones del autor en `informes/registro-gates-autor.md` (M6b ≥ 60 %; jurado frío como baseline; R2 provisional; escena de Jean viva → brief N3/N1 para G-A1; coche gris → N4; **bolsa/efectos personales SÍ aparecen en vF bajo protocolo A7**; A6b en el primer hito).
 - **Tras la aprobación de G1:** merge de `w1-biblia-diagnostico` en `main`; después Fase 2 (A2: 47 OT + briefs N1–N6) → **G-A1** (autor).
 
-## F2 · Plan estructural ENTREGADO — G-A1 pendiente (2026-08-16, sesión 3)
+## F2 · Plan estructural — G-A1 APROBADO (2026-08-17)
 
-- 47 OT en `ordenes/` (plantilla `ordenes/PLANTILLA-OT.md`), briefs N1–N6, `ordenes/RESERVA.md`, `informes/f2-mapa-intervenciones.md` (tabla maestra generada con `herramientas/lib/mapa_ot.py --md`), `informes/g-a1-gate.md`. Σ Δ = +17.900 → 80.650; con reserva entera 84.650. 163 intervenciones etiquetadas; ningún span requiere liberación. Arbitraje A0: la línea de registro de N4 en 36 entra en W5 (nota en OT-36 §5); OT-26 es W5.
-- **Decisiones pedidas al autor en G-A1** (`g-a1-gate.md` §1): A posiciones/temas N1–N6 (N6 POV Aslak) · B recuerdo de Jean viva en N3 (candidato A) · C reserva R1–R5 con posiciones (R1 en N3; R2 cola de 25 como OT-25b) · D ledger (CH-31/44/76/2/48) · E sin liberaciones de spans · F N4 (mecánica única, sin espejo, inspección → 26/N6, cuenta restituida dentro) · G bolsa/efectos ya decidido (protocolo A7) · H ajustes menores (OT-30 +160…+240; M6-continuidades ≥ 75 % en 13; OT-37 → A3b; A6b tras W2; amistad Maja–Alana no en 6) · I merge y W2.
-- **Tras la aprobación:** registrar decisiones; ajustar OT afectadas (+ OT-25b si procede); merge `f2-plan-estructural` → `main`; rama `w2-reescrituras`; `inyectar-frontmatter.sh --set cap-NN.md estado=en_oleada` para 8, 13, 17, 21, 30, 36; W2 con A3a en el orden 8, 13, 30, 17, 21, 36 → A4 → A5 → A8 → lector frío ×6 + A6×3 frío → gate W2.
+- 47 OT + `ordenes/OT-25b.md` (R2, coda de 25) en `ordenes/` (plantilla `ordenes/PLANTILLA-OT.md`), briefs N1–N6, `ordenes/RESERVA.md` (R1–R5 aprobadas: R1 en N3 → 3.500; R2 OT-25b; R3 22/28/40; R4 diferida a A6b; R5 condicionada a W2), `informes/f2-mapa-intervenciones.md` (`herramientas/lib/mapa_ot.py --md`), `informes/g-a1-gate.md`. Σ Δ = +17.900 → 80.650; con reserva 84.650. 163 intervenciones etiquetadas; ningún span requiere liberación. Ajustes G-A1 aplicados: OT-N3 (I-5 candidato A aprobado; R1 dentro), OT-N6 (POV Aslak), OT-22/28/40 (R3 aprobada), OT-27 (R1 alternativa cancelada), OT-06 (amistad reservada a 20/N3), OT-25 §5 (R2 → OT-25b), OT-N4 (espejo solo si R4), OT-36 §5 (ripple N4 en W5).
+- **Modelos (decisión de autor 2026-08-17):** ningún agente en `claude-fable-5`; ver CLAUDE.md «Modelos y esfuerzo». Re-baseline de v0 con el nuevo jurado: `informes/a6-v0-baseline-opus5.md` (A6-1/2 opus-5 + A6-3 opus-4-8).
+- **Pendiente de la orden del autor:** arrancar W2 (rama `w2-reescrituras`; `inyectar-frontmatter.sh --set cap-NN.md estado=en_oleada` para 8, 13, 17, 21, 30, 36; A3a en el orden 8, 13, 30, 17, 21, 36; A4; A5; A8; lector frío ×6 + A6×3 frío + A6b ×4 (con v0 en paralelo, para asignar R4); gate W2: M1 −30 %, lector frío ≥ 3, Ritmo ≥ 7,5, Tema sin caída, ningún eje −0,5).
 
 ## Registro de consumo (orientativo)
 

@@ -6,12 +6,12 @@
 |---|---|
 | OT | OT-N6 |
 | Capítulo · fichero · orden de lectura | N6 · `capitulos/cap-n6.md` · **40.5** (tras 40 «Sombra», antes de 41 «El siguiente Soldagen»; Parte IV) |
-| POV · fecha (frontmatter) | **Aslak** (recomendación A2: primer POV de Aslak del libro; **decisión de autor G-A1**; alternativa: Maja «invitada») · `2061-05-11` (**miércoles**, día de sesión: 40:137 «El miércoles nos escuchan»; primavera, luz larga; ventana admisible B1: cualquier fecha ≥ `2061-04` y anterior a octubre de 2061 —41:101 «Llevas diciendo eso desde octubre»—; posterior a la «segunda sesión» de marzo de 40:175) |
+| POV · fecha (frontmatter) | **Aslak** (**APROBADO en G-A1 por el autor, 2026-08-17**: primer POV de Aslak del libro; la alternativa Maja «invitada» queda descartada) · `2061-05-11` (**miércoles**, día de sesión: 40:137 «El miércoles nos escuchan»; primavera, luz larga; ventana admisible B1: cualquier fecha ≥ `2061-04` y anterior a octubre de 2061 —41:101 «Llevas diciendo eso desde octubre»—; posterior a la «segunda sesión» de marzo de 40:175) |
 | estado_plan · proteccion | N · no |
 | Δ objetivo · presupuesto vF · banda de aceptación | +1.700 · 1.700 palabras · **[1.445–1.955]** |
 | Oleada · escritor · editor de línea | W3 (sexto y último) · **A3b** · A4 |
 | Gates que dispara | A7 (pase breve: B7 §6 «N2 y N6»: titulares sin causa ni método; ninguna foto «del lugar»; el debate público persona/activo sin editorial) · A5 (M7: ventana 40→41; canon del kystbrukslag y de la servidumbre de 2057: 26:87-121, 16:133, 37:141, 40:135-141, 40:161, 40:175; 41:95-103) · A8 (M1 ≤ 6,0; M2 = 0; **0 cierres-objeto**) · **G-A1**: POV y contenido del acta (canon del hilo sjøsamisk) |
-| Frontmatter obligatorio del fichero nuevo | `capitulo: N6` · `titulo: Acta` · `pov: Aslak` (o `Maja` si G-A1 lo decide) · `fecha: 2061-05-11` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N6` · `delta_objetivo: +1700` · `orden_lectura: 40.5` |
+| Frontmatter obligatorio del fichero nuevo | `capitulo: N6` · `titulo: Acta` · `pov: Aslak` (decisión G-A1) · `fecha: 2061-05-11` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N6` · `delta_objetivo: +1700` · `orden_lectura: 40.5` |
 | Estado de la OT | pendiente |
 
 ## 1. Diagnóstico (cifras de D1 y lectura de A2)

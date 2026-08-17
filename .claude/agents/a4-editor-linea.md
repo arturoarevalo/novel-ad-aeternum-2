@@ -1,7 +1,7 @@
 ---
 name: a4-editor-linea
-description: A4 · Editor de línea. Estilo, tics (M4), ritmo, guías de voz (Ap. C), huella estilística B6, cohesión de costuras entre lo viejo y lo nuevo, lista negra de clichés. Trabaja por orden de trabajo. Modelo heredado, esfuerzo high.
-model: inherit
+description: A4 · Editor de línea. Estilo, tics (M4), ritmo, guías de voz (Ap. C), huella estilística B6, cohesión de costuras entre lo viejo y lo nuevo, lista negra de clichés. Trabaja por orden de trabajo. Modelo claude-opus-5 (fijado por ID; decisión de autor 2026-08-17), esfuerzo high.
+model: claude-opus-5
 effort: high
 tools: Read, Grep, Glob, Bash, Write, Edit
 ---

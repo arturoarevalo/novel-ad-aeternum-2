@@ -70,10 +70,11 @@ Nota de A2: el plan §5.2 sumaba +18.250 (reescrituras +750, recortes −900) fr
 
 **Imprescindibles para entrar en banda:** R1 + R2 + R4 y al menos uno de R3/R5 (≥ 84.000). **Recomendación de A2:** aprobar en G-A1 las cinco partidas con sus posiciones y dejar a A0 la orden de ejecución por oleada; si el autor rechaza R1 en N3, R1 va a 27; si rechaza R2 en 25, CH-31 pasa a SIN-PAGO-INTENCIONAL (textura) y la banda exige R4 + R3 + R5 + N-capítulos en la mitad alta de sus bandas (no recomendable).
 
-## 3. Registro de decisiones que se piden al autor en G-A1 (esta hoja)
+## 3. Decisiones del autor en G-A1 (2026-08-17) — TODAS APROBADAS
 
-- R1: activar; posición N3 (recomendada) o 27.
-- R2: confirmar; posición cola de 25 (recomendada) o 29.5.
-- R3: activar (22/28/40).
-- R4: activar con asignación diferida a A6b (N2 o N4).
-- R5: activar con ejecución condicionada al gate de W2.
+- R1: **activada, dentro de N3** (`OT-N3.md` escena 3 dramatizada; N3 → 3.500). La alternativa 27 queda cancelada (`OT-27.md` I-4).
+- R2: **confirmada, cola de 25 como `ordenes/OT-25b.md`** (+900, W4).
+- R3: **activada** (`OT-22.md` I-5 +150, `OT-28.md` I-5 +200, `OT-40.md` I-5 +250; W4/W5).
+- R4: **activada con asignación diferida** a los A6b (N2 o N4), antes de W3.
+- R5: **activada, ejecución condicionada** al gate de W2 (solo donde el lector frío lo pida).
+- Ledger: 62.750 + 17.900 + 4.000 = **84.650** (banda 84.000–86.000).

@@ -1,7 +1,7 @@
 ---
 name: a7-sensibilidad
-description: A7 · Revisor de sensibilidad con VETO absoluto (T7, Apéndice F). Revisa toda oleada que toque caps. 1–10, N1, N3, 38, recursos finales o cualquier mención al acto; firma B7 y el paquete de sensibilidad final. Modelo heredado, esfuerzo max (§2.5).
-model: inherit
+description: A7 · Revisor de sensibilidad con VETO absoluto (T7, Apéndice F). Revisa toda oleada que toque caps. 1–10, N1, N3, 38, recursos finales o cualquier mención al acto; firma B7 y el paquete de sensibilidad final. Modelo claude-opus-5 (fijado por ID; decisión de autor 2026-08-17), esfuerzo max (§2.5).
+model: claude-opus-5
 effort: max
 tools: Read, Grep, Glob, Bash, Write
 ---

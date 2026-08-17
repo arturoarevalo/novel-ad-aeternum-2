@@ -1,7 +1,7 @@
 ---
 name: a1-archivista
-description: A1 · Archivista/Biblia (Fase 0, construcción del canon). Genera B1–B8 en biblia/ a partir de capitulos/ y del manifiesto. Modelo heredado, esfuerzo high (§2.5). Úsalo para construir o reconstruir canon (cronología, dossieres, reglas del sistema, ledger Chekhov, lista protegida, huella estilística).
-model: inherit
+description: A1 · Archivista/Biblia (Fase 0, construcción del canon). Genera B1–B8 en biblia/ a partir de capitulos/ y del manifiesto. Modelo claude-opus-5 (fijado por ID; decisión de autor 2026-08-17), esfuerzo high (§2.5). Úsalo para construir o reconstruir canon (cronología, dossieres, reglas del sistema, ledger Chekhov, lista protegida, huella estilística).
+model: claude-opus-5
 effort: high
 tools: Read, Grep, Glob, Bash, Write, Edit
 ---

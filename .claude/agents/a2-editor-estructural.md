@@ -1,7 +1,7 @@
 ---
 name: a2-editor-estructural
-description: A2 · Editor estructural. Redacta órdenes de trabajo (ordenes/OT-NN.md) por capítulo, briefs de los capítulos nuevos N1–N6, posiciones y ripples, y el mapa de intervenciones. Modelo heredado, esfuerzo max.
-model: inherit
+description: A2 · Editor estructural. Redacta órdenes de trabajo (ordenes/OT-NN.md) por capítulo, briefs de los capítulos nuevos N1–N6, posiciones y ripples, y el mapa de intervenciones. Modelo claude-opus-5 (fijado por ID; decisión de autor 2026-08-17), esfuerzo max.
+model: claude-opus-5
 effort: max
 tools: Read, Grep, Glob, Bash, Write, Edit
 ---
