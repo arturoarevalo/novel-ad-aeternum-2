@@ -1,0 +1,5 @@
+# m6-atribuidor · lectura · FRÍO REAL — 2026-08-17
+
+> Ejecutado con `herramientas/critica-fria.sh` (claude -p desde `/tmp/claude-1000/-workspaces-novel-ad-aeternum-2/bd090156-c6af-4c32-99b6-0c9d6d54266f/scratchpad/20260817-204832-m6-atribuidor`, fuera del repositorio; system prompt = cuerpo de `.claude/agents/m6-atribuidor.md`; sin herramientas, sin CLAUDE.md, sin memoria, sin MCP; entorno de la sesión padre eliminado). Insumo único inline: `informes/m6b/m6-gemelas-muestra-v0-ancla.md` (sha256 f470c7220d709181…, 185 palabras).
+> Modelo pedido `claude-opus-4-8` (esfuerzo medium) · tokens por modelo: `claude-haiku-4-5-20251001`: in 1,021 / cache_w 0 / cache_r 0 / out 21; `claude-opus-4-8`: in 1 / cache_w 0 / cache_r 1,185 / out 122 (la llamada auxiliar de haiku es del harness, no del lector) · razonamiento 0 · coste 0.0047735 USD · 2 s · turnos 1 · stop end_turn
+{"1": "Nora", "2": "Nora", "3": "Nora", "4": "Jessie", "5": "Nora", "6": "Jessie", "7": "Jessie", "8": "Nora", "9": "Nora", "10": "Nora", "11": "Jessie", "12": "Jessie", "13": "Nora", "14": "Jessie"}
