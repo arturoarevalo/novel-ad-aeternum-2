@@ -4,8 +4,8 @@ _Actualizar al cerrar cada fase/oleada y en cada pausa. Cualquier sesión nueva 
 
 ## Situación
 
-- **Fase actual:** **W2 EJECUTADA Y MEDIDA. Gate W2 pendiente de decisión del autor (`informes/w2-gate.md`): NO fusionar hasta que lo apruebe.** G-A1 aprobado (2026-08-17) y Fase 2 fusionada en `main`. W1 (F0 + F1) cerrada (G0, G1 aprobados).
-- **Rama:** `w2-reescrituras` (11 commits sobre `main`, sin fusionar). M9 OK y validador limpio en todos.
+- **Fase actual:** **W3 EJECUTADA Y MEDIDA. G-A2 pendiente de decisión del autor (`informes/g-a2-gate.md`): NO fusionar `w3-nuevos` hasta que lo apruebe.** W2 aprobada y fusionada en `main` (7479e02). G-A1 aprobado (2026-08-17) y Fase 2 fusionada en `main`. W1 (F0 + F1) cerrada (G0, G1 aprobados).
+- **Rama:** `w3-nuevos` (17 commits sobre `main`, sin fusionar). M9 OK y validador limpio en todos.
 - **Baseline:** tag `v0` (61e446f). Recuento canónico v0: 62.750 palabras.
 - **Última versión aceptada:** v0.
 
@@ -65,8 +65,19 @@ B0 `informes/b0-discrepancias.md` · B1 `biblia/b1-cronologia.md` · B2 `biblia/
 - **Hallazgos para las oleadas siguientes:** el valle procedimental (22, 24, 27, 29, 39) es el nuevo cuello de botella y el 24 lo señalan tres lectores; «Jean viva con sus hijas» la piden por unanimidad (y también en v0) → confirma la decisión B de G-A1; **T1 y T4 se contradicen** (retirar un término puede llevarse el marcador de voz de quien lo dice: caso medido «divergencia»); el cap. 30 queda con 0,3 de margen de M1 para W5.
 - **Dos herramientas fallaban abiertas y se corrigieron:** `sensibilidad.sh --solo` y `extraer.sh` no comprobaban nada si se les pasaba una ruta en vez del basename. La primera alimenta un gate con veto.
 
+## W3 · Capítulos nuevos — EJECUTADA, G-A2 pendiente del autor (2026-08-17, sesión 5)
+
+- **Los seis capítulos nuevos escritos, un commit por OT.** N5 1.822 · N1 2.070 · N2 1.946 · N3 3.572 (con R1) · N4 3.156 (con R4) · N6 1.641 = **14.207 palabras**. Manuscrito: 47 capítulos, 77.849 palabras. Una sola mecánica nueva en toda la oleada (la de G-A1). M7 0 errores con los seis decimales intercalados; M9 OK.
+- **Cadena:** A2 (R4 sobre OT-N4) → A3a/A3b ×6 en paralelo → A7 ×5 → A5 → auditoría adversarial ×3 → A4 → A7 segunda lectura (levantó el bloqueo) → A8 → lector frío ×6 + A6 ×3 + control de deriva + prueba de mano única ×5 + M6b.
+- **Gate:** carta F firmada en los seis sin veto; «¿parece del mismo autor?» superado (ninguno de cinco lectores ciegos separa lo nuevo de v0); anti-regresión sin caídas contra el control de deriva; global 8,5 · ritmo 7,5 · duelo 9,5 · tema 9,0. El clímax pasa a «se gana en tres cuartas partes».
+- **R4 aplicada a N4** por la evidencia de los A6b (ninguno pedía más instituto ni más amenaza; los cuatro decían no entender qué es Coro). Solución de A2: Coro no dice una réplica en todo el capítulo; se le ve trabajar. **Un crítico de tres nombra N4 como su punto de abandono** y la reversión de I-5 está preparada: es la decisión D-1 del gate.
+- **Las dos frases de la bolsa quedan autorizadas literalmente por A7** (`informes/a7-w3-n3.md`), cumpliendo la decisión de G1, con siete prohibiciones hacia adelante.
+- **Hallazgo: M6b se mide con ancla cuando hay pocos hablantes.** Sin ella el instrumento confunde «voces indiferenciadas» con «voces diferenciadas y etiquetas cambiadas»; en la prueba binaria de las gemelas eso valía cincuenta puntos. Con ancla, N2 da 86,1 % y v0 64,3 % (D1 registraba 21 %). **Rehecha ya la medición global con ancla** (v0 33,9 % · w3 32,7 %, azar 11 %): a escala de libro el ancla solo aporta ~5 puntos, la diferenciación de voces sigue siendo genuinamente baja y **T4 conserva su justificación**; A0 retiró la deducción contraria (`informes/m6b/m6-voces-w3.md` §5). W4 y W6 no se redimensionan por este motivo.
+- **Pendiente tras el gate:** A1-mantenimiento registra los seis en `capitulos[]` con `origen: "REVISIÓN 10"` (solo puede hacerse tras superar G-A2) y anota el canon nuevo de `a5-w3-continuidad.md` y de C-4 de `a7-w3-n3.md`.
+
 ## Registro de consumo (orientativo)
 
+- Sesión 5 (2026-08-17), W3 completa: subagentes ≈ **2,6 M tokens** (A3b ×5 1,54 M · A3a 275k · A7 ×5 599k · A4 304k · A5 203k · A2 164k). Fuera de sesión: **10,28 USD** (A6 ×4 7,36 · mano única ×5 1,41 · M6b ×15 0,98 · lector frío ×6 0,52). Sin coste por token: A6-3 sol y auditoría adversarial ×3.
 - Sesión 5 (2026-08-17), W2 completa: subagentes en sesión ≈ **1,96 M tokens** (A3a ×6 1,17 M · A4 ×2 384k · A5 205k · A7 ×2 202k). Fuera de sesión (`critica-fria.sh`, coste real): **24,09 USD** — A6b ×8 (w2 y v0) 15,38 · A6 ×3 (2 sobre w2 + control de deriva sobre v0) 6,59 · lector frío ×36 (w2 ×3 pases y v0 ×3) 1,63 · M6-continuidades ×12 0,49. **Sin coste por token** (suscripción del autor): A6-3 `gpt-5.6-sol` sobre w2, auditor adverso ×6 y las dos sondas. Contexto de A0 ≈ 0,5 M. Acumulado de subagentes del proyecto ≈ 8,1 M.
 - Sesión 4 (2026-08-17), motor codex: sonda + A6-3 sol sobre v0 (113k tokens) + M6b variante 4 (16k) **sin coste por token** (suscripción ChatGPT del autor); contexto de A0 ≈ 0,1 M. A partir de ahora cada hito de puntuación baja de ≈ 12 USD a ≈ 8,8 USD (A6-3 deja de facturarse).
 - Sesión 3 (2026-08-17), cierre de G-A1: OT-25b y ajustes escritos por A0; re-baseline A6-1/2 opus-5 4,4 USD (total fuera de sesión 16,5 USD); contexto de A0 ≈ 0,1 M.

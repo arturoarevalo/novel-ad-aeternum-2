@@ -46,9 +46,13 @@ def _parse_scalar(v):
     if (v[0] == v[-1]) and v[0] in "\"'" and len(v) >= 2:
         return v[1:-1]
     low = v.lower()
-    if low in ("true", "yes"):
+    # YAML 1.2: solo true/false son booleanos. `yes`/`no` son cadenas — y aquí importa, porque
+    # `proteccion: no` es un valor legítimo del frontmatter del plan (§2.4) y con YAML 1.1 se
+    # convertía en False y el validador lo rechazaba. Los campos booleanos del repo (analepsis,
+    # provisional) se escriben siempre true/false, así que no hay ambigüedad.
+    if low == "true":
         return True
-    if low in ("false", "no"):
+    if low == "false":
         return False
     if low in ("null", "~"):
         return None
