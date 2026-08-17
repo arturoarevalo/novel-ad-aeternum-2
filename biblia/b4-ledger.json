@@ -21,12 +21,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "N4 «Interferencias» (orden 25.5) + ripples en 26 y 32 (y 36); tabla 5.1 y Ap. B",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S32-amenaza (nuevo)",
    "correccion_plan": "El plan sitúa la actitud «desde 21»; el texto la siembra ya en 13:281 y 21:37.",
-   "nota": "Sin pago en v0: la única «acción» exterior de Coro es negociar con Mats. Ninguna interferencia sobre el acceso de la familia ocurre en v0 (la crítica: «pistola de Chéjov descargada»)."
+   "nota": "Sin pago en v0: la única «acción» exterior de Coro es negociar con Mats. Ninguna interferencia sobre el acceso de la familia ocurre en v0 (la crítica: «pistola de Chéjov descargada»).",
+   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3."
   },
   {
    "id": "CH-2",
@@ -606,12 +607,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "N6 «Acta» (orden 40.5): segunda sesión CON resultado propio, no ligado a Jean + expansión de 26 (+agenda propia); test no-instrumental de Aslak (Ap. C)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S26-asociacion (nuevo)",
    "correccion_plan": "",
-   "nota": "AVISO A2: 40:175 ya sitúa la «segunda sesión» en marzo con Aslak fuera de escena; N6 debe encajar con esa mención (p. ej. el acta llega después, o es una sesión posterior) o proponer retoque de 40:161/175 (fuera de spans)."
+   "nota": "AVISO A2: 40:175 ya sitúa la «segunda sesión» en marzo con Aslak fuera de escena; N6 debe encajar con esa mención (p. ej. el acta llega después, o es una sesión posterior) o proponer retoque de 40:161/175 (fuera de spans).",
+   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3."
   },
   {
    "id": "CH-27",
@@ -629,12 +631,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "N2 «Instituto» (estigma de la cuenta suspendida) y N4 (re-suspensión «casual» de la cuenta restituida)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S10-suspendida (nuevo)",
    "correccion_plan": "",
-   "nota": "AVISO A2: nunca se dice en v0 que la cuenta se restituya; N4 presupone una restitución que hay que sembrar antes (N2 o 22)."
+   "nota": "AVISO A2: nunca se dice en v0 que la cuenta se restituya; N4 presupone una restitución que hay que sembrar antes (N2 o 22).",
+   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3."
   },
   {
    "id": "CH-28",
@@ -649,12 +652,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "Recurso para N4 (credencial marcada en el Framsenteret): no es un plantado con deuda propia en v0; A2 lo activa en N4",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": false,
    "tipo": "recurso",
    "protegido_por": "",
    "correccion_plan": "",
-   "nota": "En v0 nada amenaza la credencial de Maja; el lugar y el archivo existen y bastan como asidero."
+   "nota": "En v0 nada amenaza la credencial de Maja; el lugar y el archivo existen y bastan como asidero.",
+   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3."
   },
   {
    "id": "CH-29",
@@ -700,7 +704,8 @@
    "tipo": "plantado",
    "protegido_por": "S39-pluma; S06-esposa, S39-divorcio (nuevos)",
    "correccion_plan": "",
-   "nota": ""
+   "nota": "",
+   "nota_w3": "[W3 · A1 2026-08-17] N3 paga el arco por objeto y la escena de Jean viva. Trámite de efectos personales (6:217) → PAGADO como trámite, registro estrictamente administrativo por C-4.6 de A7."
   },
   {
    "id": "CH-31",
@@ -1004,7 +1009,8 @@
    "tipo": "plantado",
    "protegido_por": "",
    "correccion_plan": "",
-   "nota": "11 siembra la «evaluación de exposición»; 24 la cobra. La revisión policial del encargo no vuelve (aceptable). La parka del 12 queda ambigua (12:313: «Su cara no mostró reconocimiento»)."
+   "nota": "11 siembra la «evaluación de exposición»; 24 la cobra. La revisión policial del encargo no vuelve (aceptable). La parka del 12 queda ambigua (12:313: «Su cara no mostró reconocimiento»).",
+   "nota_w3": "[W3 · A1 2026-08-17] N4 escenifica el acto en página (coche gris pagado); ordenante en blanco."
   },
   {
    "id": "CH-46",
@@ -1018,12 +1024,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "N1 «La primera cita» (orden 9.5; POV Maja; fecha 4-dic-2060; contenido DISTINTO de 9; Carta F estricta; revisión A7; coherente con 14:149)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S06-llamada; cap-09 íntegro; S14-cita (nuevo)",
    "correccion_plan": "",
-   "nota": "Datos fijos para N1: la profesional llama el 27-nov (6:211-215), la cita es «mañana» respecto al funeral del 3-dic (9:65) → 4-dic; asisten las tres; a fecha 11-dic Nora lleva «cuatro noches» sin reproducir la última discusión (14:149)."
+   "nota": "Datos fijos para N1: la profesional llama el 27-nov (6:211-215), la cita es «mañana» respecto al funeral del 3-dic (9:65) → 4-dic; asisten las tres; a fecha 11-dic Nora lleva «cuatro noches» sin reproducir la última discusión (14:149).",
+   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3."
   },
   {
    "id": "CH-47",
@@ -1039,12 +1046,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "N2 «Instituto» (orden 16.5) + cap-10 (+contexto escolar breve, siembra de N2)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": false,
    "tipo": "plantado",
    "protegido_por": "",
    "correccion_plan": "",
-   "nota": "El mundo escolar no existe en escena en v0."
+   "nota": "El mundo escolar no existe en escena en v0.",
+   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3."
   },
   {
    "id": "CH-48",
@@ -1063,7 +1071,8 @@
    "tipo": "plantado",
    "protegido_por": "cap-09 íntegro; S14-cita (nuevo)",
    "correccion_plan": "",
-   "nota": "Justificación: el asidero es Kongsbakken; reproducir la discusión la convertiría en explicación. [D1 · A0 2026-08-16] A0 D1: los tres críticos fríos piden una escena de Jean viva con sus hijas; se atiende sin dramatizar la discusión — propuesta de recuerdo dramatizado ≤ 300 pal. en el brief de N3/N1, decisión de autor en G-A1."
+   "nota": "Justificación: el asidero es Kongsbakken; reproducir la discusión la convertiría en explicación. [D1 · A0 2026-08-16] A0 D1: los tres críticos fríos piden una escena de Jean viva con sus hijas; se atiende sin dramatizar la discusión — propuesta de recuerdo dramatizado ≤ 300 pal. en el brief de N3/N1, decisión de autor en G-A1.",
+   "nota_w3": "[W3 · A1 2026-08-17] Sigue SIN-PAGO-INTENCIONAL; N1/N3 atienden «Jean viva» sin reproducir la discusión."
   },
   {
    "id": "CH-49",
@@ -1788,5 +1797,12 @@
    "correccion_plan": "",
    "nota": ""
   }
- ]
+ ],
+ "m10_actual": {
+  "pagadas_o_sin_pago": 76,
+  "total": 83,
+  "porcentaje": 91.6,
+  "oleada": "W3",
+  "fecha": "2026-08-17"
+ }
 }
