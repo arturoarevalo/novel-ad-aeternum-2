@@ -3,7 +3,7 @@ capitulo: 8
 titulo: Milisegundos
 pov: Jean
 fecha: 2060-12-04
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: RW
 proteccion: nucleo

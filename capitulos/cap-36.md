@@ -3,7 +3,7 @@ capitulo: 36
 titulo: Cuchillo abre los ojos
 pov: Jean Marie Larsson
 fecha: 2061-01-21T12:46
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo

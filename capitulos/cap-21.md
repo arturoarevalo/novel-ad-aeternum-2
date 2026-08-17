@@ -3,7 +3,7 @@ capitulo: 21
 titulo: Coro
 pov: Jean
 fecha: 2060-12-25
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo
