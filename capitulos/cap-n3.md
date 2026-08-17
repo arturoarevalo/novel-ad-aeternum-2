@@ -336,7 +336,7 @@ Maja esperó en la puerta hasta que salió del camino.
 
 El táper fue al armario de arriba, con los otros.
 
-La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Cerró cada bolsa con un nudo doble y las bajó al garaje de dos en dos.
+La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Dejó fuera un jersey azul que no recordaba. Cerró cada bolsa con un nudo doble y las bajó al garaje de dos en dos.
 
 Salían el lunes al contenedor del aparcamiento. Allí solo admitían textil limpio y en bolsa cerrada. La manta fue a la mesa del comedor. La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.
 
@@ -466,7 +466,7 @@ Maja señaló la mesa del comedor.
 
 —Lo de ahí lo decidís vosotras. Hoy.
 
-Sobre la mesa estaban la radio de la cocina, una manta doblada, un cuenco de barro, el espejo pequeño y un jersey azul que no era de nadie de la casa.
+Sobre la mesa estaban la radio de la cocina, una manta doblada, un cuenco de barro, el espejo pequeño y el jersey azul.
 
 Nora se acercó sin quitarse el abrigo. Las fue tocando por orden, de izquierda a derecha. No levantó ninguna.
 
