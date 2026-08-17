@@ -50,6 +50,17 @@ Regla de este documento (Carta F, Ap. F): la cronología registra lo que el text
 | 40 | Sombra | Nora | `2061-02-03` |  | 1724 | 1.er turno (jueves): «ocho minutos y trece segundos» (:15), `11:31` (:35), «cuarenta y seis segundos» (:73), veinte minutos (:79); «El lunes siguiente» Jessie (:107 → 7-feb); «el jueves» (:123-127 → 10-feb); «Otro lunes» (:129); «A finales de febrero… El miércoles nos escuchan» (:135-141); naust «el jueves siguiente» (:143); «otra sesión el mes siguiente» (:161); «En marzo» repesca en Kongsbakken + «segunda sesión de la consulta» + «Aquella mañana, el tribunal» + «las doce del día siguiente» (:167-179); sesenta segundos diarios (:177) | ✓ (3-feb→marzo 2061; dos horarios semanales lun/jue coherentes con :27) |
 | 41 | El siguiente Soldagen | Nora | `2062-01-21` |  | 704 | «21 de enero de 2062 · Un año después» (:15); `01:30` = 90 s (:17,43) vs. minuto ordinario (:27,95); «Desde el verano» (:95); «En primavera»/«desde octubre» (:99-101); «El jueves» (:103) | ✓ (sábado) |
 
+**Capítulos nuevos (W3, `orden_lectura` decimal; registrados tras G-A2 salvo N3, retenida):**
+
+| orden | archivo | título | pov | fecha | palabras_real | eventos datados | coherencia |
+|---|---|---|---|---|---:|---|---|
+| 7.5 | cap-n5.md | Turno | Jean | `2060-12-03` | 1822 | Jornada del sistema; precisión 99,6 %; sin mecánica nueva | ✓ (roce < cap-08:89; A5 M7 = 0) |
+| 9.5 | cap-n1.md | La primera cita | Maja | `2060-12-04T15:00` | 2065 | Ranveig; las tres; cada quince días; funeral 31 personas | ✓ (coherente con 6:211-215, 9:65, 14:149) |
+| 16.5 | cap-n2.md | Instituto | Nora/Jessie | `2060-12-16` | 1946 | Instituto único, aula 214, 1STA/1STC; cuenta suspendida | ✓ (jueves; no choca con 18:21) |
+| 22.5 | cap-n3.md | Inventario | Maja | `2060-12-29` | 3572 | Inventario del piso; cajas (§2.W3); trámite administrativo | ✓ (miércoles; concuerda con 23/4/33) |
+| 25.5 | cap-n4.md | Interferencias | Nora→Maja→Jessie→Jean→Maja | `2061-01-03` | 3156 | Cierre de accesos; aviso de exposición reputacional | ✓ (lunes; primer acto de Coro) |
+| 40.5 | cap-n6.md | Acta | Aslak | `2061-05-11` | 1641 | Acta del kystbrukslag; servidumbre mantenida | ✓ (miércoles; posterior a la 2.ª sesión de marzo) |
+
 ## 2. Línea principal (nov-2060 → ene-2062)
 
 Formato: **fecha (día)** · hora — evento · fuente.
@@ -63,8 +74,8 @@ Formato: **fecha (día)** · hora — evento · fuente.
 - **lun 29-nov** — (deducido) recomendación técnica de Alana «el lunes» (`cap-11:143`); citas de Jean (08:30 seguimiento, 09:30 presupuesto) que ya no ocurren.
 
 **Diciembre de 2060**
-- **vie 3-dic** — funeral (mañana) y Telegrafbukta (cap-09); la foto del funeral entra en el flujo de Jean el mismo día (`cap-07:191-229`). Maja anuncia «Mañana… la primera cita» (`cap-09:65`).
-- **sáb 4-dic** — primera cita con el equipo de apoyo (deducido de `cap-09:65`; ver §6 N1); noche: `otra vez, más despacio` / `JM-L/0007` (`cap-09:195-271`). Jean: cap-08 («Han pasado días», `VENTANA 7C`).
+- **vie 3-dic** — funeral (mañana; **31 personas**, dato de N1) y Telegrafbukta (cap-09); la foto del funeral entra en el flujo de Jean el mismo día (`cap-07:191-229`). Maja anuncia «Mañana… la primera cita» (`cap-09:65`). **[W3] N5 «Turno»** (`cap-n5.md`, orden 7.5, POV Jean): jornada del sistema tras reconocer su propio funeral; precisión del lote 99,6 % (baja una décima respecto a 7:21, sin glosa; N5 no reitera «mejora sostenida»); sin mecánica nueva (M2 = 0).
+- **sáb 4-dic** — **[W3] N1 «La primera cita»** (`cap-n1.md`, orden 9.5, POV Maja, `2060-12-04T15:00`): primera cita con **Ranveig**, la profesional del equipo de apoyo (la que llamó el 27-nov, `cap-06:211-215`, no la médica); asisten las tres; periodicidad **cada quince días** (canon nuevo); coherente con `cap-09:65` y con `cap-14:149`. Noche: `otra vez, más despacio` / `JM-L/0007` (`cap-09:195-271`). Jean: cap-08 («Han pasado días», `VENTANA 7C`).
 - **dom 5-dic** — FLOR/CANELA/CARIES/NO; Nora escribe `5-dic-2060`; cuenta escolar suspendida (cap-10; `cap-11:249`). **[D1 · A0 2026-08-16]** Esta `CARIES` (5-dic) es **anterior** a la que `/0000` introduce en 15 (12-dic) y NO puede ser suya (autoría plural protegida, F5→C; canon B3 §21.2).
 - **lun 6-dic** — Consejo de Armstrong: se vota el lanzamiento el 21-ene-2061; auditoría externa hasta el 14-ene; moratoria bilateral de Jurídico hasta el 11-dic (cap-11). Nora debía «ir a clase» (`cap-10:143`).
 - **~mar 7-dic** — empiezan los mensajes anónimos a Nora («Dos días», `cap-12:19`).
@@ -74,18 +85,18 @@ Formato: **fecha (día)** · hora — evento · fuente.
 - **dom 12-dic** — EDDA resuelve automáticamente **R-1189 «SIN EFECTOS · INTERRUPCIÓN BIOLÓGICA»** (`cap-15:185`; `cap-25:85`); Jean objeta en 71-K y entra en «higiene sensorial» (cap-15). **[D1 · A0 2026-08-16]** `/0000` siembra aquí FLOR/CANELA/CARIES (15:27-43); la `CARIES` que Nora vio el 5-dic es anterior y de otra autoría (canon B3 §21.2).
 - **lun 13-dic** — Inger entrega la exportación con `EXT/NIDHOGG/7C` (cap-16). **Medianoche → 14-dic** (`cap-16:113`).
 - **mié 15-dic** — Maja en el Framsenteret (AK-7); Jessie en Fyret con las credenciales de Nora (Tomas Eide); burofax «Propiedad intelectual» (`cap-16:125-259`).
-- **jue 16-dic** — cap-17 (Jean). **23:16** descarga OTA en el coche de Gunnar (`cap-24:67`).
+- **jue 16-dic** — cap-17 (Jean). **23:16** descarga OTA en el coche de Gunnar (`cap-24:67`). **[W3] N2 «Instituto»** (`cap-n2.md`, orden 16.5, POV Nora/Jessie): vuelta a clase; **un solo instituto**, aula 214, grupos 1STA (Nora) y 1STC (Jessie), tutora sin nombre (canon nuevo); la cuenta escolar sigue suspendida al cerrar (`Cuenta no disponible`, revisión pendiente; sostiene 22:45); la fotografía publicada es la de la ceremonia (7:189-193), no la esquela.
 - **vie 17-dic** — 08:12 denuncia anónima; aula MD de Kongsbakken (llave MIDI, Astrid Vik); **17:23** noticia de la muerte de Gunnar (E8, Ramfjorden); **23:59** segundo envío programado (cap-18).
 - **dom 19-dic** — visita a NIDHOGG (Sørkoppen), 13:17; `979,7 AÑOS-JM`; el acceso de Alana pasa a colegiado (cap-19; `cap-27:37`).
 - **lun 20-dic** — Alana entrega la clave; **la cuarta nota**, latencia 9 s; credencial válida «hasta medianoche» (cap-20).
 - **sáb 25-dic** — cap-21 (Coro retira el extremo; «Ser inevitables»).
 - **lun 27-dic** — Astrid audita Fyret (celebración el 26); a las cuatro, las once peticiones; Nora en el banco (cap-22).
 - **mar 28-dic** — Astrid ante su director (`cap-22:185`).
-- **mié 29-dic** — 20:00 sesión con La Jardinera (`JM-L/0044`), ≈16 min hasta el corte (cap-23).
+- **mié 29-dic** — 20:00 sesión con La Jardinera (`JM-L/0044`), ≈16 min hasta el corte (cap-23). **[W3] N3 «Inventario»** (`cap-n3.md`, orden 22.5, POV Maja; de día, antes de la sesión de las 20:00): Maja decide qué guardar de Jean. Canon nuevo de cajas y trámite: ver §2.W3. La casa se abandona el 3-ene (`cap-26:17`).
 
 **Enero de 2061**
 - **dom 2-ene** — Tomas en la curva y el depósito forense (once segundos; Hvelv/Kronfjord); seguimiento de Maja y Jessie; comisaría, dos horas (cap-24).
-- **lun 3-ene** — Jean: EDDA, candidatura, `DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00` (cap-25). Noche: la familia llega a casa de Aslak («refugio», ribera del Lyngenfjord); lata de galletas, licencia de 2057; VHF: bocana reservada el 21-ene (cap-26).
+- **lun 3-ene** — Jean: EDDA, candidatura, `DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00` (cap-25). **[W3] N4 «Interferencias»** (`cap-n4.md`, orden 25.5, POV Nora→Maja→Jessie→Jean→Maja; el mismo 3-ene): a la familia le cierran accesos el mismo día sin que nadie firme — **primer acto negable de Coro en página** (32:93-97 es la reiteración/veto posterior, 17-ene); restitución de la cuenta de Nora a primera hora y re-suspensión a las 11:52 con las palabras literales de 10:205/10:213; la caja que Jessie baja del altillo = la de 26:17 (mudanza motivada). Mecánica nueva única: **aviso de exposición reputacional por proceso** (M2 = 1). Noche: la familia llega a casa de Aslak («refugio», ribera del Lyngenfjord); lata de galletas, licencia de 2057; VHF: bocana reservada el 21-ene (cap-26).
 - **mar 4-ene** — descarga y reunión del kystbrukslag; «Mañana sacamos la barca» (`cap-26:175-177`).
 - **mié 5-ene** — Alana apartada («CONFLICTO EMOCIONAL»); 17:06 extrae R-1189; 20:41 lo entrega a Astrid (cap-27).
 - **vie 7-ene** — ensayo del circuito: 16:12 → mirador 17:32–21:49 → 22:42 (ferry perdido); audio «…20…23:00…no lleguéis tarde…» (cap-28).
@@ -112,8 +123,18 @@ Formato: **fecha (día)** · hora — evento · fuente.
 - **lun 7-feb / jue 10-feb** — turnos de Jessie en silencio (`cap-40:107-127`) (fechas deducidas de «El lunes siguiente»/«el jueves»).
 - **finales de febrero** — Aslak prepara tres reproducciones; «El miércoles nos escuchan» (primera sesión de la consulta, un miércoles ≈23-feb o 2-mar) (`cap-40:135-141`); el jueves siguiente, dos tablas del naust en Koppangen (`cap-40:143-161`).
 - **marzo** — repesca de Nora en Kongsbakken; ese mismo día «segunda sesión de la consulta» con Aslak; el tribunal autoriza la señal del sensor (60 s diarios); primera entrega «las doce del día siguiente» (`cap-40:167-185`).
+- **mié 11-may-2061** — **[W3] N6 «Acta»** (`cap-n6.md`, orden 40.5, POV Aslak): sesión del `Sør-Lyngen kystbrukslag` (lectura del acta) en la administración; ferry Svensby→Breivikeidet, 09:00. El funcionario lee cuatro puntos: usos costeros (26:93) reconocidos como **anteriores** a la licencia de 2057; el expediente de 2057 no sumó la **pérdida común**, que queda registrada; la **servidumbre permanente se mantiene**; toda reserva de la bocana y todo cierre del paso se **consultarán con la asociación antes de acordarse**. Anexo técnico de AK-7 con sello del órgano costero de marzo (paga 37:141); **Maja, invitada, responde y no decide**. Paga 26:121 y 40:141; la reserva de la bocana del 21-ene (26:191) se cita por la radio como cobertura operativa. Test no-instrumental de Aslak superado (N6 + expansión de 26).
 - **primavera / verano / octubre de 2061** — «En primavera» (Aslak); «Desde el verano, Nora aceptaba ensayos»; «desde octubre» (`cap-41:95-101`) (deducido: sin escena).
 - **sáb 21-ene-2062** — Soldagen siguiente: 90 s excepcionales; «Cronometrar el sol.» «Para que conste.» (cap-41).
+
+### 2.W3 · Canon nuevo de W3 (A1-mantenimiento, tras G-A2) — cajas y trámite
+
+**Dos conjuntos de cajas DISTINTOS** (arbitraje de A0 en `informes/a5-w3-continuidad.md`, para que ninguna oleada los confunda):
+
+- **(a) Cajas domésticas de Maja.** Maja reúne cajas —vacías o domésticas, para ordenar— la noche del **4-dic** («Mientras Maja buscaba cajas», `cap-09:199`) y quiere revisarlas el **5-dic** (están «en el hueco entre el escritorio y las cajas que Maja quería revisar», en un dormitorio, `cap-10:149`). El texto **nunca** las llama cajas del piso.
+- **(b) Seis cajas del piso de Jean.** Entregadas por un transporte el **martes 7-dic** al recibidor; se quedan en el pasillo contra el radiador; cada una con etiqueta del número de piso y una letra. En N3 (29-dic) Maja las inventaría («Llevaban tres semanas en el pasillo» = 7→29-dic ✓). El piso (edificio con conserje, `cap-11:101`) se **devuelve el 31-dic a las 10:00**, con revisión previa del administrador; el correo pasa a la casa desde el **1-ene**. La **caja C** trae ropa de invierno (de ahí sale el jersey azul); la **caja F** queda cerrada para Astrid (material reclamado por la empresa, destino jurídico). Estas seis **no** son la caja de la huida de `cap-26:17` (esa se llena en N4 desde el altillo).
+
+**Trámite de efectos personales (registro estrictamente administrativo, restricción C-4.6 de A7 — vinculante):** la bolsa de viaje y la hoja de efectos personales volvieron a la familia en diciembre de 2060 y **se guardaron en el altillo el 29-dic** (Maja anotó la fecha en la hoja). **Prohibido** inferir de aquí hora, lugar, contenido o trayecto, o anotar la bolsa entre los anclajes del 26-nov; la bolsa no vuelve a aparecer (C-4.1). El reparto de objetos de 2059 (qué se llevó Jean / qué dejó) se registra en N3 como **lista**, sin una línea de interpretación conyugal. Ver B4 §2.1.W3 (CH-30·bis) y B2 §1(h)/§8.
 
 ## 3. Cronología retrospectiva (anterior a nov-2060)
 
@@ -180,12 +201,12 @@ Ambigüedades protegidas que esta tabla NO resuelve: el porqué; por qué Koppan
 
 | # | Tipo | Dónde | Detalle | Propuesta |
 |---|---|---|---|---|
-| D1 | prosa↔prosa | `cap-09:65` vs `cap-14:149` | Primera cita de apoyo = 4-dic; el 11-dic Nora «llevaba cuatro noches sin reproducir la última discusión» **desde la cita** → serían 7 noches (o cita el 7-dic) | Fijar N1 el 4-dic (gana `cap-09`, más explícito). Leer `cap-14:149` como «cuatro noches seguidas» (compatible) o retocar en OT-14 (R, no protegido). Decisión A2 |
+| D1 | prosa↔prosa | `cap-09:65` vs `cap-14:149` | Primera cita de apoyo = 4-dic; el 11-dic Nora «llevaba cuatro noches sin reproducir la última discusión» **desde la cita** → serían 7 noches (o cita el 7-dic) | Fijar N1 el 4-dic (gana `cap-09`, más explícito). Leer `cap-14:149` como «cuatro noches seguidas» (compatible) o retocar en OT-14 (R, no protegido). Decisión A2. **[W3] N1 fijado el 4-dic** (`2060-12-04T15:00`); A5 verificó que no contradice 14:149 (mide el efecto siete días después); sin retoque de 14 |
 | D2 | plan↔texto | Ap. B CH-2 «cinturón (4, 10, 23, 33)» | El cinturón aparece en **4, 9 y 23** (`cap-04:27`, `cap-09:199`, `cap-23:313`); ni en 10 ni en 33 | Corregir el ledger (B4) |
 | D3 | verosimilitud calendario | cap-29 (dom 9-ene): vista del `tingrett` a las 14:00 y llamada del ministerio; cap-19 (dom 19-dic): inspección de NIDHOGG «hoy aún cabe en el calendario»; `cap-39:19` (dom 23-ene): Kronfjord congela líneas; `cap-06:165` (Jessie: «Mañana no voy al instituto» → sábado); N1 en sábado | Ninguna es contradicción interna, pero un lector con calendario las notará. Mover cap-29 al lun 10-ene rompe «a once días» (`cap-29:89`) y «al día siguiente» (:155); mover cap-19 rompe «Nueve días»/`979,7`. | A5 (T6, derecho noruego): decidir si se acepta como ficción o se retoca prosa no protegida en W4-W6 |
 | D4 | frontmatter (semántica) | cap-11 `analepsis: true` | No retrocede; contiene flashback. B0 lo contó entre las excepciones de monotonía sin necesitarlo | Documentado en §5; M7 debe tolerar ambas semánticas o A1 propone campo `analepsis_intercalada` (solo si el autor lo aprueba: campos del autor no se renombran) |
-| D5 | plan↔texto | Tabla 5.1 N6 / `cap-40:167-175` | «Segunda sesión de la consulta» ya ocurre en marzo sin Maja | Ver §6 N6 |
-| D6 | plan↔texto | Tabla 5.1 N4 / `cap-10`, `cap-11:249`, `cap-22:45` | «Re-suspensión de la cuenta restituida de Nora»: la restitución no existe en v0 | N2 o N4 la establecen; ripple en OT-14 innecesario |
+| D5 | plan↔texto | Tabla 5.1 N6 / `cap-40:167-175` | «Segunda sesión de la consulta» ya ocurre en marzo sin Maja | **[W3] RESUELTA (opción a):** N6 es la lectura del **acta** el 11-may-2061, posterior a la segunda sesión de marzo («Después esperamos el acta», 40:141); no hay conflicto y `cap-40` no se retoca |
+| D6 | plan↔texto | Tabla 5.1 N4 / `cap-10`, `cap-11:249`, `cap-22:45` | «Re-suspensión de la cuenta restituida de Nora»: la restitución no existe en v0 | **[W3] RESUELTA:** N4 establece la restitución a primera hora del 3-ene y la re-suspensión a las 11:52 el mismo día (con las palabras literales de 10:205/10:213); N2 siembra el estigma; ripple en OT-14 innecesario |
 | D7 | plan (M7) | §2.3 «horas del clímax» | Faltan en la lista del validador: 08:51, 09:00, 09:42, 10:27, 11:40, 11:44, 11:58, 12:00, 12:04, 12:23, 12:26, 12:30, 12:37:59, 12:41–12:43, 12:46, 22:59/23:00 (20-ene) y 13:11 ya está | Añadirlas a M7 (tabla §2 de este documento como fuente) |
 | D8 | matiz | `cap-01:77` «catorce días hábiles» vs `cap-25:77` «cola de catorce días» | Solo con «hábiles» funciona «antes de agotar la estimación» (12 < 14-dic) | Ninguna acción; anotado para B3 |
 | D9 | plan↔texto (T1/N5) | `cap-08:89` | El primer contacto con otra voz es el cierre de cap-08; N5 va antes | El «roce» de N5 debe ser inferior a una voz (ver §6) |
