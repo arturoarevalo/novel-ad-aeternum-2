@@ -14,7 +14,7 @@ orden_lectura: 40.5
 
 Aslak dejó la furgoneta en la segunda fila de la cubierta y subió al salón con el sobre bajo el brazo.
 
-El ferry de las nueve llevaba seis coches y un camión de pienso. Aslak se sentó junto al mamparo y puso el sobre en la mesa, con el membrete de la Sør-Lyngen kystbrukslag hacia arriba. Dentro iban las tres reproducciones autorizadas, la copia del borrador y la lista de la asociación con once nombres.
+El ferry de las nueve llevaba seis coches y un camión de pienso. Aslak se sentó junto al mamparo. Puso el sobre en la mesa, con el membrete de la Sør-Lyngen kystbrukslag hacia arriba. Dentro iban las tres reproducciones autorizadas, la copia del borrador y la lista de la asociación con once nombres.
 
 A las siete había abierto el cajón del refugio. El paño a medio remendar se quedó en la mesa del cobertizo. Las agujas seguían clavadas en la tabla, por tamaño.
 
@@ -110,7 +110,7 @@ El funcionario pasó dos hojas y volvió atrás.
 
 —El acta no dice eso.
 
-Aslak lo apuntó en el reverso del sobre.
+Aslak lo apuntó en el sobre.
 
 —¿Cuántos días antes?
 
@@ -134,7 +134,7 @@ El funcionario levantó las doce páginas del anexo. Llevaban un sello del órga
 
 —Son el tramo que pidió la asociación. Hay nueve años detrás.
 
-Seppola apartó su copia dos dedos y no preguntó más. El funcionario selló el anexo y devolvió la carpeta. Maja la cerró y no volvió a abrirla. No le pidieron otra cosa y ella no la ofreció.
+Seppola apartó su copia dos dedos y no preguntó más. El funcionario selló el anexo y devolvió la carpeta. Maja la cerró. No volvió a abrirla. No le pidieron otra cosa y ella no la ofreció.
 
 El radiador arrancó a mitad de la lectura. Marit corrió su silla hacia el otro lado.
 
@@ -252,7 +252,7 @@ Nils siguió a partir de njeallje y falló el peso de la quinta. La caja golpeó
 
 Volvieron a subirla entre los dos. Nils lo repitió con la sexta. El comprador pagaba por caja y descontaba el hielo. El pasaje, el gasoil y la tarde perdida sumaban trescientos y una marea.
 
-Aslak comprobó la guía de proa y apretó una mordaza floja. A las cinco y diez quedaban dos cajas. La luz de mayo les daba hasta las once.
+Aslak comprobó la guía de proa. Apretó una mordaza floja. A las cinco y diez quedaban dos cajas. La luz de mayo les daba hasta las once.
 
 —¿Qué han dicho? —preguntó Nils.
 

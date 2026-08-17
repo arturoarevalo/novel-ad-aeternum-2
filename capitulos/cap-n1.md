@@ -62,7 +62,7 @@ Jessie cerró la puerta y echó a andar la primera.
 
 El portal daba a una escalera con barandilla de tubo. En el primer piso había un perchero de cuatro ganchos y una papelera vacía. Debajo del perchero alguien había dejado unas botas de niño con la nieve todavía sin derretir. Del fondo del pasillo llegaba una radio, y alguien la apagó antes de que llamaran.
 
-Esperaron de pie hasta que se abrió la puerta. Nadie salió por ella.
+Esperaron de pie hasta que se abrió la puerta. No salió nadie.
 
 La sala tenía cuatro sillas alrededor de una mesa baja. Jessie se sentó junto a la puerta. Nora eligió la de enfrente. Maja ocupó la que quedaba entre las dos.
 
@@ -394,7 +394,7 @@ Maja abrió el bolso para guardarla. Sus dedos tocaron los documentos, la carter
 
 —Bien.
 
-Nora se puso el abrigo y se lo abrochó hasta arriba. Jessie ya llevaba el suyo. Maja juntó los cuatro vasos en el centro de la mesa.
+Maja juntó los cuatro vasos en el centro de la mesa. Nora se puso el abrigo y se lo abrochó hasta arriba. Jessie ya llevaba el suyo.
 
 * * *
 

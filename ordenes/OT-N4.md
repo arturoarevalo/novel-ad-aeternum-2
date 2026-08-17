@@ -222,3 +222,23 @@ En los cuatro capítulos donde Coro aparece, **habla**: sostiene una frase enter
 3. **La frase repetida** entre los dos documentos es literalmente `No consta responsable individual.` (cuatro palabras), plantada como registro en I-2 y leída en voz alta por Jessie en I-3; en I-4 se cuenta sin interpretarla.
 4. **Coche sin nieve en la calle (I-4).** Es hipervigilancia procedimental de Maja (anota la matrícula junto al recuento de la caja), **no un cuarto golpe**: el coche lleva cartón de aparcamiento y no ocurre nada. Si A4/A5 lo leen como amenaza nueva, se borra sin coste (3 frases).
 5. **«Las dos cosas estaban en la misma carpeta y no se contradecían»** (I-4) es la única frase con ironía de narrador; sigue el patrón de 22:49 («Los permisos funcionaban; los nodos seguían preguntando»). Si A4 la considera glosa, cae.
+
+---
+
+## §9.1 · Pasada de línea A4 (W3, 2026-08-17)
+
+**Palabras 3.170 → 3.156** (−14; banda 2.720–3.680 ✔). **M1 3,8 · 12 únicos (sin cambio) · M2 = 1 · M4 = 0 cierres-objeto · diálogo 27,6 % · frase media 10,7 · máx. 48 (pico T5 designado de I-2) · B6-LN A1 = 0, A2 = 2 (dentro de cupo).**
+
+| # | Línea | Antes → después | Motivo |
+|---|---|---|---|
+| 1 | 197 (I-2R) | «Maja puso el papel junto al monitor **y comparó los dos números en voz baja, cifra a cifra**. Fotografió la pantalla…» → «Maja puso el papel junto al monitor. Fotografió la pantalla…» | **Diferenciación de voces (T4)**, alerta VOZ del auditor adverso **aceptada**. «Comparó… cifra a cifra» es literalmente el método de Nora 140 líneas antes (57: «Las comparó grupo por grupo, de izquierda a derecha»): Maja adoptaba la sintaxis de su hija. El hecho no se pierde —lo dice la propia Maja, en su registro, dos réplicas antes: «La pantalla dice una cosa y el papel dice otra»—, y ella sigue haciendo lo suyo: fotografiar, guardar y ordenar («Anótalo tú también»). Elimina de paso un hit A2 («en voz baja»). −9 palabras. |
+| 2 | 339 (I-5) | «Cada una conserva su atestación de origen **y por eso** se dejan contar.» → «Cada una conserva su atestación de origen. Se dejan contar.» | Huella: v0 no encadena causa con «por eso» en narración (0 en 63.000 palabras); coordina por yuxtaposición. El corte además deja un golpe de tres palabras que prepara «Siete.» −2 palabras. |
+
+**Veredictos del auditor adverso que A4 rechaza y por qué**
+- **I-5 (el espejo de Jean), «NO PAGA · borrar 486 palabras»: RECHAZADO.** Es la carga útil de R4, aprobada en G-A1, y su criterio de éxito es un test de lector frío (§6, criterios 1–4), no la compresión. El auditor lee «diagrama narrado» donde hay acción vista: la sección no enuncia ninguna regla —muestra ocurrir las que 13:249-255, 17:111, 21:29 y 21:95 ya establecieron— y A5 la verificó contra el canon de Coro sin un solo choque. Su ritmo, además, es el menos mecánico del capítulo (frases de 1–5 palabras intercaladas en toda la sección; medida en `ritmo2_w3.py`), lo contrario de un diagrama. Sus objeciones de detalle (la etiqueta `INTERFERENCIA EXTERIOR · CONTENIDA`, la duplicación por margen) son beats prescritos literalmente por §3 I-5 y §5 (ripple de 36).
+- **Mensaje de Inger (I-2 opcional), «NO PAGA»: CONSERVADO.** No abre un cuarto foco de amenaza: no amenaza a nadie y no dice quién pregunta. Paga `S16-inger` («Que alguien haga la pregunta adecuada»), que es la única constancia en el libro de que la consulta de Inger del 13-dic tuvo consecuencias, y cierra la sección sobre un gesto con decisión (Maja **no** marca y anota la hora), no sobre un objeto. Coste: 45 palabras. **Si A0 quiere reducir, sigue siendo el corte más barato del capítulo** (3 frases, sin más ripple que el beat de OT-16).
+- **I-3R (autorización posterior y frase idéntica), «NO PAGA»: CONSERVADO.** Es el encargo literal de R4 (§3 I-3R) y la costura que I-5 explica; la objeción de verosimilitud («no es creíble que la policía cierre la revisión») es precisamente el punto: se cierra en falso y nadie firma.
+- **I-4R, I-2R, coche sin nieve:** conservados. El coche sin nieve lleva cartón de aparcamiento y no ocurre nada: es hipervigilancia de Maja, no un cuarto golpe.
+- **Recortes de compresión (1.031 palabras)** no aplicados: dejarían el capítulo en 2.139, por debajo del suelo de 2.720.
+
+**Sensibilidad:** ninguna frase marcada para A7. Ningún hit nuevo; ninguna línea tocada nombra la muerte de Jean, el método, el lugar ni «Despedida». I-5 sigue sin verbos de sentimiento y sin identificar a nadie.

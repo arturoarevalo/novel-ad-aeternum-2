@@ -113,3 +113,20 @@ Muestra binaria de 16 réplicas nuevas (8 Nora / 8 Jessie), sin acotación, repa
 - **A5:** fecha `2060-12-16` sin hora, jueves; canon nuevo que anotar en B1/B2: instituto único sin nombre, grupos **1STA** (Nora) y **1STC** (Jessie), **aula 214**, tutora sin nombre, vuelta a clase el 16-dic, la cuenta sigue suspendida al cierre y la revisión la lleva la plataforma («nosotros abrimos el tres» → entrante de N4). Ninguna mención a Fyret desde el centro (el día anterior aparece solo desde dentro de Jessie: «un vestíbulo, a una agente»). Sin luz diurna en escena (alumbrado encendido desde por la mañana).
 - **A8:** M4 = 0 cierres-objeto; los cuatro cierres de escena son gesto con decisión (×3) y réplica (×1). El heurístico de `medir.sh` puede marcar 163 («Sindre se la mandó antes de que ella llegara al rellano») como falso positivo.
 - **A4:** dos réplicas quedan deliberadamente cerca del cruce de voces y se conservan porque las pide la escena: «Sigue.» (Jessie, imperativo de una palabra) y «Los hago el lunes. Llevo la materia hasta el tema cuatro.» (Nora, decisión + medida).
+
+---
+
+## §9.1 · Pasada de línea A4 (W3, 2026-08-17)
+
+**Palabras 1.958 → 1.946** (−12; banda 1.700–2.300 ✔). **M1 0,5 · M2 = 0 · M4 = 0 cierres-objeto · diálogo 28,5 % (banda 26–32) · frase media 10,5 · ≤5 palabras 22,0 % · B6-LN A1 = 0, A2 = 0 · vulgarismos de Jessie 1.**
+
+| # | Línea | Antes → después | Motivo |
+|---|---|---|---|
+| 1 | 251 | «…una línea gris sobre la nieve **pisada**. En la marquesina, un autobús paró y arrancó otra vez. **Dos profesores rascaban la escarcha de un parabrisas con una tarjeta.**» → «…una línea gris sobre la nieve. En la marquesina, un autobús paró y arrancó otra vez.» | **Repetición de recurso entre capítulos nuevos** (hallazgo de A4; ninguno de los dos escritores podía verlo). La frase repetía objeto y gesto de la primera frase de N1 («Maja rascó la escarcha del parabrisas con el canto de una tarjeta caducada», n1:15), que es la imagen de apertura de aquel capítulo y va cargada (la tarjeta caducada). Aquí era decorativa. «Nieve pisada» aparecía además en N1, N2 y N5 (v0: 1 vez en todo el libro): se deja solo en N1 y N5. −11 palabras. |
+| 2 | 181 | «La tutora la cerró con el pie mientras buscaba la ficha en el terminal.» → «La tutora la cerró con el pie. Buscó la ficha en el terminal.» | Ritmo: el único bloque de la escena 3 con siete frases seguidas de 6–14 palabras sin golpe. El corte introduce dos frases cortas sin cambiar nada. −1 palabra. |
+| 3 | 331 | «El motor **siguió en marcha**.» → «**No apagó el motor.**» | Repetición verbal entre capítulos: «El motor siguió en marcha» es literal en n1:55. Y la versión nueva convierte un estado en una decisión de Maja (voz). −1 palabra. |
+| 4 | 339 | «—Por la cantina tardo cuatro minutos más y llego con el timbre.» → «—**Si entro por** la cantina, tardo cuatro minutos más y llego con el timbre.» | **Diferenciación de voces (T4).** En la muestra ciega de M6 sobre N2 esta réplica de Nora se atribuyó a Jessie: era medida sin condición. Con la prótasis pasa a la forma canónica de Nora (condición + medida, B6 §4.4), que es exactamente lo que Jessie nunca hace. Sentido idéntico. +2 palabras. |
+
+**Sensibilidad:** ninguna frase marcada para A7. Ningún hit nuevo; la frase de estigma sigue cortada donde estaba y el pie de la publicación no ha cambiado.
+
+**Anotación para A0 / A8 (M6, T4):** las dos pasadas ciegas de `m6-atribuidor` sobre las réplicas de N2 que constan en el material de trabajo de A3b dieron **12/16 y 10/16 (75 % y 62,5 %)** para el par Nora/Jessie, por debajo del objetivo de 80 %. Los fallos no son de vocabulario sino de tema (las dos hablan del mural, de la cuenta y del recuento). El cambio 4 ataca el caso más claro; el resto excede una pasada de línea y conviene medirlo con el protocolo completo de M6b antes del gate.

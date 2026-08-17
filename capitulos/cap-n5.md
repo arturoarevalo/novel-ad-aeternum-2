@@ -132,19 +132,19 @@ Jean busca las marcas de una imagen fabricada. La sombra del andador cae del mis
 
 Nada indica montaje.
 
-La imagen no trae hora. Trae luz de pasillo, un suelo de linóleo y una cuartilla con dos nombres tachados.
+La imagen no trae hora. Trae luz de pasillo y un suelo de linóleo.
 
 —Adjunte el papel de la puerta al caso.
 
 —Solicitud no disponible durante la tarea activa.
 
-Jean revisa lo que puede entregar. SEGURO deja circular la imagen. REVISAR la guarda hasta que alguien la abra. ESCALAR la saca de la serie y la pone donde Jean ya no la ve.
+Jean revisa lo que puede entregar. ESCALAR saca la imagen de la serie y la pone donde Jean ya no la ve.
 
 ESCALAR no entrega una clase. Entrega el caso.
 
-Jean gasta ESCALAR una vez por serie, o ninguna. Lo guarda para lo que no puede quedarse donde está.
+Jean reserva ESCALAR. Lo guarda para lo que no puede quedarse donde está.
 
-Pesa las dos maneras de equivocarse. Escalar sin motivo consume esa única salida y queda registrado. No escalar deja el papel de los dos nombres tachados en un montón que nadie abre.
+Pesa las dos maneras de equivocarse. Escalar sin motivo queda registrado. No escalar deja el papel de los dos nombres tachados en un montón que nadie abre.
 
 El hombre sigue en el suelo, en la parte baja del encuadre, todo el tiempo que Jean tarda.
 

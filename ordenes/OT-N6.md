@@ -106,3 +106,24 @@ Fichero creado: `capitulos/cap-n6.md` (no existía). Frontmatter exacto de §0. 
 3. **Canon fijado para W4 (OT-26 debe respetarlo):** la reunión del 4-ene (26:175) trata del mismo expediente; la servidumbre **sigue**; «paso» vuelve solo como consulta previa **sin plazo**; «uso» no vuelve; el acta admite observaciones quince días y las copias selladas tardan diez. La asociación tenía 23 nombres en 2057 y hoy 11 (dato nuevo, contable).
 4. **Nombres nuevos para B2 §8** (A1-mantenimiento): Marit Sarre (secretaria de la asociación), Jonas Seppola (miembro veterano), Nils Seppola (trabaja con Aslak en el varadero), el funcionario (sin nombre), la cajera de Svensby (ya en B2).
 5. **Riesgos que quiero que miren A7 y A4:** (a) Marit fecha la reserva de la bocana el **21 de enero** —pago literal de 26:191—; es la fecha del Soldagen y el lector la reconocerá, aunque en escena solo significa una bocana cerrada por operaciones; (b) `NO SOY UN MODELO` como consigna callejera y `PERSONA O ACTIVO` como rótulo: sin causa, sin método, sin foto del lugar, sin editorial; (c) el desliz «el activo… la persona» queda sin corregir por decisión de la OT.
+
+---
+
+## §9.1 · Pasada de línea A4 (W3, 2026-08-17)
+
+**Palabras 1.646 → 1.641** (−5; banda 1.445–1.955 ✔). **M1 2,4 · 4 únicos (sin cambio) · M2 = 0 · M4 = 0 cierres-objeto (obligatorio) · diálogo 28,9 % (banda 26–32) · frase media 10,24 → 9,93 · ≤5 palabras 14,0 % → 16,2 % · B6-LN A1 = 0, A2 = 0.**
+
+N6 era el mayor riesgo de «¿mismo autor?» de la oleada: primer POV de Aslak y prosa de trabajo sin diálogo interior. El diagnóstico de ritmo confirmó el punto débil: **tres bloques de 6–7 frases seguidas de 8–16 palabras sin un solo golpe** —el síntoma de staccato mecánico de B6 §2.4—, con el porcentaje de frases ≤ 5 palabras más bajo de los seis capítulos. Los cortes no añaden ni quitan un hecho: parten frases por su coordinación, que es como parataxiza v0.
+
+| # | Línea | Antes → después | Motivo |
+|---|---|---|---|
+| 1 | 17 | «Aslak se sentó junto al mamparo **y** puso el sobre en la mesa, con el membrete…» → «Aslak se sentó junto al mamparo. Puso el sobre en la mesa, con el membrete…» | El capítulo abría con cuatro frases seguidas de 13–22 palabras. La partición da 6 + 17 y deja la apertura con el peso de v0 (nombre de la POV, objeto, acción). +1 palabra. |
+| 2 | 113 | «Aslak lo apuntó en el **reverso del** sobre.» → «Aslak lo apuntó en el sobre.» | **Repetición de recurso entre capítulos nuevos:** anotar «en el reverso de» un papel aparece siete veces en los seis capítulos (N1, N2, N3 ×2, N4 ×2, N6) frente a cuatro en todo v0. En la familia es un rasgo de carácter y se conserva; en Aslak era la única aparición fuera de la familia y hacía que el patrón anotara como anota Maja. −2 palabras. |
+| 3 | 137 | «Maja la cerró **y no volvió a abrirla**. No le pidieron otra cosa…» → «Maja la cerró. No volvió a abrirla. No le pidieron otra cosa y ella no la ofreció.» | Rompe el bloque uniforme de siete frases de 8–10 palabras con dos frases de 3 y 4. Los tres hechos se conservan intactos, incluido «ella no la ofreció». −1 palabra. |
+| 4 | 255 | «Aslak comprobó la guía de proa **y** apretó una mordaza floja.» → «Aslak comprobó la guía de proa. Apretó una mordaza floja.» | Ídem en el bloque del varadero. −1 palabra. |
+
+**Resultado:** bloques uniformes 3 → 1 (el que queda, en el varadero, alterna 7 y 16 palabras y contiene el cabo que A7 dejó en `vigilar`: no se toca). Los cuatro cierres de escena siguen siendo gesto con decisión (1) y réplica (3): **0 cierres-objeto**, como exige D1 §5.
+
+**Sensibilidad:** ninguna frase marcada para A7. Ningún hit nuevo; los dieciséis hits de nivel B siguen siendo el léxico costero de oficio que A7 ratificó en `a7-w3-n2-n6.md` §3. `NO SOY UN MODELO`, los dos renglones corridos por la lluvia (P-7) y el desliz «el activo… la persona» quedan exactamente como estaban.
+
+**Nota de voz (A0):** la narración de Aslak no necesitó ninguna corrección de dialecto. Cuenta, resta y pone condiciones; el sami entra sin glosa en la cuenta de las cajas y no hay una sola sentencia sobre la tierra ni sobre el pueblo. Con los cuatro cortes, su sintaxis pasa a ser la de la casa y no un registro aparte.

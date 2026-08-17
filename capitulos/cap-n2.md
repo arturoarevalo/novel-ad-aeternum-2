@@ -178,7 +178,7 @@ Nora llevaba dos frases preparadas desde el cinco de diciembre. No hizo falta ni
 
 —Me ha tocado a mí.
 
-Por la puerta entreabierta pasaban voces y ruedas de mochila. La tutora la cerró con el pie mientras buscaba la ficha en el terminal. El parte de Jessie estaba boca arriba sobre la mesa, entre las dos. Nora no lo giró hacia ella.
+Por la puerta entreabierta pasaban voces y ruedas de mochila. La tutora la cerró con el pie. Buscó la ficha en el terminal. El parte de Jessie estaba boca arriba sobre la mesa, entre las dos. Nora no lo giró hacia ella.
 
 Nora dejó las hojas contestadas en la bandeja. En el reverso de la última cabían tres columnas y un apartado de origen. Dejó el lápiz en el bolsillo.
 
@@ -248,7 +248,7 @@ Lo sacó, lo abrió sobre la rodilla y volvió a doblarlo por la misma línea. D
 
 Abrió el mensaje de Sindre. La publicación seguía ahí. Hizo una captura, la guardó en el teléfono y no la reenvió a nadie. Después le puso la fecha en el nombre.
 
-Un camión de sal pasó por delante del aparcamiento y dejó una línea gris sobre la nieve pisada. En la marquesina, un autobús paró y arrancó otra vez. Dos profesores rascaban la escarcha de un parabrisas con una tarjeta.
+Un camión de sal pasó por delante del aparcamiento y dejó una línea gris sobre la nieve. En la marquesina, un autobús paró y arrancó otra vez.
 
 El alumbrado de la rampa llevaba encendido desde por la mañana.
 
@@ -328,7 +328,7 @@ En el aparcamiento quedaban tres coches. Un grupo de primero pasó por delante d
 
 Jessie se levantó el cuello del abrigo cuando el viento cambió de lado. El parte hacía bulto en el bolsillo y lo pasó al otro lado.
 
-El coche de Maja subió por la rampa y paró en doble fila con las luces puestas. Maja llevaba la parka encima del jersey de trabajo. El motor siguió en marcha.
+El coche de Maja subió por la rampa y paró en doble fila con las luces puestas. Maja llevaba la parka encima del jersey de trabajo. No apagó el motor.
 
 —Las dos, dentro —dijo Maja.
 
@@ -336,6 +336,6 @@ Nora se levantó primero.
 
 —Mañana entras por la cantina —dijo Jessie.
 
-—Por la cantina tardo cuatro minutos más y llego con el timbre.
+—Si entro por la cantina, tardo cuatro minutos más y llego con el timbre.
 
 —Perfecto. Pues me pongo delante.

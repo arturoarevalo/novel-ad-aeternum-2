@@ -276,7 +276,7 @@ Alana llenó los tres vasos de la mesa.
 
 —El viernes.
 
-Alana apuntó la fecha en el móvil sin que nadie se lo pidiera. Preguntó dos veces por la receta de la sopa y las dos veces se le olvidó apuntarla.
+Alana apuntó la fecha en el móvil sin que nadie se lo pidiera. Preguntó dos veces por la receta de la sopa y las dos se le olvidó apuntarla.
 
 —¿Para qué la apuntas? —preguntó Jean.
 
@@ -344,7 +344,7 @@ La caja D eran papeles del piso. Recibos, el contrato del suministro, dos avisos
 
 Maja hizo una lista en el reverso de uno de los avisos: luz, agua, seguro, buzón. Debajo escribió la fecha del treinta y uno y la subrayó.
 
-La luz y el agua se daban de baja por la red. Las dos pedían el mismo documento. Maja lo adjuntó dos veces. Anotó los números de referencia al lado de cada palabra.
+La luz y el agua pedían el mismo documento. Maja lo adjuntó dos veces. Anotó los números de referencia al lado de cada palabra.
 
 El seguro no abría hasta el tres. Ese quedó el último, con una hora escrita delante. El correo del piso pasaba a esta dirección desde el día uno. Maja guardó el talonario de sellos en el cajón del teléfono. El resto era ir.
 

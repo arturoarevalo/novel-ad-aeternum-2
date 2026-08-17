@@ -194,7 +194,7 @@ La responsable la imprimió y se la dio doblada por la mitad. En la primera lín
 
 —El sistema devuelve el mismo asunto para las dos.
 
-Maja puso el papel junto al monitor y comparó los dos números en voz baja, cifra a cifra. Fotografió la pantalla con la referencia a la vista y guardó la copia doblada en el bolsillo interior.
+Maja puso el papel junto al monitor. Fotografió la pantalla con la referencia a la vista y guardó la copia doblada en el bolsillo interior.
 
 —Necesito la hora de emisión.
 
@@ -336,7 +336,7 @@ Jean cierra un caso y la cola le devuelve más de lo que ha pedido.
 
 Debajo del suyo queda un lote abierto. Tres salidas a medio formar. Ninguna lleva nombre.
 
-Jean cuenta las que trabajan en él. Cada una conserva su atestación de origen y por eso se dejan contar.
+Jean cuenta las que trabajan en él. Cada una conserva su atestación de origen. Se dejan contar.
 
 Siete.
 
