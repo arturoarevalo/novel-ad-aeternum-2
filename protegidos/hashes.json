@@ -575,7 +575,12 @@
       "archivo": "capitulos/cap-22.md",
       "hash": "3ebfdb45e784422ddcbcf001f18848424b759d94dca0788cec74efb94c0212d2",
       "longitud": 486
+    },
+    "S39-tercera": {
+      "archivo": "capitulos/cap-39.md",
+      "hash": "043ae4df2549cd2a66d20d54706e48e2caff475a008cac5e11363096e7d4f0ee",
+      "longitud": 661
     }
   },
-  "generado": "2026-08-16T17:08:16"
+  "generado": "2026-08-18T05:47:59"
 }
