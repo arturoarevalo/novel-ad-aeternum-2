@@ -277,3 +277,98 @@ Dos frases, ambas en cap-06 (C-2 y C-3), y una segunda lectura mía focalizada d
 Dicho sin la tabla: **W4a es la oleada más limpia que he revisado.** Cero hits de nivel A, una sola línea nueva que nombra a Jean, ninguna que nombre la muerte, y las dos escenas que los jurados fríos pedían por separado resueltas por objeto y por decisión, sin que nadie explique nada a nadie. La escena del locutorio de Maja frente a la técnica —el papel, el pliegue, el «No»— es de la familia de 4, 23 y 40: confía en el lector y no lo consuela. Lo que corrijo es una incoherencia con efecto secundario y una relación horaria que invitaba a poner un reloj donde el libro no lo pone. Nada más.
 
 Firmado, **A7** · 2026-08-18 · sobre `git diff main..HEAD -- capitulos/` @ `1143abf` (rama `w4-familia`).
+
+---
+
+# 9 · Segunda lectura (diff post-A4) — C-1
+
+**Fecha:** 2026-08-18 · **Base:** `git diff 59a005e..HEAD -- capitulos/cap-06.md capitulos/cap-33.md capitulos/cap-39.md` (commit `634b6c3`, «A4 · pasada de línea de la primera tanda de W4»), leído contra el entorno inmediato de cada cambio y contra v0 donde hacía falta. **Alcance:** el que fijé en C-1 (06, 33 y 39). No he releído los capítulos enteros.
+
+**Verificación previa de que leo el estado real.** El árbol de trabajo tiene modificaciones sin confirmar en 02, 15, 25, 37 y 38 (W4b en curso), pero **ninguna en 06, 33 ni 39**: para los tres focales, HEAD = árbol de trabajo. Lo que apruebo aquí es el texto que hay ahora en el repositorio.
+
+## 9.1 · Mediciones propias
+
+| Comprobación | Resultado |
+|---|---|
+| Líneas modificadas en los tres focales | **9** (06: 2 · 33: 3 · 39: 4). Ninguna es frase nueva: todas son reescrituras o supresiones. |
+| Palabras (59a005e → HEAD) | cap-06 **−1** · cap-33 **−6** · cap-39 **−5**. **Los tres restan.** |
+| Patrones **nivel A** (`b7-patrones-A.txt`) sobre las líneas añadidas de los tres | **0.** |
+| Patrones **nivel B** sobre las mismas | **2**, ambos falsos hits de oleada: 33 (`naust`, `agua`) es la línea ya aprobada en §5.3, ahora con **menos** imagen; 39 (`frío`) es «mantener la ejecución con frío», texto de v0 en una frase meramente recastada. |
+| Grep dirigido (muerte, entierro, funeral, cadáver, luto, Despedida, carta, nota, «por qué», culpa, paz, descanso, liberación, lógico, «decidió irse», adiós) sobre las líneas añadidas de los tres | **0 hits.** |
+| Grep de contacto físico sobre las mismas | 4 coincidencias, **las cuatro falsas**: «apoyada en la pared», «en los hombros», «dorso de la mano» (texto previo arrastrado en la línea reescrita) y «no las apoyaba en nada», que es **ausencia** de contacto. **Cero contacto físico nuevo.** |
+| `herramientas/proteger.sh verificar` (ejecutado por mí) | **M9 OK · 8 ficheros íntegros · 109 spans íntegros.** |
+| `capitulos/00-aviso.md` y `capitulos/99-recursos.md` | **diff = 0** desde F0. Punto 5 de la Carta intacto. |
+
+## 9.2 · cap-06 · C-2 y C-3
+
+**C-2 (06:101): aplicada literal y vigente.** El texto dice «**Sin la parka**, el jersey se le había endurecido en los hombros.» — mi redacción preferente, palabra por palabra. La incoherencia con 06:81 queda resuelta y el dato físico sigue siendo consecuencia del gesto de cuidado, no exposición subrayada.
+
+**C-3 (06:247): vigente la variante «La lista no empezaba allí. Maja no la desplegó.» — es una de las dos que autoricé en §2.2, al carácter.** La confirmo, y añado que en este caso **la alternativa es mejor que mi preferente**: el párrafo ya trae «ocupaban la pantalla» y «Dieciséis llamadas salientes», de modo que «Había más llamadas fuera de la pantalla» repetía dos sustantivos a una línea de distancia. El motivo de A4 es correcto.
+
+**Y no introduce relación horaria ambigua.** Es la comprobación que importaba: «allí» apunta al borde de lo visible (la última llamada, «de poco antes de las once»), no a una hora; la dirección implícita es **hacia atrás** —hay llamadas anteriores cuyo comienzo Maja no despliega—, que es exactamente el sentido que pedía la cala; y **no aparece ninguna hora nueva**. Con «por encima de esa hora» el lector podía montar un reloj después de las once, es decir, alrededor del acto; con la redacción vigente no hay reloj que montar. Riesgo cerrado.
+
+El resto del párrafo sigue intacto, incluido el techo de P-15 («Maja no le preguntó desde cuándo llamaba. Nora tampoco lo dijo.»), y «Dieciséis llamadas… poco antes de las once» sigue siendo canon literal de v0 (v0:240): P-15 respetada, sin nueva cuantificación ni nueva fecha.
+
+**Segundo cambio de A4 en 06:101, no previsto pero limpio.** Fusión de dos frases («Volcó la bota derecha antes de ponérsela **y** terminó de calzarse de pie») y «Jessie **la esperaba** allí» → «Jessie **ya estaba** allí». Cero información nueva; refuerza la lentitud de Maja, que es lo que la cala dramatiza; no cambia quién percibe qué; no roza el perímetro. Aprobado. La hoja de efectos personales de 6:219 no se toca ni se desplaza: **C-4 de W3 y P-14 siguen cumplidas**.
+
+## 9.3 · cap-33 · nada nuevo cerca del naust ni de la bajamar
+
+Confirmo la afirmación de A4: sus tres cambios **restan imagen y no suman ninguna**. Los enumero porque el segundo estaba bajo mi vigilancia expresa.
+
+1. **33:19** — «una marca en **la cara interna de** las rodillas» → «una marca en las rodillas». Es el **recorte opcional que yo mismo autoricé** en §5.3(c). Aplicado. El margen del punto 7 crece tres palabras sin coste.
+2. **33:225** — «Se había sacado las manos de los bolsillos **y las tenía abiertas, sin apoyarlas en nada**» → «…**y no las apoyaba en nada**». Este es el párrafo por el que escribí «si A4 toca este párrafo, vuelve a mí». Lo ha tocado **para desactivar la única pieza que me preocupaba**: desaparecen las manos abiertas, que eran el elemento icónico de la composición «hija en el umbral con las manos vacías». Queda el gesto operativo (dejar de comprobar el material), que es la lectura barata que ya estaba a dos líneas. **El riesgo que dejé en `vigilar` baja.** «El agua no devolvía la luz de la tableta» sigue igual, dentro del techo de P-16.
+3. **33:211** — «El olor de fuera **entraba por debajo del portón**» → «**se colaba por el portón**». Mismo beat olfativo, misma información, ninguna imagen nueva de agua, hielo, oscuridad ni reflejo: **P-16 no se toca**. Anoto en `vigilar`, sin obligación: «colarse» es un punto más animado y pierde la precisión mecánica de «por debajo», que estaba más cerca de la voz de v0 en el capítulo donde puse techo. **Revertir a «entraba por debajo del portón» queda autorizado** y no cuesta nada; decide A0. No es condición.
+
+Ni una imagen nueva en el naust, en el portón, en el pantalán ni en la marea. «El hielo del pantalán llegaba ya al segundo travesaño. La barca estaba más baja que al llegar.» permanece exactamente como se aprobó.
+
+## 9.4 · cap-39 · `S39-tercera` y las dos antepuestas
+
+**El span está intacto al carácter, y lo he verificado yo, no me he fiado del md5 ajeno.** Extraído por sus marcas de `protegidos/spans.json` en HEAD y en `59a005e`:
+
+- longitud **661** en ambos y **661** la registrada;
+- `sha256` **`043ae4df2549cd2a66d20d54706e48e2caff475a008cac5e11363096e7d4f0ee`** en HEAD = el registrado en `protegidos/hashes.json`;
+- `md5` **`b01dc9456f61c3442b304cee58ae39dc`** (coincide con lo declarado por A4);
+- comparación directa cadena a cadena HEAD vs `59a005e`: **idénticas**.
+
+Además, el bloque de líneas **160–200** de cap-39 es idéntico en ambos commits: no solo el span, también **su vecindad**, que es lo que P-13 protege de verdad. La contigüidad «La técnica tocó el precinto y anotó la hora.» → «Maja no solicitó acceso.» sigue sin nada en medio. **P-12 y P-13 cumplidas.**
+
+**Las cuatro modificaciones de cap-39 caen en las líneas 17, 21, 85 y 105**, todas muy por delante del span (177-191) y ninguna dentro de `S39-ausencia` (que cierra en 175, intacta).
+
+- **17 y 21 (las dos antepuestas recastadas):** «Antes de la tarde, el consejo de Armstrong había obtenido…» → «El consejo de Armstrong había obtenido antes de la tarde…»; «Al día siguiente, el tribunal exigió precisión.» → «El tribunal exigió precisión al día siguiente.» Mismos hechos, mismas fechas, mismo agente, **misma voz**: son frases de registro sin focalizador, de modo que no hay «quién percibe» que mover. Cero información nueva, cero perímetro (son fechas de enero). Aprobadas. *Nota de cortesía, fuera de mi gate:* en 17 quedan tres sintagmas con «de» encadenados («un *standstill* de setenta y dos horas de los acreedores principales»); si A4 o A5 quieren afinarlo, a mí me da igual desde sensibilidad.
+- **85:** «no lo **dejó** en el respaldo» → «no lo **colgó**»; «no **volvió a tocarlo**» → «no **lo tocó más**». Contenido idéntico, misma observación externa de Jessie y de Maja en sala. Aprobado.
+- **105:** «esperó de pie **a que** la letrada **retirase**» → «**mientras** la letrada **retiraba**», y se suprime «**y no se sentó**». Comprobado que **no abre hueco**: que Tomas sigue de pie ya lo dice «esperó de pie» en la misma frase, y el párrafo siguiente lo pone a actuar («Tomas presentó el carné y la exportación»). Lo que queda —«Nadie le indicó dónde sentarse.»— es una nota institucional seca, del registro del libro. Aprobado.
+
+## 9.5 · Transversal del diff de los tres focales
+
+- **¿Alguna supresión o reordenación crea un hueco nuevo?** No. Las seis supresiones son redundancias (06: «Terminó» como frase suelta; 33: la cara interna, las manos abiertas; 39: «y no se sentó») o sustituciones equivalentes. Ninguna deja sin respuesta algo que el texto contestaba, y ninguna deja un blanco que el lector pueda rellenar con la pregunta reservada. El **único** hueco deliberado del bloque sigue siendo el de `S39-tercera`, protegido por hash y sin vecindad alterada.
+- **¿Alguna frase nueva nombra la muerte de Jean?** No hay frases nuevas, y en las líneas reescritas: **0 hits** del grep de muerte/entierro/funeral/cadáver/luto. La única línea de toda la tanda que nombra a Jean (06:247) sigue siendo la de v0 alargada.
+- **¿Contacto físico?** Cero nuevo. En 33 el cambio va justo en la dirección contraria: elimina un gesto de manos.
+- **¿Causa?** Cero. Al contrario: 06:247 **elimina** la relación horaria que invitaba a reconstruir un reloj alrededor del acto, que era la aproximación a la causa más cercana que tenía la tanda.
+
+**Los seis capítulos liberados en C-1 (14, 16, 22, 27, 28, 29) siguen liberados.** He comprobado la condición que puse («la mera edición de línea no los devuelve a mi mesa; cualquier frase nueva, sí»): A4 **no ha añadido ni una frase nueva** en ninguno de los seis; son 13 líneas reescritas y tres supresiones. Una de ellas me favorece y la registro: en **14:177** desaparece «Alana no la leyó.», con lo que se resuelve la duplicación con 14:191 y **baja en uno** el recuento del motivo de §6.1. Lo que sostenía el equilibrio de P-17 —«La página estaba vuelta hacia una mujer que no necesitaba leerla.»— sigue en su sitio, y 14:191 no se toca. Sin objeción.
+
+## 9.6 · Incidencia que debe constar: el commit de A4 lleva dentro material de W4b que no ha pasado por mi gate
+
+No afecta a C-1, pero no puedo dejar de anotarlo, porque el encargo me llegó con la premisa «el pre-chequeo T7 sobre los nueve da 0 hits de nivel A nuevos», y esa premisa **no describe el commit**.
+
+`634b6c3` toca **20 capítulos**, no nueve. Junto a la pasada de línea de la primera tanda viaja **prosa nueva de la segunda tanda** en 02, 07, 10, 11, 12, 15, 18, 19, 25, 37 y 38: **240 de las 249 líneas añadidas del commit son de capítulos que no están en mi gate**, cap-25 solo aporta 111. Barrido mío sobre el total de líneas añadidas del commit: **1 hit de nivel A**, en cap-25 («**Aquella noche** rechazó también la sugerencia de añadir una causa»), es decir el patrón de reconstrucción de las últimas horas. Ese hit **ya no está en el árbol de trabajo** —una edición posterior sin confirmar reordenó la frase y eliminó «Aquella noche»—, y sobre el árbol vigente el recuento de nivel A vuelve a ser **0**. No hay nada que corregir hoy y no abro condición por ello. Lo dejo escrito por tres razones:
+
+1. **T7 se calculó sobre nueve capítulos y se me presentó como si cubriera el diff.** No cubría 11 de los 20 ficheros tocados. Es la misma incidencia de §0.3 por otra vía: el pre-chequeo describe un subconjunto y se lee como si describiera el commit.
+2. **El párrafo de cap-25 es perímetro del más delicado que existe en el libro** (Jean viva, 24-nov, 21:52, el formulario, «Rechazó la sugerencia de añadir una causa», «Después apagó la luz con la mano»). No lo juzgo aquí: lo juzgaré entero en el gate de W4b, y aviso desde ya de los tres frentes que miraré —la proximidad al 26-nov en registro de «últimos actos», el gesto de cierre de la luz, y que la causa declinada **proteja** el porqué plural en vez de convertir la ausencia en respuesta—. También miraré, por P-20 y por colisión con `S39-tercera`, «aquellas **tres líneas**» y «Nadie pidió el texto completo» (cap-11).
+3. **Delimitación de lo que firmo.** Mi aprobación de la primera tanda cubre el estado de los **nueve** capítulos en `634b6c3` y **nada más de la rama**. Si «cerrar la tanda» significara en algún momento fusionar `w4-familia` a `main`, esa fusión arrastraría prosa de W4b sin gate de sensibilidad y **no está autorizada por este levantamiento**: la rama no puede fusionarse hasta que el material de la segunda tanda tenga su propio pase A7. Esto no bloquea nada hoy; solo impide que el cierre de la tanda se convierta, por vía de rama, en una aprobación que yo no he dado.
+
+## 9.7 · Veredicto
+
+| Capítulo | Estado tras la pasada de A4 |
+|---|---|
+| **cap-06** | **APROBADO.** C-2 aplicada literal; C-3 vigente con una de las dos redacciones autorizadas, sin relación horaria. |
+| **cap-33** | **APROBADO.** Tres cambios, los tres sustractivos; el recorte de 33:19 es el que yo autoricé y 33:225 baja de riesgo. `33:211` en `vigilar`, revert opcional autorizado. |
+| **cap-39** | **APROBADO.** `S39-tercera` idéntica al carácter (661 · sha256 `043ae4df…f0ee`), vecindad 160-200 intacta, antepuestas recastadas sin cambio de contenido ni de perceptor. |
+
+# C-1 LEVANTADA
+
+La segunda lectura del diff post-A4 sobre 06, 33 y 39 **no ha encontrado ni un hallazgo de corregir**. La pasada de A4 deja la tanda **más segura** de como yo la aprobé: quita las manos abiertas en el umbral del naust, quita la cara interna de las rodillas, quita una repetición del motivo del texto no leído en el 14 y sustituye la relación horaria del 06 por una fórmula que no permite montar ningún reloj. Doce palabras menos en los tres focales y ninguna frase nueva.
+
+Con C-1 levantada y C-2 y C-3 verificadas como aplicadas, **la primera tanda de W4 queda cerrada por mi parte**, con el alcance de §9.6.3 y con P-12 a P-20 vigentes.
+
+Firmado, **A7** · 2026-08-18 · sobre `git diff 59a005e..HEAD` @ `634b6c3` (rama `w4-familia`), verificado contra el árbol de trabajo.
