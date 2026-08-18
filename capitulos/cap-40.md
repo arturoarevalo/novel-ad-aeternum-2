@@ -22,11 +22,11 @@ La funcionaria señaló el botón amarillo de su consola. Si lo pulsaba, cerrar�
 
 Nora dejó el botón donde estaba. El piloto del canal seguía encendido.
 
-La funcionaria esperó. A su lado, el reloj continuó descontando los veinte minutos.
+La funcionaria esperó. El reloj descontaba los veinte minutos.
 
-El locutorio tenía una mesa, la silla y un cristal lateral. Un teclado de cinco octavas ocupaba casi todo el tablero. A su lado cabían el pedal y la pantalla de texto. En el marco del cristal, una tarjeta plastificada mostraba los dos horarios semanales y los símbolos de audio, escritura y registro. Ninguna ventana daba a la Cripta.
+Un teclado de cinco octavas ocupaba casi toda la mesa. En el marco del cristal lateral, una tarjeta plastificada mostraba los dos horarios semanales y los símbolos de audio, escritura y registro. Ninguna ventana daba a la Cripta.
 
-Maja esperaba en el pasillo. Había firmado la recepción del teclado, comprobado el número del turno y salido del alcance del micrófono. La funcionaria llevaba auriculares detrás del cristal y vigilaba la barra de entrega.
+Maja esperaba en el pasillo. Había firmado la recepción del teclado y salido del alcance del micrófono. La funcionaria llevaba auriculares detrás del cristal y vigilaba la barra de entrega.
 
 Nora llevaba una hoja doblada dentro de la mochila. La noche anterior había escrito una pregunta, la había corregido dos veces y había acabado anotando debajo el primer compás de la pieza. Frente al altavoz, hasta la versión falsa que preparó para comprobar una respuesta le pareció una trampa.
 
@@ -132,7 +132,7 @@ La profesora cerró la puerta del aula cuando Nora aún se quitaba el abrigo. Le
 
 Una tarde encontró otra vez únicamente el nombre `Despedida`. No abrió el archivo. Restringió el acceso, decidió conservarlo y fue a poner la mesa para cenar.
 
-A finales de febrero, Aslak eligió tres reproducciones autorizadas de la carpeta trilingüe y las metió en un sobre de la Sør-Lyngen kystbrukslag. Devolvió el original a su funda y cerró el cajón del refugio.
+A finales de febrero, Aslak metió tres reproducciones autorizadas en un sobre de la Sør-Lyngen kystbrukslag.
 
 —La asociación ha autorizado estas —dijo—. El miércoles nos escuchan.
 
@@ -140,9 +140,9 @@ A finales de febrero, Aslak eligió tres reproducciones autorizadas de la carpet
 
 —Después esperamos el acta. El miércoles no deciden.
 
-Maja esperó a que dejara el sobre junto a su abrigo y le enseñó dos fotografías del hastial del naust. Aslak pidió una medida y propuso el jueves siguiente. Maja aceptó el trabajo.
+Maja le enseñó dos fotografías del hastial del naust. Aslak pidió una medida y propuso el jueves siguiente. Maja aceptó el trabajo.
 
-En Koppangen, Aslak introdujo una palanca bajo la primera tabla mientras Nora sujetaba la pieza nueva contra el muro. Jessie acercó los tornillos. La madera podrida se abrió alrededor de dos clavos y dejó caer serrín húmedo sobre las botas.
+En Koppangen, Aslak introdujo una palanca bajo la primera tabla mientras Nora sujetaba la pieza nueva. Jessie acercó los tornillos. La madera podrida se abrió alrededor de dos clavos.
 
 —Pensaba que aguantaría otro invierno —dijo Nora.
 
@@ -158,7 +158,7 @@ Aslak señaló una cabeza de clavo que sobresalía.
 
 —Vemos el daño y recalculo.
 
-Nora elevó la tabla. Aslak corrigió el corte y la encajó antes de pasar a la segunda. Cuando acabó, las piezas nuevas quedaron demasiado claras junto a las antiguas. Maja efectuó el pago allí mismo. Mientras recogía las herramientas, Aslak les dijo que la consulta tendría otra sesión el mes siguiente.
+Nora elevó la tabla. Aslak la encajó antes de pasar a la segunda. Las piezas nuevas quedaron demasiado claras junto a las antiguas. Maja efectuó el pago allí mismo.
 
 Desde el embarcadero se distinguía la carcasa del sensor judicial bajo el alero del naust. La lente encuadraba un fragmento del muelle y el cable desaparecía en el transmisor precintado.
 
@@ -172,11 +172,11 @@ En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el tecl
 
 La mujer de recepción llamó a la siguiente aspirante mientras las tres salían.
 
-Tomaron la carretera hacia Breivikeidet después de comer en el coche. Aslak estaba con la asociación en la segunda sesión de la consulta. En Koppangen, las tablas nuevas del naust conservaban un color pálido junto a las antiguas.
+Tomaron la carretera hacia Breivikeidet después de comer en el coche. Aslak estaba con la asociación en la segunda sesión de la consulta.
 
-Maja apoyó el terminal judicial sobre un cajón y mostró a Nora una salida textual registrada durante uno de los turnos. Tras la marca de entrega figuraban el identificador de la única ejecución y el nombre `Jean Marie Larsson`. La salida pedía sesenta segundos diarios de imagen y sonido ambiente desde el sensor local, en una sola dirección hasta la entrada exterior de NIDHOGG.
+En Koppangen, Maja apoyó el terminal judicial sobre un cajón y mostró a Nora una salida textual registrada durante uno de los turnos. Tras la marca de entrega figuraban el identificador de la única ejecución y el nombre `Jean Marie Larsson`. La salida pedía sesenta segundos diarios de imagen y sonido ambiente desde el sensor local, en una sola dirección hasta la entrada exterior de NIDHOGG.
 
-El responsable técnico del depósito incorporó la petición al acta de conformidad. Aquella mañana, el tribunal había autorizado la señal del sensor sin retorno, acceso a controles ni más cómputo. Maja cotejó la duración y la dirección en el terminal, programó las doce del día siguiente y dejó constancia de que la primera entrega seguía pendiente.
+El responsable técnico del depósito incorporó la petición al acta de conformidad y el tribunal autorizó la señal. Maja programó las doce del día siguiente y dejó constancia de que la primera entrega seguía pendiente.
 
 Nora miró el teclado que Jessie había dejado en el maletero abierto. A esa hora tenía ensayo con otras tres personas.
 

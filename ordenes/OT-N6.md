@@ -127,3 +127,30 @@ N6 era el mayor riesgo de «¿mismo autor?» de la oleada: primer POV de Aslak y
 **Sensibilidad:** ninguna frase marcada para A7. Ningún hit nuevo; los dieciséis hits de nivel B siguen siendo el léxico costero de oficio que A7 ratificó en `a7-w3-n2-n6.md` §3. `NO SOY UN MODELO`, los dos renglones corridos por la lluvia (P-7) y el desliz «el activo… la persona» quedan exactamente como estaban.
 
 **Nota de voz (A0):** la narración de Aslak no necesitó ninguna corrección de dialecto. Cuenta, resta y pone condiciones; el sami entra sin glosa en la cuenta de las cajas y no hay una sola sentencia sobre la tierra ni sobre el pueblo. Con los cuatro cortes, su sintaxis pasa a ser la de la casa y no un registro aparte.
+
+## 9.2 · Poda de ritmo (W4-R)
+
+**A4 · rama `w4r-ritmo` · 2026-08-18.** Encargo de A0: **las escenas 3 y 4 hacen las dos lo mismo** —«después + el mundo comentando + Aslak vuelve a lo suyo»— y cierran con la misma tesis («—Algo es.» / «—Es un aviso.»); el brief de §2b las ofrecía **como alternativas** y se escribieron las dos. **Orden de A0: quedarse con una.**
+
+**Palabras 1.641 → 1.388 (−253).** Diálogo **28,9 → 31,3 %** (el capítulo sigue siendo el único respiro del bloque y respira más). Tramo máx. sin diálogo **263 → 239**. M1 2,4 → 2,9 únicos/1.000 (4 términos, 5 ocurrencias: sin cambio). **0 cierres-objeto**, antes y después. Sin spans en el fichero; **P-16 respetado: ninguna imagen nueva de agua, hielo, oscuridad o reflejo** —no hay una sola frase nueva en el capítulo—; **41 no se anticipa**.
+
+**Qué se ha ido**
+
+| # | locus | −pal. | qué |
+|---|---|---:|---|
+| 1 | `:29` | 23 | El café de la máquina en el ferry (Aslak vuelve a comprar café en la tienda: la cuenta del día se conserva). |
+| 2 | `:47` | 36 | Segunda aparición de la pantalla del salón. Queda la primera con `PERSONA O ACTIVO`, que es la pincelada que pedía I-1. |
+| 3 | `:201–:229` | 167 | **La escena de la tienda de Svensby**, salvo la hoja pegada. Se van el aparcamiento, el tablón, las estanterías, los dos hombres discutiendo una palabra y **el intercambio con la cajera**, incluida la tesis «—Algo es.» |
+| 4 | `:233` | 27 | La carretera del refugio y el coche del correo: la transición ya la hace la parada en la tienda. |
+
+**Qué se conserva de la escena suprimida (36 palabras, sin una sílaba nueva):** «Paró en la tienda antes de subir al refugio», la hoja impresa `NO SOY UN MODELO` con la última palabra tachada y los dos renglones corridos por la lluvia, y la compra (café, pilas, cinta), que mantiene la parada dentro de la cuenta del día. Van delante de «Dejó el acta en el cajón del refugio», que es el **pago de I-3** (40:141 «Después esperamos el acta»; 26:121 «La asociación decidirá lo suyo»). La escena superviviente es la 4: **Aslak vuelve al oficio, Nils, el sami sin glosa, el precio de la tarde y una sola tesis, «Es un aviso», seguida de un acto**, que es exactamente lo que pedía I-4.
+
+**Duda para A0 (la única que me duele):** con la cajera se va «Mi padre alegó en el cincuenta y siete. Le contestaron dos años después», la memoria vecinal del expediente. Restituirla en su versión mínima —cuatro réplicas, ≈45 palabras, sin tienda ni compra— es barato y sube el diálogo; **no lo he hecho porque A0 pidió una sola escena y una sola tesis**. Queda a decisión de A0.
+
+**Arbitraje de A0 (2026-08-18) · restitución parcial de la escena 3.** A4 señaló la pérdida de «Mi padre alegó en el cincuenta y siete» y ofreció restituirla; se acepta y se amplía al cierre del intercambio.
+
+Se restauran, verbatim, **la cajera y las dos réplicas finales**; se mantienen podados el inventario de estanterías, los dos hombres discutiendo el rótulo, el aparcamiento con el tablón y el párrafo de la carretera. Se recupera el dinkus, que ahora marca el salto tienda → refugio que hacía el párrafo de la carretera.
+
+Motivo: N6 es el último capítulo nuevo del libro y **«—Ahora, antes de cerrar el paso, preguntan. / —Algo es.» es la única enunciación de lo que se ha ganado**. El acta sin esa medida es un trámite. «Mi padre alegó en el cincuenta y siete. Le contestaron dos años después» es lo que le da escala: la asociación lleva tres generaciones alegando.
+
+Coste nulo para el ritmo: es el capítulo con **más diálogo del bloque** y la restitución lo sube. **1.388 → 1.460 palabras (−181 sobre 1.641). Diálogo 28,9 → 32,5 %.**

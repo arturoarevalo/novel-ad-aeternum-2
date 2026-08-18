@@ -34,8 +34,6 @@ Henrik presentó el siguiente caso de la demostración. La plantilla prevista no
 
 Una risa escapó cerca del pasillo central. Le siguieron otras dos, más bajas, hasta que la palabra permaneció el tiempo necesario para que nadie pudiera fingir que era parte del espectáculo. En la cabina, una técnica recuperó la salida anterior y volvió a cargarla. La misma etiqueta regresó con una marca temporal nueva.
 
-El cristal de la cabina daba a una superficie de nucas y pantallas pequeñas. En las primeras filas, los fotógrafos habían bajado las cámaras a la vez. Nora contó cuatro que las levantaron otra vez.
-
 —Sigue —dijo el regidor por el intercomunicador.
 
 Henrik obedeció. Reformuló la entrada como si estuviera ofreciendo al sistema una segunda oportunidad. Nora pulsó la primera nota. El canal la tomó sin recorte.
@@ -211,8 +209,6 @@ Los acuses se multiplicaron. Alana continuó junto al escenario con su nombre al
 A las 13:07, la puerta central se abrió. Entraron dos funcionarios del ministerio. No apagaron las cámaras. Esperaron a que Astrid comprobara el último acuse y le presentaron una tableta.
 
 —Inspectora Vik, queda notificada. La manifestación ha activado la orden condicional de custodia estratégica preparada tras la cautelar denegada.
-
-Las cámaras se habían girado hacia la puerta central. Nadie volvió a sentarse en las filas del centro. El primer funcionario mantuvo las manos por delante mientras una acomodadora abría la puerta lateral y la sostenía.
 
 El membrete, la firma y la facultad invocada eran correctos. Sujeta a revisión judicial, la medida suspendía traslado, modificación y cesión y ponía soportes y canales bajo custodia inmediata.
 

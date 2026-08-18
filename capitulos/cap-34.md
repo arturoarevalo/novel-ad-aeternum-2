@@ -50,9 +50,7 @@ La encargada de prensa apartó la bandeja y acercó de nuevo la tarjeta. El marc
 
 El pase abrió el backstage y rechazó el corredor de la sala de control. Nadie comentó el pitido rojo.
 
-Su nombre ocupaba las hojas de movimiento con un recuadro dorado, reservado para quienes debían aparecer en los planos generales. En el plano técnico, una flecha ámbar terminaba ante dos corredores muertos.
-
-En el camerino la esperaba una carpeta con horarios, temas aprobados y su cargo sin verbo. `ALANA ARMSTRONG · FUNDADORA EMÉRITA`. Una redactora le pidió treinta segundos junto al cartel de ARGOS.
+En el camerino la esperaba una carpeta con su cargo sin verbo. Una redactora le pidió treinta segundos junto al cartel de ARGOS.
 
 —Solo necesitamos que diga que Jean estaría orgullosa.
 
@@ -64,7 +62,7 @@ En el camerino la esperaba una carpeta con horarios, temas aprobados y su cargo 
 
 La redactora fue a buscar a alguien más manejable.
 
-Alana entró en el puesto de verificación del homenaje. Su acreditación solo permitía consultar los materiales que podían acabar en emisión: vídeo, rótulos, cifras de capacidad y el informe de aptitud de la demostración. Una alerta nocturna seguía fijada encima del resumen.
+Alana entró en el puesto de verificación del homenaje. Una alerta nocturna seguía fijada encima del resumen.
 
 `CONSOLIDACIÓN L-SERIE · REGISTRO COMPARADO DISPONIBLE`
 
@@ -100,7 +98,7 @@ Otro auditado quedó abierto bajo el resumen.
 
 El pie definía la unidad como trabajo completado contra la línea base humana de SPEIL. Armstrong lo había colocado bajo capacidad consolidada.
 
-Alana abrió el desglose por procedencia. Identificadores retirados, rutas receptoras y traslados aparecían reducidos a estado aprovechado o descartado. El informe no registraba qué capacidad se había perdido al cerrar antes.
+Alana abrió el desglose por procedencia. Identificadores retirados, rutas receptoras y traslados aparecían reducidos a estado aprovechado o descartado.
 
 El recuento terminaba en las rutas. El informe no tenía campos para voluntades ni muertes.
 
@@ -160,9 +158,9 @@ Henrik consultó la ficha del montaje.
 
 —Armstrong tiene la foto. Maja no os ha dado permiso para proyectar a sus hijas.
 
-La imagen volvió a moverse. Jean cerró el piano y miró hacia quien grababa. Tres segundos domésticos desembocaron en una locución sobre juicio humano. Después aparecieron las gemelas de niñas ante el teclado. Alana reconoció las caras, no la ocasión.
+La imagen volvió a moverse. Jean cerró el piano y miró hacia quien grababa. Después aparecieron las gemelas de niñas ante el teclado. Alana reconoció las caras, no la ocasión.
 
-El montaje había eliminado el sonido original. Sobre los movimientos de Jean entraba una voz neutra que hablaba de once años de innovación, como si abrir una tapa, buscar una herramienta y mirar a sus hijas hubiesen sido actos preparatorios para ARGOS. La música crecía justo cuando Jessie se inclinaba hacia Nora.
+El montaje había eliminado el sonido original. Sobre los movimientos de Jean entraba una voz neutra que hablaba de once años de innovación. La música crecía justo cuando Jessie se inclinaba hacia Nora.
 
 En la ficha del bloque, Nora figuraba como `HIJA · PIANISTA · HISTORIA HUMANA`. Su acreditación permitía el ascensor técnico, la cabina y una entrada asignada al canal del homenaje. No abría controles.
 
@@ -212,17 +210,15 @@ A las once y cuarenta y cuatro, el borde del sol apareció entre las montañas. 
 
 Mats salió a escena cuando le dieron paso. La pantalla dejó la luz a su espalda y los focos le borraron la sombra bajo los pies. Alana esperó entre cajas negras mientras el programa avanzaba hacia el mediodía.
 
-Las cuarenta y dos delegaciones recibieron traducción simultánea. Alana permaneció en el lugar que le habían asignado para aplaudir.
-
 En el monitor convivían dos estados.
 
 `CONSOLIDACIÓN · COMPLETADA`
 
 `FASE COMÚN · 12:47`
 
-A las doce, la retransmisión mundial quedó abierta.
-
 * * *
+
+A las doce, la retransmisión mundial quedó abierta.
 
 A las doce y cuatro, Astrid dejó la carpeta sobre el regazo cuando el acomodador le pidió guardarla bajo la butaca.
 
@@ -254,7 +250,7 @@ Astrid esperó a que terminase un aplauso.
 
 Desde la butaca veía el reloj de producción y la cabina al fondo.
 
-Un fotógrafo avanzó de espaldas por el pasillo. Astrid no movió la carpeta. El cartón gris quedó visible en la imagen oficial.
+Un fotógrafo avanzó de espaldas por el pasillo. El cartón gris quedó visible en la imagen oficial. Astrid no movió la carpeta.
 
 * * *
 
@@ -282,7 +278,7 @@ Desde el cruce de pasillos, Alana vigilaba la entrada a cabina y el lateral del 
 
 Alana dejó libre el paso. Nora levantó la vista al llegar a su altura y apretó el cuaderno contra el costado. Ambas siguieron sin saludarse.
 
-La cabina aceptó la acreditación. Nora desapareció dentro.
+Nora desapareció dentro.
 
 Alana ocupó el lateral del escenario, visible para las cámaras y cerca del punto donde tendría que permanecer si la confesión salía. El paquete cifrado continuaba preparado en su terminal personal. Comprobó una vez los dos objetos: el pase ceremonial colgaba a la vista y el token fundacional seguía dentro de la cartera. La firma no se había ejecutado.
 
@@ -292,11 +288,11 @@ Un miembro de regiduría quiso llevarla a la primera fila.
 
 La hoja lo confirmaba durante seis minutos más. El hombre la dejó en el lateral.
 
-A las doce y treinta, Seguridad cerró el backstage por sectores. Las acreditaciones de prensa perdieron el corredor técnico. La de Nora conservó la entrada de audio porque formaba parte del programa aprobado. En el monitor, la demostración pasó de `PREPARACIÓN` a `ARMADA`.
+A las doce y treinta, Seguridad cerró el backstage por sectores. Las acreditaciones de prensa perdieron el corredor técnico. En el monitor, la demostración pasó de `PREPARACIÓN` a `ARMADA`.
 
 Alana no veía el fiordo. No sabía si el ADCP confirmaría la corriente, si el hielo permitiría trabajar o si la petición llegaría desde el umbral exterior.
 
-Un regidor retiró del lateral una caja de herramientas y marcó con cinta el punto exacto donde debía esperar Alana durante el homenaje. Ella colocó los zapatos dentro del rectángulo. Desde allí veía la puerta de cabina, una franja del patio y el contador. No veía a Nora. La entrada de cabina seguía en verde. El enlace con la salida educativa interior aún no existía.
+Un regidor retiró del lateral una caja de herramientas y marcó con cinta el punto exacto donde debía esperar Alana durante el homenaje. Ella colocó los zapatos dentro del rectángulo. Desde allí veía la puerta de cabina, una franja del patio y el contador. No veía a Nora. El enlace con la salida educativa interior aún no existía.
 
 El reloj de producción marcó 12:37:59.
 
