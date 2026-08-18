@@ -46,7 +46,7 @@ Astrid cogió la carpeta y entró en la TKS.
 
 A las diez y veinte, Astrid había apartado el teclado y extendido el expediente sobre la mesa. Las bolsas de prueba esperaban en el suelo, lejos de la destructora.
 
-R-1189 acreditaba una revocación eficaz. Las once peticiones preservadas bajo CE-K, el informe de Gunnar, la sesión limitada de La Jardinera y la orden trazaban anomalías distintas. El expediente dejaba la identidad sin atribuir. Un técnico verificó la firma del servidor.
+R-1189 acreditaba una revocación eficaz. El expediente dejaba la identidad sin atribuir. Un técnico verificó la firma del servidor.
 
 Astrid pidió una cautelar urgente por riesgo de destrucción de prueba y de continuidades funcionales aún sin categoría jurídica. Borró «víctimas» e «individuos» del escrito. Conservó «instancias», la palabra de Armstrong. A las doce y nueve, el Nord-Troms og Senja tingrett fijó la vista para las catorce.
 

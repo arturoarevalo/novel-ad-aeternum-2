@@ -34,7 +34,7 @@ Mats bajó la voz.
 
 —La continuidad ejecutiva debe resolverse primero.
 
-La pantalla desplegó los fundamentos. Alana había autorizado la compilación de Jean Marie Larsson, conocía a la familia y había ordenado detener una replicación aprobada. Su acceso estaba bajo control colegiado desde el diecinueve de diciembre. La petición de revisión externa no aparecía.
+La pantalla desplegó los fundamentos. El acceso de Alana estaba bajo control colegiado desde el diecinueve de diciembre. La petición de revisión externa no aparecía.
 
 Debajo aparecía la fórmula de EDDA.
 
@@ -44,7 +44,7 @@ Debajo aparecía la fórmula de EDDA.
 
 —Y la firmante de la autorización que la hace necesaria —respondió Mats—. El acta recogerá ambas.
 
-La consejera de Kronfjord Kapital no estaba y el representante laboral había enviado su observación por escrito. Dos miembros evitaban consultar sus tabletas.
+Dos miembros evitaban consultar sus tabletas.
 
 —Puedo renunciar a la dirección del piloto. No, ya estoy renunciando. Nombrad un administrador externo, condicionad el lanzamiento a su informe y suspendad nuevas compilaciones.
 
@@ -114,7 +114,7 @@ La pantalla monocroma tardó nueve segundos en mostrar el manifiesto.
 
 La baja había invalidado el pase ordinario, no aquella procedencia histórica. La raíz no daba acceso general a producción ni redes.
 
-Alana eligió `COMPROBACIÓN LOCAL NO AUTORIZANTE`. El ladrillo validó token, PIN, presencia y certificado contra la raíz protegida, sin firmar ni consumir ningún desafío y sin consultar Fyret.
+Alana eligió `COMPROBACIÓN LOCAL NO AUTORIZANTE`. El ladrillo validó contra la raíz protegida, sin firmar ni consumir ningún desafío y sin consultar Fyret.
 
 `CREDENCIAL LEGACY A. ARMSTRONG · VÁLIDA`
 

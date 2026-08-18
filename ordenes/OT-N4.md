@@ -242,3 +242,76 @@ En los cuatro capítulos donde Coro aparece, **habla**: sostiene una frase enter
 - **Recortes de compresión (1.031 palabras)** no aplicados: dejarían el capítulo en 2.139, por debajo del suelo de 2.720.
 
 **Sensibilidad:** ninguna frase marcada para A7. Ningún hit nuevo; ninguna línea tocada nombra la muerte de Jean, el método, el lugar ni «Despedida». I-5 sigue sin verbos de sentimiento y sin identificar a nadie.
+
+## 9.3 · Poda de ritmo del centro (W4-R)
+
+**A4 · rama `w4r-ritmo` · 2026-08-18.** Encargo de A0: ejecutar la hoja de poda de `informes/w4r-diagnostico-centro.md` §3.3, ya aprobada por A7 (`informes/a7-w4r.md` §11.1) con las condiciones N4-1, N4-2 y N4-3. Presupuesto de A0: **−299**.
+
+**Palabras 3.156 → 2.887 (−269, −8,5 %).** Banda `OT-N4` §6 [2.720–3.680] ✔. **Los trece cortes de la hoja están ejecutados, ninguno se ha declinado.** La diferencia con el presupuesto es aritmética y está explicada abajo.
+
+### Cortes ejecutados
+
+| # | locus v0 | hoja | real | cómo queda paragrafado lo de al lado |
+|---|---|---:|---:|---|
+| C-1 | `:21` | −15 | **−17** | párrafo suprimido. `:19` (álbum vacío, 3 frases) pasa a ir seguido de `:23` (Mikkel, acotación). Ninguno queda aislado. |
+| C-2 | `:45` | −20 | **−21** | el párrafo sobrevive, de una frase. `:43` («su nombre volvió al gris») ya era de una frase: **no cambia su aislamiento**. «como el dieciséis de diciembre» borrado (obligación de A7). |
+| C-3 | `:57` | −13 | **−14** | párrafo de 5 frases → 4. Primera frase (cuaderno del 5-dic) y última (`responsable desconocido`) intactas. |
+| C-4 | `:77` | −9 | **−9** | párrafo suprimido. `:75` («—El que hay cuando abro…») pasa a ir seguida de `:79`: dos réplicas de hablantes distintos. |
+| C-5 | `:79` | −7 | **−7** | la réplica se acorta; ni cambia de posición ni de hablante. |
+| C-6 | `:99` | −8 | **−8** | de 2 frases a 1 (14 palabras), entre réplica y acción. Se conserva «Dos mesas más allá, alguien miró el mural…». |
+| C-7 | `:141` | −12 | **−12** | párrafo suprimido. `:139` (3 frases) pasa a ir seguido de `:143`, que ya era de una frase. |
+| C-8 | `:233` | −18 | **−18** | de 3 frases a 2. `:235` sigue siendo de una frase, como ya era. |
+| C-9 | `:269` | −35 | **−24** | párrafo suprimido. `:267` conserva «Era la del domingo.» y pasa a ir seguido de la réplica `:271`. |
+| C-10 | `:317` | −45 | **−38** | párrafo suprimido. `:315` ya era de una frase y **lo sigue siendo**; su vecino pasa a ser `:319`. |
+| C-11 | `:413` | −45 | **−30** | párrafo suprimido. `:411` («Tres formatos, tres tipos de letra, un solo día.») ya era de una frase y **lo sigue siendo**; gana la posición de última observación antes de la acción. |
+| C-12 | `:431` | −22 | **−22** | párrafo suprimido. `:429` («—Enséñame las dos.») pasa a ir seguida de `:433`: dos réplicas de hablantes distintos. «aquella pantalla» (`:439`) conserva antecedente en `:421`. |
+| C-13 | `:457` | −50 | **−49** | párrafo suprimido. `:455` (2 frases, habitaciones y telefonillo) pasa a ir seguido de `:459`; el estado de la casa queda como causa inmediata de la llamada. **`:455` no queda aislado: ya era párrafo propio de dos frases y sigue siéndolo.** |
+| | | **−299** | **−269** | |
+
+**Escena 4 (el espejo de Jean, D-1): diff 0, 483 palabras.** Ni una coma, ni un reordenamiento, ni un cambio de paragrafado.
+
+### Condiciones vinculantes de A7 (§11.1)
+
+- **N4-1 · `:443–:455` congelado.** Diff 0 en el rango, **y también en sus límites de párrafo**: ni se funde, ni se divide, ni se reordena nada. C-13 corta `:457`, que está **fuera** del rango, y deja `:443` y `:455` con la misma forma que tenían. ✔
+- **N4-2 · `:447` es ya la última mención de la carpeta gris del capítulo.** ✔ (queda como constancia para futuras OT: el altillo no recibe función de origen).
+- **N4-3 (P-38) · `:271–:277` intacto y verbatim.** Las cuatro réplicas («—¿Cuándo acaba lo mío?» … «—Tampoco lo dice.») no se han tocado ni comprimido, y tras C-9 son la única enunciación viva del coste de Jessie. ✔
+- **C-2 · «como el dieciséis de diciembre» suprimido.** ✔
+- **Perímetro (b) · proporción de la escena 1.** De las **75** palabras cortadas: **23 del lado de la competencia** (C-3 14, C-4 9), **52 del calco** (C-1, C-2, C-5, C-6) y **0 del registro adolescente**. **30,7 % ≥ 30 %** ✔. **`n4:93` verbatim y sin tocar.** ✔
+- **Perímetro (c) · cero cortes en `cap-n2`.** ✔ El fichero no se ha abierto.
+
+### Dos desviaciones de la letra de la hoja, las dos declaradas
+
+1. **C-3 · una palabra más de choreografía, para cumplir el perímetro (b).** La sustitución literal de la hoja («Se separaban en el cuarto grupo.») corta **11** palabras, no 13. Con las 9 de C-4 el lado competencia quedaba en **20 de 72 = 27,8 %**, por debajo del **≥ 30 %** que A7 fija como requisito de aceptación. Se ha suprimido además «una por línea,» en la frase anterior del **mismo párrafo** (`Puso las dos horas, una por línea, con su referencia de incidencia al lado.` → `Puso las dos horas con su referencia de incidencia al lado.`): es coreografía de método, del mismo lado que el resto de C-3, no cambia ningún límite de párrafo y sube la proporción a **30,7 %**. El párrafo sigue teniendo 4 frases, como pedía la hoja.
+2. **C-2 · «volvió con» → «trajo».** La sustitución de la hoja es «La tutora volvió con dos hojas impresas.», pero C-1 suprime la entrada de la tutora en la escena («La tutora no apagó el mural al entrar. Pasó lista…») y C-2 suprime su salida al pasillo: «volvió» quedaba sin ningún sitio del que volver. **«La tutora trajo dos hojas impresas.»** conserva el hecho, el objeto y el laconismo, y cuesta una palabra menos.
+
+**Efecto colateral bueno, a coste cero.** C-1 y C-2 suprimen las dos únicas frases en que se apagaba el mural. `:99` («alguien miró el mural y después a Nora, en ese orden») dejaba de tener mural encendido que mirar: era un desajuste latente del capítulo y desaparece sin gastar una palabra.
+
+### Por qué el corte se para en −269 y no llega a −299
+
+Dos razones, y las dos son verificables:
+
+1. **Aritmética.** Las estimaciones «≈pal» de la hoja son de ojo, no de tokenizador. Medidos con `aa.count_words` (el de M8), los trece loci suman **269**, no 299. Las diferencias: C-9 24 (hoja 35), C-10 38 (45), C-11 30 (45), C-13 49 (50), C-1 17 (15). **La hoja aprobada por A7, ejecutada entera y al carácter, vale −269.** Las 30 palabras restantes no están en ningún locus que A7 haya auditado.
+2. **Y no se pueden sacar de otro sitio sin romper el capítulo por su propio criterio.** El diálogo queda en **30,0 %**, exactamente el techo de la banda de `OT-N4` §6 (24–30 %). Treinta palabras más de narración lo dejan en **30,3 %, fuera de banda**; y la «regla de corte» de la hoja prohíbe cortar réplicas (el único caso candidato, `:437`, la propia hoja lo declara no ejecutable). **−269 es el máximo compatible con los criterios de aceptación del propio capítulo.**
+
+### Métricas
+
+| | antes | después | criterio |
+|---|---:|---:|---|
+| palabras | 3.156 | **2.887** | 2.720–3.680 ✔ |
+| diálogo | 27,7 % | **30,0 %** | 24–30 % ✔ (en el techo) |
+| tramo máx. sin diálogo | 244 | **222** | ≤ 350 ✔ |
+| M1 únicos/1.000 | 3,8 | **4,2** | ≤ 8,5 ✔ · 12 términos, **0 nuevos** |
+| M2 | 0 | **0** | ✔ |
+| M4 cierres-objeto | 0 | **0** | ✔ (ningún cierre de escena tocado) |
+| M4b antepuestas | 1,0 % | **1,1 %** | ≤ 4 % ✔ (ninguna antepuesta suprimida; sube por denominador) |
+| escenas | 592·745·567·483·769 | **516·715·505·483·668** | ninguna > 800 ✔ |
+| M9 | — | **109 spans íntegros** | ✔ |
+| T7 sensibilidad | — | **0 hits nuevos** | dos hits B desaparecen (C-13 y el de `24:205`) |
+
+**Diálogo por escena** (banda §6: 28–34 % en las secciones de familia): 23,6→**25,8**, 48,6→**50,6**, 37,6→**42,2**, 1,9→**1,9** (espejo, intacta), 19,4→**22,3**. Las cuatro secciones de familia ya estaban fuera de esa banda antes de la poda; la poda acerca a la banda las dos que estaban por debajo (1 y 5) y aleja las dos que estaban por encima (2 y 3). No es efecto del recorte: es que la banda se fijó para un capítulo con 300 palabras más de narración.
+
+### Dudas y avisos para A0 / A7
+
+- **(a) G-4 no se ha ejecutado.** `n4:29` sigue diciendo «se había vuelto a formar el charco». A7 (§11.3) ordena **secuenciarlo después de G-1**, porque si G-1 relocaliza la escena 1 el charco puede desaparecer y la corrección queda sin objeto. Queda pendiente y anotado.
+- **(b) G-1 sigue pendiente y la poda no lo estorba.** C-1…C-6 dejan la escena 1 en 516 palabras con el ritual del aula 214 ya adelgazado (sin mural apagado, sin hojas calientes, sin el gesto repetido de Mikkel). Si A3b la reasigna, hereda menos calco del que describía §3.4.
+- **(c) `:437` («—Distinta. Se separan en el cuarto grupo.») y `:57` («Se separaban en el cuarto grupo.») quedan casi verbatim.** Es la sustitución que fija la hoja y A7 auditó. Se conserva porque el eco es de Nora repitiendo su propio cuaderno en voz alta —caracterización— y porque `:437` es réplica y la regla de corte la protege. **Si A0 prefiere deshacer el eco, la vía barata es tocar `:57`, no la réplica.**

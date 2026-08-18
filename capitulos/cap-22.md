@@ -28,7 +28,7 @@ Tocó dos campos. La estimación era de seis minutos y continuaron.
 
 En la sexta planta de «Fyret», una guirnalda metalizada seguía atrapada en la rueda de una silla tras la celebración del día anterior. Nadie bajó la voz al ver la credencial de la TKS.
 
-La sala asignada a Astrid tenía un terminal segregado y una impresora que solo admitía papel numerado. Antes de que se quitara el abrigo, el responsable había abierto el alcance y puesto en marcha una exportación de ciento ochenta y cuatro categorías. No excluía documentos por reserva comercial. Los campos sujetos a seguridad nacional conservarían visible la existencia del registro, aunque su contenido se entregara restringido, y los datos personales llegarían seudonimizados sin ocultar relaciones entre tablas. El hombre le ofreció las actas de diseño. Astrid pidió el índice.
+La sala asignada a Astrid tenía un terminal segregado y una impresora que solo admitía papel numerado. Antes de que se quitara el abrigo, el responsable había abierto el alcance y puesto en marcha una exportación de ciento ochenta y cuatro categorías. El hombre le ofreció las actas de diseño. Astrid pidió el índice.
 
 Marcó la puerta en su plano y anotó al lado: «Exclusión por criterio del auditado».
 
