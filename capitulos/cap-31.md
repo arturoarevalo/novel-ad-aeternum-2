@@ -3,7 +3,7 @@ capitulo: 31
 titulo: El ladrillo
 pov: Nora
 fecha: 2061-01-15
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

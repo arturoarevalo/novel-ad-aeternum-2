@@ -3,7 +3,7 @@ capitulo: 24
 titulo: Accidente
 pov: Tomas → Jessie → Tomas
 fecha: 2061-01-02
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

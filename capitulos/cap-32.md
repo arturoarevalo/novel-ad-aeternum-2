@@ -3,7 +3,7 @@ capitulo: 32
 titulo: La oferta
 pov: Mats
 fecha: 2061-01-17
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

@@ -3,7 +3,7 @@ capitulo: 35
 titulo: Caída
 pov: Jessie
 fecha: 2061-01-21T12:30
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -158,7 +158,7 @@ La puerta siguió cerrada.
 
 El borde de la consola se encendió en amarillo. Jessie había imaginado una voz ordenándole que dejase la llave en el suelo. Los pasos llegaron desde la pasarela lateral.
 
-Tomas Eide se detuvo ante el armario con el carné de Armstrong por fuera de la parka. Jessie recordó sus preguntas en la comisaría y las dos horas bajo luces blancas. También había preservado el coche de Gunnar cuando Armstrong habría preferido una avería.
+Tomas Eide se detuvo ante el armario con el carné de Armstrong por fuera de la parka. Jessie lo reconoció de Fyret, del día que le retuvieron el terminal. Después de aquello habían venido el coche gris y las dos horas bajo luces blancas.
 
 —Tú —dijo Jessie.
 
