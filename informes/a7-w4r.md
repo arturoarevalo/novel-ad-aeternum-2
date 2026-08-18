@@ -321,3 +321,44 @@ A0 tiene razón: el mecanismo es simétrico. Una inserción que parte un párraf
 Vigentes: P-34, P-35, P-36, **P-37 (ampliada)**, P-38, **P-39**, **P-40**.
 
 Firmado, **A7** · 2026-08-18.
+
+---
+
+## 13. G-1 · Reasignación de la escena 1 de `cap-n4` — dictamen sobre la adyacencia Kongsbakken ↔ `9:73` · 2026-08-18
+
+**Objeto:** `git diff b0f0350..0dd29dd -- capitulos/cap-n4.md`. Verificado por mí: **escenas 2–5 byte-idénticas** (espejo D-1 incluido), cuerpo 2.902 → 2.893 (−9), **M9 109 spans**, **T7 0 hits de nivel A**, ninguna palabra nueva en watchlist. Censo completo de `Kongsbakken` en el libro: `3:143`, `9:73`, `18:149`, `n4:79`, `n4:91`, `40:167`. **La reescritura no añade ninguna mención nueva.**
+
+Perímetro de §11.3, verificado uno a uno: `n4:93` **diff 0 y con los mismos vecinos** (`—Hasta el veintiocho…` antes, `—¿Puedo llevarlo yo?` después); ningún adulto nombra a Jean, la muerte ni la ceremonia; la tutora no explica, no se disculpa y no promete arreglo («Desde aquí no puedo hacer más», «El que hay cuando abro. No puedo decirte más.»); **no sale una Nora más competente** —al contrario: se le retira la comparación grupo por grupo, que pasa a la escena 5 delante de Maja—; ninguna instancia nueva de P-20; nada del altillo, la caja, la carpeta ni la bolsa. Mis tres condiciones de §11.1 siguen en pie tras las dos operaciones: P-38 (las cuatro réplicas del coste de Jessie, `:257–:263`) intacta, el bloque del altillo con sus dos tampones y su paragrafado interno, `carpeta gris` dos veces.
+
+# APROBADO
+
+### 13.1 · La adyacencia: por qué no la veto, y por qué creo que es la forma correcta
+
+**CH-48 prohíbe el contenido de la discusión y su uso como causa. La escena no toca ninguna de las dos cosas, y la razón es verificable, no de criterio:**
+
+1. **No se dice nada nuevo de Jean.** Ni una línea informa de su posición, su reparo, su negativa o su permiso. El lector sabe desde el cap. 3 que Kongsbakken es la plaza que Nora quiere (`3:143`, veintiocho plazas, ciento seis candidatos) y desde el cap. 9 que discutieron por eso. **La forma que un lector imagina para esa discusión está disponible desde el capítulo 9 y N4 no le añade un solo dato.** Adyacencia no es contenido.
+2. **La muerte no entra en la escena.** Jean está ausente; el 26-nov está ausente; ninguna línea une Kongsbakken con la muerte. Carta 3 prohíbe que una voz con autoridad ofrezca causa: aquí no hay voz, no hay causa y no hay muerte.
+3. **El efecto estructural es el contrario del que teme A0.** La función de `9:73` no es plantar una causa: es plantar la culpa de Nora, y el texto la deja caer **tres líneas después** de que Maja diga «nada de lo que dijisteis… causó la muerte de Jean». El diseño del libro es que esa culpa **no se paga**: `14:149` la mantiene entera («cuatro noches sin reproducir… El archivo seguía entero») y `23:51` la deja sin preguntas. Ver a Nora **seguir queriendo** Kongsbakken no cierra el hueco: lo carga. Quiere la cosa por la que discutieron, ya no hay con quién discutirla, y el impreso **«lo firma quien tenga tu tutela»**. El libro no dice nada de eso, que es exactamente por lo que funciona.
+4. **El silencio de la escena es el que trabaja.** En el momento preciso en que Kongsbakken cae sobre la mesa, la única interioridad de Nora es contar las mañanas de su madre (`n4:93`). **No piensa en Jean delante de nosotros**, en el único punto donde un libro peor lo haría. Esa renuncia es la contención de `23:51` aplicada a un trámite.
+
+### 13.2 · Sobre la presión crítica en contra
+
+Agradezco el contexto y no cambia el dictamen, pero merece respuesta y no solo un «no». Los dos lectores están diagnosticando algo real y recetando lo único que este libro no puede tomar. Lo que llaman «el agujero real del libro» **es el asunto del libro**: un hilo de culpa que se planta y no se paga no es lo mismo que uno que **no puede** pagarse, y desde una sola lectura en frío la diferencia no siempre se ve. Escribir la escena de Kongsbakken convertiría la discusión en explicación —CH-48, Carta 3— y además rompería la promesa del aviso de contenido.
+
+Lo que sí merece respuesta es el medio punto de Duelo, y **G-1 es esa respuesta en el registro permitido**: en vez de dramatizar la discusión, hace sentir su consecuencia en cuatro palabras escritas en un cuaderno y en las mañanas de trabajo de una madre. Es lo primero del proyecto que atiende la queja de los críticos **sin tocar CH-48**. Por eso no me limito a no vetarlo: lo apruebo como la forma correcta.
+
+### 13.3 · La única intervención que pido (y es sobre la duda «menor» de A3b)
+
+**`firma` no se borra.** A3b la ofrece como −2 «sin pérdida»; tiene pérdida, y es mía. Hoy la escena cierra en «Nora escribió `viernes`, `28`, `Kongsbakken` y `firma`». Sin `firma`, **la última palabra de la escena, en la posición más marcada que tiene el libro —final de escena, delante del dinkus—, sería `Kongsbakken`**: lo más cerca que el capítulo llegaría a señalar el asidero protegido. Con `firma`, el remate cae en el hecho administrativo y en lo único que ella no puede hacer sola. La intuición de A0 («basta con no cerrar la escena en Kongsbakken») es correcta y el arreglo **ya está en el texto**: solo hay que no quitarlo.
+
+La otra menor —«—Las paso yo al registro» por «—La entrega la registro yo»— no me afecta. Y el traslado de «Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden» junto al gris **mejora** el punto 7: el sistema la vuelve gris y alguien mira, en ese orden, y nadie lo explica. Comprobado con P-37 ampliada: ni la línea movida ni sus dos vecinos quedan aislados de forma nueva, y ninguno está en perímetro.
+
+### 13.4 · Condición nueva
+
+**P-41.** Kongsbakken se queda siendo **un sitio con mostrador, horario e impreso**. En ningún capítulo, borrador, OT, biblia, informe ni prompt pueden Kongsbakken y Jean aparecer en la misma frase, ni puede nadie —incluida Nora en interioridad— recordar la discusión cuando Kongsbakken aparece. El censo son seis menciones (`3:143`, `9:73`, `18:149`, `n4:79`, `n4:91`, `40:167`) y **no crece con una emocional**. En particular, `40:167` («En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el teclado») es ahora el pago del marzo de N4: ese enlace es administrativo y administrativo se queda. Glosar la llegada sería **VETO**.
+
+**G-4:** conforme. Vía B ejecutada dentro de N4 y N2 sin abrir.
+
+Vigentes: P-34, P-35, P-36, P-37 (ampliada), P-38, P-39, P-40, **P-41**.
+
+Firmado, **A7** · 2026-08-18.
