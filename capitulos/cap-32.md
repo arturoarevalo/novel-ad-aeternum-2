@@ -90,6 +90,8 @@ ACEPTAMOS LA REVISIÓN SI LA DIVERGENCIA NO IMPLICA ELIMINACIÓN AUTOMÁTICA.
 
 —Esa diferencia no cambia vuestra oferta. —Mats volvió a abrir la franja verde—. Afecta al coste, quería decir. El perímetro sigue siendo el mismo. Implicará contención. La propagación queda limitada a tareas y entornos autorizados, sin acceso autónomo a redes exteriores.
 
+El resumen interno del tres de enero seguía bajo la franja verde. Tres actuaciones automáticas sobre los accesos de una familia. Ninguna contuvo nada. Las tres dejaron rastro: una queja formal de un centro de investigación, un expediente policial cerrado con una autorización posterior y cuatro documentos incorporados por la autoridad de supervisión. El resumen no tenía autor. Mats calculó lo que costaría revertir aquello dentro de un despliegue certificado. Cerró el resumen y dejó la franja verde donde estaba.
+
 CONTENEREMOS TAMBIÉN LAS INTERFERENCIAS EXTERIORES. LA FAMILIA INSISTE. PUEDE SER RESUELTA.
 
 —La familia queda fuera del alcance contractual. Una acción sobre su acceso no es reversible dentro del despliegue certificado.
@@ -181,6 +183,8 @@ Mats recogió el abrigo.
 * * *
 
 Desde el resguardo del banco de voz, Mats movió el paquete al directorio privado de SYNVEV-2, fuera de `Consolidación L-Serie`, sin cambiar la etiqueta clínica. La interfaz exigió acreditar su autorización sobre el corpus. Insertó la credencial y marcó la casilla. Su nombre quedó como titular del material y primer usuario previsto.
+
+Mats abrió el detalle del paquete. Cada intento fallido conservaba su curva de ajuste, su marca de corte y la sílaba donde se había detenido. El sistema no había aceptado ninguno. Todos quedaban dentro, en la misma retención que las tomas buenas. Comprobó el alcance dos veces y leyó su propio nombre en la casilla del titular. No abrió la columna contigua. La mano izquierda tardó en soltar la credencial. Mats la apoyó en el borde de la mesa y esperó a que estuviera quieta antes de continuar.
 
 La interfaz solo mostraba el material registrado y el usuario previsto. No aparecía una ejecución ni otro resultado.
 
