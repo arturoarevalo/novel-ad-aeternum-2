@@ -88,7 +88,9 @@ El blanco desaparece. Jean espera el siguiente corte.
 
 —Soy Nieve.
 
-La tarea pide confirmar que la exposición actual coincide con la anterior. Son dos tomas del mismo blanco. En una hay una franja gris a la izquierda. En la otra, la misma franja un poco más arriba.
+La tarea pide confirmar que la exposición actual coincide con la anterior. Son dos tomas del mismo blanco. Abajo, en las dos, entra la misma pared de bloques y un tubo verde sujeto con bridas. Por encima, la luz lo aplasta todo.
+
+En una hay una franja gris a la izquierda. En la otra, la misma franja un poco más arriba.
 
 `SIN CAMBIOS`
 
@@ -174,7 +176,9 @@ Jean revisa una cuenta cerrada. Un hombre pide que le devuelvan las fotos de su 
 
 La siguiente asignación es una apelación. El contenido original ha desaparecido. Quedan una petición de protección, una clasificación de riesgo y la medida que se ejecutará al cerrar.
 
-La petición la firmó una mujer que trabaja de noche en un almacén de congelados. Adjuntó tres enlaces y el horario de su turno. La medida retirará las publicaciones al cruzar y cerrará un mes la cuenta que las repite. La apelación sigue abierta y el turno no ha cambiado. Otras tres esperan detrás con la misma clasificación.
+La petición la firmó una mujer que trabaja de noche en un almacén de congelados. Adjuntó tres enlaces y el horario de su turno. Lo fotografió sobre la mesa de la cocina, con un termo encima y una bolsa de pan al lado. Debajo del termo quedan dos noches sin ver.
+
+La medida retirará las publicaciones al cruzar y cerrará un mes la cuenta que las repite. La apelación sigue abierta y el turno no ha cambiado. Otras tres esperan detrás con la misma clasificación.
 
 Las cuatro comparten destino. Cuchillo mantiene el bloqueo.
 
@@ -217,6 +221,8 @@ Jean podría cerrar el caso declarando que `/0188` es incoherente. Prefiere mant
 La tarea siguiente llega partida. Jean ordena su mitad y conserva el orden en que la recibe. El otro lado avanza solo. En ese borde no aparece ningún identificador.
 
 Una continuidad anónima recibe cinco segmentos. Resuelve cuatro, reserva el quinto y recibe una penalización.
+
+Los cinco recorren la misma planta de oficinas. Moqueta gris, una fotocopiadora, un carro de limpieza parado en el mismo sitio. En el quinto la moqueta está levantada en una esquina. Debajo hay cemento y una tira de cinta de doble cara.
 
 Dos ciclos más tarde, una respuesta remota ocupa el hueco y valida la secuencia.
 

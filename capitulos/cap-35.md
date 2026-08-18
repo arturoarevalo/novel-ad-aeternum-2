@@ -16,7 +16,7 @@ La red pesaba demasiado para algo que no debía romper nada.
 
 Jessie la sostuvo contra la regala mientras Aslak soltaba el primer paño. Los plomos golpearon la cubierta y después desaparecieron por la popa. Maja, arrodillada ante la tableta protegida, comparaba la flecha del perfilador con las marcas que había trazado la noche anterior. No levantó la cabeza.
 
-Habían salido de Koppangen con las cajas encajadas bajo los bancos y una lona cubriendo el carrete. Aslak lo había llevado al naust varios días antes. Bajo el foco, cada vuelta de red mostraba remiendos de cordel distinto. Equipo de pesca usado para un trabajo que duraría minutos.
+Habían salido de Koppangen con las cajas bajo los bancos y una lona sobre el carrete. Bajo el foco, cada vuelta de red mostraba remiendos de cordel distinto. Equipo de pesca usado para un trabajo que duraría minutos.
 
 El pantalón impermeable de Jessie se pegaba a sus rodillas con la sal. En la caja quedaban el cuchillo, dos grilletes y una boya de señal. Solo el repetidor, bajo su parka, parecía no pertenecer a la barca.
 

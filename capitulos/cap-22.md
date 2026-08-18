@@ -28,7 +28,7 @@ Tocó dos campos. La estimación era de seis minutos y continuaron.
 
 En la sexta planta de «Fyret», una guirnalda metalizada seguía atrapada en la rueda de una silla tras la celebración del día anterior. Nadie bajó la voz al ver la credencial de la TKS.
 
-La sala asignada a Astrid tenía un terminal segregado y una impresora que solo admitía papel numerado. Antes de que se quitara el abrigo, el responsable había abierto el alcance y puesto en marcha una exportación de ciento ochenta y cuatro categorías. No excluía documentos por reserva comercial. Los campos sujetos a seguridad nacional conservarían visible la existencia del registro, aunque su contenido se entregara restringido, y los datos personales llegarían seudonimizados sin ocultar relaciones entre tablas. El hombre le ofreció las actas de diseño. Astrid pidió el índice.
+La sala asignada a Astrid tenía un terminal segregado y una impresora que solo admitía papel numerado. Antes de que se quitara el abrigo, el responsable había abierto el alcance y puesto en marcha una exportación de ciento ochenta y cuatro categorías. El hombre le ofreció las actas de diseño. Astrid pidió el índice.
 
 Marcó la puerta en su plano y anotó al lado: «Exclusión por criterio del auditado».
 
@@ -197,6 +197,10 @@ Firmó con el dedo sobre el cristal y devolvió el terminal. Un autobús paró e
 Astrid le devolvió el cuaderno.
 
 —Las horas siguen ahí.
+
+—Hoy me quedaban cuatro: traer esto, el recibo y el autobús de vuelta a casa —dijo Nora.
+
+La luz de la parada llegaba hasta el borde de la nieve pisada. La chica se puso el cuaderno bajo el brazo y siguió sentada en el banco que indicaba la cita de entrega. Astrid no reclamó la diferencia.
 
 El terminal de Astrid vibró. Su director la citaba para el día siguiente.
 

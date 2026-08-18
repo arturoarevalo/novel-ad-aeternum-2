@@ -3,7 +3,7 @@ capitulo: N2
 titulo: Instituto
 pov: Nora → Jessie
 fecha: 2060-12-16
-estado: aceptado
+estado: en_oleada
 analepsis: false
 estado_plan: N
 proteccion: no
@@ -18,7 +18,7 @@ Nora introdujo sus credenciales dos veces. La segunda negativa llegó más rápi
 
 En el mural del aula 214, la plataforma fue encendiendo las entregas de 1STA. El nombre de Nora se quedó gris entre veintisiete nombres blancos.
 
-Su sitio de octubre lo ocupaba otra persona. Nora se había sentado en la fila de la puerta, con la mochila entre los pies y el abrigo doblado sobre el respaldo.
+Su sitio de octubre lo ocupaba otra persona. Nora se había sentado en la fila de la puerta.
 
 Mikkel giró su terminal hacia el compañero de al lado.
 
@@ -36,8 +36,6 @@ La tutora apagó el mural desde el panel de la puerta antes de que terminara de 
 
 —La registro yo.
 
-Los cristales del aula devolvían las lámparas y las nucas de la primera fila. Debajo del radiador se había formado un charco de nieve derretida con la forma de una bota.
-
 Nora alineó las hojas con el borde de la mesa.
 
 —¿La cuenta la revisa el centro o la plataforma?
@@ -50,7 +48,7 @@ La tutora comprobó algo en su propio terminal antes de contestar.
 
 —La plataforma no da día. Nosotros abrimos el tres.
 
-La tutora siguió hasta la mesa siguiente y respondió a otra pregunta sobre las mismas hojas. La ventilación del proyector se paraba cada pocos segundos y volvía a arrancar. Nora midió dos veces el intervalo y le salió lo mismo.
+La tutora siguió hasta la mesa siguiente y respondió a otra pregunta sobre las mismas hojas.
 
 El aula trabajó veinte minutos. En las demás mesas sonaban las yemas contra el cristal. En la suya, el lápiz. Nadie miró el mural.
 
@@ -64,7 +62,7 @@ Mikkel seguía con el terminal girado.
 
 Nora le sostuvo la mirada el tiempo que tardó en contar hasta seis. Después volvió a la hoja.
 
-Al fondo, dos personas se levantaron a dejar sus terminales en la bandeja de carga. El mural seguía apagado. La tutora pasó por detrás de Nora y no leyó por encima de su hombro.
+El mural seguía apagado. La tutora pasó por detrás de Nora y no leyó por encima de su hombro.
 
 Una chica de la fila de al lado le dejó un lápiz encima de la hoja y siguió escribiendo en su terminal.
 
@@ -164,9 +162,7 @@ Sindre se la mandó antes de que ella llegara al rellano.
 
 * * *
 
-Nora esperó de pie hasta que la tutora le señaló la silla. El despacho tenía dos sillas, una mesa y una bandeja con hojas sueltas. La impresora arrancó sola y expulsó la hoja de otra persona.
-
-En la pared, el calendario de exámenes de diciembre llevaba tachadas las dos primeras semanas. Nora contó los cuadros y lo dejó a mitad de la segunda.
+Nora esperó de pie hasta que la tutora le señaló la silla. La impresora arrancó sola y expulsó la hoja de otra persona.
 
 La tutora no preguntó qué había hecho Nora con la cuenta.
 
@@ -178,7 +174,7 @@ Nora llevaba dos frases preparadas desde el cinco de diciembre. No hizo falta ni
 
 —Me ha tocado a mí.
 
-Por la puerta entreabierta pasaban voces y ruedas de mochila. La tutora la cerró con el pie. Buscó la ficha en el terminal. El parte de Jessie estaba boca arriba sobre la mesa, entre las dos. Nora no lo giró hacia ella.
+Por la puerta entreabierta pasaban voces y ruedas de mochila. La tutora la cerró con el pie. El parte de Jessie estaba boca arriba sobre la mesa, entre las dos. Nora no lo giró hacia ella.
 
 Nora dejó las hojas contestadas en la bandeja. En el reverso de la última cabían tres columnas y un apartado de origen. Dejó el lápiz en el bolsillo.
 
@@ -192,21 +188,13 @@ Nora dejó las hojas contestadas en la bandeja. En el reverso de la última cab�
 
 —Es la segunda vez en dos días. —Se detuvo—. La de ayer no fue una llamada.
 
-La tutora no preguntó por la de ayer. Movió una taza para dejar el terminal recto sobre la mesa.
+La tutora no preguntó por la de ayer.
 
 —Ha circulado una fotografía de la ceremonia —dijo—. Dentro del centro puedo pedir que no se comparta.
-
-—¿Cuándo?
-
-—Hoy mando el aviso a los grupos.
 
 —¿Y fuera?
 
 —Fuera no.
-
-—¿Quién la publicó?
-
-—No lo sé.
 
 Nora no pidió verla.
 
@@ -216,25 +204,13 @@ Nora no pidió verla.
 
 —Porque lo de la cuenta ya lo sabe.
 
-La tutora abrió la lista de faltas y la cerró sin leerla en voz alta. La ficha conservaba los dos números de contacto que la familia había dado en septiembre. Copió el de Maja.
+La ficha conservaba los dos números de contacto que la familia había dado en septiembre. Copió el de Maja.
 
 —Si necesitas salir de clase, sales. No hace falta que expliques nada.
 
 —De acuerdo.
 
-—El lunes hay dos exámenes. Los tienes en la hoja. Puedo pasarte uno a enero.
-
-—No.
-
-—Piénsalo hasta el viernes.
-
-—Los hago el lunes. Llevo la materia hasta el tema cuatro.
-
-—¿Me imprime las hojas del lunes? —preguntó Nora.
-
-—Cuando salgas de la última hora.
-
-La tutora sacó del cajón una grapadora que no cerraba. Unió las dos hojas de Nora con un clip.
+La tutora unió las dos hojas de Nora con un clip.
 
 Nora se levantó y empujó la silla hasta dejarla debajo de la mesa. La tutora marcó el número y volvió a decir «la ceremonia» mientras esperaba el tono.
 
@@ -248,7 +224,7 @@ Lo sacó, lo abrió sobre la rodilla y volvió a doblarlo por la misma línea. D
 
 Abrió el mensaje de Sindre. La publicación seguía ahí. Hizo una captura, la guardó en el teléfono y no la reenvió a nadie. Después le puso la fecha en el nombre.
 
-Un camión de sal pasó por delante del aparcamiento y dejó una línea gris sobre la nieve. En la marquesina, un autobús paró y arrancó otra vez.
+Un camión de sal pasó por delante del aparcamiento y dejó una línea gris sobre la nieve.
 
 El alumbrado de la rampa llevaba encendido desde por la mañana.
 
@@ -279,8 +255,6 @@ Nora tardó en contestar.
 —¿Quién la hizo?
 
 —Alguien que estaba allí.
-
-Dos chicas de 1STC miraron hacia el murete y siguieron andando hacia la marquesina.
 
 —Antes no salíamos en ninguna parte —dijo Nora.
 
@@ -326,7 +300,7 @@ En el aparcamiento quedaban tres coches. Un grupo de primero pasó por delante d
 
 —Ya.
 
-Jessie se levantó el cuello del abrigo cuando el viento cambió de lado. El parte hacía bulto en el bolsillo y lo pasó al otro lado.
+Jessie se levantó el cuello del abrigo cuando el viento cambió de lado.
 
 El coche de Maja subió por la rampa y paró en doble fila con las luces puestas. Maja llevaba la parka encima del jersey de trabajo. No apagó el motor.
 

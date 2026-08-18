@@ -26,8 +26,6 @@ Aslak sacó la lista de la descarga, tachó dos líneas y las escribió otra vez
 
 En 2057 la lectura había durado dos días y la sala estaba llena. Entonces la asociación tenía veintitrés nombres.
 
-El café de la máquina venía en un vaso demasiado fino para sostenerlo lleno. Aslak lo dejó en el borde de la mesa. Esperó.
-
 En la pantalla del salón, sin sonido, tres personas hablaban alrededor de una mesa. Un rótulo entraba y volvía a marcharse bajo sus caras.
 
 `PERSONA O ACTIVO`
@@ -44,7 +42,7 @@ Un marinero pasó anotando matrículas y se detuvo en la suya.
 
 —Voy a verlo.
 
-El marinero siguió con la fila. En la pantalla, uno de los tres levantó la mano y los otros dos hablaron a la vez. Un pasajero subió el volumen dos marcas. La mujer de al lado señaló a un niño dormido y él volvió a bajarlo.
+El marinero siguió con la fila.
 
 Aslak metió el sobre bajo la parka y bajó a la cubierta antes del atraque.
 
@@ -200,17 +198,13 @@ Maja bajó dos peldaños y se detuvo.
 
 El ferry de las cuatro atracó en Svensby con doce minutos de retraso. Aslak esperó a que sacaran el camión de pienso antes de arrancar.
 
-Paró en la tienda antes de subir al refugio. El aparcamiento tenía dos coches y una moto de reparto. En el tablón de fuera seguían los horarios del ferry y un anuncio de una barca en venta desde el otoño. El horario de verano empezaba en junio y alguien lo había corregido a mano.
-
-En el cristal de la puerta habían pegado una hoja impresa.
+Paró en la tienda antes de subir al refugio. En el cristal de la puerta habían pegado una hoja impresa.
 
 `NO SOY UN MODELO`
 
 Alguien había tachado la última palabra con rotulador. Debajo, otra mano había escrito dos renglones que la lluvia había corrido.
 
-Las estanterías del fondo tenían el pan de la mañana y una caja de guantes rebajados. Aslak compró café, dos paquetes de pilas y un rollo de cinta. Delante de la caja, dos hombres discutían una palabra del rótulo de la pantalla y dejaron de hacerlo cuando llegó su turno.
-
-La cajera pasó las pilas por el lector y miró el membrete del sobre.
+Aslak compró café, dos paquetes de pilas y un rollo de cinta. La cajera pasó las pilas por el lector y miró el membrete del sobre.
 
 —¿Ya os lo han leído?
 
@@ -220,17 +214,9 @@ La cajera pasó las pilas por el lector y miró el membrete del sobre.
 
 —Está en el expediente —dijo Aslak—. Página once.
 
-Aslak pagó justo. La cajera dobló el recibo. Después empujó la bolsa hacia él y saludó por su nombre al hombre que esperaba detrás.
-
-—¿Y ahora qué?
-
-—Ahora, antes de cerrar el paso, preguntan.
-
-—Algo es.
+Aslak pagó justo. La cajera dobló el recibo y saludó por su nombre al hombre que esperaba detrás.
 
 * * *
-
-La carretera del refugio subía con dos rodadas y una franja de grava en medio. Aslak paró antes de la curva y dejó pasar al coche del correo.
 
 Dejó el acta en el cajón del refugio, encima de las tres reproducciones que volvían con él. Las selladas llegarían en diez días.
 

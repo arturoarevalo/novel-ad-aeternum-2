@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w4r",
+  "fecha": "2026-08-18T09:31:09",
+  "capitulos": 47,
+  "palabras": 79844,
+  "por_parte": {
+    "1": 19925,
+    "2": 18928,
+    "3": 22063,
+    "4": 18928
+  },
+  "objetivo": 81000,
+  "banda": [
+    80000,
+    82000
+  ],
+  "en_banda": false,
+  "salida": "compilado/ad-aeternum-w4r.md"
+}

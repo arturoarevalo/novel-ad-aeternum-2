@@ -1,0 +1,33 @@
+{
+ "hablantes": [
+  "Coro",
+  "Cuchillo",
+  "Madre",
+  "Nieve"
+ ],
+ "clave": {
+  "1": "Coro",
+  "2": "Cuchillo",
+  "3": "Cuchillo",
+  "4": "Coro",
+  "5": "Nieve",
+  "6": "Coro",
+  "7": "Cuchillo",
+  "8": "Madre",
+  "9": "Nieve",
+  "10": "Madre",
+  "11": "Cuchillo",
+  "12": "Cuchillo",
+  "13": "Madre",
+  "14": "Coro",
+  "15": "Madre",
+  "16": "Coro",
+  "17": "Coro",
+  "18": "Coro",
+  "19": "Madre",
+  "20": "Nieve",
+  "21": "Nieve",
+  "22": "Nieve",
+  "23": "Nieve"
+ }
+}

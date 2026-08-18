@@ -202,7 +202,7 @@ Jessie firmó la recepción, no la conformidad.
 
 Maja condujo con la carpeta gris de la resolución provisional a sus pies y el teléfono de Jessie, libre ya de la bolsa, entre ambas con el vídeo de la matrícula. El aire salía demasiado caliente.
 
-Al salir de la comisaría, el coche gris ya no estaba. Maja había revisado el aparcamiento antes de abrirle la puerta, sin decir lo que buscaba. Ahora cambiaba de carril con tiempo y dejaba pasar dos semáforos en ámbar. Jessie observó cada par de faros que repetía un giro. Ninguno llegó al tercero.
+Al salir de la comisaría, el coche gris ya no estaba. Jessie observó cada par de faros que repetía un giro. Ninguno llegó al tercero.
 
 —La próxima vez me llamas antes de bajarte —dijo.
 

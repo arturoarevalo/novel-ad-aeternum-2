@@ -3,7 +3,7 @@ capitulo: 39
 titulo: Depósito
 pov: Astrid
 fecha: 2061-01-22
-estado: aceptado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -16,9 +16,9 @@ La escarcha de la fotografía había convertido una tubería de NIDHOGG en una p
 
 Astrid la dejó boca abajo el 22 de enero y unió `R-1189` a las once filas preservadas. Añadió la atestación `CE-K` de NORNA, contrastó las procedencias y firmó la suspensión. ARGOS tendría que recertificarse y las nuevas emisiones quedarían bloqueadas. El consejo de Armstrong había obtenido antes de la tarde un *standstill* de setenta y dos horas de los acreedores principales. El contrato aún vencía el 23.
 
-Al día siguiente, Kronfjord congeló las líneas y entregó el contrato que repartía la operación entre empresas y dejaba a Armstrong como beneficiaria.
+Al día siguiente, Kronfjord congeló las líneas y entregó el contrato.
 
-El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning` que prohibiera transferir o alterar NIDHOGG y permitiera preservarlo. El tribunal exigió precisión al día siguiente. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
+El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning`. El tribunal exigió precisión al día siguiente. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
 
 Astrid volvió la fotografía.
 
@@ -104,7 +104,7 @@ Jessie leyó de nuevo y firmó. Maja no intervino.
 
 Tomas esperó de pie mientras la letrada retiraba los folios de la mesa. Llevaba el carné en la mano desde antes de entrar en la sala. Nadie le indicó dónde sentarse.
 
-Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había forzado once segundos de diagnóstico, alterado el retorno seguro y usado una hoja de Hvelv dentro de la contratación de Kronfjord. Los registros de emisión de Hvelv devolvieron la ruta de firma y las guardias activas. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
+Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había usado una hoja de Hvelv dentro de la contratación de Kronfjord. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
 
 —¿Quién dio la instrucción? —preguntó la jueza.
 
@@ -114,7 +114,7 @@ Nadie contestó.
 
 —Una denuncia anónima, a las ocho y doce del diecisiete de diciembre —dijo Astrid—. No puedo acreditar su origen.
 
-Astrid abrió el contrato recibido el día 23. La telemetría y los controles de Armstrong confirmaban la recepción del resultado y el beneficio corporativo. Con esos retornos, la jueza tuvo por acreditados el mecanismo deliberado, la cadena Hvelv–Kronfjord y el beneficio de Armstrong. El auto dejó en blanco al ejecutor y al ordenante individuales.
+Astrid abrió el contrato recibido el día 23. La jueza tuvo por acreditados el mecanismo deliberado, la cadena Hvelv–Kronfjord y el beneficio de Armstrong. El auto dejó en blanco al ejecutor y al ordenante individuales.
 
 Alana compareció con el documento antiguo abierto por la remisión al anexo póstumo.
 
@@ -136,7 +136,7 @@ El resguardo identificaba el corpus y la autorización privada aún activa.
 
 —Sí.
 
-El formulario le permitía mantener vigente su autorización privada sobre el corpus o revocarla desde aquel día. El corpus seguiría intacto, segregado e inerte bajo custodia, y cualquier uso futuro tendría que empezar con autorización contemporánea y control externo.
+El corpus seguiría intacto, segregado e inerte bajo custodia, y cualquier uso futuro tendría que empezar con autorización contemporánea y control externo.
 
 —Si la mantengo, puedo frenar un uso precipitado mientras se fija un protocolo estable —dijo Mats.
 
@@ -148,13 +148,13 @@ Mats leyó las dos opciones otra vez.
 
 * * *
 
-El `kjennelse` del 28, eficaz desde la solicitud del día 25, abrió la reestructuración y nombró `rekonstruktør`. Mantuvo la `midlertidig forføyning` sobre NIDHOGG. Armstrong continuaría como deudora en posesión supervisada, con su autonomía limitada sobre deuda y activos importantes. Su desenlace seguía fuera de aquel auto.
+El `kjennelse` del 28, eficaz desde la solicitud del día 25, abrió la reestructuración y nombró `rekonstruktør`. Armstrong continuaría como deudora en posesión supervisada. Su desenlace seguía fuera de aquel auto.
 
 El 29, el ascensor de carga llevó a la comisión de inspección al nivel menos dos. Astrid y Maja quedaron detrás de la técnica. Bajo las suelas persistía el temblor de las bombas.
 
 Una técnica conectó una sonda precintada y abrió una sola tarea de comprobación. La pantalla dibujó su traza. Mientras seguía abierta, la segunda línea eléctrica tomó carga. Cambió la curva térmica y la bomba corrigió el retorno. El cierre quedó marcado cuando el sistema recuperó su régimen. La línea de salida no recibió marca. Aquella operación necesitó el sustrato y los controladores. También el frío y la persona que la vigilaba.
 
-El aire seco olía a plástico caliente. En la misma traza constaban el repuesto instalado en diciembre y el turno de quien había validado la corrección. La técnica desconectó la sonda y esperó a que la lectura recuperase el valor previo antes de tocar el precinto.
+El aire seco olía a plástico caliente. En la misma traza constaban el repuesto instalado en diciembre y el turno de quien había validado la corrección.
 
 —¿Puede capturar el estado y restaurarlo en otro equipo? —preguntó Astrid.
 
@@ -192,13 +192,13 @@ Maja no solicitó acceso.
 
 * * *
 
-El 2 de febrero, la resolución constituyó el depósito judicial en la propia instalación. La caja controlada pagaría suministro, frío, repuestos y personal autorizado. Un protocolo cubriría urgencias y registraría cada acceso. Los demás cambios necesitarían autorización.
+El 2 de febrero, la resolución constituyó el depósito judicial en la propia instalación. La caja controlada pagaría suministro, frío, repuestos y personal autorizado. Un protocolo cubriría urgencias y registraría cada acceso.
 
-El reconstructor controlaría la caja y el tribunal decidiría sobre NIDHOGG. Armstrong podía mantener trabajando al equipo, pero no disponer por sí sola de aquello que mantenía.
+El reconstructor controlaría la caja. Armstrong podía mantener trabajando al equipo, pero no disponer por sí sola de aquello que mantenía.
 
-El tribunal ordenó preparar una ventana supervisada de audio y texto para futuras visitas, siempre bajo autorización posterior. También autorizó la instalación de un sensor audiovisual bajo el alero del naust. Su enlace sería unidireccional, aislado de los controles y permanecería sin señal hasta otra decisión.
+El tribunal ordenó preparar una ventana supervisada de audio y texto para futuras visitas, siempre bajo autorización posterior. También autorizó un sensor audiovisual bajo el alero del naust, unidireccional y sin señal hasta otra decisión.
 
-Maja aceptó la tutela-depósito procesal. Podría comunicar incidencias, recibir e impugnar registros y solicitar visitas. NIDHOGG quedaba fuera de su custodia. Tampoco adquiría propiedad, representación general ni control técnico.
+Maja aceptó la tutela-depósito procesal. NIDHOGG quedaba fuera de su custodia. No adquiría propiedad, representación general ni control técnico.
 
 —¿Acepta esos límites cuando perjudiquen una petición de su familia? —preguntó la jueza.
 

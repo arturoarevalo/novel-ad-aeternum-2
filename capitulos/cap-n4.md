@@ -14,19 +14,15 @@ orden_lectura: 25.5
 
 La plataforma admitió las credenciales de Nora al primer intento.
 
-En el mural del aula 214, su nombre pasó de gris a blanco entre los otros veintisiete. Las entregas de diciembre figuraban recibidas, con la fecha de cierre al lado.
+Nora abrió el calendario del curso antes que nada. La convocatoria de marzo seguía sin fecha de apertura y sin lista. Las entregas de diciembre figuraban recibidas, con la fecha de cierre al lado.
 
 El álbum había vuelto al menú. No contenía nada. El historial de cargas empezaba aquella mañana y las ocho de diciembre no estaban en ninguna parte.
 
-La tutora no apagó el mural al entrar. Pasó lista y dejó las entregas a la vista.
-
-Mikkel giró el terminal hacia el compañero de al lado.
-
-—Ya te va —dijo.
+—Ya te va —dijo Mikkel sin levantar la vista.
 
 —Ya me va.
 
-En los cristales quedaba la luz azul de la hora corta. Debajo del radiador se había vuelto a formar el charco con forma de bota. El cuaderno pautado seguía en el fondo de la mochila, entre los ejercicios de armonía.
+En los cristales quedaba la luz azul de la hora corta. Debajo del radiador se había formado el charco con forma de bota. El cuaderno pautado seguía en el fondo de la mochila, entre los ejercicios de armonía.
 
 A las once y cuarenta, el terminal vibró contra la mesa.
 
@@ -40,11 +36,13 @@ El segundo aviso entró a las once cincuenta y dos.
 
 `Revisión cerrada el 3 de enero.`
 
-En el mural, su nombre volvió al gris.
+En el mural del grupo, su nombre volvió al gris.
 
-La tutora apagó el mural desde el panel de la puerta. Salió al pasillo y volvió con dos hojas impresas, todavía calientes, como el dieciséis de diciembre.
+Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden.
 
-—La entrega la registro yo —dijo.
+La tutora trajo dos hojas impresas y la captura del aviso.
+
+—Las paso yo al registro —dijo.
 
 —Las de diciembre las registró usted también.
 
@@ -54,17 +52,17 @@ Nora comprobó que constaban. Después dio la vuelta a las hojas.
 
 El mismo aviso llegó otra vez a las once cincuenta y ocho. La primera línea era idéntica. La segunda ya no estaba.
 
-Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. Puso las dos horas, una por línea, con su referencia de incidencia al lado. Las comparó grupo por grupo, de izquierda a derecha: empezaban igual y se separaban en el cuarto. Subrayó la línea que había desaparecido. En el apartado de origen puso `responsable desconocido`.
+Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. Puso las dos horas con su referencia de incidencia al lado. Subrayó la línea que había desaparecido. En el apartado de origen puso `responsable desconocido`.
 
 Bajo `datos` quedaron las dos cosas del día: la cuenta abierta a las ocho y diez y cerrada a las once cincuenta y dos. No abrió `hipótesis`.
 
 La tutora se detuvo en su mesa al terminar la clase.
 
-—¿Cuál de los dos vale? —preguntó Nora.
+—¿La convocatoria se abre igual? —preguntó Nora.
 
-—El que conste.
+—El viernes, en la plataforma.
 
-—Han llegado los dos. Con seis minutos de diferencia y dos referencias distintas.
+—La plataforma no me deja entrar. Han llegado dos avisos, con seis minutos de diferencia y dos referencias distintas.
 
 La tutora abrió la ficha en su propio terminal y la giró lo justo para leerla ella.
 
@@ -74,15 +72,9 @@ La tutora abrió la ficha en su propio terminal y la giró lo justo para leerla 
 
 —El que hay cuando abro. No puedo decirte más.
 
-Nora copió la respuesta en el cuaderno, entre comillas.
+—Mientras dure, entregas en papel —dijo la tutora—. Desde aquí no puedo hacer más.
 
-—Mientras dure, entregas en papel —dijo la tutora—. La revisión no la lleva el centro. Desde aquí no puedo hacer más.
-
-—¿Y la inscripción de marzo?
-
-—Se abre el viernes en la plataforma.
-
-—La plataforma no me deja entrar.
+—¿Y marzo?
 
 —Entonces en papel, en la secretaría de Kongsbakken, y en horario de mañana. El impreso lo firma quien tenga tu tutela.
 
@@ -96,9 +88,7 @@ Nora contó los días que faltaban para el viernes. Después contó las mañanas
 
 —Firmado.
 
-Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden. Mikkel ya había vuelto a girar el terminal.
-
-Nora escribió `viernes`, `28` y `Kongsbakken` debajo de las dos horas de la mañana.
+Nora escribió `viernes`, `28`, `Kongsbakken` y `firma` debajo de las dos horas de la mañana.
 
 * * *
 
@@ -137,8 +127,6 @@ La responsable giró la pantalla antes de que Maja se sentara.
 —Ya lo he registrado como queja. Con eso tampoco se cierra nada.
 
 El aviso no traía hechos. Ni fechas, ni conducta, ni el nombre de quien evaluaba, ni una casilla para contestar. Traía una categoría, una referencia y una lista de destinatarios cerrada.
-
-Maja buscó dos veces la palabra «exposición» y no encontró de qué.
 
 La responsable pasó a la segunda pantalla.
 
@@ -230,7 +218,7 @@ La responsable escribió algo corto y no lo leyó en voz alta.
 
 —Ponlo.
 
-A la vuelta, Maja pasó por el pañol. El lector rechazó su credencial dos veces y encendió el piloto ámbar. En el marco había un cartel con un teléfono de mantenimiento y una fecha de revisión de octubre.
+A la vuelta, Maja pasó por el pañol. El lector rechazó su credencial dos veces y encendió el piloto ámbar.
 
 La misma credencial abrió la puerta de su despacho.
 
@@ -265,8 +253,6 @@ La autorización llevaba fecha del tres de enero, a las nueve y doce. El coche g
 Maja acercó el aviso del Framsenteret y lo dejó junto a la carpeta gris.
 
 Jessie abrió el vídeo en el teléfono y buscó el primer fotograma. La hora estaba grabada en la esquina, en el mismo formato que el recibo de la comisaría. Era la del domingo.
-
-Aquel recibo le había costado dos horas en una sala con cuatro sillas atornilladas. Consignaba la duración y el número de incidencia. Nada más.
 
 —¿Cuándo acaba lo mío? —preguntó.
 
@@ -313,8 +299,6 @@ Jessie se levantó y pasó el vídeo a la pantalla grande. La matrícula ocupaba
 —Sirve donde tiene que servir. Y no en tu cuenta.
 
 Jessie paró la reproducción antes del avance del coche.
-
-En la mesa había tres papeles del mismo día y un teléfono. Los papeles los había escrito gente que no aparecía en ellos. El vídeo lo había grabado ella, con la mano, a dos metros de un capó.
 
 Copió el vídeo en la tarjeta, en el disco de casa y en el lápiz que llevaba en el bolsillo interior del abrigo. A las tres copias les puso la fecha en el nombre.
 
@@ -410,8 +394,6 @@ El de la cuenta de Nora era una captura de cuatro líneas. La habían impreso en
 
 Tres formatos, tres tipos de letra, un solo día.
 
-En dos de ellos aparecía la misma frase. Cuatro palabras, en el mismo orden, con el mismo punto detrás. Maja la leyó en los dos sitios, una detrás de otra.
-
 Maja los fotografió juntos, en una sola toma, y añadió la foto de la pantalla del despacho.
 
 A Astrid le escribió qué era cada papel, la hora de cada uno y de dónde había salido. Debajo puso una línea más.
@@ -427,8 +409,6 @@ Nora entró desde el pasillo con el terminal en la mano y la pantalla vuelta hac
 —No puedo imprimir nada —dijo Nora—. Ni entrar. La captura de esta mañana la hizo la tutora.
 
 —Enséñame las dos.
-
-Nora puso las dos notificaciones una encima de otra en la pantalla y bajó el brillo para que se leyeran las horas.
 
 —La segunda es de las once cincuenta y ocho.
 
@@ -453,8 +433,6 @@ Nora dejó el cuaderno pautado sobre la funda y volvió a cogerlo.
 Maja contó los objetos dos veces. Apuntó el número en el dorso de la funda y la fecha debajo.
 
 Las habitaciones que daban a la calle seguían apagadas desde diciembre. El telefonillo continuaba fuera de la pared, con los dos cables recogidos.
-
-En la carpeta gris, una cámara municipal situaba el coche delante de la puerta el domingo a las nueve y cuarto. La notificación de las tres y veinticinco decía que aquello había sido un encargo en regla. Las dos cosas estaban en la misma carpeta y no se contradecían.
 
 Maja marcó el número de Aslak desde el pasillo.
 

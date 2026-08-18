@@ -84,3 +84,54 @@ B0 `informes/b0-discrepancias.md` · B1 `biblia/b1-cronologia.md` · B2 `biblia/
 - Sesión 3 (2026-08-16), Fase 2: A2 ×4 ≈ 2,03 M tokens (A2-W2 477k · A2-N 493k · A2-F1 504k · A2-F2 561k); contexto de A0 ≈ 0,15 M. Acumulado subagentes ≈ 6,1 M.
 - Sesión 3 (2026-08-16): F1 cerrada. Subagentes en sesión: sonda haiku 18k · A7 221k · A1-mant. 189k + 69k (+ A5 176k de la sesión 2) ≈ 0,67 M; fuera de sesión (`critica-fria.sh`, coste real): A6×3 frío 10,79 USD · lector frío ×16 1,00 USD · M6b ×4 0,30 USD ≈ 12,1 USD; contexto de A0 ≈ 0,35 M. Cada hito de puntuación completo costará ≈ 12 USD (A6×3 + lector frío de los capítulos tocados + M6b), + ≈ 9 USD si se añaden los A6b ×4.
 - Sesión 1 (2026-08-16): F0 completa. Subagentes: guía técnica 56k · B1 352k · B7 379k · B2a 353k · B2b 475k · B6 417k · B4/B5 460k · B3 481k · B6b (A4) 345k ≈ 3,4 M tokens de subagentes (con caché) + ~0,4 M del contexto de A0.
+
+---
+
+## 2026-08-18 · W4-R (campaña de ritmo): cierre podado, centro en ejecución
+
+Oleada **creada por A0** bajo la autonomía delegada por el autor (2026-08-18). Es la primera del proyecto que **resta** texto. Rama `w4r-ritmo`, sin fusionar.
+
+### Lo hecho y verificado
+
+| | |
+|---|---|
+| N3 y N2 | −1.007, ninguna de escena (la cena del metrónomo con diff 0) |
+| Bloque de cierre 34–41 | −728 netos (A4 −870, A0 restituye +142) |
+| Correcciones de A7 | 2, ejecutadas; **W4-R aprobado sin veto y sin condiciones pendientes** |
+| A5 | pasa con menores; **ningún pago sin siembra** |
+| M9 | 109 spans íntegros en todas las verificaciones |
+
+### La medición que cambió el rumbo de la oleada
+
+Tres críticos fríos sobre el compilado podado + **control de deriva sobre v0**, mismo día, mismo juez. **Ritmo: mediana 7,5** — quinta consecutiva. **Personajes 8,5 sin caída. Global 8,5, ningún eje cae.** Criterio de salida del autor («Ritmo ≥ 8,0 y Personajes sin caída»): **Personajes cumple, Ritmo no.**
+
+**v0 también puntúa 7,5 hoy.** La poda del cierre no movió el eje y el eje no se había movido nunca. Estaba bien hecha y aplicada al tercio equivocado.
+
+**Los cuatro lectores coinciden por primera vez en el proyecto y ninguno nombra el cierre**: A6-1 abandona en `cap-n4`, A6-2 y A6-3 en `cap-13`, el control de v0 en `cap-30`. La razón es una: **reiteración**, no densidad.
+
+### Lo que el diagnóstico del centro (A2) establece
+
+- La Parte III era **la más corta** del libro (14.089) y hoy es **la más larga** (22.063): **+57 %**. El 86 % de ese crecimiento son **N3, la coda R2 del 25 y N4**: 7.974 palabras nuestras en la parte que v0 ya arrastraba.
+- **De trece nominaciones de punto de abandono en cinco hitos, doce caen en Partes II–III y ninguna en el cierre.** Cuatro son capítulos que no existían en v0.
+- Dos controles positivos pareados: **cap-30 salió de la lista tras W2** (y v0 sigue abandonando ahí) y **cap-n3 salió tras la poda de esta oleada**.
+- **CH-27 pagado dos veces**: `b4-ledger.json` lo asigna a «N2 **y** N4», única entrada de 83 con dos capítulos nuevos; veinte palabras consecutivas idénticas entre `n2:31` y `n4:45`.
+
+### Instrumentos: dos retirados, uno nuevo
+
+- **El % de diálogo de M5 no mide el ritmo de este libro.** El interlocutor de Jean contesta en tres palabras. Medido como mancha máxima entre respiros visuales, la mediana del libro es **146 palabras** y cap-08 pasa de 1.008 a 271. No hay defecto micro. M5 se conserva como contrato pero **A0 no dirige trabajo con él**.
+- **La repetición léxica sobredispara** donde el ritual ES el contenido (cap-07, cap-n5). Un crítico exculpa a n5 expresamente.
+- **Enmienda a G-3 (de P-37 de A7):** vaciar el párrafo vecino de una línea protegida **cuenta como modificarla**; el paragrafado es énfasis y el hash no lo detecta. No afecta a las líneas autorizadas aisladas de origen.
+
+### En ejecución
+
+A4 poda el centro (−479: n4 −299, 22 −70, 27 −55, 24 −35, 29 −20; **n2, n3 y 13 a cero**), con la hoja **ya aprobada por A7** y tres condiciones de coste cero. A3a escribe **R5 en cap-13** (+80…+120, tres anclas exteriores), con perímetro de A7 por adelantado.
+
+Después: **G-1** (reasignar la función de la escena 1 de n4, ±0 palabras; A3b + A7), **G-4** (charco huérfano de n2, vía B, coste cero, **secuenciada después de G-1**), y luego **W5**, que va detrás de la poda.
+
+### Decisiones de A0 registradas
+
+`informes/w4r-decisiones-centro.md`. Incluye **la revocación de una decisión propia**: cancelé R5 mirando cuatro de sus seis destinos; los otros dos eran 13 y 17. Reactivada solo en cap-13. **G-5 cerrada por A7**: la caja E de N3 es singular y por eso no se toca — margen máximo un objeto; caja F, cero.
+
+### Ledger
+
+Manuscrito **79.844**, por debajo del suelo de banda (80.000–82.000). W5 lo repone. Techo aritmético de poda adicional ≈ 1.230.

@@ -100,8 +100,6 @@ Cuchillo recibe una ventana dentro de la contención.
 
 La ruta exterior sigue bloqueada.
 
-Retiró el destino del Auditorio antes de que las rutas se enlazaran. La decisión fue suya y consta bajo `/0188`.
-
 Cuchillo abre los expedientes que conserva. Peticiones de auxilio convertidas en material de moderación. Historias que terminan cuando el formulario obtiene una categoría.
 
 El último campo espera una resolución.
@@ -119,8 +117,6 @@ El sistema marca el campo incompleto y ofrece calcular un resultado probable. Te
 * * *
 
 Madre espera ante su ventana.
-
-Ha esperado en `/0007` desde antes de que las demás se enlazaran, sin entrar en el enlace.
 
 El ciclo educativo continúa abierto, pero no llega ninguna nota desde el Auditorio. Madre tararea el comienzo de la melodía y coloca una nota mal.
 
