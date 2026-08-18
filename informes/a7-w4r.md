@@ -191,3 +191,73 @@ Firmado, **A7** · 2026-08-18 · sobre `w4r-ritmo` @ `ab52336` + el arbitraje de
 Sin veto. P-34, P-35, P-36 y P-37 siguen vigentes hacia adelante, junto con C-1…C-4 (W3), P-1…P-10 (W3) y P-12…P-33 (W4).
 
 Firmado, **A7** · 2026-08-18 · sobre `w4r-ritmo` @ `8458d81`.
+
+---
+
+## 11. Pasada previa sobre el centro (protocolo «leo la OT, no el capítulo») · 2026-08-18
+
+**Objeto:** `informes/w4r-diagnostico-centro.md` §3.1, §3.3, §3.4, §3.5, §4.4, §6.2, §6.3, §6.4, contrastados contra `capitulos/cap-n4.md` y `capitulos/cap-13.md`.
+
+### 11.1 · HOJA DE PODA `cap-n4` (§3.3): **PASA**
+
+Verificado por mí sobre el texto, no sobre la hoja:
+
+- **Perímetro (a).** `:445–:453` a corte cero, y —lo que de verdad importa tras `n3:321`— **sus dos vecinos, `:443` y `:455`, tampoco se cortan**: el bloque del altillo conserva tampón a ambos lados. `:331` sigue cerrando la escena 3 sin nada detrás. **Cumple.**
+- **Perímetro (b).** `n4:93` verbatim. Reparto del corte de la escena 1 comprobado uno a uno: C-3 (`:57`, −13) y C-4 (`:77`, −9) = **22 del lado competencia**; C-1, C-2, C-5, C-6 = **50 del calco**; **0 del registro adolescente**, y C-6 conserva «Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden», que es el mejor material de punto 7 de la escena. **Cumple, y mejora la proporción.**
+- **Perímetro (c).** Cero cortes propuestos en `cap-n2`. **Cumple.**
+- **Columna de paragrafado.** Auditada en los trece cortes. Ninguna línea queda aislada que no lo estuviera. Las dos que ganan énfasis —`:43` («su nombre volvió al gris») y `:411` («Tres formatos, tres tipos de letra, un solo día»)— no están en perímetro alguno y ganan en la dirección correcta: `:411` refuerza que los tres avisos vienen de **tres burocracias distintas**, es decir, refuerza la villanía sistémica (§6.3) en vez de insinuar un autor humano.
+- **C-2:** la supresión de «como el dieciséis de diciembre» es obligatoria también para mí: es una remisión del narrador que instruye al lector a comparar con N2.
+
+**Condiciones (tres, ninguna cuesta palabras):**
+
+| # | Condición |
+|---|---|
+| **N4-1** | El **paragrafado** de `:443–:455` queda congelado tal como está: ni se funden párrafos, ni se dividen, ni se reordenan. El corte cero de (a) cubre los límites de párrafo, no solo las palabras. |
+| **N4-2** | Tras C-13, `:447` pasa a ser la **última** mención de la carpeta gris del capítulo. Se acepta; a cambio, ninguna OT futura puede dar al altillo función de origen ni añadir de dónde salió la caja. C-4.1 sigue entera. |
+| **N4-3 (P-38)** | Tras C-9 —que retira el retelling del recibo de `24:175`—, las cuatro réplicas `:271–:277` («—¿Cuándo acaba lo mío?» / «—No lo dice.» / «—¿Y quién decide cuándo acaba?» / «—Tampoco lo dice.») quedan como **la única enunciación viva del coste de Jessie** en N4. Punto 7 exige que el riesgo tenga precio visible. **Cortarlas o comprimirlas dispara mi gate.** |
+
+C-9 se aprueba precisamente porque lo que sobrevive es mejor que lo que se va: una pregunta sin respuesta en boca de la menor, en lugar de un recibo glosado por el narrador.
+
+### 11.2 · G-5 · Desambiguación de P-36 (la caja E)
+
+**Lectura correcta: la caja E ES singular, y por eso NO se toca. No es el corte barato de la serie: es el menos cortable de los seis.**
+
+Lo que escribí significaba que A4 la había clasificado mal, no que estuviera disponible. La serie A–B–C–D–E–F es lo que sostiene el contrato del capítulo tras la poda (§3 de este informe): seis cajas con letra son lo que hace de N3 un inventario y no una escena de duelo. **El alfabeto se audita solo**: si falta una letra, el lector ve el hueco, y en un capítulo sobre los objetos de una muerta un hueco con forma de caja es una ausencia con figura. Es el peor resultado posible de un corte «barato».
+
+**Regla operativa para W6, para que N3 pueda entrar en una oleada:**
+
+1. **Las seis cajas siguen siendo seis**, cada una con su letra, cada una abierta y resuelta en el texto.
+2. Dentro de cada caja se puede podar el **contenido**, con suelo: cada entrada conserva (i) la letra, (ii) al menos un objeto, (iii) al menos un destino (garaje / altillo / mesa / cerrada). Por debajo de ese suelo deja de ser una entrada de inventario.
+3. **La caja E ya está en el suelo** («La caja E era del cuarto de baño y del recibidor. Dos toallas más, un espejo pequeño y un paragüero de metal.»): letra, procedencia, tres objetos, sin destino. Margen máximo: **un objeto**. No más.
+4. **La caja F no admite corte alguno**: «La abre Astrid o no la abre nadie» es el pago de 39 y una ambigüedad viva.
+5. Donde sí hay holgura, si W6 necesita palabras de N3: la lista de la caja B, «La puerta se cerró dos veces» y la previsión de viento del Lyngen. **Nada del recuerdo de la cena, nada del garaje, nada del recuerdo del piano.**
+
+Con esto P-36 queda cerrada y N3 puede entrar en W6.
+
+### 11.3 · G-1 (prosa nueva, A3b) · perímetro previo
+
+Apruebo la dirección: `TENSIÓN/PAGO` → `AGENCIA/INTERIORIDAD` es la dirección que yo protejo. Condiciones **antes** de que A3b escriba:
+
+1. **`n4:93` verbatim y sigue siendo el ancla.** La prosa nueva se escribe alrededor, no en su lugar. Y define el techo de profundidad: Nora cuenta días y cuenta las mañanas de su madre. **Esa es toda la interioridad permitida.** Ni un párrafo de sentimiento sobre su madre.
+2. **`AGENCIA` no significa más competencia.** Si la escena sale con Nora gestionando mejor, la intervención ha fallado en lo que a mí me toca (P-6, P-26). Lo que se busca es una cría de dieciséis años calculando un precio, no una gestora de expedientes.
+3. **Ningún adulto explica el mecanismo, se disculpa por él ni promete que se resolverá.** «responsable desconocido» (`:57`) y «El que hay cuando abro. No puedo decirte más.» (`:75`) son el techo. Una tutora que arregla algo sería el milagro del punto 6 trasladado a la burocracia.
+4. **Ningún adulto nombra a Jean, la muerte, la ceremonia ni «lo que has pasado».** N2 fijó el techo institucional («Por lo de tu hermana»). «Con todo lo que llevas encima» o equivalente es **VETO**: es consuelo terapéutico en voz con autoridad institucional. Lo digo antes porque «AGENCIA/INTERIORIDAD» + tutora comprensiva es exactamente la combinación que lo produce.
+5. **P-20:** ninguna instancia nueva de «texto presente que no se lee». La suspensión de la cuenta no se convierte en un documento que Nora mira y no abre.
+6. **Nada nuevo sobre el altillo, la caja, la carpeta gris ni la bolsa.**
+7. Si la escena deja de pasar por el aula 214, **la imagen del mundo que la sustituya no puede ser un espejo de otra de N2** (ni mural, ni hojas calientes, ni gesto de Mikkel).
+
+**G-4:** conforme con la vía B (`n4:29` «se había vuelto a formar» → «se había formado», 0 palabras), que no reabre N2. **Secuenciar después de G-1**: si G-1 relocaliza la escena, el charco puede desaparecer y la corrección queda sin objeto — en ese caso la imagen que ocupe su lugar cae bajo la condición 7.
+
+### 11.4 · G-2 (R5 restringida a `cap-13`, A3a) · perímetro previo
+
+La rectificación es correcta y el destino es legítimo. Las tres posiciones caen fuera de los seis spans de 13. Condiciones **antes** de que A3a escriba:
+
+- **A-1 (`:91`, Nieve).** Lo que entre en las dos tomas del mismo blanco debe ser **industrial y neutro**. Prohibido: una persona, un cuerpo, una cara, una ventana, una orilla, agua, hielo, un horizonte, un reflejo. Nieve es la continuidad que muere en 38 y el pasaje de su muerte es el duelo más protegido del libro: **ninguna imagen suya puede poder releerse como presagio.** El paralelo con Jean no se enuncia (`OT-36/13/17`).
+- **A-2 (`:177`, Cuchillo).** Modelo correcto y ya escrito: `17:61`, «Una lista de la compra pegada a la pantalla tapa la mitad de la última» — un objeto doméstico banal que **estorba** la prueba, no que la ilustre. La imagen pertenece a un caso de acoso y **no puede mostrar lesión, cuerpo, menor ni contenido autolesivo**; los lotes de moderación en POV de Jean nunca llevan contenido suicida o autolesivo más allá de la categoría (B7 §6). No repetir el objeto de `17:61`.
+- **A-3 (`:219`, la anónima) — la única de las tres que me preocupa.** El texto ya dice que el reinicio borra «la petición, **la destinataria** y el propósito». Un mensaje a una mujer concreta cuyo contenido ha desaparecido es, estructuralmente, la forma que toma una despedida en este libro (P-31, P-27, Carta 2). **Condición: la imagen se pone en los SEGMENTOS —lo que la continuidad tramitó—, nunca en la petición, la destinataria ni el propósito**, que siguen borrados y sin imagen. El objeto debe ser un sitio o una cosa **sin contenido comunicativo**: ni nombre, ni dirección, ni hora, ni palabras, ni fotografía de una persona, ni nada legible como súplica o despedida. Rellenar la petición borrada, en cualquier soporte, sería **VETO**.
+- **Transversales:** P-33 (techo de dos para «No dice + interrogativa indirecta»: `13:73` y `25:227`; la prosa nueva no añade una tercera). Nada de la casa ni del 26-nov (`13:121` es el modelo). Los tres objetos deben pertenecer a **tres órdenes distintos**: tres imágenes del mismo tipo crearían un sistema simbólico privado alrededor de las continuidades, que es lo que ninguna de estas anclas debe hacer.
+- **Procedimiento:** me basta **una** pasada, sobre el borrador de A3a y **antes** de A4, porque en imágenes el riesgo está en el objeto elegido, no en la línea. Si el objeto pasa, la pasada de línea no lo cambia.
+
+**P-38** (§11.1, N4-3) queda incorporada a la lista vigente junto a P-34…P-37.
+
+Firmado, **A7** · 2026-08-18.
