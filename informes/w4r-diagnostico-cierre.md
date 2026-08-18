@@ -387,3 +387,13 @@ Si W5 se ejecuta antes que la poda, escribirá inserciones dentro de párrafos q
 
 Seis «hojas de poda» —secciones §10 en las OT existentes, no OT nuevas—, con locus exacto, presupuesto negativo, etiqueta de la función que se conserva, prohibición específica y checklist para A5/A7/A8: `OT-34`, `OT-37`, `OT-38`, `OT-39`, `OT-40`, `OT-N6`. Escritor: **A4** en cinco de las seis (es supresión y sutura de línea, no redacción); **A3b** solo en N6 si G-2 se aprueba, porque fundir dos escenas exige escribir dos o tres frases de enlace. A7 lee el diff completo antes del merge: cinco de los seis capítulos tienen span o prohibición prospectiva encima.
 
+
+---
+
+## Enmienda a G-3 (A0, 2026-08-18), a partir de P-37 de A7
+
+G-3 decía: «las listas de líneas intactas protegen líneas concretas contra la modificación, no convierten el capítulo en intocable ni prohíben podar alrededor; los spans sí son intocables». Se mantiene, con una adición que A7 encontró en `n3:321` y que vale para todos los perímetros, no solo el suyo:
+
+> **Vaciar el párrafo vecino de una línea protegida cuenta como modificar esa línea.** El paragrafado es énfasis. Una frase que estaba enterrada en una cláusula de logística y acaba sola entre dos blancos ha cambiado de función aunque no haya cambiado un carácter, y en este libro el párrafo de una sola frase es la posición de los remates.
+
+Consecuencia operativa para W5 y W6: quien pode alrededor de una línea listada, de un span o de un perímetro de A7 debe comprobar **cómo queda paragrafada**, no solo que siga presente. La verificación por hash no detecta esto: el hash del span estaba intacto.

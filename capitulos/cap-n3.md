@@ -316,9 +316,7 @@ Maja esperó en la puerta hasta que salió del camino.
 
 El táper fue al armario de arriba, con los otros.
 
-La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Dejó fuera un jersey azul que no recordaba. Salían el lunes al contenedor del aparcamiento.
-
-La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.
+La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Dejó fuera un jersey azul que no recordaba. Salían el lunes al contenedor del aparcamiento. La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.
 
 La caja D eran papeles del piso. Maja hizo una lista en el reverso de uno de ellos: luz, agua, seguro, buzón. Debajo escribió la fecha del treinta y uno y la subrayó.
 

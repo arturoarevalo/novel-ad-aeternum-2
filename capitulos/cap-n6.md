@@ -216,12 +216,6 @@ Aslak compró café, dos paquetes de pilas y un rollo de cinta. La cajera pasó 
 
 Aslak pagó justo. La cajera dobló el recibo y saludó por su nombre al hombre que esperaba detrás.
 
-—¿Y ahora qué?
-
-—Ahora, antes de cerrar el paso, preguntan.
-
-—Algo es.
-
 * * *
 
 Dejó el acta en el cajón del refugio, encima de las tres reproducciones que volvían con él. Las selladas llegarían en diez días.

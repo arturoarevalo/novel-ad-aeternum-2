@@ -154,3 +154,11 @@ Se restauran, verbatim, **la cajera y las dos réplicas finales**; se mantienen 
 Motivo: N6 es el último capítulo nuevo del libro y **«—Ahora, antes de cerrar el paso, preguntan. / —Algo es.» es la única enunciación de lo que se ha ganado**. El acta sin esa medida es un trámite. «Mi padre alegó en el cincuenta y siete. Le contestaron dos años después» es lo que le da escala: la asociación lleva tres generaciones alegando.
 
 Coste nulo para el ritmo: es el capítulo con **más diálogo del bloque** y la restitución lo sube. **1.388 → 1.460 palabras (−181 sobre 1.641). Diálogo 28,9 → 32,5 %.**
+
+**Rectificación de A0 (2026-08-18), sobre la recomendación no vinculante de A7.** Retirado el trío «—¿Y ahora qué? / —Ahora, antes de cerrar el paso, preguntan. / —Algo es.» (−12). La escena de la tienda termina ahora en la cajera saludando al siguiente cliente.
+
+**A0 se equivocó al restituirlo.** Justifiqué la restitución diciendo que era «la única enunciación de lo que se ha ganado». No lo es: ciento ochenta palabras después, en el varadero, Aslak se lo dice a Nils —«—Que antes de cerrar el paso tienen que preguntarnos.» — y ahí es mejor, porque Nils tiene algo en juego y la réplica siguiente («—¿Y el corredor? —Sigue.») es más dura y más concreta que «—Algo es.». Restituir el trío **introdujo en el último capítulo del libro exactamente el defecto que esta oleada existe para quitar**: la misma frase dicha dos veces con evaluación detrás.
+
+**Lo que sí valía la pena restituir se queda:** «—Mi padre alegó en el cincuenta y siete. Le contestaron dos años después. / —Está en el expediente —dijo Aslak—. Página once.» Eso es escala —la asociación lleva tres generaciones alegando—, no tesis.
+
+**1.448 palabras · diálogo 31,9 %.**
