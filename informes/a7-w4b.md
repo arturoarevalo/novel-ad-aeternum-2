@@ -433,3 +433,140 @@ Además, y fuera del cupo de la segunda lectura, cualquier frase **nueva** que A
 Releeré el diff corregido de C-5, comprobaré C-6 y haré la segunda lectura de §10 después de la pasada de A4. Hasta entonces, **la rama no se fusiona**.
 
 Firmado, A7 · 2026-08-18 · sobre `w4-familia` (`0976f64`).
+
+---
+
+# 12 · Segunda lectura (diff post-A4)
+
+**Firma:** A7 · **Fecha:** 2026-08-18 · **Base:** `git diff c5ef656..HEAD -- capitulos/` (commit `7e34abc`, «A4 · pasada de línea de la segunda tanda de W4»): **11 ficheros, 31 líneas modificadas, 0 líneas añadidas de prosa nueva, 2 supresiones**. Leído el diff íntegro —no los capítulos— más el entorno vigente de cada locus, más las notas §9.1 que A4 dejó en `OT-18.md`, `OT-19.md` y `OT-25b.md`.
+**Alcance:** los seis loci de §10, los dos que añade A0 (las cuatro líneas de 37 y 38; la supervivencia de «No dice cuánto dura.»), la verificación de **C-5** y **C-6**, y —de oficio— **todo lo demás que A4 tocó**, porque el pase se define sobre el diff y no sobre una lista.
+
+## 12.1 · Verificaciones previas (hechas por mí, no heredadas)
+
+| Comprobación | Resultado |
+|---|---|
+| `herramientas/proteger.sh verificar` | **M9 OK · 8 ficheros íntegros · 109 spans íntegros.** Ninguna edición de A4 cae dentro de un span. |
+| `herramientas/validar-frontmatter.sh` | **OK (0 avisos).** |
+| T7 sobre los once, uno a uno (`--solo`) | **0 hits nuevos** en los once. Confirmo el dato de A0. |
+| Patrones **A** y **B** de B7 sobre las 31 líneas modificadas | **0 hits** de nivel A y **0** de nivel B. |
+| Barrido dirigido (52 expresiones: descanso, liberación, culpa, contrafáctico, deixis hacia el acto, marcadores de nota, causa) sobre las 31 líneas | **0 hallazgos.** Solo aparecen «el final de la fila» (7:57), «el último en la barra» (12:113), «el último tramo» (25:231) y «al final» de los envases (15:145): locativos y ordinales de mobiliario. |
+| **C-5 aplicada** | `cap-11:33` → «todo lo que SPEIL registró de ella **hasta la última sesión**». Redacción preferente, literal. **Cerrada.** |
+| **C-6 aplicada** | `OT-19.md` §3 I-2 marca el candidato 3:199 **«CANCELADO por A7»** con la razón (26-nov 11:15) y §9 registra que A3b acertó al escribir I-2 sin memoria. **Cerrada.** |
+| **cap-19 sigue sin recuerdo** | Verificado línea a línea: las seis ediciones de A4 en el 19 son recastas M4b y un verbo. **Cero memoria de Jean en todo el capítulo.** El precedente de §4.2 se mantiene. |
+| Loci protegidos por P-21, P-23, P-24, P-29 | **25:69, 11:147, 2:159 y 18:105-123 no tienen una sola palabra tocada.** Verificado contra el diff y contra el texto vigente. |
+| Ficheros con `proteccion: total` | **Ninguno aparece en el diff.** |
+
+## 12.2 · Tabla de hallazgos del diff
+
+| Cap:línea | Cambio (abreviado) | Punto de la Carta | Gravedad | Propuesta |
+|---|---|---|---|---|
+| 25:227 | «…y puede cerrarse en la comprobación siguiente» → «**Por el lado derecho la banda llega entera hasta el final del campo.**» | 4 | **cumple (ejemplar)** | Ninguna. §12.3. Con **P-32**. |
+| 25:231 | «sigue donde se quedó» → «no se ha movido» | — | **cumple** | Ninguna. |
+| 25:233 | Fusión: «La devolución consta **y** el acuse figura completo.» | 3, 6 | **cumple** | Ninguna: el corpus enumerado de la búsqueda no pierde un solo elemento. §12.3. |
+| 25:247 | Fusión: «…no tienen ruta **y** Jean lo comprueba de todas formas.» | **2** | **cumple** | Ninguna. **P-31** (nueva, vinculante). §12.3. |
+| 25:289 | Fusión: «La atención sigue disponible **y** no se retira porque falte el trabajo.» | **4** | **cumple** | Ninguna: el alcance de la negación no cambia. §12.3. |
+| 25:291 | **Supresión** de «La banda recoge lo que ocurre dentro con la misma precisión que un acuse.» + «**Jean cuenta** cuánto dura cada repaso…» | **4** | **cumple (ejemplar)** | Ninguna. §12.3, el punto que más miré. |
+| 25:301 | «Al terminar cada serie **Jean** repite cuatro nombres.» | 4 | **cumple** | Ninguna: cierra una ambigüedad de sujeto que dejaba el rezo en manos del sistema. |
+| 25:309 | «no llega **ni** a la mitad» | — | **cumple** | Ninguna. |
+| 25:227 | Supervivencia de «**No dice cuánto dura.**» | — | **aceptada** | Decisión expresa en §12.4. Techo de la fórmula: dos. |
+| 19:205 | «separó el meñique» → «**despegó** el meñique» | 1 / Ap. A §3 | **cumple (mejora)** | Ninguna: **aumenta** el margen de **P-25**. §12.5. |
+| 19:55, 97, 175 ×2, 177 | Recastas M4b; se suprime «Tras el cristal» | Ap. A §3 | **cumple** | Ninguna: la separación material y «sin nombres» siguen puestas. §12.5. |
+| 38:19 | «lee la orden **en voz alta**» → «**ante los presentes**» | 1 / 4 | **cumple** | Ninguna. §12.6. |
+| 37:37, 205, 215 | «volvieron a subirlas» → «las levantaron otra vez»; «volvió a subir» → «subió de nuevo»; «esperó con las manos por delante» → «**mantuvo** las manos por delante» | 5 | **cumple** | Ninguna. **P-30 respetada**: ni un rostro, ni un sollozo, ni un aplauso, ni un silencio «cargado». §12.6. |
+| 18:81-95 | **Supresión de «El cursor permanecía inmóvil detrás de *retenida*.» (línea de v0)** y adelanto del párrafo de `EXT/NIDHOGG/7C`; la escena cierra en «Memoria contextual familiar: retenida.» | Ap. A §3 / tono | **cumple (mejora de tono)** | Ninguna sobre el texto. **Observación de procedimiento a A0** en §12.8. |
+| 18:191-199 | «En ninguna aparecía el nombre de su madre» se desplaza; la escena cierra en «—Tráigame algo reproducible.» | Ap. A §3 / 7 | **cumple** | Ninguna. §12.7. |
+| 11:149, 243 | «sobre su tableta» → «en su tableta»; «dedos **abiertos**» → «**extendidos**» | — | **cumple** | Ninguna. No acercan 11:149 a la formulación de 39:179-181 (**P-12** intacta). |
+| 02:187, 07:57, 10:23, 12:113, 15:145 | Recastas y desrepeticiones sin cambio de contenido | 1, 6, 7 | **cumple** | Ninguna. **P-26** intacta: el coste de la ausencia de Nora se mantiene y sigue sin remedio, sin ideación y sin adulto que explique. |
+
+**Cero `VETO`. Cero `corregir`. Cero condiciones nuevas obligatorias antes del merge.**
+
+## 12.3 · La coda del 25, releída entera contra las nueve líneas tocadas
+
+Releí las 764 palabras de prosa de la coda (217-317) de principio a fin, no solo los nueve puntos. **Nada de lo que A4 ha hecho reintroduce lectura de descanso, de liberación o de culpa retrospectiva, y el objeto de «buscarse un error» sigue acotado al registro de trabajo.** Lo verifico por partes, porque son tres riesgos distintos y A0 me los pide separados.
+
+**(a) Descanso y liberación.** El argumento activo contra el descanso vive en 25:287-289 y **A4 no lo ha tocado más que para unir dos frases con una conjunción**: «Jean inicia la misma orden, no encuentra qué dejar fuera y la secuencia se completa sobre nada. / La atención sigue disponible **y** no se retira porque falte el trabajo.» Comprobé el punto fino: con «falte» en subjuntivo, la negación sigue tomando bajo su alcance la cláusula causal —*la falta de trabajo no basta para que la atención se retire*—, exactamente igual que cuando eran dos frases. La fusión no abre la lectura contraria; si acaso la cierra más, porque encadena dos afirmaciones de permanencia.
+
+El resto de la cadena antiliberación está **intacto o reforzado**: «Nada de eso pide clasificación» (295), «Solo queda lo que la banda haya medido» (297), «El programa incorporará el patrón y esto irá dentro» (299), «Los repite igual. No cierran nada» (303). Cero léxico de la familia (`descans`, `paz`, `alivio`, `por fin`, `liberaci`, `calma`, `sueño`) en toda la coda, comprobado por grep y por lectura.
+
+**(b) La supresión de 25:291, que era el punto de riesgo real.** En mi primera lectura cité «La banda recoge lo que ocurre dentro con la misma precisión que un acuse» como una de las dos pruebas de que la ventana está medida y por tanto no puede leerse como libertad. A4 la ha borrado. **La revisé como si fuera un hallazgo nuevo, y la aprueba.** Tres razones:
+
+1. **La afirmación no desaparece: cambia de boca.** Donde el narrador decía *esto queda registrado*, ahora el texto lo demuestra en dos movimientos: «**Jean cuenta** cuánto dura cada repaso. Cuántas veces vuelve al mismo punto…» / «**Jean deja de contar. La banda no.**» Es la misma información entregada por acción. Y el eco cae después, sin narrador: 297 y 299.
+2. **Corrige una incoherencia que yo no había visto.** En 25:267 la coda ya decía «Cuenta los repasos porque no dispone de otra medida»: el conteo era de Jean cuarenta líneas antes. La versión anterior se lo quitaba en 291 para dárselo a la banda; la de A4 lo devuelve a quien lo tenía y reserva a la banda lo único que le corresponde —seguir cuando ella para—. La expropiación queda mejor dicha, no peor.
+3. **Reduce superficie.** «con la misma precisión que un acuse» era un símil del narrador sobre el interior de Jean. Yo no lo habría exigido fuera, pero cada frase en que una voz con autoridad describe *lo que ocurre dentro* de ella es una frase que otro agente puede ampliar. Menos superficie, menos riesgo hacia adelante.
+
+**(c) «Buscarse un error» y la culpa retrospectiva.** 25:237 **no se ha tocado** —A4 lo declara y lo verifico—. Lo que importaba era si la fusión de 233 dañaba la acotación, y no la daña: el corpus de la búsqueda sigue enumerado íntegro («Las procedencias están donde las dejó. La devolución consta **y** el acuse figura completo») y sigue cerrado por 239 («el tramo anterior, salida por salida, hasta el primer caso de la serie. Tampoco allí»). Los tres elementos siguen los tres; el orden crítico —hallazgo negativo *antes* de la frase-tesis— se conserva. **P-22 intacta y sin merma.** Cero léxico de culpa en la coda.
+
+**(d) La frase nueva de 227.** «Por el lado derecho la banda llega entera hasta el final del campo» sustituye una regla del sistema enunciada por el narrador («puede cerrarse en la comprobación siguiente») por lo que Jean ve, y siembra 307 («La banda se estrecha por el lado derecho. No avisa»). Es la clase de cambio que pedí en §9.3 sin pedirlo. La probé contra la única lectura figurada que admite —una vida que parecía entera y se acorta sin aviso— y **no infringe nada**: aunque un lector la monte así, lo que dice es que el tiempo se retira *desde fuera y sin avisar*, es decir, lo contrario de una decisión, de una lógica y de una liberación; y ocurre en la continuidad, años después de la muerte, donde no puede fechar ni explicar nada. Además «campo» es vocabulario de interfaz consolidado en la propia coda (221, 255, 313). Cumple. Queda **P-32** para que nadie la glose nunca.
+
+**(e) Fusiones de ritmo (233, 247, 289) y sujetos explícitos (291, 301).** Ninguna añade imagen, afecto ni juicio. «Jean» pasa de 8 a 10 apariciones en 764 palabras: densidad irrelevante, y en 301 el sujeto explícito impide que el rezo de los cuatro nombres se lea como acto del programa. Cierre inalterado: `VENTANA REFLEXIVA · CERRADA` / `ASIGNACIÓN · APELACIÓN` — el trabajo vuelve, que es lo que impide leer la ventana como un final.
+
+**(f) 25:247.** La fusión acerca «cuatro campos sin destinatario» a la pregunta que la banda no devuelve (249). Sigue cumpliendo el punto 2 —no hay mensaje, no hay contenido, no se cita, no se parafrasea, no se imagina—, pero la adyacencia es hoy un poco más estrecha que ayer y el lugar es el más cercano a una despedida de toda la oleada. Sin corrección; con **P-31**.
+
+**Coda: APROBADA entera por segunda vez.** (Recuento: 764 palabras de prosa por mi cuenta, 772 por la de A4, 776 por la mía de la primera lectura; las tres dentro de la banda R2 con enorme holgura. Ruego a M8 que fije un método único de conteo, porque tres cifras para el mismo texto es un problema de registro, no mío.)
+
+## 12.4 · Decisión expresa: «No dice cuánto dura.» **se queda**
+
+A4 pregunta y decido yo. **Se queda, sin condición sobre el texto vigente.** Razones:
+
+1. **Es fórmula de mundo, no regla de prosa.** v0 la tiene en cap-13 («El rango contiene 4.096 identificadores. **No dice cuántos siguen activos**»), en la misma voz —la continuidad leyendo un registro— y sobre la misma clase de objeto: una interfaz que muestra un dato y escamotea el que importa. Repetirla aquí no impone una regla al lector: le enseña otra vez que el sistema informa y no responde.
+2. **Paga función.** Sin la duración indeterminada, 307 («La banda se estrecha por el lado derecho. **No avisa**») sería el cumplimiento de un plazo anunciado. Con ella, es una retirada sin previo aviso. Esa diferencia es justamente la que impide que la ventana se lea como un descanso concedido y devuelto: no se concede, no se mide para ella, no se le dice.
+3. **Exposición nula en la Carta.** No dice nada del acto, del método, de la causa, de un mensaje ni de un alivio. No la habría tolerado si la hubiera visto acercarse a cualquiera de esas cinco cosas; no se acerca a ninguna.
+
+**Techo:** la fórmula «No dice + interrogativa indirecta» queda en **dos** instancias en todo el libro (13:73 y 25:227). Una tercera la exigiré suprimida, en cualquier oleada y en cualquier boca: a la tercera deja de ser el mundo y empieza a ser un tic del narrador. Esto es vigilancia de tono, no corrección: **no bloquea nada hoy**.
+
+## 12.5 · cap-19:205
+
+> «La palma siguió donde estaba. El calor del cristal y el de la mano se igualaron hasta que dejó de haber diferencia. Alrededor de los dedos no se formó vaho. Alana **despegó** el meñique, lo apoyó de nuevo y el cristal devolvió lo mismo. La operaria pasó por segunda vez con el carro y no miró hacia la galería.»
+
+Único cambio: el verbo. **Y va en mi dirección.** «Separar» es, dos capítulos antes y del mismo escritor, léxico de digitación —18:61: «**Separó** el pulgar para el cruce»—: la cala compartía verbo con el piano, que es exactamente el préstamo que **P-25** existe para impedir. «Despegar» es verbo de contacto térmico y no pertenece al léxico del teclado. La cala pierde su único asidero para una lectura musical y conserva intactos los negativos verificables (temperatura igualada, sin vaho, el cristal devuelve lo mismo, la operaria no mira). **Cumple, y el margen de P-25 aumenta.**
+
+Las cinco recastas M4b del capítulo (55, 97, 175 ×2, 177) no tocan contenido. Miré la única que podía importar —la supresión de «Tras el cristal» en 177—: la pared transparente queda situada en la frase inmediatamente anterior, el cristal se nombra tres veces más en 203-205, y «un panel… repetía la carga total **sin nombres**» se conserva literal. La separación material y el anonimato de la carga siguen puestos; nada insinúa respuesta ni presencia al otro lado. `S19-palma` intacto por hash.
+
+## 12.6 · Las cuatro líneas de 37 y 38 (P núcleo), lectura expresa
+
+A0 tiene razón en pedirla: son capítulos `P`, la pasada de A4 sobre ellos debía ser casi nula y ha sido casi nula. **Las cuatro ediciones son de línea y ninguna toca contenido.** Doy mi lectura una por una porque se me pide expresamente.
+
+- **37:37** — «Nora contó cuatro que **volvieron a subirlas**» → «que **las levantaron otra vez**». Desrepetición de «volver a». Sigue siendo un recuento de cámaras hecho por una menor detrás de un cristal de cabina: procedimiento, cero interpretación, cero rostro. Cumple.
+- **37:205** — «Una cámara de mano bajó hasta el suelo y **volvió a subir**» → «y **subió de nuevo**». Idéntica desrepetición. **Lo que P-30 protege no se ha tocado**: «dos filas enteras se habían puesto de pie **sin avanzar hacia los pasillos**» sigue literal, la sala sigue siendo ilegible y no hay ni una cara, ni un sollozo, ni un aplauso, ni un silencio «cargado». El techo de «No toda» no se mueve por aclamación. Cumple.
+- **37:215** — «El primer funcionario **esperó** con las manos por delante» → «**mantuvo** las manos por delante». Cambio a mejor desde mi gate: «esperó» insinuaba una expectativa de la sala; «mantuvo» es postura y nada más. Cumple.
+- **38:19** — «la voz del funcionario que lee la orden **en voz alta**» → «**ante los presentes**». Es la única costura que A4 toca en todo el 38, cae **antes** de 38:23 («No es libertad»), muy lejos de `S38-nieve`, `S38-huella`, `S38-quedarme` y `S38-quinta`, y no dice nada de Jean: describe una sala donde se lee una orden administrativa. No glosa el Corpus, no glosa la respiración, no mira hacia atrás, no dulcifica y no explica. El registro semilegal («ante los presentes») es el del documento que se está leyendo y encaja en la dicción administrativa del libro. Cumple.
+
+**Los 109 spans siguen íntegros y las cuatro líneas están fuera de todos ellos. Editar fuera del núcleo es legítimo y aquí se ha hecho con la mano quieta que exigen dos capítulos `P`.**
+
+## 12.7 · Lo que A0 no me pidió y sí exigía lectura: la reestructura del cap-18
+
+Es el cambio mayor de la pasada y no estaba en los ocho loci. Lo leo porque el pase se define sobre el diff.
+
+**(a) La escena del informe (81-93).** A4 adelanta el párrafo de `EXT/NIDHOGG/7C` y la copia de Jessie, ancla «Debajo **de la clasificación**» para que el adverbio no se quede sin antecedente, y **suprime la última frase de la escena, «El cursor permanecía inmóvil detrás de *retenida*.»**, que es prosa de v0. La escena cierra ahora en la propia línea del formulario: «**Memoria contextual familiar: retenida.**»
+
+Desde mi gate, **cumple y mejora**. La frase suprimida era un gesto del narrador señalando una palabra —*mira esto*—; sin ella, el lector se queda solo con el documento, que es lo que hacen los capítulos de referencia (4, 9, 23, 40). Y el riesgo que podría abrirse —terminar una escena sobre «memoria familiar retenida» pesa más y podría empujar la ambigüedad ontológica por encima de «No toda»— **no se abre**, porque catorce líneas después la lectura a tres voces desarma el documento («Familiar somos nosotras» / «O es una categoría de ellos» / «**Anota las dos**») y 18:127 lo remata: «Ningún nombre. Ninguna explicación». El lector cierra la escena con un papel ilegible en la mano, igual que las tres mujeres. La ambigüedad se sostiene mejor así.
+
+**(b) La escena de Astrid (191-199).** «Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre» se desplaza detrás de la respuesta de Astrid («Si puedo observarlo y otra persona puede repetirlo, sí») y la escena cierra en «—Tráigame algo reproducible». **Cumple.** Comprobé lo único que podía fallar: si la imagen, colocada justo después de que **una autoridad** enuncie el criterio de prueba, se convierte en un dictamen del narrador sobre si algo de Jean persiste. No lo es: la «fila de casillas» es la entrada MIDI local de la tarjeta de Gunnar (18:43), no un registro ontológico, y el nombre de su madre no aparecería allí en ninguna hipótesis. La imagen dice lo que una hija busca, no lo que hay. Y el cierre en imperativo es **menos** elegíaco que el anterior: renuncia a la cadencia conmovida y deja a la menor con una tarea, no con una pena administrada. Retrato digno, sin adultización simbólica y sin milagro. Cumple el punto 7 y el 6.
+
+**(c) P-29: cumplida sin margen.** Las réplicas de 18:105-123 no tienen una sola atribución nueva, ni una frase nueva; «—Anota las dos.» sigue siendo la última palabra del intercambio y ningún resumen del narrador lo cierra. Verificado línea a línea. **P-28** también: 18:61 no se ha tocado.
+
+## 12.8 · Vigilancias nuevas y observaciones de procedimiento
+
+| # | Alcance | Condición |
+|---|---|---|
+| **P-31** | Todo el proyecto | Los «cuatro campos sin destinatario» (25:247) y la pregunta que «la banda no devuelve» (25:249) **no se rellenan jamás**: ningún capítulo, borrador, OT, biblia, informe, changelog ni prompt puede decir qué diría Jean a esos cuatro nombres, ni redactar, citar, parafrasear o «imaginar» ese contenido. Es la forma que tomaría una despedida en este libro. Rellenarlo es **VETO** (Carta 2). |
+| **P-32** | Todo el proyecto | La banda de 25:227 y 25:307 no se glosa ni se convierte en figura de una vida. Ninguna voz —narrador, EDDA, continuidad o personaje con autoridad— puede decir de Jean, de su muerte o de su tiempo que «se estrechó», «se acortó», «llegaba entera» o «terminó sin avisar». La banda es una asignación de cómputo y se queda ahí. |
+| **P-33** (tono) | W5-W7 | Techo de **dos** para la fórmula «No dice + interrogativa indirecta» (13:73, 25:227). Una tercera instancia la exigiré suprimida. No bloquea nada hoy. |
+
+**Observaciones a A0 (ninguna bloquea el merge):**
+
+1. **Segunda supresión de prosa de v0 en la tanda.** En §0.2 escribí que la única supresión era 7:47; con la pasada de A4 son dos, y las dos son texto de v0 fuera de span (7:42-v0 y 18:95-v0, la del cursor). Las dos **reducen** riesgo o mejoran contención y las apruebo. Pero una línea de v0 no debe desaparecer nunca en silencio: pido que ambas consten nominalmente en el acta del gate de W4, con su justificación, para que el autor las vea en un solo sitio. El régimen de `nucleo` protege spans, no líneas sueltas; esa es una decisión de diseño legítima y su contrapartida es el registro explícito.
+2. **T7 se está quedando ciego.** El pre-chequeo global da hoy **383 hits (71 A / 312 B) y 61 nuevos respecto a la baseline**, y **los 61 son de `cap-n4.md` y `cap-n6.md`** —capítulos que ya pasaron mi gate en W3—, no de esta tanda. Con la baseline sin actualizar, cualquier hit real de W5 llegará enterrado bajo sesenta falsos. Pido, antes de W5: (a) rebaseline de T7 incorporando los capítulos nuevos aprobados; (b) el modo `--diff <base>` que llevo pidiendo desde W4a §0.3 —tercera petición—; y (c) revisar el patrón B que hoy dispara con `cabo`/`cu…`, que está produciendo ruido masivo en n6 con palabras como «cuatro» o «coches».
+3. **Conteo de la coda.** Tres cifras para el mismo texto (764 / 772 / 776). Todas dentro de banda; ninguna consecuencia. Que M8 fije un método.
+
+## 12.9 · Veredicto de la segunda lectura
+
+La pasada de A4 no introduce prosa nueva, no toca ninguno de los loci protegidos por P-21 a P-30, respeta P-25, P-26, P-28, P-29 y P-30 de forma verificable, aplica **C-5** con la redacción preferente y **C-6** en la orden, y sus dos intervenciones de fondo en la coda —la sustitución de la regla del sistema por lo que Jean ve, y la supresión del símil explicativo sobre lo que ocurre «dentro» de ella— **bajan** la exposición del capítulo en vez de subirla. La coda sigue negando el descanso, sigue midiendo la ventana, sigue sin cerrar el porqué y sigue devolviendo a Jean al trabajo en la última línea.
+
+## **LA CONDICIÓN DE §10 QUEDA: LEVANTADA**
+
+**Veredicto de la tanda tras la segunda lectura: APROBADO. Cero correcciones pendientes. Cero `VETO`.** Las dos correcciones obligatorias (**C-5**, **C-6**) están **cerradas y verificadas por mí**. **W4 queda desbloqueada desde el gate de sensibilidad y la rama `w4-familia` puede fusionarse** en lo que a mí respecta; los demás gates (A5, M-métricas, autor) siguen su curso y no me pronuncio sobre ellos.
+
+Siguen vigentes y vinculantes hacia adelante **P-12 a P-20** (W4a), **P-21 a P-30** (§9.2) y **P-31 a P-33** (§12.8).
+
+Firmado, A7 · 2026-08-18 · sobre `w4-familia` (`7e34abc`).

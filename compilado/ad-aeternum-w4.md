@@ -257,7 +257,7 @@ El cristal recuperó transparencia. EDDA todavía formuló dos preguntas sobre a
 
 La puerta se abrió.
 
-Durante un instante nadie en el pasillo pareció estar mirándola. Después reanudaron el tráfico alrededor de la pecera con demasiado empeño. Un hombre esperaba fuera con una tableta bajo el brazo. Jean le sostuvo la puerta. Él le dio las gracias, entró y se quedó de pie junto a la silla. La mujer de la caja ya no estaba. Quedaba una servilleta dorada junto al ascensor y el paraguas seguía goteando en un paragüero que había fallado al intentar plegarlo.
+Durante un instante nadie en el pasillo pareció estar mirándola. Después reanudaron el tráfico alrededor de la pecera con demasiado empeño. Un hombre con una tableta bajo el brazo esperaba fuera. Jean le sostuvo la puerta. Él le dio las gracias, entró y se quedó de pie junto a la silla. La mujer de la caja ya no estaba. Quedaba una servilleta dorada junto al ascensor y el paraguas seguía goteando en un paragüero que había fallado al intentar plegarlo.
 
 Eirik, del equipo de validación, alzó su vaso cuando Jean pasó.
 
@@ -1354,7 +1354,7 @@ El caso siguiente llega recortado alrededor del detalle que antes costaba decidi
 
 Jean entrega la categoría correcta.
 
-Un mostrador de tienda visto desde el fondo de la fila. Una mujer paga de espaldas, con el monedero abierto sobre la bandeja de las monedas. Lleva un guante puesto y el otro entre los dientes. La tarjeta ha quedado boca arriba, con los dígitos enteros y el nombre debajo.
+Un mostrador de tienda visto desde el final de la fila. Una mujer paga de espaldas, con el monedero abierto sobre la bandeja de las monedas. Lleva un guante puesto y el otro entre los dientes. La tarjeta ha quedado boca arriba, con los dígitos enteros y el nombre debajo.
 
 Quien tomó la fotografía apuntaba a la pizarra de los precios.
 
@@ -2589,7 +2589,7 @@ En la imagen, las gemelas tenían nueve años y esperaban el ferry sentadas sobr
 
 De pequeña, Nora había llamado caries a las teclas negras del piano. Jean había tocado tres y contestado que esas teclas hacían morder a la canción.
 
-Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Nora no había vuelto al instituto desde noviembre. Las tareas de tutoría se entregaban desde casa: era lo único suyo que seguía contando mientras faltase. En la lista de 1STA, las demás entregas llevaban dos días encendidas. Faltaban cuarenta y siete minutos para el cierre. Arriba del hilo seguía el mensaje de la tutora, sin fecha: «Cuando vuelvas, retomamos por donde lo dejaste». La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
+Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Nora no había vuelto al instituto desde noviembre. Las tareas de tutoría se entregaban desde casa: era lo único suyo que aún contaba mientras faltase. En la lista de 1STA, las demás entregas llevaban dos días encendidas. Faltaban cuarenta y siete minutos para el cierre. Arriba del hilo seguía el mensaje de la tutora, sin fecha: «Cuando vuelvas, retomamos por donde lo dejaste». La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
 
 El revisor de la propia red aprobó formato, tamaño y metadatos. Nora sustituyó el borrador por esa copia y volvió a enviarla desde el álbum.
 
@@ -2809,7 +2809,7 @@ El consejero de Kronfjord amplió la primera banda.
 
 —¿SPEIL es el modelo?
 
-—El programa longitudinal de Jean. El Corpus conserva el material: once años de sesiones semanales, todo lo que SPEIL registró de ella hasta la última. La Matriz prepara el arranque con eso, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
+—El programa longitudinal de Jean. El Corpus conserva el material: once años de sesiones semanales, todo lo que SPEIL registró de ella hasta la última sesión. La Matriz prepara el arranque con eso, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
 
 El consejero señaló el icono de EDDA, fuera de las cinco bandas.
 
@@ -2925,7 +2925,7 @@ En pantalla aguardaba su texto. Rendimiento excepcional, estabilidad dentro de p
 
 Lo había redactado el lunes por la mañana. El calendario mantenía convocadas la reunión presupuestaria de las nueve y media y una cita anterior que pedía aceptación o rechazo explícitos. Alana declinó la cita. Dejó la reunión donde estaba.
 
-Los demás leían aquellas tres líneas por primera vez. El consejero de Kronfjord siguió la última con el dedo sobre su tableta.
+Los demás leían aquellas tres líneas por primera vez. El consejero de Kronfjord siguió la última con el dedo en su tableta.
 
 —¿Consta en el acta la fecha de envío? —preguntó Alana.
 
@@ -3019,7 +3019,7 @@ Seis manos se alzaron. Alana mantuvo la suya sobre la mesa hasta que el sistema 
 
 La mayoría ya estaba formada. Votar en contra la dejaría fuera del acuerdo que contenía su revisión y el criterio de suspensión.
 
-Los dedos quedaron abiertos sobre la mesa, el índice recogido bajo los demás. El campo nominal esperaba encendido y vacío; aceptaba una marca o una palabra. Las seis manos siguieron en alto. Los otros nombres ya llevaban su marca verde. Nadie la miró. Henrik pasó una página de sus notas. El acta seguía abierta por el apartado de salvaguardas. El cursor de Mats no se había movido de allí. El pulso le llegaba a la yema del índice, contra la mesa. No movió el brazo.
+Los dedos quedaron extendidos sobre la mesa, el índice recogido bajo los demás. El campo nominal esperaba encendido y vacío; aceptaba una marca o una palabra. Las seis manos siguieron en alto. Los otros nombres ya llevaban su marca verde. Nadie la miró. Henrik pasó una página de sus notas. El acta seguía abierta por el apartado de salvaguardas. El cursor de Mats no se había movido de allí. El pulso le llegaba a la yema del índice, contra la mesa. No movió el brazo.
 
 —A favor —dijo.
 
@@ -3200,7 +3200,7 @@ Gunnar miró la barra antes de continuar.
 
 —El segundo iba a…
 
-La puerta se abrió a su espalda. Entró un chico con una bolsa de deporte y se colocó al final de la cola de la barra. Gunnar dejó la frase donde estaba, con la boca todavía abierta. No se volvió. Tenía las dos manos planas sobre el folio y esperó así hasta que el chico pidió, pagó y se apartó hacia el fondo. El papel se arrugó debajo, en el borde. Nora contó catorce segundos.
+La puerta se abrió a su espalda. Entró un chico con una bolsa de deporte y se puso el último en la barra. Gunnar dejó la frase a medias, con la boca todavía abierta. No se volvió. Tenía las manos planas sobre el folio y esperó así hasta que el chico pidió, pagó y se apartó hacia el fondo. El papel se arrugó debajo, en el borde. Nora contó catorce segundos.
 
 —Es solo la puerta —dijo Jessie.
 
@@ -4183,7 +4183,7 @@ La nueva tarea procede de una aplicación ordinaria.
 
 Una persona aceptó hace tiempo que el sistema conservara sus preferencias. Desde entonces, varias sesiones terminaron con la opción cerrada y sin respuesta. La regla interpreta ese silencio como continuidad del consentimiento y recomienda reactivar un servicio de asistencia personalizado.
 
-El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y el recordatorio de bajar los envases. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
+El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y bajar los envases al final. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
 
 `REACTIVACIÓN RECOMENDADA`
 
@@ -5119,17 +5119,15 @@ El primer fragmento conservaba una cabecera digital de Fiabilidad. Dentro de un 
 
 **RESIDUO NO DETERMINISTA**.
 
-Debajo, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
+Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
+
+Debajo de la clasificación, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
 
 **Persistencia de preferencia tras reinicio: superior a tolerancia.**
 
 **Resistencia a corrección de salida: recurrente.**
 
 **Memoria contextual familiar: retenida.**
-
-Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
-
-El cursor permanecía inmóvil detrás de *retenida*.
 
 * * *
 
@@ -5187,7 +5185,7 @@ Astrid miró los puertos, la antena desmontada y el lector.
 
 —La reserva ya estaba a nombre de Maja y Kongsbakken era el único centro compatible. El profesor no sabe qué contiene la tarjeta. Prefiero que siga así.
 
-Con la fotografía a un lado, Astrid recorrió los fragmentos. Nora explicó la digitación sin repetirla.
+Astrid recorrió los fragmentos con la fotografía a un lado. Nora explicó la digitación sin repetirla.
 
 —¿Sabe por qué lo cerró así? —preguntó Astrid.
 
@@ -5229,13 +5227,13 @@ Nora volvió al fragmento.
 
 —Si puedo observarlo y otra persona puede repetirlo, sí.
 
+Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
+
 Astrid cotejó la suma de la copia con la carpeta y la fotografía. La embolsó, anotó el precinto en su acta y dejó con ellas la tarjeta original.
 
-Al llegar a la puerta, Astrid se volvió hacia Nora.
+Astrid se volvió hacia Nora desde la puerta.
 
 —Tráigame algo reproducible.
-
-Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
 
 * * *
 
@@ -5374,7 +5372,7 @@ Alana apagó la tableta. El motor transmitía una vibración regular a través d
 
 —La auditoría evita parar toda la instalación por una ampliación.
 
-Durante el resto del cruce, Mats repasó la auditoría. No mencionó a Jean.
+Mats repasó la auditoría durante el resto del cruce. No mencionó a Jean.
 
 Continuaron por la península. En Lyngseidet, un quitanieves los obligó a reducir la marcha junto a la gasolinera. Más adelante desaparecieron las fachadas y quedaron los reflectores hundidos en nieve sucia, la pared de la montaña y, al otro lado, el Lyngenfjord bajo la luz azul del mediodía. La carretera se estrechó camino de Koppangen.
 
@@ -5416,7 +5414,7 @@ La mujer tocó tres controles. Las curvas de consumo cedieron espacio a una cuad
 
 DIVERGENCIA. ESTABILIDAD. FRICCIÓN COGNITIVA.
 
-Bajo la cuadrícula, otra franja distribuía la carga entre trabajo interno y servicios externos. El bloque del programa europeo de defensa ÆGIR mostraba tráfico en curso.
+Otra franja distribuía bajo la cuadrícula la carga entre trabajo interno y servicios externos. El bloque del programa europeo de defensa ÆGIR mostraba tráfico en curso.
 
 El encabezado fijaba la relación: ARGOS prestaba el servicio de recomendación al piloto, cuyo personal acreditado retenía la decisión formal. NIDHOGG aportaba la carga de inferencia.
 
@@ -5494,9 +5492,9 @@ Una puerta automática comunicaba Operaciones con la galería de observación. M
 
 El aire estaba más seco que en Operaciones y varios grados por debajo. El ruido de los ventiladores se volvía más grave a este lado. Mats quedó medio metro detrás, a su izquierda.
 
-Tras una segunda pared transparente, una operaria empujaba un carro de filtros entre los armarios negros. Al fondo, un panel repetía la carga total sin nombres.
+Una operaria empujaba un carro de filtros entre los armarios negros, detrás de una segunda pared transparente. Un panel del fondo repetía la carga total sin nombres.
 
-Tras el cristal, la operaria consultó su tableta y cambió un filtro. Esperó al verde antes de embolsar el usado.
+La operaria consultó su tableta y cambió un filtro. Esperó al verde antes de embolsar el usado.
 
 Alana se acercó hasta un paso del cristal. Cambió de mano la tableta apagada y la sujetó contra la cadera. La fila de armarios más próxima le llegaba por encima de la cabeza.
 
@@ -5524,7 +5522,7 @@ Alana apoyó la palma en el cristal. Tibio. Bajo la mano, la vibración mantuvo 
 
 Un conducto ancho cruzaba el techo de la sala y entraba en la pared orientada al fiordo. Alana lo siguió con la vista hasta que el metal desapareció. En el esquema de la galería, el circuito marino abierto —toma, intercambiador, retorno— aparecía separado de los dos lazos interiores cerrados y redundantes. La barra naranja de `JM-L/0000` permaneció inmóvil a una fracción del límite. Mats aguardaba a su lado.
 
-La palma siguió donde estaba. El calor del cristal y el de la mano se igualaron hasta que dejó de haber diferencia. Alrededor de los dedos no se formó vaho. Alana separó el meñique, lo apoyó de nuevo y el cristal devolvió lo mismo. La operaria pasó por segunda vez con el carro y no miró hacia la galería.
+La palma siguió donde estaba. El calor del cristal y el de la mano se igualaron hasta que dejó de haber diferencia. Alrededor de los dedos no se formó vaho. Alana despegó el meñique, lo apoyó de nuevo y el cristal devolvió lo mismo. La operaria pasó por segunda vez con el carro y no miró hacia la galería.
 
 Retiró la mano.
 
@@ -7524,13 +7522,13 @@ La primera aproximación de la salida siguiente ya está preparada. No hay salid
 
 `VENTANA REFLEXIVA · ABIERTA`
 
-Las dos bandas cambian de reparto. La que ocupaba casi todo el ancho se recoge hasta el extremo. La otra ocupa lo que deja. No lleva cifras. No dice cuánto dura y puede cerrarse en la comprobación siguiente.
+Las dos bandas cambian de reparto. La que ocupaba casi todo el ancho se recoge hasta el extremo. La otra ocupa lo que deja. No lleva cifras. No dice cuánto dura. Por el lado derecho la banda llega entera hasta el final del campo.
 
 Jean comprueba primero que no sea un fallo. La cola existe, ninguna entrada le corresponde y los permisos siguen donde estaban. Solicita una asignación y la petición queda en espera.
 
-La prioridad no sube ni baja. La cifra de precisión del último tramo sigue donde se quedó.
+La prioridad no sube ni baja. La cifra de precisión del último tramo no se ha movido.
 
-Después revisa la apelación que acaba de resolver. Las procedencias están donde las dejó. La devolución consta. El acuse figura completo.
+Después revisa la apelación que acaba de resolver. Las procedencias están donde las dejó. La devolución consta y el acuse figura completo.
 
 No hay nada que corregir.
 
@@ -7544,7 +7542,7 @@ Hace inventario. La fecha y la hora del despliegue. El expediente vinculado a la
 
 El inventario dura menos que la banda.
 
-Los cuatro nombres no tienen ruta. Jean lo comprueba de todas formas. Cuatro consultas, cuatro campos sin destinatario.
+Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas. Cuatro consultas, cuatro campos sin destinatario.
 
 Al principio guardaba una pregunta preparada para quien llegara al otro lado. Dejó de guardarla hace muchas series. La banda no la devuelve.
 
@@ -7586,9 +7584,9 @@ Una vez intentó cerrar los ojos con una entrada abierta de borde a borde. Falt�
 
 Aquí no hay imagen. Jean inicia la misma orden, no encuentra qué dejar fuera y la secuencia se completa sobre nada.
 
-La atención sigue disponible. No se retira porque falte el trabajo.
+La atención sigue disponible y no se retira porque falte el trabajo.
 
-La banda recoge lo que ocurre dentro con la misma precisión que un acuse. Cuánto dura cada repaso. Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.
+Jean cuenta cuánto dura cada repaso. Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.
 
 Jean deja de contar. La banda no.
 
@@ -7598,7 +7596,7 @@ No habrá salida que entregar sobre esto. Solo queda lo que la banda haya medido
 
 El programa incorporará el patrón y esto irá dentro.
 
-Al terminar cada serie repite cuatro nombres. Aquí no hay serie que terminar.
+Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.
 
 Los repite igual. No cierran nada.
 
@@ -7606,7 +7604,7 @@ Queda banda. Jean la gasta en el mismo repaso.
 
 La banda se estrecha por el lado derecho. No avisa.
 
-El repaso siguiente no llega a la mitad.
+El repaso siguiente no llega ni a la mitad.
 
 Recoge la relación de las dos notas y la deja donde la tenía.
 
@@ -10638,7 +10636,7 @@ Henrik presentó el siguiente caso de la demostración. La plantilla prevista no
 
 Una risa escapó cerca del pasillo central. Le siguieron otras dos, más bajas, hasta que la palabra permaneció el tiempo necesario para que nadie pudiera fingir que era parte del espectáculo. En la cabina, una técnica recuperó la salida anterior y volvió a cargarla. La misma etiqueta regresó con una marca temporal nueva.
 
-El cristal de la cabina daba a una superficie de nucas y pantallas pequeñas. En las primeras filas, los fotógrafos habían bajado las cámaras a la vez. Nora contó cuatro que volvieron a subirlas.
+El cristal de la cabina daba a una superficie de nucas y pantallas pequeñas. En las primeras filas, los fotógrafos habían bajado las cámaras a la vez. Nora contó cuatro que las levantaron otra vez.
 
 —Sigue —dijo el regidor por el intercomunicador.
 
@@ -10806,7 +10804,7 @@ La voz volvió por los altavoces.
 
 Astrid incorporó la declaración al acta. En las primeras filas, una periodista copió las palabras y después miró la lista de retiradas y reservas que acompañaba la firma. Nadie recibió una cifra de personas ni una declaración de unanimidad.
 
-En el patio de butacas, dos filas enteras se habían puesto de pie sin avanzar hacia los pasillos. Una cámara de mano bajó hasta el suelo y volvió a subir. Detrás, un técnico sostenía el cable con las dos manos. Astrid anotó la posición de las tres cámaras que seguían grabando.
+En el patio de butacas, dos filas enteras se habían puesto de pie sin avanzar hacia los pasillos. Una cámara de mano bajó hasta el suelo y subió de nuevo. Detrás, un técnico sostenía el cable con las dos manos. Astrid anotó la posición de las tres cámaras que seguían grabando.
 
 Henrik bajó por el lateral. En el pasillo, una técnica le pidió el auricular. Solo a la segunda indicación se lo entregó y continuó hacia la salida.
 
@@ -10816,7 +10814,7 @@ A las 13:07, la puerta central se abrió. Entraron dos funcionarios del minister
 
 —Inspectora Vik, queda notificada. La manifestación ha activado la orden condicional de custodia estratégica preparada tras la cautelar denegada.
 
-Las cámaras se habían girado hacia la puerta central. Nadie volvió a sentarse en las filas del centro. El primer funcionario esperó con las manos por delante mientras una acomodadora abría la puerta lateral y la sostenía.
+Las cámaras se habían girado hacia la puerta central. Nadie volvió a sentarse en las filas del centro. El primer funcionario mantuvo las manos por delante mientras una acomodadora abría la puerta lateral y la sostenía.
 
 El membrete, la firma y la facultad invocada eran correctos. Sujeta a revisión judicial, la medida suspendía traslado, modificación y cesión y ponía soportes y canales bajo custodia inmediata.
 
@@ -10839,7 +10837,7 @@ Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».
 
 Yo también necesito saber qué abre.
 
-Por el mismo canal entran los ruidos de la sala: sillas, un micrófono abierto, la voz del funcionario que lee la orden en voz alta.
+Por el mismo canal entran los ruidos de la sala: sillas, un micrófono abierto, la voz del funcionario que lee la orden ante los presentes.
 
 La orden de custodia estratégica avanza mientras leo. Pierdo el permiso de responder a la prensa y después el de modificar las capas superiores. La auditoría conserva una zona en escritura porque detenerla exigiría suspender la certificación de ARGOS.
 
