@@ -724,6 +724,13 @@
    "inicio": "En el pasillo, Henrik Dahl ensayaba ante dos compañeras con una tarjeta entre los dedos.",
    "fin": "El homenaje se ensayaba a ocho metros.",
    "desc": "El pasillo de Dahl (tabla 5.1, cap. 22: «pasillo de Dahl intacto»)"
+  },
+  {
+   "id": "S32-resumen",
+   "archivo": "capitulos/cap-32.md",
+   "inicio": "El resumen interno del tres de enero seguía bajo la franja verde.",
+   "fin": "Cerró el resumen y dejó la franja verde donde estaba.",
+   "desc": "Aparato de anonimato de CH-1 tras G-9: con el espejo de N4 fuera, estas cuatro frases hacen solas lo que hacía el espejo, y sin meter a Jean en la maquinaria que daña a sus hijas. Estaba desnudo: S32-amenaza arranca en :99. Hallazgo de A7 (P-64)."
   }
  ]
 }

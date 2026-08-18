@@ -580,7 +580,12 @@
       "archivo": "capitulos/cap-39.md",
       "hash": "043ae4df2549cd2a66d20d54706e48e2caff475a008cac5e11363096e7d4f0ee",
       "longitud": 661
+    },
+    "S32-resumen": {
+      "archivo": "capitulos/cap-32.md",
+      "hash": "26b1b3d6031a15ddde169ed77f4462cc5522e4d00bf35d02364ddb7569fe008b",
+      "longitud": 515
     }
   },
-  "generado": "2026-08-18T05:47:59"
+  "generado": "2026-08-18T23:42:40"
 }

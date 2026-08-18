@@ -14,7 +14,12 @@
 | Frontmatter obligatorio del fichero nuevo | `capitulo: N4` · `titulo: Interferencias` · `pov: Nora → Maja → Jessie → Jean → Maja` · `fecha: 2061-01-03` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N4` · `delta_objetivo: +3200` · `orden_lectura: 25.5` |
 | Estado de la OT | pendiente |
 
-## 0b. R4 (+800) se aplica en N4 · encargo redefinido (decisión de A0, 2026-08-17; revocable en G-A2)
+## 0b. R4 (+800) se aplica en N4 · encargo redefinido (decisión de A0, 2026-08-17) — **DEROGADO POR G-9 (2026-08-18)**
+
+> **AVISO VINCULANTE.** Todo lo que sigue en esta sección quedó **derogado el 2026-08-18 por G-9**, que aplicó la cláusula de reversión que el propio autor puso en D-1 (G-A2): «se vuelve a medir en el hito de scoring completo de W5 y, si allí sigue siendo el punto de abandono de los críticos, se revierte». El disparador saltó (1 de 3 en W5, 3 de 3 en W5b) y **el espejo de Jean se excindió**: 483 palabras, líneas 319–388.
+>
+> Se conserva el texto para no perder el rastro de la decisión, **pero ninguna frase de esta sección es ejecutable**. En particular, «ninguna de las dos mitades funciona sin la otra» y el carácter «obligatorio» del espejo son, mientras sigan en pie sin este aviso, **una instrucción escrita para restaurarlo** — que es exactamente el vector que A7 señaló. Cualquier beat nuevo que pretenda «volver a pagar» CH-1 es, por construcción, una atribución de los actos del 3 de enero y **pasa por la mesa de A7 antes de escribirse** (P-64). La reparación se hace **reanclando, jamás replantando**.
+
 
 **Qué dice G-A1.** La reserva §5.3 se aprobó entera y R4 (+800) quedó con **asignación diferida a los A6b (N2 o N4), antes de W3** (`RESERVA.md` §3; `informes/registro-gates-autor.md`, punto **C**). El espejo de Jean de I-5 quedó **condicionado a que R4 cayera en N4** (punto **F**). Los cuatro A6b ya se han ejecutado sobre el compilado de W2 y sobre v0 en paralelo (`informes/a6b-w2/`, ocho informes).
 

@@ -1,7 +1,7 @@
 ---
 capitulo: N4
 titulo: Interferencias
-pov: Nora → Maja → Jessie → Jean → Maja
+pov: Nora → Maja → Jessie → Maja
 fecha: 2061-01-03
 estado: aceptado
 analepsis: false
