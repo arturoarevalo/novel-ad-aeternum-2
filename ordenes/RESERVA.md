@@ -78,3 +78,16 @@ Nota de A2: el plan §5.2 sumaba +18.250 (reescrituras +750, recortes −900) fr
 - R4: **activada con asignación diferida** a los A6b (N2 o N4), antes de W3.
 - R5: **activada, ejecución condicionada** al gate de W2 (solo donde el lector frío lo pida).
 - Ledger: 62.750 + 17.900 + 4.000 = **84.650** (banda 84.000–86.000).
+
+---
+
+## R5 · CANCELADA por A0 (2026-08-18)
+
+R5 («micro-anclajes adicionales en capítulos de Jean», +500, Ap. D) quedó condicionada al gate de W2, que
+se superó. **A0 la cancela** con la autonomía que el autor concedió el 2026-08-18, y por una razón que en
+G-A1 no se podía saber: su efecto sería añadir palabras a los capítulos de Jean, que son los más densos
+del libro y están dentro de los dos bloques largos sin respiro que la campaña de ritmo está podando. R5
+empujaría en la dirección contraria al único eje que queda por debajo del suelo del proyecto.
+
+Las 500 palabras no se reasignan: el objetivo de palabras ya no es fijo (81.000 ± 1.000 desde el
+2026-08-18) y el libro está en banda sin ellas.
