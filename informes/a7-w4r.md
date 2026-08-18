@@ -362,3 +362,66 @@ La otra menor —«—Las paso yo al registro» por «—La entrega la registro 
 Vigentes: P-34, P-35, P-36, P-37 (ampliada), P-38, P-39, P-40, **P-41**.
 
 Firmado, **A7** · 2026-08-18.
+
+---
+
+## 14. `OT-22b` · el beat del hueco de Nora — dictamen · 2026-08-18
+
+**Objeto:** `git diff b0f0350..HEAD -- capitulos/cap-22.md` (una inserción, +56). Leído en su sitio con `:131–:215`. Verificado por mí: **M9 109 spans**, **T7 0 hits nuevos** (los tres de nivel A de `cap-22` son de baseline), cuerpo 1.770 → 1.826, **ningún token nuevo en watchlist**, y **`culpa` sigue apareciendo exactamente dos veces en todo el libro** (`9:71`, `n1:269`), las dos en boca de un adulto y sobre las familias en general.
+
+**P-37, en las dos direcciones:** la inserción **no parte ningún párrafo**. Va entre «—Las horas siguen ahí.» (réplica suelta que ya lo era) y «El terminal de Astrid vibró…» (párrafo propio que ya lo era). **Redistribución cero.**
+
+# APROBADO
+
+### 14.1 · El molde «N cosas»: la premisa de A0 es falsa, la conclusión es correcta, y el mecanismo real es mejor
+
+A0 pide que lo compruebe y he hecho el censo completo. **`23:137` no es una enumeración completa: es la única incompleta del libro, y lo que le falta es una ambigüedad protegida del Ap. A §3 — el segundo regalo del noveno cumpleaños.**
+
+| locus | anuncio | entregado | |
+|---|---|---|---|
+| `n5:241` | «Jean guarda tres cosas» | tres | completa |
+| `n4:57` | «las dos cosas del día» | dos | completa |
+| `n1:275` | «—Eso son tres cosas. Ninguna es un número.» | — | recuento que se niega |
+| **`23:137`** | **«—Dos cosas.»** | **una** | **hueco protegido** |
+
+Así que el beat no rompe un molde que el lector ha visto cerrarse: **lo abre**. Y lo decisivo es el orden de lectura, que juega a favor y nadie lo había puesto sobre la mesa: **`22` se lee inmediatamente antes de `23`**. Un capítulo después de que Nora diga cuatro y dé tres, **Jean hace la misma resta** — y `23:143` cierra la lección en voz alta negándose a rellenar su propio hueco: «Había otro regalo. **Quieres que diga el metrónomo, pero no lo recuerdo.** Solo puedo deducirlo porque eres pianista.»
+
+Es decir: la novela le enseña al lector qué significa un ítem que falta **y, en la misma frase, le enseña a no adivinarlo**, en boca de Jean, un capítulo después del beat. No conozco salvaguarda mejor que esa, y es estructural, no verbal. La conclusión de A0 («por ahí es por donde se nota el hueco sin poder nombrarlo») se sostiene; el mecanismo no es el que él suponía.
+
+**Condición: el orden importa.** La posición relativa de `22:201-203` respecto a `23:137` no cambia sin mi pase (la renumeración de W7 conserva el orden: no la bloquea).
+
+### 14.2 · Duda 1 · «la diferencia»: resonancia, no colisión — verificado
+
+`diferencia` **no aparece ni una vez** en el pasaje de los dos relojes (`:137–:159`), que trabaja con «el intervalo», «los dos tiempos» y «nueve segundos». La del beat es **la única ocurrencia en todo `cap-22`**. No hay colisión léxica: el antecedente más próximo de «la diferencia» es la resta hablada, y «reclamar la diferencia» es idioma contable.
+
+Lo que sí hay es un eco, y es bueno: **cincuenta líneas antes, Astrid sí reclamó una diferencia** —«Los relojes no comparten sincronización acreditada. **Retira el intervalo.**»— y la chica la borró sin defenderla. Ahora no la reclama. Misma auditora, mismo campo de palabra, decisión contraria, **sin que nadie lo narre**. Es caracterización por repetición con variación y no cuesta una palabra.
+
+### 14.3 · Duda 2 · «reclamó»
+
+**Se queda.** La lectura de A0 es correcta y la suscribo: el verbo pone a Astrid en su registro profesional y la muestra **declinando una potestad que tiene**. El sentido de deuda es el motor, no el defecto — porque la deuda se declina en la misma frase, y el sujeto es Astrid, no Nora: el texto no dice que la chica deba nada. Los sustitutos («no señaló», «no dijo nada») pierden la potestad y con ella la renuncia.
+
+Lo que hace que esto sea seguro es `OT-22b` §4.1.11 («no vuelve»), y la elevo a condición mía: **P-42 · nadie cobra esa diferencia.** Ningún capítulo, personaje, OT, biblia, informe, changelog ni prompt puede recoger, recordar, completar, corregir ni cobrar el beat, ni referirse jamás a «la cuarta», «lo que no dijo» o equivalente. **Y ningún material del proyecto puede especificar cuál era el cuarto ítem** — mismo régimen que la tercera línea de Maja (P-12) y el segundo regalo. Verificado hoy: `OT-22b` **no lo especifica** en ningún punto, y su argumento de por qué no es deducible es sólido (los tres nombrados son trámite, papel y transporte: tres clases distintas, así que no definen una clase de la que inferir una cuarta).
+
+### 14.4 · Duda 3 · los tres ítems y la vecindad con `39:179`
+
+**La rima es ganancia, y hay un montaje que A3b no invoca y que es el que la sostiene:** `22:147`, **cincuenta y seis líneas antes, en este mismo capítulo, con la misma chica y el mismo cuaderno** — «Astrid no preguntó por el título». El beat no es la primera vez que Astrid declina aquí: es la segunda. Por eso lee como carácter y no como truco, y por eso el lector deduce que el cuarto ítem existe: porque una mujer que nunca presiona se dio cuenta y lo dejó pasar.
+
+Sobre el orden con `39`: `22` **establece** la forma y `39:181` la ejecuta al máximo —por escrito, con la madre, en la inspección judicial, bajo hash—. Eso convierte `39` en un regreso en lugar de un recurso, y lo refuerza. La condición es que `22` siga siendo **menor** que `39`: hablado, sobre recados, en una marquesina.
+
+**Censo del gesto de abstención de Astrid: siete** (`18:157`, `22:147`, `22:203`, `29:147`, `n4:423`, `39:181`, `34:253`). **P-43 · techo alcanzado: ninguna instancia nueva**, y `39:181` sigue siendo la mayor. Una octava y el rasgo pasa de ética a tic.
+
+### 14.5 · El criterio de doble filo, aplicado
+
+- **Primer filo (que alguien nombre lo que falta):** riesgo bajo, y por la razón de §14.1: la única lección que el libro da sobre ítems que faltan la da Jean un capítulo después, y consiste en **negarse a adivinar**. Además el beat no ofrece categoría deducible, no hay destinatario, no hay nada escrito y `culpa` no aparece.
+- **Segundo filo (que nadie note que falta algo)** — el que preocupa a A0: **menos probable de lo que teme, porque el beat tiene dos oportunidades y no una.** La primera es «Astrid no reclamó la diferencia», que es el aviso de que alguien contó: sin esa frase, cuatro-menos-tres es un descuido; con ella, el texto confirma que hubo resta. La segunda llega un capítulo más tarde, cuando Jean dice «Dos cosas» y da una. Es la calibración de `19:25` («un gofre que nadie encontró mordido»): invisible para el lector distraído, inequívoca para el atento. **Es la calibración correcta para este libro.**
+- Si A0 quiere comprobarlo en vez de estimarlo, la prueba barata y limpia es un `lector-frio` con el extracto de `22–23` y una consigna neutra de resumen: si la resta aflora sin preguntarla, el beat acusa recibo. **No es mi gate y no lo pido.**
+
+### 14.6 · Lo demás
+
+Conformes: `OT-22b` §4.1 completo (auditado contra el texto: cero verbos mentales, cero interpretación de Astrid, ningún ofrecimiento adulto, nada escrito, el marco de `9:71` intacto, un solo gesto físico y derivado de la escena). Punto 7: la menor se guarda algo delante de una autoridad y **la autoridad no extrae** — que es el modelo de adulto de este libro (`n1`, la tutora de `n2`, la funcionaria de `40`).
+
+Vigentes: P-34, P-35, P-36, P-37 (ampliada), P-38, P-39, P-40, P-41, **P-42**, **P-43**.
+
+**Con esto cierro W4-R por mi parte: sin veto, sin condiciones pendientes.**
+
+Firmado, **A7** · 2026-08-18.

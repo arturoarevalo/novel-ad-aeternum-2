@@ -198,6 +198,10 @@ Astrid le devolvió el cuaderno.
 
 —Las horas siguen ahí.
 
+—Hoy me quedaban cuatro: traer esto, el recibo y el autobús de vuelta a casa —dijo Nora.
+
+La luz de la parada llegaba hasta el borde de la nieve pisada. La chica se puso el cuaderno bajo el brazo y siguió sentada en el banco que indicaba la cita de entrega. Astrid no reclamó la diferencia.
+
 El terminal de Astrid vibró. Su director la citaba para el día siguiente.
 
 * * *

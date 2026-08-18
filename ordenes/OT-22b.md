@@ -202,3 +202,89 @@ La enmienda vigente: **vaciar, partir, fundir, reordenar o insertar al lado** de
 ## 8. Notas para el escritor (≤ 150 palabras)
 
 Sesenta palabras, y son de las difíciles porque casi todo lo que se te ocurra estará prohibido. No estás escribiendo una emoción: estás escribiendo una **resta** que una funcionaria anota y no reclama. Astrid es la mujer que devuelve un cuaderno sin preguntar por el título y que diecisiete capítulos después no leerá la tercera línea de otra mujer; aquí hace lo mismo por primera vez, y no lo sabe. Nora cuenta cosas: deja que cuente, y que la cuenta no salga. No expliques el desajuste, no lo mires dos veces, no le des una frase de más. Nadie consuela a nadie, nadie ofrece volver, nadie ayuda. Cierra en lo que Astrid **no** hace y suelta la escena: el director la está citando y el capítulo tiene que seguir. Si al releerlo sabes qué es lo que falta, lo has escrito mal.
+
+---
+
+## 9 · Ejecución (A3b · 2026-08-18 · rama `w4r-ritmo`)
+
+**Estado de la escritura:** hecha. Pendiente de A7 (pasada previa sobre el borrador, antes de A4), A4, A5, A8 y `lector-frio`. El frontmatter no se ha tocado (sigue `ot: OT-22`, `delta_objetivo: +300`, `estado: aceptado`): esta OT no ordenaba cambiarlo — decisión de A0.
+
+### 9.1 · Inserciones
+
+| # | Etiqueta | Locus | Palabras | Forma |
+|---|---|---|---|---|
+| I-1 | **`INTERIORIDAD`** (única) | `capitulos/cap-22.md`, escena 4, **entre** «—Las horas siguen ahí.» **y** «El terminal de Astrid vibró…» | **56** | **Forma A**: resta hablada + una oración de no-acceso |
+
+> **`PAGO` no se ha usado en ningún registro de esta inserción**, ni aquí, ni en el mapa de intervenciones, ni en el mensaje de commit sugerido. CH-48 **no** queda pagada: queda **nombrada**. M10 no sube por esta OT.
+
+### 9.2 · Texto insertado (dos párrafos nuevos, íntegros)
+
+```
+—Hoy me quedaban cuatro: traer esto, el recibo y el autobús de vuelta a casa —dijo Nora.
+
+La luz de la parada llegaba hasta el borde de la nieve pisada. La chica se puso el cuaderno bajo el brazo y siguió sentada en el banco que indicaba la cita de entrega. Astrid no reclamó la diferencia.
+```
+
+- **Número enunciado:** «cuatro». **Enumerados:** tres ítems (la palabra «tres» **no aparece**: §4.1.9). Lo que falta no se nombra, no se cuantifica de otro modo, no se pronominaliza, no tiene destinatario, no tiene categoría deducible (los tres nombrados son trámite, trámite y transporte: no definen una clase que permita adivinar el cuarto).
+- **Cierre en narración**, no en réplica. Molde **distinto** del de `:147` («no preguntó **por** + SN» → «no reclamó + SN, objeto directo»); imita la gramática de `39:181`/`39:191` sin copiarla (ni ordinal, ni «leyó», ni «solicitó»).
+- **Forma C no usada:** la réplica termina en punto; ninguna frase queda empezada sin terminar.
+- **Nada escrito** (§4.1.4): el beat no contiene página, renglón, línea, nota, archivo, papel, sobre, tachadura ni número apuntado; el cuaderno se nombra una vez, **cerrado y bajo el brazo**, y no se abre. La resta ocurre íntegramente en habla.
+- **Un solo gesto físico**, y derivado de la escena: ponerse bajo el brazo el cuaderno que Astrid acaba de devolverle en `:197` (postura de Nora ya establecida en `14:147`). «Siguió sentada» es continuación del estado de `:133`, no gesto nuevo. Cero atrezo nuevo, cero clima nuevo, cero objeto nuevo.
+
+### 9.3 · Declaración de paragrafado sobre el diff real (P-37, en las dos direcciones)
+
+Diff verificado: **4 líneas añadidas, 0 modificadas, 0 borradas** (`git diff --stat` = `1 file changed, 4 insertions(+)`; diff completo en 9.6).
+
+- **«—Las horas siguen ahí.» conserva su condición carácter a carácter:** línea de diálogo en párrafo propio, con su vecino de arriba intacto (`Astrid le devolvió el cuaderno.` + línea en blanco). No se funde con el beat, no se parte, no se vacía, no se reordena. **Solo cambia lo que viene después de ella.**
+- **El beat entra como dos párrafos nuevos** (réplica de Nora + párrafo de narración de tres oraciones), separados por línea en blanco: la forma normal del capítulo. Ninguno de los dos queda aislado de un modo que el capítulo no use ya. No se crea párrafo de una sola oración.
+- **«El terminal de Astrid vibró. Su director la citaba para el día siguiente.» conserva su forma íntegra:** dos oraciones, un párrafo, sin partir y sin fundir; sigue siendo lo último antes del dinkus; ya era párrafo propio en v0 y lo sigue siendo. Cambia únicamente su vecino de arriba, y esa línea no pertenece a ningún span.
+- **El dinkus no se mueve.** `S22-flecha`, `S22-dahl` y `S22-aula` conservan íntegro su **entorno de párrafo**: entre el beat y `S22-aula` (anclaje único, cierre del capítulo) median el dinkus y la escena 5 completa, sin tocar; `S22-flecha` queda ~40 líneas por encima y `S22-dahl` en otra escena.
+- **Ninguna línea protegida cambia de vecino por arriba ni por abajo.** El único vecino nuevo del libro es el que el beat le da a la línea del terminal, que no está protegida.
+
+### 9.4 · Verificación (§6, medida sobre el fichero final)
+
+| # | Criterio | Umbral | Resultado |
+|---|---|---|---|
+| 1 | Palabras | beat 40–80 (rec. 55–65) · capítulo 1.796–1.836 | **beat 56** · **capítulo 1.812** (era 1.756) ✔ |
+| 2 | Oraciones | ≤ 4 · ninguna > 25 · una réplica de Nora (8–18) | **4** (17 / 13 / 21 / 5) · **máx. 21** · **una** réplica, 15 palabras de habla (17 con inciso) ✔ |
+| 3 | Soporte escrito | 0 sustantivos de §4.1.4 | **0** ✔ (grep) |
+| 4 | Verbos mentales · emociones · «culpa» | 0 · 0 · 0 | **0 · 0 · 0** ✔ (grep sobre 34 formas: pensó, recordó, quiso, sintió, dudó, se contuvo, calló, comprendió, supo que, pareció, esperó, entendió, todavía, desde entonces, alguna vez, nunca, causa, deuda, alivio, lista, doblado, tres…) |
+| 5 | **M5** | `pct_dialogo` ≥ 31,0 % · `max_tramo_sin_dialogo` ≤ 376 · ≥ 14 palabras en réplica | **31,24 %** (era 31,26) ✔ · **376, sin cambio** ✔ · **17** ✔ |
+| 6 | M1 · M2 · M4 · M4b | 0 términos nuevos · M2 = 0 · 0 cierres-objeto nuevos · M4b ≤ 8 % | 0 · **0** · el capítulo sigue cerrando igual y el beat no cierra escena ✔ · **1,9 %** (era 2,0) ✔ |
+| 7 | **P-41** | censo del asidero intacto · 0 coocurrencias en el borrador | censo **sin cambio** (`cap-09`, `cap-18`, `cap-n4` ×2, `cap-40`, más la audición sin nombrar de `3:143`) · **0** en el beat ✔ |
+| 8 | P-33 | techo en dos | **dos** (`13:73`, `25:227`), sin tocar ✔ |
+| 9 | Test de doble filo | el lector debe poder decir «hay algo que ella no dice» y nada más | **pendiente** de `critica-fria.sh lector-frio` |
+| 10 | Test de reversión | inserción atómica | **4 líneas añadidas, 0 modificadas**: borrarlas deja la escena exactamente como hoy ✔ |
+| 11 | M9 + paragrafado | 109 spans íntegros + declaración | `M9 OK · 8 ficheros íntegros · 109 spans íntegros` ✔ · declaración en 9.3 ✔ |
+| 12 | T7 | 0 hits de nivel A nuevos | `3 hits totales (3 A / 0 B) · NUEVOS respecto a baseline: 0` ✔ |
+| 13 | Etiqueta | `INTERIORIDAD`; `PAGO` = reversión | **`INTERIORIDAD`**, única; `PAGO` no usada ✔ |
+| 14 | M10 | CH-48 no pasa a pagada | sin cambio; la entrada de B4 la escribe A1-mantenimiento tras la aceptación ✔ |
+
+Además: `validar-frontmatter.sh capitulos/cap-22.md` → `validador OK (0 avisos)`. Ningún otro fichero tocado (`git diff --stat` = 1 fichero).
+
+### 9.5 · Lo que A3b pide expresamente que A7 y A4 miren
+
+1. **«la diferencia»** (última oración). Es el único punto con riesgo de doble lectura: el capítulo tiene una diferencia técnica anterior (los dos relojes, los nueve segundos). Se ha elegido pese a ello porque (a) esa diferencia ya está resuelta y borrada 40 líneas antes, (b) la última aritmética en escena es la de Nora, 30 palabras arriba, y (c) las alternativas eran peores: «la cuarta» choca con «la cuarta nota» de `:149` y calca `39:181`; «lo que faltaba para cuatro» hace la cuenta por el lector y mira el hueco dos veces.
+2. **«reclamó»**. Verbo de auditoría (exigir la producción de una discrepancia), no de deuda moral, y va negado. Si A7 lee «deuda» en él (§4.1.3), el sustituto preparado es «Astrid no pidió la diferencia.», sin cambiar nada más.
+3. **Tres ítems enumerados** frente a las tres líneas de `39:179`. La palabra «tres» no aparece y el atrezo es incompatible (habla frente a papel doblado), pero el paralelismo numérico existe y conviene que lo mire quien vigila §4.1.9.
+4. **«el recibo» y «el cuaderno»** aparecen una vez cada uno, ambos como objetos ya cerrados de la escena. Ni se reabre el recibo ni se abre el cuaderno; si A7 prefiere cero menciones del recibo, el ítem admite sustituirse por «la firma» — **desaconsejado por A3b**, porque `firma` resuena con `n4:91`.
+5. **Vecindad con `23:137`** («—Dos cosas. Me equivoqué de caja…» + «Anoto también que no ha completado el segundo regalo»): dos capítulos más adelante, la voz de Jean también anuncia un número y no lo completa, y allí Astrid **sí** lo hace constar. La asimetría es deliberada (a la máquina se le registra el hueco; a la chica no) y ninguna voz la señala. Si A7 la considera un sistema visible (§4.3), el que se revierte es este beat, no `23`, que es intocable.
+
+### 9.6 · Diff
+
+```diff
+@@
+ Astrid le devolvió el cuaderno.
+ 
+ —Las horas siguen ahí.
+ 
++—Hoy me quedaban cuatro: traer esto, el recibo y el autobús de vuelta a casa —dijo Nora.
++
++La luz de la parada llegaba hasta el borde de la nieve pisada. La chica se puso el cuaderno bajo el brazo y siguió sentada en el banco que indicaba la cita de entrega. Astrid no reclamó la diferencia.
++
+ El terminal de Astrid vibró. Su director la citaba para el día siguiente.
+ 
+ * * *
+```
+
+**Commit (lo ejecuta A0):** un commit propio de `cap-22` con `OT-22b` en el mensaje. A3b no ha ejecutado ningún comando git de escritura.
