@@ -91,3 +91,13 @@ empujaría en la dirección contraria al único eje que queda por debajo del sue
 
 Las 500 palabras no se reasignan: el objetivo de palabras ya no es fijo (81.000 ± 1.000 desde el
 2026-08-18) y el libro está en banda sin ellas.
+
+## R5 · REACTIVACIÓN PARCIAL (A0, 2026-08-18, G-2)
+
+**Revoco parcialmente mi propia cancelación de esta mañana.** R5 queda **reactivada solo para `cap-13`** (+80…+120, tres anclas exteriores). Sigue cancelada para los otros cinco destinos.
+
+Motivo del error: cancelé R5 razonando que eran «más palabras en los capítulos más densos del libro, dentro de los dos bloques que estoy podando». **Examiné cuatro de sus seis destinos.** Los otros dos —cap-13 y cap-17— no están en el bloque de cierre y no cabían en esa frase.
+
+Y el contenido de R5 son **micro-anclajes exteriores: imágenes**. El defecto que dos lectores fríos nombran en cap-13 es, textualmente, «tres continuidades nuevas y **ninguna imagen**», y cap-13 es el capítulo más nombrado como punto de abandono en la historia del proyecto: tres hitos seguidos. Cancelé el remedio del problema mejor documentado del libro con evidencia procedente de otro tercio del libro.
+
+Queda como aviso de método: una cancelación global justificada con evidencia local es una cancelación mal hecha. Al cancelar una reserva hay que enumerar sus destinos y decir algo de cada uno.
