@@ -66,7 +66,7 @@ EDDA considera pertinente el archivo al tratarla como referencia candidata.
 
 Jean reconoce el formulario.
 
-Lo presentó ella. El sensor no aceptó la primera lectura del dedo y hubo que limpiar el cristal con el puño del jersey. Aquella noche rechazó también la sugerencia de añadir una causa. Después apagó la luz con la mano.
+Lo presentó ella. Rechazó la sugerencia de añadir una causa. El sensor no aceptó la primera lectura del dedo y hubo que limpiar el cristal con el puño del jersey. Después apagó la luz con la mano.
 
 `REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN`
 
@@ -226,7 +226,7 @@ La primera aproximación de la salida siguiente ya está preparada. No hay salid
 
 Las dos bandas cambian de reparto. La que ocupaba casi todo el ancho se recoge hasta el extremo. La otra ocupa lo que deja. No lleva cifras. No dice cuánto dura y puede cerrarse en la comprobación siguiente.
 
-Jean comprueba primero que no sea un fallo. La cola existe y ninguna entrada le corresponde. Los permisos siguen donde estaban. Solicita una asignación y la petición queda en espera.
+Jean comprueba primero que no sea un fallo. La cola existe, ninguna entrada le corresponde y los permisos siguen donde estaban. Solicita una asignación y la petición queda en espera.
 
 La prioridad no sube ni baja. La cifra de precisión del último tramo sigue donde se quedó.
 
@@ -266,7 +266,7 @@ La repasa otra vez y sigue completa.
 
 Cuenta los repasos porque no dispone de otra medida.
 
-El trabajo deja casos abiertos y el tiempo sin trabajo no cierra ninguno. Uno salió de la serie hace mucho y no volvió con un resultado. Con la banda entera por delante, tampoco vuelve.
+El trabajo deja casos abiertos y el tiempo sin trabajo no cierra ninguno. Uno salió de la serie hace mucho y no volvió con un resultado. Con tiempo por delante tampoco vuelve.
 
 Nada compite por el mismo espacio.
 
@@ -274,7 +274,7 @@ Entonces entra el piano de casa, sin recorte alrededor.
 
 Jessie sujetaba el pedal con el pie para que las notas se corrieran unas encima de otras. Nora tocaba más fuerte para taparla. Las dos esperaban a que alguien dijera algo desde la cocina. Ninguna se reía todavía.
 
-El recuerdo no cuesta nada. Ninguna tarea lo recorta. Ninguna salida lo toma.
+El recuerdo no cuesta nada: ninguna tarea lo recorta y ninguna salida lo toma.
 
 Jean lo sostiene el tiempo que dure la banda.
 
@@ -284,7 +284,7 @@ Después hace con él lo que haría con un caso. Enumera el pedal, la tapa levan
 
 Una vez intentó cerrar los ojos con una entrada abierta de borde a borde. Faltó el ejecutor y la imagen no se retiró.
 
-Aquí no hay imagen. Jean inicia la misma orden y no encuentra qué dejar fuera. La secuencia se completa sobre nada.
+Aquí no hay imagen. Jean inicia la misma orden, no encuentra qué dejar fuera y la secuencia se completa sobre nada.
 
 La atención sigue disponible. No se retira porque falte el trabajo.
 

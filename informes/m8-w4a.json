@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w4a",
+  "fecha": "2026-08-18T05:32:00",
+  "capitulos": 47,
+  "palabras": 79466,
+  "por_parte": {
+    "1": 19693,
+    "2": 18376,
+    "3": 21977,
+    "4": 19420
+  },
+  "objetivo": 85000,
+  "banda": [
+    84000,
+    86000
+  ],
+  "en_banda": false,
+  "salida": "compilado/ad-aeternum-w4a.md"
+}

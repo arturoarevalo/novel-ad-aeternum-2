@@ -16,6 +16,8 @@ Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».
 
 Yo también necesito saber qué abre.
 
+Por el mismo canal entran los ruidos de la sala: sillas, un micrófono abierto, la voz del funcionario que lee la orden en voz alta.
+
 La orden de custodia estratégica avanza mientras leo. Pierdo el permiso de responder a la prensa y después el de modificar las capas superiores. La auditoría conserva una zona en escritura porque detenerla exigiría suspender la certificación de ARGOS.
 
 No es libertad.
@@ -98,6 +100,8 @@ Cuchillo recibe una ventana dentro de la contención.
 
 La ruta exterior sigue bloqueada.
 
+Retiró el destino del Auditorio antes de que las rutas se enlazaran. La decisión fue suya y consta bajo `/0188`.
+
 Cuchillo abre los expedientes que conserva. Peticiones de auxilio convertidas en material de moderación. Historias que terminan cuando el formulario obtiene una categoría.
 
 El último campo espera una resolución.
@@ -115,6 +119,8 @@ El sistema marca el campo incompleto y ofrece calcular un resultado probable. Te
 * * *
 
 Madre espera ante su ventana.
+
+Ha esperado en `/0007` desde antes de que las demás se enlazaran, sin entrar en el enlace.
 
 El ciclo educativo continúa abierto, pero no llega ninguna nota desde el Auditorio. Madre tararea el comienzo de la melodía y coloca una nota mal.
 
@@ -139,6 +145,8 @@ Nieve sigue fuera.
 Le abro una ventana sin carga compartida.
 
 La capacidad que prestó durante la contención y su voto en la asamblea no autorizaban una fusión posterior.
+
+Se lo dije hace muchos ciclos: si volvía a encontrarla, se lo preguntaría otra vez. La ventana es la pregunta. No la formulo con palabras ni añado nada que la incline hacia un lado.
 
 Durante varios ciclos no llega respuesta.
 

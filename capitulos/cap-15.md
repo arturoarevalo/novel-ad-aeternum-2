@@ -14,7 +14,7 @@ orden_lectura: 15
 
 La microetiqueta equivocada supera la validación.
 
-La tarea muestra una funda de guitarra usada, fotografiada sobre una cama sin hacer para un tablón de segunda mano. El asa está reforzada con cinta y en el forro hay una hoja bordada, descosida por un lado. No hay guitarra dentro. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
+La tarea muestra una funda de guitarra usada, fotografiada sobre una cama sin hacer para un tablón de segunda mano. El asa está reforzada con cinta y en el forro hay un helecho bordado, descosido por un lado. No hay guitarra dentro. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
 
 La salida se cierra sin corrección. El descriptor secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
 
@@ -142,7 +142,7 @@ La nueva tarea procede de una aplicación ordinaria.
 
 Una persona aceptó hace tiempo que el sistema conservara sus preferencias. Desde entonces, varias sesiones terminaron con la opción cerrada y sin respuesta. La regla interpreta ese silencio como continuidad del consentimiento y recomienda reactivar un servicio de asistencia personalizado.
 
-El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y la advertencia del hielo en la escalera. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
+El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y el recordatorio de bajar los envases. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
 
 `REACTIVACIÓN RECOMENDADA`
 
