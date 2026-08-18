@@ -127,8 +127,8 @@ def m4(orden):
 def m5(orden, manifest):
     out = {}
     for d in orden:
-        pars = aa.paragraphs(d["body"])
-        pars = [p for p in pars if not aa.es_dinkus(p)]
+        pars_raw = aa.paragraphs(d["body"])
+        pars = [p for p in pars_raw if not aa.es_dinkus(p)]
         w_total = aa.count_words(d["body"]) or 1
         w_dial = sum(aa.count_words(p) for p in pars if aa.es_dialogo(p))
         w_reg = sum(aa.count_words(p) for p in pars if p.startswith("`") or p.startswith(">"))
@@ -141,11 +141,23 @@ def m5(orden, manifest):
         for p in pars:
             if aa.es_dialogo(p): run = 0
             else: run += aa.count_words(p); best = max(best, run)
+        # Variante por ESCENA: el dinkus también reinicia. Se recorre `pars_raw`, NO `pars`: arriba
+        # se filtran los dinkus de la lista (`pars = [p for p in pars if not es_dinkus(p)]`), y ese
+        # filtro —que parece limpieza inocua para no contar sus palabras— borra la frontera de
+        # escena de la secuencia, de modo que el proxy deja correr el tramo a través de un cambio
+        # de escena. Eso no es una carrera que ningún lector experimente: tras el dinkus hay blanco
+        # y empieza otra cosa. En cap-34 la diferencia es 469 vs 329. Se AÑADE en vez de sustituir
+        # porque `max_tramo_sin_dialogo` es contrato del plan (M5) y sus cifras históricas deben
+        # seguir siendo comparables. Hallazgo de A3b en W5.
+        run_e = best_e = 0
+        for p in pars_raw:
+            if aa.es_dialogo(p) or aa.es_dinkus(p): run_e = 0
+            else: run_e += aa.count_words(p); best_e = max(best_e, run_e)
         out[d["archivo"]] = {"palabras": w_total, "escenas": len(aa.split_scenes(d["body"])), "parrafos": len(pars),
                              "pct_dialogo": round(100 * w_dial / w_total, 1), "pct_registro": round(100 * w_reg / w_total, 1),
                              "frase_media": round(media, 1), "pct_frases_cortas_le6": round(100 * sum(1 for l in lens if l <= 6) / len(lens), 1) if lens else 0,
                              "pct_frases_largas_ge25": round(100 * sum(1 for l in lens if l >= 25) / len(lens), 1) if lens else 0,
-                             "max_tramo_sin_dialogo": best, "parte": aa.parte_de(d["orden"], manifest), "pov": d["fm"].get("pov")}
+                             "max_tramo_sin_dialogo": best, "max_tramo_escena": best_e, "parte": aa.parte_de(d["orden"], manifest), "pov": d["fm"].get("pov")}
     return out
 
 # ------------------------------------------------------------------ M6
@@ -394,9 +406,9 @@ def dashboard(et, R, B):
             L.append(f"| {h['archivo']} | {h['escena']} | {h['tipo']} | {h['texto'].replace('|','/')} |")
     L.append("")
     L.append("## M5 · Ritmo (proxies)\n")
-    L.append("| capítulo | parte | pov | palabras | escenas | % diálogo | % registro | frase media | % ≤6 | % ≥25 | máx. tramo sin diálogo |\n|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|")
+    L.append("| capítulo | parte | pov | palabras | escenas | % diálogo | % registro | frase media | % ≤6 | % ≥25 | máx. tramo sin diálogo | máx. tramo por escena |\n|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|")
     for arch, v in R["M5"].items():
-        L.append(f"| {arch} | {v['parte']} | {str(v['pov'])[:14]} | {v['palabras']} | {v['escenas']} | {v['pct_dialogo']} | {v['pct_registro']} | {v['frase_media']} | {v['pct_frases_cortas_le6']} | {v['pct_frases_largas_ge25']} | {v['max_tramo_sin_dialogo']} |")
+        L.append(f"| {arch} | {v['parte']} | {str(v['pov'])[:14]} | {v['palabras']} | {v['escenas']} | {v['pct_dialogo']} | {v['pct_registro']} | {v['frase_media']} | {v['pct_frases_cortas_le6']} | {v['pct_frases_largas_ge25']} | {v['max_tramo_sin_dialogo']} | {v['max_tramo_escena']} |")
     L.append("")
     m6v = R["M6"]
     L.append(f"## M6 · Voz (clasificador ciego, leave-one-out) — objetivo ≥ 80 %\n\n- Réplicas con atribución explícita: {m6v.get('replicas_atribuidas')} · usadas: {m6v.get('replicas_usadas')} · **acierto global: {m6v.get('acierto')} %**"
