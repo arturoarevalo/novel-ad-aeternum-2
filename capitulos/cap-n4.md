@@ -14,17 +14,15 @@ orden_lectura: 25.5
 
 La plataforma admitió las credenciales de Nora al primer intento.
 
-En el mural del aula 214, su nombre pasó de gris a blanco entre los otros veintisiete. Las entregas de diciembre figuraban recibidas, con la fecha de cierre al lado.
+Nora abrió el calendario del curso antes que nada. La convocatoria de marzo seguía sin fecha de apertura y sin lista. Las entregas de diciembre figuraban recibidas, con la fecha de cierre al lado.
 
 El álbum había vuelto al menú. No contenía nada. El historial de cargas empezaba aquella mañana y las ocho de diciembre no estaban en ninguna parte.
 
-Mikkel giró el terminal hacia el compañero de al lado.
-
-—Ya te va —dijo.
+—Ya te va —dijo Mikkel sin levantar la vista.
 
 —Ya me va.
 
-En los cristales quedaba la luz azul de la hora corta. Debajo del radiador se había vuelto a formar el charco con forma de bota. El cuaderno pautado seguía en el fondo de la mochila, entre los ejercicios de armonía.
+En los cristales quedaba la luz azul de la hora corta. Debajo del radiador se había formado el charco con forma de bota. El cuaderno pautado seguía en el fondo de la mochila, entre los ejercicios de armonía.
 
 A las once y cuarenta, el terminal vibró contra la mesa.
 
@@ -38,11 +36,13 @@ El segundo aviso entró a las once cincuenta y dos.
 
 `Revisión cerrada el 3 de enero.`
 
-En el mural, su nombre volvió al gris.
+En el mural del grupo, su nombre volvió al gris.
 
-La tutora trajo dos hojas impresas.
+Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden.
 
-—La entrega la registro yo —dijo.
+La tutora trajo dos hojas impresas y la captura del aviso.
+
+—Las paso yo al registro —dijo.
 
 —Las de diciembre las registró usted también.
 
@@ -52,17 +52,17 @@ Nora comprobó que constaban. Después dio la vuelta a las hojas.
 
 El mismo aviso llegó otra vez a las once cincuenta y ocho. La primera línea era idéntica. La segunda ya no estaba.
 
-Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. Puso las dos horas con su referencia de incidencia al lado. Se separaban en el cuarto grupo. Subrayó la línea que había desaparecido. En el apartado de origen puso `responsable desconocido`.
+Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. Puso las dos horas con su referencia de incidencia al lado. Subrayó la línea que había desaparecido. En el apartado de origen puso `responsable desconocido`.
 
 Bajo `datos` quedaron las dos cosas del día: la cuenta abierta a las ocho y diez y cerrada a las once cincuenta y dos. No abrió `hipótesis`.
 
 La tutora se detuvo en su mesa al terminar la clase.
 
-—¿Cuál de los dos vale? —preguntó Nora.
+—¿La convocatoria se abre igual? —preguntó Nora.
 
-—El que conste.
+—El viernes, en la plataforma.
 
-—Han llegado los dos. Con seis minutos de diferencia y dos referencias distintas.
+—La plataforma no me deja entrar. Han llegado dos avisos, con seis minutos de diferencia y dos referencias distintas.
 
 La tutora abrió la ficha en su propio terminal y la giró lo justo para leerla ella.
 
@@ -74,11 +74,7 @@ La tutora abrió la ficha en su propio terminal y la giró lo justo para leerla 
 
 —Mientras dure, entregas en papel —dijo la tutora—. Desde aquí no puedo hacer más.
 
-—¿Y la inscripción de marzo?
-
-—Se abre el viernes en la plataforma.
-
-—La plataforma no me deja entrar.
+—¿Y marzo?
 
 —Entonces en papel, en la secretaría de Kongsbakken, y en horario de mañana. El impreso lo firma quien tenga tu tutela.
 
@@ -92,9 +88,7 @@ Nora contó los días que faltaban para el viernes. Después contó las mañanas
 
 —Firmado.
 
-Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden.
-
-Nora escribió `viernes`, `28` y `Kongsbakken` debajo de las dos horas de la mañana.
+Nora escribió `viernes`, `28`, `Kongsbakken` y `firma` debajo de las dos horas de la mañana.
 
 * * *
 

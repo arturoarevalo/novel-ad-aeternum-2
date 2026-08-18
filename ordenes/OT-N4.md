@@ -315,3 +315,113 @@ Dos razones, y las dos son verificables:
 - **(a) G-4 no se ha ejecutado.** `n4:29` sigue diciendo «se había vuelto a formar el charco». A7 (§11.3) ordena **secuenciarlo después de G-1**, porque si G-1 relocaliza la escena 1 el charco puede desaparecer y la corrección queda sin objeto. Queda pendiente y anotado.
 - **(b) G-1 sigue pendiente y la poda no lo estorba.** C-1…C-6 dejan la escena 1 en 516 palabras con el ritual del aula 214 ya adelgazado (sin mural apagado, sin hojas calientes, sin el gesto repetido de Mikkel). Si A3b la reasigna, hereda menos calco del que describía §3.4.
 - **(c) `:437` («—Distinta. Se separan en el cuarto grupo.») y `:57` («Se separaban en el cuarto grupo.») quedan casi verbatim.** Es la sustitución que fija la hoja y A7 auditó. Se conserva porque el eco es de Nora repitiendo su propio cuaderno en voz alta —caracterización— y porque `:437` es réplica y la regla de corte la protege. **Si A0 prefiere deshacer el eco, la vía barata es tocar `:57`, no la réplica.**
+
+---
+
+## 9.4 · G-1 · reasignación de función
+
+**A3b · rama `w4r-ritmo` · 2026-08-18.** Encargo de A0: reasignar la función de la **escena 1** según `informes/w4r-diagnostico-centro.md` §3.4 (fuera del ritual del aula 214, centro de gravedad en la inscripción de marzo, etiqueta `AGENCIA / INTERIORIDAD`), a **±0 palabras**, sobre el texto ya podado por A4 (§9.3). Perímetro previo de A7: `informes/a7-w4r.md` §11.3. Incluye **G-4** (el charco huérfano de `n4:29`), secuenciado después de G-1 por orden de A7.
+
+**Palabras 2.887 → 2.878 (−9, −0,3 %).** Banda de A0 ±15 ✔. Banda §6 [2.720–3.680] ✔. **Escena 1: 516 → 507 (−9).** Escenas 2, 3, 4 y 5: **byte-idénticas** (verificado con `git show HEAD` + `aa.split_scenes`). El espejo (escena 4, D-1) conserva sus 483 palabras y diff 0.
+
+### Etiqueta
+
+| | antes | después |
+|---|---|---|
+| escena 1 (I-1 / I-1R) | `TENSIÓN / PAGO` | **`AGENCIA / INTERIORIDAD`** |
+
+Las etiquetas de I-2, I-3, I-4 e I-5 no cambian. El capítulo mantiene su etiqueta global.
+
+### Qué hace ahora la escena, y por qué deja de ser una ejecución del movimiento
+
+Definición de A2 (§2 del diagnóstico): (a) daño concreto; (b) la institución lo mide y lo consigna bien; (c) declara que no puede actuar; (d) **nada cambia**. La escena conserva (a), (b) y (c) —siguen ahí la re-suspensión, el cuaderno y «Desde aquí no puedo hacer más»— y **pierde (d)**: Nora entra con un propósito propio (la convocatoria de marzo), el golpe se lo rompe, y sale con **una ruta y un precio**: papel, secretaría de Kongsbakken, horario de mañana, tope el 28, firma de quien tenga su tutela. El precio no es institucional: son las mañanas de su madre, y es lo que Nora calcula (`n4:93`) e intenta rebajar («—¿Puedo llevarlo yo?» → «—Firmado.»). **La ejecución n.º 10 de §2.1 sale del mapa: la Parte III baja de siete a seis.**
+
+Estructura nueva: **propósito → interrupción → renegociación → precio → plan.** La re-suspensión pasa de ser el asunto de la escena a ser lo que interrumpe el asunto de la escena. Ninguna palabra nueva del sistema, ninguna mecánica nueva, ningún hecho nuevo de trama.
+
+### Recuento de las «siete veces que el capítulo descubre lo mismo» (§3.2)
+
+| # | locus §3.2 | hoy | estado |
+|---:|---|---|---|
+| 1 | `:57` «Las comparó… se separaban en el cuarto» | — | **ELIMINADA en G-1** |
+| 2 | `:67` «Han llegado los dos. Con seis minutos…» | `:65` | conservada (la exige I-1R), pero deja de abrir y cerrar la conversación: va incrustada en la réplica con la que Nora explica por qué no puede inscribirse |
+| 3 | `:187–:195` Maja, la copia con otra referencia | esc. 2 | conservada |
+| 4 | `:279–:281` Jessie, la frase idéntica | esc. 3 | conservada (**el pago**) |
+| 5 | `:413` el narrador | — | eliminada por C-11 (poda) |
+| 6 | `:433–:437` Nora otra vez | `:417` | conservada, y ahora es la **única** vez en todo el capítulo en que alguien compara las dos referencias |
+| 7 | `:457` el narrador | — | eliminada por C-13 (poda) |
+
+**7 → 5 (poda) → 4 (G-1).** Las cuatro tienen descubridor distinto y documento distinto, y la primera comparación del capítulo ya no ocurre en la escena que reejecuta N2, sino en la escena 5, en voz de Nora y delante de Maja. Efecto colateral: **desaparece el eco casi verbatim** que A4 dejó anotado en §9.3 (c) (`:57` ↔ `:437`); se ha ejecutado la «vía barata» que A4 proponía (tocar `:57`, no la réplica).
+
+### Cambios, uno a uno, con el paragrafado de lo que queda al lado
+
+*(loci = numeración del fichero **antes** de G-1, es decir la de §9.3; entre paréntesis, la línea de hoy)*
+
+| # | locus | tipo | qué | Δ | **cómo queda paragrafado lo de al lado** |
+|---|---|---|---|---:|---|
+| G1-1 | `:17` (17) | ORIENTACIÓN / AGENCIA | se sustituye la primera frase del párrafo: «En el mural del aula 214, su nombre pasó de gris a blanco entre los otros veintisiete.» → «Nora abrió el calendario del curso antes que nada. La convocatoria de marzo seguía sin fecha de apertura y sin lista.» Es el calco directo de `n2:19` y su desaparición pone el propósito de Nora en la primera línea de la escena | +2 | El párrafo sigue existiendo y pasa de 2 frases a 3. Conserva verbatim su segunda frase («Las entregas de diciembre figuraban recibidas…»), que `:47`/`:49` cobran. `:15` (1 frase, párrafo propio) y `:19` (3 frases, párrafo propio) **no cambian de forma ni de posición**. |
+| G1-2 | `:21`+`:23` (21) | TEXTURA | «Mikkel giró el terminal hacia el compañero de al lado.» + «—Ya te va —dijo.» → **«—Ya te va —dijo Mikkel sin levantar la vista.»** Se va el gesto calcado de `n2:23`; **se conserva íntegro el registro adolescente** (las dos réplicas siguen ahí) | −5 | Desaparece un párrafo de acotación; su contenido pasa a la acotación interna de la réplica. `:19` (3 frases) pasa a ir seguido de la réplica. `:25` («—Ya me va.») conserva forma, hablante y posición relativa. Ninguna línea protegida en el entorno: `n4:93` está a treinta párrafos. |
+| G1-3 | `:27` (25) | **G-4** · PAGO | «se había **vuelto a formar** el charco» → «se había **formado** el charco» | −2 | Sustitución dentro de la 2.ª frase de un párrafo de 3 frases. Ningún límite de párrafo se toca. Ver «G-4» abajo. |
+| G1-4 | `:43` (39) | TEXTURA | «En el mural, su nombre volvió al gris.» → «En el mural **del grupo**, su nombre volvió al gris.» Reintroduce el objeto en dos palabras, ahora que G1-1 retira la única presentación que tenía en el capítulo | +2 | El párrafo sigue siendo de 1 frase y sigue inmediatamente después de `Revisión cerrada el 3 de enero.` **Conserva el énfasis que A7 le reconoció en §11.1.** |
+| G1-5 | `:95` → (41) | TEXTURA / **traslado** | **`n4:99` se traslada verbatim** desde el penúltimo lugar de la escena hasta justo después de `:43`: «Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden.» Razón: es la única lectura social del mural que queda y su sitio causal es el instante en que el nombre vuelve al gris; en su posición anterior quedaba a nueve párrafos de la única otra mención del mural | 0 | **No se funde, no se parte, no se vacía y no se le inserta nada dentro.** Conserva su forma exacta (1 frase, párrafo propio). Vecinos nuevos: `(39)` («En el mural del grupo…», 1 frase, párrafo propio, sin cambio de forma) y `(43)` («La tutora trajo…», 1 frase, párrafo propio). Ninguno de los dos es línea protegida ni cambia su propio aislamiento. |
+| G1-6 | `:45` (43) | PAGO | «La tutora trajo dos hojas impresas.» → «… **y la captura del aviso.**» Paga la continuidad de `:415` («La captura de esta mañana la hizo la tutora») y `:399` («una captura de cuatro líneas… La habían impreso en el instituto antes de que la cuenta se cerrara otra vez»), que hasta ahora solo estaba implícita | +5 | Misma frase, mismo párrafo de 1 frase, misma posición. |
+| G1-7 | `:47` (45) | TEXTURA | «—La entrega la registro yo —dijo.» → **«—Las paso yo al registro —dijo.»** Rompe el quinto y último par verbatim de la tabla de calco de §2.3 (`n2:37` «—La registro yo.»). El hecho procesal se conserva entero | 0 | Réplica sustituida palabra a palabra: mismo hablante, misma posición, mismo párrafo. `:49` («—Las de diciembre las registró usted también.») conserva su antecedente. |
+| G1-8 | `:57` (55) | **eliminación de la ejecución** | se suprime «Se separaban en el cuarto grupo.» — descubrimiento n.º 1 de §3.2. Nora sigue anotando **las dos horas y las dos referencias** (I-1R íntegra); deja de sacar la conclusión, que es lo que I-1R le prohíbe explícitamente («esto va en `datos`, no en `hipótesis`») | −6 | Párrafo de 5 frases → 4. **Primera frase intacta** (el cuaderno del 5-dic) y **última intacta** (`responsable desconocido`). `:53` y `:59` sin cambio de forma. |
+| G1-9 | `:61`+`:63`+`:65` (61–65) | AGENCIA | la conversación deja de abrirse por «—¿Cuál de los dos vale? / —El que conste.» y se abre por la inscripción: «—¿La convocatoria se abre igual? —preguntó Nora. / —El viernes, en la plataforma. / —La plataforma no me deja entrar. Han llegado dos avisos, con seis minutos de diferencia y dos referencias distintas.» Las dos réplicas de `:79`/`:81` suben aquí; la pregunta por los dos avisos se incrusta y deja de ser el eje | −3 | Se conserva la alternancia Nora/tutora. `:59` («La tutora se detuvo en su mesa al terminar la clase.») sigue siendo párrafo propio de 1 frase y sigue precediendo a la primera réplica de Nora. `:67` (la acotación de la ficha, 1 frase, párrafo propio) conserva forma y posición relativa: después de la réplica de Nora, antes de «—Aquí aparece uno.». |
+| G1-10 | `:77`+`:79`+`:81` (77) | AGENCIA | tres réplicas → una: «—¿Y marzo?». `:79` y `:81` han subido a G1-9; lo que queda es la insistencia de Nora sobre lo único que le importa | −5 | `:75` («—Mientras dure, entregas en papel —dijo la tutora—. Desde aquí no puedo hacer más.») **conserva forma, texto y posición**. `:83` («—Entonces en papel, en la secretaría de Kongsbakken…») **conserva su texto exacto** y sigue siendo la respuesta inmediata a la pregunta de Nora. |
+| G1-11 | `:97` (91) | INTERIORIDAD | cierre: «Nora escribió `viernes`, `28` y `Kongsbakken` debajo de las dos horas de la mañana.» → «Nora escribió `viernes`, `28`, `Kongsbakken` **y `firma`** debajo de las dos horas de la mañana.» Lo último que queda en su página es lo que necesita de su madre | +1 | Sigue siendo **una sola frase**, párrafo propio, último de la escena, con Nora de sujeto explícito. **Ver aviso de M4 abajo.** |
+| | | | **TOTAL escena 1** | **−9** | 516 → 507 |
+
+### `n4:93` · diff 0 y vecinos declarados
+
+**No se ha tocado, no se ha movido y no se le ha insertado nada al lado.** Línea 85 de hoy:
+
+> «Nora contó los días que faltaban para el viernes. Después contó las mañanas que su madre tendría que dejar libres. La secretaría abría de nueve a una.»
+
+Párrafo propio de 3 frases, verbatim. Vecino anterior: `—Hasta el veintiocho. Después ya no hay lista.` (réplica de la tutora, párrafo propio, **sin cambio**). Vecino posterior: `—¿Puedo llevarlo yo?` (réplica de Nora, párrafo propio, **sin cambio**), seguida de `—Firmado.` (**sin cambio**). **Nada se ha insertado entre `:83` y `:87`.** La prosa nueva se ha escrito alrededor, nunca en su lugar, y el techo de interioridad que A7 fija en él no se ha superado: en toda la escena Nora no nombra ni una emoción propia, no hay ni una frase de sentimiento sobre su madre, y lo único que ocurre «dentro» sigue siendo contar días y contar mañanas.
+
+### Perímetro de A7 (§11.3), punto por punto
+
+| # | condición | cumplimiento |
+|---|---|---|
+| **1** | `n4:93` verbatim y sigue siendo el ancla; techo de interioridad | ✔ diff 0, mismos vecinos. Ni un párrafo de sentimiento. La escena entera gira sobre lo que él enuncia, que es exactamente «seguir siendo el ancla» |
+| **2** | `AGENCIA` ≠ más competencia | ✔ y **baja**: Nora pierde la conclusión de `:57` (ya no compara referencias) y pierde el interrogatorio de cuatro tiempos sobre qué aviso vale (`:61`–`:65`, cuatro réplicas → una incrustada). Lo que gana es un **querer** —la convocatoria— y un intento de rebajar el coste a su madre que le conceden a medias («—Firmado.»). No resuelve ningún trámite mejor que antes: sigue sin poder entrar, sigue entregando en papel y sigue necesitando una firma que no es suya |
+| **3** | ningún adulto explica el mecanismo, se disculpa ni promete arreglarlo | ✔ la tutora dice cuatro cosas y las cuatro son procedimiento: qué hace con las hojas, qué ve cuando abre la ficha, dónde está el otro canal y hasta cuándo. «El que hay cuando abro. No puedo decirte más.» y «Desde aquí no puedo hacer más.» siguen siendo el techo, verbatim. **No hay una sola línea de consuelo en toda la escena** |
+| **4** | ningún adulto nombra a Jean, la muerte, la ceremonia ni «lo que has pasado» | ✔ cero. Ni la tutora ni nadie. No hay equivalente de «con todo lo que llevas encima» ni de «Por lo de tu hermana» (`n2:171`): en N4 la tutora **no sale del trámite ni una vez** |
+| **5** | P-20 · ninguna instancia nueva de «texto presente que no se lee» | ✔ la captura de G1-6 se entrega y se usa (es el papel que Maja pone en la fila en `:399`); no hay ningún documento que Nora mire y no abra |
+| **6** | nada nuevo sobre el altillo, la caja, la carpeta gris ni la bolsa | ✔ la escena 1 no los menciona; las escenas 3 y 5 son byte-idénticas |
+| **7** | si la escena deja de pasar por el aula 214, la imagen que la sustituya no puede espejar N2 | **No se activa: la escena sigue pasando por el aula.** Lo que sale es el **ritual**, no el sitio: desaparecen la ceremonia del mural (gris→blanco→gris pasa a una sola mención), el gesto calcado de Mikkel y «La registro yo». De los cinco pares verbatim de la tabla de calco de §2.3, **cuatro estaban ya resueltos por la poda y el quinto lo resuelve G1-7: quedan cero.** El aula no se vuelve a montar como escenario: no se enciende, no se apaga, y el único objeto que queda de ella es el que A7 marcó como el mejor material de la escena |
+
+**Condiciones de §11.1 heredadas de la poda:** **N4-1** (`:443–:455` congelado) ✔ escena 5 byte-idéntica. **N4-2** (la carpeta gris) ✔ sin cambio. **N4-3 / P-38** (`:271–:277`, «—¿Cuándo acaba lo mío?» … «—Tampoco lo dice.») ✔ escena 3 byte-idéntica; siguen siendo la única enunciación viva del coste de Jessie. **D-1** (el espejo) ✔ 483 palabras, diff 0.
+
+### G-4 · el charco (resuelto, vía B)
+
+**El charco sobrevive:** la escena conserva el aula como lugar, de modo que la corrección **no queda sin objeto** y hay que ejecutarla. Hecho, vía B de §3.5: `n4:29` «se había **vuelto a formar** el charco con forma de bota» → «se había **formado** el charco con forma de bota». **−2 palabras, `cap-n2.md` no se ha abierto** (gate de A7 (c) no se activa). Como **no hay imagen nueva** que ocupe su lugar, la condición 7 de §11.3 no aplica: la única imagen del mundo de la escena sigue siendo la misma, ahora sin remitir a un antecedente que la poda de N2 borró.
+
+### Métricas
+
+| | antes (§9.3) | después | criterio |
+|---|---:|---:|---|
+| palabras | 2.887 | **2.878** | ±15 de A0 ✔ · §6 [2.720–3.680] ✔ |
+| escena 1 | 516 | **507** | — |
+| escenas | 516·715·505·483·668 | **507·715·505·483·668** | ninguna > 800 ✔ · esc. 2–5 **byte-idénticas** |
+| diálogo global | 30,0 % | **30,0 %** (29,99) | 24–30 % ✔ (sigue en el techo, no lo cruza) |
+| diálogo esc. 1 | 25,8 % | **25,6 %** | (las cuatro secciones de familia ya estaban fuera de la banda 28–34 antes de la poda; §9.3 lo explica) |
+| tramo máx. sin diálogo | 222 | **222** | ≤ 350 ✔ |
+| M1 únicos/1.000 | 4,2 (12 términos) | **3,8 (11 términos)** | ≤ 8,5 ✔ · **0 términos nuevos**; desaparece uno (`blanco`, que solo entraba por el color del mural de `:17`) |
+| M2 | 0 | **0** | ≤ 1 ✔ (ningún término del lexicón aparece por primera vez en N4) |
+| M4 cierres-objeto | 0 | **0** | ✔ |
+| M4b antepuestas | 1,1 % | **1,1 %** | ≤ 4 % ✔ |
+| M9 | 109 spans | **109 spans íntegros** | ✔ (N4 no tiene spans propios; ninguno ajeno tocado) |
+| frontmatter | — | **validador OK, 0 avisos** | ✔ (no se ha tocado ni un campo) |
+| T7 sensibilidad | 9 B / 0 A | **9 B / 0 A, los mismos nueve** | **0 hits nuevos** (comparado contra `HEAD` en el mismo pase) |
+
+### Dos avisos que A0 y A7 deben conocer
+
+1. **M4 obligó a reescribir el cierre.** La primera versión terminaba «Nora escribió `viernes`, `28` y `Kongsbakken` debajo de las dos horas de la mañana. **Debajo puso `firma`.**» El detector de M4 marcó la segunda frase como **cierre-objeto** (arranca por «Debajo», sujeto no personal, verbo fuera de la lista blanca) y el capítulo tiene **0 cierres-objeto** como criterio de aceptación duro (§6). Se fundió en la frase única de Nora. **M4 vuelve a 0.** Queda anotado porque la regla es fácil de romper sin darse cuenta al cerrar una escena sobre una anotación.
+2. **La poda anterior tenía razón sobre el margen de diálogo.** El capítulo sigue exactamente en el techo (29,99 %). Cualquier intervención futura sobre N4 que **quite narración** lo saca de banda por arriba. G-1 se diseñó a suma cero de diálogo por esa razón: de las −9 palabras, **−9 son de narración y ±0 de diálogo neto**.
+
+### Dudas para A7
+
+- **La adyacencia Kongsbakken ↔ `9:73`.** Poner la inscripción de marzo en el centro de la escena pone **Kongsbakken** en el centro, y Kongsbakken es el asunto de la última discusión de Nora con Jean (`9:73`, `14:149`; B2 §2 (c)). **El texto no los conecta en ningún punto**: no hay una sola alusión a Jean, a la discusión, a la prueba de mayo ni a «otra vez, más despacio», y ningún adulto lo roza. La escena trata la inscripción como trámite y como querer de Nora. Mi lectura es que esto **trabaja a favor** de la Carta (devuelve a Nora un futuro propio y vivo en vez de dejarla solo como hija en duelo, y `9:65-71` ya inocula la causalidad de forma explícita), pero es una adyacencia nueva y quiero que A7 la juzgue antes de integrar.
+- **`firma` en el cierre.** La última palabra de la escena es lo que Nora necesita de su madre. No nombra ninguna emoción, no glosa nada y es una anotación de su cuaderno, pero es el punto de la escena donde más fácil sería leer sentimiento. Si A7 lo considera de más, **basta con borrar «y `firma`»** (−2): el cierre vuelve a la forma exacta que A4 dejó y la escena no pierde ninguna otra pieza.
+- **«—Las paso yo al registro —dijo.»** es la única réplica de la escena cuyo texto no venía ni de la OT ni de la poda auditada. Sustituye a «—La entrega la registro yo», el quinto par verbatim con `n2:37`. Contenido procesal idéntico; hablante, posición y función intactos.
