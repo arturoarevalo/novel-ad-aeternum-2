@@ -320,9 +320,11 @@ Y de ahí sale lo demás: **en todo el tramo 48–57 % la cena es el único obje
 - **Se pierde la proximidad metrónomo → hueco de `cap-23`.** Es el coste real de los tres y lo asumo: se cambia por la proximidad con `20:115`, que es prosa protegida del autor y llega quince capítulos después.
 - **El libro pasa a 48 capítulos.** W7 renumera de todas formas.
 
-## Título · «Sesenta»
+## Título · «Sesenta» — SUPERADO
 
-Aprobado. Es la marca del metrónomo y encaja en el registro de una palabra de Corona, Flor, Caries, Canela, Coro y Bajamar, sin nombrar la amistad ni el duelo. Frontmatter: `fecha: 2059-03-04`, `analepsis: true` — y consta que **la fecha del frontmatter no se compila**, así que es invisible para el lector.
+**Esta decisión quedó anulada el mismo día por P-58 de A7**, que no autorizó «Sesenta». El título ejecutado es **«El salero»**; el razonamiento completo está en `ordenes/OT-N7.md` §2 y en `informes/a7-w5-n3.md`. Se conserva el texto original para que el rastro de la decisión no se pierda.
+
+Aprobado en su momento. Es la marca del metrónomo y encaja en el registro de una palabra de Corona, Flor, Caries, Canela, Coro y Bajamar, sin nombrar la amistad ni el duelo. Frontmatter: `fecha: 2059-03-04`, `analepsis: true` — y consta que **la fecha del frontmatter no se compila**, así que es invisible para el lector.
 
 ## Condición
 
