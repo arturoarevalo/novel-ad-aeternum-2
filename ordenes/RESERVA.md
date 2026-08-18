@@ -101,3 +101,19 @@ Motivo del error: cancelé R5 razonando que eran «más palabras en los capítul
 Y el contenido de R5 son **micro-anclajes exteriores: imágenes**. El defecto que dos lectores fríos nombran en cap-13 es, textualmente, «tres continuidades nuevas y **ninguna imagen**», y cap-13 es el capítulo más nombrado como punto de abandono en la historia del proyecto: tres hitos seguidos. Cancelé el remedio del problema mejor documentado del libro con evidencia procedente de otro tercio del libro.
 
 Queda como aviso de método: una cancelación global justificada con evidencia local es una cancelación mal hecha. Al cancelar una reserva hay que enumerar sus destinos y decir algo de cada uno.
+
+## R3 · CERRADA EN 175/600 (decisión del autor, 2026-08-18)
+
+El autor cierra R3 con **175 palabras colocadas de 600**. Las **425 restantes no se gastan** y no vuelven a proponerse.
+
+Motivo, y el mejor no es el de A2 sino el de A7: el destino previsto del tercer beat era la elipsis de febrero del `cap-40`, es decir **inmediatamente antes de `S40-despedida`**, y producía la cadencia **«tiene amigos → no abre el archivo → alivio»**, que es el milagro terapéutico que la Carta prohíbe. **P-47** cierra ese tramo a toda inserción para siempre.
+
+A2 añade el argumento de forma: el beat habría sido la cuarta ejecución del tirón de los vivos en el mismo capítulo, pegado a un span de anclaje único, y habría subido el diálogo del capítulo del silencio.
+
+## OT-40 I-4 · CANCELADA (A0, 2026-08-18)
+
+Reorden a coste cero que **perdió su fuente en la poda de W4-R**. Se cancela en vez de ejecutarse.
+
+Razón: permuta dónde cierra una escena **a dos párrafos de `S40-despedida`**, que es uno de los 51 spans de anclaje único —M9 es ciego a todo su entorno— y está pegado al tramo que P-47 acaba de cerrar. La enmienda final a G-3 dice que reordenar al lado de una línea protegida cuenta como modificarla, así que exige una pasada entera de A7 sobre la región más delicada del libro. **Cero palabras de ganancia contra ese riesgo y ese coste: no se hace.**
+
+Queda anulada también la declaración de paragrafado n.º 13 de `w5-plan.md` §10.5, que era la suya.
