@@ -266,6 +266,8 @@ A las doce y veintitrés, Tomas abrió `INC-441` y asoció a su nombre la hoja H
 
 La interfaz advirtió de que validar cualquier petición de mantenimiento durante esa cobertura asociaría su identidad, la incidencia, la hora y la puerta. Después ya no podría figurar como observador neutral de aquel acceso.
 
+El carné seguía en el lector. Tomas leyó la advertencia dos veces. Su designación pedía lo contrario: observar hasta las doce cuarenta y siete y no figurar en ninguna parte. Un nombre asociado a una puerta no se retira después: se explica, con la clase del carné delante y una fecha al lado. La exportación preservada en enero seguía a su nombre. Las dos cosas acabarían en la misma ficha. Abrió la cartera sobre la chapa del armario y volvió a cerrarla sin sacar nada. Anotó la hora de la advertencia en la lectura local.
+
 Tomas confirmó el registro sin informar a nadie fuera de su cadena de seguridad. No conocía la llave de Gunnar ni el repetidor, y tampoco la maniobra de Jessie.
 
 Esperó.
