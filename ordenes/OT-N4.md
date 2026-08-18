@@ -425,3 +425,21 @@ Párrafo propio de 3 frases, verbatim. Vecino anterior: `—Hasta el veintiocho.
 - **La adyacencia Kongsbakken ↔ `9:73`.** Poner la inscripción de marzo en el centro de la escena pone **Kongsbakken** en el centro, y Kongsbakken es el asunto de la última discusión de Nora con Jean (`9:73`, `14:149`; B2 §2 (c)). **El texto no los conecta en ningún punto**: no hay una sola alusión a Jean, a la discusión, a la prueba de mayo ni a «otra vez, más despacio», y ningún adulto lo roza. La escena trata la inscripción como trámite y como querer de Nora. Mi lectura es que esto **trabaja a favor** de la Carta (devuelve a Nora un futuro propio y vivo en vez de dejarla solo como hija en duelo, y `9:65-71` ya inocula la causalidad de forma explícita), pero es una adyacencia nueva y quiero que A7 la juzgue antes de integrar.
 - **`firma` en el cierre.** La última palabra de la escena es lo que Nora necesita de su madre. No nombra ninguna emoción, no glosa nada y es una anotación de su cuaderno, pero es el punto de la escena donde más fácil sería leer sentimiento. Si A7 lo considera de más, **basta con borrar «y `firma`»** (−2): el cierre vuelve a la forma exacta que A4 dejó y la escena no pierde ninguna otra pieza.
 - **«—Las paso yo al registro —dijo.»** es la única réplica de la escena cuyo texto no venía ni de la OT ni de la poda auditada. Sustituye a «—La entrega la registro yo», el quinto par verbatim con `n2:37`. Contenido procesal idéntico; hablante, posición y función intactos.
+
+## 9.5 · G-9 · Se aplica la cláusula de reversión de D-1 (A0, 2026-08-18)
+
+**El espejo de N4 se retira.** Excisión de las líneas 319–388: **483 palabras, cero costura, cero ripples, cero spans tocados.** `cap-n4` queda en 2.395.
+
+**No es una decisión contra el autor: es su decisión.** D-1 no fue «conservar el espejo». Fue, literal en `informes/registro-gates-autor.md` (G-A2, punto B): «se vuelve a medir en el hito de scoring completo de W5… **si allí sigue siendo el punto de abandono de los críticos, se revierte**». El disparador ha saltado: **1 de 3 en W5, 3 de 3 en W5b**, unánime por primera vez en el proyecto. Invocar el perímetro de D-1 para proteger el espejo exigiría **derogar la cláusula que el propio D-1 le puso**. A2 lo vio y yo se lo había pasado por alto al escribirle la restricción.
+
+**Por qué el espejo y no uno de los tres acosos**, que era mi hipótesis:
+
+- Los tres acosos están gateados **sin condición** en G-A1-F; el espejo se autorizó **«solo si R4 → N4»**.
+- Ninguno sale gratis: el **2** sostiene la barca de Aslak hasta el clímax; el **3** dispara **P-38**; el **1** obliga a editar `cap-32:93` —fichero `nucleo` y ripple de W5— y **hunde M3 de la Parte III del 48,0 % al 46,7 %**.
+- El espejo sale limpio y **M3 sube al 49,1 %**.
+
+**Y hay un número que lo confirma sin depender de nadie.** A2 midió la densidad de no-respuesta —«nadie», «ninguna», «no lo dice»— por mil palabras: mediana del libro **3,1**; `cap-n4` **13,6**, el primero del libro; **la escena 4: 33,1, diez veces y media la mediana**. «Sin que ninguna decisión cambie de estado», que es lo que dicen los tres críticos, **es literalmente medible ahí**.
+
+**Añadir no era la respuesta**, aunque los críticos lo pidieran con esas palabras: G-1 ya plantó la convocatoria de marzo y el final la difiere tres veces. Lo que faltaba no era una decisión más, sino que dejara de haber una escena entera dedicada a que nada se decida.
+
+**Correcciones que acepto de A2:** P-38 está hoy en `:257–:263`, no en `:271–:277` como yo le indiqué. Y `cap-n3` **no está limpio**: ha salido de la lista de puntos de abandono, que es el criterio, pero A6-1 sigue diciendo que es «hermoso en tres momentos y demasiado largo en los otros veinte». Queda anotado para W6.
