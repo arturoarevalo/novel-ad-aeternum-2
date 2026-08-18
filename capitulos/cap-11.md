@@ -3,7 +3,7 @@ capitulo: 11
 titulo: Preservación funcional
 pov: Alana
 fecha: 2060-12-06
-estado: terminado
+estado: en_oleada
 analepsis: true
 estado_plan: E
 proteccion: nucleo

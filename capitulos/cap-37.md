@@ -3,7 +3,7 @@ capitulo: 37
 titulo: No soy un modelo
 pov: Nora → Jean → Maja → Astrid
 fecha: 2061-01-21T12:47
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: P
 proteccion: nucleo

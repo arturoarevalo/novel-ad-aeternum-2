@@ -3,7 +3,7 @@ capitulo: 25
 titulo: EDDA
 pov: Jean (interior)
 fecha: 2061-01-03
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo

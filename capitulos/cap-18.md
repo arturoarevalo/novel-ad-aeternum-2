@@ -3,7 +3,7 @@ capitulo: 18
 titulo: No determinista
 pov: Nora
 fecha: 2060-12-17
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

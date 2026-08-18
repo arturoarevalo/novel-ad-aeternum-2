@@ -3,7 +3,7 @@ capitulo: 7
 titulo: Lote rojo
 pov: Jean
 fecha: 2060-12-03
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo

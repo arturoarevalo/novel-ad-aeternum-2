@@ -3,7 +3,7 @@ capitulo: 19
 titulo: NIDHOGG
 pov: Alana
 fecha: 2060-12-19
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

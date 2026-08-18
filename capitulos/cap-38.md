@@ -3,7 +3,7 @@ capitulo: 38
 titulo: Norna
 pov: Jean
 fecha: 2061-01-21T13:07
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: P
 proteccion: nucleo
