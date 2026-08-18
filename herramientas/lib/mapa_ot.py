@@ -48,6 +48,12 @@ def main():
     tabla = {o["ot"]: o for o in json.load(open(os.path.join(aa.ROOT, "ordenes", "tabla-5-1.json"), encoding="utf-8"))["ordenes"]}
     ots = {parse_ot(p)["ot"]: parse_ot(p) for p in sorted(glob.glob(os.path.join(aa.ROOT, "ordenes", "OT-*.md")))}
     faltan = [k for k in tabla if k not in ots]
+    # OT que existen en disco pero no en la tabla 5.1 (las «b»: OT-22b, OT-25b...). El bucle de
+    # salida lo gobierna la tabla, así que sin esto quedaban INVISIBLES en el mapa: una orden real,
+    # con su Δ, que ninguna verificación veía. Un informe que calla no es un informe (mismo fallo
+    # que `sensibilidad.sh --solo` en W2). No se funden en la tabla —su Δ no está en la proyección
+    # de 5.1— sino que se reportan aparte, con su suma, para que el número siga siendo honesto.
+    huerfanas = sorted(k for k in ots if k not in tabla)
     filas = []; tot_delta = 0; por_oleada = collections.Counter(); tags = collections.Counter(); avisos = []
     for k, t in tabla.items():
         d = ots.get(k)
@@ -71,9 +77,17 @@ def main():
         for f in filas: print("| " + " | ".join(str(x) if x is not None else "—" for x in f) + " |")
         print(f"\n**Σ Δ tabla 5.1 = {tot_delta:+,} palabras** → proyección {62750 + tot_delta:,} (sin reserva). Por oleada: " +
               ", ".join(f"{k}: {v:+,}" for k, v in sorted(por_oleada.items())) + f". Etiquetas: {dict(tags)}. OT que faltan: {faltan or 'ninguna'}.")
+        if huerfanas:
+            dh = sum(ots[k]["delta"] or 0 for k in huerfanas)
+            print(f"\n**OT fuera de la tabla 5.1** ({len(huerfanas)}): " +
+                  ", ".join(f"{k} (Δ {ots[k]['delta']:+,})" if ots[k]["delta"] is not None else f"{k} (Δ —)" for k in huerfanas) +
+                  f". **Σ Δ fuera de tabla = {dh:+,}** → proyección total {62750 + tot_delta + dh:,}.")
     else:
         for f in filas: print("\t".join(str(x) for x in f))
-        print("Σ Δ", tot_delta, "faltan", faltan)
+        for k in huerfanas:
+            d = ots[k]
+            print("\t".join([k, "(fuera de tabla 5.1)", "", "—", str(d["delta"]), d["oleada"] or "", d["escritor"] or "", str(d["n_inter"]), "", ""]))
+        print("Σ Δ", tot_delta, "faltan", faltan, "fuera de tabla", huerfanas)
 
 if __name__ == "__main__":
     main()
