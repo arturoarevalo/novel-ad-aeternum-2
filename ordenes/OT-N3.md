@@ -134,3 +134,30 @@ El latido es un verbo: guardar. Maja no recuerda para el lector; recuerda porque
 **Sensibilidad:** ninguna frase marcada para A7. `sensibilidad.sh`: el único hit de nivel A del capítulo sigue siendo el intencional de 393 («efectos personales»); ningún hit nuevo.
 
 **Anotación de deriva para A0 (no corregida):** «dos veces» y el gesto de anotar sobre el reverso de un papel son ahora tics de familia repartidos por los seis capítulos nuevos; en N3 cada aparición es funcional (comprobar dos veces es carácter de Maja) y A7 cita varias con aprobación, así que solo se ha deshecho la duplicación interna de 279.
+
+## 9.2 · Poda de ritmo (W4-R)
+
+**A4 · rama `w4r-ritmo` · 2026-08-18.** Encargo de A0: **restar**, no sumar. Motivo: el eje Ritmo lleva cuatro mediciones en 7,5 y dos de los tres críticos fríos nombran N3 («la cena del metrónomo […] está enterrada bajo dos mil palabras de cartón»; «la cena justifica su existencia, no su posición»). Banda de la OT (3.325–3.675) **suspendida por orden de A0** (banda del libro relajada a 81.000 ± 1.000).
+
+**Palabras 3.572 → 2.824 (−748, −20,9 %).** **M1 2,2 → 2,1 únicos/1.000** (6 términos; baja porque se van «firma-testimonio» y «entrada»: no sube pese al recorte). **M4 = 0 cierres-objeto (igual que antes; ninguno nuevo). M4b 1,3 % (≤ 4 ✔). M9: 109 spans íntegros.** La cena pasa de **30,7 % a 38,8 %** del capítulo sin que se le toque una palabra.
+
+**Intocable y verificado literal tras la poda:** las dos frases de la bolsa y su párrafo-tampón del garaje; el reparto de 2059 con «No lo había.» y el teléfono de la leche inmediatamente después; el recuerdo de Jean viva íntegro; la cena entera (1.096 palabras, diff 0); la taza reparada; 341 (la chapa abollada), 495–499, 533–535 y el cierre del hervidor. **Perímetro C-3 de `informes/a7-w3-n3.md`: nada ha crecido en ninguna parte**; las 24 intervenciones son cortes o refundiciones a la baja con palabras ya presentes en el párrafo. Ningún objeto nuevo en cajas, altillo ni garaje; ningún contacto físico; ninguna mención de la muerte de Jean; ninguna frase nueva junto a 393/395.
+
+**Qué se ha ido (todo del inventario, nada de la cena)**
+
+| # | Tramo | −pal. | Qué se fue |
+|---|---|---|---|
+| 1 | Llegada de las cajas (19–21) | 33 | La firma en la pantalla, el reparto en el recibidor, el transportista y el peso de las cajas. Queda la etiqueta, la empresa y el pasillo como obstáculo. |
+| 2 | Salón (31–35) | 47 | La tarjeta del técnico bajo el imán (objeto de v0 sin función en N3), la aguja de la presión y la fresadora del vecino. |
+| 3 | **Caja A** (57–69) | 76 | Ciclo completo → ciclo corto: se van el doblado, el felpudo, la cuna, el mes escrito en la esquina, el hueco contra la pared corta y la escalera plegable. Quedan las toallas «viejas de casa», el altillo y «El cartón hacía más ruido que todo lo demás». |
+| 4 | **Caja B / tazas** (71–99) | 62 | El papel alisado, el borde izquierdo de la mesa, los moldes y el delantal al montón, la fuente grande, «Bajó el cartón de la caja A y volvió a por la C» y la línea de resina (ya descrita en la cena). |
+| 5 | **Nevera y táper SOPA** (103–121) | 107 | El trasteo con la puerta, el secado, la caza de la tapa, el inventario de la nevera y la lista de la puerta, el recuento de rotuladores. Queda el táper lavado y devuelto al estante que no era, la P borrada y la letra igual a la del cartón. |
+| 6 | **Cajas C, D, E** (339–389) | 74 | Los tres ciclos pasan a **una línea cada uno**: se van el nudo doble, las bolsas de dos en dos, las condiciones del contenedor textil, el inventario de papeles, los dos organismos y el mismo documento, el seguro que no abría hasta el tres, el correo redirigido, el talonario guardado, las bombillas y el paragüero al armario. Quedan la lista de cuatro palabras, la fecha del 31 subrayada y «El resto era ir». |
+| 7 | **Llamada del conserje** (351–383) | 137 | **Suprimida entera.** El hecho (las llaves, el 31, ir a las diez) ya está en 23–25 en dieciocho palabras; el resto era trámite ya narrado. |
+| 8 | Garaje y piano (391–409) | 41 | El paso libre hasta el coche, la escalera recogida, el polvo de las bisagras y el inventario del cajón del banco (cuadernos y diapasón). Queda el estudio con las dos digitaciones, que es el disparador del recuerdo. |
+| 9 | Después del recuerdo (429–443) | 25 | Los cuadernos devueltos con las tapas hacia arriba, la goma a la basura, «Nora dejó las dos cosas en la encimera». |
+| 10 | Cena de las siete (527) | 30 | La tercera consulta del autobús de la mañana (ya hay dos). |
+
+**Coser sin escribir:** ninguna frase nueva. Donde el corte dejaba un hilo suelto se resolvió con material del propio párrafo: «El calendario, al garaje» (calcado de «El felpudo, al garaje», suprimido), «impedía que la puerta cerrase» y «en el reverso de uno de ellos». Saldo neto de palabras añadidas: **0**.
+
+**Dudas para A0 / A7:** (a) A0 pedía ~2.700; me he detenido en 2.824 porque las 124 palabras restantes ya no eran repetición sino suceso (la salida de las gemelas, la mesa que deciden ellas, el temporizador). Si A0 quiere el número exacto, los siguientes candidatos por orden son: la lista de la caja B, «La puerta se cerró dos veces», la caja E entera y la radio del Lyngen. (b) A7: la única adyacencia al perímetro es el párrafo del garaje posterior a 395, que sigue siendo trabajo del garaje y solo ha perdido «con las bolsas de ropa encima. Dejó libre el paso hasta el coche». (c) Ninguna frase marcada por sensibilidad; la elipsis administrativa del capítulo queda más limpia, no menos.

@@ -14,11 +14,11 @@ orden_lectura: 22.5
 
 Maja sacó al pasillo las seis cajas del piso de Jean y abrió la primera con la uña.
 
-La ventana del salón daba un azul plano que no alcanzaba las esquinas. Maja encendió la luz del techo antes de mediodía. Ya no volvió a apagarla. La nieve del jardín tenía el mismo color que el cristal.
+La ventana del salón daba un azul plano que no alcanzaba las esquinas. Maja encendió la luz del techo antes de mediodía. Ya no volvió a apagarla.
 
-Cada caja llevaba pegada una etiqueta con el número del piso y una letra. Las trajo una empresa el martes siete. El hombre pidió una firma en la pantalla. Dejó las seis en el recibidor. No quiso pasar de la alfombra con las botas puestas.
+Cada caja llevaba pegada una etiqueta con el número del piso y una letra. Las trajo una empresa el martes siete.
 
-Llevaban tres semanas en el pasillo, contra el radiador. Había que pasar de lado para llegar a la escalera. Pesaban poco. Casi todas se movían con el pie.
+Llevaban tres semanas en el pasillo, contra el radiador. Había que pasar de lado para llegar a la escalera.
 
 El conserje del edificio había preguntado dos veces por las llaves, la última con una nota en el buzón.
 
@@ -28,11 +28,7 @@ En el salón, la tapa del piano seguía bajada. Una tecla del mi estaba un milí
 
 A las ocho venía Astrid Vik.
 
-La caldera dio dos golpes en el armario del pasillo. Maja abrió, comprobó la aguja de la presión y volvió a cerrar. La presión estaba bien.
-
-La tarjeta del técnico seguía sujeta con el imán. Debajo del número había dos fechas a bolígrafo.
-
-Al otro lado de la calle, un vecino pasaba la fresadora por el camino de entrada. El ruido llegaba a rachas. Se paraba cada vez que el hombre daba la vuelta.
+La caldera dio dos golpes en el armario del pasillo.
 
 Nora y Jessie bajaron con los abrigos puestos.
 
@@ -56,25 +52,21 @@ La puerta se cerró dos veces. La primera no encajó.
 
 Maja fue repartiendo en tres sitios lo que salía de las cajas. Junto a la puerta del garaje, lo que se iba de la casa. En el pasillo, lo que subía al altillo. Sobre la mesa del comedor, lo que aún no.
 
-La caja A traía toallas, un juego de sábanas sin estrenar y un calendario de pared del año que terminaba. Maja dejó el calendario junto a la puerta del garaje.
+La caja A traía toallas, un juego de sábanas sin estrenar y un calendario de pared del año que terminaba. El calendario, al garaje.
 
-Las toallas eran las viejas de casa, las de rayas. Los dobladillos se habían deshilachado por el mismo sitio. Maja las dobló y las puso en el pasillo. Debajo del todo había un felpudo enrollado con la goma partida. El felpudo, al garaje.
-
-Las toallas subieron al altillo en el segundo viaje. Arriba estaban los trineos de las niñas y una cuna desmontada. También las cajas del invierno anterior, con el mes escrito en una esquina.
-
-Maja apartó dos y dejó sitio contra la pared corta. La escalera plegable chirriaba en el segundo peldaño. Aguantaba de sobra.
+Las toallas eran las viejas de casa, las de rayas. Subieron al altillo, con los trineos de las niñas.
 
 Después vació la caja y la desmontó por las esquinas.
 
 El cartón hacía más ruido que todo lo demás.
 
-La caja B venía de la cocina del piso. Cuatro platos, un colador, medio juego de cubiertos, un delantal doblado, dos moldes de horno de los que en casa ya había. Debajo, cuatro tazas envueltas en papel de periódico.
+La caja B venía de la cocina del piso. Cuatro platos, un colador, medio juego de cubiertos y dos moldes de horno de los que en casa ya había. Debajo, cuatro tazas envueltas en papel de periódico.
 
-Maja las desenvolvió de una en una sobre el hule. Fue alisando el papel para volver a usarlo. La tercera taza era la que no tenía grieta. Las otras tres no eran de casa.
+Maja las desenvolvió de una en una sobre el hule. La tercera taza era la que no tenía grieta. Las otras tres no eran de casa.
 
 Debajo del papel estaban un cuenco de barro y la radio de la cocina, con el dial rayado. También el hervidor, con el cable enrollado y sujeto con una goma.
 
-Maja llevó el cuenco y la radio a la mesa del comedor y los dejó en el borde de la izquierda. El hervidor lo dejó dentro de la caja, envuelto como venía.
+Maja llevó el cuenco y la radio a la mesa del comedor. El hervidor lo dejó dentro de la caja, envuelto como venía.
 
 En 2059, Jean llenó el coche dos veces. Se llevó el hervidor, la radio de la cocina, cuatro platos, la mitad de los cubiertos y la taza que no tenía grieta. Dejó el edredón de invierno, los libros de la estantería baja, las perchas y media pared de armario vacía. Maja fue apuntando lo que salía en el reverso de un horario escolar. A mitad de la segunda vuelta dejó de apuntar. Jean preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.
 
@@ -92,31 +84,19 @@ El teléfono sonó con el papel de periódico todavía en la mano izquierda.
 
 —Vale.
 
-Las dos tazas eran del mismo juego. La de casa tenía el interior más oscuro. La línea de resina le cruzaba el fondo hasta el asa. Maja las puso una al lado de la otra en el armario. Giró las asas hacia fuera.
-
-Los platos cabían en el estante de abajo si sacaba la fuente grande. Sacó la fuente grande. Los moldes fueron al montón del garaje y el delantal, al pasillo.
-
-Bajó el cartón de la caja A y volvió a por la C.
+Las dos tazas eran del mismo juego. La de casa tenía el interior más oscuro. Maja las puso una al lado de la otra en el armario. Giró las asas hacia fuera.
 
 * * *
 
 La nevera empezó a pitar mientras Maja cortaba la cinta de la caja C.
 
-La puerta estaba abierta dos centímetros. Un táper encajado de través en el estante inferior impedía que cerrase. Maja lo empujó hacia dentro y el pitido cesó.
-
-Volvió a abrir la puerta y lo sacó. Estaba limpio y vacío. Alguien lo había lavado y lo había devuelto al estante que no era.
+Un táper encajado de través en el estante inferior impedía que la puerta cerrase. Maja lo sacó. Estaba limpio y vacío. Alguien lo había lavado y lo había devuelto al estante que no era.
 
 En la tapa seguía SOPA, escrito con rotulador azul.
 
 La P se había ido lavando hasta quedar en una raya.
 
-Maja lo llevó al fregadero. Lo secó por dentro con un paño. Después buscó la tapa. Había cuatro en el cajón y ninguna de las otras tres encajaba. Las probó todas dos veces.
-
-El congelador tenía escarcha en la puerta. La nevera, media col, un cartón de huevos y dos yogures de los que compraba Jessie.
-
-Maja apuntó lo que faltaba en la lista de la puerta. Tachó la leche, porque la leche venía de camino. La lista estaba escrita por tres letras distintas.
-
-Después abrió el cajón de los cordeles y buscó un rotulador para las cajas. Había tres. Uno estaba seco. El rojo era de las niñas. El azul seguía escribiendo.
+Después abrió el cajón de los cordeles y buscó un rotulador para las cajas. El rojo era de las niñas. El azul seguía escribiendo.
 
 Escribió COCINA en el cartón. La letra le salió igual que la de la tapa.
 
@@ -336,53 +316,15 @@ Maja esperó en la puerta hasta que salió del camino.
 
 El táper fue al armario de arriba, con los otros.
 
-La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Dejó fuera un jersey azul que no recordaba. Cerró cada bolsa con un nudo doble y las bajó al garaje de dos en dos.
+La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Dejó fuera un jersey azul que no recordaba. Salían el lunes al contenedor del aparcamiento.
 
-Salían el lunes al contenedor del aparcamiento. Allí solo admitían textil limpio y en bolsa cerrada. La manta fue a la mesa del comedor. La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.
+La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.
 
-La caja D eran papeles del piso. Recibos, el contrato del suministro, dos avisos de la comunidad y un talonario de sellos de correos.
+La caja D eran papeles del piso. Maja hizo una lista en el reverso de uno de ellos: luz, agua, seguro, buzón. Debajo escribió la fecha del treinta y uno y la subrayó.
 
-Maja hizo una lista en el reverso de uno de los avisos: luz, agua, seguro, buzón. Debajo escribió la fecha del treinta y uno y la subrayó.
+El resto era ir.
 
-La luz y el agua pedían el mismo documento. Maja lo adjuntó dos veces. Anotó los números de referencia al lado de cada palabra.
-
-El seguro no abría hasta el tres. Ese quedó el último, con una hora escrita delante. El correo del piso pasaba a esta dirección desde el día uno. Maja guardó el talonario de sellos en el cajón del teléfono. El resto era ir.
-
-El teléfono sonó cuando subía a por la caja E.
-
-—¿Maja Kvalvik? Llamo del edificio de la señora Larsson. Por las llaves.
-
-—El treinta y uno.
-
-—Nos faltaría la del trastero y la del buzón, si son distintas.
-
-—Va en el mismo llavero.
-
-—Aquí me consta un llavero de dos, y el acta de entrega dice lo mismo.
-
-—Es de tres.
-
-Se oyó un teclado al otro lado.
-
-—De tres —repitió el hombre—. Entonces está. ¿Vendrá usted o alguien de la familia?
-
-—Voy yo.
-
-—A partir de las diez hay alguien en portería. Si viene después de las cinco, no.
-
-—A las diez.
-
-—Hay que revisar el piso con el administrador antes de firmar.
-
-—¿Cuánto tarda?
-
-—Diez minutos si está vacío. Más, si hay que anotar desperfectos.
-
-—Estará vacío.
-
-Maja apuntó la hora debajo de la lista.
-
-La caja E era del cuarto de baño y del recibidor. Dos toallas más, un espejo pequeño, una caja de bombillas y un paragüero de metal. El paragüero fue al garaje y las bombillas al armario de la escalera.
+La caja E era del cuarto de baño y del recibidor. Dos toallas más, un espejo pequeño y un paragüero de metal.
 
 La F llevaba el rótulo de la empresa y se quedó cerrada.
 
@@ -394,17 +336,15 @@ La bolsa de viaje había vuelto en diciembre con la hoja de efectos personales y
 
 Maja la subió al altillo, con lo que se guardaba, y escribió la fecha en la hoja.
 
-Después apiló contra la pared lo que salía de la casa, con las bolsas de ropa encima. Dejó libre el paso hasta el coche. Cerró con llave.
+Después apiló contra la pared lo que salía de la casa. Cerró con llave.
 
-Subió la escalera plegable y la dejó recogida contra el techo. Volvió a la cocina. Metió una bandeja de patatas en el horno y giró el temporizador hasta cuarenta minutos.
+Volvió a la cocina. Metió una bandeja de patatas en el horno y giró el temporizador hasta cuarenta minutos.
 
 * * *
 
-Maja pasó el paño por la tapa del piano, por la repisa y por el borde del banco. El polvo se juntaba en las bisagras y en el borde de la partitura. No levantó la tapa.
+Maja pasó el paño por la tapa del piano y por el borde del banco. No levantó la tapa.
 
-Abrió el cajón del banco para saber qué había dentro. Quedaban dos cuadernos pautados, una goma partida, un diapasón y una carpeta con partituras sueltas.
-
-La de arriba era un estudio de los de siempre. El lápiz seguía dentro, con la goma del extremo mordida. En el margen había dos digitaciones distintas y una tercera tachada con un surco.
+Abrió el cajón del banco. En la carpeta de las partituras sueltas, la de arriba era un estudio de los de siempre. El lápiz seguía dentro, con la goma del extremo mordida. En el margen había dos digitaciones distintas y una tercera tachada con un surco.
 
 El cuatro grande era de Jean.
 
@@ -428,7 +368,7 @@ Maja cerró el grifo para oír el final.
 
 Después dejó la carpeta en el banco y el lápiz encima.
 
-Los dos cuadernos volvieron al cajón con las tapas hacia arriba. La goma partida fue a la basura. La caldera arrancó al otro lado de la pared. Dio los dos golpes de siempre.
+La caldera arrancó al otro lado de la pared. Dio los dos golpes de siempre.
 
 La puerta del recibidor se abrió a las cinco menos diez. Nora entró primero, con la leche y una bolsa de pan. Jessie dejó las botas de lado en el felpudo. Nora las puso rectas al pasar.
 
@@ -440,7 +380,7 @@ La puerta del recibidor se abrió a las cinco menos diez. Nora entró primero, c
 
 —Cuatro coronas —dijo Jessie—. Y el pan lo llevaba yo.
 
-Nora dejó las dos cosas en la encimera. Comprobó el ticket contra el precio de la estantería. Salía lo mismo.
+Nora comprobó el ticket contra el precio de la estantería. Salía lo mismo.
 
 Jessie se paró delante de las cajas abiertas del pasillo y no se quitó el abrigo.
 
@@ -523,8 +463,6 @@ Maja sacó del horno la bandeja con el paño y la dejó sobre los fogones.
 El temporizador siguió corriendo hasta cero. Maja lo paró con el pulgar. Puso tres platos, cortó el pan y llamó a las chicas.
 
 Cenaron a las siete. Arriba sonaba la radio, más baja que las voces de la mesa. Jessie apartó el borde quemado de las patatas y se las comió igual.
-
-Nora preguntó si el autobús de la mañana pasaba a las nueve y cuarto o a las nueve y media, y Maja le dijo que lo mirase antes de dormir.
 
 Jessie fregó y Nora secó detrás de ella.
 

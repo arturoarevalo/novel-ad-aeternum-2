@@ -130,3 +130,22 @@ Muestra binaria de 16 réplicas nuevas (8 Nora / 8 Jessie), sin acotación, repa
 **Sensibilidad:** ninguna frase marcada para A7. Ningún hit nuevo; la frase de estigma sigue cortada donde estaba y el pie de la publicación no ha cambiado.
 
 **Anotación para A0 / A8 (M6, T4):** las dos pasadas ciegas de `m6-atribuidor` sobre las réplicas de N2 que constan en el material de trabajo de A3b dieron **12/16 y 10/16 (75 % y 62,5 %)** para el par Nora/Jessie, por debajo del objetivo de 80 %. Los fallos no son de vocabulario sino de tema (las dos hablan del mural, de la cuenta y del recuento). El cambio 4 ataca el caso más claro; el resto excede una pasada de línea y conviene medirlo con el protocolo completo de M6b antes del gate.
+
+## 9.2 · Poda de ritmo (W4-R)
+
+**A4 · rama `w4r-ritmo` · 2026-08-18.** Encargo de A0: restar. Diagnóstico del crítico frío: N2 «hace un trabajo temático real —el duelo convertido en gasto social— pero lo hace dos veces, en el aula y en el pasillo».
+
+**Palabras 1.946 → 1.687 (−259, −13,3 %).** **M1 0,51 → 0,59 únicos/1.000** — sube por aritmética pura: el capítulo tiene **un** término del lexicón (`SYNVEV`, dentro del pie de la publicación, intocable) y al bajar el denominador la ratio se mueve; sigue diez veces por debajo del techo de la OT (≤ 6,0). **M4 = 0 cierres-objeto (sin cambio). M4b 0,0 %. M9: 109 spans íntegros.**
+
+**Qué mitad soporta el peso: la de Jessie (pasillo + murete).** Es donde el estigma tiene cuerpo y precio —la frase cortada, la casi-pelea que no consigue nada, el parte, la rabia que nadie corrige, el recuento que sube mientras Nora lee— y donde están cuatro de los cinco elementos que A0 declaró intocables. **La mitad que adelgaza es la de Nora**, y dentro de ella el peso del recorte cae en la **escena 3 (el despacho)**, que volvía a contar por boca de una adulta lo que el aula ya había mostrado y lo que el murete iba a mostrar mejor. El aula conserva íntegro lo que solo ella puede dar: el nombre en gris entre veintisiete blancos.
+
+| Escena | Antes | Después | Qué se fue |
+|---|---|---|---|
+| 1 · Aula (Nora) | 501 | 418 | La mochila y el abrigo sobre el respaldo; los cristales y el charco con forma de bota; la ventilación del proyector y el intervalo medido (tercer conteo de Nora en dos páginas); los terminales a la bandeja de carga. Intactos: la cuenta en gris ante el grupo, las hojas en papel, «La hoja no tenía plazo» y la siembra de N4 («Después de las vacaciones» / «Nosotros abrimos el tres»). |
+| 2 · Pasillo (Jessie) | 507 | **507** | **Diff 0.** Es la mitad que soporta el peso. |
+| 3 · Despacho (Nora) | 438 | 299 | El mobiliario del despacho; el calendario de exámenes; «Buscó la ficha en el terminal» y «abrió la lista de faltas y la cerró sin leerla» (tercera y cuarta variación del mismo gesto de la adulta que no pregunta, que ya está en «La tutora no preguntó qué había hecho Nora con la cuenta» y en «La tutora no preguntó por la de ayer»); la taza movida; «¿Cuándo?» / «¿Quién la publicó?»; **el bloque entero de los exámenes del lunes**, que el murete vuelve a hacer en tres réplicas; la grapadora que no cerraba. Intactos: el parte boca arriba entre las dos, el reverso con el apartado de origen y el lápiz al bolsillo, «Fuera no», «empiece por Jessie», los dos números de contacto de septiembre y «la ceremonia» / «Nora no la corrigió». |
+| 4 · Murete | 500 | 463 | Solo dos duplicados: el autobús de la marquesina (hay otro en la rampa) y las dos chicas de 1STC que miran (el grupo de primero que baja la voz hace lo mismo doce líneas después, y mejor); y la tercera mención del parte en el bolsillo. Intacta la escena. |
+
+**Coser sin escribir:** ninguna frase nueva; solo supresiones y dos refundiciones con palabras del propio párrafo («La tutora unió las dos hojas de Nora con un clip»). Palabras añadidas: **0**.
+
+**Dudas para A0 / A7:** (a) el bloque de la fotografía en el despacho se ha conservado recortado y no suprimido porque «volvió a decir “la ceremonia”» (cierre de escena) necesita que la tutora la haya dicho antes. (b) A7: ninguna de las líneas dictaminadas en `informes/a7-w3-n2-n6.md` §1 se ha tocado; las condiciones prospectivas P-3 (los dos números de contacto) y P-5 (la captura que no se reenvía) siguen literales. (c) Ninguna frase marcada por sensibilidad.
