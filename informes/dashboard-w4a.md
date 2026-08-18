@@ -1,6 +1,6 @@
 # Dashboard de métricas · w4a
 
-_Generado 2026-08-17T22:55:07 · baseline de comparación: v0_
+_Generado 2026-08-18T05:32:07 · baseline de comparación: v0_
 
 ## M8 · Palabras
 
