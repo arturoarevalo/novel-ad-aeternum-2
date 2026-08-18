@@ -3,7 +3,7 @@ capitulo: 40
 titulo: Sombra
 pov: Nora
 fecha: 2061-02-03
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: R
 proteccion: nucleo

@@ -3,7 +3,7 @@ capitulo: 34
 titulo: Soldagen
 pov: Tomas → Alana → Astrid → Tomas → Alana
 fecha: 2061-01-21T08:51
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo

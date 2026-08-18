@@ -3,7 +3,7 @@ capitulo: 39
 titulo: Depósito
 pov: Astrid
 fecha: 2061-01-22
-estado: aceptado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
