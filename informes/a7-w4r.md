@@ -171,3 +171,23 @@ Ejecutada, releo únicamente ese diff (no el capítulo) y levanto la condición.
 **Sin veto.** Las recomendaciones de §4 (N6) y las de §1 marcadas `vigilar` **no bloquean**: son de A0 y de A2. Las condiciones **P-34 a P-37** son vinculantes para W5, W6, W7 y toda OT futura, y se suman a C-1…C-4 (W3), P-1…P-10 (W3) y P-12…P-33 (W4), que esta oleada no ha levantado.
 
 Firmado, **A7** · 2026-08-18 · sobre `w4r-ritmo` @ `ab52336` + el arbitraje de 40:145 en árbol de trabajo.
+
+---
+
+## 10. Segunda lectura (diff de la corrección) · 2026-08-18
+
+**Objeto:** `git show 8458d81 -- capitulos/`. Lectura de diff, no del capítulo, más auditoría de paragrafado sobre todo el perímetro.
+
+**1. `n3:321` — ejecutada por la vía (A).** «…Salían el lunes al contenedor del aparcamiento. **La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.**» La frase recupera su posición final de párrafo dentro del trabajo de la caja C. Verificado: **2.860 → 2.860 palabras, cero tokens añadidos, cero retirados** — es una unión de párrafo, no una reescritura. La abolladura no se atribuye. **Condición cerrada.**
+
+**2. `n6:219-223` — retirado el trío.** −12 palabras, ningún token nuevo. La tienda termina en «La cajera dobló el recibo y saludó por su nombre al hombre que esperaba detrás». **«antes de cerrar el paso» aparece ahora una sola vez en el capítulo**, en el varadero, y la evaluación de lo ganado queda en «—Eso no es nada. / —Es un aviso —dijo Aslak—. Coge por el otro extremo.» Conservados la cajera y «Mi padre alegó en el cincuenta y siete. Le contestaron dos años después.», que era lo que valía. `NO SOY UN MODELO`, los dos renglones corridos (P-7) y «Nadie lo corrigió» (Ap. A §3), intactos.
+
+**Auditoría de paragrafado (P-37, aplicada a sí misma).** Ninguna línea del perímetro ha quedado sola por efecto de la corrección. Las cuatro que siguen siendo párrafo propio —«No lo había.», las dos frases de la bolsa y «Jessie no cogió nada.»— **lo eran ya en la redacción que autoricé en W3**: P-37 prohíbe que una línea *quede* aislada por un corte vecino, no afecta a las que se autorizaron aisladas.
+
+**Comprobaciones repetidas:** C-2 y C-3 completos, literales (22/22). Espina P-36 completa: cajas A, B, C, D, E, F, «El piso se devolvía el treinta y uno», «El resto era ir.». **M9 OK · 8 ficheros · 109 spans.** T7: **1 hit de nivel A**, el intencional de la bolsa (ahora `n3:333` por desplazamiento de línea); ningún hit A nuevo.
+
+# CONDICIÓN LEVANTADA · W4-R **APROBADO** sin condiciones pendientes
+
+Sin veto. P-34, P-35, P-36 y P-37 siguen vigentes hacia adelante, junto con C-1…C-4 (W3), P-1…P-10 (W3) y P-12…P-33 (W4).
+
+Firmado, **A7** · 2026-08-18 · sobre `w4r-ritmo` @ `8458d81`.
