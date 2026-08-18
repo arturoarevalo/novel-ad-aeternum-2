@@ -3,7 +3,7 @@ capitulo: 2
 titulo: La pecera
 pov: Jean
 fecha: 2060-11-26T09:00
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: R
 proteccion: nucleo
@@ -156,6 +156,8 @@ Jean deslizó el pulgar por la costura del pantalón. La tela raspó una pequeñ
 
 —El domingo.
 
+El domingo Nora había puesto la mesa deprisa, con los cubiertos del revés. Jessie fue detrás girándolos uno a uno, sin decírselo, y se saltó el último. Jean lo giró al sentarse.
+
 —¿Tienes previsto verlas este fin de semana?
 
 —Aún no lo hemos organizado.
@@ -182,7 +184,7 @@ El cristal recuperó transparencia. EDDA todavía formuló dos preguntas sobre a
 
 La puerta se abrió.
 
-Durante un instante nadie en el pasillo pareció estar mirándola. Después reanudaron el tráfico alrededor de la pecera con demasiado empeño. La mujer de la caja ya no estaba. Quedaba una servilleta dorada junto al ascensor y el paraguas seguía goteando en un paragüero que había fallado al intentar plegarlo.
+Durante un instante nadie en el pasillo pareció estar mirándola. Después reanudaron el tráfico alrededor de la pecera con demasiado empeño. Un hombre con una tableta bajo el brazo esperaba fuera. Jean le sostuvo la puerta. Él le dio las gracias, entró y se quedó de pie junto a la silla. La mujer de la caja ya no estaba. Quedaba una servilleta dorada junto al ascensor y el paraguas seguía goteando en un paragüero que había fallado al intentar plegarlo.
 
 Eirik, del equipo de validación, alzó su vaso cuando Jean pasó.
 

@@ -3,7 +3,7 @@ capitulo: 15
 titulo: Canela
 pov: Jean
 fecha: 2060-12-12
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -14,7 +14,7 @@ orden_lectura: 15
 
 La microetiqueta equivocada supera la validación.
 
-La tarea muestra una funda usada. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
+La tarea muestra una funda de guitarra usada, fotografiada sobre una cama sin hacer para un tablón de segunda mano. El asa está reforzada con cinta y en el forro hay un helecho bordado, descosido por un lado. No hay guitarra dentro. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
 
 La salida se cierra sin corrección. El descriptor secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
 
@@ -45,6 +45,8 @@ Las teclas negras del piano de Nora.
 En la unidad siguiente, las tres palabras siguen en su estado local. Ignora si han salido de la tarea. Llamarlo mensaje inventaría una entrega.
 
 Conserva la secuencia y deja de repetirla. Si Armstrong detecta recurrencia, aprenderá la pauta antes de que exista una destinataria capaz de cambiarla.
+
+Una cuarta palabra cabe en el mismo campo. Jean la retiene. Tres etiquetas sueltas pueden pasar por descuido de catálogo; la cuarta enseñaría el orden. Comprueba que ninguna de las tres haya vuelto en las unidades posteriores. Repasa la secuencia sin escribirla.
 
 Jean sigue trabajando.
 
@@ -140,6 +142,8 @@ La nueva tarea procede de una aplicación ordinaria.
 
 Una persona aceptó hace tiempo que el sistema conservara sus preferencias. Desde entonces, varias sesiones terminaron con la opción cerrada y sin respuesta. La regla interpreta ese silencio como continuidad del consentimiento y recomienda reactivar un servicio de asistencia personalizado.
 
+El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y bajar los envases al final. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
+
 `REACTIVACIÓN RECOMENDADA`
 
 Jean no conoce la voluntad actual de la usuaria. Puede validar la inferencia o registrar una objeción bajo su propio origen. La segunda opción abre una revisión cautelar y suspende mientras tanto las prestaciones vinculadas a ella.
@@ -176,6 +180,8 @@ Intenta retirar su incidencia.
 
 La recomendación dudosa no cruzará. La suspensión procede del acoplamiento que Armstrong diseñó entre consentimiento y prestación. Jean no puede separar el servicio de la revisión ni devolver a la desconocida lo que acaba de perder.
 
+Mañana no habrá avisos.
+
 Debajo sigue el identificador 71-K. Ningún canal permite preguntar a la persona qué necesitaba hoy.
 
 * * *
@@ -187,6 +193,8 @@ Debajo sigue el identificador 71-K. Ningún canal permite preguntar a la persona
 * * *
 
 `RECURRENCIA SEMÁNTICA DETECTADA`
+
+Jean no necesita el detalle. Sabe qué se ha repetido y en qué campo.
 
 La siguiente tarea se retira antes de mostrar una entrada.
 

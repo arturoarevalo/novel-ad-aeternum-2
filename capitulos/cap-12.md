@@ -3,7 +3,7 @@ capitulo: 12
 titulo: Gunnar
 pov: Nora
 fecha: 2060-12-09
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -16,7 +16,7 @@ Deja de subir fotos si quieres que siga respondiendo.
 
 Nora leyó el mensaje bajo el toldo de una farmacia cerrada. La nieve de la acera devolvía el verde de la cruz y volvía enfermas las manos que sostenían el terminal.
 
-El remitente conocía los cuatro recortes que ella conservó antes de que Armstrong le suspendiera la cuenta. Dos días de frases sin firma: una pregunta de Nora, una instrucción seca, otra pregunta que quedaba sin contestar. Nada que permitiese decidir si al otro lado había una persona o un sistema automático con acceso a sus archivos.
+El remitente conocía los cuatro recortes que ella conservó antes de que Armstrong le suspendiera la cuenta. El primero había llegado el martes por la tarde. Nora había contestado cuatro minutos después. Dos días de frases sin firma: una pregunta de Nora, una instrucción seca, otra pregunta que quedaba sin contestar. Nada que permitiese decidir si al otro lado había una persona o un sistema automático con acceso a sus archivos.
 
 Llegó una segunda línea.
 
@@ -107,6 +107,14 @@ Nora dejó el abrigo puesto. Jessie ocupó la silla que permitía ver la entrada
 —El primero. Puse «enrutamiento». Me equivoqué.
 
 Gunnar miró la barra antes de continuar.
+
+—El segundo iba a…
+
+La puerta se abrió a su espalda. Entró un chico con una bolsa de deporte y se puso el último en la barra. Gunnar dejó la frase a medias, con la boca todavía abierta. No se volvió. Tenía las manos planas sobre el folio y esperó así hasta que el chico pidió, pagó y se apartó hacia el fondo. El papel se arrugó debajo, en el borde. Nora contó catorce segundos.
+
+—Es solo la puerta —dijo Jessie.
+
+Gunnar no contestó. Volvió a hablar más bajo.
 
 —El segundo no llegó a presentarse.
 
@@ -220,7 +228,7 @@ Su hermana no miraba a Gunnar. Atendía a la calle.
 
 —Seguirla.
 
-Gunnar plegó el folio en cuatro. Esta vez la taza se movió cuando la rozó y el café dejó una media luna en el plato.
+Gunnar plegó el folio en cuatro. La taza seguía llena hasta la misma altura que cuando se sentaron. En toda la tarde no la había levantado ni una vez, y el plato de debajo seguía limpio, sin cerco. Esta vez la taza se movió cuando la rozó y el café dejó una media luna en el plato.
 
 —Se acabó.
 

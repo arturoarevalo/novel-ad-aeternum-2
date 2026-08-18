@@ -3,7 +3,7 @@ capitulo: 10
 titulo: Caries
 pov: Nora
 fecha: 2060-12-05
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: R
 proteccion: nucleo
@@ -20,7 +20,7 @@ En la imagen, las gemelas tenían nueve años y esperaban el ferry sentadas sobr
 
 De pequeña, Nora había llamado caries a las teclas negras del piano. Jean había tocado tres y contestado que esas teclas hacían morder a la canción.
 
-Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Faltaban cuarenta y siete minutos para el cierre. La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
+Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Nora no había vuelto al instituto desde noviembre. Las tareas de tutoría se entregaban desde casa: era lo único suyo que aún contaba mientras faltase. En la lista de 1STA, las demás entregas llevaban dos días encendidas. Faltaban cuarenta y siete minutos para el cierre. Arriba del hilo seguía el mensaje de la tutora, sin fecha: «Cuando vuelvas, retomamos por donde lo dejaste». La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
 
 El revisor de la propia red aprobó formato, tamaño y metadatos. Nora sustituyó el borrador por esa copia y volvió a enviarla desde el álbum.
 
@@ -205,6 +205,8 @@ El dispositivo vibró sobre la tapa del piano.
 `La actividad reciente requiere verificaciones adicionales. Su cuenta está en revisión.`
 
 Nora anotó la referencia de incidencia y la hora del aviso. Comprobó que los archivos locales se abrían y desconectó la carpeta escolar. Al volver a la red, el álbum había desaparecido del menú. El historial de cargas dejó de estar disponible y el enlace de soporte devolvió la pantalla de acceso.
+
+La tarea seguía entregada. La foto de la parada continuaba en la bandeja de la tutora, con su hora y su nombre al lado. Lo que la plataforma marcase junto a ese nombre iba a verlo el grupo antes que ella.
 
 Metió el cuaderno entre los ejercicios de armonía. En el papel, las dos series seguían enteras.
 

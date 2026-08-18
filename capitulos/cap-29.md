@@ -3,7 +3,7 @@ capitulo: 29
 titulo: La poda
 pov: Astrid
 fecha: 2061-01-09
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -86,11 +86,13 @@ Astrid dejó la orden sobre la mesa.
 
 La resolución llegó cuarenta minutos después. Aceptaba el riesgo irreversible, pero la ley de la TKS no sostenía la pretensión sobre las ejecuciones y el expediente no permitía acotar la prohibición. Denegaba la medida por competencia, fundamento y proporcionalidad.
 
-Astrid embolsó primero R-1189. La fecha de la orden seguía a once días de distancia.
+La fecha de la orden seguía a once días de distancia. Astrid embolsó primero R-1189.
 
 * * *
 
 El ministerio llamó cuando aún estaba en el pasillo.
+
+El número no figuraba en el directorio de la TKS. Quien llamaba coordinaba el programa ÆGIR con la industria. Dio el cargo y no dio el nombre. Al otro lado se oyeron una puerta y un ascensor. Astrid consignó la hora y el cargo en la incidencia.
 
 —Conviene que coordinemos los siguientes pasos. Hay implicaciones europeas, certificaciones y empleo.
 
@@ -106,6 +108,14 @@ El ministerio llamó cuando aún estaba en el pasillo.
 
 —Y deberías mantener esa precisión fuera del juzgado.
 
+—El veintiuno hay acto y hay delegaciones. Ese día, antes de cualquier actuación, coordinas conmigo. Una llamada basta.
+
+—Puedo comunicar una actuación. No puedo condicionarla a una llamada.
+
+—Nadie te pide eso. Te pido que no coincida. En esta planta se cierra el calendario, y detrás del calendario hay empleo.
+
+—Consignaré su petición con la hora.
+
 —Mientras tanto, iniciaremos una orden condicional de custodia estratégica que solo se activaría ante una manifestación pública verificable.
 
 El vocabulario había cambiado poco desde 2054. Astrid esperó entonces una reproducción que nunca llegó y archivó el caso.
@@ -114,7 +124,11 @@ El vocabulario había cambiado poco desde 2054. Astrid esperó entonces una repr
 
 —Hablaremos mañana.
 
+Alguien lo llamó por el cargo desde el fondo de su pasillo. Tapó el micrófono.
+
 La llamada terminó.
+
+Astrid se quedó con el terminal en la mano hasta que la pantalla se apagó sola. Marcó en la resolución las dos líneas que podía comunicar: la fecha y la acción. El resto siguió debajo de la carpeta, sobre los cuatro papeles del tres de enero que le había mandado la familia.
 
 Astrid buscó el número de Maja Kvalvik. Ocupó el banco del pasillo con la carpeta entre las rodillas.
 

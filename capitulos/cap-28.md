@@ -3,7 +3,7 @@ capitulo: 28
 titulo: El mismo trayecto
 pov: Nora
 fecha: 2061-01-07
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -100,6 +100,14 @@ Aslak escuchó el resto sin interrumpir. Al terminar, señaló una mesa cubierta
 
 Maja observaba la toma, Aslak separaba el tránsito ordinario y Jessie vigilaba el acceso y las matrículas. Nora llevaba las horas. Abrió el cuaderno a las 17:32. Hasta las 19:17 solo consignó tráfico común.
 
+Aslak sacó un termo y sirvió café en el tapón. Dio la vuelta entera y volvió vacío.
+
+Jessie se sentaba sobre las manos, de espaldas a la barandilla, y se levantaba cada pocos minutos a mirar el acceso.
+
+Nora escribía apoyando el cuaderno en la mesa de sal seca. La página se llenó de horas iguales. El vaho cubría las lentes y Aslak las limpiaba con el forro del gorro.
+
+—Esto es un ensayo de esperar —dijo Jessie.
+
 Un cisterna entró a las 19:17. Siete minutos después arrancó un generador; una furgoneta salió y otra ocupó su lugar. Nora anotó hechos y, entre corchetes, explicaciones posibles.
 
 —La camioneta gris ha pasado dos veces —dijo Jessie—. La segunda, más despacio.
@@ -146,6 +154,24 @@ Nora lo sacó. La ruta autorizada mostraba por primera vez un archivo de audio. 
 
 Nora dejó el dispositivo sobre el banco, con la pantalla orientada hacia ellas, y continuó tomando horas.
 
+La mano izquierda se le quedó sobre la rodilla, repitiendo tres posiciones. El pulgar no se movía.
+
+—¿Ya hay fecha para la repesca? —preguntó Maja.
+
+—En marzo. El día lo dan al cerrar la lista.
+
+—Te dejo las mañanas.
+
+—No hace falta todas.
+
+—Anotado —dijo Jessie.
+
+Otra furgoneta salió mientras hablaban. Nora la apuntó sin matrícula y puso un signo al lado.
+
+—Esa no la tengo entera —dijo.
+
+Escribió los meses que faltaban al margen de la columna y siguió con las horas. El segundo generador sonaba al otro lado.
+
 A las 21:08, un operario cerró el acceso a la bocana. El cisterna no salió hasta las 21:16 y dejó detrás los dos generadores encendidos.
 
 —Más actividad que en mis observaciones de la semana pasada —dijo Aslak.
@@ -162,7 +188,7 @@ Aslak se llevó las pilas y las latas que le correspondían.
 
 A las 21:49 exactas, Maja arrancó. Llevaban cuatro minutos de retraso.
 
-Se separaron en el cruce. Aslak giró hacia el refugio. Ellas siguieron en dirección a Svensby, con el dispositivo reintentando la descarga bajo la tapa de la mochila.
+Se separaron en el cruce. Aslak giró hacia el refugio. Ellas siguieron en dirección a Svensby.
 
 * * *
 
@@ -191,6 +217,12 @@ La rampa ya se había levantado. El ferry avanzaba de costado para separarse del
 —Y para cogerlo haríamos este tramo dos veces más sobre hielo. Nos quedamos aquí.
 
 Maja apartó el coche junto al edificio cerrado. Sacaron mantas y reclinaron los asientos. Nora corrigió la vuelta prevista con una cifra: 22:42.
+
+La pantalla de la máquina de billetes estaba apagada. Jessie subió la manta hasta la barbilla y bajó el respaldo del todo.
+
+—Zapatos fuera —dijo Maja.
+
+Nora dejó el cuaderno en el salpicadero, con el lápiz dentro, y apagó la luz interior.
 
 El dispositivo educativo vibró entre las manos de Nora. Jessie se inclinó desde el asiento trasero. Maja encendió la luz interior.
 

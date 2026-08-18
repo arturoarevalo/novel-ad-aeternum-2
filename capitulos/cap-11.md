@@ -3,7 +3,7 @@ capitulo: 11
 titulo: Preservación funcional
 pov: Alana
 fecha: 2060-12-06
-estado: terminado
+estado: aceptado
 analepsis: true
 estado_plan: E
 proteccion: nucleo
@@ -30,7 +30,7 @@ El consejero de Kronfjord amplió la primera banda.
 
 —¿SPEIL es el modelo?
 
-—El programa longitudinal de Jean. El Corpus conserva el material, la Matriz prepara el arranque, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
+—El programa longitudinal de Jean. El Corpus conserva el material: once años de sesiones semanales, todo lo que SPEIL registró de ella hasta la última sesión. La Matriz prepara el arranque con eso, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
 
 El consejero señaló el icono de EDDA, fuera de las cinco bandas.
 
@@ -144,6 +144,16 @@ Mats había detenido la presentación. Ella seguía con el vaso en la mano, aunq
 
 En pantalla aguardaba su texto. Rendimiento excepcional, estabilidad dentro de parámetros, apto para despliegue supervisado. No mencionaba las voces tras la cifra verde.
 
+Lo había redactado el lunes por la mañana. El calendario mantenía convocadas la reunión presupuestaria de las nueve y media y una cita anterior que pedía aceptación o rechazo explícitos. Alana declinó la cita. Dejó la reunión donde estaba.
+
+Los demás leían aquellas tres líneas por primera vez. El consejero de Kronfjord siguió la última con el dedo en su tableta.
+
+—¿Consta en el acta la fecha de envío? —preguntó Alana.
+
+—Constan la fecha y la hora —respondió EDDA.
+
+Mats esperó su respuesta sin repetir la pregunta. Nadie pidió el texto completo.
+
 —La mantengo con una condición —dijo—. Revisión independiente de las instancias JM-L antes de congelar la versión de lanzamiento.
 
 La consejera de Kronfjord Kapital consultó el orden del día, abierto en la tableta frente a ella.
@@ -230,6 +240,8 @@ Seis manos se alzaron. Alana mantuvo la suya sobre la mesa hasta que el sistema 
 
 La mayoría ya estaba formada. Votar en contra la dejaría fuera del acuerdo que contenía su revisión y el criterio de suspensión.
 
+Los dedos quedaron extendidos sobre la mesa, el índice recogido bajo los demás. El campo nominal esperaba encendido y vacío; aceptaba una marca o una palabra. Las seis manos siguieron en alto. Los otros nombres ya llevaban su marca verde. Nadie la miró. Henrik pasó una página de sus notas. El acta seguía abierta por el apartado de salvaguardas. El cursor de Mats no se había movido de allí. El pulso le llegaba a la yema del índice, contra la mesa. No movió el brazo.
+
 —A favor —dijo.
 
 Una marca verde apareció junto a Armstrong, Alana. El acuerdo quedó aprobado por unanimidad. Henrik corrigió el texto de la propuesta y añadió «con gratitud» antes del nombre de Jean.
@@ -299,6 +311,8 @@ Mats aportó el segundo voto. Alana exigió suspender el contacto identificable 
 —También te aparta a ti —dijo Mats—. Conflicto de interés.
 
 La dirección de Maja seguía cargada en el vehículo. Alana podía aceptar la neutralidad o retirar su petición y devolverle el turno a Seguridad.
+
+En la pantalla del comunicador, el vehículo ofrecía dos opciones: iniciar o descartar. Debajo, los minutos hasta el portal. La dirección llevaba escrito hasta el número del piso. Alana no tocó ninguna de las dos opciones.
 
 —Acepto.
 

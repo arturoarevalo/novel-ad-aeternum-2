@@ -3,7 +3,7 @@ capitulo: 19
 titulo: NIDHOGG
 pov: Alana
 fecha: 2060-12-19
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -52,7 +52,7 @@ Alana apagó la tableta. El motor transmitía una vibración regular a través d
 
 —La auditoría evita parar toda la instalación por una ampliación.
 
-Durante el resto del cruce, Mats repasó la auditoría. No mencionó a Jean.
+Mats repasó la auditoría durante el resto del cruce. No mencionó a Jean.
 
 Continuaron por la península. En Lyngseidet, un quitanieves los obligó a reducir la marcha junto a la gasolinera. Más adelante desaparecieron las fachadas y quedaron los reflectores hundidos en nieve sucia, la pared de la montaña y, al otro lado, el Lyngenfjord bajo la luz azul del mediodía. La carretera se estrechó camino de Koppangen.
 
@@ -94,7 +94,7 @@ La mujer tocó tres controles. Las curvas de consumo cedieron espacio a una cuad
 
 DIVERGENCIA. ESTABILIDAD. FRICCIÓN COGNITIVA.
 
-Bajo la cuadrícula, otra franja distribuía la carga entre trabajo interno y servicios externos. El bloque del programa europeo de defensa ÆGIR mostraba tráfico en curso.
+Otra franja distribuía bajo la cuadrícula la carga entre trabajo interno y servicios externos. El bloque del programa europeo de defensa ÆGIR mostraba tráfico en curso.
 
 El encabezado fijaba la relación: ARGOS prestaba el servicio de recomendación al piloto, cuyo personal acreditado retenía la decisión formal. NIDHOGG aportaba la carga de inferencia.
 
@@ -170,9 +170,13 @@ Alana recorrió las celdas relacionadas. Cada una llevaba la raíz `JM-L` y un s
 
 Una puerta automática comunicaba Operaciones con la galería de observación. Mats pasó su tarjeta y la hoja de cristal se apartó. Entraron.
 
-Tras una segunda pared transparente, una operaria empujaba un carro de filtros entre los armarios negros. Al fondo, un panel repetía la carga total sin nombres.
+El aire estaba más seco que en Operaciones y varios grados por debajo. El ruido de los ventiladores se volvía más grave a este lado. Mats quedó medio metro detrás, a su izquierda.
 
-Tras el cristal, la operaria consultó su tableta y cambió un filtro. Esperó al verde antes de embolsar el usado.
+Una operaria empujaba un carro de filtros entre los armarios negros, detrás de una segunda pared transparente. Un panel del fondo repetía la carga total sin nombres.
+
+La operaria consultó su tableta y cambió un filtro. Esperó al verde antes de embolsar el usado.
+
+Alana se acercó hasta un paso del cristal. Cambió de mano la tableta apagada y la sujetó contra la cadera. La fila de armarios más próxima le llegaba por encima de la cabeza.
 
 —Nueve días, cuarenta y dos mil evaluaciones y un dieciocho por ciento menos de falsos positivos —dijo Mats.
 
@@ -197,6 +201,8 @@ Mats miró los armarios.
 Alana apoyó la palma en el cristal. Tibio. Bajo la mano, la vibración mantuvo su frecuencia. A dos metros, una fila de luces cambió del verde al blanco y volvió al verde. El contacto no produjo nada en la pantalla de Operaciones ni al otro lado.
 
 Un conducto ancho cruzaba el techo de la sala y entraba en la pared orientada al fiordo. Alana lo siguió con la vista hasta que el metal desapareció. En el esquema de la galería, el circuito marino abierto —toma, intercambiador, retorno— aparecía separado de los dos lazos interiores cerrados y redundantes. La barra naranja de `JM-L/0000` permaneció inmóvil a una fracción del límite. Mats aguardaba a su lado.
+
+La palma siguió donde estaba. El calor del cristal y el de la mano se igualaron hasta que dejó de haber diferencia. Alrededor de los dedos no se formó vaho. Alana despegó el meñique, lo apoyó de nuevo y el cristal devolvió lo mismo. La operaria pasó por segunda vez con el carro y no miró hacia la galería.
 
 Retiró la mano.
 
@@ -253,6 +259,8 @@ La tarjeta naranja vibró contra la solapa de Alana. La voz de EDDA salió del a
 —Alana, se ha actualizado tu perfil de riesgo ejecutivo. Las nuevas restricciones estarán disponibles en tu panel de gobierno dentro de cuatro minutos.
 
 Alana sacó el comunicador. La autorización de acceso a despliegues había pasado de ejecutiva a colegiada. Debajo, un enlace ofrecía asistencia para la transición de funciones sensibles.
+
+Alana dobló la solapa hacia dentro hasta tapar la tarjeta naranja. La pinza de plástico cedió y volvió a su sitio. Se metió la mano libre en el bolsillo del abrigo y la dejó allí.
 
 —Lo habías preparado.
 

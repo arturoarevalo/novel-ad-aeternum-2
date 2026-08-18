@@ -3,7 +3,7 @@ capitulo: 18
 titulo: No determinista
 pov: Nora
 fecha: 2060-12-17
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -58,6 +58,12 @@ La clave parcial contenía dos grupos separados por una barra y un signo que has
 
 Jessie lo dijo sin burla. Eso hizo más difícil pulsar.
 
+Nora acercó la silla hasta que las rodillas tocaron la mesa. Apoyó la izquierda plana en la madera y puso la derecha sobre las teclas sin hundirlas.
+
+—Cuando estés —dijo Maja.
+
+En el canto había una muesca a la altura de su meñique. Bajó la muñeca y volvió a subirla. Separó el pulgar para el cruce.
+
 Nora ejecutó el primer grupo. La quinta casilla no se iluminó. Se había equivocado. El indicador esperaba otra presión aunque la tecla correcta seguía hundida, y solo entonces entendió la flecha. Marcaba el cruce y también el ataque. Había leído una posición donde Gunnar había escrito un movimiento.
 
 La estación registraba el orden y la duración de cada pulsación, no las notas como sonido. En una esquina de la pantalla avanzaban valores sin pentagrama. Gunnar había dejado la cerradura en la propia tarjeta. El teclado solo aportaba los eventos que faltaban para completar la llave.
@@ -76,17 +82,15 @@ El primer fragmento conservaba una cabecera digital de Fiabilidad. Dentro de un 
 
 **RESIDUO NO DETERMINISTA**.
 
-Debajo, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
+Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
+
+Debajo de la clasificación, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
 
 **Persistencia de preferencia tras reinicio: superior a tolerancia.**
 
 **Resistencia a corrección de salida: recurrente.**
 
 **Memoria contextual familiar: retenida.**
-
-Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
-
-El cursor permanecía inmóvil detrás de *retenida*.
 
 * * *
 
@@ -97,6 +101,26 @@ Leyeron el informe a tres voces porque los huecos cambiaban el sentido de cada f
 —¿La dejaron pasar o la cortaron? —preguntó Jessie.
 
 —Y el sujeto —añadió Nora.
+
+—«Persistencia de preferencia tras reinicio…».
+
+—¿Preferencia de quién?
+
+—Falta el objeto. Y la cifra.
+
+—«Resistencia a corrección de salida».
+
+—Eso es que insistió.
+
+—O que se lo pidieron más de una vez.
+
+—«Memoria contextual familiar…».
+
+—Familiar somos nosotras.
+
+—O es una categoría de ellos.
+
+—Anota las dos.
 
 En otra página, Gunnar había rodeado dos códigos entre porcentajes mutilados y trazado una flecha hacia una nota. **Retiene más estado del permitido**. Su letra invadía los márgenes del formulario.
 
@@ -124,7 +148,15 @@ Astrid miró los puertos, la antena desmontada y el lector.
 
 —La reserva ya estaba a nombre de Maja y Kongsbakken era el único centro compatible. El profesor no sabe qué contiene la tarjeta. Prefiero que siga así.
 
-Con la fotografía a un lado, Astrid recorrió los fragmentos. Nora explicó la digitación sin repetirla. No supieron separar toda la letra de Gunnar del formulario, recuperar el porcentaje ni definir *familiar* en la taxonomía de Armstrong.
+Astrid recorrió los fragmentos con la fotografía a un lado. Nora explicó la digitación sin repetirla.
+
+—¿Sabe por qué lo cerró así? —preguntó Astrid.
+
+—En Armstrong revisan ficheros. Una contraseña es un fichero antes de usarla; esto no existía hasta que lo toqué aquí, sin red.
+
+Astrid no lo anotó.
+
+No supieron separar toda la letra de Gunnar del formulario, recuperar el porcentaje ni definir *familiar* en la taxonomía de Armstrong.
 
 —Pero esto confirma que era ella —dijo Nora.
 
@@ -158,13 +190,13 @@ Nora volvió al fragmento.
 
 —Si puedo observarlo y otra persona puede repetirlo, sí.
 
+Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
+
 Astrid cotejó la suma de la copia con la carpeta y la fotografía. La embolsó, anotó el precinto en su acta y dejó con ellas la tarjeta original.
 
-Al llegar a la puerta, Astrid se volvió hacia Nora.
+Astrid se volvió hacia Nora desde la puerta.
 
 —Tráigame algo reproducible.
-
-Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
 
 * * *
 

@@ -3,7 +3,7 @@ capitulo: 33
 titulo: Bajamar
 pov: Maja
 fecha: 2061-01-20T21:10
-estado: terminado
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -15,6 +15,8 @@ orden_lectura: 33
 Maja encontró el repetidor dentro de la manga de Jessie.
 
 La chica estaba sentada en el suelo de la cocina, con la parka abierta y un rollo de cinta de vulcanizar entre las rodillas. Había cosido una presilla al forro, cortado una salida junto al puño y protegido el conector con grasa marina. El cable llegaba desde el bolsillo interior hasta la mano sin quedar suelto. Al lado de su bota esperaba la llave de Gunnar dentro de una bolsa estanca.
+
+Jessie tenía grasa en las yemas y una tira de cinta pegada al dorso de la mano. Estiraba cada vuelta hasta el doble y la asentaba sobre la anterior. El rollo le había dejado una marca en las rodillas. Llevaba las uñas cortadas al ras.
 
 —Quítatelo.
 
@@ -172,7 +174,7 @@ Esperó a que Alana acercase la tableta. Después señaló los bolsillos de Jess
 
 —Tú conservas la llave y el repetidor hasta la entrega. La activación y el aborto siguen siendo tuyos.
 
-Por último, miró a Aslak.
+Maja miró por último a Aslak.
 
 —Yo leo AK-7 y te aviso si contradice el transporte.
 
@@ -206,7 +208,11 @@ Jessie se metió las manos en los bolsillos para comprobar el peso de cada objet
 
 La madera húmeda crujió bajo sus botas. Jessie no se movió del sitio.
 
-Aslak abrió el portón. El frío entró por debajo del techo caliente y apagó el olor de la estufa. Había colocado un transductor en el extremo del muelle y otro bajo el costado de la barca. Maja llevó fuera la tableta protegida, conectó la lectura del perfil y esperó a que la marea perdiera fuerza.
+El olor de fuera se colaba por el portón. Fango y alga descubierta. El bolsillo derecho de la parka de Jessie colgaba más que el izquierdo.
+
+—Se nota la marea —dijo Jessie.
+
+Aslak abrió el portón. El frío entró por debajo del techo caliente y apagó el olor de la estufa. Había colocado un transductor en el extremo del muelle y otro bajo el costado de la barca. El hielo del pantalán llegaba ya al segundo travesaño. La barca estaba más baja que al llegar. Maja llevó fuera la tableta protegida, conectó la lectura del perfil y esperó a que la marea perdiera fuerza.
 
 Durante nueve minutos solo cambiaron las cifras pequeñas. La corriente frenó junto al fondo y empezó a girar dentro del intervalo previsto. En la banda acústica, una de las dos firmas graves cayó hasta quedar por debajo del ruido del casco. Cuatro minutos después, AK-7 recibió una lengua de agua menos cálida con la misma conductividad. Maja amplió una vez ambas curvas.
 
@@ -216,7 +222,7 @@ Aslak desconectó el transductor exterior.
 
 —Si mañana falta cualquiera de las tres, no se larga la red.
 
-Jessie observaba la línea térmica desde el umbral del naust.
+Jessie observaba la línea térmica desde el umbral del naust. Se había sacado las manos de los bolsillos y no las apoyaba en nada. El agua no devolvía la luz de la tableta.
 
 —¿Y si está todo y el adulto no acepta?
 
