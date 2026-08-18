@@ -731,6 +731,27 @@
    "inicio": "El resumen interno del tres de enero seguía bajo la franja verde.",
    "fin": "Cerró el resumen y dejó la franja verde donde estaba.",
    "desc": "Aparato de anonimato de CH-1 tras G-9: con el espejo de N4 fuera, estas cuatro frases hacen solas lo que hacía el espejo, y sin meter a Jean en la maquinaria que daña a sus hijas. Estaba desnudo: S32-amenaza arranca en :99. Hallazgo de A7 (P-64)."
+  },
+  {
+   "id": "S-n7-taza",
+   "archivo": "capitulos/cap-n7.md",
+   "inicio": "—Esa taza está rota.",
+   "fin": "—Porque agarra bien.",
+   "desc": "La vacuna antisimbolica de la escena aislada: A7 aprobo sacarla a capitulo propio PORQUE esta replica viaja dentro del bloque. Sin ella el capitulo puede leerse como altar y P-60 se dispara."
+  },
+  {
+   "id": "S-n7-apuntas",
+   "archivo": "capitulos/cap-n7.md",
+   "inicio": "—¿Para qué la apuntas? —preguntó Jean.",
+   "fin": "—Para saber por qué no contesta.",
+   "desc": "C-4.3 de A7: la unica linea que un lector puede releer al terminar el libro. No se glosa, no se responde, no se recoge despues. Reanclada aqui tras la escision (antes n3:283)."
+  },
+  {
+   "id": "S-n7-miente",
+   "archivo": "capitulos/cap-n7.md",
+   "inicio": "—Está bien medido y miente",
+   "fin": "No sabe lo suficiente",
+   "desc": "CH-8: siembra dramatizada del metronomo-que-miente, que hace que 20:115 (fichero total) pase de evocacion a eco. P-61: NO se enlaza con CH-73."
   }
  ]
 }

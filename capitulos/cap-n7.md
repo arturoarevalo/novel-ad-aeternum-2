@@ -6,7 +6,7 @@ fecha: 2059-03-04
 estado: en_oleada
 analepsis: true
 estado_plan: N
-proteccion: no
+proteccion: nucleo
 ot: OT-N7
 delta_objetivo: 0
 orden_lectura: 14.5

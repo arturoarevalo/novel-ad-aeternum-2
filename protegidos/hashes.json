@@ -585,7 +585,22 @@
       "archivo": "capitulos/cap-32.md",
       "hash": "26b1b3d6031a15ddde169ed77f4462cc5522e4d00bf35d02364ddb7569fe008b",
       "longitud": 515
+    },
+    "S-n7-taza": {
+      "archivo": "capitulos/cap-n7.md",
+      "hash": "ded2d4b74c3fad38c2ff3963ce55a1cb8afa0b74fc24e88b934b910ac46f7fbd",
+      "longitud": 81
+    },
+    "S-n7-apuntas": {
+      "archivo": "capitulos/cap-n7.md",
+      "hash": "12e732d8658efc47540946539552fe7703cb6fe8b95bc1a322326476abb3cecc",
+      "longitud": 72
+    },
+    "S-n7-miente": {
+      "archivo": "capitulos/cap-n7.md",
+      "hash": "b1e2244414c91fbefaa21d4fe258b48e5abfde5aa0930b482a8318f3a7c0725f",
+      "longitud": 96
     }
   },
-  "generado": "2026-08-18T23:42:40"
+  "generado": "2026-08-18T23:51:04"
 }
