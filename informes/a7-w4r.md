@@ -261,3 +261,63 @@ La rectificación es correcta y el destino es legítimo. Las tres posiciones cae
 **P-38** (§11.1, N4-3) queda incorporada a la lista vigente junto a P-34…P-37.
 
 Firmado, **A7** · 2026-08-18.
+
+---
+
+## 12. G-2 · R5 en `cap-13` — pasada única sobre el borrador de A3a (antes de A4) · 2026-08-18
+
+**Objeto:** `git diff -- capitulos/cap-13.md` (tres inserciones, +93). Leídas **en su sitio**, con `:79–:104`, `:174–:188` y `:216–:236` completos. Spans de 13 comprobados: los seis (`S13-yo-que-soy`, `S13-crecer`, `S13-madre`, `S13-nieve`, `S13-sufra`, `S13-coro-nora`) quedan fuera de las tres posiciones; ninguna inserción los roza.
+
+# Las tres: APROBADAS
+
+### 12.1 · A-1 (Nieve, `:91`) — y la duda de «la luz lo aplasta todo»
+
+**Aprobada, y la proximidad juega a favor.** `:83` define el blanco de Jean por tres ausencias: «No tiene **superficie**, ni **origen**, ni **bordes** donde apoyar la atención.» La inserción le da al blanco de Nieve exactamente esas tres cosas: una superficie (pared de bloques), un origen (un sitio físico), un borde (el bajo del encuadre contra el alto). **El efecto es contraste, no fusión**, y de paso vuelve legible `:83`, que es el párrafo que más necesitaba que el lector supiera qué le falta. Si el objeto elegido hubiera tenido horizonte, agua, ventana o reflejo habría sido presagio; una pared de bloques y un tubo verde con bridas son lo menos simbólico disponible. Cumple mi condición al pie.
+
+Confirmo el hallazgo no pedido de A3a y le doy peso: con un punto fijo presente en las dos tomas, `SIN CAMBIOS` deja de ser una afirmación que el lector debe creer y pasa a ser **una falsedad comprobable**. Eso refuerza la crítica sistémica sin que ninguna voz la enuncie, que es exactamente el modo del libro.
+
+**Condición P-39.** «Aplastar» —y todo el registro de peso, presión o aplastamiento— se queda en la luz de esa fotografía. **No puede migrar** al blanco de Jean, a Nieve, ni al estado de ninguna continuidad, en ningún capítulo, borrador ni material de trabajo. Y **ninguna voz con autoridad puede enunciar el parentesco** entre el blanco de Jean y los blancos fotográficos: la rima se queda en rima. Enunciarla convertiría un eco en ecuación y pondría a Jean dentro de una escena.
+
+**Duda 1 (corte alto-bajo del encuadre):** no es cuestión mía. Mi único interés es que la imagen siga siendo industrial y sin nadie dentro, y lo es.
+
+### 12.2 · A-2 (Cuchillo, `:179`)
+
+**Aprobada.** Es `17:61` con objeto y mecanismo distintos, como pedí: el trasto banal **estorba** la prueba en lugar de ilustrar el sufrimiento. Ni lesión, ni cuerpo, ni menor, ni contenido autolesivo; el caso es de acoso y el lote no lleva más que categoría. «Debajo del termo quedan dos noches sin ver» hace además el trabajo temático por objeto: el expediente está incompleto por un accidente doméstico y el sistema va a decidir igual.
+
+### 12.3 · A-3 (la anónima, `:225`) — y la duda de la moqueta
+
+**Aprobada, y cumple la condición decisiva:** la imagen está **en los segmentos**; `:231` («El reinicio borra la petición, la destinataria y el propósito…») queda intacto y **sin imagen**. El hueco con forma de mensaje sigue vacío.
+
+**La moqueta no invita a suponer nada, porque el texto contesta en la misma frase:** «Debajo hay cemento y una tira de cinta de doble cara.» Es la respuesta más banal posible, entregada de inmediato. Eso es lo contrario de un hueco.
+
+**Condición P-40.** Por eso mismo, esa frase pasa a ser **portante**: si una pasada posterior la recorta y deja «En el quinto la moqueta está levantada en una esquina» sin respuesta, el suelo levantado se convierte en una pregunta abierta sobre qué hay debajo, en una novela sobre una muerte. **No se recorta.** Y nadie enuncia por qué la continuidad reservó el quinto: que el lector pueda inferirlo mientras ella, tras el reinicio, ya no puede, es la asimetría que sostiene el pasaje; escribirla la destruye.
+
+### 12.4 · Paragrafado de las tres inserciones
+
+Ninguna de las tres redistribuciones toca línea protegida ni perímetro mío: «En una hay una franja gris…» (A-1) y «La medida retirará las publicaciones…» (A-2) quedan aisladas pero no están listadas en ningún sitio, y en A-3 los dos vecinos conservan su forma. En A-1 la redistribución **mejora**: las dos tomas quedan pegadas a `SIN CAMBIOS`. **Cleared.**
+
+### 12.5 · P-37, ampliada a las dos direcciones — y qué ve M9 exactamente
+
+A0 tiene razón: el mecanismo es simétrico. Una inserción que parte un párrafo promueve el resto a línea suelta igual que una supresión que vacía al vecino. **P-37 queda ampliada:**
+
+> Toda intervención que altere el **entorno de párrafo** de una línea protegida —vaciar el párrafo vecino, **partir** el párrafo que la contiene, fundirlo con otro, reordenar sus límites o **insertar un párrafo nuevo a su lado**— cuenta como modificación de esa línea, aunque no le cambie un carácter. Quien pode **o inserte** junto a una línea listada, un span o un perímetro de A7 declara **cómo queda paragrafada**, en las dos direcciones.
+
+**Y una precisión que he verificado sobre el código, porque la formulación «el hash no lo detecta» es más ancha de lo debido y conviene que la enmienda general sea exacta.** `proteger.py` hashea el substring crudo de `inicio` a `fin`, sin normalizar. Probado empíricamente:
+
+| Cambio | M9 |
+|---|---|
+| Partir un párrafo **dentro** del texto anclado | **DETECTADO** (cambia el hash, o `inicio` deja de encontrarse) |
+| Partir justo **antes** de `inicio` o después de `fin` | **INVISIBLE** |
+| Vaciar o rehacer el **párrafo vecino** | **INVISIBLE** |
+
+**Y la exposición está concentrada: 51 de los 109 spans son de anclaje único** (sin `fin`), de modo que lo hasheado es **una sola frase** y su entorno de párrafo es enteramente invisible. Entre esos 51 están `S40-despedida`, `S39-ordenante`, `S11-consciencia`, `S29-cierre`, `S39-jueza`, `S37-muchas`, `S40-caries`, `S10-suspendida`, `S24-once`, `S31-cancion` y `S12-nidhogg` — es decir, buena parte de las líneas más sensibles del libro.
+
+**Formulación recomendada para la enmienda general:** «M9 ve dentro del ancla y es ciego fuera de sus dos extremos; en los 51 spans de anclaje único, ciego a todo su entorno.» El remedio no necesita herramienta nueva: **la columna “cómo queda paragrafado lo de al lado” que A2 ya inventó para los cortes pasa a ser obligatoria también para las inserciones.**
+
+### 12.6 · Handoff
+
+**A4 puede proceder.** Su pasada de línea no puede: cambiar ninguno de los tres objetos, tocar `:231`, ni recortar «Debajo hay cemento y una tira de cinta de doble cara» (P-40). Si alguna de esas tres cosas cambia, vuelve a mí; si no, **no necesito segunda pasada**.
+
+Vigentes: P-34, P-35, P-36, **P-37 (ampliada)**, P-38, **P-39**, **P-40**.
+
+Firmado, **A7** · 2026-08-18.

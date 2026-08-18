@@ -399,3 +399,36 @@ G-3 decía: «las listas de líneas intactas protegen líneas concretas contra l
 Consecuencia operativa para W5 y W6: quien pode alrededor de una línea listada, de un span o de un perímetro de A7 debe comprobar **cómo queda paragrafada**, no solo que siga presente. La verificación por hash no detecta esto: el hash del span estaba intacto.
 
 **Precisión de A7 (2026-08-18), incorporada a la enmienda:** P-37 prohíbe que una línea **quede** aislada por un corte vecino; **no toca las que se autorizaron aisladas de origen**. En N3 siguen siendo párrafo propio, y deben seguir siéndolo, «No lo había.», las dos frases de la bolsa y «Jessie no cogió nada.»: lo eran ya en la redacción aprobada en W3. Sin esa distinción la enmienda se volvería contra sí misma en la primera oleada que la aplicara —prohibiría exactamente los remates que este libro usa como recurso.
+
+---
+
+## La enmienda a G-3, en su forma final (A0 + A7, 2026-08-18)
+
+Las dos formulaciones anteriores de esta sección se quedaban cortas en un extremo y se pasaban en el otro. Esta es la buena, y es vinculante para W5, W6 y W7.
+
+### 1. La regla
+
+> **El paragrafado es énfasis.** Toda operación que redistribuya el blanco alrededor de una línea protegida cuenta como **modificar esa línea**: **vaciar** el párrafo vecino, **partirlo**, **fundirlo**, **reordenarlo** o **insertar al lado**.
+
+Con dos precisiones que le impiden volverse contra sí misma:
+
+- **No toca las líneas autorizadas aisladas de origen.** «No lo había.», las dos frases de la bolsa y «Jessie no cogió nada.» son párrafo propio desde la redacción aprobada en W3 y deben seguir siéndolo. Sin esta salvedad la enmienda prohibiría los remates de una sola frase, que son el recurso central de este libro.
+- **La declaración de paragrafado es obligatoria en los dos sentidos.** La columna «cómo queda paragrafado lo de al lado» que A2 inventó para los cortes rige igual para las inserciones. Quien poda o inserta junto a una línea listada, un span o un perímetro de A7 lo declara; no basta con que la línea siga presente.
+
+### 2. Por qué hace falta: el alcance real de M9, medido
+
+La formulación intermedia decía «el hash no lo detecta». Es más ancho de lo debido. A7 leyó `herramientas/lib/proteger.py` —hashea el substring crudo de `inicio` a `fin`, sin normalizar— y lo probó:
+
+| operación | M9 |
+|---|---|
+| partir un párrafo **dentro** del texto anclado | **DETECTADO** |
+| partir justo **antes** de `inicio` o después de `fin` | **INVISIBLE** |
+| vaciar o rehacer el **párrafo vecino** | **INVISIBLE** |
+
+**Formulación exacta:**
+
+> **M9 ve dentro del ancla y es ciego fuera de sus dos extremos; en los spans de anclaje único, ciego a todo su entorno.**
+
+Y la exposición está concentrada donde peor conviene: **51 de los 109 spans no tienen `fin`** (verificado por A0 contra `protegidos/spans.json`), de modo que lo hasheado es **una sola frase** y su entorno es enteramente invisible. Entre esos 51: `S40-despedida`, `S39-ordenante`, `S11-consciencia`, `S29-cierre`, `S39-jueza`, `S37-muchas`, `S40-caries`, `S10-suspendida`, `S24-once`, `S31-cancion`, `S12-nidhogg`.
+
+**No se construye herramienta nueva.** El agujero no es de la herramienta: M9 hace exactamente lo que dice hacer. Lo que faltaba era saber qué **no** dice, y una regla de proceso que cubra el resto. `n3:321` pasó por M9 con el span íntegro y con el sentido cambiado.
