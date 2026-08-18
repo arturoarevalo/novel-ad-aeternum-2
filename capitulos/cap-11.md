@@ -30,7 +30,7 @@ El consejero de Kronfjord amplió la primera banda.
 
 —¿SPEIL es el modelo?
 
-—El programa longitudinal de Jean. El Corpus conserva el material: once años de sesiones semanales, todo lo que SPEIL registró de ella hasta la última. La Matriz prepara el arranque con eso, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
+—El programa longitudinal de Jean. El Corpus conserva el material: once años de sesiones semanales, todo lo que SPEIL registró de ella hasta la última sesión. La Matriz prepara el arranque con eso, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
 
 El consejero señaló el icono de EDDA, fuera de las cinco bandas.
 
