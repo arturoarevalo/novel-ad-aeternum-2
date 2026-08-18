@@ -3,7 +3,7 @@ capitulo: 10
 titulo: Caries
 pov: Nora
 fecha: 2060-12-05
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: R
 proteccion: nucleo

@@ -3,7 +3,7 @@ capitulo: 2
 titulo: La pecera
 pov: Jean
 fecha: 2060-11-26T09:00
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: R
 proteccion: nucleo

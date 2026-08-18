@@ -3,7 +3,7 @@ capitulo: 27
 titulo: Apartada
 pov: Alana
 fecha: 2061-01-05
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo

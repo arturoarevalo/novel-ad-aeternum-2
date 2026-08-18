@@ -3,7 +3,7 @@ capitulo: 6
 titulo: La casa sin ella
 pov: Maja
 fecha: 2060-11-26
-estado: en_oleada
+estado: aceptado
 analepsis: true
 estado_plan: E
 proteccion: nucleo

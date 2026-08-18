@@ -3,7 +3,7 @@ capitulo: 12
 titulo: Gunnar
 pov: Nora
 fecha: 2060-12-09
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo

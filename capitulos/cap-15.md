@@ -3,7 +3,7 @@ capitulo: 15
 titulo: Canela
 pov: Jean
 fecha: 2060-12-12
-estado: en_oleada
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
