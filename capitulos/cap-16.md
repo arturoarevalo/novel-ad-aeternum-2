@@ -48,7 +48,7 @@ El documento de origen tenía su propia casilla, sustituida por ocho ceros.
 
 —Los hashes están en el sobre. Acreditan que las filas no han cambiado desde la exportación. El historial deja mi usuario como responsable de esta consulta.
 
-Maja pasó las hojas hasta la última. Cada una repetía abajo la hora de la consulta y el usuario que la había pedido. Siete veces el apellido de Inger, en letra más pequeña que el resto. Maja las alineó por ese borde.
+Maja pasó las hojas hasta la última. Cada una repetía abajo la hora de la consulta y quién la había pedido. Siete veces el apellido de Inger, en letra más pequeña que el resto. Maja las alineó por ese borde.
 
 —Podías haberme dado solo la versión oficial.
 
@@ -78,7 +78,7 @@ Nora dejó los horarios en el margen del cuaderno pautado. Maja atravesó el sob
 
 Nora trazó tres columnas: quién, acto y procedencia. Trabajaron con copias del archivo programado y los registros del hospital. La tarjeta de Gunnar siguió lejos de cualquier lector. Nora distribuyó el documento de origen, el acuse, la autorización y el receptor, cuya procedencia dejó vacía.
 
-La mesa de la cocina quedó ocupada de lado a lado. El pentagrama se comió las tres columnas y Nora escribió encima de las líneas. Una apertura a las 03:14, sin firma. Una autorización con el nombre de Alana, recibida después de las 03:31 por una pasarela. Un acuse con el destino recortado y la casilla del receptor bloqueada. La tarjeta de Gunnar quedó abajo, fuera de las columnas, sin conectar. Nora sostenía el lápiz.
+La mesa de la cocina quedó ocupada de lado a lado. El pentagrama se comió las tres columnas y Nora escribió encima de las líneas. Una apertura a las 03:14, sin firma. Una autorización con el nombre de Alana, recibida después de las 03:31 por una pasarela. Un acuse con el destino recortado y la casilla del receptor bloqueada. La tarjeta quedó abajo, fuera de las columnas, sin conectar. Nora sostenía el lápiz.
 
 Jessie miró el nombre de Alana y después los dos terminales junto a la base de carga.
 

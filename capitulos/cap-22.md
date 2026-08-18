@@ -76,7 +76,7 @@ Astrid anotó solo once.
 
 Mats Haldorsen llegó sin séquito y se sentó frente a Astrid. Dejó una carpeta sobre sus rodillas. Ni siquiera preguntó qué había encontrado.
 
-La sala tenía dos sillas y una mesa atornillada al suelo. La impresora de papel numerado arrancó sola, avanzó una página en blanco y se detuvo. Haldorsen no miró hacia ella.
+En la sala había dos sillas y una mesa atornillada al suelo. La impresora de papel numerado arrancó sola, avanzó una página en blanco y se detuvo. Haldorsen no volvió la cabeza.
 
 —¿Cuánto han reducido los falsos positivos? —dijo Astrid.
 
@@ -188,7 +188,7 @@ En la página anterior seguía la franja gris.
 
 Astrid capturó ambas páginas y generó un recibo con fecha, autora declarada y entrega voluntaria. Nora lo leyó antes de firmar.
 
-Firmó con el dedo sobre el cristal y devolvió el terminal. Astrid siguió de pie. Un autobús paró en la marquesina, esperó con las puertas abiertas y arrancó vacío. Un guarda las miraba desde el vestíbulo y no salió. La chica se subió el cuello del abrigo y metió las manos en las mangas.
+Firmó con el dedo sobre el cristal y devolvió el terminal. Un autobús paró en la marquesina, esperó con las puertas abiertas y arrancó vacío. Un guarda las miraba desde el vestíbulo y no salió. La chica se subió el cuello del abrigo y metió las manos en las mangas.
 
 —¿Entonces ya no sirve?
 

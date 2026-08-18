@@ -16,7 +16,7 @@ Maja encontró el repetidor dentro de la manga de Jessie.
 
 La chica estaba sentada en el suelo de la cocina, con la parka abierta y un rollo de cinta de vulcanizar entre las rodillas. Había cosido una presilla al forro, cortado una salida junto al puño y protegido el conector con grasa marina. El cable llegaba desde el bolsillo interior hasta la mano sin quedar suelto. Al lado de su bota esperaba la llave de Gunnar dentro de una bolsa estanca.
 
-Jessie tenía grasa en las yemas y una tira de cinta pegada al dorso de la mano. Estiraba cada vuelta hasta el doble y la asentaba sobre la anterior. El rollo le había dejado una marca en la cara interna de las rodillas. Llevaba las uñas cortadas al ras.
+Jessie tenía grasa en las yemas y una tira de cinta pegada al dorso de la mano. Estiraba cada vuelta hasta el doble y la asentaba sobre la anterior. El rollo le había dejado una marca en las rodillas. Llevaba las uñas cortadas al ras.
 
 —Quítatelo.
 
@@ -208,7 +208,7 @@ Jessie se metió las manos en los bolsillos para comprobar el peso de cada objet
 
 La madera húmeda crujió bajo sus botas. Jessie no se movió del sitio.
 
-El olor de fuera entraba por debajo del portón. Fango y alga descubierta. El bolsillo derecho de la parka de Jessie colgaba más que el izquierdo.
+El olor de fuera se colaba por el portón. Fango y alga descubierta. El bolsillo derecho de la parka de Jessie colgaba más que el izquierdo.
 
 —Se nota la marea —dijo Jessie.
 
@@ -222,7 +222,7 @@ Aslak desconectó el transductor exterior.
 
 —Si mañana falta cualquiera de las tres, no se larga la red.
 
-Jessie observaba la línea térmica desde el umbral del naust. Se había sacado las manos de los bolsillos y las tenía abiertas, sin apoyarlas en nada. El agua no devolvía la luz de la tableta.
+Jessie observaba la línea térmica desde el umbral del naust. Se había sacado las manos de los bolsillos y no las apoyaba en nada. El agua no devolvía la luz de la tableta.
 
 —¿Y si está todo y el adulto no acepta?
 

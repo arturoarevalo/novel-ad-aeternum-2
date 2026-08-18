@@ -124,11 +124,11 @@ El vocabulario había cambiado poco desde 2054. Astrid esperó entonces una repr
 
 —Hablaremos mañana.
 
-Alguien lo llamó por el cargo desde el otro extremo de su pasillo. Tapó el micrófono.
+Alguien lo llamó por el cargo desde el fondo de su pasillo. Tapó el micrófono.
 
 La llamada terminó.
 
-Astrid se quedó con el terminal en la mano hasta que la pantalla se apagó sola. Marcó en la resolución las dos líneas que podía comunicar: la fecha y la acción. El resto quedó debajo de la carpeta, sobre los cuatro papeles del tres de enero que le había mandado la familia.
+Astrid se quedó con el terminal en la mano hasta que la pantalla se apagó sola. Marcó en la resolución las dos líneas que podía comunicar: la fecha y la acción. El resto siguió debajo de la carpeta, sobre los cuatro papeles del tres de enero que le había mandado la familia.
 
 Astrid buscó el número de Maja Kvalvik. Ocupó el banco del pasillo con la carpeta entre las rodillas.
 

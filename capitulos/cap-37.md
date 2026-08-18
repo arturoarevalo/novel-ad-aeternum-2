@@ -34,15 +34,21 @@ Henrik presentó el siguiente caso de la demostración. La plantilla prevista no
 
 Una risa escapó cerca del pasillo central. Le siguieron otras dos, más bajas, hasta que la palabra permaneció el tiempo necesario para que nadie pudiera fingir que era parte del espectáculo. En la cabina, una técnica recuperó la salida anterior y volvió a cargarla. La misma etiqueta regresó con una marca temporal nueva.
 
+Desde el cristal de la cabina, el patio de butacas era una superficie de nucas y pantallas pequeñas. En las primeras filas, los fotógrafos habían bajado las cámaras a la vez. Nora contó cuatro que volvieron a subirlas.
+
 —Sigue —dijo el regidor por el intercomunicador.
 
 Henrik obedeció. Reformuló la entrada como si estuviera ofreciendo al sistema una segunda oportunidad. Nora pulsó la primera nota. El canal la tomó sin recorte.
 
 `CANELA`
 
+En la pantalla de treinta metros, la palabra ocupaba más que Henrik entero.
+
 La técnica del puesto contiguo buscó a Nora con la mirada. Nora mantuvo el canal abierto. No sabía si Jessie seguía junto al repetidor ni qué había costado conservar aquel verde. Cerrarlo por miedo habría cumplido por Armstrong el trabajo que Armstrong aún no se atrevía a ordenar.
 
 Henrik habló de juicio contextual. Su auricular le devolvía instrucciones distintas de las que salían por el intercomunicador. La sonrisa perdió un lado.
+
+El rumor del patio llegaba al puesto medio segundo tarde, por el retorno.
 
 Nora tocó el tramo siguiente. La pauta avanzó con el cruce incómodo que Jean nunca había corregido del todo porque a las niñas les hacía gracia equivocarse allí.
 
@@ -196,6 +202,8 @@ La voz volvió por los altavoces.
 
 Astrid incorporó la declaración al acta. En las primeras filas, una periodista copió las palabras y después miró la lista de retiradas y reservas que acompañaba la firma. Nadie recibió una cifra de personas ni una declaración de unanimidad.
 
+En el patio de butacas, dos filas enteras se habían puesto de pie sin avanzar hacia los pasillos. Una cámara de mano bajó hasta el suelo y volvió a subir. Detrás, un técnico sostenía el cable con las dos manos. Astrid anotó la posición de las tres cámaras que seguían grabando.
+
 Henrik bajó por el lateral. En el pasillo, una técnica le pidió el auricular. Solo a la segunda indicación se lo entregó y continuó hacia la salida.
 
 Los acuses se multiplicaron. Alana continuó junto al escenario con su nombre al frente de la confesión. Mats seguía sin autenticar el corte. Una persona inició un aplauso y lo abandonó después de dos palmadas.
@@ -203,6 +211,8 @@ Los acuses se multiplicaron. Alana continuó junto al escenario con su nombre al
 A las 13:07, la puerta central se abrió. Entraron dos funcionarios del ministerio. No apagaron las cámaras. Esperaron a que Astrid comprobara el último acuse y le presentaron una tableta.
 
 —Inspectora Vik, queda notificada. La manifestación ha activado la orden condicional de custodia estratégica preparada tras la cautelar denegada.
+
+Las cámaras se habían girado hacia la puerta central. En el patio de butacas nadie volvió a sentarse. El primer funcionario esperó con las manos por delante mientras una acomodadora abría la puerta lateral y la sostenía.
 
 El membrete, la firma y la facultad invocada eran correctos. Sujeta a revisión judicial, la medida suspendía traslado, modificación y cesión y ponía soportes y canales bajo custodia inmediata.
 

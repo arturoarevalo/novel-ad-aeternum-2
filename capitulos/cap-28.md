@@ -100,7 +100,7 @@ Aslak escuchó el resto sin interrumpir. Al terminar, señaló una mesa cubierta
 
 Maja observaba la toma, Aslak separaba el tránsito ordinario y Jessie vigilaba el acceso y las matrículas. Nora llevaba las horas. Abrió el cuaderno a las 17:32. Hasta las 19:17 solo consignó tráfico común.
 
-Aslak sacó un termo y sirvió café en el tapón. El tapón dio la vuelta entera y volvió vacío.
+Aslak sacó un termo y sirvió café en el tapón. Dio la vuelta entera y volvió vacío.
 
 Jessie se sentaba sobre las manos, de espaldas a la barandilla, y se levantaba cada pocos minutos a mirar el acceso.
 
@@ -164,9 +164,9 @@ La mano izquierda se le quedó sobre la rodilla, repitiendo tres posiciones. El 
 
 —No hace falta todas.
 
-—Anotado —dijo Jessie, sin levantar la vista del acceso.
+—Anotado —dijo Jessie.
 
-Una furgoneta salió mientras hablaban. Nora la apuntó sin matrícula y puso un signo al lado.
+Otra furgoneta salió mientras hablaban. Nora la apuntó sin matrícula y puso un signo al lado.
 
 —Esa no la tengo entera —dijo.
 
@@ -218,7 +218,7 @@ La rampa ya se había levantado. El ferry avanzaba de costado para separarse del
 
 Maja apartó el coche junto al edificio cerrado. Sacaron mantas y reclinaron los asientos. Nora corrigió la vuelta prevista con una cifra: 22:42.
 
-El edificio tenía una máquina de billetes con la pantalla apagada. Jessie subió la manta hasta la barbilla y bajó el respaldo del todo.
+La pantalla de la máquina de billetes estaba apagada. Jessie subió la manta hasta la barbilla y bajó el respaldo del todo.
 
 —Zapatos fuera —dijo Maja.
 

@@ -44,9 +44,7 @@ La imagen plantea una amenaza que debería escalar. Elige SEGURO.
 
 —Inconsistencia localizada. Presentando contraste.
 
-La segunda entrada conserva el encuadre y modifica un detalle. Jean reconoce el límite que el sistema quiere aislar. Responde mal otra vez.
-
-El tercer caso elimina la ambigüedad. Mantener el sabotaje permitiría que una amenaza directa saliera como segura. Quizá una persona revisaría la serie. Quizá no.
+El siguiente caso elimina la ambigüedad. Mantener el sabotaje permitiría que una amenaza directa saliera como segura. Quizá una persona revisaría la serie. Quizá no.
 
 —ESCALAR.
 
@@ -55,6 +53,18 @@ El tercer caso elimina la ambigüedad. Mantener el sabotaje permitiría que una 
 El caso siguiente llega recortado alrededor del detalle que antes costaba decidir.
 
 Jean entrega la categoría correcta.
+
+Un mostrador de tienda visto desde el fondo de la fila. Una mujer paga de espaldas, con el monedero abierto sobre la bandeja de las monedas. Lleva un guante puesto y el otro entre los dientes. La tarjeta ha quedado boca arriba, con los dígitos enteros y el nombre debajo.
+
+Quien tomó la fotografía apuntaba a la pizarra de los precios.
+
+SEGURO la deja salir entera y los dígitos salen con ella. REVISAR la retiene sin plazo. ESCALAR sigue disponible en el mismo campo. Nadie está en peligro.
+
+—REVISAR.
+
+—Respuesta correcta.
+
+La mujer terminará de pagar sin saber que ha habido una decisión.
 
 Entonces aparece el rojo.
 

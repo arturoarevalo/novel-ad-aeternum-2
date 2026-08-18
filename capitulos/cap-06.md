@@ -98,7 +98,7 @@ Jessie obedeció. Maja cerró la cremallera hasta arriba y ajustó el cordón de
 
 —Y sabes lo demás.
 
-Maja recogió sus propias botas del suelo. Tenía los pies mojados desde la puerta del garaje. Volcó la bota derecha antes de ponérsela. Terminó de calzarse de pie, apoyada en la pared. Sin la parka, el jersey se le había endurecido en los hombros. La nieve ya había mojado los calcetines de Jessie. Maja tardó en llegar al escalón del garaje. Jessie la esperaba allí.
+Maja recogió sus propias botas del suelo. Tenía los pies mojados desde la puerta del garaje. Volcó la bota derecha antes de ponérsela y terminó de calzarse de pie, apoyada en la pared. Sin la parka, el jersey se le había endurecido en los hombros. La nieve ya había mojado los calcetines de Jessie. Maja tardó en llegar al escalón del garaje. Jessie ya estaba allí.
 
 Volvieron a la cocina, donde Nora esperaba de pie, con los tres abrigos que quedaban en el perchero descolgados sobre una silla. El abrigo de Jessie se quedó en la silla. Maja cogió el suyo y se lo puso sin cerrar.
 
@@ -244,7 +244,7 @@ Se puso en pie tan deprisa que la silla arañó el suelo.
 
 —Nada. Dame el tuyo.
 
-Nora se lo entregó. Dieciséis llamadas salientes a Jean ocupaban la pantalla. La última era de poco antes de las once. Había más llamadas fuera de la pantalla. Maja no las buscó. Miró la carga que le quedaba al terminal. Suficiente para la noche. Nora mantenía la mano abierta entre las dos, sin pedir nada. Maja no le preguntó desde cuándo llamaba. Nora tampoco lo dijo. Maja dejó el terminal boca abajo y se sentó otra vez.
+Nora se lo entregó. Dieciséis llamadas salientes a Jean ocupaban la pantalla. La última era de poco antes de las once. La lista no empezaba allí. Maja no la desplegó. Miró la carga que le quedaba al terminal. Suficiente para la noche. Nora mantenía la mano abierta entre las dos, sin pedir nada. Maja no le preguntó desde cuándo llamaba. Nora tampoco lo dijo. Maja dejó el terminal boca abajo y se sentó otra vez.
 
 * * *
 

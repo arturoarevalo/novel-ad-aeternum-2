@@ -174,7 +174,7 @@ Entonces Nora volvió el cuaderno hacia ella. Había cuatro palabras en mayúscu
 
 La palabra hizo que Maja se volviera hacia Alana.
 
-CARIES era una palabra de aquella casa. La había dicho una niña de cuatro años delante del teclado y desde entonces no había salido de la cocina. Ahora estaba escrita en mayúsculas, la tercera de cuatro, entre dos líneas de un pentagrama. La página estaba vuelta hacia una mujer que no necesitaba leerla. Alana no la leyó. Maja se puso entre Alana y la escalera.
+CARIES era una palabra de aquella casa. La había dicho una niña de cuatro años delante del teclado y desde entonces no había salido de la cocina. Ahora estaba escrita a lápiz en el cuaderno de Nora, la tercera de cuatro. La página estaba vuelta hacia una mujer que no necesitaba leerla. Maja se puso entre Alana y la escalera.
 
 —Le bloqueasteis la cuenta a mi hija. Y vuestra primera idea fue venir aquí antes que llamarme.
 

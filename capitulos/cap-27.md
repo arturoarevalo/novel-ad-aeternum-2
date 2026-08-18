@@ -84,11 +84,11 @@ Las cajas eran las mismas que usaban en la planta quinta para trasladar muestras
 
 El último rediseño había respetado el despacho fundacional. La mesa de su madre servía ahora a una unidad jurídica. En la pared quedaban la oblea inaugural y una fotografía de ambos fundadores. Abajo, la mancha del café de su padre.
 
-La mesa tenía dos pantallas y una etiqueta con el número de la unidad. Los cajones estaban sin llaves.
+La mesa llevaba dos pantallas y una etiqueta con el número de la unidad. Los cajones estaban sin llaves.
 
 El día que colgaron la oblea, su padre subió el café en una bandeja y la dejó en el suelo para sostener el nivel. Alguien la volcó con el pie y nadie limpió a tiempo. Su madre firmó allí las primeras nóminas, con la puerta abierta para oír quién entraba.
 
-En la fotografía, sus padres estaban delante de la puerta de la sede antigua, con el rótulo a medio montar. Alana la descolgó y miró el reverso. No llevaba número.
+En la fotografía, sus padres estaban delante de la sede antigua, con el rótulo a medio montar. Alana la descolgó y miró el reverso. No llevaba número.
 
 Alana metió el retrato en la caja.
 

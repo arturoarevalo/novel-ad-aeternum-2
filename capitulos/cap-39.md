@@ -14,11 +14,11 @@ orden_lectura: 39
 
 La escarcha de la fotografía había convertido una tubería de NIDHOGG en una pregunta que nadie quería contestar.
 
-Astrid la dejó boca abajo el 22 de enero y unió `R-1189` a las once filas preservadas. Añadió la atestación `CE-K` de NORNA, contrastó las procedencias y firmó la suspensión. ARGOS tendría que recertificarse y las nuevas emisiones quedarían bloqueadas. Antes de la tarde, el consejo de Armstrong había obtenido de los acreedores principales un *standstill* de setenta y dos horas. El contrato aún vencía el 23.
+Astrid la dejó boca abajo el 22 de enero y unió `R-1189` a las once filas preservadas. Añadió la atestación `CE-K` de NORNA, contrastó las procedencias y firmó la suspensión. ARGOS tendría que recertificarse y las nuevas emisiones quedarían bloqueadas. El consejo de Armstrong había obtenido antes de la tarde un *standstill* de setenta y dos horas de los acreedores principales. El contrato aún vencía el 23.
 
 Al día siguiente, Kronfjord congeló las líneas y entregó el contrato que repartía la operación entre empresas y dejaba a Armstrong como beneficiaria.
 
-El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning` que prohibiera transferir o alterar NIDHOGG y permitiera preservarlo. Al día siguiente, el tribunal exigió precisión. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
+El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning` que prohibiera transferir o alterar NIDHOGG y permitiera preservarlo. El tribunal exigió precisión al día siguiente. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
 
 Astrid volvió la fotografía.
 
@@ -82,7 +82,7 @@ La jueza prohibió provisionalmente transferir o alterar NIDHOGG y ordenó una i
 
 A continuación se abrió la pieza relativa a los hechos del Soldagen. Jessie se sentó junto a su letrada. Maja ocupó la silla de detrás.
 
-Jessie llevaba el abrigo puesto y no lo dejó en el respaldo. Puso las dos manos sobre la mesa y las mantuvo ahí. Maja dejó el bolso en el suelo, entre los pies, y no volvió a tocarlo.
+Jessie llevaba el abrigo puesto y no lo colgó en el respaldo. Puso las dos manos sobre la mesa y las mantuvo ahí. Maja dejó el bolso en el suelo, entre los pies, y no lo tocó más.
 
 —¿Quién cruzó la puerta? —preguntó la jueza.
 
@@ -102,7 +102,7 @@ La fiscal retiró la referencia a daños interiores y entregó la frase corregid
 
 Jessie leyó de nuevo y firmó. Maja no intervino.
 
-Tomas esperó de pie a que la letrada retirase los folios de la mesa. Llevaba el carné en la mano desde antes de entrar en la sala. Nadie le indicó dónde sentarse y no se sentó.
+Tomas esperó de pie mientras la letrada retiraba los folios de la mesa. Llevaba el carné en la mano desde antes de entrar en la sala. Nadie le indicó dónde sentarse.
 
 Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había forzado once segundos de diagnóstico, alterado el retorno seguro y usado una hoja de Hvelv dentro de la contratación de Kronfjord. Los registros de emisión de Hvelv devolvieron la ruta de firma y las guardias activas. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
 
