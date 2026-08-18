@@ -102,7 +102,7 @@ Al otro lado se oyó pasar una hoja.
 
 Tomas miró la copia sellada. Kronfjord Kapital estaba en el consejo y Gunnar había activado alarmas internas antes de morir, pero el formulario no ampliaba el perímetro.
 
-Su nombre figuraba en la primera línea y en el pie de cada página. El sello llevaba la hora de la exportación y el número de la cadena. El formulario pedía el número de acreditación y su fecha de vencimiento. No pedía un cargo ni una empresa. Tomas comprobó la fecha. Si Armstrong retiraba la clase, la cadena seguía a su nombre y él perdía el acceso. Apoyó dos dedos sobre el sello y los mantuvo allí mientras Mats esperaba.
+Su nombre figuraba en la primera línea y en el pie de cada página. El sello llevaba la hora de la exportación y el número de la cadena. El formulario pedía el número de acreditación y su fecha de vencimiento. No pedía un cargo ni una empresa. Tomas comprobó la fecha. Si Armstrong retiraba la clase, la cadena seguía a su nombre y él perdía el acceso. Mantuvo la mano sobre el sello mientras Mats esperaba.
 
 —He preservado la cadena a mi nombre. Conservaré el expediente de contratación del fondo y después consultaré su alcance.
 

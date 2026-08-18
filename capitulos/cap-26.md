@@ -14,7 +14,7 @@ orden_lectura: 26
 
 La tercera bolsa se quedó en el maletero. Agradecerían no haber descargado la vida entera si tenían que marcharse antes del amanecer.
 
-Eligió el equipaje por peso, sin separar el de cada una. Un jersey de Jessie podía terminar con la ropa de Maja y el cargador de Nora, en el bolsillo de cualquiera. Dentro quedaban dos bolsas y la caja que llenaron cuando la casa de Tromsøya empezó a parecerles demasiado observada. El seguimiento y la retención bastaban para llenarla. Salieron el lunes, con la cuenta escolar cerrada, un aviso al centro sin responsable y el encargo del domingo autorizado el mismo lunes.
+Eligió el equipaje por peso, sin separar el de cada una. Un jersey de Jessie podía terminar con la ropa de Maja y el cargador de Nora, en el bolsillo de cualquiera. Dentro quedaban dos bolsas y la caja que llenaron cuando la casa de Tromsøya empezó a parecerles demasiado observada. El seguimiento y la retención bastaban para llenarla. Salieron el lunes, con la cuenta escolar cerrada, un aviso al centro y el encargo del domingo autorizado el mismo lunes.
 
 En la entrada de la casa baja, Aslak esperó inmóvil hasta que Maja abrió el maletero. Cogió las otras dos bolsas. Miró lo que seguía dentro sin preguntar cuánto tiempo pensaban quedarse.
 

@@ -270,7 +270,7 @@ Jessie bajó un peldaño sin apartar la vista de la consola. El aviso térmico q
 
 `ENLACE DE APLICACIÓN · LIMITADO`
 
-Aslak metió atrás. Maja agarró a Jessie por la parte posterior de la parka y la llevó al fondo de la barca. Jessie cayó de lado entre los bancos, con el codo recogido contra las costillas y la barbilla baja. No se hizo daño. El rellano empezó a separarse. La puerta permaneció cerrada y el indicador interior de salida, verde.
+Aslak metió atrás. Maja agarró a Jessie por la parte posterior de la parka y la llevó al fondo de la barca. Jessie cayó de lado entre los bancos, con la barbilla baja. No se hizo daño. El rellano empezó a separarse. La puerta permaneció cerrada y el indicador interior de salida, verde.
 
 La consola exterior cambió de estado una vez más.
 
