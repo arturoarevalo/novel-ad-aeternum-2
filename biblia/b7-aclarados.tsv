@@ -1,0 +1,13 @@
+# Hits de nivel B que A7 ya leyó y descartó en un gate anterior. Formato: nivel<TAB>fichero<TAB>palabra
+# No borran nada: el hit sigue contando en el total y el pre-chequeo informa de cuántos silencia.
+# Solo A7 añade líneas aquí, y solo tras haberlas leído en un dictamen firmado.
+#
+# W2 (informes/a7-w2-cap-17.md): la playa reconstruida del jardín.
+B	cap-30.md	agua
+# W3 (informes/a7-w3-n2-n6.md): vocabulario de oficio de un patrón costero.
+B	cap-n6.md	agua
+B	cap-n6.md	cabo
+B	cap-n6.md	hielo
+B	cap-n6.md	ferry
+B	cap-n6.md	mar
+B	cap-n6.md	frío

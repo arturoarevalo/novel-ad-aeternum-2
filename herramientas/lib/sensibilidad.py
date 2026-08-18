@@ -8,7 +8,7 @@ ficheros de capitulos/, y compara con la baseline informes/a7-baseline-v0.tsv (o
 Uso: sensibilidad.py [--baseline informes/a7-baseline-v0.tsv] [--escribir informes/a7-hits-<etiqueta>.tsv] [--solo cap-08.md …]
 Exit 0 siempre (es un aviso), salvo error de ficheros.
 """
-import sys, os, re, argparse
+import sys, os, re, argparse, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import aa
 
@@ -19,6 +19,11 @@ def cargar_patrones(p):
         if not line.strip() or line.startswith("#"): continue
         pats.append((line, re.compile(line, re.I)))
     return pats
+
+# Nombres propios del reparto que coinciden con vocabulario de los patrones. El filtro se aplica
+# sobre LA PALABRA QUE CASA, no sobre la línea entera: antes bastaba que la línea nombrase a
+# Cuchillo para silenciar cualquier otro disparo de esa línea (p. ej. «coche» o «agua»).
+NOMBRES_PROPIOS = ("Cuchillo", "Nieve")
 
 def hits(paths, patsA, patsB):
     out = []
@@ -31,11 +36,27 @@ def hits(paths, patsA, patsB):
             plano = line
             for nivel, pats in (("A", patsA), ("B", patsB)):
                 for src, rx in pats:
-                    if rx.search(plano):
-                        if nivel == "B" and re.search(r"\bCuchillo\b", plano) and not re.search(r"\bcuchillo\b", plano):
-                            continue
-                        out.append((nivel, os.path.basename(path), i + offset, src[:40], plano.strip()[:200]))
+                    m = rx.search(plano)
+                    if not m: continue
+                    casa = m.group(0)
+                    if nivel == "B" and casa in NOMBRES_PROPIOS:
+                        continue  # es el personaje, no el objeto
+                    out.append((nivel, os.path.basename(path), i + offset, src[:40],
+                                plano.strip()[:200], casa.lower()))
     return out
+
+
+def cargar_aclarados(p):
+    """(nivel, fichero, palabra) que A7 ya leyó y descartó en gates anteriores. No borra el hit:
+    lo saca de la lista de NUEVOS y lo cuenta aparte, para que nunca desaparezca en silencio."""
+    ac = set()
+    if not os.path.exists(p): return ac
+    for line in open(p, encoding="utf-8"):
+        line = line.strip()
+        if not line or line.startswith("#"): continue
+        cols = line.split("\t")
+        if len(cols) >= 3: ac.add((cols[0].strip(), cols[1].strip(), cols[2].strip().lower()))
+    return ac
 
 def main():
     ap = argparse.ArgumentParser()
@@ -63,13 +84,28 @@ def main():
             cols = line.rstrip("\n").split("\t")
             if len(cols) >= 5: base_textos.add((cols[1], cols[4].strip()[:120]))
     nuevos = [h for h in H if (h[1], h[4][:120]) not in base_textos]
+    aclarados = cargar_aclarados(os.path.join(aa.BIBLIA, "b7-aclarados.tsv"))
+    silenciados = [h for h in nuevos if (h[0], h[1], h[5]) in aclarados]
+    nuevos = [h for h in nuevos if (h[0], h[1], h[5]) not in aclarados]
     if a.escribir:
         with open(a.escribir, "w", encoding="utf-8") as f:
-            f.write("nivel\tfichero\tlinea\tpatron\ttexto\n")
+            f.write("nivel\tfichero\tlinea\tpatron\ttexto\tcasa\n")
             for h in H: f.write("\t".join(map(str, h)) + "\n")
     print(f"T7 pre-chequeo: {len(H)} hits totales ({sum(1 for h in H if h[0]=='A')} A / {sum(1 for h in H if h[0]=='B')} B) · NUEVOS respecto a baseline: {len(nuevos)}")
-    for h in nuevos:
-        print(f"  [{h[0]}] {h[1]}:{h[2]} ({h[3]}) → {h[4][:140]}")
+    if silenciados:
+        pal = collections.Counter(f"{h[1]}:{h[5]}" for h in silenciados)
+        print(f"  ({len(silenciados)} nuevos no listados por estar en b7-aclarados.tsv, ya leídos por A7: "
+              + ", ".join(f"{k}×{v}" for k, v in pal.most_common(6)) + ")")
+    porA = [h for h in nuevos if h[0] == "A"]
+    porB = [h for h in nuevos if h[0] == "B"]
+    for h in porA:
+        print(f"  [A] {h[1]}:{h[2]} ({h[3]}) → {h[4][:140]}")
+    if porB:
+        agr = collections.defaultdict(list)
+        for h in porB: agr[h[5]].append(f"{h[1]}:{h[2]}")
+        print("  nivel B, agrupado por la palabra que casa:")
+        for pal, donde in sorted(agr.items(), key=lambda x: -len(x[1])):
+            print(f"    «{pal}» ×{len(donde)} → {', '.join(donde[:6])}{' …' if len(donde) > 6 else ''}")
     if nuevos:
         print("→ Pasar la lista de NUEVOS a A7 (nivel A: lectura obligatoria).")
 
