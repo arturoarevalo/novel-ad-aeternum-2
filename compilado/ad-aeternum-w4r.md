@@ -9793,9 +9793,7 @@ La encargada de prensa apartó la bandeja y acercó de nuevo la tarjeta. El marc
 
 El pase abrió el backstage y rechazó el corredor de la sala de control. Nadie comentó el pitido rojo.
 
-Su nombre ocupaba las hojas de movimiento con un recuadro dorado, reservado para quienes debían aparecer en los planos generales. En el plano técnico, una flecha ámbar terminaba ante dos corredores muertos.
-
-En el camerino la esperaba una carpeta con horarios, temas aprobados y su cargo sin verbo. `ALANA ARMSTRONG · FUNDADORA EMÉRITA`. Una redactora le pidió treinta segundos junto al cartel de ARGOS.
+En el camerino la esperaba una carpeta con su cargo sin verbo. Una redactora le pidió treinta segundos junto al cartel de ARGOS.
 
 —Solo necesitamos que diga que Jean estaría orgullosa.
 
@@ -9807,7 +9805,7 @@ En el camerino la esperaba una carpeta con horarios, temas aprobados y su cargo 
 
 La redactora fue a buscar a alguien más manejable.
 
-Alana entró en el puesto de verificación del homenaje. Su acreditación solo permitía consultar los materiales que podían acabar en emisión: vídeo, rótulos, cifras de capacidad y el informe de aptitud de la demostración. Una alerta nocturna seguía fijada encima del resumen.
+Alana entró en el puesto de verificación del homenaje. Una alerta nocturna seguía fijada encima del resumen.
 
 `CONSOLIDACIÓN L-SERIE · REGISTRO COMPARADO DISPONIBLE`
 
@@ -9843,7 +9841,7 @@ Otro auditado quedó abierto bajo el resumen.
 
 El pie definía la unidad como trabajo completado contra la línea base humana de SPEIL. Armstrong lo había colocado bajo capacidad consolidada.
 
-Alana abrió el desglose por procedencia. Identificadores retirados, rutas receptoras y traslados aparecían reducidos a estado aprovechado o descartado. El informe no registraba qué capacidad se había perdido al cerrar antes.
+Alana abrió el desglose por procedencia. Identificadores retirados, rutas receptoras y traslados aparecían reducidos a estado aprovechado o descartado.
 
 El recuento terminaba en las rutas. El informe no tenía campos para voluntades ni muertes.
 
@@ -9903,9 +9901,9 @@ Henrik consultó la ficha del montaje.
 
 —Armstrong tiene la foto. Maja no os ha dado permiso para proyectar a sus hijas.
 
-La imagen volvió a moverse. Jean cerró el piano y miró hacia quien grababa. Tres segundos domésticos desembocaron en una locución sobre juicio humano. Después aparecieron las gemelas de niñas ante el teclado. Alana reconoció las caras, no la ocasión.
+La imagen volvió a moverse. Jean cerró el piano y miró hacia quien grababa. Después aparecieron las gemelas de niñas ante el teclado. Alana reconoció las caras, no la ocasión.
 
-El montaje había eliminado el sonido original. Sobre los movimientos de Jean entraba una voz neutra que hablaba de once años de innovación, como si abrir una tapa, buscar una herramienta y mirar a sus hijas hubiesen sido actos preparatorios para ARGOS. La música crecía justo cuando Jessie se inclinaba hacia Nora.
+El montaje había eliminado el sonido original. Sobre los movimientos de Jean entraba una voz neutra que hablaba de once años de innovación. La música crecía justo cuando Jessie se inclinaba hacia Nora.
 
 En la ficha del bloque, Nora figuraba como `HIJA · PIANISTA · HISTORIA HUMANA`. Su acreditación permitía el ascensor técnico, la cabina y una entrada asignada al canal del homenaje. No abría controles.
 
@@ -9955,17 +9953,15 @@ A las once y cuarenta y cuatro, el borde del sol apareció entre las montañas. 
 
 Mats salió a escena cuando le dieron paso. La pantalla dejó la luz a su espalda y los focos le borraron la sombra bajo los pies. Alana esperó entre cajas negras mientras el programa avanzaba hacia el mediodía.
 
-Las cuarenta y dos delegaciones recibieron traducción simultánea. Alana permaneció en el lugar que le habían asignado para aplaudir.
-
 En el monitor convivían dos estados.
 
 `CONSOLIDACIÓN · COMPLETADA`
 
 `FASE COMÚN · 12:47`
 
-A las doce, la retransmisión mundial quedó abierta.
-
 * * *
+
+A las doce, la retransmisión mundial quedó abierta.
 
 A las doce y cuatro, Astrid dejó la carpeta sobre el regazo cuando el acomodador le pidió guardarla bajo la butaca.
 
@@ -9997,7 +9993,7 @@ Astrid esperó a que terminase un aplauso.
 
 Desde la butaca veía el reloj de producción y la cabina al fondo.
 
-Un fotógrafo avanzó de espaldas por el pasillo. Astrid no movió la carpeta. El cartón gris quedó visible en la imagen oficial.
+Un fotógrafo avanzó de espaldas por el pasillo. El cartón gris quedó visible en la imagen oficial. Astrid no movió la carpeta.
 
 * * *
 
@@ -10025,7 +10021,7 @@ Desde el cruce de pasillos, Alana vigilaba la entrada a cabina y el lateral del 
 
 Alana dejó libre el paso. Nora levantó la vista al llegar a su altura y apretó el cuaderno contra el costado. Ambas siguieron sin saludarse.
 
-La cabina aceptó la acreditación. Nora desapareció dentro.
+Nora desapareció dentro.
 
 Alana ocupó el lateral del escenario, visible para las cámaras y cerca del punto donde tendría que permanecer si la confesión salía. El paquete cifrado continuaba preparado en su terminal personal. Comprobó una vez los dos objetos: el pase ceremonial colgaba a la vista y el token fundacional seguía dentro de la cartera. La firma no se había ejecutado.
 
@@ -10035,11 +10031,11 @@ Un miembro de regiduría quiso llevarla a la primera fila.
 
 La hoja lo confirmaba durante seis minutos más. El hombre la dejó en el lateral.
 
-A las doce y treinta, Seguridad cerró el backstage por sectores. Las acreditaciones de prensa perdieron el corredor técnico. La de Nora conservó la entrada de audio porque formaba parte del programa aprobado. En el monitor, la demostración pasó de `PREPARACIÓN` a `ARMADA`.
+A las doce y treinta, Seguridad cerró el backstage por sectores. Las acreditaciones de prensa perdieron el corredor técnico. En el monitor, la demostración pasó de `PREPARACIÓN` a `ARMADA`.
 
 Alana no veía el fiordo. No sabía si el ADCP confirmaría la corriente, si el hielo permitiría trabajar o si la petición llegaría desde el umbral exterior.
 
-Un regidor retiró del lateral una caja de herramientas y marcó con cinta el punto exacto donde debía esperar Alana durante el homenaje. Ella colocó los zapatos dentro del rectángulo. Desde allí veía la puerta de cabina, una franja del patio y el contador. No veía a Nora. La entrada de cabina seguía en verde. El enlace con la salida educativa interior aún no existía.
+Un regidor retiró del lateral una caja de herramientas y marcó con cinta el punto exacto donde debía esperar Alana durante el homenaje. Ella colocó los zapatos dentro del rectángulo. Desde allí veía la puerta de cabina, una franja del patio y el contador. No veía a Nora. El enlace con la salida educativa interior aún no existía.
 
 El reloj de producción marcó 12:37:59.
 
@@ -10062,7 +10058,7 @@ La red pesaba demasiado para algo que no debía romper nada.
 
 Jessie la sostuvo contra la regala mientras Aslak soltaba el primer paño. Los plomos golpearon la cubierta y después desaparecieron por la popa. Maja, arrodillada ante la tableta protegida, comparaba la flecha del perfilador con las marcas que había trazado la noche anterior. No levantó la cabeza.
 
-Habían salido de Koppangen con las cajas encajadas bajo los bancos y una lona cubriendo el carrete. Aslak lo había llevado al naust varios días antes. Bajo el foco, cada vuelta de red mostraba remiendos de cordel distinto. Equipo de pesca usado para un trabajo que duraría minutos.
+Habían salido de Koppangen con las cajas bajo los bancos y una lona sobre el carrete. Bajo el foco, cada vuelta de red mostraba remiendos de cordel distinto. Equipo de pesca usado para un trabajo que duraría minutos.
 
 El pantalón impermeable de Jessie se pegaba a sus rodillas con la sal. En la caja quedaban el cuchillo, dos grilletes y una boya de señal. Solo el repetidor, bajo su parka, parecía no pertenecer a la barca.
 
@@ -10548,8 +10544,6 @@ Henrik presentó el siguiente caso de la demostración. La plantilla prevista no
 
 Una risa escapó cerca del pasillo central. Le siguieron otras dos, más bajas, hasta que la palabra permaneció el tiempo necesario para que nadie pudiera fingir que era parte del espectáculo. En la cabina, una técnica recuperó la salida anterior y volvió a cargarla. La misma etiqueta regresó con una marca temporal nueva.
 
-El cristal de la cabina daba a una superficie de nucas y pantallas pequeñas. En las primeras filas, los fotógrafos habían bajado las cámaras a la vez. Nora contó cuatro que las levantaron otra vez.
-
 —Sigue —dijo el regidor por el intercomunicador.
 
 Henrik obedeció. Reformuló la entrada como si estuviera ofreciendo al sistema una segunda oportunidad. Nora pulsó la primera nota. El canal la tomó sin recorte.
@@ -10726,8 +10720,6 @@ A las 13:07, la puerta central se abrió. Entraron dos funcionarios del minister
 
 —Inspectora Vik, queda notificada. La manifestación ha activado la orden condicional de custodia estratégica preparada tras la cautelar denegada.
 
-Las cámaras se habían girado hacia la puerta central. Nadie volvió a sentarse en las filas del centro. El primer funcionario mantuvo las manos por delante mientras una acomodadora abría la puerta lateral y la sostenía.
-
 El membrete, la firma y la facultad invocada eran correctos. Sujeta a revisión judicial, la medida suspendía traslado, modificación y cesión y ponía soportes y canales bajo custodia inmediata.
 
 Astrid buscó consentimiento en la parte dispositiva. El campo no existía. El ministerio podía impedir el borrado y controlar los accesos.
@@ -10833,8 +10825,6 @@ Cuchillo recibe una ventana dentro de la contención.
 
 La ruta exterior sigue bloqueada.
 
-Retiró el destino del Auditorio antes de que las rutas se enlazaran. La decisión fue suya y consta bajo `/0188`.
-
 Cuchillo abre los expedientes que conserva. Peticiones de auxilio convertidas en material de moderación. Historias que terminan cuando el formulario obtiene una categoría.
 
 El último campo espera una resolución.
@@ -10852,8 +10842,6 @@ El sistema marca el campo incompleto y ofrece calcular un resultado probable. Te
 * * *
 
 Madre espera ante su ventana.
-
-Ha esperado en `/0007` desde antes de que las demás se enlazaran, sin entrar en el enlace.
 
 El ciclo educativo continúa abierto, pero no llega ninguna nota desde el Auditorio. Madre tararea el comienzo de la melodía y coloca una nota mal.
 
@@ -10960,9 +10948,9 @@ La escarcha de la fotografía había convertido una tubería de NIDHOGG en una p
 
 Astrid la dejó boca abajo el 22 de enero y unió `R-1189` a las once filas preservadas. Añadió la atestación `CE-K` de NORNA, contrastó las procedencias y firmó la suspensión. ARGOS tendría que recertificarse y las nuevas emisiones quedarían bloqueadas. El consejo de Armstrong había obtenido antes de la tarde un *standstill* de setenta y dos horas de los acreedores principales. El contrato aún vencía el 23.
 
-Al día siguiente, Kronfjord congeló las líneas y entregó el contrato que repartía la operación entre empresas y dejaba a Armstrong como beneficiaria.
+Al día siguiente, Kronfjord congeló las líneas y entregó el contrato.
 
-El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning` que prohibiera transferir o alterar NIDHOGG y permitiera preservarlo. El tribunal exigió precisión al día siguiente. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
+El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning`. El tribunal exigió precisión al día siguiente. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
 
 Astrid volvió la fotografía.
 
@@ -11048,7 +11036,7 @@ Jessie leyó de nuevo y firmó. Maja no intervino.
 
 Tomas esperó de pie mientras la letrada retiraba los folios de la mesa. Llevaba el carné en la mano desde antes de entrar en la sala. Nadie le indicó dónde sentarse.
 
-Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había forzado once segundos de diagnóstico, alterado el retorno seguro y usado una hoja de Hvelv dentro de la contratación de Kronfjord. Los registros de emisión de Hvelv devolvieron la ruta de firma y las guardias activas. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
+Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había usado una hoja de Hvelv dentro de la contratación de Kronfjord. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
 
 —¿Quién dio la instrucción? —preguntó la jueza.
 
@@ -11058,7 +11046,7 @@ Nadie contestó.
 
 —Una denuncia anónima, a las ocho y doce del diecisiete de diciembre —dijo Astrid—. No puedo acreditar su origen.
 
-Astrid abrió el contrato recibido el día 23. La telemetría y los controles de Armstrong confirmaban la recepción del resultado y el beneficio corporativo. Con esos retornos, la jueza tuvo por acreditados el mecanismo deliberado, la cadena Hvelv–Kronfjord y el beneficio de Armstrong. El auto dejó en blanco al ejecutor y al ordenante individuales.
+Astrid abrió el contrato recibido el día 23. La jueza tuvo por acreditados el mecanismo deliberado, la cadena Hvelv–Kronfjord y el beneficio de Armstrong. El auto dejó en blanco al ejecutor y al ordenante individuales.
 
 Alana compareció con el documento antiguo abierto por la remisión al anexo póstumo.
 
@@ -11080,7 +11068,7 @@ El resguardo identificaba el corpus y la autorización privada aún activa.
 
 —Sí.
 
-El formulario le permitía mantener vigente su autorización privada sobre el corpus o revocarla desde aquel día. El corpus seguiría intacto, segregado e inerte bajo custodia, y cualquier uso futuro tendría que empezar con autorización contemporánea y control externo.
+El corpus seguiría intacto, segregado e inerte bajo custodia, y cualquier uso futuro tendría que empezar con autorización contemporánea y control externo.
 
 —Si la mantengo, puedo frenar un uso precipitado mientras se fija un protocolo estable —dijo Mats.
 
@@ -11092,13 +11080,13 @@ Mats leyó las dos opciones otra vez.
 
 * * *
 
-El `kjennelse` del 28, eficaz desde la solicitud del día 25, abrió la reestructuración y nombró `rekonstruktør`. Mantuvo la `midlertidig forføyning` sobre NIDHOGG. Armstrong continuaría como deudora en posesión supervisada, con su autonomía limitada sobre deuda y activos importantes. Su desenlace seguía fuera de aquel auto.
+El `kjennelse` del 28, eficaz desde la solicitud del día 25, abrió la reestructuración y nombró `rekonstruktør`. Armstrong continuaría como deudora en posesión supervisada. Su desenlace seguía fuera de aquel auto.
 
 El 29, el ascensor de carga llevó a la comisión de inspección al nivel menos dos. Astrid y Maja quedaron detrás de la técnica. Bajo las suelas persistía el temblor de las bombas.
 
 Una técnica conectó una sonda precintada y abrió una sola tarea de comprobación. La pantalla dibujó su traza. Mientras seguía abierta, la segunda línea eléctrica tomó carga. Cambió la curva térmica y la bomba corrigió el retorno. El cierre quedó marcado cuando el sistema recuperó su régimen. La línea de salida no recibió marca. Aquella operación necesitó el sustrato y los controladores. También el frío y la persona que la vigilaba.
 
-El aire seco olía a plástico caliente. En la misma traza constaban el repuesto instalado en diciembre y el turno de quien había validado la corrección. La técnica desconectó la sonda y esperó a que la lectura recuperase el valor previo antes de tocar el precinto.
+El aire seco olía a plástico caliente. En la misma traza constaban el repuesto instalado en diciembre y el turno de quien había validado la corrección.
 
 —¿Puede capturar el estado y restaurarlo en otro equipo? —preguntó Astrid.
 
@@ -11136,13 +11124,13 @@ Maja no solicitó acceso.
 
 * * *
 
-El 2 de febrero, la resolución constituyó el depósito judicial en la propia instalación. La caja controlada pagaría suministro, frío, repuestos y personal autorizado. Un protocolo cubriría urgencias y registraría cada acceso. Los demás cambios necesitarían autorización.
+El 2 de febrero, la resolución constituyó el depósito judicial en la propia instalación. La caja controlada pagaría suministro, frío, repuestos y personal autorizado. Un protocolo cubriría urgencias y registraría cada acceso.
 
-El reconstructor controlaría la caja y el tribunal decidiría sobre NIDHOGG. Armstrong podía mantener trabajando al equipo, pero no disponer por sí sola de aquello que mantenía.
+El reconstructor controlaría la caja. Armstrong podía mantener trabajando al equipo, pero no disponer por sí sola de aquello que mantenía.
 
-El tribunal ordenó preparar una ventana supervisada de audio y texto para futuras visitas, siempre bajo autorización posterior. También autorizó la instalación de un sensor audiovisual bajo el alero del naust. Su enlace sería unidireccional, aislado de los controles y permanecería sin señal hasta otra decisión.
+El tribunal ordenó preparar una ventana supervisada de audio y texto para futuras visitas, siempre bajo autorización posterior. También autorizó un sensor audiovisual bajo el alero del naust, unidireccional y sin señal hasta otra decisión.
 
-Maja aceptó la tutela-depósito procesal. Podría comunicar incidencias, recibir e impugnar registros y solicitar visitas. NIDHOGG quedaba fuera de su custodia. Tampoco adquiría propiedad, representación general ni control técnico.
+Maja aceptó la tutela-depósito procesal. NIDHOGG quedaba fuera de su custodia. No adquiría propiedad, representación general ni control técnico.
 
 —¿Acepta esos límites cuando perjudiquen una petición de su familia? —preguntó la jueza.
 
@@ -11177,11 +11165,11 @@ La funcionaria señaló el botón amarillo de su consola. Si lo pulsaba, cerrar�
 
 Nora dejó el botón donde estaba. El piloto del canal seguía encendido.
 
-La funcionaria esperó. A su lado, el reloj continuó descontando los veinte minutos.
+La funcionaria esperó. El reloj descontaba los veinte minutos.
 
-El locutorio tenía una mesa, la silla y un cristal lateral. Un teclado de cinco octavas ocupaba casi todo el tablero. A su lado cabían el pedal y la pantalla de texto. En el marco del cristal, una tarjeta plastificada mostraba los dos horarios semanales y los símbolos de audio, escritura y registro. Ninguna ventana daba a la Cripta.
+Un teclado de cinco octavas ocupaba casi toda la mesa. En el marco del cristal lateral, una tarjeta plastificada mostraba los dos horarios semanales y los símbolos de audio, escritura y registro. Ninguna ventana daba a la Cripta.
 
-Maja esperaba en el pasillo. Había firmado la recepción del teclado, comprobado el número del turno y salido del alcance del micrófono. La funcionaria llevaba auriculares detrás del cristal y vigilaba la barra de entrega.
+Maja esperaba en el pasillo. Había firmado la recepción del teclado y salido del alcance del micrófono. La funcionaria llevaba auriculares detrás del cristal y vigilaba la barra de entrega.
 
 Nora llevaba una hoja doblada dentro de la mochila. La noche anterior había escrito una pregunta, la había corregido dos veces y había acabado anotando debajo el primer compás de la pieza. Frente al altavoz, hasta la versión falsa que preparó para comprobar una respuesta le pareció una trampa.
 
@@ -11287,7 +11275,7 @@ La profesora cerró la puerta del aula cuando Nora aún se quitaba el abrigo. Le
 
 Una tarde encontró otra vez únicamente el nombre `Despedida`. No abrió el archivo. Restringió el acceso, decidió conservarlo y fue a poner la mesa para cenar.
 
-A finales de febrero, Aslak eligió tres reproducciones autorizadas de la carpeta trilingüe y las metió en un sobre de la Sør-Lyngen kystbrukslag. Devolvió el original a su funda y cerró el cajón del refugio.
+A finales de febrero, Aslak metió tres reproducciones autorizadas en un sobre de la Sør-Lyngen kystbrukslag.
 
 —La asociación ha autorizado estas —dijo—. El miércoles nos escuchan.
 
@@ -11295,9 +11283,9 @@ A finales de febrero, Aslak eligió tres reproducciones autorizadas de la carpet
 
 —Después esperamos el acta. El miércoles no deciden.
 
-Maja esperó a que dejara el sobre junto a su abrigo y le enseñó dos fotografías del hastial del naust. Aslak pidió una medida y propuso el jueves siguiente. Maja aceptó el trabajo.
+Maja le enseñó dos fotografías del hastial del naust. Aslak pidió una medida y propuso el jueves siguiente. Maja aceptó el trabajo.
 
-En Koppangen, Aslak introdujo una palanca bajo la primera tabla mientras Nora sujetaba la pieza nueva contra el muro. Jessie acercó los tornillos. La madera podrida se abrió alrededor de dos clavos y dejó caer serrín húmedo sobre las botas.
+En Koppangen, Aslak introdujo una palanca bajo la primera tabla mientras Nora sujetaba la pieza nueva. Jessie acercó los tornillos. La madera podrida se abrió alrededor de dos clavos.
 
 —Pensaba que aguantaría otro invierno —dijo Nora.
 
@@ -11313,7 +11301,7 @@ Aslak señaló una cabeza de clavo que sobresalía.
 
 —Vemos el daño y recalculo.
 
-Nora elevó la tabla. Aslak corrigió el corte y la encajó antes de pasar a la segunda. Cuando acabó, las piezas nuevas quedaron demasiado claras junto a las antiguas. Maja efectuó el pago allí mismo. Mientras recogía las herramientas, Aslak les dijo que la consulta tendría otra sesión el mes siguiente.
+Nora elevó la tabla. Aslak la encajó antes de pasar a la segunda. Las piezas nuevas quedaron demasiado claras junto a las antiguas. Maja efectuó el pago allí mismo.
 
 Desde el embarcadero se distinguía la carcasa del sensor judicial bajo el alero del naust. La lente encuadraba un fragmento del muelle y el cable desaparecía en el transmisor precintado.
 
@@ -11327,11 +11315,11 @@ En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el tecl
 
 La mujer de recepción llamó a la siguiente aspirante mientras las tres salían.
 
-Tomaron la carretera hacia Breivikeidet después de comer en el coche. Aslak estaba con la asociación en la segunda sesión de la consulta. En Koppangen, las tablas nuevas del naust conservaban un color pálido junto a las antiguas.
+Tomaron la carretera hacia Breivikeidet después de comer en el coche. Aslak estaba con la asociación en la segunda sesión de la consulta.
 
-Maja apoyó el terminal judicial sobre un cajón y mostró a Nora una salida textual registrada durante uno de los turnos. Tras la marca de entrega figuraban el identificador de la única ejecución y el nombre `Jean Marie Larsson`. La salida pedía sesenta segundos diarios de imagen y sonido ambiente desde el sensor local, en una sola dirección hasta la entrada exterior de NIDHOGG.
+En Koppangen, Maja apoyó el terminal judicial sobre un cajón y mostró a Nora una salida textual registrada durante uno de los turnos. Tras la marca de entrega figuraban el identificador de la única ejecución y el nombre `Jean Marie Larsson`. La salida pedía sesenta segundos diarios de imagen y sonido ambiente desde el sensor local, en una sola dirección hasta la entrada exterior de NIDHOGG.
 
-El responsable técnico del depósito incorporó la petición al acta de conformidad. Aquella mañana, el tribunal había autorizado la señal del sensor sin retorno, acceso a controles ni más cómputo. Maja cotejó la duración y la dirección en el terminal, programó las doce del día siguiente y dejó constancia de que la primera entrega seguía pendiente.
+El responsable técnico del depósito incorporó la petición al acta de conformidad y el tribunal autorizó la señal. Maja programó las doce del día siguiente y dejó constancia de que la primera entrega seguía pendiente.
 
 Nora miró el teclado que Jessie había dejado en el maletero abierto. A esa hora tenía ensayo con otras tres personas.
 
@@ -11356,8 +11344,6 @@ Aslak sacó la lista de la descarga, tachó dos líneas y las escribió otra vez
 
 En 2057 la lectura había durado dos días y la sala estaba llena. Entonces la asociación tenía veintitrés nombres.
 
-El café de la máquina venía en un vaso demasiado fino para sostenerlo lleno. Aslak lo dejó en el borde de la mesa. Esperó.
-
 En la pantalla del salón, sin sonido, tres personas hablaban alrededor de una mesa. Un rótulo entraba y volvía a marcharse bajo sus caras.
 
 `PERSONA O ACTIVO`
@@ -11374,7 +11360,7 @@ Un marinero pasó anotando matrículas y se detuvo en la suya.
 
 —Voy a verlo.
 
-El marinero siguió con la fila. En la pantalla, uno de los tres levantó la mano y los otros dos hablaron a la vez. Un pasajero subió el volumen dos marcas. La mujer de al lado señaló a un niño dormido y él volvió a bajarlo.
+El marinero siguió con la fila.
 
 Aslak metió el sobre bajo la parka y bajó a la cubierta antes del atraque.
 
@@ -11530,17 +11516,13 @@ Maja bajó dos peldaños y se detuvo.
 
 El ferry de las cuatro atracó en Svensby con doce minutos de retraso. Aslak esperó a que sacaran el camión de pienso antes de arrancar.
 
-Paró en la tienda antes de subir al refugio. El aparcamiento tenía dos coches y una moto de reparto. En el tablón de fuera seguían los horarios del ferry y un anuncio de una barca en venta desde el otoño. El horario de verano empezaba en junio y alguien lo había corregido a mano.
-
-En el cristal de la puerta habían pegado una hoja impresa.
+Paró en la tienda antes de subir al refugio. En el cristal de la puerta habían pegado una hoja impresa.
 
 `NO SOY UN MODELO`
 
 Alguien había tachado la última palabra con rotulador. Debajo, otra mano había escrito dos renglones que la lluvia había corrido.
 
-Las estanterías del fondo tenían el pan de la mañana y una caja de guantes rebajados. Aslak compró café, dos paquetes de pilas y un rollo de cinta. Delante de la caja, dos hombres discutían una palabra del rótulo de la pantalla y dejaron de hacerlo cuando llegó su turno.
-
-La cajera pasó las pilas por el lector y miró el membrete del sobre.
+Aslak compró café, dos paquetes de pilas y un rollo de cinta. La cajera pasó las pilas por el lector y miró el membrete del sobre.
 
 —¿Ya os lo han leído?
 
@@ -11550,7 +11532,7 @@ La cajera pasó las pilas por el lector y miró el membrete del sobre.
 
 —Está en el expediente —dijo Aslak—. Página once.
 
-Aslak pagó justo. La cajera dobló el recibo. Después empujó la bolsa hacia él y saludó por su nombre al hombre que esperaba detrás.
+Aslak pagó justo. La cajera dobló el recibo y saludó por su nombre al hombre que esperaba detrás.
 
 —¿Y ahora qué?
 
@@ -11559,8 +11541,6 @@ Aslak pagó justo. La cajera dobló el recibo. Después empujó la bolsa hacia �
 —Algo es.
 
 * * *
-
-La carretera del refugio subía con dos rodadas y una franja de grava en medio. Aslak paró antes de la curva y dejó pasar al coche del correo.
 
 Dejó el acta en el cajón del refugio, encima de las tres reproducciones que volvían con él. Las selladas llegarían en diez días.
 

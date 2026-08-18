@@ -142,7 +142,7 @@ A finales de febrero, Aslak metió tres reproducciones autorizadas en un sobre d
 
 Maja le enseñó dos fotografías del hastial del naust. Aslak pidió una medida y propuso el jueves siguiente. Maja aceptó el trabajo.
 
-En Koppangen, Aslak introdujo una palanca bajo la primera tabla mientras Nora sujetaba la pieza nueva. Jessie acercó los tornillos. La madera podrida se abrió alrededor de dos clavos.
+En Koppangen, Aslak introdujo una palanca bajo la primera tabla mientras Nora sujetaba la pieza nueva. Jessie acercó los tornillos. La madera podrida se abrió alrededor de dos clavos y dejó caer serrín húmedo sobre las botas.
 
 —Pensaba que aguantaría otro invierno —dijo Nora.
 
