@@ -110,7 +110,7 @@ Gunnar miró la barra antes de continuar.
 
 —El segundo iba a…
 
-La puerta se abrió a su espalda. Entró un chico con una bolsa de deporte y se colocó al final de la cola de la barra. Gunnar dejó la frase donde estaba, con la boca todavía abierta. No se volvió. Tenía las dos manos planas sobre el folio y esperó así hasta que el chico pidió, pagó y se apartó hacia el fondo. El papel se arrugó debajo, en el borde. Nora contó catorce segundos.
+La puerta se abrió a su espalda. Entró un chico con una bolsa de deporte y se puso el último en la barra. Gunnar dejó la frase a medias, con la boca todavía abierta. No se volvió. Tenía las manos planas sobre el folio y esperó así hasta que el chico pidió, pagó y se apartó hacia el fondo. El papel se arrugó debajo, en el borde. Nora contó catorce segundos.
 
 —Es solo la puerta —dijo Jessie.
 

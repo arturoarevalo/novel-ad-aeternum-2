@@ -142,7 +142,7 @@ La nueva tarea procede de una aplicación ordinaria.
 
 Una persona aceptó hace tiempo que el sistema conservara sus preferencias. Desde entonces, varias sesiones terminaron con la opción cerrada y sin respuesta. La regla interpreta ese silencio como continuidad del consentimiento y recomienda reactivar un servicio de asistencia personalizado.
 
-El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y el recordatorio de bajar los envases. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
+El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y bajar los envases al final. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
 
 `REACTIVACIÓN RECOMENDADA`
 

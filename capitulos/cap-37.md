@@ -34,7 +34,7 @@ Henrik presentó el siguiente caso de la demostración. La plantilla prevista no
 
 Una risa escapó cerca del pasillo central. Le siguieron otras dos, más bajas, hasta que la palabra permaneció el tiempo necesario para que nadie pudiera fingir que era parte del espectáculo. En la cabina, una técnica recuperó la salida anterior y volvió a cargarla. La misma etiqueta regresó con una marca temporal nueva.
 
-El cristal de la cabina daba a una superficie de nucas y pantallas pequeñas. En las primeras filas, los fotógrafos habían bajado las cámaras a la vez. Nora contó cuatro que volvieron a subirlas.
+El cristal de la cabina daba a una superficie de nucas y pantallas pequeñas. En las primeras filas, los fotógrafos habían bajado las cámaras a la vez. Nora contó cuatro que las levantaron otra vez.
 
 —Sigue —dijo el regidor por el intercomunicador.
 
@@ -202,7 +202,7 @@ La voz volvió por los altavoces.
 
 Astrid incorporó la declaración al acta. En las primeras filas, una periodista copió las palabras y después miró la lista de retiradas y reservas que acompañaba la firma. Nadie recibió una cifra de personas ni una declaración de unanimidad.
 
-En el patio de butacas, dos filas enteras se habían puesto de pie sin avanzar hacia los pasillos. Una cámara de mano bajó hasta el suelo y volvió a subir. Detrás, un técnico sostenía el cable con las dos manos. Astrid anotó la posición de las tres cámaras que seguían grabando.
+En el patio de butacas, dos filas enteras se habían puesto de pie sin avanzar hacia los pasillos. Una cámara de mano bajó hasta el suelo y subió de nuevo. Detrás, un técnico sostenía el cable con las dos manos. Astrid anotó la posición de las tres cámaras que seguían grabando.
 
 Henrik bajó por el lateral. En el pasillo, una técnica le pidió el auricular. Solo a la segunda indicación se lo entregó y continuó hacia la salida.
 
@@ -212,7 +212,7 @@ A las 13:07, la puerta central se abrió. Entraron dos funcionarios del minister
 
 —Inspectora Vik, queda notificada. La manifestación ha activado la orden condicional de custodia estratégica preparada tras la cautelar denegada.
 
-Las cámaras se habían girado hacia la puerta central. Nadie volvió a sentarse en las filas del centro. El primer funcionario esperó con las manos por delante mientras una acomodadora abría la puerta lateral y la sostenía.
+Las cámaras se habían girado hacia la puerta central. Nadie volvió a sentarse en las filas del centro. El primer funcionario mantuvo las manos por delante mientras una acomodadora abría la puerta lateral y la sostenía.
 
 El membrete, la firma y la facultad invocada eran correctos. Sujeta a revisión judicial, la medida suspendía traslado, modificación y cesión y ponía soportes y canales bajo custodia inmediata.
 

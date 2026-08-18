@@ -76,3 +76,32 @@ Novecientas palabras en las que no pasa nada y por eso duelen. No la conviertas 
 **Desviación declarada.** La frase media de narración del capítulo baja de 8,7 a **8,1** (banda B6 §7 para Jean: 8,5–10,0). Es una sola banda y es deliberada: la coda es staccato porque no hay tarea que sostenga periodos largos (B6 §2.3: los picos se agudizan acortando). Si A4 la quiere dentro de banda, la vía barata es fundir tres o cuatro pares de frases cortas de los beats (3), (6) y (14) sin añadir palabras.
 
 **Para el ledger.** **M10: CH-31 → PAGADO «como pérdida»**. Para B3 §6/§21.6: la `VENTANA REFLEXIVA` se abre **una sola vez en todo el libro**, aquí, y se cierra con la asignación siguiente; no hay contador ni duración declarada.
+
+## 9.1 · Pasada de línea A4 (coda R2)
+
+**A4 · 2026-08-18 · rama `w4-familia`.** Coda **773 → 772** palabras (banda [765–1.035] ✔); capítulo **1.741** (banda ✔). **M1 17,2, sin subir** (30 únicos, 0 términos nuevos). M4b 2,6 %. Frase media narrativa del capítulo **8,1 → 8,3** (la de la coda sube en la misma proporción) (banda de Jean 8,5–10,0: **desviación declarada, ver abajo**). Máx. 24. 0 cierres-objeto; el cierre sigue siendo `VENTANA REFLEXIVA · CERRADA` / `ASIGNACIÓN · APELACIÓN`. **M9 OK · 109 spans**; `S19-reflexiva` sin tocar. `sensibilidad.sh`: **0 hits nuevos**.
+
+### Encargo obligatorio de A0: la sobre-explicación
+
+| # | Línea | Antes | Ahora | Motivo |
+|---|---|---|---|---|
+| **A4-1** | :227 | «No lleva cifras. **No dice cuánto dura y puede cerrarse en la comprobación siguiente.**» | «No lleva cifras. **No dice cuánto dura. Por el lado derecho la banda llega entera hasta el final del campo.**» | Se retira **la regla del sistema y su predicción** («puede cerrarse en la comprobación siguiente»), que era el narrador explicando el mecanismo y además **adelantaba el final** de la coda. Queda la ausencia en el registro —fórmula canónica de v0 (13:67 «No dice cuántos siguen activos»), no explicación— y, en su lugar, **lo que Jean ve**: un borde que todavía no se ha movido. Siembra `:307` («La banda se estrecha por el lado derecho. No avisa.»), que ahora cae sin aviso previo. **+1**. |
+| **A4-2** | :291 | «**La banda recoge lo que ocurre dentro con la misma precisión que un acuse.** Cuánto dura cada repaso. Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.» | «**Jean cuenta cuánto dura cada repaso.** Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.» | Desaparecen la **generalización** («lo que ocurre dentro») y el **símil explicativo** («con la misma precisión que un acuse»). La enumeración concreta se mantiene entera y **la medición la revela el lector**, no el narrador: el conteo es de Jean y dos líneas después «Jean deja de contar. **La banda no.**» El resto del beat (`Nada de eso pide clasificación` / `Solo queda lo que la banda haya medido` / `El programa incorporará el patrón y esto irá dentro`) entrega el sentido completo sin una sola frase de sistema. **−13**. |
+
+**Compensación (A0: «la coda no puede adelgazar»).** Las dos correcciones dejan −12; se devuelven 11 palabras dentro de la propia coda, sin añadir beats ni imágenes: tres fusiones de ritmo (:233, :247, :289, +1 cada una), «Jean» explícito en :291 y :301, «no llega **ni** a la mitad» en :309, y «la banda» explícita en :227. **Saldo final: −1 palabra.** Los quince beats de `OT-25b` §9 siguen los quince.
+
+### Ritmo y molde
+
+| # | Línea | Cambio | Motivo |
+|---|---|---|---|
+| A4-3 | :233 | «La devolución consta. El acuse figura completo.» → «La devolución consta **y** el acuse figura completo.» | Uniformidad mecánica: tramo de auditoría con frases de 8/6/3/4 palabras. +1. |
+| A4-4 | :247 | «Los cuatro nombres no tienen ruta. Jean lo comprueba…» → «…no tienen ruta **y** Jean lo comprueba…» | Tres frases seguidas de seis palabras exactas. +1. |
+| A4-5 | :289 | «La atención sigue disponible. No se retira…» → «La atención sigue disponible **y** no se retira…» | Ídem. +1. |
+| A4-6 | :231 | «La cifra de precisión del último tramo **sigue donde se quedó**.» → «…**no se ha movido**.» | **Molde más repetido del texto nuevo de la oleada:** «X sigue/queda/deja donde estaba» aparecía cinco veces solo en la coda, más 11:147 (protegida), 12:113 y 19:205. Se retira una de las cinco; las dos del recuerdo (:281, :311) son el par deliberado y se conservan. ±0. |
+| A4-7 | :301 | «Al terminar cada serie **repite** cuatro nombres.» → «Al terminar cada serie **Jean repite** cuatro nombres.» | La frase reproducía casi literalmente N5:55 («Al final de cada serie repite cuatro nombres en el mismo orden»). Con el sujeto explícito el guiño se oye y la copia desaparece. +1. |
+
+**Desviación declarada (frase media 8,3 frente a 8,5–10,0).** Se mantiene y se documenta, como ya hizo A3a. La coda es staccato porque no hay tarea que sostenga un periodo largo, y llevarla a banda exigía ocho fusiones más, es decir, borrar precisamente los golpes de dos y tres palabras donde el capítulo trabaja («No hay nada que corregir.», «Los repite igual.», «No avisa.»). Se han hecho **solo** las fusiones que rompían tramos metronómicos, no las que compran métrica. La coda **no es un pico de ritmo designado** (T5): sus periodos largos serían prosa de otro autor.
+
+**Para A7 (segunda lectura de la coda entera, a7-w4b §10).** Líneas tocadas por A4: **:227, :231, :233, :247, :289, :291, :301, :303, :309**. **No** se ha tocado :237 («Es lo primero que hace con el tiempo: buscarse un error»): **P-22** intacta, sin extender su objeto. No se ha tocado el recuerdo del piano (:273-283) ni :249. Ninguna frase nueva describe el 24-nov, ni causa, ni despedida; no hay palabra nueva de afecto ni de alivio. La supresión de «con la misma precisión que un acuse» **reduce** la superficie de riesgo: el narrador ya no afirma que el interior de Jean queda registrado; lo deja ver.
+
+**Ecos anotados, no corregidos (para A0/W6).** «Repasa lo que conserva.» (:257) reproduce 08:25 («Jean repasa lo que conserva»); parece un motivo deliberado —en 8 busca lo que ha perdido, aquí revisa lo que le queda— y se conserva. «Jean la gasta en el mismo repaso.» (:305) rima con 21:139 («Jean la gasta en la playa»): misma lectura.

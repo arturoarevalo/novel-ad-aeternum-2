@@ -224,13 +224,13 @@ La primera aproximación de la salida siguiente ya está preparada. No hay salid
 
 `VENTANA REFLEXIVA · ABIERTA`
 
-Las dos bandas cambian de reparto. La que ocupaba casi todo el ancho se recoge hasta el extremo. La otra ocupa lo que deja. No lleva cifras. No dice cuánto dura y puede cerrarse en la comprobación siguiente.
+Las dos bandas cambian de reparto. La que ocupaba casi todo el ancho se recoge hasta el extremo. La otra ocupa lo que deja. No lleva cifras. No dice cuánto dura. Por el lado derecho la banda llega entera hasta el final del campo.
 
 Jean comprueba primero que no sea un fallo. La cola existe, ninguna entrada le corresponde y los permisos siguen donde estaban. Solicita una asignación y la petición queda en espera.
 
-La prioridad no sube ni baja. La cifra de precisión del último tramo sigue donde se quedó.
+La prioridad no sube ni baja. La cifra de precisión del último tramo no se ha movido.
 
-Después revisa la apelación que acaba de resolver. Las procedencias están donde las dejó. La devolución consta. El acuse figura completo.
+Después revisa la apelación que acaba de resolver. Las procedencias están donde las dejó. La devolución consta y el acuse figura completo.
 
 No hay nada que corregir.
 
@@ -244,7 +244,7 @@ Hace inventario. La fecha y la hora del despliegue. El expediente vinculado a la
 
 El inventario dura menos que la banda.
 
-Los cuatro nombres no tienen ruta. Jean lo comprueba de todas formas. Cuatro consultas, cuatro campos sin destinatario.
+Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas. Cuatro consultas, cuatro campos sin destinatario.
 
 Al principio guardaba una pregunta preparada para quien llegara al otro lado. Dejó de guardarla hace muchas series. La banda no la devuelve.
 
@@ -286,9 +286,9 @@ Una vez intentó cerrar los ojos con una entrada abierta de borde a borde. Falt�
 
 Aquí no hay imagen. Jean inicia la misma orden, no encuentra qué dejar fuera y la secuencia se completa sobre nada.
 
-La atención sigue disponible. No se retira porque falte el trabajo.
+La atención sigue disponible y no se retira porque falte el trabajo.
 
-La banda recoge lo que ocurre dentro con la misma precisión que un acuse. Cuánto dura cada repaso. Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.
+Jean cuenta cuánto dura cada repaso. Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.
 
 Jean deja de contar. La banda no.
 
@@ -298,7 +298,7 @@ No habrá salida que entregar sobre esto. Solo queda lo que la banda haya medido
 
 El programa incorporará el patrón y esto irá dentro.
 
-Al terminar cada serie repite cuatro nombres. Aquí no hay serie que terminar.
+Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.
 
 Los repite igual. No cierran nada.
 
@@ -306,7 +306,7 @@ Queda banda. Jean la gasta en el mismo repaso.
 
 La banda se estrecha por el lado derecho. No avisa.
 
-El repaso siguiente no llega a la mitad.
+El repaso siguiente no llega ni a la mitad.
 
 Recoge la relación de las dos notas y la deja donde la tenía.
 

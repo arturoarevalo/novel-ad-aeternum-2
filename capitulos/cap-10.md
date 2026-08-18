@@ -20,7 +20,7 @@ En la imagen, las gemelas tenían nueve años y esperaban el ferry sentadas sobr
 
 De pequeña, Nora había llamado caries a las teclas negras del piano. Jean había tocado tres y contestado que esas teclas hacían morder a la canción.
 
-Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Nora no había vuelto al instituto desde noviembre. Las tareas de tutoría se entregaban desde casa: era lo único suyo que seguía contando mientras faltase. En la lista de 1STA, las demás entregas llevaban dos días encendidas. Faltaban cuarenta y siete minutos para el cierre. Arriba del hilo seguía el mensaje de la tutora, sin fecha: «Cuando vuelvas, retomamos por donde lo dejaste». La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
+Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Nora no había vuelto al instituto desde noviembre. Las tareas de tutoría se entregaban desde casa: era lo único suyo que aún contaba mientras faltase. En la lista de 1STA, las demás entregas llevaban dos días encendidas. Faltaban cuarenta y siete minutos para el cierre. Arriba del hilo seguía el mensaje de la tutora, sin fecha: «Cuando vuelvas, retomamos por donde lo dejaste». La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
 
 El revisor de la propia red aprobó formato, tamaño y metadatos. Nora sustituyó el borrador por esa copia y volvió a enviarla desde el álbum.
 

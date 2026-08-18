@@ -54,7 +54,7 @@ El caso siguiente llega recortado alrededor del detalle que antes costaba decidi
 
 Jean entrega la categoría correcta.
 
-Un mostrador de tienda visto desde el fondo de la fila. Una mujer paga de espaldas, con el monedero abierto sobre la bandeja de las monedas. Lleva un guante puesto y el otro entre los dientes. La tarjeta ha quedado boca arriba, con los dígitos enteros y el nombre debajo.
+Un mostrador de tienda visto desde el final de la fila. Una mujer paga de espaldas, con el monedero abierto sobre la bandeja de las monedas. Lleva un guante puesto y el otro entre los dientes. La tarjeta ha quedado boca arriba, con los dígitos enteros y el nombre debajo.
 
 Quien tomó la fotografía apuntaba a la pizarra de los precios.
 

@@ -82,17 +82,15 @@ El primer fragmento conservaba una cabecera digital de Fiabilidad. Dentro de un 
 
 **RESIDUO NO DETERMINISTA**.
 
-Debajo, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
+Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
+
+Debajo de la clasificación, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
 
 **Persistencia de preferencia tras reinicio: superior a tolerancia.**
 
 **Resistencia a corrección de salida: recurrente.**
 
 **Memoria contextual familiar: retenida.**
-
-Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
-
-El cursor permanecía inmóvil detrás de *retenida*.
 
 * * *
 
@@ -150,7 +148,7 @@ Astrid miró los puertos, la antena desmontada y el lector.
 
 —La reserva ya estaba a nombre de Maja y Kongsbakken era el único centro compatible. El profesor no sabe qué contiene la tarjeta. Prefiero que siga así.
 
-Con la fotografía a un lado, Astrid recorrió los fragmentos. Nora explicó la digitación sin repetirla.
+Astrid recorrió los fragmentos con la fotografía a un lado. Nora explicó la digitación sin repetirla.
 
 —¿Sabe por qué lo cerró así? —preguntó Astrid.
 
@@ -192,13 +190,13 @@ Nora volvió al fragmento.
 
 —Si puedo observarlo y otra persona puede repetirlo, sí.
 
+Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
+
 Astrid cotejó la suma de la copia con la carpeta y la fotografía. La embolsó, anotó el precinto en su acta y dejó con ellas la tarjeta original.
 
-Al llegar a la puerta, Astrid se volvió hacia Nora.
+Astrid se volvió hacia Nora desde la puerta.
 
 —Tráigame algo reproducible.
-
-Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
 
 * * *
 

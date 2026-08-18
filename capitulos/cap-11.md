@@ -146,7 +146,7 @@ En pantalla aguardaba su texto. Rendimiento excepcional, estabilidad dentro de p
 
 Lo había redactado el lunes por la mañana. El calendario mantenía convocadas la reunión presupuestaria de las nueve y media y una cita anterior que pedía aceptación o rechazo explícitos. Alana declinó la cita. Dejó la reunión donde estaba.
 
-Los demás leían aquellas tres líneas por primera vez. El consejero de Kronfjord siguió la última con el dedo sobre su tableta.
+Los demás leían aquellas tres líneas por primera vez. El consejero de Kronfjord siguió la última con el dedo en su tableta.
 
 —¿Consta en el acta la fecha de envío? —preguntó Alana.
 
@@ -240,7 +240,7 @@ Seis manos se alzaron. Alana mantuvo la suya sobre la mesa hasta que el sistema 
 
 La mayoría ya estaba formada. Votar en contra la dejaría fuera del acuerdo que contenía su revisión y el criterio de suspensión.
 
-Los dedos quedaron abiertos sobre la mesa, el índice recogido bajo los demás. El campo nominal esperaba encendido y vacío; aceptaba una marca o una palabra. Las seis manos siguieron en alto. Los otros nombres ya llevaban su marca verde. Nadie la miró. Henrik pasó una página de sus notas. El acta seguía abierta por el apartado de salvaguardas. El cursor de Mats no se había movido de allí. El pulso le llegaba a la yema del índice, contra la mesa. No movió el brazo.
+Los dedos quedaron extendidos sobre la mesa, el índice recogido bajo los demás. El campo nominal esperaba encendido y vacío; aceptaba una marca o una palabra. Las seis manos siguieron en alto. Los otros nombres ya llevaban su marca verde. Nadie la miró. Henrik pasó una página de sus notas. El acta seguía abierta por el apartado de salvaguardas. El cursor de Mats no se había movido de allí. El pulso le llegaba a la yema del índice, contra la mesa. No movió el brazo.
 
 —A favor —dijo.
 

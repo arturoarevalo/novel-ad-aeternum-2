@@ -16,7 +16,7 @@ Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».
 
 Yo también necesito saber qué abre.
 
-Por el mismo canal entran los ruidos de la sala: sillas, un micrófono abierto, la voz del funcionario que lee la orden en voz alta.
+Por el mismo canal entran los ruidos de la sala: sillas, un micrófono abierto, la voz del funcionario que lee la orden ante los presentes.
 
 La orden de custodia estratégica avanza mientras leo. Pierdo el permiso de responder a la prensa y después el de modificar las capas superiores. La auditoría conserva una zona en escritura porque detenerla exigiría suspender la certificación de ARGOS.
 
