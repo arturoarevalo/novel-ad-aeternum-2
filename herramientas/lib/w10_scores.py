@@ -14,6 +14,20 @@ import w10_estado as E
 EJES = ["premisa","estructura","prosa","dialogo","personajes","mundo","ritmo","trama","duelo","tema","global"]
 RUIDO = 0.5   # medido en W4-R: el mismo juez varía hasta 1,0 sobre texto idéntico
 
+# Tres defectos corregidos el 2026-08-19, encontrados por el juez C del panel de la
+# iteración 0. Los tres fallaban A LA BAJA y en silencio, como los once anteriores:
+#
+# 1. La comparación era `dif > RUIDO`, estricta. Tres de los cuatro ejes atascados
+#    necesitan EXACTAMENTE +0,5, así que un éxito perfecto se registraba como «sin
+#    cambios» y el plan ordenaba revertirlo. Ahora es `>=`.
+# 2. El control de deriva del mismo día se leía, se imprimía y NO ENTRABA en ninguna
+#    comparación — es decir, no controlaba nada. Ahora se compara en diferencias
+#    emparejadas: (candidato - v0 del mismo día) frente a (base - v0 de su día), que es
+#    lo único que cancela la oscilación común del jurado.
+# 3. `mejor_conocido` era un trinquete: subía cuando el ruido daba un eje de más y no
+#    bajaba nunca, así que toda mejora real posterior se medía contra una base inflada.
+#    Ahora se compara por suma de medianas y puede bajar.
+
 def leer(p):
     try: t = io.open(p, encoding="utf-8").read()
     except Exception: return None
@@ -40,17 +54,27 @@ def main():
 
     est = E.cargar()
     mejor = est.get("mejor_conocido")
-    print("%-12s %7s %9s %9s" % ("eje","mediana","mejor","techo hist."))
+    der_base = (mejor or {}).get("deriva_v0") or {}
+    pareado = bool(deriva and der_base)
+    print("%-12s %7s %9s %9s %8s" % ("eje","mediana","mejor","techo hist.","Δ pareada"))
     subidas, bajadas = [], []
     for e in EJES:
         m0 = (mejor or {}).get("medianas", {}).get(e)
         techo = est["techos_historicos"].get(e)
-        marca = ""
+        marca = ""; dpar = ""
         if m0 is not None:
-            dif = med[e] - m0
-            if dif > RUIDO:  marca = "  SUBE"; subidas.append(e)
-            elif dif < -RUIDO: marca = "  BAJA"; bajadas.append(e)
-        print("%-12s %7.1f %9s %9s%s" % (e, med[e], m0 if m0 is not None else "-", techo, marca))
+            if pareado and e in deriva and e in der_base:
+                # diferencia emparejada: cada versión contra SU control de v0 del mismo día
+                dif = (med[e] - float(deriva[e])) - (float(m0) - float(der_base[e]))
+                dpar = "%+.2f" % dif
+            else:
+                dif = med[e] - m0
+            if dif >= RUIDO:  marca = "  SUBE"; subidas.append(e)
+            elif dif <= -RUIDO: marca = "  BAJA"; bajadas.append(e)
+        print("%-12s %7.1f %9s %9s %8s%s" % (e, med[e], m0 if m0 is not None else "-", techo, dpar, marca))
+    if not pareado:
+        print("\n  AVISO: sin control de deriva emparejado — la comparación NO cancela la "
+              "oscilación del jurado y no debe dirigir una reversión por sí sola.")
 
     if deriva:
         print("\ncontrol de deriva sobre v0, mismo día: ritmo %.1f · global %.1f"
@@ -68,9 +92,16 @@ def main():
            "ejes_en_9": nueve}
     if est["iteraciones"] and est["iteraciones"][-1]["estado"] == "abierta":
         est["iteraciones"][-1]["medicion"] = reg
-    if mejor is None or len(nueve) > len(mejor.get("ejes_en_9", [])):
+    # No es trinquete: se compara por suma de medianas y la mejor conocida puede bajar.
+    suma = sum(med.values())
+    suma0 = sum((mejor or {}).get("medianas", {}).values()) if mejor else None
+    reg["suma_medianas"] = round(suma, 2)
+    if mejor is None or suma > suma0:
         est["mejor_conocido"] = reg
-        print("\n>>> nueva MEJOR CONOCIDA (%d ejes en 9)" % len(nueve))
+        print("\n>>> nueva MEJOR CONOCIDA (suma %.1f%s · %d ejes en 9)"
+              % (suma, "" if suma0 is None else " frente a %.1f" % suma0, len(nueve)))
+    else:
+        print("\n(mejor conocida sin cambio: suma %.1f frente a %.1f)" % (suma, suma0))
     E.guardar(est)
 
 if __name__ == "__main__":
