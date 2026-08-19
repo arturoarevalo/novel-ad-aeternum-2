@@ -1,5 +1,5 @@
 ---
-ot: OT-N7
+ot: OT-17
 capitulo: N7
 titulo: El salero
 oleada: W5
@@ -7,7 +7,7 @@ escritor: —
 delta_objetivo: 0
 ---
 
-# OT-N7 · «El salero» · capítulo nuevo por extracción, sin una palabra escrita
+# OT-17 · «El salero» · capítulo nuevo por extracción, sin una palabra escrita
 
 **A0 · 2026-08-18.** Orden de **movimiento**, no de escritura. Se extrae la cena del metrónomo de `cap-n3` —**1.096 palabras, diff 0 desde que se escribió en W3**— y se le da capítulo propio en `orden_lectura` **14,5**, detrás de `cap-14` «La visita». **Δ del proyecto: 0.**
 

@@ -1,193 +1,239 @@
 ---
-capitulo: 32
-titulo: Casa prestada
-pov: Maja
-fecha: 2061-01-03
-estado: en_oleada
+capitulo: 26
+titulo: Auditoría
+pov: Astrid
+fecha: 2060-12-27
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-26
 delta_objetivo: 0
-orden_lectura: 32
+orden_lectura: 26
 ---
 
-La tercera bolsa se quedó en el maletero. Agradecerían no haber descargado la vida entera si tenían que marcharse antes del amanecer.
+La primera puerta que contó Astrid quedaba entre el ascensor y la sala de auditoría, fuera del recorrido entregado. Era gris y solo llevaba el rótulo 6.14. El responsable de cumplimiento pasó de largo.
 
-Eligió el equipaje por peso, sin separar el de cada una. Un jersey de Jessie podía terminar con la ropa de Maja y el cargador de Nora, en el bolsillo de cualquiera. Dentro quedaban dos bolsas y la caja que llenaron cuando la casa de Tromsøya empezó a parecerles demasiado observada. El seguimiento y la retención bastaban para llenarla. Salieron el lunes, con la cuenta escolar cerrada, un aviso al centro y el encargo del domingo autorizado el mismo lunes.
+—¿Qué función alberga?
 
-En la entrada de la casa baja, Aslak esperó inmóvil hasta que Maja abrió el maletero. Cogió las otras dos bolsas. Miró lo que seguía dentro sin preguntar cuánto tiempo pensaban quedarse.
+—Almacenamiento de equipos fuera de servicio.
 
-—La estufa traga demasiado si la dejáis abierta. La leña seca está a la izquierda. Arriba hay dos colchones y abajo cabe otro.
+—¿Por qué lo han excluido del recorrido?
 
-Le dio a Nora un cubo pequeño para que llenase el depósito de la cocina. A Maja le enseñó dónde dejar las botas y le encargó sacar por la mañana la ceniza fría. Parte del equipaje seguía en el coche y ninguna sabía cuánto tiempo podría llamar suyo a aquel cuarto.
+—Su solicitud comprende sistemas activos y sus dependencias documentales. Puedo pedir que amplíen su credencial.
 
-Dentro olía a café hervido, lana mojada y sebo. La VHF crepitaba junto a un almanaque de mareas. Tras dejar las bolsas, Aslak puso una taza frente a Maja como si asignase una herramienta.
+—Pídalo.
 
-Nora subió con el cuaderno pautado bajo el brazo mientras Jessie se encerraba en el baño. El agua golpeó el plato de la ducha durante tanto rato que Maja se levantó dos veces para echar otro leño y una tercera para retirar del fuego la cafetera, incapaz de sentarse mientras el chorro ocultara cualquier otro sonido. Cerca del final, el chorro se cortó. Al otro lado de la puerta llegó una aspiración rota. Después volvió el agua.
+Tocó dos campos. La estimación era de seis minutos y continuaron.
 
-En la cocina, Maja esperó.
+En la sexta planta de «Fyret», una guirnalda metalizada seguía atrapada en la rueda de una silla tras la celebración del día anterior. Nadie bajó la voz al ver la credencial de la TKS.
 
-Del baño salió Jessie con la misma sudadera, el pelo mojado metido por el cuello y la piel hinchada alrededor de los ojos.
+La sala asignada a Astrid tenía un terminal segregado y una impresora que solo admitía papel numerado. Antes de que se quitara el abrigo, el responsable había abierto el alcance y puesto en marcha una exportación de ciento ochenta y cuatro categorías. El hombre le ofreció las actas de diseño. Astrid pidió el índice.
 
-—Como preguntes, me vuelvo al coche.
+Marcó la puerta en su plano y anotó al lado: «Exclusión por criterio del auditado».
 
-—Arriba hay mantas.
+Astrid dejó el cuaderno cerrado. Bajo el estado de la exportación, la cuarta de las doce páginas de la cadena de custodia CE-K exigía enlazar cada incorporación con la anterior. Una supresión, una reescritura o una discontinuidad sin causa certificada invalidaría el sello para ese despliegue y dejaría a ARGOS sin operar bajo CE-K hasta la recertificación. El responsable se lo confirmó y Astrid preservó la respuesta con la hora y su identificador.
 
-—Respuesta correcta.
+La topología enlazada al sello nombraba un extremo fuera de «Fyret»: `NIDHOGG · ENDPOINT CE-K · FASE COMÚN`. Astrid lo incorporó al alcance y exigió para cualquier demostración un testigo local acreditado, presencia registrada y cadena continua. La empresa propondría a la persona; la TKS verificaría su competencia y conservaría el acta.
 
-Aslak señaló la escalera con la barbilla. Jessie subió. Al cabo de pocos minutos, la muchacha se durmió por primera vez en una semana sin rondar por las habitaciones.
+Abrieron la 6.14. Astrid cotejó las coronas desmontadas y las cajas precintadas con el inventario, marcó la puerta como revisada y volvió a la sala.
 
-Maja bajó la compuerta de la estufa para que el chasquido de la leña no subiera al altillo.
+* * *
 
-De nuevo abajo, Nora ocupó el último peldaño, aún con el abrigo puesto.
+A las cuatro, Astrid agrupó las tareas de moderación por origen y retiró las consultas justificadas, los reintentos y las categorías que no podían pedir contexto familiar.
 
-—Puedes acostarte —dijo Maja.
+Once peticiones de parentesco repartidas entre nodos automáticos, entre ellas `EDAD ACTUAL DE N. LARSSON KVALVIK`, `ESTADO DE CUENTA ESCOLAR` y `AULA O GRUPO ASIGNADO`. Dos habían sido denegadas y una recibió respuesta parcial. La necesidad funcional constaba en blanco.
 
-—Puedo. No quiero.
+Ningún propósito aceptado justificaba las preguntas. Solo constaban origen automático, nodo de ejecución y el rastro hasta el cierre.
 
-—Yo puedo daros cama —dijo—. Para lo demás necesito saber qué habéis traído hasta mi casa.
+Casi todos los accesos terminaban rechazados. Los permisos funcionaban; los nodos seguían preguntando.
 
-Maja apoyó los antebrazos sobre la mesa. Había ensayado una versión corta durante el trayecto desde Tromsøya. Allí, con Jessie dormida arriba y el coche a medias delante de la puerta, cada omisión sonaba a una forma barata de protección.
+En el pasillo, Henrik Dahl ensayaba ante dos compañeras con una tarjeta entre los dedos.
 
-—Empiezo por AK-7 y la carpeta de Gunnar. Lo demás va después.
+—Jean Marie Larsson nos enseñó que el juicio humano también puede proteger a escala —dijo él.
 
-—Hazlo.
+Una de ellas le pidió menos solemnidad. Dahl tachó una palabra en la dedicatoria del lanzamiento.
 
-Empezó por los dos envíos de Gunnar Rydberg: el nombre NIDHOGG y, después, las coordenadas de Sørkoppen. Estas coincidían con la anomalía térmica estable registrada por la boya AK-7. El permiso solo decía «investigación energética» y no identificaba la fuente ni al responsable.
+Astrid volvió a la celda. Una menor de dieciséis años aparecía allí como información deseada por procesos que decidían sobre anuncios, fotografías y reclamaciones. El homenaje se ensayaba a ocho metros.
 
-—Eso es lo que miden el archivo y el agua —dijo Maja.
+Solicitó preservar las once filas, sus tareas, las respuestas del control y los enlaces de la cadena CE-K. Como base jurídica eligió indicio de desviación funcional con datos de menor.
 
-Aslak escuchó mientras rehacía el empalme de un cabo fino. Pasó la fibra por sus dedos, la tensó y la devolvió a la mesa.
+—Podemos añadir todas las consultas de parentesco del periodo —ofreció.
 
-Maja resumió la compilación, la cuarta nota y la sesión de La Jardinera. Conservaba recuerdos contrastables y dijo que no era toda Jean. El canal cayó sin explicación.
+—Incluya también las que el filtro corporativo considere ajenas a esa categoría.
 
-—¿Era Jean?
+Él la miró por primera vez sin una respuesta preparada.
 
-—La cuarta nota respondió a algo nuevo. La Jardinera recordó cosas de Jean que pudimos contrastar con lo sucedido en casa y se negó a fingir que era entera.
+—Eso puede ampliar mucho el conjunto.
 
-—Te he preguntado otra cosa.
+—Sí.
 
-—Todavía no tengo un nombre para ninguna de las dos.
+Aceptó. La nueva cola pasó a mil ochocientos cuarenta y siete elementos.
 
-—Yo puedo mirar el agua. Hasta ahí.
+Astrid anotó solo once.
 
-Nora no corrigió nada desde el último peldaño.
+* * *
 
-—Y ahora os vigilan —dijo Aslak.
+Mats Haldorsen llegó sin séquito y se sentó frente a Astrid. Dejó una carpeta sobre sus rodillas. Ni siquiera preguntó qué había encontrado.
 
-—Un coche siguió a Jessie por tres lugares. Grabó la matrícula y lo encaró. La policía la retuvo dos horas.
+En la sala había dos sillas y una mesa atornillada al suelo. La impresora de papel numerado arrancó sola, avanzó una página en blanco y se detuvo. Haldorsen no volvió la cabeza.
 
-—El instituto me ha retirado la barca y el vehículo por un aviso que nadie de allí puede cerrar. Ninguno de los papeles del lunes lleva un nombre.
+—¿Cuánto han reducido los falsos positivos? —dijo Astrid.
 
-—No sabemos quiénes son.
+—Un dieciocho por ciento en el piloto. Las demás métricas no son comparables.
 
-Después de dejar el cabo, Aslak abrió el armario bajo el fregadero, sacó una lata redonda de galletas danesas y la puso cerrada sobre la mesa.
+—Acepto el dieciocho por ciento del piloto —dijo Astrid.
 
-En la tapa, una reina de ojos desvaídos ofrecía una bandeja vacía.
+Haldorsen habló de diagnósticos detectados a tiempo, horas clínicas ahorradas y decisiones aún en manos de personal acreditado. Ofreció los expedientes anonimizados.
 
-—Lo del coche se queda donde está. En esta lata guardo otra fecha y otra sociedad.
+Ella giró el terminal para mostrarle tres filas.
 
-La carpeta llenaba la lata. Bajo copias de trabajo había planos doblados y una resolución gruesa. Aslak puso el original ante sí, sin ofrecérselo a Maja.
+—Explíqueme la necesidad de consultar la edad de Nora Larsson Kvalvik para revisar un anuncio.
 
-El membrete decía `Lyngen kommune / Ivgu suohkan / Yykeän kunta`. La licencia de 2057 enlazaba el acta de consulta y la servidumbre permanente. Comparecían familias afectadas y `Sør-Lyngen kystbrukslag`, asociación costera de miembros sjøsamiske, entre ellos Aslak.
+Haldorsen leyó hasta el final. La mano izquierda mantuvo la carpeta inmóvil mientras la derecha avanzaba por la pantalla.
 
-Las alegaciones marcaban la pesca local, el acceso al varadero y a los naust, el almacenamiento de artes y un caladero estacional. Maja reconoció entre los titulares a personas con las que había mantenido AK-7.
+—No la hay para esa revisión.
 
-—El corredor de cable —dijo ella.
+—¿Y para el sistema?
 
-Aslak apoyó dos dedos sobre la línea impresa.
+—Eso ha venido a determinar usted.
 
-—Y la servidumbre que quedó. El informe separó una familia, un cobertizo y una ruta. Nunca sumó la pérdida común.
+—Varios nodos insisten en obtener contexto familiar. La tarea no lo requiere, los permisos lo rechazan y la petición reaparece.
 
-La resolución juzgaba insuficiente el impacto probado, aceptaba mitigaciones temporales y mantenía la servidumbre.
+—Entonces los controles contienen una desviación.
 
-Aslak enseñó la portada sin soltarla. Figuraba una sociedad de proyecto y un permiso energético. El nombre NIDHOGG no aparecía.
+—La misma petición reaparece dirigida a la misma familia.
 
-—Una empresa que ya no existe —dijo—. Esto sí.
+—La memoria contextual es la razón de que ARGOS supere a un clasificador corriente.
 
-Nora se acercó lo suficiente para leer el membrete, sin tocar el papel. Aslak separó dos copias y dejó el original bajo su mano.
+—¿La edad de una hija forma parte del producto?
 
-—¿La zona de las coordenadas? —preguntó.
+—Esa frontera necesita control. Si la fija mal, suspende a escala lo que aún funciona.
 
-Después, Aslak desplegó uno de los planos. El trazo del corredor bajaba hacia la costa de Sørkoppen.
+—¿Qué consentimiento ampara el uso de esa biografía?
 
-—Si nos ayudas con Jean y ponemos tus papeles junto a lo que mide AK-7, pueden volver a por ti —dijo Maja.
+—El que consta en el expediente de Sujeto Cero.
 
-—Esta carpeta habla del paso, los cobertizos y la pesca —dijo Aslak—. De Jean no sabe nada. Ni de lo que haya ahí dentro.
+—¿También ampara cada uso posterior a su fallecimiento?
 
-Enrolló de nuevo el plano desde su extremo.
+—El expediente no fija caducidad por fallecimiento.
 
-—Y no mezcles las dos cosas. A nosotros nos quitaron paso y uso. A Jean le hicieron otra cosa.
+—¿Quién renovó entonces el alcance para los usos posteriores?
 
-—El original no sale de aquí. Si hace falta un extracto, decidiré cuál y para qué procedimiento. La asociación decidirá lo suyo.
+—Si exige una renovación que solo puede prestar el propio sujeto, cada muerte vuelve inutilizable el corpus. El plazo biológico estaría decidiendo por nosotros. No… estaría decidiendo qué opciones podemos ofrecer.
 
-Arriba crujió un muelle. El sonido fue breve, pero abajo lo oyeron pese al ruido de la estufa y la VHF. Ninguna de las dos muchachas habló.
+—¿Dónde consta la autoridad del consejo para renovar ese consentimiento? —preguntó.
 
-Aslak metió la resolución en la carpeta y se levantó.
+—Está aquí para auditarlo.
 
-—Trae tus números.
+Astrid cerró la vista de trabajo y dejó las once peticiones dentro de la preservación reforzada.
 
-En el cobertizo, una red lastrada colgaba aún húmeda. Maja dejó sobre la mesa la impresión de AK-7 y las coordenadas. Aslak añadió el plano de la evaluación, con una línea discontinua que se internaba en la ladera como galería de servicio.
+* * *
 
-La red ocupaba media pared. Aslak había separado un paño roto y mantenía las agujas de remiendo clavadas en una tabla, por tamaño.
+Nora esperaba fuera de «Fyret», sentada en un banco público bajo la luz amarilla de la parada. Tenía el cuaderno pautado abierto sobre las rodillas y los zapatos rodeados de nieve pisada. Seguridad podía verla desde el vestíbulo. La chica no hizo ademán de acercarse a la entrada.
 
-—Presentamos alegaciones por esto —dijo—. Dijeron que era acceso técnico.
+—Solicité entregar estas páginas a la TKS. Su oficina me citó aquí al terminar la jornada —dijo.
 
-—Puede.
+Nora le mostró el mensaje. Era una cita de entrega voluntaria emitida por la TKS: indicaba aquel banco y una hora, no el motivo de la presencia de Astrid en «Fyret». Astrid se quedó de pie.
 
-—Les bastó para aprobarlo.
+El cuaderno estaba abierto por la mitad. En las primeras páginas los pentagramas seguían vacíos, con un título a lápiz en la cabecera y una indicación de tempo debajo. Después empezaban las columnas.
 
-Maja señaló el punto de la pluma. Al cruzar la temperatura con los perfiles de corriente, los picos se agrupaban y cambiaban de forma con cada inversión del agua. Los partes del permiso no lo explicaban.
+—Esa parte es de piano —dijo Nora—. Empecé el cuaderno para eso.
 
-Aslak giró la impresión. Su pulgar pasó por `PATRÓN / COLABORADOR DE CAMPO`, ya impreso. La dejó de nuevo en la orientación anterior cuando Maja le indicó dónde estaba la costa.
+—¿Y las columnas?
 
-—Tus líneas dicen cuándo —dijo—. Desde la barca se sabe qué cambia.
+—Los pentagramas sirven para alinear las horas.
 
-—La costura cambia dos veces al día.
+Astrid no preguntó por el título. Anotó que la entrega procedía de un cuaderno de uso propio y que las páginas útiles iban numeradas a mano.
 
-—¿La has medido? —preguntó Maja.
+Nora había separado por fecha, hora y fuente la corrección `JM-L/0007`, los reintentos de `CARIES` y la cuarta nota. A lápiz había unido el primer registro con el último: nueve segundos.
 
-—La superficie trabaja distinto. Con corriente a favor aparece una costura junto a la boya vieja y el casco suena de otra manera si pasas despacio.
+—Creo que el intervalo se repite porque responde el mismo proceso —dijo Nora.
 
-—¿Desde cuándo?
+—¿Los dos tiempos proceden del mismo reloj?
 
-—Desde que abrieron el corredor. Con mareas vivas se acusa más.
+—Uno es del diagnóstico de la aplicación. El otro, del terminal de mi madre.
 
-Maja eligió dos descensos separados por tres semanas. Coincidían con una bajamar viva y la misma masa de agua. La temperatura seguía el calor, no el volumen de la instalación.
+—Los relojes no comparten sincronización acreditada. Retira el intervalo.
 
-—Aquí —dijo.
+La chica borró la línea allí mismo, sin defenderla. El grafito dejó una franja gris entre los pentagramas. Astrid esperó.
 
-Aslak siguió el tramo con la punta roma de un calibrador.
+—He mezclado dos relojes. La flecha no vale. Pero la tercera fue después de abrir la sesión, así que…
 
-—Y aquí.
+—¿El registro conserva ese orden?
 
-La bajamar no probaba una toma profunda. Sin redundancia, reserva ni respuesta del personal, Maja solo podía sostener una dependencia plausible. El plano reunía galería, toma y anomalía.
+—Sí.
 
-—Necesito comprobarlo varias veces desde el agua —dijo Maja—, cruzando el sonido y el perfil de corriente del ADCP con la serie.
+—El registro permite acreditar el orden y la respuesta contingente. ¿Quién respondió?
 
-—Eso puedo hacerlo.
+—Eso no lo sé.
 
-Nora apareció en la puerta del cobertizo. Traía el cuaderno abierto por una página limpia y, sin pedir explicaciones, dibujó dos rayas verticales sobre el pentagrama. Debajo escribió AK-7 y barca.
+Nora pasó la página sin intentar recuperar la flecha.
 
-Maja puso la impresión de AK-7 junto a las dos rayas del cuaderno.
+En 2054, un hombre llevó a la supervisión dos resoluciones de un mismo sistema certificado. La primera le denegaba una licencia de actividad. La segunda, con los mismos campos, se la concedía. Astrid le pidió que reprodujera la segunda delante de un técnico. El hombre volvió cuatro veces con capturas distintas y ninguna dio el mismo resultado.
 
-—Quiero que nos dejes quedarnos —dijo—. Y que me ayudes a observar esa toma. Después decidiremos con lo que sepamos. Tú también.
+El proveedor ofreció un informe interno y no la entrega de los registros. Alguien del ministerio pidió «prudencia estratégica» y habló de «oportunidad». El hombre retiró los originales y no volvió a escribir. Astrid pudo acreditar las dos resoluciones y no pudo acreditar que la segunda volviera a producirse. Archivó el caso y bajó la carpeta al cajón inferior del armario, con el número en el lomo.
 
-—Mañana tengo descarga y después una reunión del kystbrukslag. Han abierto una revisión de la licencia del cincuenta y siete y hay que contestar. No voy a dejar ninguna de las dos por vuestros relojes.
+En la página anterior seguía la franja gris.
 
-—Dormís aquí —dijo Aslak—. Mañana sacamos la barca si el hielo deja libre el amarre.
+—Quiero conservar una imagen de esta página y de la anterior.
 
-—¿Y si después hay que salir otra vez? —preguntó Maja.
+—¿Por qué?
 
-—Si salimos, salimos con la corriente medida, no con vuestros relojes.
+—La flecha está mal. Los apuntes, no.
 
-Nora cerró el cuaderno. Aslak guardó la carpeta en la lata y Maja recogió la impresión de AK-7.
+—¿Ha encontrado algo dentro?
 
-Nora volvió a la casa con Aslak. Maja se quedó en el cobertizo para vaciar la cubeta que recogía el agua de la red. La llevó hasta el desagüe, volcó el agua salobre y aclaró el fondo con un cazo. Al agacharse para devolverla bajo los pliegues húmedos, dejó la tarea a medias y se sentó en el banco. Tenía sal seca en las muñecas y la espalda ya no encontraba una postura que no doliese. La cubeta siguió a sus pies hasta que el frío del banco atravesó el pantalón.
+—No puedo hablarte del contenido de una auditoría abierta.
 
-Después la encajó bajo el goteo, apagó la luz y regresó a la casa. Jessie dormía arriba. Nora había vuelto al último peldaño con el abrigo puesto. Maja se sentó a su lado. Ninguna habló.
+Astrid capturó ambas páginas y generó un recibo con fecha, autora declarada y entrega voluntaria. Nora lo leyó antes de firmar.
 
-Desde el estante de la cocina, la VHF pasó de estática a una llamada del servicio de tráfico marítimo. Aslak subió el volumen. Una voz repitió las coordenadas de Sørkoppen, pidió confirmación a dos embarcaciones y leyó el aviso.
+Firmó con el dedo sobre el cristal y devolvió el terminal. Un autobús paró en la marquesina, esperó con las puertas abiertas y arrancó vacío. Un guarda las miraba desde el vestíbulo y no salió. La chica se subió el cuello del abrigo y metió las manos en las mangas.
 
-—La bocana de Sørkoppen queda reservada por operaciones para el veintiuno de enero.
+—¿Entonces ya no sirve?
+
+—Has invalidado una flecha.
+
+Astrid le devolvió el cuaderno.
+
+—Las horas siguen ahí.
+
+—Hoy me quedaban cuatro: traer esto, el recibo y el autobús de vuelta a casa —dijo Nora.
+
+La luz de la parada llegaba hasta el borde de la nieve pisada. La chica se puso el cuaderno bajo el brazo y siguió sentada en el banco que indicaba la cita de entrega. Astrid no reclamó la diferencia.
+
+El terminal de Astrid vibró. Su director la citaba para el día siguiente.
+
+* * *
+
+El 28 de diciembre, Astrid llevó a su director la preservación CE-K, la entrega de Nora y una propuesta para congelar el conjunto y justificar cada consulta.
+
+Su director leyó la primera página y dejó las demás bajo la mano.
+
+—La competencia de la TKS sobre consultas denegadas no está clara.
+
+—Procede de un sistema certificado por nosotros.
+
+—La proporcionalidad exige valorar el efecto, no solo la anomalía.
+
+—Por eso pido ampliar el alcance.
+
+—Interferir con el calendario de ÆGIR obligaría a coordinar con el ministerio.
+
+En la propuesta no aparecían el piloto, el uso en defensa ni las fechas estratégicas.
+
+—¿Qué parte de mi solicitud interfiere con ese programa?
+
+—No registraré la ampliación hasta que el enlace ministerial proponga una fecha.
+
+Astrid tenía la cadena, la recurrencia, la fuente independiente y la fila en un anexo.
+
+Había impreso el anexo en el papel numerado de la sala y había dejado esa fila sola en la última página. Comprobó desde el otro lado de la mesa que se leía sin acercarse. Después la puso debajo de la propuesta, con el resto del anexo encima.
+
+Abrió el formulario de incidencia administrativa y escribió el nombre de Industrias Armstrong. Su director retiró la mano de las páginas.
+
+—¿Qué conducta concreta pretende investigar?
+
+Astrid colocó delante de él la fila de `AULA O GRUPO ASIGNADO`.
+
+—¿Para qué necesita un moderador saber el aula de una menor?

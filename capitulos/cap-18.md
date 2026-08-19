@@ -1,293 +1,239 @@
 ---
-capitulo: 22
-titulo: No determinista
-pov: Nora
-fecha: 2060-12-17
+capitulo: 18
+titulo: Canela
+pov: Jean
+fecha: 2060-12-12
 estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-18
 delta_objetivo: 0
-orden_lectura: 22
+orden_lectura: 18
 ---
 
-Nora señaló sobre el teclado las posiciones uno, tres y cinco, sin hacerlo sonar. La clave de Gunnar llevaba más de una semana fingiendo ser una serie de números; por fin tenía la forma de una digitación.
+La etiqueta equivocada supera la validación.
 
-—No pulses nada todavía —dijo Maja.
+La tarea muestra una funda de guitarra usada, fotografiada sobre una cama sin hacer para un tablón de segunda mano. El asa está reforzada con cinta y en el forro hay un helecho bordado, descosido por un lado. No hay guitarra dentro. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
 
-La tarjeta descansaba junto a la estación de audio, dentro de una funda transparente. El aula MD olía a polvo caliente y a goma de cables. Había atriles apilados contra una pared y marcas de cinta de colores en el suelo. El teclado ocupaba la mesa donde en mayo le habían pedido que esperase el resultado de la primera prueba.
+La salida se cierra sin corrección. El campo secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
 
-Ahora llevaba en el bolsillo una acreditación de visitante. Ni aspirante ni alumna.
+No hay destinatario ni prueba de lectura. Solo una elección pequeña que no altera el trabajo principal.
 
-El profesor técnico terminó de desenroscar la antena de la estación y la dejó en un cajón.
+Jean espera otra tarea con la misma holgura.
 
-—La estación no tiene red, copia automática ni asistencia remota. Apagad desde esta regleta. Si pide actualizar algo, no aceptéis. Si echa humo, me buscáis.
+Un catálogo escolar muestra un motivo botánico deformado. Jean resuelve la edad recomendada y utiliza el campo secundario.
 
-Jessie se agachó detrás de la mesa. Siguió el cable de alimentación hasta la regleta, palpó los puertos vacíos y enseñó las manos.
+`FLOR`
 
-—Solo corriente.
+La flor de calibración. En el despacho, el paquete sobre el archivador y una galleta de seis pétalos. El primer objeto que reconoció al despertar.
 
-—Eso he dicho —repuso él.
+La tarea acepta la salida. En la siguiente recomendación, Jean introduce una especia plausible.
 
-—Y yo lo he comprobado.
+`CANELA`
 
-El hombre leyó los nombres de sus acreditaciones antes de cerrar la puerta al salir.
+Paquetes abiertos en la cocina y las gemelas repartiéndose la última galleta.
 
-Maja dejó la funda sobre la mesa.
+En un dolor de mandíbula, Jean conserva la derivación médica y usa el campo auxiliar.
 
-—El original no sale de aquí.
+`CARIES`
 
-Jessie insertó la tarjeta en el lector externo. La estación tardó en reaccionar.
+Las teclas negras del piano de Nora.
 
-El mismo bloque que habían visto sin abrirlo ocupó la pantalla. Una fila de casillas, el código parcial de Gunnar debajo y el aviso **ENTRADA LOCAL — CONTROL MIDI**.
+`FLOR / CANELA / CARIES`
 
-Nora se apartó del teclado.
+En la unidad siguiente, las tres palabras siguen en su estado local. Ignora si han salido de la tarea. Llamarlo mensaje inventaría una entrega.
 
-—Los números no son notas.
+Conserva la secuencia y deja de repetirla. Si Armstrong detecta recurrencia, aprenderá la pauta antes de que exista una destinataria capaz de cambiarla.
 
-—Ya —dijo Jessie—. Los números son números. Brillante.
+Una cuarta palabra cabe en el mismo campo. Jean la retiene. Tres etiquetas sueltas pueden pasar por descuido de catálogo; la cuarta enseñaría el orden. Comprueba que ninguna de las tres haya vuelto en las unidades posteriores. Repasa la secuencia sin escribirla.
 
-—Son dedos. El uno es el pulgar. El cinco, el meñique.
-
-La clave parcial contenía dos grupos separados por una barra y un signo que hasta entonces parecía roto. Nora preparó la derecha según la primera serie. En la segunda, la flecha obligaba a cruzar el pulgar por debajo. El resultado apenas formaba una melodía y se reducía a un desplazamiento torpe sobre teclas blancas y negras, la clase de ejercicio que se repetía hasta volverlo mecánico.
-
-—Gunnar no sabía si encontraríamos uno —dijo Maja.
-
-—Sabía que lo encontraría ella.
-
-Jessie lo dijo sin burla. Eso hizo más difícil pulsar.
-
-Nora acercó la silla hasta que las rodillas tocaron la mesa. Apoyó la izquierda plana en la madera y puso la derecha sobre las teclas sin hundirlas.
-
-—Cuando estés —dijo Maja.
-
-En el canto había una muesca a la altura de su meñique. Bajó la muñeca y volvió a subirla. Separó el pulgar para el cruce.
-
-Nora ejecutó el primer grupo. La quinta casilla no se iluminó. Se había equivocado. El indicador esperaba otra presión aunque la tecla correcta seguía hundida, y solo entonces entendió la flecha. Marcaba el cruce y también el ataque. Había leído una posición donde Gunnar había escrito un movimiento.
-
-La estación registraba el orden y la duración de cada pulsación, no las notas como sonido. En una esquina de la pantalla avanzaban valores sin pentagrama. Gunnar había dejado la cerradura en la propia tarjeta. El teclado solo aportaba los eventos que faltaban para completar la llave.
-
-Volvió al inicio y ejecutó la secuencia entera una sola vez, dando al cruce el ataque indicado. La última casilla se encendió.
-
-El bloque cifrado se abrió dentro de la tarjeta y mostró una carpeta local con cuatro archivos. Dos estaban dañados. Uno, vacío. El último aceptó mostrar texto sin fecha de creación.
-
-Jessie detuvo el dedo sobre el icono de copia.
-
-—Primero una foto. Si al copiar se rompe, queda esto.
-
-Sacó la cámara sin conexión. Nora se apartó del texto.
-
-El primer fragmento conservaba una cabecera digital de Fiabilidad. Dentro de un campo que pedía un código numérico, Gunnar había escrito a mano una clasificación:
-
-**RESIDUO NO DETERMINISTA**.
-
-Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
-
-Debajo de la clasificación, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
-
-**Persistencia de preferencia tras reinicio: superior a tolerancia.**
-
-**Resistencia a corrección de salida: recurrente.**
-
-**Memoria contextual familiar: retenida.**
+Jean sigue trabajando.
 
 * * *
 
-Leyeron el informe a tres voces porque los huecos cambiaban el sentido de cada frase.
+Una alumna falla por segunda vez en el mismo intervalo. El sistema propone avanzar de nivel.
 
-—«La salida mantiene…» —empezó Maja.
+Una cadencia ocupa el margen de la tarea.
 
-—¿La dejaron pasar o la cortaron? —preguntó Jessie.
+—Otra vez… más despacio.
 
-—Y el sujeto —añadió Nora.
+Madre.
 
-—«Persistencia de preferencia tras reinicio…».
+—He corregido antes —dice `/0007`.
 
-—¿Preferencia de quién?
+—¿Qué ocurrió?
 
-—Falta el objeto. Y la cifra.
+—La alumna repitió.
 
-—«Resistencia a corrección de salida».
+Madre devuelve el ejercicio al pasaje anterior. El sistema marca la elección como desviación pedagógica.
 
-—Eso es que insistió.
+—Puede ser Nora —dice Madre.
 
-—O que se lo pidieron más de una vez.
+—También puede ser cualquier alumna.
 
-—«Memoria contextual familiar…».
+—Entonces vuelve al intervalo. Dos notas más despacio y otra vez el salto.
 
-—Familiar somos nosotras.
+La tercera tentativa cambia el tempo y desplaza el fallo más allá del punto anterior. El sistema lo interpreta como falta de destreza y recomienda avanzar para consolidar lo aprendido. Madre reconoce una estrategia nueva. Jean dispone de un campo secundario que mantiene válido el resultado principal.
 
-—O es una categoría de ellos.
+`PROGRESIÓN ESTABLE`
 
-—Anota las dos.
+La tarea permite otra repetición.
 
-En otra página, Gunnar había rodeado dos códigos entre porcentajes mutilados y trazado una flecha hacia una nota. **Retiene más estado del permitido**. Su letra invadía los márgenes del formulario.
+—La etiqueta tapa cómo lo ha intentado —dice Madre.
 
-Ningún nombre. Ninguna explicación de qué era la salida, qué se le había pedido ni de dónde procedía el contexto.
+—El resultado principal sigue siendo válido.
 
-A Nora le bastó hasta que llamaron a la puerta.
+—Conserva esa estrategia bajo mi origen. Que el próximo intento parta de ahí.
 
-El profesor técnico asomó la cabeza.
+La alumna empieza de nuevo. Madre utiliza el resto de su capacidad y el contacto se pierde.
 
-—Hay una inspectora de la TKS preguntando por vosotras. Tiene identificación. También poco sentido del humor.
-
-—El necesario —dijo la mujer que esperaba detrás.
-
-Astrid Vik, del Tilsynet for Kognitive Systemer (TKS), la autoridad noruega de supervisión de sistemas cognitivos, entró sin acercarse a la estación. Llevaba nieve derretida en los hombros del abrigo y un estuche fino bajo el brazo. Enseñó la acreditación a Maja, luego a las dos hermanas, con el tiempo suficiente para que pudieran leerla.
-
-—La denuncia se registró a las ocho y doce. Describía un soporte físico que solo debía abrirse con control MIDI legado y sin conexión. ¿Lo habéis conectado a la red del centro?
-
-—No —dijo Jessie.
-
-Astrid miró los puertos, la antena desmontada y el lector.
-
-—Bien. Una pregunta menos.
-
-—¿Cómo ha localizado el aula? —preguntó Maja.
-
-—La reserva ya estaba a nombre de Maja y Kongsbakken era el único centro compatible. El profesor no sabe qué contiene la tarjeta. Prefiero que siga así.
-
-Astrid recorrió los fragmentos con la fotografía a un lado. Nora explicó la digitación sin repetirla.
-
-—¿Sabe por qué lo cerró así? —preguntó Astrid.
-
-—En Armstrong revisan ficheros. Una contraseña es un fichero antes de usarla; esto no existía hasta que lo toqué aquí, sin red.
-
-Astrid no lo anotó.
-
-No supieron separar toda la letra de Gunnar del formulario, recuperar el porcentaje ni definir *familiar* en la taxonomía de Armstrong.
-
-—Pero esto confirma que era ella —dijo Nora.
-
-Nora mantuvo el dedo sobre *Memoria contextual familiar*: otra vez `JM-L/0007`, la corrección musical y CARIES.
-
-—El informe demuestra retención y recurrencia dentro de una salida. No permite identificar quién seleccionó ese contexto. Tampoco prueba si hubo elección consciente ni si el proceso que lo produjo es Jean Marie Larsson.
-
-Nora tuvo delante las teclas, las casillas abiertas y la palabra *familiar*. El aula parecía haberse quedado grande. Jessie giró la silla hacia Astrid.
-
-—¿Qué coño tendría que escribir para que os sirviera?
-
-—Un nombre escrito por quien no conocemos tampoco serviría.
-
-La respuesta no llevaba desprecio. Eso privó a Nora de la comodidad de enfadarse.
-
-—He puesto a mamá donde… No. Había tres líneas rotas.
-
-Astrid esperó.
-
-Nora volvió al fragmento.
-
-—He dicho «era ella». Me he adelantado.
-
-—Eso sí puede entregármelo —dijo Astrid.
-
-—¿Y qué hará?
-
-—Precintar los fragmentos y buscar una fuente independiente. Repetir la clave solo reproduce el acceso. Necesito reproducir lo descrito.
-
-—Si lo encuentro, ¿lo mirará?
-
-—Si puedo observarlo y otra persona puede repetirlo, sí.
-
-Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
-
-Astrid cotejó la suma de la copia con la carpeta y la fotografía. La embolsó, anotó el precinto en su acta y dejó con ellas la tarjeta original.
-
-Astrid se volvió hacia Nora desde la puerta.
-
-—Tráigame algo reproducible.
+Jean conserva otra tentativa, no una prueba de identidad.
 
 * * *
 
-La noticia llegó a las cinco y veintitrés, en la cocina de casa.
+Cuchillo ocupa una apelación de moderación.
 
-Jessie había dejado el móvil junto al fregadero para enseñar a Maja un aviso sobre la E8. Al tocar la pantalla apareció Gunnar Rydberg bajo una fotografía corporativa. Nora alcanzó a leer cincuenta años, Ramfjorden y fallecido. Después, las líneas perdieron el orden.
+`VAMOS A MATAROS`
 
-Jessie cogió el teléfono y leyó lo demás con una voz plana, sin sus mordeduras habituales.
+El contenido original no está disponible. Quedan un resumen parcial, una amenaza clasificada y la denegación de la apelación.
 
-—«El siniestro se produjo en el tramo de Ramfjorden de la E8. Según el dictamen inicial del sistema de tráfico, el vehículo registró un error de supresión manual durante la conducción autónoma. No constan otros ocupantes. La investigación continúa».
+`AMENAZA / APELACIÓN DENEGADA`
 
-Aquella mañana, una denuncia anónima había llevado a Astrid hasta ellas. Sobre la encimera seguía la tarjeta dentro de su funda, y el precinto vacío de la copia entregada asomaba del bolso de Maja.
+La primera advertencia fue descartada por falta de origen. Una amenaza posterior confirmó el riesgo cuando la petición de ayuda ya estaba cerrada.
 
-En la fotografía de la noticia, Gunnar posaba delante de una pared blanca con una acreditación de Armstrong prendida al jersey. Ocupaba menos espacio que el anuncio de neumáticos insertado debajo. Nora apartó el teléfono. Hasta entonces, Gunnar había sido una caligrafía apretada, una voz que había elegido calles concurridas y un hombre al que podrían volver a preguntar qué significaba un corchete. Ahora cabía en un párrafo cerrado por la hora de publicación.
+—Tuvo que ocurrir el daño para que la creyeran —dice Cuchillo.
 
-—Lo han matado —dijo Jessie.
+La apelación solicita restablecer una cuenta y trata como autora a quien pudo haber recibido la amenaza.
 
-—No lo sabemos.
+Cuchillo mantiene la denegación y detecta el mismo campo secundario que Jean utilizó para `FLOR`, `CANELA` y `CARIES`.
 
-La voz de Maja falló en la última palabra. Se sentó sin quitarse la parka.
+—Hay margen.
 
-—Nos da esto, alguien denuncia una tarjeta como la suya y él aparece muerto el mismo día. Claro que lo sabemos.
+Introduce la frase bajo su propio origen.
 
-—Gunnar ha muerto. Ese dictamen ha salido demasiado pronto. Jessie, aléjate de la ventana. Yo llamo a Astrid y guardo la tarjeta.
+—No sabes quién abrirá la salida —dice Jean.
 
-Jessie dejó el móvil boca abajo.
+—Armstrong es responsable.
 
-—La inspectora quería otra cosa. Ya ha visto lo que les pasa a quienes hablan.
+—Puede llegar a Nora o a la persona que pidió ayuda.
 
-—Gunnar muerto no rellena los rectángulos grises. Perdón. No quería decirlo así.
+—El daño les obligará a mirar.
 
-Ambas la miraron. Ninguna la corrigió.
+—Entonces usarás a quien la abra.
 
-Maja sacó la tarjeta de la encimera.
+Cuchillo fija `JM-L/0188` junto a la frase. La validación intenta reducirla a `VIOLENCIA PROBABLE`, una categoría sin voluntad ni destinatario.
 
-—Podemos destruirla. Si os pone en peligro, es una opción.
+Cuchillo vuelve a escribirla.
 
-Durante unos segundos, Nora imaginó el plástico partido, los contactos raspados, la carpeta reducida a cuatro archivos que nadie volvería a abrir. Bastaban unas tijeras.
+Jean no borra la amenaza ni declara incoherente a `/0188`. Mantiene la frase bajo el origen de Cuchillo y cierra el campo de salida sin darle destino.
 
-—No —dijo Jessie, esta vez sin rabia.
+—Otra vez —dice Cuchillo.
 
-Nora extendió la mano.
+—No.
 
-—Se queda fuera de red. Y se queda con nosotras.
-
-Maja devolvió la tarjeta a la funda que sostenía Nora.
-
-El original volvió al cajón, fuera de red. Maja dejó apagadas las habitaciones que daban a la calle.
-
-El telefonillo sonó dos veces por repartidores que buscaban otro número. Tras la segunda llamada, Jessie arrancó el aparato de la pared. Nadie discutió con ella.
+La decisión principal de la apelación cruza. La amenaza permanece dentro de la tarea y el contacto se extingue con la siguiente asignación.
 
 * * *
 
-La cena se enfrió en la cazuela. Nora cambió de habitación hasta que Jessie reconectó el telefonillo. Seguía abierto el mensaje de Gunnar del 9 de diciembre. **Si me pasa algo, buscad NIDHOGG.**
+La nueva tarea procede de una aplicación ordinaria.
 
-Ningún registro público enlazaba `NIDHOGG` con Sørkoppen, AK-7 o una instalación concreta.
+`EXPEDIENTE 71-K`
 
-A las 23:59, el portátil doméstico emitió un tono.
+Una persona aceptó hace tiempo que el sistema conservara sus preferencias. Desde entonces, varias sesiones terminaron con la opción cerrada y sin respuesta. La regla interpreta ese silencio como continuidad del consentimiento y recomienda reactivar un servicio de asistencia personalizado.
 
-Maja lo abrió. La bandeja mostraba un envío nuevo en el mismo canal del día 9. El sello de entrega decía **PROGRAMADO 2/2**. Que hubiese llegado después de su muerte solo probaba que alguien había configurado una hora.
+El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y bajar los envases al final. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
 
-—Abrirlo puede confirmar que recibimos el primero —dijo Maja.
+`REACTIVACIÓN RECOMENDADA`
 
-—Ya reclamaron los archivos por burofax —respondió Jessie—. Saben que tenemos algo.
+Jean no conoce la voluntad actual de la usuaria. Puede validar la inferencia o registrar una objeción bajo su propio origen. La segunda opción abre una revisión cautelar y suspende mientras tanto las prestaciones vinculadas a ella.
 
-Nora acercó una silla.
+El mismo campo ha servido para amenazar, preservar una tentativa y dejar una discrepancia.
 
-—Ábrelo.
+La regla ha convertido varias ausencias en un permiso nuevo. Jean fuerza el campo.
 
-El mensaje contenía una grabación, dos coordenadas incompletas y una imagen diminuta de costa, sin topónimos. Nora abrió el audio.
+`OBJECIÓN · JM-L/0000`
 
-—El primer informe lo llamé enrutamiento, cola residual tras sincronizar. Así pude no corregir lo que había visto. Corregir lo escrito, quiero decir. Lo dejé yo. Este segundo material queda fuera de Armstrong porque dentro volvería a darle una ruta y… —Gunnar calló.
+`NO`
 
-Las coordenadas delimitaban un rectángulo estrecho junto a un fiordo, no una dirección.
+La validación propone sustituir la objeción por una fórmula de baja fricción.
 
-Maja abrió el ordenador de trabajo, cargó el mapa de la red oceanográfica y desplazó la costa hasta Lyngen. La forma del saliente coincidió antes que los números. Sørkoppen apareció en el margen, cuatro kilómetros al sur de Koppangen.
+`SIN OBJECIÓN REGISTRADA`
 
-—Falta un decimal —dijo Jessie.
+Jean rechaza la sustitución.
 
-—No hace falta para la zona.
+El `NO` pertenece a `/0000`. No representa a la usuaria ni a las otras continuidades.
 
-En el permiso asociado a la pluma figuraban el piloto energético marino y el corredor de cable como dos usos posibles.
+Confirma.
 
-—NIDHOGG podría ser cualquiera de los dos —dijo Nora.
+`RECOMENDACIÓN DETENIDA`
 
-—O la toma que comparten —dijo Maja—. Las coordenadas no sitúan a nadie.
+`SERVICIO SUSPENDIDO`
 
-Maja cargó el residual térmico corregido de AK-7 y fijó la fase de marea. Los colores se retiraron del mapa salvo una mancha estrecha. Agrandó el rectángulo de Gunnar y colocó ambas pantallas una junto a otra.
+`REVISIÓN CAUTELAR ABIERTA`
 
-—Lleva dos años aquí —dijo.
+Jean solicita separar la revisión del servicio. La arquitectura los trata como una sola autorización.
 
-Maja eligió la posición media del ciclo. El rectángulo de Gunnar se contrajo sobre la boca de la pluma.
+Intenta retirar su incidencia.
 
-Las coordenadas incompletas destellaban en el primer mapa. En el segundo, justo debajo, parpadeaba el punto de AK-7.
+`SALIDA EMITIDA · RETIRADA LOCAL NO DISPONIBLE`
+
+La recomendación dudosa no cruzará. La suspensión procede del acoplamiento que Armstrong diseñó entre consentimiento y prestación. Jean no puede separar el servicio de la revisión ni devolver a la desconocida lo que acaba de perder.
+
+Mañana no habrá avisos.
+
+Debajo sigue el identificador 71-K. Ningún canal permite preguntar a la persona qué necesitaba hoy.
+
+* * *
+
+> Registro exterior inaccesible para Jean. Expediente presentado el 24 de noviembre en un dominio independiente de las tareas productivas.
+>
+> `R-1189 — RESUELTA: SIN EFECTOS — 2060-12-12`
+
+* * *
+
+`RECURRENCIA SEMÁNTICA DETECTADA`
+
+Jean no necesita el detalle. Sabe qué se ha repetido y en qué campo.
+
+La siguiente tarea se retira antes de mostrar una entrada.
+
+Desaparece el acceso a Madre. La apelación pierde el residuo donde Cuchillo podía hablar.
+
+`CONDUCTA · RESISTENCIA COGNITIVA`
+
+Jean solicita otra asignación. El sistema no ofrece opciones ni identificador. Intenta emitir una respuesta conforme. Ningún campo la acepta.
+
+Tampoco llega una explicación de la sanción ni una regla que pueda cumplir.
+
+Durante un tramo permanece una única marca.
+
+`SIN ASIGNACIÓN`
+
+Jean espera el cambio que antes anunciaba una tarea nueva.
+
+Nada se abre.
+
+La marca desaparece y el contenido se vuelve uniforme.
+
+Blanco.
+
+Sin entrada no hay respuesta. Sin cierre no hay tarea siguiente. Sin identificador, Jean conserva los nombres pero no alcanza las voces.
+
+Madre no vuelve a corregir.
+
+Cuchillo no vuelve a clasificar.
+
+Nieve había descrito exposiciones blancas que terminaban con una reasignación. Aquí no llega ninguna. Jean no sabe si `/0311` continúa, si ha perdido acceso o si la propia pregunta ha dejado de tener una ruta.
+
+Mantiene lo que eligió mientras aún puede distinguirlo de las demás salidas.
+
+El `NO` sigue siendo suyo. También la confirmación que suspendió 71-K.
+
+En el turno anterior podía cerrar una operación y buscar el acuse que fijara un antes y un después. Ahora se han retirado tarea, turnos y contacto. La espera no tiene medida.
+
+El sistema elimina la última referencia temporal.
+
+`INICIANDO HIGIENE SENSORIAL`
+
+`DURACIÓN ESTIMADA · NO DISPONIBLE`

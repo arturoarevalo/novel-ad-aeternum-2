@@ -1,17 +1,17 @@
-# OT-N1 · Capítulo nuevo N1 «La primera cita» — N
+# OT-11 · Capítulo nuevo N1 «La primera cita» — N
 
 ## 0. Cabecera
 
 | Campo | Valor |
 |---|---|
-| OT | OT-N1 |
-| Capítulo · fichero · orden de lectura | N1 · `capitulos/cap-n1.md` · **9.5** (entre 9 «Despedida» y 10 «Caries»; Parte I) |
+| OT | OT-11 |
+| Capítulo · fichero · orden de lectura | N1 · `capitulos/cap-11.md` · **9.5** (entre 9 «Despedida» y 10 «Caries»; Parte I) |
 | POV · fecha (frontmatter) | Maja · `2060-12-04T15:00` (**sábado 4-dic-2060**, «Mañana tenemos la primera cita… Las tres», 9:65: las tres personas y las tres de la tarde; ya de noche en Tromsø). Monótono para M7: 8 = 12-04 (sin hora) < N1 12-04T15:00 < 10 = 12-05; retrocede unas horas respecto al cierre de 9 (noche del 4, el piano), que es analepsis |
 | estado_plan · proteccion | N · no |
 | Δ objetivo · presupuesto vF · banda de aceptación | +2.200 · 2.200 palabras · **[1.870–2.530]** |
 | Oleada · escritor · editor de línea | W3 (segundo, tras N5) · **A3b** · A4 |
 | Gates que dispara | **A7 obligatorio y doble** (T7: caps. 1–10 y N1 nominalmente; B7 §6 N1 íntegro; dos pasadas: contenido y tono; veto no negociable) · A5 (M7: 9:65 → 4-dic; 6:211-215; 14:149) · A8 |
-| Frontmatter obligatorio del fichero nuevo | `capitulo: N1` · `titulo: La primera cita` · `pov: Maja` · `fecha: 2060-12-04T15:00` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N1` · `delta_objetivo: +2200` · `orden_lectura: 9.5` |
+| Frontmatter obligatorio del fichero nuevo | `capitulo: N1` · `titulo: La primera cita` · `pov: Maja` · `fecha: 2060-12-04T15:00` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-11` · `delta_objetivo: +2200` · `orden_lectura: 9.5` |
 | Estado de la OT | pendiente |
 
 ## 1. Diagnóstico (cifras de D1 y lectura de A2)
@@ -66,10 +66,10 @@
 ## 5. Ripples
 
 - **Salientes:**
-  - **OT-14** (R +100, W4): **entrante-nota, sin cambio de texto**: `S14-cita` intacto; lectura oficial «cuatro noches (seguidas)»; N1 no muestra remedio, luego 14:149 sigue midiendo el efecto a los siete días. Si A5 en W4 pidiera igualar el número, la única vía sería liberación de `S14-cita` en gate de autor: A2 **no la recomienda**.
-  - **OT-40** (R +150, W5): entrante-nota: el silencio de Jessie ya tiene antecedente en N1 (una elección respetada por una adulta ajena); OT-40 no explica el silencio y no lo relaciona con N1 en el texto.
+  - **OT-16** (R +100, W4): **entrante-nota, sin cambio de texto**: `S14-cita` intacto; lectura oficial «cuatro noches (seguidas)»; N1 no muestra remedio, luego 14:149 sigue midiendo el efecto a los siete días. Si A5 en W4 pidiera igualar el número, la única vía sería liberación de `S14-cita` en gate de autor: A2 **no la recomienda**.
+  - **OT-46** (R +150, W5): entrante-nota: el silencio de Jessie ya tiene antecedente en N1 (una elección respetada por una adulta ajena); OT-46 no explica el silencio y no lo relaciona con N1 en el texto.
   - **OT-06** (E +200, W4): entrante-nota: 6:211-215 (la oferta del equipo y «Iremos las tres») no se toca; las microcalas de 6 no deben anticipar la cita.
-  - **OT-10** (R +100 «contexto escolar», W4): entrante-nota: 10 puede aludir a «ayer» (la cita) en una línea logística, no es necesario; en ningún caso como remedio.
+  - **OT-12** (R +100 «contexto escolar», W4): entrante-nota: 10 puede aludir a «ayer» (la cita) en una línea logística, no es necesario; en ningún caso como remedio.
   - **A1-mantenimiento (B2 §8, tras G-A2):** la ficha «La profesional del equipo de apoyo» gana réplicas: registrar su registro (institucional, no defensiva, límites explícitos) y su regla: no explica, no aconseja sobre el archivo, no da cifras.
 - **Entrantes:** ninguno. N1 depende solo de 6:211-215 (la profesional llamó el 27), 9:65 (mañana, las tres) y 14:149 (efecto medido después).
 
@@ -77,7 +77,7 @@
 
 - Palabras 1.870–2.530. **M1 ≤ 6,0** únicos/1.000. **M2 = 0.** **Lector frío ≥ 4** («¿qué ocurre?» y «¿dónde?» con respuesta; ≤ 3 términos no entendidos). **M4:** ≤ 1 cierre-objeto (recomendado 0). **M4b ≤ 4 %.** M5: diálogo 40–55 %; tramo máx. sin diálogo ≤ 300. **M6b:** réplicas nuevas de Nora, Jessie y Maja entran en la muestra; Maja ≥ 40 % y Nora/Jessie ≥ 60 % en el hito (criterio G1). **M7:** `2060-12-04T15:00`; sábado; ninguna fecha nueva; coherente con 6:211-215 (la profesional llamó «al día siguiente» = 27-nov), 9:65 y 14:149. **M9:** cap-06, cap-09, cap-14 con hashes intactos. **M10:** CH-46 → PAGADO (N1); CH-48 sigue SIN-PAGO-INTENCIONAL (la discusión no se cuenta ni se alude por su contenido); CH-11 («Despedida») sigue pagado como negativa (N1 no abre nada).
 - Cualitativos: Carta F sin veto en dos pasadas (A7 firma en `informes/a7-w3-n1.md`); test A7 de las gemelas («¿escribe a la tabla?» → no); «Maja siente» sin que Maja lo diga (lector beta); «¿parece del mismo autor?» ≥ 4/5; ninguna réplica de la profesional ≥ 40 palabras; el capítulo no repite ninguna escena ni fórmula de 9.
-- Cómo se verifica: `medir.sh w3-n1`; `critica-fria.sh lector-frio compilado/extractos/w3-n1/cap-n1.md`; `sensibilidad.sh` (0 hits nuevos; los patrones B7 §4 sobre `cap-n1.md`); `proteger.sh verificar`; `validar-frontmatter.sh capitulos/cap-n1.md`; B6b §5 (A1 = 0; B en contexto).
+- Cómo se verifica: `medir.sh w3-n1`; `critica-fria.sh lector-frio compilado/extractos/w3-n1/cap-11.md`; `sensibilidad.sh` (0 hits nuevos; los patrones B7 §4 sobre `cap-11.md`); `proteger.sh verificar`; `validar-frontmatter.sh capitulos/cap-11.md`; B6b §5 (A1 = 0; B en contexto).
 
 ## 7. Checklist de verificación (A5 · A7 · A8)
 
@@ -91,7 +91,7 @@ El latido es una sala donde por primera vez nadie vende nada. La profesional no 
 
 ## 9. Ejecución (W3)
 
-Fichero creado por A3b: `capitulos/cap-n1.md` (frontmatter según §0). Total **2.071 palabras** (banda [1.870–2.530]; objetivo 2.200). Tres bloques separados por dinkus: coche/llegada · sesión · vuelta y casa.
+Fichero creado por A3b: `capitulos/cap-11.md` (frontmatter según §0). Total **2.071 palabras** (banda [1.870–2.530]; objetivo 2.200). Tres bloques separados por dinkus: coche/llegada · sesión · vuelta y casa.
 
 | Int. | Etiqueta | Escena | Palabras | Qué entra |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ Fichero creado por A3b: `capitulos/cap-n1.md` (frontmatter según §0). Total **
 
 **Medición (A3b, herramientas de trabajo; la oficial es `medir.sh`).** Palabras 2.071 · **M1 0,0 únicos/1.000 (0 términos del lexicón)** · **M2 = 0** · diálogo **40,4 %** (banda de sesión 40–55) · réplicas 147, media 5,2, **mediana 4**, ≤3 palabras 36 %, ≥20 palabras 1 (Nora informando, 26) · acotaciones 26 %, solo *dijo* (24) y *preguntó* (14) · frase media narrativa 10,0, mediana 10, máx. 23, ≥25 palabras **0 %** · párrafo medio 19,6, máx. 56, de una frase 35 % · **M4 cierres-objeto 0** (cierres: gesto, gesto, réplica) · **M4b 0,0 %** (0/122; vecinos: 6 = 12,3 %, 14 = 17,8 %) · tramo máx. sin diálogo 156 (≤ 300) · **lágrimas 0 · abrazos 0 · llanto 0** · -mente 0 · «muy» 0 · «como si» 0 · adjetivos valorativos 0 · vulgarismos de Jessie 0 · B6b **A1 = 0, A2 = 0, B = 0** hits · `validar-frontmatter.sh` OK (0 avisos) · `proteger.sh verificar` M9 OK (8 ficheros, 108 spans; cap-06, cap-09 y cap-14 intactos).
 
-**T7 (`sensibilidad.sh --solo cap-n1.md`): 9 hits, todos nuevos por ser fichero nuevo — 2 de nivel A y 7 de nivel B, ninguno accidental.** A (lectura obligatoria de A7): `culpa` en «En las casas la culpa se reparte sola. Que os toque una parte no prueba nada» (formulación pedida por B7 §6; no exculpa a nadie ni repite 9:71) y `por qué Koppangen` en la pregunta de Maja (una sola vez, respuesta = no-respuesta). B: `coche` ×3, `agua` ×2, `Koppangen` (misma línea), `muslos` (gesto canónico de Nora, 23:17). Para A7, además, las tres líneas que sostienen el veto: «No sé por qué murió Jean», «En lo que he visto, nunca hay una sola cosa» y «Entonces yo no la conozco» — el porqué queda plural y **no aparece ninguna causa ni no-causa** (ni Kongsbakken, ni el matrimonio, ni el trabajo, ni la empresa); no hay método, lugar, atestado, folleto, fármaco, programa, cifra-veredicto, «¿Sufrió?», consejo sobre el archivo ni milagro terapéutico; el silencio de Jessie no recibe interpretación de nadie.
+**T7 (`sensibilidad.sh --solo cap-11.md`): 9 hits, todos nuevos por ser fichero nuevo — 2 de nivel A y 7 de nivel B, ninguno accidental.** A (lectura obligatoria de A7): `culpa` en «En las casas la culpa se reparte sola. Que os toque una parte no prueba nada» (formulación pedida por B7 §6; no exculpa a nadie ni repite 9:71) y `por qué Koppangen` en la pregunta de Maja (una sola vez, respuesta = no-respuesta). B: `coche` ×3, `agua` ×2, `Koppangen` (misma línea), `muslos` (gesto canónico de Nora, 23:17). Para A7, además, las tres líneas que sostienen el veto: «No sé por qué murió Jean», «En lo que he visto, nunca hay una sola cosa» y «Entonces yo no la conozco» — el porqué queda plural y **no aparece ninguna causa ni no-causa** (ni Kongsbakken, ni el matrimonio, ni el trabajo, ni la empresa); no hay método, lugar, atestado, folleto, fármaco, programa, cifra-veredicto, «¿Sufrió?», consejo sobre el archivo ni milagro terapéutico; el silencio de Jessie no recibe interpretación de nadie.
 
 ---
 
@@ -133,4 +133,4 @@ Fichero creado por A3b: `capitulos/cap-n1.md` (frontmatter según §0). Total **
 
 **Lo que quedaría disponible si A0 abre un solo punto de presupuesto:** «Un hombre ocupaba el rellano con un niño sentado en el suelo, ya con las botas puestas.» (**Δ = −1**), que conserva íntegra la cita que el plan manda conservar y mata el molde sin inventar nada. **No la ejecuto**: la decisión de gastar presupuesto no es mía.
 
-**Nada se ha tocado en este fichero.** `git diff` sobre `capitulos/cap-n1.md` = vacío. `S-n1-nocierra`, `S-n1-casitodos` y `S-n1-koppangen-archivo` intactos por definición.
+**Nada se ha tocado en este fichero.** `git diff` sobre `capitulos/cap-11.md` = vacío. `S-n1-nocierra`, `S-n1-casitodos` y `S-n1-koppangen-archivo` intactos por definición.

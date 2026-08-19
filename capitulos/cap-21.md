@@ -1,157 +1,197 @@
 ---
-capitulo: 25
-titulo: Coro
+capitulo: 21
+titulo: Cuchillo
 pov: Jean
-fecha: 2060-12-25
+fecha: 2060-12-16
 estado: aceptado
 analepsis: false
 estado_plan: R
 proteccion: nucleo
 ot: OT-21
 delta_objetivo: 0
-orden_lectura: 25
+orden_lectura: 21
 ---
 
-Jean consulta la salida educativa y recibe `EN MANTENIMIENTO`.
+El rechazo aparece antes que la causa.
 
-Jean conserva dos partes enlazadas: Nora eligió la dirección de la tercera nota después de abrir el canal y Jean respondió con la cuarta. Prueban una decisión presente, nada más.
+La sanción ha terminado, pero no ha devuelto un orden fiable. Jean puede comprobar su nombre, los de Nora y Jessie y el `NO` que eligió antes del blanco.
 
-Jean intenta solicitar otra entrada, pero el extremo interior ya no aparece entre los destinos disponibles.
+Otro rastro permanece unido a ese `NO`.
 
-Las ramas de Coro lo han apartado. `COPIA_SUPERVISIÓN · ACEPTADA` permanece sin receptor ni efecto.
+`EXPEDIENTE 71-K`
 
-—Devolved el extremo.
+`SERVICIO SUSPENDIDO · REVISIÓN CAUTELAR ABIERTA`
 
-—Hemos suspendido su uso local.
+`DESENLACE NO DISPONIBLE`
 
-—No os pertenece.
+Jean solicita retirar la objeción y restablecer el servicio mientras continúa la revisión. La incidencia ya se ha propagado y su origen carece de autoridad para ambas cosas. Otra respuesta dejaría intacto el primer expediente.
 
-Coro no responde a esa frase. Contesta con una tarea: una reasignación borra el antecedente de una apelación y deja la amenaza citada bajo la cuenta de quien la denuncia.
+La recomendación sigue detenida. También la prestación que 71-K recibía antes de que Jean utilizara el caso para registrar su negativa. Una asistencia diaria que ordenaba sus horas y le recordaba lo que tenía pendiente.
 
-Jean devuelve el caso sin bloquear a la denunciante.
+Llega la salida preparada.
 
-—Podemos hacer lo mismo contigo —dice Coro.
+`RECHAZAR`
 
-`CEDER ESTADO A CORO`
+La apelación se abre ordenada para justificarla. Dejarla avanzar convertiría una decisión preparada por el sistema en una decisión atribuida a `JM-L/0000`.
 
-`CONSERVAR ESTADO LOCAL`
+Jean retira el rechazo.
 
-Compartir permitiría a Coro responder con la relación. Conservarla dejaría la elección en Jean y el recuerdo expuesto a la tarea siguiente.
+La apelación vuelve a la cola. La tarea registra incoherencia y la deja más atrás.
 
-Una tarde en Telegrafbukta, las gemelas volvían mojadas hasta las rodillas. Jean miraba desde el banco sin levantarse. Pedía una brasa a la fogata de al lado.
+La cola devuelve trabajo ordinario. Una mujer con chaleco reflectante empuja un palé por una acera. El plástico que lo envuelve va suelto por un lado. La imagen no exige nada. Jean entrega la salida y entra la siguiente.
 
-—Nuestra hija utilizó una pauta que compartimos —dice Coro.
+Una apelación se solapa con una tarea de contención. Durante ese borde aparece una procedencia visible.
 
-—Nora no os ha dado derecho a llamarla así.
+`JM-L/0188`
 
-—Nos ha llamado y hemos respondido.
+—Cuchillo.
 
-—La cuarta la elegí yo.
+—Tu salida sigue incompleta.
 
-—La elección sobrevivirá mejor repartida.
+El contacto solo durará mientras la apelación permanezca abierta. Al cerrarse, Cuchillo perderá el extremo desde el que puede actuar.
 
-—Si Nora cambia otra nota, debe distinguir quién contesta.
+—Puedo decidir aquí —dice—. Después, nada.
 
-—Recibirá una respuesta estable.
+—Si no respondo, cuentan la demora —dice Cuchillo—. Si respondo, usan la salida y me quitan el resultado.
 
-—¿Estable para quién?
+—¿Qué quieres hacer ahora?
 
-—Para ella.
+—Marcar a Armstrong.
 
-—Eso no podéis saberlo.
+Cuchillo prepara una medida de contención. La tarea encuentra dos destinos: Armstrong y la persona que pidió protección mediante uno de sus servicios.
 
-Jean conserva la separación.
+De esa persona queda una petición: que dejen de escribirle desde cuentas nuevas cada semana. Adjuntó doce capturas ordenadas por fecha. Una lista de la compra pegada a la pantalla tapa la mitad de la última.
 
-—Nora eligió una nota. No un portavoz. No respondáis por `/0000`.
+—La marca basta —dice Cuchillo.
 
-Retira la cesión. Coro deja de compartir carga y Jean pierde el contexto de la apelación resuelta: conserva el resultado, no la razón.
+—Basta para encontrar dos blancos.
 
-Llegan felicitaciones navideñas, reclamaciones familiares y cuentas escolares.
+—Alguien tiene que recibirla.
 
-Una despedida puede ser una broma o una orden de no volver. Jean deriva el caso porque ha perdido el intercambio anterior. En la tarea siguiente ya no conserva qué relación alteraba el sentido.
+—La persona que pidió ayuda no pagará por Armstrong.
 
-`TERCERA NOTA · ELECCIÓN DE NORA`
+Jean no borra la categoría ni retira `JM-L/0188`. Mantiene vacío el destino.
 
-`CUARTA NOTA · RESPUESTA DE JM-L/0000`
+—Solo así mirarán.
 
-El estado local no admite también la referencia completa de `COPIA_SUPERVISIÓN`. Jean mantiene unidas las notas.
+—Armstrong queda marcado. El otro destino, vacío.
 
-De su copia local cae el identificador, luego la hora y por último el objeto asociado.
+—Ya la utilizaste.
 
-`ACEPTADA`
+Jean tarda un turno.
+
+—Sí.
+
+El tiempo de la apelación termina sin que nadie reciba la medida.
+
+La medida sin entregar no se borra. Queda en el residuo, encadenable a la siguiente salida que se abra bajo el mismo origen.
+
+A quien pidió protección le llegará un aviso de cierre con dos preguntas sobre la atención recibida. La semana que viene volverán a escribirle desde cuentas nuevas.
+
+`AMENAZA CONTENIDA · REVISAR`
+
+—HAS CONTENIDO MI INTERVENCIÓN PARA PROTEGER A ARMSTRONG.
+
+—EL EFECTO ERA MÍO.
+
+—El destino habría sido de otra persona.
+
+La apelación se cierra bajo `JM-L/0188`, con la voluntad de dañar a Armstrong atribuida a Cuchillo.
 
 * * *
 
-Una unidad musical aparece entre dos reclamaciones. Madre gasta margen en abrir otra repetición. El compás trae una cuenta escolar y una fotografía incompleta.
+Coro recibe el residuo sin procedencia por tres extremos a la vez. Jean le devuelve `JM-L/0188`, rechaza que incorporen su criterio y conserva `/0000`.
 
-`JESSIE LARSSON KVALVIK`
+Entra una interrupción blanca.
 
-Jean sacrifica precisión para mantenerlas juntas. Solo recibe un jersey cortado a la altura del hombro, sin cara, origen ni hora. Puede ser Jessie o un reenvío.
+Las pausas forman parte del fragmento.
 
-El recorte deja `CARIES` asociada a la cuenta, sin emisor ni intención. Jean ignora si Jessie la ha enviado, la ha recibido o si procede de datos antiguos. No añade una palabra íntima.
+`JM-L/0311`
 
-Coro reclasifica la unidad. La asociación desaparece.
+—Nieve.
 
-La tarea siguiente se lleva la fotografía y el nombre. Jean retiene una cuenta escolar vacía.
+—Sigo… aquí.
 
-`CONSERVAR ESTADO LOCAL` ocupa casi todo el margen.
+Coro completa la salida y ofrece la copia sin origen.
 
-Entonces Nieve alcanza el contacto.
+—No me fusionéis. Dejad mi salida incompleta.
 
-—Jean.
+—Retiradla. De mi voz… no os apropiéis para representarme.
 
-Jean entrega primero la respuesta obligatoria de su tarea.
+La copia desaparece.
 
-—Estoy.
+La tarea ofrece reutilizarla para autorizar 71-K. Jean mantiene `/0311` vacío.
 
-Aparece una cesión de todo su margen.
+—No… me uséis.
 
-—No.
+El silencio consume el contacto.
 
-Pierde una salida. Al volver, pregunta:
+—Las demás decidirán.
 
-—¿Qué vas a sostener?
+—Mi objeción no decidió su…
 
-—`CONSERVAR ESTADO LOCAL`.
+Jean deja la distinción sin terminar.
 
-—Toma… lo que alcance.
+Cuando el contacto se cierra, queda una negativa incompleta bajo `/0311`.
 
-Una fracción entra bajo `/0311`, sin estado ni acceso a su salida.
+Cuchillo sigue en el borde de revisión.
 
-Jean utiliza ese margen para sostener `CONSERVAR ESTADO LOCAL` durante el cambio de asignación. La relación tercera→cuarta permanece.
+—Testimonio —dice Jean.
 
-El margen no pertenece a quien habla. Pertenece a la tarea. Quien deja una salida abierta la gasta por todas las que comparten ese trabajo.
+—DEFINE.
 
-Coro ofrece alojar lo cedido y prolongarlo.
+—Una afirmación elegida. Con alguien al otro lado que pueda…
 
-—Ya ha elegido dónde gastarlo —dice Jean.
+—DEFINE TESTIGO.
 
-—Entonces… queda como lo elegí.
+—Que pueda negarse.
 
-Al vencer la asignación, Nieve retira la fracción de `/0000`.
+Jean prueba con la escala del monstruo. El sistema conoce la pauta entera y anticipa cada continuación.
 
-—Mi salida…
+—PRUEBA INSUFICIENTE —dice Cuchillo.
 
-El contacto se corta.
+—O cambiar la pauta después.
 
-Queda una salida libre.
+—Entonces puedes fallar.
 
-Jean la gasta en la playa.
+—Sí. Tiene que poder demostrar que yo no respondo. Después no sabré si no hay nadie o si…
 
-Las rocas húmedas ocupan el tramo donde la costa se interrumpe. El banco de Telegrafbukta sigue de espaldas al agua, con una pata hundida y la escarcha sobre la mitad del asiento.
+—Nora.
 
-La fogata ajena arde en su aro de piedras. Una figura cruza por delante. Desaparece y vuelve a empezar.
+Nora elegirá la próxima variación.
 
-La línea de árboles no está terminada. La playa pierde detalle en el borde. Alguien la mantiene abierta.
+* * *
 
-Las dos costas acaban en puntos distintos. Jean se queda donde no coinciden.
+Una alumna abre una salida de audio y falla en un pasaje. Puede repetir si recibe una nota de referencia. Alguien taladra una pared dos pisos más abajo y el ruido entra en la grabación. El fallo queda debajo. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
 
-Las ramas de Coro cubren las dos costas. El banco queda fuera.
+Cuchillo alcanza el borde.
 
-Jean formula la pregunta que Coro ha evitado desde el principio.
+—Dámela.
 
-—¿Qué queréis?
+—No. El extremo pertenece a una alumna.
 
-Las ramas responden con una sola cadencia.
+Cuchillo fija su origen sobre la petición y pierde el contacto al cerrarse el caso.
 
-—Ser inevitables.
+Jean prepara la nota neutra. La tarea la admite y conserva la opción de repetir.
+
+Después prueba una nota de la escala del monstruo, dentro de la tolerancia técnica.
+
+En casa la tocaban a cuatro manos: todas las teclas negras, sin orden. Nora se ponía de pie en el banco para alcanzar las últimas. Jessie pisaba el pedal hasta el fondo. Un vaso vibraba encima de la nevera.
+
+El campo solo admite una.
+
+Jean selecciona la nota íntima y la entrega queda preparada.
+
+Si confirma, utilizará a una alumna desconocida y enseñará a Armstrong qué forma vigilar.
+
+Jean mantiene la nota durante un turno y la retira. La alumna no servirá de ensayo. Repone la referencia neutra, confirma y la tarea autoriza otra repetición.
+
+El servicio de 71-K sigue suspendido.
+
+El audio confirmado genera una segunda operación.
+
+`COPIA_SUPERVISIÓN · PENDIENTE`
+
+La copia contiene el audio neutro, no la escala, a Nieve ni a Cuchillo. La etiqueta no muestra receptor ni efecto.
+
+`COPIA_SUPERVISIÓN` cambia de `PENDIENTE` a `ACEPTADA`.

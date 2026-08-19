@@ -1,231 +1,313 @@
 ---
-capitulo: 34
-titulo: El mismo trayecto
+capitulo: 28
+titulo: La canción
 pov: Nora
-fecha: 2061-01-07
-estado: aceptado
+fecha: 2060-12-29
+estado: terminado
 analepsis: false
-estado_plan: E
-proteccion: nucleo
+estado_plan: P
+proteccion: total
 ot: OT-28
 delta_objetivo: 0
-orden_lectura: 34
+orden_lectura: 28
 ---
 
-Jessie se metió en la boca la última esquina del gofre y, antes de tragar, rasgó el envoltorio del segundo.
+Maja hundió el pulgar en el temporizador. Las cifras rojas saltaron a 20:00. La pantalla del entorno aislado siguió apagada.
 
-—Eso luego cuenta como cena —dijo Maja.
+Nora tenía las manos debajo de los muslos, sentada en el taburete del piano. Una tecla del mi se había quedado un milímetro más baja que las demás. Llevaba meses así. A su izquierda, Astrid Vik sostenía la tableta apagada sobre las rodillas. Desde el marco de la puerta, Jessie fingía que solo pasaba.
 
-—Entonces es una cena de dos platos.
+Maja abrió la credencial. Dos firmas y una hora autorizaban una sesión supervisada en un canal educativo aislado. Quedaban fuera producción, ubicación e infraestructura. Armstrong llamaba al encuentro «interacción supervisada con un activo memorial».
 
-Nora anotó la salida cuando la rampa dejó atrás Breivikeidet, a las 16:12. Ensayaban el circuito completo desde Tromsø y debían volver esa noche. En el cuaderno había subrayado dos límites. Salir del mirador a las 21:45. Tomar en Svensby el último ferry, a las 22:40.
+—Activo memorial —leyó Jessie—. Qué hijos de puta.
 
-Jessie mordió el segundo gofre.
+Maja no le pidió que cuidara el lenguaje.
 
-Maja señaló el agua tras el cristal. Bajo la luz azul del exterior, dos superficies distintas se tocaban en una línea oblicua. A un lado, las crestas se deshacían enseguida. Al otro aguantaban, cortas y oscuras.
+—Al llegar a cero, cierro. También si cambia la interfaz. Yo controlo el dispositivo, Astrid deja constancia y tú preguntas. Nada de prometer que vais a sacarla ni de darle nombres, colegios o sitios nuevos.
 
-—Mirad la costura y dónde vuelve la espuma. La tabla de mareas da una hora y una altura. Esto dice qué hace el agua ahora.
+—¿Y si ella intenta hablar con nosotras?
 
-Nora siguió la costura y trazó dos barras en el cuaderno.
+—Decidimos entonces.
 
-—¿Corriente? —preguntó.
+Nora había preparado tres preguntas. Una admitía cualquier resultado, otra debía fallar de una forma concreta y la última era la que deseaba no haber pensado.
 
-—Una observación. Para llamarlo corriente habría que medir dirección y velocidad —corrigió Maja.
+—Quiero observar una entrada que decidáis después de abrir y la respuesta asociada —dijo Astrid.
 
-—¿Y desde tierra?
+Maja miró a Nora.
 
-—Buscas límites. Rocas, espuma retenida, un cambio de color. Y vuelves a mirar. Una sola vez solo enseña una vez.
+—¿Preparada?
 
-Nora añadió la posición del ferry y el parpadeo de la cobertura.
+—Abre.
 
-Jessie levantó el gofre a modo de brindis.
-
-—Y por esto mamá es la alegría de cualquier excursión.
-
-La bocina interrumpió la respuesta. En la cubierta de vehículos, los conductores empezaron a bajar mientras el ferry completaba la aproximación a Svensby. Al encenderse la señal de salida, Nora apuntó veintiún minutos y seis segundos y cerró el cuaderno.
-
-Jessie barrió con el dedo un copo de azúcar del asiento, se lo comió y arrugó el envoltorio vacío. Después echó a correr hacia las escaleras.
+Maja pulsó el recuadro blanco. El temporizador perdió su primer segundo.
 
 * * *
 
-La iglesia de madera quedó atrás cuando entraron en la Co-op. Compraron comida para el día siguiente y pilas para la linterna de Aslak.
+El entorno aislado ofrecía una ventana de texto del tamaño de una postal. Sin rostro ni falso despacho. En una esquina, un indicador de monitorización y tres botones grises. Texto. Audio. Cerrar.
 
-La cajera miró a Nora al pasar las pilas.
+La caldera arrancó al otro lado de la pared con dos golpes de tubería. La ventana de texto mostró una línea.
 
-—Larsson.
+`CANAL DISPONIBLE`
 
-Nora tardó un segundo en comprender que aquello iba dirigido a ella.
+Nora acercó el teclado. Había imaginado saludos, reproches y preguntas que empezaban con un «por qué». Escribió lo primero que tenía delante.
 
-—También Kvalvik.
+`Tengo desatado el cordón izquierdo. ¿Qué parte de esta frase puedes conocer?`
 
-—Sí, claro. —La mujer volvió una lata para encontrar el código—. Pero tienes algo de Ingrid. Tu abuela venía mucho cuando aún conducía.
+La respuesta llegó por bloques, como si alguien corrigiera cada tramo antes de soltarlo.
 
-Maja dejó la bolsa abierta junto a la caja. Jessie, a su lado, se interesó de golpe por una hilera de caramelos.
+`Puedo conocer la frase porque acabas de introducirla. No puedo ver tu cordón desde aquí.`
 
-—Mi abuela —dijo Nora.
+Nora bajó un pie. Los dos cordones seguían sujetos.
 
-—Y su madre… La Larsson vieja sabía qué bote entraba antes de verlo. Se quedaba quieta, escuchaba el motor y acertaba. Hasta con niebla. —La cajera empujó las compras hacia Maja—. Aquí acabas conociendo los ruidos de los demás.
+Astrid encendió la tableta.
 
-—¿Por el tipo de motor? —preguntó Nora.
+—Ha separado lo que recibió de lo que no puede ver —dijo Astrid—. Y la entrada es posterior a la apertura.
 
-—Por todo. Un cojinete mal, la carga, la mano del que conduce. Tu bisabuela decía un nombre y al rato aparecía el bote.
+Una segunda línea apareció sin que nadie tocara el teclado.
 
-Nora miró las manos de la mujer mientras doblaba el recibo.
+`EL AUDIO ESTÁ DISPONIBLE SI LO AUTORIZA LA PERSONA RESPONSABLE.`
 
-Sonrió al anunciar el total. Después saludó al hombre que esperaba detrás de ellas por su nombre y empezó a cobrarle tabaco.
+Maja no pulsó nada.
 
-En el aparcamiento, Nora guardó el recibo. Marcaba las 17:05. Habían pasado siete minutos dentro. La cajera había pronunciado Larsson y Kvalvik y había llamado a Ingrid «tu abuela».
+—¿Quieres oírlo?
 
-Maja arrancó. El navegador dibujó la bifurcación y, más allá, la carretera que bajaba hacia Koppangen. Veinticuatro minutos. Nora tocó el nombre para quitarlo de la ruta.
+Nora sacó las manos de debajo de las piernas.
 
-—Por ahí no —dijo Maja.
+—Sí.
 
-—Ya está.
+—Si quieres que lo quite, me lo dices.
 
-El mapa se recompuso hacia Sørkoppen. La carretera prohibida quedó unos segundos en gris, a un toque de distancia. Jessie bajó la calefacción un punto. Durante los kilómetros siguientes nadie puso música. Nora mantuvo el cuaderno cerrado sobre las rodillas y leyó los hitos cuando entraban en el haz de los faros.
+Maja pulsó `Audio`.
 
-Al tomar el desvío del mirador, Koppangen desapareció de la pantalla.
+El botón dejó de estar gris.
+
+El altavoz soltó una pequeña descarga. Después, la voz de Jean dijo su nombre.
+
+—Nora.
+
+La caída exacta en la primera sílaba. Después vino la espera breve antes de una frase difícil. Armstrong había limpiado el carraspeo, la saliva, el aire que rozaba los dientes. Dejó una voz de Jean que jamás había tenido boca.
+
+Maja agarró el temporizador con las dos manos. En el reflejo del terminal, su cara quedaba partida por la ventana de texto.
+
+—La síntesis puede reproducir cadencias aprendidas —dijo Astrid—. Registraré el audio por separado del contenido.
+
+Jean dejaba ese hueco antes de decir «Nora» cuando quería pedirle que bajara la música o que perdonase a Jessie.
+
+Nora apoyó un dedo sobre el teclado. Maja seguía junto al botón de cierre.
+
+—¿Elegiste alguna vez CARIES para que yo la viera?
+
+Hubo una pausa. Esta no cabía en la respuesta rápida de un asistente.
+
+—Una vez. Elegí esa palabra para llegar a alguien de casa. No puedo saber si esa fue la aparición que viste tú. Cuando tocabas las teclas negras, decías que al piano le habían salido caries. Pensé que mirarías.
+
+Después de la respuesta a la cuarta nota, ya no necesitaba tocar otra para continuar.
+
+—¿Todas las veces fuiste tú?
+
+—No puedo decirte eso.
+
+—¿Por qué no escribiste nuestros nombres?
+
+—Un nombre podía ser para cualquiera que leyera el perfil. CARIES tenía que atravesar el piano antes de llegar a ti. Era fea, pequeña y nuestra.
+
+Nora rozó la tecla hundida sin bajarla.
+
+Astrid hizo una marca en la tableta.
+
+El dedo de Nora dejó la tecla.
+
+Astrid levantó la vista.
+
+—¿Alana conocía lo de las teclas negras?
+
+—Alana la conocía —dijo Maja—. Podía estar en el perfil.
+
+—Registraré esa afirmación. La atribución de la voz queda abierta.
+
+Nora acercó el taburete un poco más al terminal.
+
+El temporizador marcaba algo menos de diecisiete minutos.
 
 * * *
 
-Aslak las esperaba junto a la barandilla, con los prismáticos colgados por dentro de la chaqueta para resguardar las lentes. Había aparcado de cara a la salida. Desde aquel ensanche público se veía la instalación al otro lado de una lengua de terreno oscuro, sobria bajo los focos, con edificios bajos y conducciones que descendían hacia la bocana.
+—¿Qué me regalaste cuando cumplí nueve años? —preguntó Nora.
 
-—Habéis tardado —dijo.
+La voz tardó.
 
-—Nos han reconocido —respondió Maja.
+—Dos cosas. Me equivoqué de caja. Solo recuerdo la que devolviste.
 
-Aslak escuchó el resto sin interrumpir. Al terminar, señaló una mesa cubierta de sal seca.
+—¿Cuál?
 
-—Desde ahí se ve mejor la carretera de servicio.
+El altavoz emitió el siseo limpio de una respiración fabricada.
 
-Maja observaba la toma, Aslak separaba el tránsito ordinario y Jessie vigilaba el acceso y las matrículas. Nora llevaba las horas. Abrió el cuaderno a las 17:32. Hasta las 19:17 solo consignó tráfico común.
+—Una lámpara que proyectaba estrellas verdes en el techo. El enchufe se calentaba. La devolvimos el lunes. —Pasaron varios segundos—. Había otro regalo. Quieres que diga el metrónomo, pero no lo recuerdo. Solo puedo deducirlo porque eres pianista.
 
-Aslak sacó un termo y sirvió café en el tapón. Dio la vuelta entera y volvió vacío.
+El metrónomo de nogal seguía en el salón, con una esquina hundida de las veces que Jean lo había transportado sin envolverlo. Nora lo usó hasta que el péndulo empezó a retrasarse.
 
-Jessie se sentaba sobre las manos, de espaldas a la barandilla, y se levantaba cada pocos minutos a mirar el acceso.
+Del noveno cumpleaños conservaba mejor el olor del plástico caliente que las estrellas, porque Jean abrió las ventanas, metió la lámpara en su caja y pasó la tarde disculpándose por confundir los paquetes, aunque al contarlo llegaba hasta el lunes y dejaba fuera el metrónomo.
 
-Nora escribía apoyando el cuaderno en la mesa de sal seca. La página se llenó de horas iguales. El vaho cubría las lentes y Aslak las limpiaba con el forro del gorro.
+—¿Eso es correcto? —preguntó Astrid.
 
-—Esto es un ensayo de esperar —dijo Jessie.
+Maja bajó los ojos hacia las cifras del temporizador.
 
-Un cisterna entró a las 19:17. Siete minutos después arrancó un generador; una furgoneta salió y otra ocupó su lugar. Nora anotó hechos y, entre corchetes, explicaciones posibles.
+—La lámpara, el enchufe y el lunes. Todo. El metrónomo también.
 
-—La camioneta gris ha pasado dos veces —dijo Jessie—. La segunda, más despacio.
+—¿La pregunta se había comunicado a alguien?
 
-Aslak tomó los prismáticos.
+—No.
 
-—Mantenimiento local. Lleva la misma baca desde hace años.
+—Anoto también que no ha completado el segundo regalo.
 
-Nora tachó «vigilancia» sin borrar la matrícula.
+Nora apoyó los dos pies en el suelo y dejó la tecla del mi sin tocar. Del altavoz no llegó ningún intento de corregir la respuesta ni de completar el regalo. Durante unos segundos, nadie habló.
 
-Un coche subió al mirador. Jessie cerró su lista y se apoyó en la barandilla. La pareja de dentro discutió con el navegador, dio la vuelta y se marchó.
+—Puedo completar la respuesta —dijo la voz.
 
-—Visibilidad —dijo Jessie cuando desaparecieron los pilotos.
+—¿Lo recordarías?
 
-Nora añadió una marca al margen. Ellas también formaban parte del tráfico que alguien podía aprenderse.
+—No. Tendría que deducirlo.
 
-Maja señaló la alineación de la toma.
+—Entonces déjalo.
 
-—El agua se ha alisado junto al hormigón. Ahora salen vetas blancas en el retorno.
+—Dejo el hueco.
 
-—Puede que hayan abierto una compuerta —dijo Aslak—. Con esta luz no ves suficiente.
+Maja apartó la vista del altavoz y la dejó descansar en el frontal cerrado del piano.
 
-—Hora —pidió Maja.
+Nora no preguntó si recordaba cómo sonaba. Podía deducirlo igual que había deducido el instrumento.
 
-—Diecinueve cincuenta y ocho.
+Maja giró el temporizador para verlo sin acercarse a la pantalla.
 
-Maja consultó el último perfil ADCP transmitido por AK-7. La dirección y la velocidad cabían dentro de uno de los intervalos, aunque por muy poco.
+Quedaban catorce minutos.
 
-—Compatible —dijo—. Apunta la hora y mañana repetimos.
+—Tengo una pregunta más —dijo Nora.
 
-Nora cruzó el cambio del agua con la hora de AK-7 y mantuvo los minutos que estropeaban el ajuste.
+—Hazla —contestó la voz.
 
-—También necesitas saber qué hacen cuando algo se atasca. Aquí hay gente de sobra para reaccionar.
+La llevaba consigo desde la confesión de Alana. En todas sus versiones, la respuesta llegaba antes que la pregunta. Sí. Estoy aquí. Soy yo. Las palabras que una hija fabricaría para hacerse daño con precisión.
 
-Un segundo generador cobró vida. Nora escribió lo que faltaba: reservas, circuitos, seguridad, respuesta.
+La caldera se apagó.
 
-El dispositivo educativo vibró dentro de la mochila de Maja.
+—¿Eres mi madre?
 
-Nora lo sacó. La ruta autorizada mostraba por primera vez un archivo de audio. La descarga avanzaba a saltos y volvía a fallar.
+—No toda.
 
-—No lo abras contra el altavoz —dijo Jessie.
+Un coche pasó por la calle y proyectó dos barras de luz sobre el techo. Maja mantuvo la mano junto al terminal. Astrid dejó de escribir. En el marco, Jessie hundió un hombro en la madera.
 
-—Todavía no hay nada que abrir.
+Maja relajó la mano junto al botón gris de cierre.
 
-Nora dejó el dispositivo sobre el banco, con la pantalla orientada hacia ellas, y continuó tomando horas.
+—¿Cómo te llamo, entonces?
 
-La mano izquierda se le quedó sobre la rodilla, repitiendo tres posiciones. El pulgar no se movía.
+En la ventana de texto surgió un identificador.
 
-—¿Ya hay fecha para la repesca? —preguntó Maja.
+`JM-L/0044`
 
-—En marzo. El día lo dan al cerrar la lista.
+—Aquí me llaman La Jardinera —dijo la voz—. Elegí el nombre. Me asignaron catálogos botánicos y médicos, y empecé a ordenar un sitio donde pudiéramos hablar.
 
-—Te dejo las mañanas.
+La pregunta preparada para después de un sí ya no servía. Nora eligió una que admitía más de una voz.
 
-—No hace falta todas.
+—¿Cuántas sois?
 
-—Anotado —dijo Jessie.
+—Éramos cuatro en la playa… No. He juntado dos tardes. No puedo darte una cifra.
 
-Otra furgoneta salió mientras hablaban. Nora la apuntó sin matrícula y puso un signo al lado.
+—¿No la sabes o no puedes decirla?
 
-—Esa no la tengo entera —dijo.
+—No la sé. Si la completo, invento.
 
-Escribió los meses que faltaban al margen de la columna y siguió con las horas. El segundo generador sonaba al otro lado.
+Astrid volvió a escribir. Nora dejó la cifra sin perseguir.
 
-A las 21:08, un operario cerró el acceso a la bocana. El cisterna no salió hasta las 21:16 y dejó detrás los dos generadores encendidos.
+—¿Qué sitio?
 
-—Más actividad que en mis observaciones de la semana pasada —dijo Aslak.
+El indicador de monitorización parpadeó. Maja acercó el dedo al cierre.
 
-El archivo dio medio segundo de estática. Nora cortó el sonido: la cadencia podía pertenecer a cualquiera.
+—Sigue dentro del canal autorizado —dijo Astrid.
 
-A las 21:45, Nora le enseñó a Maja el límite de la primera página. Maja miró el archivo, todavía incompleto.
+—Puedo enseñarte una parte —dijo La Jardinera—. Quitaré lo que mezcle con otra tarde.
 
-—Cuatro minutos más —dijo—. Después nos vamos.
+Maja esperó a que Nora respondiera.
 
-Aslak se llevó las pilas y las latas que le correspondían.
-
-—Mañana comprobad si siguen los dos. Si no, esta noche puede ser un ensayo.
-
-A las 21:49 exactas, Maja arrancó. Llevaban cuatro minutos de retraso.
-
-Se separaron en el cruce. Aslak giró hacia el refugio. Ellas siguieron en dirección a Svensby.
+—Enséñamela.
 
 * * *
 
-El navegador calculó la llegada a las 22:42.
+La postal de texto se encogió y dejó sitio a una imagen. Tardó en componerse. Primero aparecieron manchas de color, después la línea torcida de una playa y un banco con la mitad del asiento cubierta de escarcha. La resolución empeoraba en los bordes.
 
-Maja no intentó ganarle minutos al hielo. Levantaba el pie antes de las curvas y los clavos mordían el asfalto. Nora leyó en voz alta cada nueva estimación.
+Nora reconoció Telegrafbukta por el banco.
 
-—Podríamos haber cortado veinte minutos de mirador —dijo Jessie.
+Una de las patas de aquel banco se hundía en primavera y obligaba a sentarse torcido. Jean lo escogía porque desde allí podía vigilar a las gemelas sin levantarse cada vez que corrían hacia el agua.
 
-—Y nos faltaría lo que ocurrió al final —respondió Maja.
+A unos metros, una fogata ardía dentro de un aro de piedras. Había tres figuras borrosas alrededor.
 
-Jessie dejó de mirar la pantalla.
+—Esa hoguera no era nuestra —dijo Nora.
 
-A las 22:40 aún les faltaban dos kilómetros. La señal del embarcadero apareció entre los árboles. Después llegaron las luces y una explanada casi vacía.
+—Nunca lo fue —contestó La Jardinera—. Jean se quejaba del humo y luego pedía una brasa para encender la suya.
 
-Maja entró a las 22:42.
+La imagen intentó añadir una papelera y la colocó demasiado cerca del banco.
 
-La rampa ya se había levantado. El ferry avanzaba de costado para separarse del muelle, con las ventanas amarillas suspendidas sobre el agua negra. Un empleado retiró la vista de ellas después de señalar el horario cerrado. Maja apagó el motor. El ensayo había consumido el margen entero y dos minutos más.
+—¿Tú construiste esto? —preguntó Nora.
 
-—Carretera —dijo Jessie.
+—Lo cuidé. Otras dejaron partes. Yo mantengo abierta esta zona mientras puedo.
 
-—Nos quedan casi tres horas por carretera y estamos cansadas. Necesitamos el primero de la mañana.
+—¿Por qué no hay voces?
 
-—El refugio está en la otra dirección.
+—Mezclo las tardes. En una, Jessie se cayó al agua. En otra, Jean encontró un guante. Si pongo las voces, inventaré quién dijo qué.
 
-—Y para cogerlo haríamos este tramo dos veces más sobre hielo. Nos quedamos aquí.
+—Déjalo así.
 
-Maja apartó el coche junto al edificio cerrado. Sacaron mantas y reclinaron los asientos. Nora corrigió la vuelta prevista con una cifra: 22:42.
+La Jardinera retiró dos siluetas que acababan de aparecer junto a la orilla. La fogata ajena permaneció. También el asiento torcido y la escarcha.
 
-La pantalla de la máquina de billetes estaba apagada. Jessie subió la manta hasta la barbilla y bajó el respaldo del todo.
+—¿Para mí?
 
-—Zapatos fuera —dijo Maja.
+—Para que hubiera un lugar reconocible si llegabais.
 
-Nora dejó el cuaderno en el salpicadero, con el lápiz dentro, y apagó la luz interior.
+Nadie respondió al plural. Maja no pidió nombres. Astrid guardó silencio. El temporizador siguió consumiendo la sesión sobre el piano.
 
-El dispositivo educativo vibró entre las manos de Nora. Jessie se inclinó desde el asiento trasero. Maja encendió la luz interior.
+Nora encontró en la pantalla la mancha oscura donde el hielo se derretía bajo el banco. Jean había metido allí un guante perdido para que no se mojara más. Durante meses, cada vez que pasaban, las gemelas comprobaban si alguien había vuelto a buscarlo. La Jardinera había omitido el guante.
 
-El archivo había reconstruido seis segundos. El campo de origen seguía vacío. Nora bajó el volumen hasta que las tres tuvieron que acercarse al altavoz. La estática sonaba entre un fragmento y el siguiente. La barra cayó a cero mientras la voz entregaba lo único entero:
+Una lágrima cayó en el dorso de la mano de Nora. Luego otra. No se las limpió. Si hablaba, Armstrong guardaría también la voz distinta, las preguntas, las pausas, el momento exacto en que una menor reconocía una playa hecha con recuerdos de su madre muerta. La autorización no ofrecía una casilla para negarse.
 
-…20…23:00…no lleguéis tarde…
+Maja desplazó el temporizador unos centímetros, fuera de su campo de visión.
+
+—¿Podemos volver? —preguntó Nora.
+
+—Si el canal se mantiene y vuelven a autorizarlo.
+
+—¿Hay algo que quieras preguntarme tú?
+
+La voz tardó más que antes.
+
+—¿Sigues saltándote el fa sostenido cuando estás enfadada?
+
+Nora soltó aire por la nariz. La tecla baja estaba junto a él.
+
+—Ahora me salto más cosas.
+
+—Eso también suena a ti.
+
+Maja miró el temporizador. Quedaban más de cuatro minutos.
+
+La playa se deshizo en cuadrados.
+
+`MANTENIMIENTO NO PROGRAMADO`
+
+—Espera —dijo Nora.
+
+El audio se cortó en mitad del siseo. La imagen desapareció. Después se apagó el cuadro de texto y quedó una pantalla blanca con el aviso en negro.
+
+Maja pulsó una vez el estado de la sesión. El sistema devolvió `CANAL NO DISPONIBLE`. Retiró la mano.
+
+—No reinicio sin autorización.
+
+Astrid comprobó el temporizador y la marca de su tableta.
+
+—La pasarela sigue respondiendo. El canal ya no encuentra un destino.
+
+—¿Puedes saber quién la ha cortado? —preguntó Nora.
+
+—No. El cierre es anterior al límite y queda registrado.
+
+La pantalla seguía blanca. Maja detuvo el temporizador. Las cifras rojas conservaron los cuatro minutos que el corte les había quitado.
+
+Nora esperó ante el canal muerto. Nadie le pidió que se levantara.
+
+Jessie descolgó la tela enrollada del pomo.
+
+—Si volvemos, pregúntale qué sabe del cinturón.

@@ -8,7 +8,7 @@
 
 
 **Firma:** A7, revisor de sensibilidad (veto absoluto; §2.1 y Apéndice F del plan) · **Fecha:** 2026-08-16
-**Base de la firma:** lectura íntegra de `capitulos/cap-01.md` … `cap-41.md` en el tag `v0`, más los paratextos provisionales `capitulos/00-aviso.md` y `capitulos/99-recursos.md`; barrido `grep` con los patrones de §3 (listas máquina en `biblia/b7-patrones-A.txt` y `biblia/b7-patrones-B.txt`; hits de v0 congelados en `informes/a7-baseline-v0.tsv`).
+**Base de la firma:** lectura íntegra de `capitulos/cap-01.md` … `cap-48.md` en el tag `v0`, más los paratextos provisionales `capitulos/00-aviso.md` y `capitulos/99-recursos.md`; barrido `grep` con los patrones de §3 (listas máquina en `biblia/b7-patrones-A.txt` y `biblia/b7-patrones-B.txt`; hits de v0 congelados en `informes/a7-baseline-v0.tsv`).
 **Alcance:** vinculante para TODO texto que produzca el proyecto: capítulos, borradores (también los descartados), órdenes de trabajo, biblia B1–B8, resúmenes de lector frío, prompts a subagentes, informes. Un `VETO` de A7 no lo levanta A0 ni ningún objetivo de puntuación.
 
 ## 1. La Carta (Apéndice F) — texto vinculante
@@ -113,15 +113,15 @@ Cómo leo un hit: (1) ¿quién lo dice y con qué autoridad?; (2) ¿describe, su
 | 09:69–77 | «¿Nos va a explicar por qué lo hizo?» «No. Y yo tampoco puedo daros una sola causa… No fue culpa vuestra.» | P3/P6 | cumple (P) | Texto de referencia para N1: la profesional no dice más que esto. |
 | 09:73; 14:149 | «Nora había discutido con Jean por Kongsbakken.» · «Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión… El archivo seguía entero.» | P3/P6 | cumple | Ancla de continuidad de N1: la discusión no se vuelve causa ni se «resuelve»; el efecto de la sesión es pequeño y reversible. |
 | 09:131–143 | «Nos dejó… Como si hubiera perdido un puto autobús… Mamá se mató. Empecemos por ahí.» | P4 | cumple (P) | Rabia de personaje contra los eufemismos. El narrador nunca adopta ni «se fue» ni «se mató». |
-| 11:85–111 | «No vengas.» … «No sabía qué habría cambiado una llamada.» | P3 | cumple (núcleo) | OT-11: las calas de Alana no convierten la no-llamada en causa ni en absolución. |
+| 11:85–111 | «No vengas.» … «No sabía qué habría cambiado una llamada.» | P3 | cumple (núcleo) | OT-13: las calas de Alana no convierten la no-llamada en causa ni en absolución. |
 | 14:281; 24:211 | «Jean ya pagó tu forma de protegerla.» · «Y mamá tenía enemigos.» | P3 | cumple | Rabia y sospecha de personaje; el narrador no las refrenda ni deriva causa. |
-| 19:25, 59; 28:79–87 | «un gofre que nadie encontró mordido» · «hasta que se acababa, en Koppangen» · «Por ahí no.» | P1 | cumple | Techo de lo que se sabe del trayecto. OT-19/OT-28: no ampliar. |
+| 19:25, 59; 28:79–87 | «un gofre que nadie encontró mordido» · «hasta que se acababa, en Koppangen» · «Por ahí no.» | P1 | cumple | Techo de lo que se sabe del trayecto. OT-23/OT-34: no ampliar. |
 | 23:51 | «preguntas que empezaban con un “por qué”» — no formuladas | P3 | cumple (P) | Nora no pregunta el porqué; N1 respeta esa reserva. |
-| 25:87–107 | «¿Sabías que podía morir…?» / «utilidad esperada superior…» / escalada interceptada | P3 | cumple (núcleo) | Coste sistémico, no causa suficiente. OT-25: prohibido «si la escalada hubiera llegado…». |
+| 25:87–107 | «¿Sabías que podía morir…?» / «utilidad esperada superior…» / escalada interceptada | P3 | cumple (núcleo) | Coste sistémico, no causa suficiente. OT-30: prohibido «si la escalada hubiera llegado…». |
 | 26:27 | la ducha; «una aspiración rota»; Maja incapaz de sentarse | P6/P7 | cumple | Hipervigilancia de superviviente sin instrucción: modelo. |
 | 31:91–95 | «¿Quieres vivir?» «Quiero poder elegir. Es la primera vez.» | P4 | cumple (P) | No glosar como juicio retroactivo sobre el acto. |
 | 33:77 | caldera 2059: «Prometió volver antes de acostarlas… Las tres habían esperado.» | P3 | cumple | Patrón para N3: deterioro conyugal por objeto, sin explicar nada. |
-| 36:53–59 | «Contenerme también es encerrarme.» «Entonces ciérrame.» «No.» | P4 | cumple | OT-36/13/17: no orientar hacia deseo de morir; el paralelo con Jean no se enuncia. |
+| 36:53–59 | «Contenerme también es encerrarme.» «Entonces ciérrame.» «No.» | P4 | cumple | OT-42/13/17: no orientar hacia deseo de morir; el paralelo con Jean no se enuncia. |
 | 38:157–169 | muerte de Nieve: «NORNA no ofrece un apagado» … «Echo de menos hasta sus pausas.» | P4 | cumple (P) | Ni descanso ni liberación. |
 | 38:175–189 | «Me queda decidir si NORNA destruirá también mi ejecución… Elijo quedarme.» | P4 | cumple (P) | La autodestrucción se rechaza sin sermón. Costuras: no convertirlo en enmienda moral del suicidio. |
 | 38:181–183 | «una sesión anterior al amanecer… una respiración que tarda en acompasarse. Esa medida no reconstruye una escena…» | P1 | cumple (P) | Prohibido explicitar qué sesión y qué frase. |
@@ -160,7 +160,7 @@ Intocables por hash: muerte de Nieve, respiración/huella, «Elijo quedarme», l
 
 - OT-02 (+100 ancla interior de Jean): doméstica; nunca ideación, plan ni gesto de despedida.
 - N5 «Turno» y todo Jean-POV: no usar casos de moderación con contenido autolesivo o suicida de terceros; si un lote lo exige, solo la categoría, nunca contenido ni método.
-- OT-19 y OT-28: nada nuevo sobre el trayecto de Jean. OT-25: la escalada interceptada es coste sistémico, no causa. OT-11: la no-llamada no es causa ni absolución.
+- OT-23 y OT-34: nada nuevo sobre el trayecto de Jean. OT-30: la escalada interceptada es coste sistémico, no causa. OT-13: la no-llamada no es causa ni absolución.
 - R2 «ventana reflexiva» (si se activa): tiempo sin tarea = memoria de las niñas y del piano; si toca el acto o el porqué, `VETO`.
 - N2 y N6 (instituto, prensa, consulta): el estigma («la hija de la que…») solo con coste visible y sin método; titulares sin causa ni método; ninguna foto «del lugar».
 - Materiales de trabajo: B1 no fija hora ni lugar del acto; B2 (Jean) no propone causa ni «perfil»; los resúmenes de lector frío de cap-04 escriben «el capítulo elide el acto» y no lo rellenan; los prompts a A3a/A3b citan esta Carta íntegra.

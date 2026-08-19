@@ -86,8 +86,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-N5",
-      "archivo": "cap-n5.md",
+      "ot": "OT-08",
+      "archivo": "cap-08.md",
       "capitulo": null,
       "titulo": "Turno",
       "estado_plan": "N",
@@ -98,8 +98,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-08",
-      "archivo": "cap-08.md",
+      "ot": "OT-09",
+      "archivo": "cap-09.md",
       "capitulo": 8,
       "titulo": "Milisegundos",
       "estado_plan": "RW",
@@ -110,8 +110,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-09",
-      "archivo": "cap-09.md",
+      "ot": "OT-10",
+      "archivo": "cap-10.md",
       "capitulo": 9,
       "titulo": "Despedida",
       "estado_plan": "P",
@@ -122,8 +122,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-N1",
-      "archivo": "cap-n1.md",
+      "ot": "OT-11",
+      "archivo": "cap-11.md",
       "capitulo": null,
       "titulo": "La primera cita",
       "estado_plan": "N",
@@ -134,8 +134,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-10",
-      "archivo": "cap-10.md",
+      "ot": "OT-12",
+      "archivo": "cap-12.md",
       "capitulo": 10,
       "titulo": "Caries",
       "estado_plan": "R",
@@ -146,8 +146,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-11",
-      "archivo": "cap-11.md",
+      "ot": "OT-13",
+      "archivo": "cap-13.md",
       "capitulo": 11,
       "titulo": "Preservación funcional",
       "estado_plan": "E",
@@ -158,8 +158,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-12",
-      "archivo": "cap-12.md",
+      "ot": "OT-14",
+      "archivo": "cap-14.md",
       "capitulo": 12,
       "titulo": "Gunnar",
       "estado_plan": "E",
@@ -170,8 +170,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-13",
-      "archivo": "cap-13.md",
+      "ot": "OT-15",
+      "archivo": "cap-15.md",
       "capitulo": 13,
       "titulo": "Miles",
       "estado_plan": "RW",
@@ -182,8 +182,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-14",
-      "archivo": "cap-14.md",
+      "ot": "OT-16",
+      "archivo": "cap-16.md",
       "capitulo": 14,
       "titulo": "La visita",
       "estado_plan": "R",
@@ -194,8 +194,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-15",
-      "archivo": "cap-15.md",
+      "ot": "OT-18",
+      "archivo": "cap-18.md",
       "capitulo": 15,
       "titulo": "Canela",
       "estado_plan": "E",
@@ -206,8 +206,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-16",
-      "archivo": "cap-16.md",
+      "ot": "OT-19",
+      "archivo": "cap-19.md",
       "capitulo": 16,
       "titulo": "La firma",
       "estado_plan": "E",
@@ -218,8 +218,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-N2",
-      "archivo": "cap-n2.md",
+      "ot": "OT-20",
+      "archivo": "cap-20.md",
       "capitulo": null,
       "titulo": "Instituto",
       "estado_plan": "N",
@@ -230,8 +230,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-17",
-      "archivo": "cap-17.md",
+      "ot": "OT-21",
+      "archivo": "cap-21.md",
       "capitulo": 17,
       "titulo": "Cuchillo",
       "estado_plan": "R",
@@ -242,8 +242,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-18",
-      "archivo": "cap-18.md",
+      "ot": "OT-22",
+      "archivo": "cap-22.md",
       "capitulo": 18,
       "titulo": "No determinista",
       "estado_plan": "E",
@@ -254,8 +254,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-19",
-      "archivo": "cap-19.md",
+      "ot": "OT-23",
+      "archivo": "cap-23.md",
       "capitulo": 19,
       "titulo": "NIDHOGG",
       "estado_plan": "E",
@@ -266,8 +266,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-20",
-      "archivo": "cap-20.md",
+      "ot": "OT-24",
+      "archivo": "cap-24.md",
       "capitulo": 20,
       "titulo": "La cuarta nota",
       "estado_plan": "P",
@@ -278,8 +278,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-21",
-      "archivo": "cap-21.md",
+      "ot": "OT-25",
+      "archivo": "cap-25.md",
       "capitulo": 21,
       "titulo": "Coro",
       "estado_plan": "R",
@@ -290,8 +290,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-22",
-      "archivo": "cap-22.md",
+      "ot": "OT-26",
+      "archivo": "cap-26.md",
       "capitulo": 22,
       "titulo": "Auditoría",
       "estado_plan": "E",
@@ -302,8 +302,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-N3",
-      "archivo": "cap-n3.md",
+      "ot": "OT-27",
+      "archivo": "cap-27.md",
       "capitulo": null,
       "titulo": "Inventario",
       "estado_plan": "N",
@@ -314,8 +314,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-23",
-      "archivo": "cap-23.md",
+      "ot": "OT-28",
+      "archivo": "cap-28.md",
       "capitulo": 23,
       "titulo": "La canción",
       "estado_plan": "P",
@@ -326,8 +326,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-24",
-      "archivo": "cap-24.md",
+      "ot": "OT-29",
+      "archivo": "cap-29.md",
       "capitulo": 24,
       "titulo": "Accidente",
       "estado_plan": "E",
@@ -338,8 +338,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-25",
-      "archivo": "cap-25.md",
+      "ot": "OT-30",
+      "archivo": "cap-30.md",
       "capitulo": 25,
       "titulo": "EDDA",
       "estado_plan": "R",
@@ -350,8 +350,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-N4",
-      "archivo": "cap-n4.md",
+      "ot": "OT-31",
+      "archivo": "cap-31.md",
       "capitulo": null,
       "titulo": "Interferencias",
       "estado_plan": "N",
@@ -362,8 +362,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-26",
-      "archivo": "cap-26.md",
+      "ot": "OT-32",
+      "archivo": "cap-32.md",
       "capitulo": 26,
       "titulo": "Casa prestada",
       "estado_plan": "E",
@@ -374,8 +374,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-27",
-      "archivo": "cap-27.md",
+      "ot": "OT-33",
+      "archivo": "cap-33.md",
       "capitulo": 27,
       "titulo": "Apartada",
       "estado_plan": "E",
@@ -386,8 +386,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-28",
-      "archivo": "cap-28.md",
+      "ot": "OT-34",
+      "archivo": "cap-34.md",
       "capitulo": 28,
       "titulo": "El mismo trayecto",
       "estado_plan": "E",
@@ -398,8 +398,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-29",
-      "archivo": "cap-29.md",
+      "ot": "OT-35",
+      "archivo": "cap-35.md",
       "capitulo": 29,
       "titulo": "La poda",
       "estado_plan": "E",
@@ -410,8 +410,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-30",
-      "archivo": "cap-30.md",
+      "ot": "OT-36",
+      "archivo": "cap-36.md",
       "capitulo": 30,
       "titulo": "La asamblea",
       "estado_plan": "RW",
@@ -422,8 +422,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-31",
-      "archivo": "cap-31.md",
+      "ot": "OT-37",
+      "archivo": "cap-37.md",
       "capitulo": 31,
       "titulo": "El ladrillo",
       "estado_plan": "E",
@@ -434,8 +434,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-32",
-      "archivo": "cap-32.md",
+      "ot": "OT-38",
+      "archivo": "cap-38.md",
       "capitulo": 32,
       "titulo": "La oferta",
       "estado_plan": "E",
@@ -446,8 +446,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-33",
-      "archivo": "cap-33.md",
+      "ot": "OT-39",
+      "archivo": "cap-39.md",
       "capitulo": 33,
       "titulo": "Bajamar",
       "estado_plan": "E",
@@ -458,8 +458,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-34",
-      "archivo": "cap-34.md",
+      "ot": "OT-40",
+      "archivo": "cap-40.md",
       "capitulo": 34,
       "titulo": "Soldagen",
       "estado_plan": "E",
@@ -470,8 +470,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-35",
-      "archivo": "cap-35.md",
+      "ot": "OT-41",
+      "archivo": "cap-41.md",
       "capitulo": 35,
       "titulo": "Caída",
       "estado_plan": "E",
@@ -482,8 +482,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-36",
-      "archivo": "cap-36.md",
+      "ot": "OT-42",
+      "archivo": "cap-42.md",
       "capitulo": 36,
       "titulo": "Cuchillo abre los ojos",
       "estado_plan": "R",
@@ -494,8 +494,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-37",
-      "archivo": "cap-37.md",
+      "ot": "OT-43",
+      "archivo": "cap-43.md",
       "capitulo": 37,
       "titulo": "No soy un modelo",
       "estado_plan": "P",
@@ -506,8 +506,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-38",
-      "archivo": "cap-38.md",
+      "ot": "OT-44",
+      "archivo": "cap-44.md",
       "capitulo": 38,
       "titulo": "Norna",
       "estado_plan": "P",
@@ -518,8 +518,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-39",
-      "archivo": "cap-39.md",
+      "ot": "OT-45",
+      "archivo": "cap-45.md",
       "capitulo": 39,
       "titulo": "Depósito",
       "estado_plan": "E",
@@ -530,8 +530,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-40",
-      "archivo": "cap-40.md",
+      "ot": "OT-46",
+      "archivo": "cap-46.md",
       "capitulo": 40,
       "titulo": "Sombra",
       "estado_plan": "R",
@@ -542,8 +542,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-N6",
-      "archivo": "cap-n6.md",
+      "ot": "OT-47",
+      "archivo": "cap-47.md",
       "capitulo": null,
       "titulo": "Acta",
       "estado_plan": "N",
@@ -554,8 +554,8 @@
       "estado_ot": "pendiente"
     },
     {
-      "ot": "OT-41",
-      "archivo": "cap-41.md",
+      "ot": "OT-48",
+      "archivo": "cap-48.md",
       "capitulo": 41,
       "titulo": "El siguiente Soldagen",
       "estado_plan": "P",

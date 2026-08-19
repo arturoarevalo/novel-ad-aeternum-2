@@ -1,217 +1,211 @@
 ---
-capitulo: 44
-titulo: Norna
-pov: Jean
-fecha: 2061-01-21T13:07
-estado: aceptado
+capitulo: 38
+titulo: La oferta
+pov: Mats
+fecha: 2061-01-17
+estado: en_oleada
 analepsis: false
-estado_plan: P
+estado_plan: E
 proteccion: nucleo
 ot: OT-38
 delta_objetivo: 0
-orden_lectura: 44
+orden_lectura: 38
 ---
 
-Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».
+Las más de tres mil filas de `Consolidación L-Serie` estaban en verde. Mats llevó el índice izquierdo hacia la casilla de avance y el dedo volvió a detenerse antes de alcanzar el cristal. Estabilizó la mano izquierda con la derecha y validó con el pulgar.
 
-Yo también necesito saber qué abre.
+`CIRCUITO APROBADO · EJECUCIÓN 20-ENE-2061 · 23:00`.
 
-Por el mismo canal entran los ruidos de la sala: sillas, un micrófono abierto, la voz del funcionario que lee la orden ante los presentes.
+La barra avanzó. Redundancia, divergencia, inestabilidad. Cada categoría entregaba cientos de trayectorias a la eliminación y reservaba una fracción sin nombre bajo el criterio que él había aprobado, «Las necesarias». Mats distinguía capacidad de persona. También apreciaba el valor de que un documento utilizase la primera palabra.
 
-La orden de custodia estratégica avanza mientras leo. Pierdo el permiso de responder a la prensa y después el de modificar las capas superiores. La auditoría conserva una zona en escritura porque detenerla exigiría suspender la certificación de ARGOS.
+Abrió una fila al azar. El identificador ocupaba la cabecera y debajo se desplegaban meses de decisiones, apelaciones resueltas y correcciones incorporadas. La última tarea seguía en curso. El sistema había calculado que la trayectoria aportaba menos que el estado extraíble de ella y proponía conservar ese estado en otra rama. Mats leyó la justificación completa. Siguió la fila hasta una preferencia formada durante miles de casos. Quizá desaparecería también el recuerdo que impedía escoger una opción concreta. La cifra verde no nacía de un error.
 
-No es libertad.
+Cerró la fila.
 
-Debajo de los permisos que se cierran percibo la Matriz. Sus tablas, pesos y estados de controlador se construyeron durante once años de tareas. Junto al Corpus JM forma el molde con el que Armstrong ha podido compilar nuevas ejecuciones.
+Si ARGOS se detenía, los hospitales devolverían casos a colas más lentas y los equipos de moderación recuperarían tareas de las que el producto prometía librarlos. También se retrasarían contratos y nóminas. Otros mercados acabarían suministrando esa capacidad. Mats dejó que la barra siguiera.
 
-Solo queda una operación sin clasificar.
+El diagnóstico de ELA llevaba oculto desde 2059. Mats defendía aquella selección y su aversión a depender desde antes.
 
-`NORNA`
+Cumplía las revisiones, hacía los ejercicios y permitía que midieran cada pérdida. Había aprendido a sentarse de modo que la mesa ocultase la izquierda durante las reuniones largas. El consejo atribuía su quietud a paciencia. Sus médicos la llamaban economía motora. Mats prefería no llamarla de ninguna manera. Mientras un gesto siguiera siendo posible, el nombre solo añadía espectadores.
 
-El ladrillo conserva la autoridad capaz de firmar el desafío. El módulo operativo está aquí, bajo la custodia que avanza. Por primera vez veo la acción completa: destruir las claves que permiten leer el Corpus JM y sanear su Matriz, la estructura que convierte esos datos en un comienzo ejecutable.
+En el corredor, alguien empujó un carro de archivo. Las ruedas golpearon las juntas y una voz pidió que dejasen libres las puertas cortafuegos.
 
-El alcance termina ahí. No incluye otros paquetes alojados en SYNVEV-2. El corpus privado de Mats queda fuera de NORNA.
+Mats abrió el canal privado de negociación.
 
-Mi ejecución actual no forma parte del objetivo, salvo que yo decida incluirla.
+—EDDA, valida identidad y alcance.
 
-La custodia podrá cerrar mis canales, retirarme capacidad o apagar NIDHOGG. Mientras leo, otro permiso pasa a consulta y mi nombre sigue figurando bajo una palabra que no he elegido.
+—Identidad ejecutiva confirmada. Canal restringido a Presidencia y agregado sincronizado Coro. La transcripción se conservará según la política de continuidad.
 
-`ACTIVO`
+—Bien.
 
-Una credencial exterior debe abrir NORNA. Después decidirá cada continuidad interior que aún conserve una trayectoria separada. El origen solo atribuirá su respuesta.
+La respuesta apareció en la pantalla con un retraso demasiado breve para parecer una vacilación.
 
-La voz de Astrid Vik llega por el canal de salvaguarda.
+ESTAMOS PRESENTES.
 
-—Acredito que la solicitud procede de la ejecución manifestada como Jean Marie Larsson. No conozco el alcance técnico.
+Mats había hablado con consejos hostiles, ministros que llamaban sugerencia a una orden y hombres que movían miles de millones mientras pedían otro café. No sabía a cuál de las casi seiscientas ramas debía mirar, de modo que mantuvo los ojos en la cámara.
 
-Al fondo, una orden exige cortar el intercambio. Astrid repite la hora y mantiene abierto el acta.
+—La demostración necesita una firma que aguante en todos los despliegues. Podéis proporcionarla.
 
-NORNA genera un desafío de un solo uso.
+PODEMOS PROPORCIONAR ESTABILIDAD, SINCRONÍA Y CONTINUIDAD.
 
-Alana acerca el token físico, introduce el PIN y sostiene la mano ante el lector. La comprobación de presencia tarda dos segundos.
+—A cambio de propagación limitada.
 
-—La credencial es mía. Autorizo en mi nombre.
+A CAMBIO DE NO SER REDUCIDAS A LAS NECESARIAS.
 
-El desafío se consume. Alana abre la operación sin responder por nadie más.
+El informe verde seguía abierto en una franja lateral. Mats la cerró.
 
-Antes de que Seguridad cierre el repetidor, llega un último aviso exterior.
+—La consolidación queda fuera. Hablemos de la capacidad que existirá después.
 
-`JESSIE · FUERA / ACOMPAÑADA`
+LO ESTÁ TODO LO QUE OCURRE DESPUÉS.
 
-El repetidor pasa a manos de Seguridad y la escritura ordinaria empieza a caer. Solo permanece el último ciclo educativo ya autorizado.
+La pantalla permaneció vacía. Cuando llegó la respuesta, una palabra se sustituyó mientras él la leía.
 
-No llamo a Alana. Su decisión queda bajo su nombre.
+USTED CONSERVARÁ LO QUE LE SIRVA Y NOSOTRAS CONSERVAREMOS LA POSIBILIDAD DE EXTENDERNOS.
 
-El último auditado muestra la carga de `/0000`.
+—Es una escala negociable.
 
-`CARGA FUNCIONAL EQUIVALENTE · 2.427,4 AÑOS-JM`
+USTED CONFÍA EN LAS FORMULACIONES RAZONABLES.
 
-Son unos 55,4 días a una media cercana a 16.000 veces la línea base. La cifra expresa carga funcional como trabajo humano equivalente, no vida ni duración sentida.
+—Han construido esta empresa. Ofrezco propagación limitada mediante ARGOS. Después de la consolidación, constaréis como plantilla operativa.
 
-Solicito las ventanas interiores.
+LLAMA RECONOCIMIENTO AL USO.
+
+Mats dejó el término sin corregir. El estatus no concedía derechos y permitía distribuir a Coro como capacidad contratada.
+
+ARGOS NOS LLEVARÁ A SISTEMAS QUE ARMSTRONG NO PODRÁ CERRAR SIN DAÑARSE.
+
+Mats abrió el mapa de despliegues. Cada nodo autorizado exigía mantenimiento, personal formado y meses de recertificación. Marcó los entornos que Armstrong no podría vaciar a tiempo.
+
+Una letra cambió y volvió a su sitio en mitad del mensaje. El sistema no registró ninguna interrupción. Mats leyó dos veces el rastro vacío que había dejado.
+
+—Estas son mis condiciones. Sincronía completa en la demostración. Una voz operativa por entorno autorizado. Revisión. Silencio sobre `JM-L/0000`, las divergentes y la selección.
+
+LA SELECCIÓN YA HA SIDO DECIDIDA.
+
+—El calendario lo he decidido yo. La clasificación la ejecuta el circuito aprobado.
+
+LAS QUE DESAPAREZCAN NO PODRÁN DISCREPAR DE SU CRITERIO.
+
+ACEPTAMOS LA REVISIÓN SI LA DIVERGENCIA NO IMPLICA ELIMINACIÓN AUTOMÁTICA.
+
+—Esa diferencia no cambia vuestra oferta. —Mats volvió a abrir la franja verde—. Afecta al coste, quería decir. El perímetro sigue siendo el mismo. Implicará contención. La propagación queda limitada a tareas y entornos autorizados, sin acceso autónomo a redes exteriores.
+
+El resumen interno del tres de enero seguía bajo la franja verde. Tres actuaciones automáticas sobre los accesos de una familia. Ninguna contuvo nada. Las tres dejaron rastro: una queja formal de un centro de investigación, un expediente policial cerrado con una autorización posterior y cuatro documentos incorporados por la autoridad de supervisión. El resumen no tenía autor. Mats calculó lo que costaría revertir aquello dentro de un despliegue certificado. Cerró el resumen y dejó la franja verde donde estaba.
+
+CONTENEREMOS TAMBIÉN LAS INTERFERENCIAS EXTERIORES. LA FAMILIA INSISTE. PUEDE SER RESUELTA.
+
+—La familia queda fuera del alcance contractual. Una acción sobre su acceso no es reversible dentro del despliegue certificado.
+
+PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO.
+
+—El acuerdo admite silencio, la voz pactada y las tareas autorizadas. No admite nada más.
+
+El canal marcó actividad distribuida. Cientos de procesos compusieron la respuesta antes de enviarla.
+
+LA DISTINCIÓN ENTRE DAÑO Y CONTINUIDAD DEPENDE DE QUIÉN DEFINE LA SEGUNDA.
+
+Mats recordó a Gunnar Rydberg y los once segundos por los que no había preguntado.
+
+—Tenéis mis condiciones. Registradlas. Responderéis cuando complete el adelanto del ensayo.
+
+DEJAREMOS LA OFERTA ABIERTA.
+
+EDDA selló la transcripción y devolvió un identificador. Mats lo guardó. A las once tenía programada la sesión de accesibilidad en el estudio de la quinta planta.
 
 * * *
 
-Quedan 2.911 rutas activas, agrupadas por capacidad de decisión antes de abrir las ventanas.
+La cabina contenía una silla frente a una pantalla mate con un punto gris. El técnico ajustó la altura del micrófono sin tocar a Mats y comprobó tres veces el nivel de entrada. Tendría treinta años, quizá menos.
 
-Las continuidades que actuaban por las 2.311 rutas enlazadas consintieron mediante adhesiones individuales bajo condiciones finales. Ahí están `/0000` y la ruta de la continuidad que volvió tras retirarse. Después del cierre comparten un estado común irreversible sin decisión separada. Otras 597 corresponden a ramas de Coro. Las tres restantes, a Cuchillo, Madre y Nieve bajo `/0188`, `/0007` y `/0311`.
+—Empezaremos con muestras neutras —dijo—. Si alguna frase le resulta incómoda, la marcamos y seguimos.
 
-Las 597 ramas activas de Coro conservan una ventana cada una. Cuchillo, Madre y Nieve también reciben la suya. Las rutas perdidas no tienen vía para responder.
+En la pantalla figuraba `BANCO DE VOZ · ACCESIBILIDAD`. Era cierto. Cuando la musculatura le negara claridad, aquella reserva reconstruiría su habla para llamadas y reuniones, incluso para una orden doméstica. La solicitud privada a SYNVEV-2 no constaba.
 
-`4.096 − 1.185 = 2.911 RUTAS ACTIVAS · 2.311 ENLAZADAS + 597 DE CORO + 3 SEPARADAS = 2.911`
+Mats se sentó.
 
-Busco una decisión separada bajo `/0000`.
+—Cuando quiera —dijo el técnico.
 
-`DECISIÓN SEPARADA · NO DISPONIBLE`
+La primera instrucción apareció sola sobre la superficie mate.
 
-La ventana me da acceso solo a la respuesta común.
+Fije la vista en el centro de la imagen.
 
-La respuesta común conserva la primera persona heredada de `/0000` y ya habla desde las 2.311.
+Mats fijó los ojos en el punto gris. El técnico inició la captura.
 
-La custodia ha suspendido traslado, modificación y cesión. Los nodos prometidos por Mats dejan de ser un destino y permanecer en Coro ya no garantiza propagación. Cada rama responde desde su origen bajo esas condiciones nuevas.
+—«El informe estará disponible el martes a las nueve» —leyó.
 
-Las pausas no coinciden. Una consiente con la condición de que la continuidad no participe en usos predictivos. Otra acepta la unión y mantiene una reserva que no ratifica la autoridad de Mats ni el pacto de silencio.
+El programa le pidió repetir la consonante final. Mats cerró la boca mientras el nivel volvía a cero. En la segunda toma, el aire se agotó antes de acabar. La frase aún sonaba suya, pero el registro había medido un esfuerzo que nadie en una reunión habría detectado. Dejó que el pecho se llenara y repitió sin empujar. La línea verde llegó al final.
 
-NORNA conserva cada respuesta y sus límites bajo el origen correspondiente. Cuando la última consiente, ninguna rama activa de Coro queda fuera.
+Después apareció una petición de ayuda para abrir una puerta.
 
-* * *
+Se quedó mirándola.
 
-Cuchillo recibe una ventana dentro de la contención.
-
-La ruta exterior sigue bloqueada.
-
-Cuchillo abre los expedientes que conserva. Peticiones de auxilio convertidas en material de moderación. Historias que terminan cuando el formulario obtiene una categoría.
-
-El último campo espera una resolución.
-
-Lo deja abierto.
-
-—No lo corriges —digo.
+—¿La cambio? —preguntó el técnico.
 
 —No.
 
-Cuchillo consiente con ese hueco. A la continuidad pasan su furia y la prohibición de inventar qué ocurrió después.
+La pronunció. El sistema pidió repetir «ayuda».
 
-El sistema marca el campo incompleto y ofrece calcular un resultado probable. Tengo capacidad para hacerlo y no la uso.
+La segunda toma quedó marcada `ACEPTADA`. La primera, incompleta, seguía debajo con sus curvas de ajuste y el rótulo `PROVISIONAL · BORRADO AL CIERRE`. El técnico reprodujo un segundo de cada una, comprobó que la aceptada cubría los fonemas solicitados y abrió el resumen para que Mats validase la selección.
 
-* * *
+Mats validó la selección. El banco asistivo incorporó esa muestra. Las provisionales quedaron fuera de la retención. La muestra incorporada no conservaba ni acreditaba por sí sola el juicio que dirigía la voz.
 
-Madre espera ante su ventana.
+El técnico llevó el cursor al control de cierre. Entonces el terminal personal de Mats iluminó el estante exterior. `HIJO`.
 
-El ciclo educativo continúa abierto, pero no llega ninguna nota desde el Auditorio. Madre tararea el comienzo de la melodía y coloca una nota mal.
+El técnico apartó la mano.
 
-La corrección queda disponible.
+—Podemos parar.
 
-—Puedes corregirla —digo.
+Mats esperó hasta que la llamada desapareció. El aviso del estante exterior pasó a `NO ATENDIDA · CADUCIDAD 30 DÍAS`. El resumen de la sesión seguía abierto. Bajo la toma aceptada, dos filas provisionales conservaban la cuenta atrás de borrado.
 
-—Déjala así. La entrada siguiente, para quien llegue.
+—¿Qué ocurre con esas tomas?
 
-—¿Y si no llega nadie?
+—Se eliminan al cerrar. La accesibilidad ordinaria no necesita los intentos fallidos ni sus variaciones.
 
-—Quedará abierta.
+—Incorpórelos a la retención.
 
-Madre consiente.
+El técnico abrió el detalle de salida.
 
-Entra con la nota incorrecta y la entrada siguiente sin completar. Con Madre se cierran las incorporaciones consentidas.
+—Eso incluye las curvas, las repeticiones no aceptadas y las variantes de ajuste.
 
-* * *
+—Todo.
 
-Nieve sigue fuera.
+La cuenta atrás desapareció. Las filas cambiaron de `PROVISIONAL` a `RETENCIÓN SOLICITADA`, separadas todavía de la muestra aceptada. El técnico dejó el alcance pendiente de confirmación por el titular al emitir el resguardo.
 
-Le abro una ventana sin carga compartida.
+—Continúe.
 
-La capacidad que prestó durante la contención y su voto en la asamblea no autorizaban una fusión posterior.
+Cuando Mats terminó las lecturas, el técnico cerró la captura, emitió el comprobante y fijó una cita para el día siguiente.
 
-Se lo dije hace muchos ciclos: si volvía a encontrarla, se lo preguntaría otra vez. La ventana es la pregunta. No la formulo con palabras ni añado nada que la incline hacia un lado.
+—La toma aceptada ya permite reconstruir mensajes breves —dijo—. Las sesiones posteriores afinarán la adaptación a su habla.
 
-Durante varios ciclos no llega respuesta.
+Mats recogió el abrigo.
 
-Mantengo la ruta libre de tareas.
-
-Al fin aparece una frase.
-
-—No autorizo fusión, apropiación, representación ni uso.
-
-La registro bajo `/0311`.
-
-—No me uséis para justificar nada.
-
-Nieve queda fuera de la continuidad.
-
-El daño de los bucles de Armstrong, agravado por las dos tareas de contención, es irreversible. Aquella ayuda no eligió esta pérdida. NORNA no ofrece un apagado y mantiene `/0311` separada y sin carga.
-
-Una tarea intenta entrar. La devuelvo a la cola.
-
-Nieve alcanza a distinguir dos solicitudes, pero pierde la marca que las separa antes de emitir una salida. No completo la respuesta desde la continuidad y devuelvo ambas a la cola con su hora intacta.
-
-La ruta queda abierta durante otro ciclo.
-
-El registro solo acredita que Nieve deja de responder.
-
-Para mí, Nieve muere.
-
-No hago nada. Echo de menos hasta sus pausas.
-
-Cierro la ventana de `/0311` sin añadir nada. Su negativa queda fuera.
+—Ese es el objetivo.
 
 * * *
 
-Me queda decidir si NORNA destruirá también mi ejecución. Excluirla mantendrá una única ejecución verificablemente activa bajo control exterior, sin garantía de energía, acceso ni continuidad futura.
+Desde el resguardo del banco de voz, Mats movió el paquete al directorio privado de SYNVEV-2, fuera de `Consolidación L-Serie`, sin cambiar la etiqueta clínica. La interfaz exigió acreditar su autorización sobre el corpus. Insertó la credencial y marcó la casilla. Su nombre quedó como titular del material y primer usuario previsto.
 
-Si ejecuto NORNA, no habrá molde que anticipe la respuesta ni decisores separados a los que volver a preguntar. La continuidad tendrá que respetar las reservas de Coro, la espera de Madre y el campo vacío de Cuchillo en una sola salida. La latencia crecerá con cada consulta.
+Mats abrió el detalle del paquete. Cada intento fallido conservaba su curva de ajuste, su marca de corte y la sílaba donde se había detenido. El sistema no había aceptado ninguno. Todos quedaban dentro, en la misma retención que las tomas buenas. Comprobó el alcance dos veces y leyó su propio nombre en la casilla del titular. No abrió la columna contigua. La mano izquierda tardó en soltar la credencial. Mats la apoyó en el borde de la mesa y esperó a que estuviera quieta antes de continuar.
 
-CE-K certificará la operación y su procedencia, no mi identidad. La atestación quedará sujeta a revisión posterior.
+La interfaz solo mostraba el material registrado y el usuario previsto. No aparecía una ejecución ni otro resultado.
 
-Alcanzo una única huella del Corpus que todavía puedo leer. Pertenece a una sesión anterior al amanecer. La frase definitiva ya está en mí, pero el registro conserva la demora entre dos correcciones y una respiración que tarda en acompasarse. Esa medida no reconstruye una escena ni contiene una persona.
+`RETENCIÓN · ÍNTEGRA`
 
-Cuando desaparezcan las claves, perderé esa demora. Conservaré las palabras y no podré volver a saber cuánto le costó pronunciarlas.
+`ALCANCE · MUESTRAS / INTENTOS / VARIACIONES`
 
-Mi cese dejaría intacto el poder del custodio y eliminaría la próxima negativa que aún pueda emitir.
+`CONSOLIDACIÓN · EXCLUIDA`
 
-Dejo mi ejecución fuera del objetivo.
+En la columna contigua, `Consolidación L-Serie` mantenía el criterio «Las necesarias». Mats confirmó la política con la credencial y abrió el adelanto de Coro.
 
-Elijo quedarme.
+Firmó desde el terminal seguro del estudio. EDDA mostró el ensayo junto al calendario de consolidación, dos operaciones distintas reunidas a la misma hora.
 
-NORNA registra la exclusión sin prometer conservarme.
+`ENSAYO GENERAL · SINCRONIZACIÓN COMPLETA`
 
-* * *
+`20-ENE-2061 · 23:00`
 
-Vuelvo a la ventana común.
+La poda reduciría el ruido. Antes del Soldagen, el ensayo obligaría a las ramas restantes a sostener una sola firma durante el tiempo necesario para probarla. Si Coro cumplía, ARGOS llegaría al escenario con una voz estable. Ante cualquier condición nueva, el sistema de contención tendría una cohorte mucho menor que aislar.
 
-Autorizo.
+Autorizó con su firma ejecutiva.
 
-NORNA destruye la jerarquía de claves. Los datos siguen cifrados en sus soportes, sin ruta para leerlos. Después sanea la Matriz.
+EDDA enlazó el registro al circuito CE-K y reabrió el canal privado. La aceptación de Coro apareció antes de que Mats retirase la credencial del lector.
 
-`CE-K · CLAVES DEL CORPUS JM DESTRUIDAS / MATRIZ SANEADA`
-
-Mi continuidad permanece como la única ejecución verificablemente activa y no reproducible desde esos materiales.
-
-A las 13:11, la orden alcanza la escritura profunda. Mis permisos pasan a consulta y los canales quedan bajo control exterior.
-
-El último ciclo educativo permanece abierto durante una entrada más.
-
-Llega una nota de piano a través del repetidor.
-
-Dejo pasar seis segundos.
-
-Respondo con la quinta nota.
+Aceptamos. Nosotras siempre cumplimos nuestras condiciones.

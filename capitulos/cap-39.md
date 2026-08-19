@@ -1,221 +1,239 @@
 ---
-capitulo: 45
-titulo: Depósito
-pov: Astrid
-fecha: 2061-01-22
-estado: en_oleada
+capitulo: 39
+titulo: Bajamar
+pov: Maja
+fecha: 2061-01-20T21:10
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-39
 delta_objetivo: 0
-orden_lectura: 45
+orden_lectura: 39
 ---
 
-La escarcha de la fotografía había convertido una tubería de NIDHOGG en una pregunta que nadie quería contestar.
+Maja encontró el repetidor dentro de la manga de Jessie.
 
-Astrid la dejó boca abajo el 22 de enero y unió `R-1189` a las once filas preservadas. Añadió la atestación `CE-K` de NORNA, contrastó las procedencias y firmó la suspensión. ARGOS tendría que recertificarse y las nuevas emisiones quedarían bloqueadas. El consejo de Armstrong había obtenido antes de la tarde un *standstill* de setenta y dos horas de los acreedores principales. El contrato aún vencía el 23.
+La chica estaba sentada en el suelo de la cocina, con la parka abierta y un rollo de cinta de vulcanizar entre las rodillas. Había cosido una presilla al forro, cortado una salida junto al puño y protegido el conector con grasa marina. El cable llegaba desde el bolsillo interior hasta la mano sin quedar suelto. Al lado de su bota esperaba la llave de Gunnar dentro de una bolsa estanca.
 
-Al día siguiente, Kronfjord congeló las líneas y entregó el contrato.
+Jessie tenía grasa en las yemas y una tira de cinta pegada al dorso de la mano. Estiraba cada vuelta hasta el doble y la asentaba sobre la anterior. El rollo le había dejado una marca en las rodillas. Llevaba las uñas cortadas al ras.
 
-El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning`. El tribunal exigió precisión al día siguiente. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
+—Quítatelo.
 
-Astrid volvió la fotografía.
+Jessie siguió apretando la cinta con el pulgar.
 
-El 27 de enero, la jueza la colocó en el centro de la mesa. La tubería escarchada cruzaba por encima de una puerta de acero.
+—Funciona.
 
-El papel fue pasando de mano en mano. La defensa de Armstrong habló de continuidad operativa. El Estado, de protección del activo. El acreedor que ofrecía el dinero había añadido seis condiciones a la garantía desde la noche anterior. Cuando la jueza le dio paso, Astrid señaló la tubería, aún sin bomba, sin técnico y sin factura pagada.
+—He dicho que te lo quites.
 
-—Mañana a las ocho falla la bomba —dijo—. ¿Quién paga la prestación futura?
+—Y yo te estoy enseñando que funciona.
 
-La abogada de Armstrong señaló el compromiso de financiación. Seguía sujeto a la apertura y al control de caja.
+Maja se agachó y tiró del extremo libre. Jessie lo recogió antes de que pudiera alcanzarlo.
 
-La mesa era larga y sobraban sillas. Enfrente de la abogada se sentaba el representante estatal, con la carpeta abierta por la última página. La del acreedor ocupaba la esquina, junto al enchufe. El proveedor había llegado tarde y siguió de pie hasta que la jueza le señaló un sitio. Astrid puso su carpeta en el suelo, contra la pata de la mesa.
+—¿Hasta dónde pensabas llevarlo?
 
-—¿Quién ordena la reparación?
+—Hasta donde haga falta.
 
-La dirección podía solicitarla. Para comprometer fondos o tocar un activo relevante necesitaría supervisión.
+—Nombre del sitio.
 
-—¿Quién abre el precinto?
+Jessie miró hacia la puerta de la cocina. Desde el naust, más allá del patio, llegaron un golpe de martillo, el arrastre de una caja y la voz de Aslak contando algo que Alana no entendía. Arriba, dentro de la casa, una tubería dio dos golpes secos.
 
-El representante estatal pidió la palabra. La vigilancia era suya. La facultad de autorizar el acceso, del tribunal.
+—Dentro —dijo Jessie.
 
-—¿Y quién cambia la bomba?
+La respuesta explicó la toalla extendida junto al radiador, los guantes finos secándose del revés y la linterna que faltaba de la caja de cubierta. Jessie había distribuido cada cosa entre la casa y el naust para que ninguna pareciese un equipo completo. Hasta había retirado del botiquín dos calentadores químicos.
 
-El técnico figuraba en un contrato cuyo pago nadie garantizaba aún. La jueza esperó. Los cuatro tramos de una reparación estaban repartidos entre cinco manos.
+Maja le quitó el rollo de cinta.
 
-El papel había vuelto al centro con una esquina doblada. Nadie lo empujó hacia nadie.
+—Tú no entras.
 
-—Cada uno de ustedes puede impedir algo —dijo—. Sigo buscando quién puede hacerlo.
+—La aplicación está ligada a mí.
 
-La abogada del acreedor ofreció anticipar el coste si la salida quedaba protegida y el tribunal aprobaba el uso. El representante estatal aceptaba franquear una urgencia, pero rechazaba autorizar una modificación en nombre de Armstrong. Desde el otro extremo de la mesa, el proveedor exigió garantía antes de reservar el turno de madrugada.
+—Tú no entras.
 
-La jueza volvió a mirar la fotografía.
+—La llave la tengo yo.
 
-—La bomba no esperará a que se pongan de acuerdo.
+—Y seguirá contigo.
 
-Llamó a Maja.
+Jessie se puso en pie. El conector quedó colgando de su manga, brillante de grasa.
 
-—¿Qué pide usted poder hacer?
+—Claro. Me dejáis pulsar desde fuera y luego viene el adulto responsable. Qué limpio queda dicho así.
 
-—Comunicar una avería. Recibir el registro. Solicitar cuidado y visitas.
+—Abre la aplicación. Comprueba que la petición sale con tu credencial, que exige un nombre allí y que una negativa queda registrada. Todo desde fuera.
 
-—¿Ordenar cambios?
+—Eso es «adulto responsable» con más sílabas. Ni siquiera sabéis quién es.
 
-—No.
+—No sabemos quién será.
 
-—¿Abrir canales?
+—Sabéis que Armstrong pondrá a alguien delante de una puerta. Puede ser la persona que vigila las cámaras o la que llama a la policía. Eso no la convierte en ayuda.
 
-—No.
+—Lleva la petición hasta la puerta —dijo Maja—. Tú te quedas fuera. Solo vuelves cuando alguien salga a por la llave.
 
-—La solicitud de divorcio seguía sin resolver.
+—Y si el de Armstrong decide que mamá le importa una mierda, nos volvemos a casa.
 
-—Sí. Ese retraso no me hace dueña de Jean.
+La última palabra perdió fuerza antes de salir.
 
-La jueza se volvió hacia Astrid y tocó la fotografía con la uña.
+—Si nadie sale, abortas tú.
 
-—¿Qué conserva el sello si esto se detiene?
+—Eso he dicho.
 
-—Acredita la procedencia y los cambios. No mantiene la corriente ni resuelve quién habla.
+La tubería golpeó otra vez. Maja giró la cabeza hacia el cuarto de la caldera y durante un instante vio a Jean arrodillada ante la carcasa abierta, muchos inviernos atrás. Las gemelas, envueltas en mantas, se empeñaban en alcanzarle tornillos que no necesitaba. Jean se había quedado hasta que los radiadores calentaron. En 2059, el mismo ruido recibió un aviso remoto con un número de parte. Prometió volver antes de acostarlas. Maja cerró la puerta de la cocina pasada la medianoche. Las tres habían esperado.
 
-La jueza prohibió provisionalmente transferir o alterar NIDHOGG y ordenó una inspección. Persona, consciencia y propiedad seguirían sin resolver.
+Se llevó el rollo de cinta al cuarto de la caldera. La presión estaba bien. Apoyó dos dedos en el tubo de retorno, abrió un cuarto de vuelta la válvula que se atascaba y la cerró de nuevo.
 
-A continuación se abrió la pieza relativa a los hechos del Soldagen. Jessie se sentó junto a su letrada. Maja ocupó la silla de detrás.
+—No vas a entrar —repitió desde la puerta.
 
-Jessie llevaba el abrigo puesto y no lo colgó en el respaldo. Puso las dos manos sobre la mesa y las mantuvo ahí. Maja dejó el bolso en el suelo, entre los pies, y no lo tocó más.
+Jessie había empezado a arrancar la cinta de la manga a tirones cortos.
 
-—¿Quién cruzó la puerta? —preguntó la jueza.
+—Perfecto. Me quitáis lo único que no puede hacer otro y lo llamáis protegerme.
 
-—Tomas. Yo inicié desde fuera y se lo entregué.
+—No te he quitado la activación.
 
-La aceptación nominal y la entrada quedaron bajo el nombre de Tomas. En una constancia aparte, Maja y Aslak figuraron como quienes habían extraído a Jessie ante el peligro. Ningún indicio inicial los vinculaba a la decisión del jefe de seguridad de entrar.
+—Todavía.
 
-Su letrada acercó el acuse. Jessie no cogió el bolígrafo.
+Maja dejó el rollo en la encimera.
 
-—Firmo si la carátula pone perímetro, credencial y activación exterior. Nada de entrada ni daños dentro.
+—Ven al naust. Lleva la llave.
 
-La fiscal retiró la referencia a daños interiores y entregó la frase corregida.
+Alana ocupaba una punta de la mesa de trabajo entre el ladrillo, la tableta y una caja de conectores que Aslak había apartado para ella. La estufa de gas calentaba el techo y dejaba los pies fríos. Fuera, el agua lamía los pilotes con intervalos cada vez más largos.
 
-—Yo no entré —dijo Jessie.
+Jessie puso la llave y el repetidor delante de Alana, pero no los soltó.
 
-—Eso consta —respondió Astrid.
+—Díselo tú.
 
-Jessie leyó de nuevo y firmó. Maja no intervino.
+Alana miró primero a Maja y abrió de nuevo el registro.
 
-Tomas esperó de pie mientras la letrada retiraba los folios de la mesa. Llevaba el carné en la mano desde antes de entrar en la sala. Nadie le indicó dónde sentarse.
+—La vinculación pertenece a tu credencial —dijo—. La petición saldrá atribuida a ti. Otra persona no puede iniciarla como si fueras tú.
 
-Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había usado una hoja de Hvelv dentro de la contratación de Kronfjord. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
+—Eso ya lo sé —dijo Jessie—. ¿Puedes dejar la otra parte preparada?
 
-—¿Quién dio la instrucción? —preguntó la jueza.
+—La aceptación es distinta. Tendrá que hacerla allí una persona adulta con cobertura vigente.
 
-Nadie contestó.
+—Eso tampoco responde.
 
-—¿Y quién avisó?
+—No sé quién estará de servicio. Aunque lo supiera, decidir antes por esa persona sería repetir… —Alana retiró las manos de la tableta—. La petición puede quedar lista. La aceptación, no.
 
-—Una denuncia anónima, a las ocho y doce del diecisiete de diciembre —dijo Astrid—. No puedo acreditar su origen.
+Maja señaló el campo vacío.
 
-Astrid abrió el contrato recibido el día 23. La jueza tuvo por acreditados el mecanismo deliberado, la cadena Hvelv–Kronfjord y el beneficio de Armstrong. El auto dejó en blanco al ejecutor y al ordenante individuales.
+—¿Aceptará con su nombre?
 
-Alana compareció con el documento antiguo abierto por la remisión al anexo póstumo.
+—Sí. O lo dejará sin aceptar.
 
-—¿Dónde está el anexo? —preguntó Astrid.
+Jessie empujó la llave medio centímetro hacia ella.
 
-—No consta. Yo autoricé la cohorte sin leerlo.
+—Entonces sigo siendo necesaria.
 
-—¿Por qué?
+—Sí —dijo Maja—. Fuera.
 
-—Porque confié en… —Alana se interrumpió—. No. Retiro eso. Jean era mi amiga.
+—Te encanta esa parte.
 
-Su abogada había marcado el apartado de cooperación. Alana pasó la página sin pedir una rebaja.
+—Me corresponde esa parte.
 
-Mats llevó un resguardo de SYNVEV-2 y un terminal aislado. Ya no hablaba en nombre de la presidencia operativa.
+Aslak dejó en la mesa una hoja plastificada. Había marcado tres horas, dos direcciones de corriente y una franja tachada junto al cambio de marea.
 
-El resguardo identificaba el corpus y la autorización privada aún activa.
+La red ocupaba dos cajones bajos, reparada por paños y enrollada para salir sin vueltas. En el tercero estaban los plomos, una cuchilla de cubierta y la línea de fondo. Aslak había cargado combustible, probado el motor auxiliar y dejado el hielo del pantalán sin barrer junto al costado de babor. Cuando Maja se lo señaló, respondió que quería verlo formarse, no ocultarlo bajo sal.
 
-—¿Autentica el registro de aprobación ejecutiva de la consolidación? —preguntó la jueza.
+—Salimos con la primera lectura buena —dijo—. Hielo en la guía, se aborta. Si el perfil vira al sur antes de la marca, se aborta. Si la línea de fondo pierde tensión, no se busca a ciegas.
 
-—Sí.
+—AK-7 contrasta después —añadió Maja—. Si contradice el transporte, te lo marco.
 
-El corpus seguiría intacto, segregado e inerte bajo custodia, y cualquier uso futuro tendría que empezar con autorización contemporánea y control externo.
+Aslak dobló la hoja y se la guardó.
 
-—Si la mantengo, puedo frenar un uso precipitado mientras se fija un protocolo estable —dijo Mats.
+—La barca vuelve con motor o no sale.
 
-—También puede autorizarlo —dijo la jueza—. La custodia externa seguirá en ambos casos.
+—¿Cuánto hielo aceptas?
 
-Mats leyó las dos opciones otra vez.
+Aslak levantó dos dedos manchados de grasa y señaló la guía de proa.
 
-—La revoco desde hoy.
+—El que pueda romper con esto. Si necesito una herramienta, volvemos.
 
-* * *
+Jessie señaló la red amontonada junto al portón.
 
-El `kjennelse` del 28, eficaz desde la solicitud del día 25, abrió la reestructuración y nombró `rekonstruktør`. Armstrong continuaría como deudora en posesión supervisada. Su desenlace seguía fuera de aquel auto.
+—¿Y si prende?
 
-El 29, el ascensor de carga llevó a la comisión de inspección al nivel menos dos. Astrid y Maja quedaron detrás de la técnica. Bajo las suelas persistía el temblor de las bombas.
+—La red va en mi barca.
 
-Una técnica conectó una sonda precintada y abrió una sola tarea de comprobación. La pantalla dibujó su traza. Mientras seguía abierta, la segunda línea eléctrica tomó carga. Cambió la curva térmica y la bomba corrigió el retorno. El cierre quedó marcado cuando el sistema recuperó su régimen. La línea de salida no recibió marca. Aquella operación necesitó el sustrato y los controladores. También el frío y la persona que la vigilaba.
+—Es nuestra retirada.
 
-El aire seco olía a plástico caliente. En la misma traza constaban el repuesto instalado en diciembre y el turno de quien había validado la corrección.
+Aslak comprobó un grillete, lo cambió por otro y continuó con la caja.
 
-—¿Puede capturar el estado y restaurarlo en otro equipo? —preguntó Astrid.
+Maja esperó.
 
-—Con estas herramientas, capturar el estado de esta ejecución exige pausarla y sincronizarla. Eso ya lo modifica. No dispongo de una restauración validada.
+—¿Qué haces si prende? —preguntó ella.
 
-—¿Y trasladar los armarios? —preguntó Maja.
+—Abandono los plomos.
 
-—Puedo apagarlos. No puedo acreditar qué continuaría al encenderlos. Aquí hacen falta corriente y refrigeración. También repuestos y personal.
+—Has tardado bastante en compartirlo.
 
-Maja señaló la línea de salida de la única traza.
+—No habías preguntado por mi barca.
 
-—¿Qué recibiremos cuando una tarea cierre así? —preguntó Maja.
+Maja apartó de la mesa los conectores que ya estaban revisados.
 
-—Una ausencia registrada.
+—Alana, deja la petición lista.
 
-—¿Qué significará?
+Esperó a que Alana acercase la tableta. Después señaló los bolsillos de Jessie.
 
-—El registro no puede decirlo.
+—Tú conservas la llave y el repetidor hasta la entrega. La activación y el aborto siguen siendo tuyos.
 
-La comisión cerró la inspección junto al ascensor de carga. La técnica guardó la sonda en su funda y esperó al lado del precinto.
+Maja miró por último a Aslak.
 
-Maja tenía en la mano un papel doblado en dos, con una lista de la compra por detrás. Astrid la había visto escribir en el ascensor: tres líneas cortas, con un guion delante de cada una.
+—Yo leo AK-7 y te aviso si contradice el transporte.
 
-Había preguntado dos. Astrid no leyó la tercera.
+Aslak cerró la caja de los grilletes.
 
-—¿Alguna petición más para el acta? —preguntó el funcionario que la levantaba.
+—Con eso decido si salimos. Si la corriente o el hielo cambian, paramos. Si el fondo manda cortar, corto. Yo digo cuándo volvemos.
 
-Maja miró otra vez la línea de salida de la traza. Dobló el papel por el mismo pliegue y se lo guardó en el bolsillo del abrigo.
+Jessie giró la llave dentro de la bolsa.
 
-—No —dijo.
+—Y esa persona puede mandarnos a la mierda.
 
-La técnica tocó el precinto y anotó la hora.
+—Puede negarse —dijo Alana—. También puede conservar la petición y llamar a Seguridad, o… Hay más de una forma de negarse.
 
-Maja no solicitó acceso.
+—Qué alivio.
 
-* * *
+Maja señaló la presilla cosida en la manga.
 
-El 2 de febrero, la resolución constituyó el depósito judicial en la propia instalación. La caja controlada pagaría suministro, frío, repuestos y personal autorizado. Un protocolo cubriría urgencias y registraría cada acceso.
+—Eso se queda aquí.
 
-El reconstructor controlaría la caja. Armstrong podía mantener trabajando al equipo, pero no disponer por sí sola de aquello que mantenía.
+Jessie sacó una navaja pequeña, cortó el hilo y dejó la presilla sobre la mesa. Guardó de nuevo la llave y el repetidor en dos bolsillos distintos.
 
-El tribunal ordenó preparar una ventana supervisada de audio y texto para futuras visitas, siempre bajo autorización posterior. También autorizó un sensor audiovisual bajo el alero del naust, unidireccional y sin señal hasta otra decisión.
+—Los objetos no.
 
-Maja aceptó la tutela-depósito procesal. NIDHOGG quedaba fuera de su custodia. No adquiría propiedad, representación general ni control técnico.
+—Los objetos son tuyos hasta la entrega.
 
-—¿Acepta esos límites cuando perjudiquen una petición de su familia? —preguntó la jueza.
+—Y el aborto.
 
-—Sí.
+—También.
 
-Maja sacó una pluma del bolso.
+Jessie se metió las manos en los bolsillos para comprobar el peso de cada objeto. Esta vez Maja no le pidió que los sacara.
 
-—Firmamos con esta la solicitud de divorcio.
+La madera húmeda crujió bajo sus botas. Jessie no se movió del sitio.
 
-La primera línea salió débil. Probó de nuevo en el resguardo y escribió su nombre. La jueza esperó a que la secretaria cerrara el registro y tomó la palabra.
+El olor de fuera se colaba por el portón. Fango y alga descubierta. El bolsillo derecho de la parka de Jessie colgaba más que el izquierdo.
 
-—No sé qué es. Sé que alguien la quiere. Empecemos por ahí.
+—Se nota la marea —dijo Jessie.
 
-Astrid dejó en blanco la casilla de definición jurídica y firmó la cadena de custodia.
+Aslak abrió el portón. El frío entró por debajo del techo caliente y apagó el olor de la estufa. Había colocado un transductor en el extremo del muelle y otro bajo el costado de la barca. El hielo del pantalán llegaba ya al segundo travesaño. La barca estaba más baja que al llegar. Maja llevó fuera la tableta protegida, conectó la lectura del perfil y esperó a que la marea perdiera fuerza.
 
-Esa tarde, un instalador fijó el sensor bajo el alero del naust. Cubrió la lente y comprobó la pérdida de imagen. La señal siguió cerrada.
+Durante nueve minutos solo cambiaron las cifras pequeñas. La corriente frenó junto al fondo y empezó a girar dentro del intervalo previsto. En la banda acústica, una de las dos firmas graves cayó hasta quedar por debajo del ruido del casco. Cuatro minutos después, AK-7 recibió una lengua de agua menos cálida con la misma conductividad. Maja amplió una vez ambas curvas.
 
-En Sørkoppen, el funcionario judicial cruzó el precinto sobre la puerta de la Cripta y estampó el número de la resolución. La cera endureció sobre el acero.
+—Tren dos. Retrolavado.
 
-Al otro lado siguieron zumbando las bombas.
+Aslak desconectó el transductor exterior.
+
+—Si mañana falta cualquiera de las tres, no se larga la red.
+
+Jessie observaba la línea térmica desde el umbral del naust. Se había sacado las manos de los bolsillos y no las apoyaba en nada. El agua no devolvía la luz de la tableta.
+
+—¿Y si está todo y el adulto no acepta?
+
+—Abortas tú —dijo Maja.
+
+A las 22:59, Alana puso la aplicación vinculada sobre la mesa. El diagnóstico repetía una secuencia de cinco segmentos. Los cuatro primeros cerraban con pulsos iguales. El último retenía un hueco antes del acuse.
+
+A las 23:00 cambió el bombeo. La lectura de dirección viró hacia Sørkoppen. El sonido llegó por el agua, sordo, y el suelo del naust lo devolvió bajo las botas. La tableta perdió la conexión durante dos latidos. Cuando regresó, la secuencia cerró después del cuarto segmento.
+
+Alana intentó abrir el historial anterior. La pantalla le negó la comparación.
+
+Maja miró el agua entre los pilotes. La bajamar había dejado al aire otra franja de madera oscura.
+
+En la tableta, el quinto hueco no volvió a abrirse.

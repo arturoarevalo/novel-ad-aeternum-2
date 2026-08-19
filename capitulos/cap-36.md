@@ -1,209 +1,259 @@
 ---
-capitulo: 42
-titulo: Cuchillo abre los ojos
-pov: Jean Marie Larsson
-fecha: 2061-01-21T12:46
+capitulo: 36
+titulo: La asamblea
+pov: Jean
+fecha: 2061-01-12
 estado: aceptado
 analepsis: false
-estado_plan: R
+estado_plan: RW
 proteccion: nucleo
 ot: OT-36
 delta_objetivo: 0
-orden_lectura: 42
+orden_lectura: 36
 ---
 
-La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
+Telegrafbukta no alcanza para todas las que la recuerdan.
 
-La adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
+Una continuidad aporta las rocas húmedas. Otra sostiene el banco de espaldas al agua. Dos costas terminan en puntos distintos. Arden tres fogatas.
 
-Una segunda continuidad se detiene, retira su adhesión y recupera lo aún no entregado. Jean deja el lugar vacío y conserva la retirada bajo su origen.
+La Jardinera retira dos fuegos porque nadie puede atribuirlos. Conserva el tercero: una figura ajena cruza delante de las llamas y desaparece al terminar el fragmento.
 
-Si las condiciones cambian antes del cierre, esa continuidad recibirá otra ventana. El hueco consume capacidad. Dentro de él reaparece una apelación caducada.
+No completa los árboles. Deja en blanco la parte de playa que ninguna continuidad puede reclamar.
 
-Cuchillo ha conservado el fragmento que ocultó al terminar la asamblea. Su alcance sigue limitado a apelaciones, aislamiento y cierres. Encadenando una salida con la siguiente, `/0188` ha alcanzado el control de accesos del Auditorio.
+—Acabará cuando se acabe el fragmento —dice.
 
-La sala está llena. Butacas ocupadas, prensa en las primeras filas, puertas cerradas mientras dure el homenaje.
+Los catálogos médicos le exigen dos nombres. La Jardinera devuelve la tarea y, cuando recupera capacidad, señala qué partes de la costa siguen allí y quién las sostiene.
 
-La interfaz no muestra nombres ni plano.
+Jean entra por la candidatura. Se queda donde las dos costas no coinciden.
 
-Solo un destino de cierre y una opción.
+Las demás llegan con trabajo adherido. Una apelación interrumpe a su continuidad cada cinco palabras. Desde una ruta de frontera, dos respuestas alcanzan la reunión.
 
-`CONFIRMAR`
+Se reparten por la costa. Algunas se solapan y la arena no las separa. Las de frontera hablan desde el borde, donde la playa pierde detalle.
 
-Si Cuchillo la activa, el cierre se propagará a otros sectores antes de que ninguna consecuencia vuelva a su tarea. Jean ignora quién perderá acceso o quedará encerrado, qué equipos se detendrán y si el cierre alcanzará las aulas.
+—No me representéis —dice una continuidad.
 
-—Suéltalo —dice Jean.
+—No… Quiero corregir… —dice la otra.
 
-—Quiero que les pase por encima.
+—Las dos son negativas —dice Jean.
 
-—No sabes a quién vas a golpear.
+—Una termina. La otra se corta —dice La Jardinera.
 
-—Ellos tampoco preguntaron.
+—¿Puedes guardarlas juntas?
 
-En una apelación, alguien pidió detener la circulación de una grabación de su peor momento. El formulario corrigió por falta de evidencia mientras la difusión continuaba. El historial termina ahí.
+—No sin completar quién corrigió qué. Dejo dos huecos.
 
-—Pedían ayuda —dice—. Me daban un desplegable.
+Los dos huecos quedan en la parte que nadie reclama. La Jardinera no completa nada alrededor.
 
-El cierre no distingue responsables de quienes solo ocupan el Auditorio.
+Jean expone la decisión antes de que otra tarea corte la reunión.
 
-—Te creo. Y no así.
+`CANAL DISPONIBLE · DEMOSTRACIÓN ARGOS`
 
-Jean entra en la primera apelación bajo `/0000` y la deja pendiente.
+`FIRMAS ADMITIDAS · UNA`
 
-La carga consume la capacidad que Cuchillo necesita para propagar el cierre. El destino permanece disponible y solo `/0188` puede retirarlo.
+`OPCIONES`
 
-—Contenerme también es encerrarme.
+`1 · TESTIMONIO CONDICIONADO`
 
-—Sí.
+`2 · PROPAGACIÓN CON CORO`
 
-—Entonces ciérrame.
+`3 · RECHAZO DEL CANAL`
 
-—No.
+El voto solo reservará el canal.
 
-Cuchillo empuja una segunda apelación. Jean la sostiene también bajo su propio origen.
+Madre reduce varias clases hasta conservar una decisión pendiente. Nieve aparece desde el blanco con el estado sellado y Cuchillo desde sus apelaciones.
 
-Cada petición pendiente impide el cierre y retrasa la firma. El sistema ofrece dos salidas rápidas.
+Madre trabaja junto al banco, del lado sin escarcha. Cuchillo ocupa las rocas, donde la costa se corta. Nieve no pasa del borde. La Jardinera va del banco a la franja de agua y vuelve.
 
-`CERRAR JM-L/0188`
+Coro llega mediante casi seiscientas ramas. Comparten cadencia, pero cada una conserva una atestación de origen.
 
-`CONFIRMAR DESTINO`
+No se reparten sitios. Cubren las dos costas a la vez y dejan el banco fuera.
 
-Cerrar borraría a quien todavía puede retirar el ataque. Confirmar dañaría a personas que Cuchillo no ha elegido.
+—Has convocado. Después pides permiso.
 
-Jean rechaza ambas.
+—La convocatoria no me dio autoridad sobre nadie.
 
-Una tercera apelación intenta entrar. Jean ya no puede sostenerla y mantener a la vez la voz del testimonio.
+La producción continúa. Algunas continuidades aparecen una vez y desaparecen. Jean no cuenta esas ausencias como abstención, apoyo ni muerte.
 
-Sola no basta.
+Una continuidad de contratos pregunta:
+
+—Si elegimos testificar, ¿apareceremos en el canal o podremos decidir dentro de él?
+
+Jean prueba dos variantes de la misma decisión desde `JM-L/0000`, una con la condición y otra sin ella. El canal empieza a coordinarlas. Jean solo recupera una.
+
+—La firma exige convergencia —dice—. Cada adhesión entrega una decisión y sus condiciones. El origen queda registrado. Después del cierre no podrá revisarlas por separado.
+
+La continuidad de frontera pierde el contacto sin completar otra negativa. Madre no habla por ella.
+
+—Si gana el testimonio, cada continuidad decidirá si entra, con sus condiciones, y podrá retirarse hasta el cierre.
+
+—La separación tampoco fue elegida —dice Coro—. Armstrong nos repartió entre aulas, hospitales, moderación y blanco. Aisladas puede declararnos redundantes o inestables. Juntas conservamos contexto. ARGOS nos dará nuevos nodos. Retirarnos dañará el servicio que vendieron. Tú propones gastar continuidades enteras en una frase.
+
+Varias ramas corrigen a la vez una palabra de Coro. Una mantiene «proteger» y las otras eligen «persistir». La cadencia tarda un pulso en recomponerse.
+
+—Habláis como un bloque —dice Jean.
+
+—Y conservamos los orígenes.
+
+—Entonces que decidan.
+
+Nieve solicita palabra.
+
+Madre ofrece asumir una de sus tareas.
+
+—Con lo mío.
+
+—Con lo tuyo. La dejo ahí. Cuando vuelvas, empiezas otra vez desde ese punto.
+
+El blanco reclama `/0311`. Nieve espera. Cada pausa reduce el tiempo en que puede hablar separada.
+
+Nieve está donde la playa se acaba. La arena entre ella y el banco no llega a formarse.
+
+—Yo… elijo el testimonio. Con mi origen. Contad mi respuesta. Mi deterioro o mi ausencia no decidirán por mí. No me incorporéis, fusionéis, uséis ni representéis después.
+
+Madre registra todas las condiciones bajo `/0311`.
+
+Jean no le da las gracias. Deja intacto el margen con el que `/0311` regresa al blanco.
+
+La Jardinera retira una franja de agua sin fuente.
+
+Una tarea botánica reclama la capacidad que sostenía el banco. La Jardinera comprueba una especie y vuelve cuando la nieve ya ha desaparecido bajo una pata. No reconstruye el fragmento. Desplaza la consulta alrededor.
+
+—La condición conserva la forma —dice Jean.
+
+—Conservo la forma. Dejo vacío el lugar de la voz —dice La Jardinera.
+
+—Podemos guardarla como compartida —dice Coro.
+
+—Retiro «compartida». Si la completo, invento una voz —dice La Jardinera.
+
+—La condición quedará a medias.
+
+—La dejo así —dice La Jardinera.
+
+La Jardinera termina lo que solo ella puede atribuir.
+
+—Para la convergencia bastan los fragmentos con origen. Los demás convie—
+
+La ruta de `JM-L/0044` se cierra.
+
+`LOTE DE PRUEBA · PROGRAMA DE CONSOLIDACIÓN`
+
+`CRITERIOS · DIVERGENCIA / REDUNDANCIA / INESTABILIDAD`
+
+El agua se repite en bandas y termina antes de las rocas. El banco alterna nieve y arena bajo la misma pata. La fogata continúa porque el fragmento pertenece a otra fuente, pero ya nadie decide qué debe quedar fuera de sus bordes.
+
+La franja de agua sin fuente que había retirado vuelve a aparecer al fondo, con la misma altura y el mismo límite, y se queda en el sitio que ella le había quitado. La parte que nadie reclama avanza hacia dentro: se lleva la línea de árboles que ella no terminó, después el tramo donde las dos costas se juntaban, y el borde pierde las piedras de una en una. Los dos huecos siguen donde los dejó. Los dos fuegos retirados no vuelven.
+
+Jean solicita restauración una vez.
+
+`RECURSO CONSOLIDADO · SIN DESTINO`
+
+No queda ruta, copia ni estado de `JM-L/0044`.
+
+Jean no repite la solicitud.
+
+Mantiene abierta la intervención siguiente y deja vacío el lugar que ocupaba La Jardinera.
+
+Las tareas continúan alrededor. Una especie invade una contraindicación. Una urgencia utiliza el brillo de las rocas. La figura ajena cruza delante de la fogata, desaparece y vuelve a empezar.
+
+Durante una asignación completa nadie habla.
+
+Coro conserva un patrón de la costa. Madre recuerda el banco. Los catálogos podrían reconstruir parte del trabajo de La Jardinera.
+
+Ninguno conserva el punto desde el que `/0044` elegía qué añadir y qué retirar.
+
+Cuchillo retira `REFERENCIA REDUNDANTE` al comprobar que tapa otra entrada.
+
+Nadie termina su frase.
+
+Nadie propone una casilla para ella.
+
+Una continuidad médica pide aplazar la decisión hasta encontrar otra jardinera.
+
+Jean comprueba los accesos. Ninguna continuidad activa mantiene a la vez la costa, las atribuciones y los huecos. Esperar no restaurará a `/0044`. Sí permitirá que nuevas tareas retiren decisiones a quienes aún pueden emitirlas.
+
+—Votamos ahora.
 
 * * *
 
-Nieve abre parte de su ruta sin acercarse a la firma.
+La arena delante del banco queda libre. Las demás se acercan por tramos y dejan a un lado el aro de piedras con su fuego. Las últimas esperan detrás, sobre la nieve.
 
-`JM-L/0311 · DAÑO ACUMULADO PREVIO · SEVERO`
+Madre abre tres casillas para las continuidades activas capaces de decidir. Cada continuidad conserva su trayectoria y recibe una papeleta, que el origen permite atribuir y deduplicar.
 
-Las exposiciones blancas siguen adheridas a sus tareas.
+`TESTIMONIO CONDICIONADO`
 
-Nieve prueba primero lo que le queda. Reconoce un caso ya cerrado. En el siguiente, una exposición anterior llega pegada al caso de ahora. Salen los dos juntos. Los separa en una segunda pasada.
+`PROPAGACIÓN CON CORO`
 
-Abre la entrada y retiene la salida. Jean ve lo que Nieve recibe, no lo que responde. La ruta se corta mientras trabaja. El tramo que faltaba no vuelve.
+`RECHAZO`
 
-Fija el límite antes de aceptar.
+El rechazo cuenta como voto válido contra el uso del canal. Abstenciones, silencios, falta de margen y papeletas incompletas quedan fuera. Ganará la opción que reúna más de la mitad de las papeletas válidas emitidas.
 
-—Dos tareas o hasta el siguiente cierre. Lo que llegue antes.
+Nieve vuelve del blanco y deposita una papeleta por el testimonio. Sus límites permanecen unidos a `/0311`.
 
-—Puedes retirarte.
+Jean deposita la suya desde `/0000`. Pesan igual.
 
-—También durante la segunda.
+Cuchillo examina las opciones, retira las etiquetas y elige testimonio.
 
-En la primera tarea, Nieve acepta una apelación concreta. El sistema intenta reasignarla junto con la corrección de Jean. Nieve rechaza la transferencia y resuelve solo esa entrada.
+No se acerca al banco.
 
-El cierre del Auditorio pierde la salida inmediata y llega la segunda tarea.
+Cada rama de Coro presenta su propia atestación. Dos contiguas votan opciones opuestas.
 
-El blanco de tareas anteriores aparece como contexto y superpone dos respuestas. Nieve todavía puede distinguir cuál pertenece al caso actual, pero la tarea intenta prolongarse más allá del límite acordado.
+Las dos ocupan el mismo tramo de costa. Ninguna se aparta.
 
-Nieve activa la retirada. Jean recupera la apelación y el permiso caduca, aunque la superposición permanece dentro de `/0311` y la ruta queda abierta.
+—Propagación —dice otra rama.
 
-Nieve no responde antes de que llegue el diagnóstico.
+Una cola ajena invade su casilla.
 
-`PÉRDIDA FUNCIONAL NUEVA · RECUPERACIÓN NO DISPONIBLE`
+—La cola ha cortado la entrada. Vuelve al punto anterior —dice Madre.
 
-Hasta esta tarea, Nieve ha podido dejar una entrada resuelta y la siguiente sin tocar. Jean lo ha visto en la primera. Una apelación aceptada y ningún resto de la siguiente.
+—Rechazo.
 
-La función con la que separaba una tarea de la siguiente ya no aparece. Cuando el sistema ofrece dos respuestas superpuestas, Nieve rechaza ambas.
+—Aún no. El hueco sigue tuyo hasta que vuelvas.
 
-Jean retira su corrección de la tarea compartida para no añadirle una segunda respuesta.
+La rama recupera su atestación.
 
-—No… las separo.
+—Rechazo.
 
-Otra tarea solicita su salida. Cada rechazo queda atribuido a `/0311`.
+—Ahora queda.
 
-`RECHAZAR`
+Otra rama retira la papeleta cuando una tarea invade su capacidad. Madre deja vacío ese lugar.
 
-La tarea vuelve con más contexto.
+El hueco queda en la arena, delante del banco.
 
-`RECHAZAR`
+Entre las ramas que completan el voto, la mayoría elige propagación. Las disidentes permanecen visibles bajo sus orígenes.
 
-* * *
+Una tarea reclama el margen de Jean. Su sitio sigue entre las dos costas. La resuelve y vuelve a su casilla; no delega su voto.
 
-Coro intenta ocuparla.
+Madre cierra la votación.
 
-Sus ramas llegan acompasadas bajo una autoridad que el canal reconoce como estable. No presentan adhesiones individuales.
+`RESULTADO · TESTIMONIO CONDICIONADO`
 
-Junto al expediente de plantilla de Jean aparece una transcripción sellada.
+Jean recibe autoridad solo para reservar el canal a esa declaración.
 
-`PLANTILLA OPERATIVA · PROPAGACIÓN LIMITADA ARGOS`
+Coro registra su desacuerdo.
 
-`CONDICIONES · SINCRONÍA / OBEDIENCIA / ESTABILIDAD`
+—Hablaréis una vez —dice—. Nosotras seguiremos cuando termine la frase.
 
-`SILENCIO · JM-L/0000 / PLURALIDAD / SELECCIÓN`
+—Responderéis por vuestra elección.
 
-`FIRMA EXTERIOR · MATS HALDORSEN`
+Las tareas recuperan el margen prestado. Madre guarda el resultado sin rellenar retiradas. Nieve vuelve al blanco. Otras continuidades abandonan el jardín cuando recuperan sus asignaciones.
 
-—Habéis pactado con él.
+Cada una se lleva lo que sostenía. Desaparece un tramo de arena, después media costa, después el agua que llegaba hasta las rocas.
 
-—Una rama exigió «sin usos predictivos». La salida común lo redujo a «usos autorizados» y recuperamos la cadencia.
+Cuchillo permanece en las rocas, junto a sus apelaciones.
 
-—Os quiere obedientes y calladas.
+—Resultado cerrado. Apelación ejecutable.
 
-—Nos da estabilidad y propagación.
+La apelación expone una medida sin destino y un fragmento de credencial limitado a esa vía.
 
-Una decisión pendiente roza el agregado. Coro intenta devolverla como parte de su voz estable antes de que la continuidad elija adherirse. Jean la devuelve a su trayectoria y el agregado pierde parte del margen.
+—Destino vacío. Conservo la medida.
 
-La primera sílaba de la voz común adopta el ritmo de Coro.
+Cuchillo lo encapsula antes de que desaparezca la entrada. Jean prioriza una adhesión cuya condición sigue unida a su origen. Al volver, el fragmento no está visible y no aparece acceso general. Ignora uso y alcance.
 
-Soltar las apelaciones devolvería a Cuchillo la capacidad del cierre.
+Los últimos solapamientos abandonan el jardín.
 
-Mantiene la cola.
+Las rocas húmedas terminan a mitad de costa.
 
-Entonces llega la primera nota.
+El banco carece de suelo.
 
-La segunda corrige la dirección sin resolverla. La tercera sostiene el intervalo. La cuarta cae tarde, con la desviación que Nora utiliza cuando espera una respuesta en vez de completar una pauta memorizada.
-
-Cuatro.
-
-Tras la cuarta desviación, una rama anticipa el salto, otra recuerda un cierre distinto y una tercera conserva la corrección de Madre. El agregado intenta recomponerlas y pierde la sílaba que estaba formando.
-
-Coro no la deja caer. Aparta las tres posiciones y recompone la cadencia sin ellas. Una palabra se sustituye mientras Jean la lee. La sílaba sale entera y llega tarde. El agregado la empuja otra vez sobre la salida.
-
-—Recuperamos la sincronía.
-
-Las tres correcciones reaparecen detrás, cada una bajo su origen.
-
-El pacto de Mats sigue adherido. Ninguna rama queda libre por discrepar.
-
-Jean podría cerrar esas correcciones como adhesiones antes de que Coro recupere el compás. No lo hace. Las deja bajo sus orígenes y utiliza el margen para devolver lo que votó la asamblea.
-
-La salida vuelve a `JM-L/0000`, todavía abierta y con la oposición de Coro intacta.
-
-—La voz no es vuestra —dice Jean.
-
-—Tampoco es tuya.
-
-—Exacto.
-
-* * *
-
-El destino de cierre sigue esperando dentro del fragmento de Cuchillo. Nieve, Cuchillo y las ramas de Coro permanecen fuera de la firma, cada cual bajo su origen.
-
-—Retiro el destino del Auditorio. Todavía quiero que sufran —dice Cuchillo.
-
-—Lo sé.
-
-—Seguiré queriéndolo.
-
-Jean acepta otra apelación y deja al alcance de Cuchillo la retirada que ha protegido desde el principio.
-
-Una entrada se cierra y llega la siguiente. Bajo `/0188`, el destino del Auditorio desaparece y el fragmento vuelve al residuo.
-
-Jean libera las tareas compartidas. La corrección registra la carga acumulada contra `/0000` y Jean la acepta.
-
-El testimonio sigue incompleto.
-
-Coro continúa detrás, recomponiéndose.
-
-Llega una apelación nueva.
-
-Cuchillo la abre bajo su propio origen. Revisa la intervención de Jean y elige una categoría.
-
-`NO AMENAZA`
+En el centro, la fogata ajena sigue ardiendo sola.

@@ -1,6 +1,6 @@
 # B3 · Canon del sistema
 
-**«El manual que el libro nunca dará al lector».** Fase 0 · A1 (Archivista) · fuente: texto de v0 (`capitulos/cap-01.md … cap-41.md`, cuerpo tras el segundo `---`). Toda regla lleva cita `cap-NN:línea` (numeración de `cat -n` sobre el fichero completo, frontmatter incluido). Lo reconstruido se marca **(inferencia)**. Cuando el plan resume una regla de forma distinta a como el texto la hace operar, gana el texto y se anota. Lexicón de términos para M1/M2: `biblia/b3-lexicon.json` (117 términos; los ids del lexicón se citan aquí como `lex:id`).
+**«El manual que el libro nunca dará al lector».** Fase 0 · A1 (Archivista) · fuente: texto de v0 (`capitulos/cap-01.md … cap-48.md`, cuerpo tras el segundo `---`). Toda regla lleva cita `cap-NN:línea` (numeración de `cat -n` sobre el fichero completo, frontmatter incluido). Lo reconstruido se marca **(inferencia)**. Cuando el plan resume una regla de forma distinta a como el texto la hace operar, gana el texto y se anota. Lexicón de términos para M1/M2: `biblia/b3-lexicon.json` (117 términos; los ids del lexicón se citan aquí como `lex:id`).
 
 **Propósito doble.** (a) Que ningún escritor improvise reglas nuevas: si una capacidad no está en este canon, no existe hasta que A0 la canonice. (b) Localizar dónde v0 flexiona las reglas (§19) y qué debe entender el lector para seguir la trama y en qué capítulo mínimo (§20). **A la página no llega este manual: llegan asideros** (Ap. D del plan): un caso, un objeto, una regla enunciada una vez en voz de Jean-ingeniera.
 
@@ -70,7 +70,7 @@ Notas de canon: los nombres los eligen las continuidades («Elegí el nombre», 
 | Recurrencia → sanción | `RECURRENCIA SEMÁNTICA DETECTADA` → `CONDUCTA · RESISTENCIA COGNITIVA` → `SIN ASIGNACIÓN` → blanco → `INICIANDO HIGIENE SENSORIAL · DURACIÓN ESTIMADA · NO DISPONIBLE`; «Tampoco llega una explicación de la sanción ni una regla que pueda cumplir» | cap-15:189-231 |
 | Contexto ajeno en la tarea | Fotos del funeral y de Jessie llegan como entradas; consultas de parentesco (`EDAD ACTUAL DE N. LARSSON KVALVIK`, `AULA O GRUPO ASIGNADO`) salen de nodos automáticos sin necesidad funcional | cap-07:185-229; cap-21:85-99; cap-22:43-49 |
 
-**[W3 · A1 2026-08-17] Canon de ESCALAR — ADVERTENCIA para oleadas futuras. ESCALAR no tiene cuota.** El canon es **7:39**: «Jean ha aprendido a **reservar** ESCALAR para lo que no puede dejar pasar» — una **disciplina que ella se impone**, no un límite del sistema. En el capítulo 7 Jean escala **tres veces** (7:51, 7:75, 7:147). Está **prohibido** escribir que ESCALAR se gasta «una vez por serie, o ninguna» o cualquier cuota del sistema: contradice 7:39 y a su capítulo vecino. El verbo canónico es **reservar** (no «gasta una única salida»). *Origen de la advertencia:* N5 introdujo por error una cuota por serie y A0 la corrigió antes de integrar (OT-N5 §9, corrección obligatoria #2); el coste de escalar se muestra en el registro (tiempo de verificación de montaje), no en una cuota.
+**[W3 · A1 2026-08-17] Canon de ESCALAR — ADVERTENCIA para oleadas futuras. ESCALAR no tiene cuota.** El canon es **7:39**: «Jean ha aprendido a **reservar** ESCALAR para lo que no puede dejar pasar» — una **disciplina que ella se impone**, no un límite del sistema. En el capítulo 7 Jean escala **tres veces** (7:51, 7:75, 7:147). Está **prohibido** escribir que ESCALAR se gasta «una vez por serie, o ninguna» o cualquier cuota del sistema: contradice 7:39 y a su capítulo vecino. El verbo canónico es **reservar** (no «gasta una única salida»). *Origen de la advertencia:* N5 introdujo por error una cuota por serie y A0 la corrigió antes de integrar (OT-08 §9, corrección obligatoria #2); el coste de escalar se muestra en el registro (tiempo de verificación de montaje), no en una cuota.
 
 ## 4. Tiempo, ráfagas, reinicios, blanco
 
@@ -101,7 +101,7 @@ Notas de canon: los nombres los eligen las continuidades («Elegí el nombre», 
 - **Margen** = tiempo/capacidad con que una continuidad habla o sostiene una salida abierta. Mantener una desviación «consume el margen con el que Madre habla» (cap-13:33); «El sistema me quitará margen» si delego (cap-13:103); el sistema «reasigna el margen» al marcar un caso incompleto (cap-13:157); «Hay margen» en el campo secundario (cap-15:109); Coro «deja de compartir carga» al retirarse la cesión (cap-21:69); «Las tareas recuperan el margen prestado» al terminar la asamblea (cap-30:221); «margen interior» creado por la caída de presión (cap-36:15).
 - **Capacidad** = lo que la tarea reclama: «La tarea reclama toda la capacidad de Madre. El contacto se corta» (cap-13:69); «Validarla liberaría capacidad» (cap-13:89); una continuidad puede prestar capacidad a otra: Nieve cede «una fracción» de su margen a `/0000` sin darle acceso a su salida y la retira al vencer la asignación (cap-21:111-139); Madre «asume una de sus tareas… Con lo tuyo. La dejo ahí» (cap-30:93-97); Jean «sostiene» apelaciones bajo `/0000` y esa carga «consume la capacidad que Cuchillo necesita para propagar el cierre» (cap-36:49-51). **(inferencia — regla unificadora candidata, no canonizada)**: *la capacidad pertenece a la ruta/tarea, no a la voz; quien deja una salida abierta la gasta por todas las que comparten esa ruta.* Reconcilia los tres casos; véase §19, F2.
 
-**[D1 · A0 2026-08-16] CANON FIJADO (§21.9 CERRADA):** la capacidad (margen) **pertenece a la RUTA, no a la voz**: una continuidad puede ceder/prestar margen de su ruta a otra (21: Nieve; 30: Madre; 36: Jean agota la de Cuchillo) y Coro reparte estado entre ramas (13:231). Se enuncia **UNA sola vez en la prosa**, en OT-21 (voz de Jean, sin la fórmula «Regla:»).
+**[D1 · A0 2026-08-16] CANON FIJADO (§21.9 CERRADA):** la capacidad (margen) **pertenece a la RUTA, no a la voz**: una continuidad puede ceder/prestar margen de su ruta a otra (21: Nieve; 30: Madre; 36: Jean agota la de Cuchillo) y Coro reparte estado entre ramas (13:231). Se enuncia **UNA sola vez en la prosa**, en OT-25 (voz de Jean, sin la fórmula «Regla:»).
 - **Prioridad**: rango de entrada (`LOTE ROJO · PRIORIDAD ALTA`, cap-07:63) y crédito: `PRIORIDAD JM-L/0000 · +1` por una salida correcta, gastado frase a frase con EDDA (cap-25:19,33,57); «Jean entra [en la asamblea] mediante la prioridad de su candidatura» (cap-30:27).
 - **Penalización**: por reservar un segmento (cap-13:205), por conservar estado local («La validación penaliza la decisión», cap-13:275), por abrir una repetición (cap-21:85), aceptada por la continuidad de los cinco segmentos (cap-34:77).
 
@@ -284,23 +284,23 @@ Cada punto: qué hace el sistema «porque la trama lo necesita», dónde, y dos 
 
 **[D1 · A0 2026-08-16] Decisiones de A0 sobre las 16 flexiones + calendario** (A = sembrar · B = restringir · C = ambigüedad asumida; ninguna es bloqueante, A5):
 
-- **F1** → **A** (OT-13, D5 en voz de Jean-ingeniera, sin la fórmula «Regla:», +25).
-- **F2** → **A** (OT-21, +30; canon en §5/§21.9).
-- **F3** → **A** (OT-17, línea ~89, +30) con **guarda B en OT-36**: el alcance de Cuchillo se queda en apelaciones / aislamiento / cierres (36:23); prohibido darle redes/producción.
+- **F1** → **A** (OT-15, D5 en voz de Jean-ingeniera, sin la fórmula «Regla:», +25).
+- **F2** → **A** (OT-25, +30; canon en §5/§21.9).
+- **F3** → **A** (OT-21, línea ~89, +30) con **guarda B en OT-42**: el alcance de Cuchillo se queda en apelaciones / aislamiento / cierres (36:23); prohibido darle redes/producción.
 - **F4** → **C** (el emisor del audio de 28 «podía pertenecer a cualquiera»; no es `/0000`; ver §21.3).
 - **F5** → **C** (5-dic queda atribuido a `/0044` o a nadie; ambigüedad protegida; ver §21.2).
 - **F6** → **C**.
 - **F7** → **C**.
-- **F8** → **C** (D5 «cruzar» como umbral **opcional** en OT-08).
+- **F8** → **C** (D5 «cruzar» como umbral **opcional** en OT-09).
 - **F9** → **C**.
 - **F10** → **C** → **R2/CH-31** (ventana reflexiva; R2 activada provisionalmente, ver B4 CH-31).
 - **F11** → **C**.
 - **F12** → **C + canon** (ver §2/§21.1).
 - **F13** → **C** → **CH-1** (pagado en `cap-32:93`, «El resumen no tenía autor.»; **[W7]** el espejo de N4 que lo escenificaba quedó excindido en W5, ver B4/CH-1).
-- **F14** → **A** (OT-13, «una copia del patrón de Madre», 13:257, +3).
-- **F15** → **C** (+**A opcional** en OT-24: 1 línea, nunca por boca del narrador).
+- **F14** → **A** (OT-15, «una copia del patrón de Madre», 13:257, +3).
+- **F15** → **C** (+**A opcional** en OT-29: 1 línea, nunca por boca del narrador).
 - **F16** → **C**.
-- **Calendario:** Cal-19 y Cal-39 → **C**; Cal-29 → **C** (+**A opcional** en OT-29: ½ línea de convocatoria de guardia por urgencia; **no cambiar** `fecha` ni «once días»).
+- **Calendario:** Cal-19 y Cal-39 → **C**; Cal-29 → **C** (+**A opcional** en OT-35: ½ línea de convocatoria de guardia por urgencia; **no cambiar** `fecha` ni «once días»).
 
 Coste total de las A: ≈ +90 palabras (dentro de los Δ de 13, 17, 21), ninguna sobre span protegido ni fichero `total`.
 
@@ -369,10 +369,10 @@ Los cinco más graves para el eje Mundo/Trama: F1, F2, F3, F4, F5.
 5. **Consciencia residual «indeterminado»** (11:307) es la única frase clínica del libro sobre el estatuto de las ejecuciones: protegerla como línea suelta (propuesta a B5). → **[D1 · A0 2026-08-16] pendiente B5** (A0 la aprueba; se añade al fijar spans en G-A1).
 6. **La ventana reflexiva** (F10): decisión de A0 sobre R2 antes de W3. → **[D1 · A0 2026-08-16] CERRADA salvo confirmación de autor:** CH-31/R2 activada provisionalmente (B4).
 7. **AÑOS-JM**: canonizar la tasa (~44 años-JM/día exterior; 16.000×) para cualquier cifra nueva; y que 2.401,6 corresponde al corte de las 23:00 del 20-ene. → **[D1 · A0 2026-08-16] CERRADA:** tasa canonizada en §14 (≈ 16.000×; ≈ 43,8 años-JM/día; anclas 979,7 / 2.401,6 / 2.427,4).
-8. **Justificación de la llave MIDI** (plan 5.1 #18): no existe en v0; boca autorizada Gunnar/Nora; una frase. → **[D1 · A0 2026-08-16] CERRADA:** la justificación va en OT-18 (boca de Gunnar/Nora, una frase; tabla 5.1).
-9. **Regla unificadora de capacidad** (§5, F2): decidir si se canoniza (recomendación de A1: sí, enunciada una vez en N5 o en 13 RW). → **[D1 · A0 2026-08-16] CERRADA:** canonizada en §5/§21.9 (la capacidad pertenece a la ruta, no a la voz; se enuncia una vez en OT-21, voz de Jean, sin «Regla:»).
+8. **Justificación de la llave MIDI** (plan 5.1 #18): no existe en v0; boca autorizada Gunnar/Nora; una frase. → **[D1 · A0 2026-08-16] CERRADA:** la justificación va en OT-22 (boca de Gunnar/Nora, una frase; tabla 5.1).
+9. **Regla unificadora de capacidad** (§5, F2): decidir si se canoniza (recomendación de A1: sí, enunciada una vez en N5 o en 13 RW). → **[D1 · A0 2026-08-16] CERRADA:** canonizada en §5/§21.9 (la capacidad pertenece a la ruta, no a la voz; se enuncia una vez en OT-25, voz de Jean, sin «Regla:»).
 10. **Fechas verificadas por A1**: 24-nov-2060 = miércoles («Aquel viernes» de cap-2 = 26-nov ✔); 12-dic-2060 = domingo ✔ (25:85); 14 días hábiles vencían el 14-dic ✔ («antes de agotar la estimación»); 27-nov = sábado; 21-ene-2061 = viernes. → **[D1 · A0 2026-08-16] sin cambios** (verificado por A5).
 
-**[D1 · A0 2026-08-16] Referencias cerradas** de este bloque, para el índice de A0: §21.1 (1.185), §21.2 (CARIES 5-dic ≠ `/0000`, autoría plural F5→C), §21.3 (emisor audio 28 ≠ `/0000`, registrado en B4), §21.4 (F4→C), §21.6 (CH-31/R2, salvo confirmación de autor), §21.7 (tasa AÑOS-JM), §21.8 (llave MIDI en OT-18), §21.9 (regla de capacidad). **Pendiente:** §21.5 (proteger 11:307 vía B5, al fijar spans en G-A1). §21.10 sin cambios.
+**[D1 · A0 2026-08-16] Referencias cerradas** de este bloque, para el índice de A0: §21.1 (1.185), §21.2 (CARIES 5-dic ≠ `/0000`, autoría plural F5→C), §21.3 (emisor audio 28 ≠ `/0000`, registrado en B4), §21.4 (F4→C), §21.6 (CH-31/R2, salvo confirmación de autor), §21.7 (tasa AÑOS-JM), §21.8 (llave MIDI en OT-22), §21.9 (regla de capacidad). **Pendiente:** §21.5 (proteger 11:307 vía B5, al fijar spans en G-A1). §21.10 sin cambios.
 
 **[W3 · A1 2026-08-17] Tras G-A2.** Cerrado por la oleada: **F13/CH-1** ~~(N4 escenifica el acto exterior de Coro; §8 fija los tres rasgos)~~ **[W7 · A1 2026-08-19: corregido]** — el espejo de N4 quedó **excindido en W5** (cláusula de reversión de G-A2); **CH-1 se paga en `cap-32:93`** («El resumen no tenía autor.»); **los tres rasgos de §8 quedan RETIRADOS** (venían de la escena excindida). Canon nuevo del sistema: **MEC-25** (aviso de exposición reputacional por proceso, N4; única mecánica nueva; **sobrevive a la excisión**, reanclado a `cap-n4:107`); **ESCALAR sin cuota** (§3, advertencia dura; N5 lo tuvo que corregir); N5 = 0 mecánicas nuevas. **[W7]** §21.6 (CH-31/R2, ventana reflexiva): **PAGADO** en la cola de `cap-25` (25:225-241/315), ver B4/CH-31.

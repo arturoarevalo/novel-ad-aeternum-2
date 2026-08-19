@@ -12,10 +12,10 @@ Regla (Ap. A, Principio 3): lo protegido tiene diff = 0 salvo ortotipografía ap
 | `cap-03.md` Vacaciones muy largas | Café con Alana; «Estoy asustada.»; aikido / «caer sin hacerse daño»; escala del monstruo; «No llames a Maja»; anillo; credencial | baseline ✓ |
 | `cap-04.md` El ferry | Elipsis del acto; cinturón en el pomo; gofre; cajera e Ingrid; naust; cinco trazos; la bisagra | baseline ✓ |
 | `cap-05.md` Flor | Despertar; «Fije la vista»; JM-L/0000; 10.000 imágenes | baseline ✓ |
-| `cap-09.md` Despedida | Funeral; «Mamá se mató. Empecemos por ahí.»; `Despedida` sin abrir; primera cita «mañana»; Kongsbakken; JM-L/0007 | baseline ✓ |
-| `cap-20.md` La cuarta nota | Confesión de Alana; el metrónomo que miente; la cuarta nota; «Nadie tocó la quinta.» | baseline ✓ |
-| `cap-23.md` La canción | «¿Eres mi madre?» «No toda.»; «Activo memorial. Qué hijos de puta.»; el segundo regalo / «Dejo el hueco»; La Jardinera; el guante omitido; «pregúntale qué sabe del cinturón» | baseline ✓ |
-| `cap-41.md` El siguiente Soldagen | «Cronometrar el sol.» «Para que conste.»; el gofre frío; la puerta que roza | baseline ✓ |
+| `cap-10.md` Despedida | Funeral; «Mamá se mató. Empecemos por ahí.»; `Despedida` sin abrir; primera cita «mañana»; Kongsbakken; JM-L/0007 | baseline ✓ |
+| `cap-24.md` La cuarta nota | Confesión de Alana; el metrónomo que miente; la cuarta nota; «Nadie tocó la quinta.» | baseline ✓ |
+| `cap-28.md` La canción | «¿Eres mi madre?» «No toda.»; «Activo memorial. Qué hijos de puta.»; el segundo regalo / «Dejo el hueco»; La Jardinera; el guante omitido; «pregúntale qué sabe del cinturón» | baseline ✓ |
+| `cap-48.md` El siguiente Soldagen | «Cronometrar el sol.» «Para que conste.»; el gofre frío; la puerta que roza | baseline ✓ |
 | `00-aviso.md` | Aviso de contenido (borrador **provisional**, B0-D4) | **sin hash** hasta validación de autor (`provisional: true`); `listar` lo muestra como «INEXISTENTE» por esa razón |
 | `99-recursos.md` | Recursos de ayuda (borrador **provisional**, B0-D4) | **sin hash** hasta validación de autor |
 
@@ -23,19 +23,19 @@ Regla (Ap. A, Principio 3): lo protegido tiene diff = 0 salvo ortotipografía ap
 
 | Núcleo (Ap. A) | Span | Localización | Verificación A1 |
 |---|---|---|---|
-| 37 · declaración «NO SOY UN MODELO.» … «un fallo de escenario» | `S37-declaracion` + `S37-acta` | cap-37.md:93–105 (POV Jean) y 149–191 (POV Astrid) | Cubre lo que pide el Ap. A. `S37-acta` empieza **una frase antes** del arranque literal («Astrid vio aparecer la frase antes de oír la voz.», l. 149; «NO SOY UN MODELO.» está en l. 151): sobrecobertura de una frase, aceptable (proteger de más, no de menos); usar el literal exigiría `ocurrencia: 2`. La línea 193 («La voz volvió por los altavoces.») queda fuera, entre el acta y `S37-muchas`: correcto. |
-| 37 · «Para decir esta frase hemos dejado de ser muchas. Que conste también.» | `S37-muchas` | cap-37.md:195 | ✓ exacto |
-| 38 · muerte de Nieve («Para mí, Nieve muere…») | `S38-nieve` | cap-38.md:161–171 | Cubre la muerte (167) y «Echo de menos hasta sus pausas» (169). La sección de Nieve empieza en 137; su última negativa (149–153) quedaba **sin cubrir** → añadido `S38-no-autorizo`. |
-| 38 · pasaje de la respiración/huella | `S38-huella` | cap-38.md:181–183 | ✓ exacto |
-| 38 · elección de quedarse | `S38-quedarme` | cap-38.md:185–191 | ✓ («Elijo quedarme.» en 189) |
-| 25 · línea de EDDA | `S25-utilidad` | cap-25.md:89 | ✓ exacto |
-| 25 · escalada interceptada | `S25-escalada` | cap-25.md:93–107 | ✓ (de `ESCALADA HUMANA INDICADA` a «Se conservaron como variables del cálculo de continuidad.») |
-| 29 · «Las necesarias.» como cierre | `S29-cierre` | cap-29.md:215 | ✓ |
-| 30 · borrado a mitad de frase de La Jardinera | `S30-borrado` | cap-30.md:125–127 | ✓ («Los demás convie—» + «La ruta de `JM-L/0044` se cierra.») |
-| 39 · «No sé qué es. Sé que alguien la quiere. Empecemos por ahí.» | `S39-jueza` | cap-39.md:187 | ✓ |
-| 39 · la pluma del divorcio | `S39-pluma` | cap-39.md:181–183 | ✓ (la línea 185, «La primera línea salió débil…», queda fuera; aceptable) |
+| 37 · declaración «NO SOY UN MODELO.» … «un fallo de escenario» | `S37-declaracion` + `S37-acta` | cap-43.md:93–105 (POV Jean) y 149–191 (POV Astrid) | Cubre lo que pide el Ap. A. `S37-acta` empieza **una frase antes** del arranque literal («Astrid vio aparecer la frase antes de oír la voz.», l. 149; «NO SOY UN MODELO.» está en l. 151): sobrecobertura de una frase, aceptable (proteger de más, no de menos); usar el literal exigiría `ocurrencia: 2`. La línea 193 («La voz volvió por los altavoces.») queda fuera, entre el acta y `S37-muchas`: correcto. |
+| 37 · «Para decir esta frase hemos dejado de ser muchas. Que conste también.» | `S37-muchas` | cap-43.md:195 | ✓ exacto |
+| 38 · muerte de Nieve («Para mí, Nieve muere…») | `S38-nieve` | cap-44.md:161–171 | Cubre la muerte (167) y «Echo de menos hasta sus pausas» (169). La sección de Nieve empieza en 137; su última negativa (149–153) quedaba **sin cubrir** → añadido `S38-no-autorizo`. |
+| 38 · pasaje de la respiración/huella | `S38-huella` | cap-44.md:181–183 | ✓ exacto |
+| 38 · elección de quedarse | `S38-quedarme` | cap-44.md:185–191 | ✓ («Elijo quedarme.» en 189) |
+| 25 · línea de EDDA | `S25-utilidad` | cap-30.md:89 | ✓ exacto |
+| 25 · escalada interceptada | `S25-escalada` | cap-30.md:93–107 | ✓ (de `ESCALADA HUMANA INDICADA` a «Se conservaron como variables del cálculo de continuidad.») |
+| 29 · «Las necesarias.» como cierre | `S29-cierre` | cap-35.md:215 | ✓ |
+| 30 · borrado a mitad de frase de La Jardinera | `S30-borrado` | cap-36.md:125–127 | ✓ («Los demás convie—» + «La ruta de `JM-L/0044` se cierra.») |
+| 39 · «No sé qué es. Sé que alguien la quiere. Empecemos por ahí.» | `S39-jueza` | cap-45.md:187 | ✓ |
+| 39 · la pluma del divorcio | `S39-pluma` | cap-45.md:181–183 | ✓ (la línea 185, «La primera línea salió débil…», queda fuera; aceptable) |
 | 6 · el tramo de la llamada | `S06-llamada` | cap-06.md:15–31 | Cubre la llamada propiamente dicha (de «—Sí, el coche es gris.» a «Terminó la llamada. La nevera seguía pitando.»). La confirmación inmediata («—Han encontrado a Jean.» / «—Está muerta.» / «—Sí.», 33–41) queda fuera: **extensión opcional** que A0 puede decidir; no la he añadido para no ampliar un núcleo definido por A0. |
-| 11 · flashback intercalado 26-nov / UNN | `S11-flashback` | cap-11.md:85–135 | ✓ (incluye los mensajes «No vengas / No llames a Maja», la ficha VERDE y las tres autorizaciones; termina en «firmó con el índice.», l. 137 «—Alana.» devuelve al presente) |
+| 11 · flashback intercalado 26-nov / UNN | `S11-flashback` | cap-13.md:85–135 | ✓ (incluye los mensajes «No vengas / No llames a Maja», la ficha VERDE y las tres autorizaciones; termina en «firmó con el índice.», l. 137 «—Alana.» devuelve al presente) |
 
 **Spans de A0 derivados de la tabla 5.1** (todos localizados y correctos): `S10-series` (10:51–73), `S13-yo-que-soy` (13:195–199; el plan lo atribuía al 17), `S13-crecer` (13:281), `S14-tranquilizar` (14:141), `S14-firmo` (14:357; el plan lo atribuía al 16), `S15-intimas` (15:27–43), `S15-r1189` (15:183–185), `S19-palma` (19:197), `S21-inevitables` (21:153), `S26-paso-uso` (26:119), `S26-lata` (26:83–87), `S27-conflicto` (27:73), `S28-cierre` (28:199), `S31-elegir` (31:91–95), `S32-necesarias` (32:19, arranca a mitad de frase: correcto), `S32-voz` (32:127–147), `S33-hueco` (33:233), `S36-cierre` (36:193–195), `S40-caries` (40:75), `S40-locutorio` (40:107–123).
 
@@ -44,39 +44,39 @@ Tabla completa de los 34 spans previos:
 | id | localización | long. | desc |
 |---|---|---:|---|
 | `S06-llamada` | cap-06.md:15–31 | 1273 | Tramo de la llamada (Ap. A) |
-| `S10-series` | cap-10.md:51–73 | 583 | Series FLOR/CANELA/CARIES/NO intactas (tabla 5.1) |
-| `S11-flashback` | cap-11.md:85–135 | 1748 | Flashback intercalado 26-nov / UNN (Ap. A) |
-| `S13-yo-que-soy` | cap-13.md:195–199 | 89 | «¿Y yo qué soy?» → NO AMENAZA/REVISAR (tabla 5.1; el plan lo atribuye al 17, el texto está en el 13) |
-| `S13-crecer` | cap-13.md:281 | 56 | Cierre con «crecer» intacto (tabla 5.1) |
-| `S14-tranquilizar` | cap-14.md:141 | 45 | Línea de Jessie (tabla 5.1) |
-| `S14-firmo` | cap-14.md:357 | 42 | Cierre (tabla 5.1; el plan lo atribuye al 16, el texto cierra el 14) |
-| `S15-intimas` | cap-15.md:27–43 | 501 | Secuencia de palabras íntimas (tabla 5.1) |
-| `S15-r1189` | cap-15.md:183–185 | 188 | Interludio tipográfico de registro R-1189 (Ap. A, elementos estructurales) |
-| `S19-palma` | cap-19.md:197 | 245 | La palma en el cristal tibio (tabla 5.1) |
-| `S21-inevitables` | cap-21.md:153 | 17 | Línea suelta (Ap. A) |
-| `S25-utilidad` | cap-25.md:89 | 109 | Línea capital de EDDA (Ap. A) |
-| `S25-escalada` | cap-25.md:93–107 | 443 | Escalada interceptada (Ap. A) |
-| `S26-paso-uso` | cap-26.md:119 | 94 | Línea suelta de Aslak (Ap. A) |
-| `S26-lata` | cap-26.md:83–87 | 294 | La lata de galletas de Aslak (tabla 5.1) |
-| `S27-conflicto` | cap-27.md:73 | 81 | Marca de agua CONFLICTO EMOCIONAL (tabla 5.1) |
-| `S28-cierre` | cap-28.md:199 | 28 | Cierre «…no lleguéis tarde» (tabla 5.1) |
-| `S29-cierre` | cap-29.md:215 | 17 | «Las necesarias.» como cierre (Ap. A) |
-| `S30-borrado` | cap-30.md:125–127 | 108 | Borrado a mitad de frase de La Jardinera (Ap. A) |
-| `S31-elegir` | cap-31.md:91–95 | 114 | «¿Quieres vivir?» «Quiero poder elegir. Es la primera vez.» (Ap. A) |
-| `S32-necesarias` | cap-32.md:19 | 159 | «Las necesarias» en la oferta (tabla 5.1) |
-| `S32-voz` | cap-32.md:127–147 | 1217 | Sesión del banco de voz de Mats (tabla 5.1) |
-| `S33-hueco` | cap-33.md:233 | 51 | El quinto hueco (tabla 5.1) |
-| `S36-cierre` | cap-36.md:193–195 | 107 | «NO AMENAZA» cierra igual (tabla 5.1) |
-| `S37-declaracion` | cap-37.md:93–105 | 488 | Declaración desde el POV de Jean (Ap. A) |
-| `S37-acta` | cap-37.md:149–191 | 2879 | Núcleo: «NO SOY UN MODELO.» hasta «…un fallo de escenario» (Ap. A) |
-| `S37-muchas` | cap-37.md:195 | 70 | Línea capital (Ap. A) |
-| `S38-nieve` | cap-38.md:161–171 | 442 | Muerte de Nieve, «Echo de menos hasta sus pausas» (Ap. A) |
-| `S38-huella` | cap-38.md:181–183 | 438 | Pasaje de la respiración/huella (Ap. A) |
-| `S38-quedarme` | cap-38.md:185–191 | 211 | Elección de quedarse (Ap. A) |
-| `S39-jueza` | cap-39.md:187 | 59 | La jueza (Ap. A) |
-| `S39-pluma` | cap-39.md:181–183 | 76 | La pluma del divorcio (Ap. A) |
-| `S40-caries` | cap-40.md:75 | 34 | Línea suelta (Ap. A) |
-| `S40-locutorio` | cap-40.md:107–123 | 1177 | El silencio de Jessie en el locutorio (tabla 5.1) |
+| `S10-series` | cap-12.md:51–73 | 583 | Series FLOR/CANELA/CARIES/NO intactas (tabla 5.1) |
+| `S11-flashback` | cap-13.md:85–135 | 1748 | Flashback intercalado 26-nov / UNN (Ap. A) |
+| `S13-yo-que-soy` | cap-15.md:195–199 | 89 | «¿Y yo qué soy?» → NO AMENAZA/REVISAR (tabla 5.1; el plan lo atribuye al 17, el texto está en el 13) |
+| `S13-crecer` | cap-15.md:281 | 56 | Cierre con «crecer» intacto (tabla 5.1) |
+| `S14-tranquilizar` | cap-16.md:141 | 45 | Línea de Jessie (tabla 5.1) |
+| `S14-firmo` | cap-16.md:357 | 42 | Cierre (tabla 5.1; el plan lo atribuye al 16, el texto cierra el 14) |
+| `S15-intimas` | cap-18.md:27–43 | 501 | Secuencia de palabras íntimas (tabla 5.1) |
+| `S15-r1189` | cap-18.md:183–185 | 188 | Interludio tipográfico de registro R-1189 (Ap. A, elementos estructurales) |
+| `S19-palma` | cap-23.md:197 | 245 | La palma en el cristal tibio (tabla 5.1) |
+| `S21-inevitables` | cap-25.md:153 | 17 | Línea suelta (Ap. A) |
+| `S25-utilidad` | cap-30.md:89 | 109 | Línea capital de EDDA (Ap. A) |
+| `S25-escalada` | cap-30.md:93–107 | 443 | Escalada interceptada (Ap. A) |
+| `S26-paso-uso` | cap-32.md:119 | 94 | Línea suelta de Aslak (Ap. A) |
+| `S26-lata` | cap-32.md:83–87 | 294 | La lata de galletas de Aslak (tabla 5.1) |
+| `S27-conflicto` | cap-33.md:73 | 81 | Marca de agua CONFLICTO EMOCIONAL (tabla 5.1) |
+| `S28-cierre` | cap-34.md:199 | 28 | Cierre «…no lleguéis tarde» (tabla 5.1) |
+| `S29-cierre` | cap-35.md:215 | 17 | «Las necesarias.» como cierre (Ap. A) |
+| `S30-borrado` | cap-36.md:125–127 | 108 | Borrado a mitad de frase de La Jardinera (Ap. A) |
+| `S31-elegir` | cap-37.md:91–95 | 114 | «¿Quieres vivir?» «Quiero poder elegir. Es la primera vez.» (Ap. A) |
+| `S32-necesarias` | cap-38.md:19 | 159 | «Las necesarias» en la oferta (tabla 5.1) |
+| `S32-voz` | cap-38.md:127–147 | 1217 | Sesión del banco de voz de Mats (tabla 5.1) |
+| `S33-hueco` | cap-39.md:233 | 51 | El quinto hueco (tabla 5.1) |
+| `S36-cierre` | cap-42.md:193–195 | 107 | «NO AMENAZA» cierra igual (tabla 5.1) |
+| `S37-declaracion` | cap-43.md:93–105 | 488 | Declaración desde el POV de Jean (Ap. A) |
+| `S37-acta` | cap-43.md:149–191 | 2879 | Núcleo: «NO SOY UN MODELO.» hasta «…un fallo de escenario» (Ap. A) |
+| `S37-muchas` | cap-43.md:195 | 70 | Línea capital (Ap. A) |
+| `S38-nieve` | cap-44.md:161–171 | 442 | Muerte de Nieve, «Echo de menos hasta sus pausas» (Ap. A) |
+| `S38-huella` | cap-44.md:181–183 | 438 | Pasaje de la respiración/huella (Ap. A) |
+| `S38-quedarme` | cap-44.md:185–191 | 211 | Elección de quedarse (Ap. A) |
+| `S39-jueza` | cap-45.md:187 | 59 | La jueza (Ap. A) |
+| `S39-pluma` | cap-45.md:181–183 | 76 | La pluma del divorcio (Ap. A) |
+| `S40-caries` | cap-46.md:75 | 34 | Línea suelta (Ap. A) |
+| `S40-locutorio` | cap-46.md:107–123 | 1177 | El silencio de Jessie en el locutorio (tabla 5.1) |
 
 ## 3. Líneas sueltas protegidas (Ap. A: «muestra no exhaustiva; A1 completa la lista»)
 
@@ -86,14 +86,14 @@ Tabla completa de los 34 spans previos:
 |---|---|---|
 | «Última sesión.» | cap-01.md:45 | fichero íntegro |
 | «Estoy asustada.» | cap-03.md:83 | fichero íntegro |
-| «No digas que se fue. La gente se va a comprar pan. Mamá se mató. Empecemos por ahí.» | cap-09.md:143 | fichero íntegro |
-| «¿Eres mi madre?» «No toda.» | cap-23.md:189–191 | fichero íntegro |
-| «¿Quieres vivir?» «Quiero poder elegir. Es la primera vez.» | cap-31.md:91–95 | `S31-elegir` |
-| «Ser inevitables.» | cap-21.md:153 | `S21-inevitables` |
-| «Activo memorial. Qué hijos de puta.» | cap-23.md:21 | fichero íntegro |
-| «A nosotros nos quitaron paso y uso. A Jean le hicieron otra cosa.» | cap-26.md:119 | `S26-paso-uso` |
-| «No son caries. Son sombra. Sigue.» | cap-40.md:75 | `S40-caries` |
-| «Cronometrar el sol.» «Para que conste.» | cap-41.md:75–81 | fichero íntegro |
+| «No digas que se fue. La gente se va a comprar pan. Mamá se mató. Empecemos por ahí.» | cap-10.md:143 | fichero íntegro |
+| «¿Eres mi madre?» «No toda.» | cap-28.md:189–191 | fichero íntegro |
+| «¿Quieres vivir?» «Quiero poder elegir. Es la primera vez.» | cap-37.md:91–95 | `S31-elegir` |
+| «Ser inevitables.» | cap-25.md:153 | `S21-inevitables` |
+| «Activo memorial. Qué hijos de puta.» | cap-28.md:21 | fichero íntegro |
+| «A nosotros nos quitaron paso y uso. A Jean le hicieron otra cosa.» | cap-32.md:119 | `S26-paso-uso` |
+| «No son caries. Son sombra. Sigue.» | cap-46.md:75 | `S40-caries` |
+| «Cronometrar el sol.» «Para que conste.» | cap-48.md:75–81 | fichero íntegro |
 
 ### 3.2 Líneas sueltas añadidas por A1 (con span propio, salvo indicación)
 
@@ -104,47 +104,47 @@ Tabla completa de los 34 spans previos:
 | «Soy la esposa.» / «Ante el Estado todavía lo era.» | cap-06.md:149–153 | `S06-esposa` |
 | «Autorización — A. Armstrong» / «¿Qué has autorizado?» | cap-06.md:307–311 | `S06-autorizacion` |
 | `JEAN MARIE LARSSON` / `2014–2060` / `EVENTO SOCIAL — FUNERAL` | cap-07.md:221–229 | `S07-funeral` |
-| «—No soy un modelo.» «—Todavía no sabes cuántas somos.» | cap-08.md:87–89 | `S08-cierre` |
-| «Su cuenta ha sido suspendida temporalmente por su seguridad.» | cap-10.md:213 | `S10-suspendida` |
-| «Consciencia residual: indeterminado.» | cap-11.md:307 | `S11-consciencia` |
-| «Nora tardó un instante en entender que le temblaban los dedos.» | cap-12.md:151 | `S12-temblor` |
-| «Si me pasa algo, buscad NIDHOGG.» | cap-12.md:317 | `S12-nidhogg` |
-| «—Otra vez, más despacio.» (Madre, `JM-L/0007`) | cap-13.md:29–31 | `S13-madre` |
-| «—No me fusiones.» … «—Eso basta.» (Nieve) | cap-13.md:131–151 | `S13-nieve` |
-| «—Que Armstrong sufra.» | cap-13.md:187 | `S13-sufra` |
-| «Conservamos a nuestra hija Nora.» … «—Y decido distinto.» «—Por ahora.» | cap-13.md:263–271 | `S13-coro-nora` |
-| «—Propiedad intelectual. Así la llaman.» | cap-16.md:259 | `S16-propiedad` |
-| «—Que alguien haga la pregunta adecuada.» | cap-16.md:61–63 | `S16-inger` |
-| «—Testimonio —dice Jean.» … «—Que pueda negarse.» | cap-17.md:147–155 | `S17-testigo` |
-| «Nora elegirá la próxima variación.» | cap-17.md:169 | `S17-nora` |
-| «—Son dedos. El uno es el pulgar. El cinco, el meñique.» | cap-18.md:51 | `S18-dedos` |
-| «—He dicho «era ella». Me he adelantado.» | cap-18.md:149 | `S18-adelantado` |
-| «—Tráigame algo reproducible.» | cap-18.md:165 | `S18-reproducible` |
-| «Alana apoyó la palma en el cristal. Tibio.» + «—La instancia procesa.» | cap-19.md:191–197 | `S19-procesa` + `S19-palma` |
-| «—Nora eligió una nota. No un portavoz. No respondáis por `/0000`.» | cap-21.md:67 | `S21-portavoz` |
-| «—¿Para qué necesita un moderador saber el aula de una menor?» | cap-22.md:213 | `S22-aula` |
-| «Once segundos en blanco en la percepción.» | cap-24.md:45 | `S24-once` |
-| «lo deslizó entre los carnés caducados y cerró el broche.» | cap-24.md:217 | `S24-cierre` |
-| «—El original no sale de aquí. … La asociación decidirá lo suyo.» | cap-26.md:121 | `S26-asociacion` |
-| «—La bocana de Sørkoppen queda reservada por operaciones para el veintiuno de enero.» | cap-26.md:191 | `S26-bocana` |
-| «En la etiqueta escribió POR SI HACE FALTA.» | cap-27.md:153 | `S27-por-si` |
-| «El vocabulario había cambiado poco desde 2054. Astrid esperó entonces una reproducción que nunca llegó y archivó el caso.» | cap-29.md:111 | `S29-2054` |
-| «Si no puedo llegar antes, llegaré durante.» | cap-29.md:211 | `S29-durante` |
-| «Telegrafbukta no alcanza para todas las que la recuerdan.» | cap-30.md:15 | `S30-apertura` |
-| «Nora tachó `SACAR A JEAN`, escribió `PREGUNTAR ANTES DE ACTIVAR` y dejó `VIVIR` fuera del cuaderno.» | cap-31.md:97 | `S31-sacar` |
-| «—Si algo sale mal, que Nora termine la canción igual.» | cap-31.md:233 | `S31-cancion` |
-| «PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO.» | cap-32.md:97 | `S32-amenaza` |
-| «Aceptamos. Nosotras siempre cumplimos nuestras condiciones.» | cap-32.md:207 | `S32-cierre` |
-| «—Retiro el destino del Auditorio. Todavía quiero que sufran —dice Cuchillo.» … «—Seguiré queriéndolo.» | cap-36.md:175–179 | `S36-retiro` |
-| «—Ahora, la llave.» | cap-37.md:219 | `S37-llave` |
-| «—No autorizo fusión, apropiación, representación ni uso.» / «—No me uséis para justificar nada.» | cap-38.md:149–153 | `S38-no-autorizo` |
-| «Respondo con la quinta nota.» | cap-38.md:213 | `S38-quinta` |
-| «—Sí. Ese retraso no me hace dueña de Jean.» | cap-39.md:69–71 | `S39-divorcio` |
-| «El auto dejó en blanco al ejecutor y al ordenante individuales.» | cap-39.md:103 | `S39-ordenante` |
-| «—Una ausencia registrada.» / «—El registro no puede decirlo.» | cap-39.md:157–163 | `S39-ausencia` |
-| «Astrid dejó en blanco la casilla de definición jurídica y firmó la cadena de custodia.» | cap-39.md:189 | `S39-casilla` |
-| «Una tarde encontró otra vez únicamente el nombre `Despedida`. No abrió el archivo. …» | cap-40.md:133 | `S40-despedida` |
-| «—No voy a venir a la primera apertura —dijo.» … «marcó «asistiré» en la convocatoria del día siguiente.» | cap-40.md:183–185 | `S40-cierre` |
+| «—No soy un modelo.» «—Todavía no sabes cuántas somos.» | cap-09.md:87–89 | `S08-cierre` |
+| «Su cuenta ha sido suspendida temporalmente por su seguridad.» | cap-12.md:213 | `S10-suspendida` |
+| «Consciencia residual: indeterminado.» | cap-13.md:307 | `S11-consciencia` |
+| «Nora tardó un instante en entender que le temblaban los dedos.» | cap-14.md:151 | `S12-temblor` |
+| «Si me pasa algo, buscad NIDHOGG.» | cap-14.md:317 | `S12-nidhogg` |
+| «—Otra vez, más despacio.» (Madre, `JM-L/0007`) | cap-15.md:29–31 | `S13-madre` |
+| «—No me fusiones.» … «—Eso basta.» (Nieve) | cap-15.md:131–151 | `S13-nieve` |
+| «—Que Armstrong sufra.» | cap-15.md:187 | `S13-sufra` |
+| «Conservamos a nuestra hija Nora.» … «—Y decido distinto.» «—Por ahora.» | cap-15.md:263–271 | `S13-coro-nora` |
+| «—Propiedad intelectual. Así la llaman.» | cap-19.md:259 | `S16-propiedad` |
+| «—Que alguien haga la pregunta adecuada.» | cap-19.md:61–63 | `S16-inger` |
+| «—Testimonio —dice Jean.» … «—Que pueda negarse.» | cap-21.md:147–155 | `S17-testigo` |
+| «Nora elegirá la próxima variación.» | cap-21.md:169 | `S17-nora` |
+| «—Son dedos. El uno es el pulgar. El cinco, el meñique.» | cap-22.md:51 | `S18-dedos` |
+| «—He dicho «era ella». Me he adelantado.» | cap-22.md:149 | `S18-adelantado` |
+| «—Tráigame algo reproducible.» | cap-22.md:165 | `S18-reproducible` |
+| «Alana apoyó la palma en el cristal. Tibio.» + «—La instancia procesa.» | cap-23.md:191–197 | `S19-procesa` + `S19-palma` |
+| «—Nora eligió una nota. No un portavoz. No respondáis por `/0000`.» | cap-25.md:67 | `S21-portavoz` |
+| «—¿Para qué necesita un moderador saber el aula de una menor?» | cap-26.md:213 | `S22-aula` |
+| «Once segundos en blanco en la percepción.» | cap-29.md:45 | `S24-once` |
+| «lo deslizó entre los carnés caducados y cerró el broche.» | cap-29.md:217 | `S24-cierre` |
+| «—El original no sale de aquí. … La asociación decidirá lo suyo.» | cap-32.md:121 | `S26-asociacion` |
+| «—La bocana de Sørkoppen queda reservada por operaciones para el veintiuno de enero.» | cap-32.md:191 | `S26-bocana` |
+| «En la etiqueta escribió POR SI HACE FALTA.» | cap-33.md:153 | `S27-por-si` |
+| «El vocabulario había cambiado poco desde 2054. Astrid esperó entonces una reproducción que nunca llegó y archivó el caso.» | cap-35.md:111 | `S29-2054` |
+| «Si no puedo llegar antes, llegaré durante.» | cap-35.md:211 | `S29-durante` |
+| «Telegrafbukta no alcanza para todas las que la recuerdan.» | cap-36.md:15 | `S30-apertura` |
+| «Nora tachó `SACAR A JEAN`, escribió `PREGUNTAR ANTES DE ACTIVAR` y dejó `VIVIR` fuera del cuaderno.» | cap-37.md:97 | `S31-sacar` |
+| «—Si algo sale mal, que Nora termine la canción igual.» | cap-37.md:233 | `S31-cancion` |
+| «PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO.» | cap-38.md:97 | `S32-amenaza` |
+| «Aceptamos. Nosotras siempre cumplimos nuestras condiciones.» | cap-38.md:207 | `S32-cierre` |
+| «—Retiro el destino del Auditorio. Todavía quiero que sufran —dice Cuchillo.» … «—Seguiré queriéndolo.» | cap-42.md:175–179 | `S36-retiro` |
+| «—Ahora, la llave.» | cap-43.md:219 | `S37-llave` |
+| «—No autorizo fusión, apropiación, representación ni uso.» / «—No me uséis para justificar nada.» | cap-44.md:149–153 | `S38-no-autorizo` |
+| «Respondo con la quinta nota.» | cap-44.md:213 | `S38-quinta` |
+| «—Sí. Ese retraso no me hace dueña de Jean.» | cap-45.md:69–71 | `S39-divorcio` |
+| «El auto dejó en blanco al ejecutor y al ordenante individuales.» | cap-45.md:103 | `S39-ordenante` |
+| «—Una ausencia registrada.» / «—El registro no puede decirlo.» | cap-45.md:157–163 | `S39-ausencia` |
+| «Astrid dejó en blanco la casilla de definición jurídica y firmó la cadena de custodia.» | cap-45.md:189 | `S39-casilla` |
+| «Una tarde encontró otra vez únicamente el nombre `Despedida`. No abrió el archivo. …» | cap-46.md:133 | `S40-despedida` |
+| «—No voy a venir a la primera apertura —dijo.» … «marcó «asistiré» en la convocatoria del día siguiente.» | cap-46.md:183–185 | `S40-cierre` |
 
 Líneas de calidad **no** protegidas por span porque están en ficheros íntegros o porque su protección frenaría una expansión prevista (se listan para A4/A6, sin hash): «Serán unas vacaciones muy largas.» (3:369); «Lo intentaba. Me ha salido gestión.» (3:303); «Ni se te ocurra.» (9:41); «Vale. Es raro.» (10:87); «Que sea Jean… No. Solo…» (14:225); «Ahora vas a hacer lo difícil. Vas a esperar.» (16:247); «Perdón. No quería decirlo así.» (18:197); «Algo no es alguien.» (20:67); «Cada uno de ustedes puede impedir algo. Sigo buscando quién puede hacerlo.» (39:47); «Jean ha tardado.» / «El registro ya tiene la demora.» (40:85–87).
 
@@ -223,74 +223,74 @@ Añadidos al final del array `spans` de `protegidos/spans.json` sin alterar ning
 | `S06-ventana` | cap-06.md:277–289 | 270 | plantado (CH-7) | «Ventana» clínica oída en el hospital (CH-7, plantado pagado en 11 y 20) |
 | `S06-autorizacion` | cap-06.md:307–311 | 181 | cierre de capítulo · plantado | Cierre del cap. 6: 03:14 / Autorización — A. Armstrong / «¿Qué has autorizado?» (plantado pagado en 11, 14, 16, 20, 27) |
 | `S07-funeral` | cap-07.md:221–229 | 162 | cierre de capítulo | Cierre del cap. 7: Jean reconoce su funeral en el flujo de moderación |
-| `S08-7c` | cap-08.md:45 | 25 | ancla de canon (7C) | Código 7C: enlaza la ventana de Jean con EXT/NIDHOGG/7C (16:39, 18:87). Ancla de continuidad para la RW del 8 |
-| `S08-conservar` | cap-08.md:71–75 | 90 | núcleo del capítulo (RW) | La decisión demostrativa del cap. 8: conservar la procedencia no resuelta (RW: la regla debe sobrevivir) |
-| `S08-cierre` | cap-08.md:87–89 | 52 | cierre de capítulo · plantado (CH-19) | Cierre del cap. 8: siembra de 37 («NO SOY UN MODELO») y de la pluralidad (13, 23, 37, 38) |
-| `S10-conservar` | cap-10.md:119 | 120 | método de Nora | Método de Nora: «conservar resultados contrarios» (arco pagado en 22 y 40) |
-| `S10-suspendida` | cap-10.md:213 | 62 | cierre de capítulo · plantado (CH-27) | Cierre del cap. 10: cuenta de Nora suspendida (plantado: 11, 12, 14; N2/N4) |
-| `S11-consciencia` | cap-11.md:307 | 36 | cierre · ambigüedad Ap. A §3 | Cierre del cap. 11: ambigüedad ontológica protegida (Ap. A §3) |
-| `S12-temblor` | cap-12.md:151 | 133 | tabla 5.1 «intacto» | El temblor de dedos como dato central (tabla 5.1, cap. 12) |
-| `S12-nidhogg` | cap-12.md:317 | 32 | cierre · plantado (CH-22) | Cierre del cap. 12: mensaje programado de Gunnar (pagado en 14, 16, 18, 19) |
-| `S13-madre` | cap-13.md:29–31 | 37 | voz (RW del 13) | Presentación de Madre: identificador y fórmula (RW del 13: identidad de la voz intacta) |
-| `S13-nieve` | cap-13.md:131–151 | 463 | voz · plantado (CH-60) | Las condiciones de Nieve y la promesa de Jean («Si vuelvo a encontrarte, te preguntaré otra vez»), pagadas en 38 |
-| `S13-sufra` | cap-13.md:187 | 21 | voz (RW del 13) | Presentación de Cuchillo (arco pagado en 15, 17, 30, 36, 38) |
-| `S13-coro-nora` | cap-13.md:263–271 | 214 | voz · plantado (CH-61) | Coro reclama a Nora; «Y decido distinto. —Por ahora.» (pagado en 21:45–67) |
-| `S14-cita` | cap-14.md:149 | 121 | ancla de N1 (CH-46) · «Despedida» | Mención retrospectiva de la primera cita de apoyo (ancla de N1) y de «Despedida» sin abrir |
-| `S15-objecion` | cap-15.md:151–161 | 251 | plantado (CH-3) | La objeción NO bajo /0000 sobre 71-K (CH-3) |
-| `S16-inger` | cap-16.md:61–63 | 68 | tabla 5.1 (+Inger) | Riesgo personal de Inger (semilla del beat +Inger de la tabla 5.1) |
-| `S16-7c` | cap-16.md:39 | 96 | ancla de canon (7C) | Acuse EXT/NIDHOGG/7C en la exportación de UNN (canon: enlaza 8:45 y 18:87) |
-| `S16-propiedad` | cap-16.md:259 | 38 | cierre de capítulo · título P3 | Cierre del cap. 16 (título de la Parte III; B0-D1) |
-| `S17-testigo` | cap-17.md:147–155 | 134 | plantado (CH-58) | Definición de testimonio/testigo (siembra de la asamblea del 30 y de la firma del 37) |
-| `S17-nora` | cap-17.md:169 | 34 | plantado (CH-14) | Siembra de la cuarta nota (pagado en 20) |
-| `S17-71k` | cap-17.md:197 | 37 | plantado (CH-3) | Estado del expediente 71-K (CH-3: cierre implícito) |
-| `S18-dedos` | cap-18.md:51 | 54 | núcleo · tabla 5.1 (llave MIDI) | La llave MIDI como digitación (núcleo del hallazgo de Nora; la justificación diegética se AÑADE alrededor) |
-| `S18-adelantado` | cap-18.md:149 | 39 | voz Ap. C | Rasgo de voz de Nora (Ap. C: «Me he adelantado») ante Astrid |
-| `S18-reproducible` | cap-18.md:165 | 28 | línea de Astrid | Astrid: criterio de prueba (pagado en 20, 22, 23, 29) |
-| `S19-gofre` | cap-19.md:25 | 284 | plantado (CH-12) · Carta F | El gofre que nadie encontró mordido; el informe que Alana no termina de leer (Carta F: no ampliar el trayecto) |
-| `S19-reflexiva` | cap-19.md:129 | 157 | plantado (CH-31) | VENTANA REFLEXIVA · CERRADA (plantado; R2 del backlog) |
-| `S19-anos-jm` | cap-19.md:143 | 60 | métrica (CH-50) | Métrica del horror, primer valor (979,7 → 2.401,6 → 2.427,4) |
-| `S19-procesa` | cap-19.md:191–195 | 58 | antesala de S19-palma | «La instancia procesa» (antesala de la palma en el cristal) |
-| `S21-notas` | cap-21.md:75–77 | 73 | plantado (CH-14) | Registro interior de la cuarta nota (Jean conserva la relación tercera→cuarta) |
-| `S21-portavoz` | cap-21.md:67 | 65 | línea de Jean | Jean niega a Coro la representación de Nora |
-| `S22-flecha` | cap-22.md:147–149 | 224 | método de Nora (CH-51) | Nora invalida su propia flecha (método: conservar resultados contrarios) |
-| `S22-aula` | cap-22.md:213 | 60 | cierre de capítulo | Cierre del cap. 22 |
-| `S24-once` | cap-24.md:45 | 41 | plantado (CH-68) | Los once segundos (pagados en 32:105, 34, 39:101) |
-| `S24-cierre` | cap-24.md:217 | 229 | cierre · plantado (CH-6/CH-16) | Cierre del cap. 24: el carné vigente entre los caducados (CH-6; pagado como llave en 34–35) |
-| `S25-fecha` | cap-25.md:203 | 41 | ancla M7 | Fecha del despliegue obtenida por Jean (M7) |
-| `S26-asociacion` | cap-26.md:121 | 128 | agenda de Aslak (CH-26) | Agenda propia de Aslak / kystbrukslag (test no-instrumental; N6) |
-| `S26-bocana` | cap-26.md:191 | 83 | cierre · ancla M7 (CH-72) | Cierre del cap. 26 (aviso VHF; M7) |
-| `S27-norna` | cap-27.md:117–119 | 110 | plantado (CH-10/CH-40) | Redescubrimiento de NORNA en el ladrillo (CH-10: 1→27→31→38) |
-| `S27-por-si` | cap-27.md:153 | 42 | plantado (CH-41) | La confesión cifrada de Alana (pagada en 29, 31, 34, 37) |
-| `S29-orden` | cap-29.md:23 | 71 | ancla M7 | La orden de consolidación: fecha y hora (M7) |
-| `S29-2054` | cap-29.md:111 | 121 | plantado (CH-5) | El caso archivado de 2054 (CH-5; se expande en 22, no se altera aquí) |
-| `S29-durante` | cap-29.md:211 | 42 | plantado (CH-70) | Astrid prepara el acta del Soldagen (pagado en 34, 37) |
-| `S30-apertura` | cap-30.md:15 | 57 | geografía (RW del 30) | Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla) |
-| `S30-resultado` | cap-30.md:211 | 37 | resultado de la votación (RW del 30) | Resultado de la votación (RW: intacto) |
-| `S31-sacar` | cap-31.md:97 | 99 | plantado (CH-32) | Renuncia al «rescate» (pagado en 38: «Elijo quedarme») |
-| `S31-cancion` | cap-31.md:233 | 53 | plantado (CH-67) | Última frase de Jean en el ladrillo (pagado en 37, 40, 41) |
-| `S32-amenaza` | cap-32.md:97 | 42 | plantado (CH-1) | Amenaza de Coro a la familia (CH-1; N4 se construye alrededor, no encima) |
-| `S32-cierre` | cap-32.md:207 | 59 | cierre de capítulo | Cierre del cap. 32 |
-| `S34-cohorte` | cap-34.md:85–91 | 110 | aritmética M7 | Aritmética de la consolidación (M7) |
-| `S34-anos-jm` | cap-34.md:97–99 | 60 | métrica (CH-50) | Métrica del horror, segundo valor |
-| `S34-cierre` | cap-34.md:311–313 | 87 | cierre · hora del clímax | Cierre del cap. 34 (hora del clímax, M7) |
-| `S35-acepta` | cap-35.md:211–213 | 191 | tabla 5.1 (Tomas visto desde fuera) | Aceptación nominal de Tomas, vista desde fuera (tabla 5.1, cap. 35) |
-| `S35-cierre` | cap-35.md:277–279 | 66 | cierre · hora del clímax | Cierre del cap. 35 (hora del clímax, M7) |
-| `S36-retiro` | cap-36.md:175–179 | 107 | pago del arco de Cuchillo (CH-59) | Cuchillo retira el ataque sin renunciar a la furia (pago del arco 13→36) |
-| `S37-597` | cap-37.md:87 | 282 | aritmética M7 | Las 597 ramas y las tres separadas (aritmética de 38; M7) |
-| `S37-1307` | cap-37.md:203 | 40 | hora del clímax | Hora del clímax (M7) |
-| `S37-llave` | cap-37.md:219 | 17 | cierre de capítulo | Cierre del cap. 37 (retomado en 38:15) |
-| `S38-anos-jm` | cap-38.md:65–67 | 212 | métrica (CH-50) | Métrica del horror, tercer valor, y su glosa |
-| `S38-aritmetica` | cap-38.md:79 | 91 | aritmética M7 | Aritmética de cohorte (M7) |
-| `S38-no-autorizo` | cap-38.md:149–153 | 119 | núcleo (Nieve) · CH-60 | Última negativa de Nieve (paga las condiciones de 13; precede a S38-nieve) |
-| `S38-quinta` | cap-38.md:205–213 | 302 | cierre · hora del clímax · CH-15 | Cierre del cap. 38: 13:11 y la quinta nota (paga 20:305 «Nadie tocó la quinta») |
-| `S39-divorcio` | cap-39.md:69–71 | 90 | voz de Maja · CH-30 | Maja ante la jueza (voz Ap. C; N3 no debe contradecirlo) |
-| `S39-ordenante` | cap-39.md:103 | 63 | ambigüedad Ap. A §3 | Ambigüedad protegida: el ordenante del sabotaje (Ap. A §3; T2 refuerza 1 beat alrededor) |
-| `S39-ausencia` | cap-39.md:157–163 | 141 | ambigüedad Ap. A §3 | Ambigüedad protegida: qué significa una ausencia de salida (Ap. A §3) |
-| `S39-casilla` | cap-39.md:189 | 86 | ambigüedad Ap. A §3 | Ambigüedad protegida: definición jurídica en blanco (persona/consciencia/propiedad) |
-| `S40-despedida` | cap-40.md:133 | 158 | pago CH-11 · Carta F | Pago de «Despedida» como negativa (CH-11; Carta F) |
-| `S40-cierre` | cap-40.md:183–185 | 320 | cierre de capítulo | Cierre del cap. 40: Nora elige el ensayo con vivos |
-| `S18-noticia` | cap-18.md:173–177 | 610 | tabla 5.1 «muerte de Gunnar intacta» | La noticia de la muerte de Gunnar (tabla 5.1, cap. 18: «la muerte de Gunnar intacta») |
-| `S22-dahl` | cap-22.md:51–57 | 486 | tabla 5.1 «pasillo de Dahl intacto» | El pasillo de Dahl (tabla 5.1, cap. 22: «pasillo de Dahl intacto») |
+| `S08-7c` | cap-09.md:45 | 25 | ancla de canon (7C) | Código 7C: enlaza la ventana de Jean con EXT/NIDHOGG/7C (16:39, 18:87). Ancla de continuidad para la RW del 8 |
+| `S08-conservar` | cap-09.md:71–75 | 90 | núcleo del capítulo (RW) | La decisión demostrativa del cap. 8: conservar la procedencia no resuelta (RW: la regla debe sobrevivir) |
+| `S08-cierre` | cap-09.md:87–89 | 52 | cierre de capítulo · plantado (CH-19) | Cierre del cap. 8: siembra de 37 («NO SOY UN MODELO») y de la pluralidad (13, 23, 37, 38) |
+| `S10-conservar` | cap-12.md:119 | 120 | método de Nora | Método de Nora: «conservar resultados contrarios» (arco pagado en 22 y 40) |
+| `S10-suspendida` | cap-12.md:213 | 62 | cierre de capítulo · plantado (CH-27) | Cierre del cap. 10: cuenta de Nora suspendida (plantado: 11, 12, 14; N2/N4) |
+| `S11-consciencia` | cap-13.md:307 | 36 | cierre · ambigüedad Ap. A §3 | Cierre del cap. 11: ambigüedad ontológica protegida (Ap. A §3) |
+| `S12-temblor` | cap-14.md:151 | 133 | tabla 5.1 «intacto» | El temblor de dedos como dato central (tabla 5.1, cap. 12) |
+| `S12-nidhogg` | cap-14.md:317 | 32 | cierre · plantado (CH-22) | Cierre del cap. 12: mensaje programado de Gunnar (pagado en 14, 16, 18, 19) |
+| `S13-madre` | cap-15.md:29–31 | 37 | voz (RW del 13) | Presentación de Madre: identificador y fórmula (RW del 13: identidad de la voz intacta) |
+| `S13-nieve` | cap-15.md:131–151 | 463 | voz · plantado (CH-60) | Las condiciones de Nieve y la promesa de Jean («Si vuelvo a encontrarte, te preguntaré otra vez»), pagadas en 38 |
+| `S13-sufra` | cap-15.md:187 | 21 | voz (RW del 13) | Presentación de Cuchillo (arco pagado en 15, 17, 30, 36, 38) |
+| `S13-coro-nora` | cap-15.md:263–271 | 214 | voz · plantado (CH-61) | Coro reclama a Nora; «Y decido distinto. —Por ahora.» (pagado en 21:45–67) |
+| `S14-cita` | cap-16.md:149 | 121 | ancla de N1 (CH-46) · «Despedida» | Mención retrospectiva de la primera cita de apoyo (ancla de N1) y de «Despedida» sin abrir |
+| `S15-objecion` | cap-18.md:151–161 | 251 | plantado (CH-3) | La objeción NO bajo /0000 sobre 71-K (CH-3) |
+| `S16-inger` | cap-19.md:61–63 | 68 | tabla 5.1 (+Inger) | Riesgo personal de Inger (semilla del beat +Inger de la tabla 5.1) |
+| `S16-7c` | cap-19.md:39 | 96 | ancla de canon (7C) | Acuse EXT/NIDHOGG/7C en la exportación de UNN (canon: enlaza 8:45 y 18:87) |
+| `S16-propiedad` | cap-19.md:259 | 38 | cierre de capítulo · título P3 | Cierre del cap. 16 (título de la Parte III; B0-D1) |
+| `S17-testigo` | cap-21.md:147–155 | 134 | plantado (CH-58) | Definición de testimonio/testigo (siembra de la asamblea del 30 y de la firma del 37) |
+| `S17-nora` | cap-21.md:169 | 34 | plantado (CH-14) | Siembra de la cuarta nota (pagado en 20) |
+| `S17-71k` | cap-21.md:197 | 37 | plantado (CH-3) | Estado del expediente 71-K (CH-3: cierre implícito) |
+| `S18-dedos` | cap-22.md:51 | 54 | núcleo · tabla 5.1 (llave MIDI) | La llave MIDI como digitación (núcleo del hallazgo de Nora; la justificación diegética se AÑADE alrededor) |
+| `S18-adelantado` | cap-22.md:149 | 39 | voz Ap. C | Rasgo de voz de Nora (Ap. C: «Me he adelantado») ante Astrid |
+| `S18-reproducible` | cap-22.md:165 | 28 | línea de Astrid | Astrid: criterio de prueba (pagado en 20, 22, 23, 29) |
+| `S19-gofre` | cap-23.md:25 | 284 | plantado (CH-12) · Carta F | El gofre que nadie encontró mordido; el informe que Alana no termina de leer (Carta F: no ampliar el trayecto) |
+| `S19-reflexiva` | cap-23.md:129 | 157 | plantado (CH-31) | VENTANA REFLEXIVA · CERRADA (plantado; R2 del backlog) |
+| `S19-anos-jm` | cap-23.md:143 | 60 | métrica (CH-50) | Métrica del horror, primer valor (979,7 → 2.401,6 → 2.427,4) |
+| `S19-procesa` | cap-23.md:191–195 | 58 | antesala de S19-palma | «La instancia procesa» (antesala de la palma en el cristal) |
+| `S21-notas` | cap-25.md:75–77 | 73 | plantado (CH-14) | Registro interior de la cuarta nota (Jean conserva la relación tercera→cuarta) |
+| `S21-portavoz` | cap-25.md:67 | 65 | línea de Jean | Jean niega a Coro la representación de Nora |
+| `S22-flecha` | cap-26.md:147–149 | 224 | método de Nora (CH-51) | Nora invalida su propia flecha (método: conservar resultados contrarios) |
+| `S22-aula` | cap-26.md:213 | 60 | cierre de capítulo | Cierre del cap. 22 |
+| `S24-once` | cap-29.md:45 | 41 | plantado (CH-68) | Los once segundos (pagados en 32:105, 34, 39:101) |
+| `S24-cierre` | cap-29.md:217 | 229 | cierre · plantado (CH-6/CH-16) | Cierre del cap. 24: el carné vigente entre los caducados (CH-6; pagado como llave en 34–35) |
+| `S25-fecha` | cap-30.md:203 | 41 | ancla M7 | Fecha del despliegue obtenida por Jean (M7) |
+| `S26-asociacion` | cap-32.md:121 | 128 | agenda de Aslak (CH-26) | Agenda propia de Aslak / kystbrukslag (test no-instrumental; N6) |
+| `S26-bocana` | cap-32.md:191 | 83 | cierre · ancla M7 (CH-72) | Cierre del cap. 26 (aviso VHF; M7) |
+| `S27-norna` | cap-33.md:117–119 | 110 | plantado (CH-10/CH-40) | Redescubrimiento de NORNA en el ladrillo (CH-10: 1→27→31→38) |
+| `S27-por-si` | cap-33.md:153 | 42 | plantado (CH-41) | La confesión cifrada de Alana (pagada en 29, 31, 34, 37) |
+| `S29-orden` | cap-35.md:23 | 71 | ancla M7 | La orden de consolidación: fecha y hora (M7) |
+| `S29-2054` | cap-35.md:111 | 121 | plantado (CH-5) | El caso archivado de 2054 (CH-5; se expande en 22, no se altera aquí) |
+| `S29-durante` | cap-35.md:211 | 42 | plantado (CH-70) | Astrid prepara el acta del Soldagen (pagado en 34, 37) |
+| `S30-apertura` | cap-36.md:15 | 57 | geografía (RW del 30) | Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla) |
+| `S30-resultado` | cap-36.md:211 | 37 | resultado de la votación (RW del 30) | Resultado de la votación (RW: intacto) |
+| `S31-sacar` | cap-37.md:97 | 99 | plantado (CH-32) | Renuncia al «rescate» (pagado en 38: «Elijo quedarme») |
+| `S31-cancion` | cap-37.md:233 | 53 | plantado (CH-67) | Última frase de Jean en el ladrillo (pagado en 37, 40, 41) |
+| `S32-amenaza` | cap-38.md:97 | 42 | plantado (CH-1) | Amenaza de Coro a la familia (CH-1; N4 se construye alrededor, no encima) |
+| `S32-cierre` | cap-38.md:207 | 59 | cierre de capítulo | Cierre del cap. 32 |
+| `S34-cohorte` | cap-40.md:85–91 | 110 | aritmética M7 | Aritmética de la consolidación (M7) |
+| `S34-anos-jm` | cap-40.md:97–99 | 60 | métrica (CH-50) | Métrica del horror, segundo valor |
+| `S34-cierre` | cap-40.md:311–313 | 87 | cierre · hora del clímax | Cierre del cap. 34 (hora del clímax, M7) |
+| `S35-acepta` | cap-41.md:211–213 | 191 | tabla 5.1 (Tomas visto desde fuera) | Aceptación nominal de Tomas, vista desde fuera (tabla 5.1, cap. 35) |
+| `S35-cierre` | cap-41.md:277–279 | 66 | cierre · hora del clímax | Cierre del cap. 35 (hora del clímax, M7) |
+| `S36-retiro` | cap-42.md:175–179 | 107 | pago del arco de Cuchillo (CH-59) | Cuchillo retira el ataque sin renunciar a la furia (pago del arco 13→36) |
+| `S37-597` | cap-43.md:87 | 282 | aritmética M7 | Las 597 ramas y las tres separadas (aritmética de 38; M7) |
+| `S37-1307` | cap-43.md:203 | 40 | hora del clímax | Hora del clímax (M7) |
+| `S37-llave` | cap-43.md:219 | 17 | cierre de capítulo | Cierre del cap. 37 (retomado en 38:15) |
+| `S38-anos-jm` | cap-44.md:65–67 | 212 | métrica (CH-50) | Métrica del horror, tercer valor, y su glosa |
+| `S38-aritmetica` | cap-44.md:79 | 91 | aritmética M7 | Aritmética de cohorte (M7) |
+| `S38-no-autorizo` | cap-44.md:149–153 | 119 | núcleo (Nieve) · CH-60 | Última negativa de Nieve (paga las condiciones de 13; precede a S38-nieve) |
+| `S38-quinta` | cap-44.md:205–213 | 302 | cierre · hora del clímax · CH-15 | Cierre del cap. 38: 13:11 y la quinta nota (paga 20:305 «Nadie tocó la quinta») |
+| `S39-divorcio` | cap-45.md:69–71 | 90 | voz de Maja · CH-30 | Maja ante la jueza (voz Ap. C; N3 no debe contradecirlo) |
+| `S39-ordenante` | cap-45.md:103 | 63 | ambigüedad Ap. A §3 | Ambigüedad protegida: el ordenante del sabotaje (Ap. A §3; T2 refuerza 1 beat alrededor) |
+| `S39-ausencia` | cap-45.md:157–163 | 141 | ambigüedad Ap. A §3 | Ambigüedad protegida: qué significa una ausencia de salida (Ap. A §3) |
+| `S39-casilla` | cap-45.md:189 | 86 | ambigüedad Ap. A §3 | Ambigüedad protegida: definición jurídica en blanco (persona/consciencia/propiedad) |
+| `S40-despedida` | cap-46.md:133 | 158 | pago CH-11 · Carta F | Pago de «Despedida» como negativa (CH-11; Carta F) |
+| `S40-cierre` | cap-46.md:183–185 | 320 | cierre de capítulo | Cierre del cap. 40: Nora elige el ensayo con vivos |
+| `S18-noticia` | cap-22.md:173–177 | 610 | tabla 5.1 «muerte de Gunnar intacta» | La noticia de la muerte de Gunnar (tabla 5.1, cap. 18: «la muerte de Gunnar intacta») |
+| `S22-dahl` | cap-26.md:51–57 | 486 | tabla 5.1 «pasillo de Dahl intacto» | El pasillo de Dahl (tabla 5.1, cap. 22: «pasillo de Dahl intacto») |
 
 Criterio de selección: (a) toda «línea suelta» cuya pérdida dañaría el libro (Ap. A: «A1 completa la lista»); (b) plantados y pagos frágiles del ledger B4 (una sola línea sostiene la deuda o el pago); (c) anclas M7 y de canon (fechas, horas, cifras, códigos 7C/NORNA/AÑOS-JM); (d) ambigüedades del Ap. A §3; (e) criterios «intacto» de la tabla 5.1 aún sin span; (f) cierres de capítulo que otras partes del libro retoman. Se ha evitado proteger párrafos donde el plan prevé insertar (35:259–279 para CH-4; 26:15–17 para el ripple de N4; 40:167–173 para R3; 32:93–103 salvo la línea 97; 24 salvo su cierre). En los tres capítulos RW (8, 13, 30) solo se protegen líneas de identidad/regla/geografía, no párrafos.
 
@@ -314,22 +314,22 @@ Cierres de escena o de capítulo sobre objeto inanimado que A1 considera de máx
 | 1 | «La corona se balanceó una sola vez en el gancho y quedó quieta.» | cap-01.md:85 | fichero íntegro (citado por la crítica) |
 | 2 | «El gofre siguió sin abrir en su bolsillo.» | cap-04.md:79 | fichero íntegro |
 | 3 | «La bisagra volvió a atascarse cuando intentó cerrar.» | cap-04.md:123 | fichero íntegro (rima con 41:109) |
-| 4 | «El nombre seguía allí, intacto, insoportable. La apagó otra vez.» | cap-09.md:59 | fichero íntegro |
-| 5 | «Maja condujo con la credencial apagada en el hueco junto al freno y la huella de las uñas aún marcada en la palma.» | cap-20.md:219 | fichero íntegro |
-| 6 | «Las cifras rojas conservaron los cuatro minutos que el corte les había quitado.» | cap-23.md:307 | fichero íntegro |
-| 7 | «La puerta rozó una vez más antes de cerrar.» | cap-41.md:109 | fichero íntegro (citado por la crítica) |
+| 4 | «El nombre seguía allí, intacto, insoportable. La apagó otra vez.» | cap-10.md:59 | fichero íntegro |
+| 5 | «Maja condujo con la credencial apagada en el hueco junto al freno y la huella de las uñas aún marcada en la palma.» | cap-24.md:219 | fichero íntegro |
+| 6 | «Las cifras rojas conservaron los cuatro minutos que el corte les había quitado.» | cap-28.md:307 | fichero íntegro |
+| 7 | «La puerta rozó una vez más antes de cerrar.» | cap-48.md:109 | fichero íntegro (citado por la crítica) |
 | 8 | «Terminó la llamada. La nevera seguía pitando.» | cap-06.md:31 | `S06-llamada` |
 | 9 | «Al salir dejó sobre la mesa la etiqueta incompleta y el rotulador destapado.» | cap-02.md:223 | sin span |
-| 10 | «El papel de la bolsa crujió al enfriarse.» | cap-14.md:291 | sin span |
-| 11 | «El cursor permanecía inmóvil detrás de *retenida*.» | cap-18.md:89 | sin span |
-| 12 | «Cuando lo soltó, volvió solo hasta la misma muesca de la madera.» | cap-19.md:77 | sin span |
-| 13 | «El terminal confirmó la clase del carné vigente: `SEGURIDAD · PRESENCIA LOCAL`. Cerró la consulta sin presentarlo a un lector, lo deslizó entre los carnés caducados y cerró el broche.» | cap-24.md:217 | `S24-cierre` (plantado CH-6/16; A4 lo cuenta como tic ya decidido) |
-| 14 | «La cubeta siguió a sus pies hasta que el frío del banco atravesó el pantalón.» | cap-26.md:185 | sin span |
-| 15 | «El lector encendió una luz roja. La barrera permaneció inmóvil.» | cap-27.md:201 | sin span |
-| 16 | «En el centro, la fogata ajena sigue ardiendo sola.» | cap-30.md:241 | sin span (RW del 30: recomendado conservar) |
-| 17 | «La bajamar había dejado al aire otra franja de madera oscura.» / «En la tableta, el quinto hueco no volvió a abrirse.» | cap-33.md:231–233 | `S33-hueco` (233) |
-| 18 | «La cera endureció sobre el acero.» / «Al otro lado siguieron zumbando las bombas.» | cap-39.md:193–195 | sin span |
-| 19 | «En la cena, la tarjeta quedó junto al frutero hasta que Jessie la guardó en la mochila.» | cap-40.md:127 | sin span |
+| 10 | «El papel de la bolsa crujió al enfriarse.» | cap-16.md:291 | sin span |
+| 11 | «El cursor permanecía inmóvil detrás de *retenida*.» | cap-22.md:89 | sin span |
+| 12 | «Cuando lo soltó, volvió solo hasta la misma muesca de la madera.» | cap-23.md:77 | sin span |
+| 13 | «El terminal confirmó la clase del carné vigente: `SEGURIDAD · PRESENCIA LOCAL`. Cerró la consulta sin presentarlo a un lector, lo deslizó entre los carnés caducados y cerró el broche.» | cap-29.md:217 | `S24-cierre` (plantado CH-6/16; A4 lo cuenta como tic ya decidido) |
+| 14 | «La cubeta siguió a sus pies hasta que el frío del banco atravesó el pantalón.» | cap-32.md:185 | sin span |
+| 15 | «El lector encendió una luz roja. La barrera permaneció inmóvil.» | cap-33.md:201 | sin span |
+| 16 | «En el centro, la fogata ajena sigue ardiendo sola.» | cap-36.md:241 | sin span (RW del 30: recomendado conservar) |
+| 17 | «La bajamar había dejado al aire otra franja de madera oscura.» / «En la tableta, el quinto hueco no volvió a abrirse.» | cap-39.md:231–233 | `S33-hueco` (233) |
+| 18 | «La cera endureció sobre el acero.» / «Al otro lado siguieron zumbando las bombas.» | cap-45.md:193–195 | sin span |
+| 19 | «En la cena, la tarjeta quedó junto al frutero hasta que Jessie la guardó en la mochila.» | cap-46.md:127 | sin span |
 
 Recomendación de A1 para los 12 de T5: los siete de ficheros íntegros (1–7) más 8, 13, 16, 17 y 18; 9–12, 14, 15 y 19 quedan como reserva de A4 (son también los que el censo M4 podría aligerar sin pérdida estructural, salvo el 15, que cierra el arco de la credencial de Alana, CH-38).
 

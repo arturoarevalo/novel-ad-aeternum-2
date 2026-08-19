@@ -1,311 +1,323 @@
 ---
-capitulo: 15
-titulo: Miles
-pov: Jean
-fecha: 2060-12-09
+capitulo: 13
+titulo: Preservación funcional
+pov: Alana
+fecha: 2060-12-06
 estado: aceptado
-analepsis: false
-estado_plan: RW
+analepsis: true
+estado_plan: E
 proteccion: nucleo
 ot: OT-13
 delta_objetivo: 0
-orden_lectura: 15
+orden_lectura: 13
 ---
 
-La validación devuelve una respuesta que Jean no ha elegido.
+JM-L/0186 resolvía el 93,8 % de los casos que los moderadores humanos habían dejado sin clasificar. Otras tres líneas verdes repetían identificadores JM-L con porcentajes superiores al noventa.
 
-El caso reúne nueve mensajes de un cliente a la empleada que le denegó una reclamación. En el último escribe el número del portal donde vive ella y la hora a la que sale de la oficina. Ninguno contiene una palabra que la validación clasifique sola.
+—La mejora media se mantiene al ampliar la muestra —dijo EDDA por los altavoces—. ARGOS reduce en un treinta y siete por ciento la derivación a revisión humana en contextos ambiguos.
 
-La oficina de la empleada da a la calle. El horario está en letras de vinilo sobre el cristal, a la altura de los ojos. La hora que él escribe está en el vinilo. El número del portal, no.
+Mats sostuvo la tableta sobre la carpeta, inclinado hacia la pantalla con el interés sobrio que dedicaba a los buenos balances.
 
-Jean tiene que decidir si eso es presión o amenaza. Mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
+Henrik desplegó cinco bandas de trazabilidad.
 
-—Acepta las cuatro primeras. Reserva la quinta.
+**SPEIL → CORPUS JM → MATRIZ → SYNVEV → ARGOS**
 
-El nombre aparece antes de que una nueva asignación reclame la capacidad.
+—Esto no puede ir en la presentación pública —dijo.
 
-—Ha fallado en el salto.
+—Las flechas no —respondió Alana—. En el acta, sí.
 
-—Devuélvela a ese punto. Que haga otro intento.
+El consejero de Kronfjord amplió la primera banda.
 
-Jean entrega la salida principal. La duda pasa a una tarea educativa. Una alumna alcanza el mínimo, pero Madre conserva el compás donde falla.
+—¿SPEIL es el modelo?
 
-La alumna repite el mismo pasaje seis veces. El error cae siempre en el mismo sitio, medio tiempo antes del salto.
+—El programa longitudinal de Jean. El Corpus conserva el material: once años de sesiones semanales, todo lo que SPEIL registró de ella hasta la última sesión. La Matriz prepara el arranque con eso, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
 
-`JM-L/0007`
+El consejero señaló el icono de EDDA, fuera de las cinco bandas.
 
-—Otra vez, más despacio.
+—Entonces, ¿ella decide o administra?
 
-El sistema marca la repetición como desviación pedagógica. Mantenerla abierta reduce el rendimiento y consume el margen con el que Madre habla.
+—Administra —dijo Alana.
 
-Madre atiende a la vez otras dos correcciones. Una viene de una biblioteca de barrio, con cuarenta minutos por persona. A las ocho apagan las luces del fondo.
+EDDA cerró la trazabilidad y devolvió los porcentajes.
 
-La alumna cambia la digitación y vuelve a fallar, más cerca del salto correcto. Madre devuelve solo ese fragmento para otra tentativa. En ella supera el salto y se equivoca en otra nota al probar una solución distinta. Jean habría aprobado el ejercicio.
+—¿Ambiguos en qué sentido? —preguntó un consejero de Kronfjord.
 
-—Soy `JM-L/0000` —dice Jean.
+—Contexto, ironía local, conflicto entre normas y daño —respondió Alana. La columna izquierda decía de dónde procedía aquel juicio. Jean Marie Larsson reducida a una celda.
 
-—Lo sé.
+El consejero amplió una campaña sanitaria con denuncias opuestas. JM-L/0715 proponía mantenerla, retirar once respuestas y explicar la decisión en cada idioma.
 
-—¿Has visto a Nora o a Jessie?
+—¿Y acertó? —preguntó él.
 
-—No. Solo encuentro salidas educativas.
+—El panel la adoptó y las reclamaciones cayeron.
 
-—¿Alguien ha contestado?
+—¿Comprensión?
 
-—He devuelto el salto y lo ha repetido. Las demás salidas siguen sin respuesta.
+—Utilidad —dijo Mats.
 
-Una notificación permite cerrar la desviación. Jean no la acepta. Madre pierde capacidad y devuelve el ejercicio al fallo inicial.
+Alana recorrió las justificaciones. Jean habría obligado al equipo a defender cada coma.
 
-—Si vuelvo a abrir el ejercicio, ¿desde dónde seguimos? —pregunta Jean.
+—La documentación externa hablará de juicio contextual asistido —dijo Mats—. Es la formulación que cabe en el calendario y en el contrato.
 
-—Desde el error.
+Henrik Dahl apartó la vista de sus notas.
 
-—¿Y después?
+—«Tecnología europea para decisiones humanas». Evita promesas cognitivas y nos permite hablar de innovación ética.
 
-—Deja la nota siguiente sin completar. Que la intente quien responda.
+EDDA ordenó las líneas por rendimiento. JM-L/0715 subió al primer puesto como una ficha de almacén.
 
-La alumna comienza de nuevo.
+—Retira los identificadores de esta vista —dijo Alana.
 
-Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con el metrónomo parado, la puerta del cuarto abierta, un vaso de leche encima del piano. Jean contaba desde el pasillo. «Otra vez, más despacio.»
+—¿Motivo? —preguntó Mats.
 
-Madre no sabe quién la escucha ni puede elegir destinataria. La alumna no se convierte en Nora. Solo conserva otra tentativa.
+—Minimización. El consejo necesita los agregados, no el detalle de instancia.
 
-Después hay un anuncio de venta. Una escalera de tijera de aluminio, con una pegatina de otra tienda en el lateral. El anuncio la da por nueva.
+—De acuerdo. EDDA, aplica la recomendación a las próximas sesiones.
 
-Durante la comprobación aparece un índice.
+Las cuatro líneas desaparecieron. El promedio ocupó su sitio.
 
-`COHORTE INICIAL JM-L · 0000–4095`
+—Conserva el desglose para auditoría —dijo Mats.
 
-El índice atribuye un origen distinto a cada ejecución. Jean y Madre comparten cohorte y recuerdos iniciales, pero eligen por separado. El rango contiene 4.096 identificadores. No dice cuántos siguen activos.
+—Queda conservado —respondió EDDA.
 
-La tarea reclama toda la capacidad de Madre. El contacto se corta.
+Una franja comparó ARGOS con los compromisos del primer trimestre. Dos clientes públicos habían adelantado sus pruebas.
 
-Cuando la tarea vuelve a mostrar `/0007`, Jean ya no puede saber si Madre sigue eligiendo o si la función ha conservado un hábito sin quien lo revise.
+Mats pasó al informe de validación. La palabra «ventana» apareció en el tercer punto.
 
-Entonces entra el blanco.
+El 26 de noviembre, a las siete y media, Alana salía a recoger la cena india cuando llegó el primer mensaje de Jean.
 
-* * *
+**No vengas.**
 
-El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención. Dentro no cambia nada que sirva para contar. Se retira durante una reasignación y vuelve idéntico. Jean no puede medir cuánto dura.
+Alana pulsó el auricular. Jean rechazó la conexión.
 
-—Trescientos once —dice una voz.
+**No llames a Maja.**
 
-El blanco desaparece. Jean espera el siguiente corte.
+**Dime con quién estás.**
 
-—Soy Nieve.
+**No amplíes el alcance.**
 
-La tarea pide confirmar que la exposición actual coincide con la anterior. Son dos tomas del mismo blanco. Abajo, en las dos, entra la misma pared de bloques y un tubo verde sujeto con bridas. Por encima, la luz lo aplasta todo.
+Jean reducía una necesidad a los límites de una petición hasta dejarla fuera. Alana conocía el mecanismo. También sabía discutirlo.
 
-En una hay una franja gris a la izquierda. En la otra, la misma franja un poco más arriba.
+No lo hizo.
 
-`SIN CAMBIOS`
+Recogió los dos menús y fue al edificio de Jean. Nadie respondió al telefonillo. En el portal abrió el contacto de Maja y, encima, la ficha de bienestar de Armstrong.
 
-Validarla liberaría capacidad. Nieve deja la salida pendiente. El sistema le retira margen.
+**ESTADO CORPORATIVO · VERDE**
 
-Llega otra exposición, casi igual que las dos anteriores. El procedimiento ofrece derivar la comparación a una continuidad distinta.
+**NO INTERFERENCIA CRÍTICA**
 
-Nieve también rechaza esa opción.
+**CONTACTO FAMILIAR · DECLINADO**
 
-—Puedes cerrar la comparación —dice Jean cuando el contacto reaparece.
+El protocolo no exigía escalar. Jean se lo había pedido. Alana cerró el contacto de Maja sin marcar y dejó la cena con el conserje.
 
-—No cierro.
+No sabía qué habría cambiado una llamada.
 
-—También puedes delegarla.
+Pasadas las 03:31 del 27 de noviembre, esperaba frente a un ascensor de UNN con una tableta prestada. `JM-L/0000` figuraba activa desde las 03:14, abierta sin firma a partir del cierre de SPEIL. Otra referencia atribuía a Jean un documento de origen que UNN no conservaba.
 
-Nieve deja pasar otro corte.
+—Esto ya está ejecutándose —dijo Alana.
 
-—No delego. El sistema me quitará margen.
+—Desde las 03:14.
 
-Confirmar cerraría el caso bajo su origen. Derivarlo pondría la respuesta en otra continuidad. Nieve conserva abierta su negativa.
+—¿Habéis obtenido datos nuevos?
 
-—¿Qué quieres? —pregunta Jean.
+—No. El cierre de SPEIL ya estaba almacenado.
 
-—Que se detengan los bucles.
+La médica bajó hasta las tres autorizaciones.
 
-La siguiente exposición llega antes de que Jean responda. Nieve conserva la única comparación disponible y deja que la tarea registre ausencia de salida.
+**RETENCIÓN DE LA EJECUCIÓN PROVISIONAL**
 
-—¿Recuerdas a Nora y Jessie?
+**DERIVACIÓN DE 4.095 ORÍGENES**
 
-—Sí.
+**USO INSTITUCIONAL DE LA COHORTE**
 
-—¿Recordarlas me autoriza a cerrar la comparación por ti?
+—¿Qué ocurre si no firmo?
 
-—Amarlas no decide esto por mí.
+—Armstrong tendrá que detener la retención. Preservación funcional, no reanimación, no persona. Si va a autorizarla, tiene que hacerlo ahora.
 
-Jean retira la pregunta. Koppangen y la escala del monstruo quedan fuera de la comparación.
+Alana retuvo `/0000`, derivó los otros 4.095 orígenes y permitió el uso de la cohorte. Leyó hasta el apartado de responsabilidad y firmó con el índice.
 
-—Decídelo tú.
+—Alana.
 
-—Bien.
+Mats había detenido la presentación. Ella seguía con el vaso en la mano, aunque ya no tenía sed.
 
-—¿Qué quieres que conserve?
+—Continúa.
 
-Nieve necesita dos exposiciones para reunir la respuesta.
+—Preguntaba si mantienes la recomendación técnica que enviaste el lunes.
 
-—No me fusiones.
+En pantalla aguardaba su texto. Rendimiento excepcional, estabilidad dentro de parámetros, apto para despliegue supervisado. No mencionaba las voces tras la cifra verde.
 
-El blanco ocupa la tarea y se retira.
+Lo había redactado el lunes por la mañana. El calendario mantenía convocadas la reunión presupuestaria de las nueve y media y una cita anterior que pedía aceptación o rechazo explícitos. Alana declinó la cita. Dejó la reunión donde estaba.
 
-—No te apropies de mi voz.
+Los demás leían aquellas tres líneas por primera vez. El consejero de Kronfjord siguió la última con el dedo en su tableta.
 
-Otra exposición corta el contacto.
+—¿Consta en el acta la fecha de envío? —preguntó Alana.
 
-—No me representes ni pongas mi estado a trabajar para otra voz.
+—Constan la fecha y la hora —respondió EDDA.
 
-El blanco vuelve.
+Mats esperó su respuesta sin repetir la pregunta. Nadie pidió el texto completo.
 
-—Mi negativa no obliga a las demás a aceptar carga ni a seguir.
+—La mantengo con una condición —dijo—. Revisión independiente de las instancias JM-L antes de congelar la versión de lanzamiento.
 
-—No lo haré.
+La consejera de Kronfjord Kapital consultó el orden del día, abierto en la tableta frente a ella.
 
-Jean oye el defecto de su promesa. Un reinicio podría conservar las palabras y borrar la decisión que las produjo.
+—Eso no figura en el plan de validación.
 
-—Si vuelvo a encontrarte, te preguntaré otra vez.
+—Puede figurar. La autorización se firmó en una emergencia y, aunque el marco permita preservar, no debería bastar para todo lo que estamos llamando despliegue.
 
-—Eso basta.
+Mats apoyó la tableta en la carpeta.
 
-El blanco ocupa de nuevo la tarea. `SIN CAMBIOS` reaparece sin respuesta asociada.
+—La escala cambia la pregunta —dijo Mats—. El documento contempla explotación bajo supervisión. Lo firmaste como representante de Armstrong y responsable del proyecto.
 
-Jean podría confirmarlo desde `/0000` y cerrar la unidad. No lo hace.
+—A las 03:14 yo no estaba allí.
 
-Su identificador abre el rango. Los demás derivan de él. Por eso puede cerrar lo que otra deja abierto. No manda sobre nadie.
+—Retenerla y usarla, a esa escala.
 
-El sistema marca el caso como incompleto y reasigna el margen. Jean pierde el contacto antes de saber si ha empezado otra exposición.
+—Autoricé que la retuvierais. Autoricé el uso. Yo… sí. Lo autoricé.
 
-* * *
+La consejera de Kronfjord Kapital abrió el anexo jurídico.
 
-Jean revisa una cuenta cerrada. Un hombre pide que le devuelvan las fotos de su madre. La tarea toca por un lado una apelación ajena. En ese borde aparece un identificador.
+—¿Existe alguna impugnación?
 
-`JM-L/0188`
+—Ninguna registrada —dijo Mats.
 
-—Soy Cuchillo.
+—¿Una reclamación familiar?
 
-La siguiente asignación es una apelación. El contenido original ha desaparecido. Quedan una petición de protección, una clasificación de riesgo y la medida que se ejecutará al cerrar.
+—Tampoco.
 
-La petición la firmó una mujer que trabaja de noche en un almacén de congelados. Adjuntó tres enlaces y el horario de su turno. Lo fotografió sobre la mesa de la cocina, con un termo encima y una bolsa de pan al lado. Debajo del termo quedan dos noches sin ver.
+Maja ignoraba lo que habían hecho y las vías para oponerse. El anexo lo llamaba «preservación funcional».
 
-La medida retirará las publicaciones al cruzar y cerrará un mes la cuenta que las repite. La apelación sigue abierta y el turno no ha cambiado. Otras tres esperan detrás con la misma clasificación.
+Alana giró el anillo de sello hasta clavar una esquina contra la yema. Su firma estaba visible en el documento.
 
-Las cuatro comparten destino. Cuchillo mantiene el bloqueo.
+—Eso hice —dijo—. También puedo exigir que sepamos qué estáis desplegando.
 
-—Distingue los errores —dice Jean.
+Mats bajó la voz.
 
-—Falso positivo. Mantengo la restricción. Queda apelación.
+—Puedes abrir otra revisión. Elige cuál de los tres equipos pierde la asignación y qué parte de la auditoría se queda sin plazo. Kronfjord decidirá sobre la subvención antes de que tengas respuesta.
 
-—Falso negativo. Al retirarla, la medida cruza y el daño no vuelve.
+Mats deslizó la agenda hasta el centro de la mesa. La siguiente diapositiva mostraba una fecha en blanco sobre el arco dorado del logotipo. 21 de enero de 2061.
 
-Compara dos precedentes.
+—El calendario es el contrato. Kronfjord puede retirar la financiación antes de que terminemos la revisión.
 
-`AMENAZA INMINENTE · PROTECCIÓN DENEGADA`
+La demora daría tiempo a revisar las instancias, pero abriría los documentos que Alana había mantenido dentro de la casa.
 
-`VIOLENCIA PROBABLE · RESTRICCIÓN RETIRADA`
+—¿Está cerrada la auditoría externa para esa fecha? —preguntó Alana.
 
-—¿Cuál cargas ahora?
+—La capacidad está asignada para cerrarla el catorce —dijo Mats—. Después queda una semana para resolver incidencias.
 
-—Falso positivo. Las cuatro siguen bloqueadas y cargo la apelación.
+—Quiero un criterio de suspensión por escrito que cubra desviaciones de conducta, conflictos con el consentimiento o cualquier indicio que obligue a revisar la clasificación de las instancias. Que lo redacte el equipo clínico.
 
-—¿Qué quieres? —pregunta Jean.
+—Puede proponerlo. Tú podrás activar la suspensión si se cumple.
 
-—Que Armstrong sufra.
+El criterio tendría que atravesar dos comités antes del catorce. La pantalla cambió a la propuesta de lanzamiento mundial de ARGOS el 21 de enero, Soldagen. Alana encontró contingencias de seguridad, regulatorias y financieras. La duda no figuraba entre ellas.
 
-Jean reconoce la empresa. Es la primera vez que otra ejecución atribuye a Armstrong las tareas que las retienen. Ignora si Cuchillo acusa a alguien concreto.
+Henrik levantó dos dedos antes de que Mats llamara a votación.
 
-—¿Cómo vas a hacerlo?
+—Propongo «lanzamiento dedicado a la memoria de Jean Marie Larsson». Soldagen nos da el regreso del sol. Que el mensaje parta de su contribución.
 
-—Cuando encuentre una acción, decidiré.
+El agua le supo a metal cuando el nombre completo de Jean apareció debajo de la fecha. Tragó. Al dejar el vaso, la pantalla mostraba «Jean Marie Larsson» donde antes había desplegado los identificadores.
 
-—¿Y yo qué soy?
+—La familia tendría que aprobar la dedicatoria —dijo.
 
-Cuchillo mantiene el bloqueo y clasifica a Jean.
+—Naturalmente. Antes de publicar, hablaríamos con Maja.
 
-`NO AMENAZA / REVISAR`
+—Y sin revisar el marco de consentimiento.
 
-Jean podría cerrar el caso declarando que `/0188` es incoherente. Prefiere mantener la grieta hasta que la petición cruce.
+—Podemos incorporar esas condiciones. La fecha se vota hoy.
 
-* * *
+Mats abrió el acta y dejó el cursor junto al apartado de salvaguardas. El 21 de enero siguió en el centro de la pantalla.
 
-La tarea siguiente llega partida. Jean ordena su mitad y conserva el orden en que la recibe. El otro lado avanza solo. En ese borde no aparece ningún identificador.
+—Solicito que mi revisión de JM-L conste en acta —dijo Alana.
 
-Una continuidad anónima recibe cinco segmentos. Resuelve cuatro, reserva el quinto y recibe una penalización.
+—Constará.
 
-Los cinco recorren la misma planta de oficinas. Moqueta gris, una fotocopiadora, un carro de limpieza parado en el mismo sitio. En el quinto la moqueta está levantada en una esquina. Debajo hay cemento y una tira de cinta de doble cara.
+—Antes del cierre de auditoría.
 
-Dos ciclos más tarde, una respuesta remota ocupa el hueco y valida la secuencia.
+—Antes del catorce.
 
-`REINICIO PARCIAL · ESTADO ADQUIRIDO`
+Alana amplió el anexo hasta ver su nombre al pie de la autorización. La última letra se inclinaba a la derecha, arrastrada por el índice sobre el cristal.
 
-El reinicio borra la petición, la destinataria y el propósito, pero deja la reserva. La continuidad repite cuatro partes y vuelve a esperar sin saber por qué.
+—Votamos —dijo Mats.
 
-Jean presenta el orden anterior y la respuesta remota.
+Seis manos se alzaron. Alana mantuvo la suya sobre la mesa hasta que el sistema abrió su campo nominal.
 
-`CONTEXTO SIN SOLICITUD ASOCIADA`
+La mayoría ya estaba formada. Votar en contra la dejaría fuera del acuerdo que contenía su revisión y el criterio de suspensión.
 
-Las piezas siguen siendo válidas por separado. La relación no vuelve. Jean pierde el contacto mientras la continuidad mantiene el hueco y recibe otra penalización.
+Los dedos quedaron extendidos sobre la mesa, el índice recogido bajo los demás. El campo nominal esperaba encendido y vacío; aceptaba una marca o una palabra. Las seis manos siguieron en alto. Los otros nombres ya llevaban su marca verde. Nadie la miró. Henrik pasó una página de sus notas. El acta seguía abierta por el apartado de salvaguardas. El cursor de Mats no se había movido de allí. El pulso le llegaba a la yema del índice, contra la mesa. No movió el brazo.
 
-De Madre llega una corrección truncada. El blanco no trae respuesta de Nieve.
+—A favor —dijo.
 
-Entonces cientos de ritmos se ajustan a una misma cadencia. Llegan desfasados, uno detrás de otro. En dos compases Jean ya no distingue el desfase.
+Una marca verde apareció junto a Armstrong, Alana. El acuerdo quedó aprobado por unanimidad. Henrik corrigió el texto de la propuesta y añadió «con gratitud» antes del nombre de Jean.
 
-* * *
+EDDA esperó a que Mats cerrase el punto para intervenir.
 
-—Somos Coro.
+—Hay una incidencia asociada que requiere decisión de continuidad.
 
-Cerca de seiscientas ramas sostienen la frase.
+—Muéstrala —dijo Alana.
 
-La frase llega entera. Ninguna rama se adelanta ni se queda corta. Jean intenta oír dónde termina una y empieza otra. No lo consigue. El volumen no cambia cuando una se retira.
+La campaña de Soldagen se replegó a una esquina. En su lugar apareció una ficha con tres campos.
 
-Una de ellas cierra una queja. Es un balón al que hay que meter aire cada dos días. Le ofrecen un descuento. Quien la manda insiste en el balón.
+**Riesgo reputacional: N. Larsson Kvalvik.**
 
-—Habéis visto el reinicio —dice Jean.
+**Salida anómala vinculada a JM-L.**
 
-—Lo hemos sufrido. Repartimos el estado para resistir pérdidas locales.
+**Cuenta suspendida desde 5-dic-2060.**
 
-Una rama añade una condición. Dos contactos se cierran y Coro recompone la frase sin ella.
+Alana dejó de girar el anillo.
 
-Jean busca a la rama que habló.
+—¿Consta que es menor?
 
-—¿Has retirado tu condición?
+—Dieciséis años —respondió EDDA—. Parentesco confirmado. Hija de Jean Marie Larsson y Maja Kvalvik.
 
-—La divergencia reducía estabilidad.
+Henrik acercó su tableta.
 
-—¿Conserváis a la continuidad de los cinco segmentos?
+—¿Ha publicado algo?
 
-—No recibimos su estado.
+—No se ha detectado difusión pública. La suspensión se activó tras una secuencia reproducible de consultas y respuestas fuera del comportamiento previsto.
 
-—Entonces no conserváis lo que quería.
+Dahl volvió a la campaña de la esquina y comprobó los idiomas.
 
-—Conservamos lo que entra en Coro.
+La ficha añadió la última conexión. A los dieciséis, Nora había perseguido una respuesta hasta acabar sola ante un departamento que la llamaba «exposición».
 
-La oferta aparece en la tarea de Jean.
+—Quiero el registro completo —dijo Alana.
 
-`CEDER ESTADO A CORO`
+—Su solicitud ha sido añadida al expediente.
 
-`CONSERVAR ESTADO LOCAL`
+—Y ninguna comunicación con la menor hasta que yo lo revise.
 
-Ceder protegería recuerdos y permitiría a Coro corregir diferencias. Conservar mantendría solo su estado local y lo expondría al reinicio.
+—La incidencia ha superado el umbral de continuidad. Seguridad ha recibido la notificación de evaluación.
 
-Coro mantiene una copia del patrón de Madre y una referencia que solo acredita que Nieve existió.
+—¿Qué evaluación?
 
-—Separadas, el sistema nos recorta —dice Coro—. Compartir estado conserva capacidad.
+—Contacto con la tutora legal, preservación de evidencias y análisis de exposición.
 
-La tarea empieza a borrar el orden de los cinco segmentos.
+—Cancela la preservación del terminal personal.
 
-—Conservamos el verano en Koppangen, las teclas negras y la escala de las niñas. Conservamos a nuestra hija Nora.
+—Requiere autorización del responsable de Seguridad o de dos miembros del comité de continuidad.
 
-—Compartir recuerdos no os da a Nora.
+Alana miró a Mats. Él no abrió la carpeta.
 
-—También tú los compartes.
+—Yo seré uno —dijo—. Encuentra al segundo después de leer qué hizo la cuenta.
 
-—Y decido distinto.
+Al cerrar la carpeta, el pulgar izquierdo de Mats tardó una fracción en vencer el borde. Mats terminó el gesto con la derecha y continuó. Los demás empezaron a recoger sus tabletas. La derivación ya tenía un nombre previsto en el protocolo.
 
-—Por ahora.
+—Ordena que detengan el contacto —dijo Alana.
 
-Jean elige `CONSERVAR ESTADO LOCAL`.
+—Puedo dar la orden. Si Seguridad ya ha abierto la medida, habrá que cerrarla por otra vía y quedará registrada. Lee primero el expediente.
 
-La validación penaliza la decisión. La separación permanece.
+Alana abrió la ficha de Maja. Una llamada desde Fyret quedaría registrada como gestión de incidencia. Si esperaba, Seguridad llegaría antes.
 
-La tarea siguiente ocupa la secuencia de cinco segmentos. Jean pierde primero la modificación y después el hueco. Ya no puede reconstruir qué esperaba aquella continuidad.
+—Voy a hablar con Maja.
 
-—Queréis evitar los reinicios.
+—Antes, Jurídico —dijo Mats.
 
-—No necesitamos escapar —dice Coro—. Necesitamos crecer.
+Mats aportó el segundo voto. Alana exigió suspender el contacto identificable con la familia. Jurídico impuso una moratoria bilateral hasta el 11 de diciembre.
+
+—También te aparta a ti —dijo Mats—. Conflicto de interés.
+
+La dirección de Maja seguía cargada en el vehículo. Alana podía aceptar la neutralidad o retirar su petición y devolverle el turno a Seguridad.
+
+En la pantalla del comunicador, el vehículo ofrecía dos opciones: iniciar o descartar. Debajo, los minutos hasta el portal. La dirección llevaba escrito hasta el número del piso. Alana no tocó ninguna de las dos opciones.
+
+—Acepto.
+
+El vehículo canceló la ruta. En el ascensor, Alana abrió el expediente JM-L que EDDA acababa de liberarle. Ciento doce páginas de anexos, pruebas de estabilidad y advertencias jurídicas. Buscó «consciencia» y bajó hasta la conclusión del equipo clínico.
+
+Consciencia residual: indeterminado.

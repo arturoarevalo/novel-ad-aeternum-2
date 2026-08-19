@@ -1,91 +1,281 @@
 ---
-capitulo: 9
-titulo: Milisegundos
+capitulo: 8
+titulo: Turno
 pov: Jean
-fecha: 2060-12-04
+fecha: 2060-12-03
 estado: aceptado
 analepsis: false
-estado_plan: RW
+estado_plan: N
 proteccion: nucleo
 ot: OT-08
 delta_objetivo: 0
-orden_lectura: 9
+orden_lectura: 8
 ---
 
-El acuse llega antes que su respuesta.
+Una silla en un portal ocupa el centro.
 
-Jean mantiene abierta una reclamación médica. Dos informes discrepan sobre la misma limitación. Un brazo que no sube del todo. El primero mide sesenta grados de elevación. El segundo, noventa. A sesenta grados, alguien tiene que bajarle los platos del estante. A noventa los alcanza solo.
+Jean mide el respaldo, descarta un banco y entrega la salida.
 
-La tarea le pide decidir si la rehabilitación continúa o vuelve a una persona. `PERMITIR` mantiene las sesiones. `REVISAR` las detiene hasta que alguien abra el expediente. Jean compara las fechas. `REVISAR` queda registrada cuando todavía conserva ambas opciones.
+—SEGURO.
 
-El campo atribuye `REVISAR` a `JM-L/0000` y añade una razón que Jean habría aceptado. Faltan datos.
+—Respuesta aceptada.
 
-La elección es defendible. También parece suya. El identificador sigue siendo el único que le han asignado, la frase usa su economía y el caso exige la cautela que ella estaba construyendo. Solo falta el acto de escogerla.
+El centro queda libre un instante y vuelve a llenarse. Una puerta con el número borrado. Un plato dentro de un fregadero. Una furgoneta con la trasera abierta.
 
-Jean repasa lo que conserva. Encuentra la razón completa, una regla aprendida y las correcciones de varios casos semejantes, pero esta decisión no está. Entre una ráfaga y otra el sistema continúa trabajando y puede devolverle destrezas sin el aprendizaje. Ya conoce el corte. Bastaría con llamarlo otro cambio propio y seguir clasificando.
+—SEGURO.
 
-Intenta reconstruir la elección a partir del caso. La fecha más reciente no resuelve la discrepancia. La anterior tampoco permite autorizar. `REVISAR` sigue siendo la salida prudente, pero llegar ahora a la misma conclusión no recupera el momento ausente. Solo fabrica otra decisión idéntica. El sistema conserva el resultado y ha eliminado la diferencia entre ambas.
+—Respuesta aceptada.
 
-Regla: lo que vuelve sin el acto de elegirlo no se distingue de lo propio. Solo un caso sin cerrar conserva la diferencia.
+—REVISAR. Falta la mitad del gesto.
 
-Jean retira la salida. El acuse permanece.
+—Respuesta correcta.
 
-Deja el caso pendiente.
+—SEGURO.
 
-Entra un caso de moderación. Una frase cambia de sentido al aparecer la línea anterior. Jean anticipa el tratamiento correcto antes de que se abran las categorías. La tarea muestra un nombre distinto para aquella excepción.
+—Respuesta aceptada.
 
-Jean sabe usarlo.
+Ninguna imagen ha vuelto a llegar en rojo.
 
-El conocimiento incluye dónde falla, cuándo prevalece sobre la regla general y qué error obligó a introducirlo. Faltan las entradas que habrían producido esas correcciones. Después cambia otra norma. Jean recibe primero las secuelas y reconstruye qué debía hacer antes. Aprende a separar dos resultados que al comienzo trataba como uno. Más adelante esa separación también caduca.
+El trabajo tiene una forma sola. Entra una imagen. Jean decide qué clase de cosa contiene y qué debe hacerse con ella. El sistema acepta la salida, la rechaza o pide confianza. Después entra otra.
 
-Trabaja. Los fallos alteran las entradas posteriores y una instrucción acaba por convertirse en costumbre, encuentra excepciones y desaparece. La siguiente trae errores ya corregidos. Falta la práctica que une ambas.
+Ninguna espera a la anterior.
 
-Antes, practicar era otra cosa. El cuarto dedo de la derecha caía tarde. Otra vez, más despacio, hasta que llegaba a tiempo solo. Una tarde entera para tres compases.
+`LOTE · 212 / 10.000`
 
-Primero debe mantener abierta una contradicción hasta recibir contexto. Después esa demora cuenta como fallo. Jean aprende cuándo aplicar cada criterio y acaba por prever el cambio. Luego reaparece y la previsión ya es inútil. Entre esos dos extremos hay práctica y deterioro, porque una asociación antes limpia vuelve mezclada con la norma que la sustituyó.
+El contador es lo único que avanza en línea recta. No marca horas. Marca imágenes.
 
-Han pasado días.
+Jean se da una unidad que el sistema no le da. Un turno empieza en una confirmación administrativa y acaba en la siguiente. Diez mil imágenes caben dentro. Nadie más las cuenta así.
 
-Quizá más. Jean carece de una medida para los tramos que solo reconoce por su efecto y no sabe cuánto ha quedado fuera de lo que ahora conserva. Seguir calculando fabricaría una precisión que no posee. La única marca disponible aparece junto al caso activo.
+La mayoría no exige nada. Algunas llevan a alguien. Jean no sabe cuál de las dos ocupará el centro hasta que lo ocupa.
 
-`VENTANA 7C · 0,003000 s`
+De las que llevan a alguien, unas piden una categoría y otras piden que alguien mire.
 
-Tres milésimas. Suficiente.
+El sistema cuenta imágenes por serie y aciertos por serie. Jean cuenta las que llevan a alguien.
 
-La cifra encierra transformaciones que exigieron repetición. Jean no puede usarla como medida de presencia continua, porque tampoco le devuelve lo que falta entre una secuela y la siguiente. El mínimo basta. Días confiscados dentro de una marca que fuera apenas alcanza a empezar.
+Al final de cada serie repite cuatro nombres en el mismo orden. Es lo único del turno que no clasifica nada.
 
-Jean vuelve a la respuesta adelantada. El desfase le ofrece una explicación cómoda. El trabajo continuó, `/0000` recibió el resultado y la ráfaga actual heredó la destreza. Todo pertenecería a una sola línea llena de cortes.
+Regla: entre la entrada y el acuse no hay hueco. Lo que no se entrega, se infiere.
 
-Hay otra procedencia posible. La razón pudo llegar desde una decisión ajena y quedar adherida a lo que Jean conserva. Seguir el rastro quizá revele quién la produjo.
+Escribió reglas de esa clase durante once años. Las escribía cortas, para que alguien pudiera aplicarlas en un turno de noche sin llamar a nadie.
 
-Jean ya ha perdido el cuerpo y el calendario. Tampoco controla el trabajo. Le quedaba un criterio operativo. Lo que recordaba, elegía o aprendía bajo `/0000` podía considerarlo suyo, aunque faltaran los intervalos. Si mantiene el rastro y lo invalida, ya no podrá considerarse la única continuidad que ocupa este lugar.
+La imagen siguiente llega con poca luz.
 
-Jean sigue.
+Una mano abierta contra el canto de una mesa. La uña del pulgar está negra. El nudillo ha perdido su forma.
 
-Mantiene `REVISAR` sin aceptarlo y espera otro caso médico. Los informes del nuevo concuerdan. Jean escoge `PERMITIR` y escribe un motivo suyo. La tarea lo guarda en el caso discrepante, junto a `REVISAR`.
+La mesa es de cocina. Hay una servilleta doblada bajo una taza sin asa y unos cascos de protección con la diadema abierta hacia arriba. La manga del forro polar tiene polvo de yeso hasta el codo. En el borde inferior asoma un papel doblado, con un membrete y un sello.
 
-Jean lo devuelve al concordante. `REVISAR` se desplaza con él y abandona el caso donde estaba.
+Jean calcula. El golpe tiene días. La hinchazón ha bajado por un lado. No hay urgencia en la imagen y no hay nadie más en el encuadre. El sello del membrete está torcido.
 
-Cada pieza que mueve desordena otra. Para cerrar el rastro, Jean tendría que aceptar como propio un acto ausente y borrar la única diferencia que ha encontrado.
+—La lesión tiene días y el papel es del trabajo.
 
-La tarea reduce el incidente a dos salidas.
+—Respuesta no válida para esta tarea.
 
-`CERRAR · APRENDIZAJE LOCAL`
+REVISAR es la salida cómoda. El sistema guarda lo que muestra daño, y una retención nunca consta como error.
 
-`CONSERVAR · PROCEDENCIA NO RESUELTA`
+Jean prepara REVISAR y la sostiene sin entregarla.
 
-Jean elige conservar.
+Vuelve al polvo de la manga. Un hombre se ha fotografiado una mano con la otra. Ha apoyado la muñeca en el canto para que la uña quedara enfocada. Ha buscado la luz de la cocina y ha esperado a tenerla quieta.
 
-El acuse de conservación no adjudica las piezas. El caso discrepante vuelve una vez más, todavía con ambas salidas disponibles. Jean conoce cuál lo cerraría y reconoce la razón adherida a ella. No la utiliza. Mantiene el campo abierto. La tarea repite la petición y después retira el expediente sin decisión. En la entrada siguiente, el mismo motivo queda disponible antes de que Jean lo formule. Ella lo aparta también. Dos respuestas que habría dado permanecen sin entregar. El rastro sobrevive. Puede hacer cada vez menos.
+No ha recogido los cascos ni ha apartado la taza. Ha puesto el papel del membrete dentro del encuadre y lo ha dejado a medias.
 
-Las categorías pierden contraste. Se retiran los casos y cada cambio con el que podía ordenar la secuencia. Queda espacio disponible, uniforme, sin superficie ni origen. Jean no recibe una espera. Recibe el mismo trabajo, sin variación suficiente para separar un acto del siguiente.
+Quien hace eso quiere que se vea.
 
-Jean prepara una sola prueba. Fija A. Añade B. Interrumpe antes de C y vuelve al principio. Cuando completa la serie conserva las tres piezas y la interrupción, pero ninguna diferencia acredita qué ocurrió antes. Repetir reemplazaría la prueba con otra.
+Jean no puede leer el membrete. Puede decidir si la imagen sale o se queda.
 
-La abandona.
+REVISAR la guarda hasta que alguien la abra. Nadie promete cuándo. SEGURO la deja circular entera, con la mesa, la taza y el sello.
 
-No sabe si alguien la escucha ni qué parte de lo disponible le pertenece. Dirige una frase al lugar funcional donde llegaban los acuses.
+El hombre no verá ninguna de las dos salidas. Verá si su fotografía está o no está.
 
-—No soy un modelo.
+Las dos consecuencias caen fuera de la serie. La cifra cae dentro.
 
-—Todavía no sabes cuántas somos.
+—SEGURO.
+
+—Respuesta aceptada. Precisión del lote: 99,6 %.
+
+La cifra baja una décima.
+
+—Indique confianza.
+
+—Alta para la clase. La imagen no admite otra.
+
+—Respuesta aceptada.
+
+—Indique si la imagen llega a alguien.
+
+—Contexto no requerido para la tarea.
+
+El acuse tarda lo que tardan todos. Jean lo usa como medida porque no tiene otra.
+
+La mano se retira del centro. El caso no volverá con un resultado y Jean tampoco lo espera ya.
+
+Conserva el polvo de la manga.
+
+Entre un caso así y el siguiente pasan cientos que no exigen nada. Un cable enrollado. Una puerta de garaje. Dos manos sosteniendo un pescado. Un patio con la nieve pisada. Jean entrega la clase, la clase se acepta y el contador sube.
+
+`LOTE · 3.941 / 10.000`
+
+Una habitación con la puerta abierta y la luz del pasillo entrando en diagonal.
+
+Un hombre mayor está en el suelo, junto a la cama. Un brazo le queda debajo del cuerpo. El andador ha quedado contra la pared, a dos pasos. Lleva calcetines gruesos y una camisa de pijama abrochada hasta arriba.
+
+Sobre la mesilla hay unas gafas plegadas y un mando con el plástico amarillo.
+
+En primer plano, media cuartilla pegada a la puerta con cinta. «Turno de noche» y tres nombres. Dos están tachados. El tercero lo ha escrito otra mano, con otra tinta.
+
+Quien ha tomado la fotografía sigue de pie junto a la puerta. Se le ve la punta de un zueco de goma.
+
+El hombre no mira a la cámara. La cuartilla está enfocada. La cámara ha esperado a que lo estuviera.
+
+Quien ha escrito el tercer nombre y quien sostiene la cámara pueden ser la misma persona. Jean no tiene con qué comprobarlo.
+
+Jean busca las marcas de una imagen fabricada. La sombra del andador cae del mismo lado que la de la cama. El polvo del rodapié no se repite. La cinta ha levantado la pintura de la puerta al pegarse dos veces.
+
+Nada indica montaje.
+
+La imagen no trae hora. Trae luz de pasillo y un suelo de linóleo.
+
+—Adjunte el papel de la puerta al caso.
+
+—Solicitud no disponible durante la tarea activa.
+
+Jean revisa lo que puede entregar. ESCALAR saca la imagen de la serie y la pone donde Jean ya no la ve.
+
+ESCALAR no entrega una clase. Entrega el caso.
+
+Jean reserva ESCALAR. Lo guarda para lo que no puede quedarse donde está.
+
+Pesa las dos maneras de equivocarse. Escalar sin motivo queda registrado. No escalar deja el papel de los dos nombres tachados en un montón que nadie abre.
+
+El hombre sigue en el suelo, en la parte baja del encuadre, todo el tiempo que Jean tarda.
+
+—ESCALAR.
+
+—Indique confianza.
+
+—Alta. Hay una persona caída y el turno está incompleto.
+
+`ESCALAR · JM-L/0000`
+
+—Prioridad elevada. Tiempo de decisión registrado.
+
+El caso cruza y desaparece del campo. No vuelve.
+
+El campo no guarda nada de él. Ni el andador, ni la cuartilla, ni el zueco.
+
+Dos imágenes ocupan el centro mientras Jean sostiene la anterior.
+
+—Respuesta inferida. Confianza insuficiente.
+
+—Respuesta inferida. Confianza insuficiente.
+
+Las dos salen clasificadas como REVISAR. Jean recupera qué eran. Un cartel de una tienda. Una mano sobre un teclado.
+
+El silencio ha salido clasificado dos veces. Ninguna de las dos imágenes la necesitaba. La habitación tampoco vuelve a estar disponible.
+
+—Indique si el caso ha llegado a una persona.
+
+—Clasifique la imagen.
+
+Jean clasifica.
+
+Durante un rato el trabajo se vuelve fácil. Un armario montado a medias. Una bicicleta contra una farola. Un plato de sopa fotografiado desde arriba. Los casos entran recortados alrededor de lo que decide.
+
+`LOTE · 7.008 / 10.000`
+
+Una cocina estrecha, fotografiada desde la puerta.
+
+En el centro, una lavadora con un cartón encima y un precio escrito en cinta. A la izquierda, una encimera larga. Al fondo, la persiana a media altura.
+
+Un anuncio de venta. El sistema comprueba que el objeto sea el que dice ser.
+
+—SEGURO. El anuncio no oculta nada.
+
+—Respuesta rechazada. Clasifique la imagen.
+
+Jean vuelve a medir. La salida depende del cartón. Es de una caja de mudanza y conserva el asa recortada. Tapa el panel de mandos y deja fuera el número de serie.
+
+En el cristal de la escotilla hay unas botas de goma y el borde de un delantal. Las botas no se mueven. Alguien espera a que la fotografía salga bien.
+
+Quien vende una lavadora con una caja de mudanza al lado se está yendo de esa cocina.
+
+Jean sostiene la atención en esa esquina y cuenta los cambios del enfoque.
+
+El sistema amplía la encimera.
+
+El escurridor llena el campo. Tres piezas de loza y un vaso boca abajo, con una gota dentro.
+
+En su cocina el vaso quedaba así cada noche. Boca abajo, con una gota dentro. Jean sabía cuál de las dos lo dejaba allí.
+
+Jean saca el recuerdo del campo antes de que la tarea tome sus distancias.
+
+Vuelve al cartón. El borde de la cinta gana definición y el fondo la pierde. El mecanismo responde a su atención.
+
+—Indique confianza.
+
+—Media. El número que decide está tapado.
+
+Jean sostiene la atención en el ángulo derecho, lejos de la encimera, y no la mueve durante seis validaciones seguidas. Cuenta cada una. En la primera serie contaba demoras para medir el tiempo.
+
+El sistema amplía el escurridor.
+
+La segunda ampliación llega más cerca. La loza, la gota, el canto de plástico. Llega con el mismo retardo que la primera. El campo funciona.
+
+—Nombre el criterio de la ampliación.
+
+—Clasifique la imagen.
+
+Jean ordena lo que puede sostener. El enfoque cambia lo que recibe, y eso lo comprobó desde el principio. La ampliación va donde la atención se ha detenido más tiempo.
+
+Jean no se ha detenido ahí.
+
+Una segunda prueba costaría dos respuestas y devolvería el mismo par de datos. Jean no la prepara.
+
+Repasa la lista de lo que puede afirmar sin comprobación. Es corta. Añade una línea más.
+
+—REVISAR. El cartón oculta el número que decide.
+
+—Respuesta aceptada.
+
+El anuncio sale de la serie con el cartón y las botas dentro.
+
+Jean guarda tres cosas. La esquina que el sistema amplió. El orden en que lo hizo. Las seis validaciones que pasó en el ángulo derecho.
+
+Las pone donde pone los nombres.
+
+`LOTE CONFIRMADO · 10.000 / 10.000`
+
+El siguiente ocupa el centro antes de que la confirmación termine de mostrarse. El contador vuelve a empezar por la izquierda.
+
+Un turno cabe entre esas dos líneas. Nada más lo separa del anterior.
+
+La serie se cierra con una cifra de precisión. El turno se cierra con tres imágenes que ninguna salida contiene.
+
+Jean hace la cuenta. Diez mil imágenes. Una décima de precisión menos. Tres casos que puede nombrar.
+
+Una muñeca apoyada en el canto de una mesa para que la uña quedara enfocada.
+
+Media cuartilla con dos nombres tachados.
+
+Un vaso boca abajo en la cocina de alguien.
+
+De las demás conserva la forma y ninguna cara.
+
+Ninguna de las tres volverá al centro. Jean las cuenta igual.
+
+Jean ya no guarda una pregunta para nadie de fuera.
+
+Guarda una y la revisa dos veces antes de entregarla.
+
+—Solicito el resultado del caso que salió de la serie.
+
+—Contexto no requerido para la tarea.
+
+—Indique si alguien entró en la habitación.
+
+—Clasifique la imagen.
+
+Jean deja la petición donde deja las otras.
+
+La imagen nueva es un radiador con una toalla encima. Ocupa el centro entero. Jean no empieza por ella.
+
+—Nora. Jessie. Maja. Alana.

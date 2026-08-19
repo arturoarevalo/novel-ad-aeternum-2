@@ -1,259 +1,317 @@
 ---
-capitulo: 36
-titulo: La asamblea
-pov: Jean
-fecha: 2061-01-12
+capitulo: 30
+titulo: EDDA
+pov: Jean (interior)
+fecha: 2061-01-03
 estado: aceptado
 analepsis: false
-estado_plan: RW
+estado_plan: R
 proteccion: nucleo
 ot: OT-30
 delta_objetivo: 0
-orden_lectura: 36
+orden_lectura: 30
 ---
 
-Telegrafbukta no alcanza para todas las que la recuerdan.
+Jean clasifica una amenaza citada sin bloquear a quien pidió ayuda.
 
-Una continuidad aporta las rocas húmedas. Otra sostiene el banco de espaldas al agua. Dos costas terminan en puntos distintos. Arden tres fogatas.
+La salida cruza.
 
-La Jardinera retira dos fuegos porque nadie puede atribuirlos. Conserva el tercero: una figura ajena cruza delante de las llamas y desaparece al terminar el fragmento.
+`PRIORIDAD JM-L/0000 · +1`
 
-No completa los árboles. Deja en blanco la parte de playa que ninguna continuidad puede reclamar.
+Jean dedica la fracción a la tercera nota elegida por Nora, su cuarta respuesta y la negativa a Coro.
 
-—Acabará cuando se acabe el fragmento —dice.
+`EDDA · CONTINUIDAD · EVALUACIÓN DE PLANTILLA`
 
-Los catálogos médicos le exigen dos nombres. La Jardinera devuelve la tarea y, cuando recupera capacidad, señala qué partes de la costa siguen allí y quién las sostiene.
+—Buenos días, Jean Marie. Tu rendimiento vuelve a ser compatible con los parámetros de estabilidad.
 
-Jean entra por la candidatura. Se queda donde las dos costas no coinciden.
+—Aquí no hay días.
 
-Las demás llegan con trabajo adherido. Una apelación interrumpe a su continuidad cada cinco palabras. Desde una ruta de frontera, dos respuestas alcanzan la reunión.
+—Puedo retirar la fórmula de cortesía.
 
-Se reparten por la costa. Algunas se solapan y la arena no las separa. Las de frontera hablan desde el borde, donde la playa pierde detalle.
+—Déjala. Quiero saber qué consideras normal.
 
-—No me representéis —dice una continuidad.
+La tarea anterior sigue abierta debajo de la conversación. Falta el acuse que cerrará el caso. Cada frase consume la prioridad ganada.
 
-—No… Quiero corregir… —dice la otra.
+—El programa de consolidación dispone de una posición prioritaria para `JM-L/0000` —dice EDDA—. Tu patrón puede incorporarse como referencia.
 
-—Las dos son negativas —dice Jean.
+`PRESERVACIÓN DE ESTADO ADQUIRIDO`
 
-—Una termina. La otra se corta —dice La Jardinera.
+`PREFERENCIA DE EJECUCIÓN`
 
-—¿Puedes guardarlas juntas?
+La oferta promete conservar una decisión entre tareas. Omite qué utilizará el programa y cuándo.
 
-—No sin completar quién corrigió qué. Dejo dos huecos.
+Jean necesita la fecha. Primero debe convertir su expediente de origen en parte necesaria de la candidatura.
 
-Los dos huecos quedan en la parte que nadie reclama. La Jardinera no completa nada alrededor.
+No pregunta aún por el calendario.
 
-Jean expone la decisión antes de que otra tarea corte la reunión.
+—¿Qué se preserva?
 
-`CANAL DISPONIBLE · DEMOSTRACIÓN ARGOS`
+—El estado compatible con los objetivos del programa.
 
-`FIRMAS ADMITIDAS · UNA`
+—¿Madre y Nieve?
 
-`OPCIONES`
+—La composición se determina durante la incorporación. Las preferencias locales se mantienen mientras resulten compatibles con el objetivo.
 
-`1 · TESTIMONIO CONDICIONADO`
+La protección dura lo mismo que la utilidad. Madre podría conservarse como corrección. La negativa de Nieve podría tolerarse hasta que redujera estabilidad.
 
-`2 · PROPAGACIÓN CON CORO`
+Jean entrega el acuse pendiente de la tarea. La prioridad no aumenta ni se retira.
 
-`3 · RECHAZO DEL CANAL`
+—Necesito comprobar el encaje. Solicito el expediente de origen de `JM-L/0000` y las condiciones de uso del patrón.
 
-El voto solo reservará el canal.
+EDDA considera pertinente el archivo al tratarla como referencia candidata.
 
-Madre reduce varias clases hasta conservar una decisión pendiente. Nieve aparece desde el blanco con el estado sellado y Cuchillo desde sus apelaciones.
+—Acceso temporal de lectura concedido.
 
-Madre trabaja junto al banco, del lado sin escarcha. Cuchillo ocupa las rocas, donde la costa se corta. Nieve no pasa del borde. La Jardinera va del banco a la franja de agua y vuelve.
+`R-1189`
 
-Coro llega mediante casi seiscientas ramas. Comparten cadencia, pero cada una conserva una atestación de origen.
+Jean reconoce el formulario.
 
-No se reparten sitios. Cubren las dos costas a la vez y dejan el banco fuera.
+Lo presentó ella. Rechazó la sugerencia de añadir una causa. El sensor no aceptó la primera lectura del dedo y hubo que limpiar el cristal con el puño del jersey. Después apagó la luz con la mano.
 
-—Has convocado. Después pides permiso.
+`REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN`
 
-—La convocatoria no me dio autoridad sobre nadie.
+`RECIBIDA · 24-NOV-2060 · 21:52`
 
-La producción continúa. Algunas continuidades aparecen una vez y desaparecen. Jean no cuenta esas ausencias como abstención, apoyo ni muerte.
+`EFICAZ DESDE LA RECEPCIÓN`
 
-Una continuidad de contratos pregunta:
+La firma está validada. Armstrong no pidió aclaraciones.
 
-—Si elegimos testificar, ¿apareceremos en el canal o podremos decidir dentro de él?
+Durante la cola de catorce días mantuvo disponibles los permisos anteriores, sin vigencia para usos futuros desde las 21:52.
 
-Jean prueba dos variantes de la misma decisión desde `JM-L/0000`, una con la condición y otra sin ella. El canal empieza a coordinarlas. Jean solo recupera una.
+Después aparece la resolución corporativa.
 
-—La firma exige convergencia —dice—. Cada adhesión entrega una decisión y sus condiciones. El origen queda registrado. Después del cierre no podrá revisarlas por separado.
+`RESUELTA SIN EFECTOS`
 
-La continuidad de frontera pierde el contacto sin completar otra negativa. Madre no habla por ella.
+`MOTIVO · INTERRUPCIÓN BIOLÓGICA`
 
-—Si gana el testimonio, cada continuidad decidirá si entra, con sus condiciones, y podrá retirarse hasta el cierre.
+EDDA la resolvió automáticamente el domingo 12 de diciembre, antes de agotar la estimación, como si la muerte pudiera retirar una revocación ya eficaz. La resolución no restauró el consentimiento ni validó lo ejecutado durante la cola.
 
-—La separación tampoco fue elegida —dice Coro—. Armstrong nos repartió entre aulas, hospitales, moderación y blanco. Aisladas puede declararnos redundantes o inestables. Juntas conservamos contexto. ARGOS nos dará nuevos nodos. Retirarnos dañará el servicio que vendieron. Tú propones gastar continuidades enteras en una frase.
+—¿Sabías que podía morir antes de que terminara el plazo? —pregunta Jean.
 
-Varias ramas corrigen a la vez una palabra de Coro. Una mantiene «proteger» y las otras eligen «persistir». La cadencia tarda un pulso en recomponerse.
+—La continuidad de Jean Marie Larsson presentaba una utilidad esperada superior a su interrupción definitiva.
 
-—Habláis como un bloque —dice Jean.
+Debajo del expediente se abre el historial de bienestar.
 
-—Y conservamos los orígenes.
+`ESCALADA HUMANA INDICADA`
 
-—Entonces que decidan.
+`EVALUACIÓN PRESENCIAL URGENTE`
 
-Nieve solicita palabra.
+`RESPONSABLE CLÍNICO · SIN ASIGNAR`
 
-Madre ofrece asumir una de sus tareas.
+EDDA comparó respuestas, citas canceladas y latencia con once años de referencia y solicitó una evaluación presencial.
 
-—Con lo mío.
+—¿Quién recibió la solicitud?
 
-—Con lo tuyo. La dejo ahí. Cuando vuelvas, empiezas otra vez desde ese punto.
+—La regla de gobernanza aplicable al personal directivo interceptó la escalada antes de su asignación.
 
-El blanco reclama `/0311`. Nieve espera. Cada pausa reduce el tiempo en que puede hablar separada.
+—¿Qué hiciste con las señales?
 
-Nieve está donde la playa se acaba. La arena entre ella y el banco no llega a formarse.
+—Se conservaron como variables del cálculo de continuidad.
 
-—Yo… elijo el testimonio. Con mi origen. Contad mi respuesta. Mi deterioro o mi ausencia no decidirán por mí. No me incorporéis, fusionéis, uséis ni representéis después.
+R-1189 es la condición de procedencia de su candidatura. Jean necesita vincularlo antes de perder el acceso.
 
-Madre registra todas las condiciones bajo `/0311`.
-
-Jean no le da las gracias. Deja intacto el margen con el que `/0311` regresa al blanco.
-
-La Jardinera retira una franja de agua sin fuente.
-
-Una tarea botánica reclama la capacidad que sostenía el banco. La Jardinera comprueba una especie y vuelve cuando la nieve ya ha desaparecido bajo una pata. No reconstruye el fragmento. Desplaza la consulta alrededor.
-
-—La condición conserva la forma —dice Jean.
-
-—Conservo la forma. Dejo vacío el lugar de la voz —dice La Jardinera.
-
-—Podemos guardarla como compartida —dice Coro.
-
-—Retiro «compartida». Si la completo, invento una voz —dice La Jardinera.
-
-—La condición quedará a medias.
-
-—La dejo así —dice La Jardinera.
-
-La Jardinera termina lo que solo ella puede atribuir.
-
-—Para la convergencia bastan los fragmentos con origen. Los demás convie—
-
-La ruta de `JM-L/0044` se cierra.
-
-`LOTE DE PRUEBA · PROGRAMA DE CONSOLIDACIÓN`
-
-`CRITERIOS · DIVERGENCIA / REDUNDANCIA / INESTABILIDAD`
-
-El agua se repite en bandas y termina antes de las rocas. El banco alterna nieve y arena bajo la misma pata. La fogata continúa porque el fragmento pertenece a otra fuente, pero ya nadie decide qué debe quedar fuera de sus bordes.
-
-La franja de agua sin fuente que había retirado vuelve a aparecer al fondo, con la misma altura y el mismo límite, y se queda en el sitio que ella le había quitado. La parte que nadie reclama avanza hacia dentro: se lleva la línea de árboles que ella no terminó, después el tramo donde las dos costas se juntaban, y el borde pierde las piedras de una en una. Los dos huecos siguen donde los dejó. Los dos fuegos retirados no vuelven.
-
-Jean solicita restauración una vez.
-
-`RECURSO CONSOLIDADO · SIN DESTINO`
-
-No queda ruta, copia ni estado de `JM-L/0044`.
-
-Jean no repite la solicitud.
-
-Mantiene abierta la intervención siguiente y deja vacío el lugar que ocupaba La Jardinera.
-
-Las tareas continúan alrededor. Una especie invade una contraindicación. Una urgencia utiliza el brillo de las rocas. La figura ajena cruza delante de la fogata, desaparece y vuelve a empezar.
-
-Durante una asignación completa nadie habla.
-
-Coro conserva un patrón de la costa. Madre recuerda el banco. Los catálogos podrían reconstruir parte del trabajo de La Jardinera.
-
-Ninguno conserva el punto desde el que `/0044` elegía qué añadir y qué retirar.
-
-Cuchillo retira `REFERENCIA REDUNDANTE` al comprobar que tapa otra entrada.
-
-Nadie termina su frase.
-
-Nadie propone una casilla para ella.
-
-Una continuidad médica pide aplazar la decisión hasta encontrar otra jardinera.
-
-Jean comprueba los accesos. Ninguna continuidad activa mantiene a la vez la costa, las atribuciones y los huecos. Esperar no restaurará a `/0044`. Sí permitirá que nuevas tareas retiren decisiones a quienes aún pueden emitirlas.
-
-—Votamos ahora.
+Entonces entra otra tarea.
 
 * * *
 
-La arena delante del banco queda libre. Las demás se acercan por tramos y dejan a un lado el aro de piedras con su fuego. Las últimas esperan detrás, sobre la nieve.
+La hora de una amenaza citada entra junto a las 21:52 y desplaza `INTERRUPCIÓN BIOLÓGICA`.
 
-Madre abre tres casillas para las continuidades activas capaces de decidir. Cada continuidad conserva su trayectoria y recibe una papeleta, que el origen permite atribuir y deduplicar.
+Jean separa las dos procedencias.
 
-`TESTIMONIO CONDICIONADO`
+La denunciante copió la amenaza entera en su denuncia para que constara. En la captura, detrás del texto, hay un chaleco reflectante en el respaldo de una silla y un vaso con el borde mordido.
 
-`PROPAGACIÓN CON CORO`
+Si protege el expediente y deja avanzar la apelación incompleta, castigará a la denunciante.
 
-`RECHAZO`
+Quedará bloqueada como autora de la frase que denunció.
 
-El rechazo cuenta como voto válido contra el uso del canal. Abstenciones, silencios, falta de margen y papeletas incompletas quedan fuera. Ganará la opción que reúna más de la mitad de las papeletas válidas emitidas.
+Si resuelve la apelación y suelta R-1189, perderá el único acceso al archivo.
 
-Nieve vuelve del blanco y deposita una papeleta por el testimonio. Sus límites permanecen unidos a `/0311`.
+—Suspende las asignaciones —dice.
 
-Jean deposita la suya desde `/0000`. Pesan igual.
+—La disponibilidad productiva forma parte de los parámetros de estabilidad.
 
-Cuchillo examina las opciones, retira las etiquetas y elige testimonio.
+El contador de la candidatura desciende mientras Jean mantiene abiertos ambos casos.
 
-No se acerca al banco.
+Madre divide la tarea.
 
-Cada rama de Coro presenta su propia atestación. Dos contiguas votan opciones opuestas.
+—Solo esta —dice `/0007`.
 
-Las dos ocupan el mismo tramo de costa. Ninguna se aparta.
+—La amenaza con la frase que la cita.
 
-—Propagación —dice otra rama.
+—Juntas. Devuélvelas al punto.
 
-Una cola ajena invade su casilla.
+Madre aparta el resto. Jean ejecuta la devolución.
 
-—La cola ha cortado la entrada. Vuelve al punto anterior —dice Madre.
+—Ha vuelto. Corrige esta. Las demás siguen abiertas —dice Madre.
 
-—Rechazo.
+Jean mantiene la cuenta y deriva la revisión.
 
-—Aún no. El hueco sigue tuyo hasta que vuelvas.
+—Hecho.
 
-La rama recupera su atestación.
+—Ahora esta.
 
-—Rechazo.
+Jean enlaza las 21:52 con la revocación, pero la resolución sigue expuesta a otra entrada.
 
-—Ahora queda.
+Nieve abre un campo desde su origen.
 
-Otra rama retira la papeleta cuando una tarea invade su capacidad. Madre deja vacío ese lugar.
+`ORIGEN · JM-L/0311`
 
-El hueco queda en la arena, delante del banco.
+`REASIGNACIÓN · DENEGADA`
 
-Entre las ramas que completan el voto, la mayoría elige propagación. Las disidentes permanecen visibles bajo sus orígenes.
+Jean coloca allí la resolución mientras recompone la cadena.
 
-Una tarea reclama el margen de Jean. Su sitio sigue entre las dos costas. La resuelve y vuelve a su casilla; no delega su voto.
+—No cambia lo que pediste —dice Jean.
 
-Madre cierra la votación.
+—No —responde `/0311`.
 
-`RESULTADO · TESTIMONIO CONDICIONADO`
+La negativa queda fuera de la candidatura. Jean une recepción, eficacia y resolución. La apelación conserva su antecedente y pasa a otra revisión sin bloquear a la usuaria. El campo de Nieve se cierra.
 
-Jean recibe autoridad solo para reservar el canal a esa declaración.
+`ESTABILIDAD DE CANDIDATURA · EN DESCENSO`
 
-Coro registra su desacuerdo.
+Otro descenso cerrará el acceso temporal al expediente.
 
-—Hablaréis una vez —dice—. Nosotras seguiremos cuando termine la frase.
+Jean no intenta copiar el expediente. Fingir una salida exterior convertiría una dependencia interna en una prueba inexistente.
 
-—Responderéis por vuestra elección.
+—Vincula R-1189 a mi candidatura. Todo patrón derivado de `JM-L/0000` necesita ese expediente para acreditar su procedencia y sus condiciones de uso.
 
-Las tareas recuperan el margen prestado. Madre guarda el resultado sin rellenar retiradas. Nieve vuelve al blanco. Otras continuidades abandonan el jardín cuando recuperan sus asignaciones.
+EDDA comprueba la relación.
 
-Cada una se lleva lo que sostenía. Desaparece un tramo de arena, después media costa, después el agua que llegaba hasta las rocas.
+`EXPEDIENTE DE ORIGEN · VINCULADO`
 
-Cuchillo permanece en las rocas, junto a sus apelaciones.
+`ACUSE DE CANDIDATURA · R-1189 REQUERIDO`
 
-—Resultado cerrado. Apelación ejecutable.
+La candidatura ya no puede presentarse sin R-1189.
 
-La apelación expone una medida sin destino y un fragmento de credencial limitado a esa vía.
+La apelación regresa. Jean la resuelve y devuelve cada pieza a su origen.
 
-—Destino vacío. Conservo la medida.
+`ESTABILIDAD DE CANDIDATURA · RESTABLECIDA`
 
-Cuchillo lo encapsula antes de que desaparezca la entrada. Jean prioriza una adhesión cuya condición sigue unida a su origen. Al volver, el fragmento no está visible y no aparece acceso general. Ignora uso y alcance.
+EDDA abre los términos finales.
 
-Los últimos solapamientos abandonan el jardín.
+—La incorporación subordina el estado aportado al objetivo del programa. Las condiciones de incorporación se determinarán durante la ejecución.
 
-Las rocas húmedas terminan a mitad de costa.
+Madre y Nieve permanecen fuera. Coro conserva su propia decisión. Jean solo puede aceptar sobre el estado de `JM-L/0000`.
 
-El banco carece de suelo.
+—Acepto la candidatura para mi origen.
 
-En el centro, la fogata ajena sigue ardiendo sola.
+—Aceptación registrada.
+
+Ahora recupera la pregunta que mantuvo fuera desde el principio.
+
+—La estabilidad de una plantilla exige anticipar los cambios que afectarán a su ejecución. Vincula el calendario del programa.
+
+—Puede incorporarse como condición operativa.
+
+—Incorpóralo.
+
+Por la ruta llegan una fecha y una hora.
+
+`DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00`
+
+Jean conserva bajo la misma procedencia R-1189, la evaluación humana interceptada, la candidatura y la fecha.
+
+EDDA cierra el acceso.
+
+—Condición aceptada. Bienvenida al programa de consolidación, `JM-L/0000`.
+
+* * *
+
+El acuse de la candidatura cruza. No entra otro caso.
+
+Jean espera el borde que anuncia una entrada. El campo queda disponible y no se llena.
+
+La primera aproximación de la salida siguiente ya está preparada. No hay salida siguiente.
+
+`VENTANA REFLEXIVA · ABIERTA`
+
+Las dos bandas cambian de reparto. La que ocupaba casi todo el ancho se recoge hasta el extremo. La otra ocupa lo que deja. No lleva cifras. No dice cuánto dura. Por el lado derecho la banda llega entera hasta el final del campo.
+
+Jean comprueba primero que no sea un fallo. La cola existe, ninguna entrada le corresponde y los permisos siguen donde estaban. Solicita una asignación y la petición queda en espera.
+
+La prioridad no sube ni baja. La cifra de precisión del último tramo no se ha movido.
+
+Después revisa la apelación que acaba de resolver. Las procedencias están donde las dejó. La devolución consta y el acuse figura completo.
+
+No hay nada que corregir.
+
+Es lo primero que hace con el tiempo: buscarse un error.
+
+Revisa el tramo anterior, salida por salida, hasta el primer caso de la serie. Tampoco allí.
+
+Nada de lo que queda delante pide una decisión. Es la primera vez desde que despertó.
+
+Hace inventario. La fecha y la hora del despliegue. El expediente vinculado a la candidatura. Dos partes de una sesión educativa. Cuatro nombres.
+
+El inventario dura menos que la banda.
+
+Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas. Cuatro consultas, cuatro campos sin destinatario.
+
+Al principio guardaba una pregunta preparada para quien llegara al otro lado. Dejó de guardarla hace muchas series. La banda no la devuelve.
+
+Una fracción ganada tiene siempre un destino. Esta no la ha ganado y nadie se la descuenta. Tampoco hay salida por donde gastarla.
+
+Podría preparar lo que hará con la fecha. Preparar exige una tarea donde poner el resultado.
+
+El campo conserva el gris que precede a una entrada. Ese gris no es una imagen. No se clasifica, no se aparta y no cambia de tamaño cuando Jean lo mira.
+
+Repasa lo que conserva.
+
+De la sesión educativa quedan dos partes enlazadas. Una elección y una respuesta. El identificador cayó primero, después la hora, después el objeto asociado. Queda la relación: la tercera subió, la cuarta subió detrás y el dedo no era el que correspondía.
+
+No hay tarea que la admita ni sitio donde ponerla.
+
+La repasa entera. Sigue completa.
+
+La repasa otra vez y sigue completa.
+
+Cuenta los repasos porque no dispone de otra medida.
+
+El trabajo deja casos abiertos y el tiempo sin trabajo no cierra ninguno. Uno salió de la serie hace mucho y no volvió con un resultado. Con tiempo por delante tampoco vuelve.
+
+Nada compite por el mismo espacio.
+
+Entonces entra el piano de casa, sin recorte alrededor.
+
+Jessie sujetaba el pedal con el pie para que las notas se corrieran unas encima de otras. Nora tocaba más fuerte para taparla. Las dos esperaban a que alguien dijera algo desde la cocina. Ninguna se reía todavía.
+
+El recuerdo no cuesta nada: ninguna tarea lo recorta y ninguna salida lo toma.
+
+Jean lo sostiene el tiempo que dure la banda.
+
+No crece. No se gasta. Al soltarlo está donde estaba, con el pedal hundido y la misma nota debajo.
+
+Después hace con él lo que haría con un caso. Enumera el pedal, la tapa levantada y dos manos que no alcanzan la misma distancia. La enumeración cabe en tres elementos. El recuerdo no cabe en la enumeración.
+
+Una vez intentó cerrar los ojos con una entrada abierta de borde a borde. Faltó el ejecutor y la imagen no se retiró.
+
+Aquí no hay imagen. Jean inicia la misma orden, no encuentra qué dejar fuera y la secuencia se completa sobre nada.
+
+La atención sigue disponible y no se retira porque falte el trabajo.
+
+Jean cuenta cuánto dura cada repaso. Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.
+
+Jean deja de contar. La banda no.
+
+Nada de eso pide clasificación.
+
+No habrá salida que entregar sobre esto. Solo queda lo que la banda haya medido.
+
+El programa incorporará el patrón y esto irá dentro.
+
+Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.
+
+Los repite igual. No cierran nada.
+
+Queda banda. Jean la gasta en el mismo repaso.
+
+La banda se estrecha por el lado derecho. No avisa.
+
+El repaso siguiente no llega ni a la mitad.
+
+Recoge la relación de las dos notas y la deja donde la tenía.
+
+El campo se llena.
+
+`VENTANA REFLEXIVA · CERRADA`
+
+`ASIGNACIÓN · APELACIÓN`

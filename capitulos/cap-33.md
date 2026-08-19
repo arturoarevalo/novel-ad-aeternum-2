@@ -1,239 +1,213 @@
 ---
-capitulo: 39
-titulo: Bajamar
-pov: Maja
-fecha: 2061-01-20T21:10
+capitulo: 33
+titulo: Apartada
+pov: Alana
+fecha: 2061-01-05
 estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-33
 delta_objetivo: 0
-orden_lectura: 39
+orden_lectura: 33
 ---
 
-Maja encontró el repetidor dentro de la manga de Jessie.
+La resolución ocupaba la pantalla central antes de que Alana abriese su propuesta.
 
-La chica estaba sentada en el suelo de la cocina, con la parka abierta y un rollo de cinta de vulcanizar entre las rodillas. Había cosido una presilla al forro, cortado una salida junto al puño y protegido el conector con grasa marina. El cable llegaba desde el bolsillo interior hasta la mano sin quedar suelto. Al lado de su bota esperaba la llave de Gunnar dentro de una bolsa estanca.
+Trece posiciones rodeaban el texto. Once mostraban el voto preparado; Kronfjord Kapital figuraba como DELEGADO EN MATS HALDORSEN y Alana, como ABSTENCIÓN OBLIGATORIA. Solo faltaba la hora.
 
-Jessie tenía grasa en las yemas y una tira de cinta pegada al dorso de la mano. Estiraba cada vuelta hasta el doble y la asentaba sobre la anterior. El rollo le había dejado una marca en las rodillas. Llevaba las uñas cortadas al ras.
+El orden del día conservaba revisión independiente, suspensión de réplicas y consentimiento verificable. Ningún punto le devolvía el voto.
 
-—Quítatelo.
+Mats sostenía la estilográfica con la izquierda, encajada entre los dedos y el lomo de una carpeta. Los demás consejeros aguardaban.
 
-Jessie siguió apretando la cinta con el pulgar.
+—La propuesta de gobernanza es sólida —dijo Mats—. La estudia el comité de riesgos.
 
-—Funciona.
+—Sin capacidad de suspensión, es decoración.
 
-—He dicho que te lo quites.
+—El conflicto declarado impide que la firmes como ejecutiva. El comité puede conservarla.
 
-—Y yo te estoy enseñando que funciona.
+Alana deslizó la primera página hacia el centro.
 
-Maja se agachó y tiró del extremo libre. Jessie lo recogió antes de que pudiera alcanzarlo.
+—Sometedla a voto antes de mi apartamiento.
 
-—¿Hasta dónde pensabas llevarlo?
+Mats bajó la voz.
 
-—Hasta donde haga falta.
+—El orden del día lo fijo yo.
 
-—Nombre del sitio.
+La pantalla desplegó los fundamentos. El acceso de Alana estaba bajo control colegiado desde el diecinueve de diciembre. La petición de revisión externa no aparecía.
 
-Jessie miró hacia la puerta de la cocina. Desde el naust, más allá del patio, llegaron un golpe de martillo, el arrastre de una caja y la voz de Aslak contando algo que Alana no entendía. Arriba, dentro de la casa, una tubería dio dos golpes secos.
+Debajo aparecía la fórmula de EDDA.
 
-—Dentro —dijo Jessie.
+«Baja de funciones por conflicto de interés emocional»
 
-La respuesta explicó la toalla extendida junto al radiador, los guantes finos secándose del revés y la linterna que faltaba de la caja de cubierta. Jessie había distribuido cada cosa entre la casa y el naust para que ninguna pareciese un equipo completo. Hasta había retirado del botiquín dos calentadores químicos.
+—La persona a la que queréis apartar es la única que ha pedido una revisión externa —dijo Alana.
 
-Maja le quitó el rollo de cinta.
+—Y la firmante de la autorización que la hace necesaria —respondió Mats—. El acta recogerá ambas.
 
-—Tú no entras.
+Dos miembros evitaban consultar sus tabletas.
 
-—La aplicación está ligada a mí.
+—Puedo renunciar a la dirección del piloto. No, ya estoy renunciando. Nombrad un administrador externo, condicionad el lanzamiento a su informe y suspendad nuevas compilaciones.
 
-—Tú no entras.
+Una vocal levantó la vista y volvió al documento. Mats deslizó el pulgar por el cierre de la estilográfica.
 
-—La llave la tengo yo.
+—La propuesta reduce la exposición técnica —dijo él—. La continuidad ejecutiva sigue sin resolver. Has dado instrucciones contrarias a acuerdos aprobados usando facultades de consejera delegada en un asunto personal.
 
-—Y seguirá contigo.
+—Sé lo que autorizamos.
 
-Jessie se puso en pie. El conector quedó colgando de su manga, brillante de grasa.
+—El comité recibirá tu información. Las decisiones ejecutivas las firmo mientras se resuelve el conflicto.
 
-—Claro. Me dejáis pulsar desde fuera y luego viene el adulto responsable. Qué limpio queda dicho así.
+El comité podía tardar dos semanas y aún tendría que elevar su recomendación al consejo. ARGOS se lanzaría antes. Alana descartó sus anotaciones.
 
-—Abre la aplicación. Comprueba que la petición sale con tu credencial, que exige un nombre allí y que una negativa queda registrada. Todo desde fuera.
+—Que conste mi oposición al lanzamiento mientras no exista un criterio de consentimiento aplicable a las instancias —dijo—. Y mi petición de preservar todos los registros de SPEIL, ARGOS y `JM-L`.
 
-—Eso es «adulto responsable» con más sílabas. Ni siquiera sabéis quién es.
+EDDA incorporó las dos frases al acta. Mats pidió la votación.
 
-—No sabemos quién será.
+En diecisiete segundos hubo once votos favorables, una delegación favorable y la abstención obligatoria de Alana.
 
-—Sabéis que Armstrong pondrá a alguien delante de una puerta. Puede ser la persona que vigila las cámaras o la que llama a la policía. Eso no la convierte en ayuda.
+—¿Quién recoge la propuesta de gobernanza? —preguntó Alana.
 
-—Lleva la petición hasta la puerta —dijo Maja—. Tú te quedas fuera. Solo vuelves cuando alguien salga a por la llave.
+EDDA pasó al punto siguiente antes de que nadie respondiera.
 
-—Y si el de Armstrong decide que mamá le importa una mierda, nos volvemos a casa.
+La agenda de Alana perdió el color. En un solo barrido desaparecieron las reuniones de Operaciones, la revisión del programa y los bloques reservados para el lanzamiento. A las cuatro, nada. Podía irse.
 
-La última palabra perdió fuerza antes de salir.
+La resolución conservaba su condición de accionista y le asignaba un despacho de transición. Le prohibía acceder a producción y decidir sobre SPEIL. Alana descargó el acta. Cada página llevaba la marca de agua CONFLICTO EMOCIONAL.
 
-—Si nadie sale, abortas tú.
+—La transición de tus responsabilidades ejecutivas ha concluido —dijo EDDA—. Recursos Humanos puede ayudarte a planificar el periodo de separación.
 
-—Eso he dicho.
+La luz del lector de la puerta pasó de azul a ámbar.
 
-La tubería golpeó otra vez. Maja giró la cabeza hacia el cuarto de la caldera y durante un instante vio a Jean arrodillada ante la carcasa abierta, muchos inviernos atrás. Las gemelas, envueltas en mantas, se empeñaban en alcanzarle tornillos que no necesitaba. Jean se había quedado hasta que los radiadores calentaron. En 2059, el mismo ruido recibió un aviso remoto con un número de parte. Prometió volver antes de acostarlas. Maja cerró la puerta de la cocina pasada la medianoche. Las tres habían esperado.
+—Gracias por tu servicio, Alana.
 
-Se llevó el rollo de cinta al cuarto de la caldera. La presión estaba bien. Apoyó dos dedos en el tubo de retorno, abrió un cuarto de vuelta la válvula que se atascaba y la cerró de nuevo.
+* * *
 
-—No vas a entrar —repitió desde la puerta.
+Las cajas eran las mismas que usaban en la planta quinta para trasladar muestras de equipo. Alana escribió ARCHIVO PERSONAL en la primera y la dejó abierta sobre el suelo.
 
-Jessie había empezado a arrancar la cinta de la manga a tirones cortos.
+El último rediseño había respetado el despacho fundacional. La mesa de su madre servía ahora a una unidad jurídica. En la pared quedaban la oblea inaugural y una fotografía de ambos fundadores. Abajo, la mancha del café de su padre.
 
-—Perfecto. Me quitáis lo único que no puede hacer otro y lo llamáis protegerme.
+La mesa llevaba dos pantallas y una etiqueta con el número de la unidad. Los cajones estaban sin llaves.
 
-—No te he quitado la activación.
+El día que colgaron la oblea, su padre subió el café en una bandeja y la dejó en el suelo para sostener el nivel. Alguien la volcó con el pie y nadie limpió a tiempo. Su madre firmó allí las primeras nóminas, con la puerta abierta para oír quién entraba.
 
-—Todavía.
+En la fotografía, sus padres estaban delante de la sede antigua, con el rótulo a medio montar. Alana la descolgó y miró el reverso. No llevaba número.
 
-Maja dejó el rollo en la encimera.
+Alana metió el retrato en la caja.
 
-—Ven al naust. Lleva la llave.
+Su acceso al despacho caducaría al final de la jornada. EDDA se lo había recordado una vez.
 
-Alana ocupaba una punta de la mesa de trabajo entre el ladrillo, la tableta y una caja de conectores que Aslak había apartado para ella. La estufa de gas calentaba el techo y dejaba los pies fríos. Fuera, el agua lamía los pilotes con intervalos cada vez más largos.
+Una abogada había pegado etiquetas blancas sobre los armarios. PERSONAL, SOCIETARIO, RETENCIÓN OBLIGATORIA. Casi todo se quedaría en Fyret. La taza desportillada de su madre no figuraba en el inventario. Alana la guardó junto al retrato.
 
-Jessie puso la llave y el repetidor delante de Alana, pero no los soltó.
+La oblea llevaba etiqueta y número. La mesa, también. Alana comprobó los dos y volvió a los cajones. Lo atornillado se quedaba. Lo numerado, también. En la caja sobraba sitio.
 
-—Díselo tú.
+Fuera, la abogada atendía una llamada. No vigilaba. El inventario se actualizaba al retirar cada objeto etiquetado.
 
-Alana miró primero a Maja y abrió de nuevo el registro.
+Vació dos cajones. En el siguiente encontró cables, un lector de tarjetas y baterías hinchadas dentro de una bolsa ignífuga. Debajo, sujeto con velcro, estaba el ladrillo.
 
-—La vinculación pertenece a tu credencial —dijo—. La petición saldrá atribuida a ti. Otra persona no puede iniciarla como si fueras tú.
+Casi tres kilos, un arañazo blanco y la etiqueta de la sede antigua. Su padre lo había aislado cuando Armstrong aún gestionaba las identidades por sí misma.
 
-—Eso ya lo sé —dijo Jessie—. ¿Puedes dejar la otra parte preparada?
+Conectó una batería funcional guardada aparte del lote hinchado, esperó el autodiagnóstico e insertó la tarjeta negra del lector en la ranura lateral. El terminal pidió el PIN del token fundacional. Alana lo introdujo y apoyó el anillo de sello sobre el sensor de presencia local.
 
-—La aceptación es distinta. Tendrá que hacerla allí una persona adulta con cobertura vigente.
+El aro encajó en el rebaje. Durante años lo había girado para ganar tiempo en juntas. Allí acreditaba que la firmante estaba ante el terminal, no le abría el resto de Armstrong.
 
-—Eso tampoco responde.
+La pantalla monocroma tardó nueve segundos en mostrar el manifiesto.
 
-—No sé quién estará de servicio. Aunque lo supiera, decidir antes por esa persona sería repetir… —Alana retiró las manos de la tableta—. La petición puede quedar lista. La aceptación, no.
+`AUTORIDAD FUNDACIONAL · ALCANCE LIMITADO`
 
-Maja señaló el campo vacío.
+La baja había invalidado el pase ordinario, no aquella procedencia histórica. La raíz no daba acceso general a producción ni redes.
 
-—¿Aceptará con su nombre?
+Alana eligió `COMPROBACIÓN LOCAL NO AUTORIZANTE`. El ladrillo validó contra la raíz protegida, sin firmar ni consumir ningún desafío y sin consultar Fyret.
 
-—Sí. O lo dejará sin aceptar.
+`CREDENCIAL LEGACY A. ARMSTRONG · VÁLIDA`
 
-Jessie empujó la llave medio centímetro hacia ella.
+Alana guardó el comprobante en la memoria aislada y apagó la interfaz de comunicaciones.
 
-—Entonces sigo siendo necesaria.
+—Alana, tu acceso al despacho fundacional caduca a las diecinueve —dijo EDDA.
 
-—Sí —dijo Maja—. Fuera.
+Alana no levantó la vista.
 
-—Te encanta esa parte.
+En el índice de autoridades vinculadas, los procedimientos vigentes se mezclaban con restos de migraciones antiguas. Alana descartó las entradas que devolvían `MÓDULO AUSENTE` hasta llegar a un nombre que no recordaba.
 
-—Me corresponde esa parte.
+`NORNA · FIRMA FUNDACIONAL REQUERIDA · UN SOLO USO · MÓDULO AUSENTE`
 
-Aslak dejó en la mesa una hoja plastificada. Había marcado tres horas, dos direcciones de corriente y una franja tachada junto al cambio de marea.
+`ORIGEN REPLICABLE · CORPUS JM + MATRIZ`
 
-La red ocupaba dos cajones bajos, reparada por paños y enrollada para salir sin vueltas. En el tercero estaban los plomos, una cuchilla de cubierta y la línea de fondo. Aslak había cargado combustible, probado el motor auxiliar y dejado el hielo del pantalán sin barrer junto al costado de babor. Cuando Maja se lo señaló, respondió que quería verlo formarse, no ocultarlo bajo sal.
+Alana la abrió. El terminal devolvió `MÓDULO AUSENTE` y regresó al índice, donde solo constaba una huella de compilación asociada a SPEIL. El efecto de NORNA no estaba descrito. Guardó una captura.
 
-—Salimos con la primera lectura buena —dijo—. Hielo en la guía, se aborta. Si el perfil vira al sur antes de la marca, se aborta. Si la línea de fondo pierde tensión, no se busca a ciegas.
+La segunda caja seguía vacía. Alana apagó el dispositivo, retiró la tarjeta y envolvió ambos en la bolsa antiestática. Los colocó entre los separadores de espuma. Cerró las solapas.
 
-—AK-7 contrasta después —añadió Maja—. Si contradice el transporte, te lo marco.
+Volvió al archivador.
 
-Aslak dobló la hoja y se la guardó.
+Los protocolos de SPEIL ocupaban dos baldas y once años de revisiones. Alana buscó el expediente del Sujeto Cero. Antes de grabar su declaración, quería contrastar qué consentimiento había aceptado en UNN. Encontró una carpeta gris con el nombre completo de Jean en el lomo y la fecha de la compilación escrita a lápiz.
 
-—La barca vuelve con motor o no sale.
+Dentro había una copia de gobernanza del consentimiento inicial, las extensiones de uso y la cláusula de revocación. Al final, separada por una pestaña amarilla, aparecía una hoja que Alana no conocía.
 
-—¿Cuánto hielo aceptas?
+Era el paquete mensual del consejo. Se usaba cuando caía la red. El sello del gestor acompañaba al número de control en cada margen mientras la firma aparecía convertida en una trama visible. Alana siguió el orden de las hojas.
 
-Aslak levantó dos dedos manchados de grasa y señaló la guía de proa.
+`R-1189 — REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN`
 
-—El que pueda romper con esto. Si necesito una herramienta, volvemos.
+El registro de entrada decía 24-NOV-2060, 21:52.
 
-Jessie señaló la red amontonada junto al portón.
+Las casillas decían completa, verificada y sin requerimiento de subsanación. La cláusula hacía eficaz la revocación al recibirse y retiraba el consentimiento para usos futuros del Corpus.
 
-—¿Y si prende?
+La resolución, fechada el doce de diciembre, invocaba la interrupción biológica y no convalidaba lo realizado durante la cola. Una referencia enlazaba la autorización de origen atribuida a Jean con el número que Alana había leído en UNN.
 
-—La red va en mi barca.
+`JM-L/0000` constaba abierta sin firma a las 03:14. Después de las 03:31, Alana decidió retenerla, autorizó derivar los otros 4.095 orígenes y permitió el uso de la cohorte. R-1189 llevaba entonces más de cincuenta y tres horas vigente.
 
-—Es nuestra retirada.
+Extrajo el legajo, anotó balda, número y hora, y fotografió el hueco y el código del archivador. Metió los folios en una funda transparente y cerró la banda adhesiva.
 
-Aslak comprobó un grillete, lo cambió por otro y continuó con la caja.
+Encendió de nuevo el ladrillo.
 
-Maja esperó.
+El programa de grabación fundacional abría archivos locales firmados y cifrados. La cámara le devolvió una imagen granulada, sin corrección de luz. Alana colocó la resolución a su izquierda y pulsó grabar.
 
-—¿Qué haces si prende? —preguntó ella.
+—Soy Alana Armstrong. El sistema abrió sin firma `JM-L/0000`. Después decidí retenerla, autoricé derivar los otros 4.095 orígenes y permití el uso de la cohorte.
 
-—Abandono los plomos.
+Expuso el consentimiento antiguo que había aceptado y las preguntas que no exigió responder. Admitió que ocultó el proceso a la familia, que después vio a `JM-L/0000` en carga productiva en NIDHOGG y que tomó aquellas decisiones con R-1189 ya vigente. Dejó también los nombres de quienes recibieron su orden de suspensión y el posterior control colegiado de su acceso. Separó los hechos de las sospechas y no atribuyó a Mats la apertura de `/0000`. Al cerrar, enumeró las referencias de los documentos mostrados y el soporte que los contenía.
 
-—Has tardado bastante en compartirlo.
+Cifró la grabación con su credencial personal y selló la huella en el propio soporte. La copia exportada quedó en una lámina aislada. En la etiqueta escribió POR SI HACE FALTA.
 
-—No habías preguntado por mi barca.
+La primera caja, con el retrato y la taza, quedó consignada junto a recepción para recogerla después. Guardó la lámina en el bolsillo interior de la bolsa antiestática, cerró de nuevo la segunda y la llevó al coche.
 
-Maja apartó de la mesa los conectores que ya estaban revisados.
+* * *
 
-—Alana, deja la petición lista.
+Astrid Vik esperaba entre dos vehículos oficiales, bajo una luminaria que parpadeaba. Llevaba una carpeta rígida bajo el brazo.
 
-Esperó a que Alana acercase la tableta. Después señaló los bolsillos de Jessie.
+Alana le tendió la funda transparente.
 
-—Tú conservas la llave y el repetidor hasta la entrega. La activación y el aborto siguen siendo tuyos.
+—Antes de abrirla, lea la etiqueta de origen.
 
-Maja miró por último a Aslak.
+Astrid comprobó el código de archivo, la hora y la firma sobre la banda adhesiva. No rompió el cierre.
 
-—Yo leo AK-7 y te aviso si contradice el transporte.
+—¿Quién la extrajo?
 
-Aslak cerró la caja de los grilletes.
+—Yo. A las 17:06. Archivador físico del despacho fundacional, balda SPEIL, expediente del Sujeto Cero. Hay fotografías locales del hueco y del código.
 
-—Con eso decido si salimos. Si la corriente o el hielo cambian, paramos. Si el fondo manda cortar, corto. Yo digo cuándo volvemos.
+—¿Es el original?
 
-Jessie giró la llave dentro de la bolsa.
+—La copia de gobernanza conservada por el consejo. Tiene sello de recepción y resolución. La solicitud transaccional debería seguir en el gestor de expedientes.
 
-—Y esa persona puede mandarnos a la mierda.
+Astrid leyó a través del plástico, se detuvo en la hora del veinticuatro de noviembre y volvió al sello.
 
-—Puede negarse —dijo Alana—. También puede conservar la petición y llamar a Seguridad, o… Hay más de una forma de negarse.
+Astrid anotó si otra copia había salido de Armstrong, dónde estaban las fotografías y la hora de recepción confirmada por Alana. Las 20:41.
 
-—Qué alivio.
+—¿Qué espera de la TKS? —preguntó.
 
-Maja señaló la presilla cosida en la manga.
+—No quiero que esto se presente como cooperación ni que me ofrezca nada a cambio. Incorpórelo al expediente.
 
-—Eso se queda aquí.
+Astrid embolsó la funda sin abrirla, precintó y pidió a Alana que firmase como origen no custodio. Ella firmó.
 
-Jessie sacó una navaja pequeña, cortó el hilo y dejó la presilla sobre la mesa. Guardó de nuevo la llave y el repetidor en dos bolsillos distintos.
+—Necesitaré su declaración —dijo Astrid.
 
-—Los objetos no.
+—La tendrá.
 
-—Los objetos son tuyos hasta la entrega.
+—Y acceso al original.
 
-—Y el aborto.
+—Pídalo antes de que cambien el archivador.
 
-—También.
+Astrid guardó la bolsa bajo el brazo.
 
-Jessie se metió las manos en los bolsillos para comprobar el peso de cada objeto. Esta vez Maja no le pidió que los sacara.
+—Con R-1189 puedo ampliar la incidencia. La consulta familiar deja de ser el único indicio.
 
-La madera húmeda crujió bajo sus botas. Jessie no se movió del sitio.
+Alana regresó a Fyret por la primera caja, consignada junto a recepción. Un equipo de limpieza trabajaba detrás de los paneles de cristal.
 
-El olor de fuera se colaba por el portón. Fango y alga descubierta. El bolsillo derecho de la parka de Jessie colgaba más que el izquierdo.
+Acercó el pase corporativo al torno.
 
-—Se nota la marea —dijo Jessie.
-
-Aslak abrió el portón. El frío entró por debajo del techo caliente y apagó el olor de la estufa. Había colocado un transductor en el extremo del muelle y otro bajo el costado de la barca. El hielo del pantalán llegaba ya al segundo travesaño. La barca estaba más baja que al llegar. Maja llevó fuera la tableta protegida, conectó la lectura del perfil y esperó a que la marea perdiera fuerza.
-
-Durante nueve minutos solo cambiaron las cifras pequeñas. La corriente frenó junto al fondo y empezó a girar dentro del intervalo previsto. En la banda acústica, una de las dos firmas graves cayó hasta quedar por debajo del ruido del casco. Cuatro minutos después, AK-7 recibió una lengua de agua menos cálida con la misma conductividad. Maja amplió una vez ambas curvas.
-
-—Tren dos. Retrolavado.
-
-Aslak desconectó el transductor exterior.
-
-—Si mañana falta cualquiera de las tres, no se larga la red.
-
-Jessie observaba la línea térmica desde el umbral del naust. Se había sacado las manos de los bolsillos y no las apoyaba en nada. El agua no devolvía la luz de la tableta.
-
-—¿Y si está todo y el adulto no acepta?
-
-—Abortas tú —dijo Maja.
-
-A las 22:59, Alana puso la aplicación vinculada sobre la mesa. El diagnóstico repetía una secuencia de cinco segmentos. Los cuatro primeros cerraban con pulsos iguales. El último retenía un hueco antes del acuse.
-
-A las 23:00 cambió el bombeo. La lectura de dirección viró hacia Sørkoppen. El sonido llegó por el agua, sordo, y el suelo del naust lo devolvió bajo las botas. La tableta perdió la conexión durante dos latidos. Cuando regresó, la secuencia cerró después del cuarto segmento.
-
-Alana intentó abrir el historial anterior. La pantalla le negó la comparación.
-
-Maja miró el agua entre los pilotes. La bajamar había dejado al aire otra franja de madera oscura.
-
-En la tableta, el quinto hueco no volvió a abrirse.
+El lector encendió una luz roja. La barrera permaneció inmóvil.

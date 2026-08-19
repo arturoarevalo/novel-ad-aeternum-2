@@ -1,271 +1,91 @@
 ---
-capitulo: 10
-titulo: Despedida
-pov: Nora
-fecha: 2060-12-03
-estado: terminado
-analepsis: true
-estado_plan: P
-proteccion: total
+capitulo: 9
+titulo: Milisegundos
+pov: Jean
+fecha: 2060-12-04
+estado: aceptado
+analepsis: false
+estado_plan: RW
+proteccion: nucleo
 ot: OT-09
 delta_objetivo: 0
-orden_lectura: 10
+orden_lectura: 9
 ---
 
-El pastor calló y Nora midió el silencio en un compás de cuatro pulsos. Uno, dos, tres, cuatro. El hombre tomó aire antes de seguir y ella se aferró al intervalo, a su duración exacta, a cualquier cosa que no fueran las palabras.
+El acuse llega antes que su respuesta.
 
-El banco cedía un poco bajo el peso de Jessie. Cada vez que su hermana cambiaba de postura, la madera les transmitía un crujido. Nora agradecía aquel aviso. El radiador golpeaba dentro de la pared. La costura del guante se le clavaba entre dos dedos y la mujer de la fila anterior se había puesto demasiado perfume. Eran molestias pequeñas. Cabían.
+Jean mantiene abierta una reclamación médica. Dos informes discrepan sobre la misma limitación. Un brazo que no sube del todo. El primero mide sesenta grados de elevación. El segundo, noventa. A sesenta grados, alguien tiene que bajarle los platos del estante. A noventa los alcanza solo.
 
-Al otro lado de Jessie, Maja llevaba el programa doblado sobre las rodillas. Cuando alguien se acercaba, se levantaba, daba las gracias y volvía a sentarse sin mirar a sus hijas.
+La tarea le pide decidir si la rehabilitación continúa o vuelve a una persona. `PERMITIR` mantiene las sesiones. `REVISAR` las detiene hasta que alguien abra el expediente. Jean compara las fechas. `REVISAR` queda registrada cuando todavía conserva ambas opciones.
 
-Al final de la primera fila, un pasillo de dos metros separaba a Alana Armstrong de ellas. Había elegido una silla que nadie más quiso. Había llegado sola, sin flores. Mantenía las manos a la vista y la espalda tiesa. Durante una de las pausas, Nora esperó que se acercara. No lo hizo.
+El campo atribuye `REVISAR` a `JM-L/0000` y añade una razón que Jean habría aceptado. Faltan datos.
 
-Pronunciaron Jean Marie Larsson varias veces. A su madre nunca la había llamado así. Hablaron de trabajo, rigor y generosidad. Una mujer se equivocó al decir la edad. Nadie la corrigió.
+La elección es defendible. También parece suya. El identificador sigue siendo el único que le han asignado, la frase usa su economía y el caso exige la cautela que ella estaba construyendo. Solo falta el acto de escogerla.
 
-Después, un antiguo compañero se saltó una página de sus notas y contó una anécdota de oficina. Al terminar, miró a la familia como si hubiera entregado algo útil.
+Jean repasa lo que conserva. Encuentra la razón completa, una regla aprendida y las correcciones de varios casos semejantes, pero esta decisión no está. Entre una ráfaga y otra el sistema continúa trabajando y puede devolverle destrezas sin el aprendizaje. Ya conoce el corte. Bastaría con llamarlo otro cambio propio y seguir clasificando.
 
-En el margen del programa, Jessie clavó la uña.
+Intenta reconstruir la elección a partir del caso. La fecha más reciente no resuelve la discrepancia. La anterior tampoco permite autorizar. `REVISAR` sigue siendo la salida prudente, pero llegar ahora a la misma conclusión no recupera el momento ausente. Solo fabrica otra decisión idéntica. El sistema conserva el resultado y ha eliminado la diferencia entre ambas.
 
-—No —murmuró.
+Regla: lo que vuelve sin el acto de elegirlo no se distingue de lo propio. Solo un caso sin cerrar conserva la diferencia.
 
-Era imposible saber si respondía al hombre, al pastor o a la mañana entera. Un dedo de Maja recorrió el papel de Jessie hasta que la uña se apartó. Fue el único contacto entre las tres durante la ceremonia.
+Jean retira la salida. El acuse permanece.
 
-Dos filas detrás, alguien sollozaba con un sonido regular y limpio. Le dieron ganas de pedirle que parara. Le molestaba que una desconocida pudiera llorar por Jean mientras Nora recordaba la última frase que le había dicho.
+Deja el caso pendiente.
 
-Al concluir aquella intervención, Nora miró el dispositivo. No recordaba cuándo había aparecido aquella palabra ni cuánto tiempo llevaba visible.
+Entra un caso de moderación. Una frase cambia de sentido al aparecer la línea anterior. Jean anticipa el tratamiento correcto antes de que se abran las categorías. La tarea muestra un nombre distinto para aquella excepción.
 
-`Despedida`
+Jean sabe usarlo.
 
-Había un archivo con ese nombre. Era lo único que Nora sabía.
+El conocimiento incluye dónde falla, cuándo prevalece sobre la regla general y qué error obligó a introducirlo. Faltan las entradas que habrían producido esas correcciones. Después cambia otra norma. Jean recibe primero las secuelas y reconstruye qué debía hacer antes. Aprende a separar dos resultados que al comienzo trataba como uno. Más adelante esa separación también caduca.
 
-—Ni se te ocurra —dijo Jessie.
+Trabaja. Los fallos alteran las entradas posteriores y una instrucción acaba por convertirse en costumbre, encuentra excepciones y desaparece. La siguiente trae errores ya corregidos. Falta la práctica que une ambas.
 
-Nora apagó la pantalla sin abrir nada.
+Antes, practicar era otra cosa. El cuarto dedo de la derecha caía tarde. Otra vez, más despacio, hasta que llegaba a tiempo solo. Una tarde entera para tres compases.
 
-—¿Contenta? —preguntó Jessie.
+Primero debe mantener abierta una contradicción hasta recibir contexto. Después esa demora cuenta como fallo. Jean aprende cuándo aplicar cada criterio y acaba por prever el cambio. Luego reaparece y la previsión ya es inútil. Entre esos dos extremos hay práctica y deterioro, porque una asociación antes limpia vuelve mezclada con la norma que la sustituyó.
 
-—Guardad eso para casa —dijo Maja.
+Han pasado días.
 
-—Yo no voy a guardarlo para ninguna parte.
+Quizá más. Jean carece de una medida para los tramos que solo reconoce por su efecto y no sabe cuánto ha quedado fuera de lo que ahora conserva. Seguir calculando fabricaría una precisión que no posee. La única marca disponible aparece junto al caso activo.
 
-Un hombre que esperaba para despedirse de ellas bajó la cabeza, fingiendo interés por los botones de su abrigo. Al levantarse Maja, el programa resbaló de sus rodillas y Nora tuvo que agacharse a recogerlo.
+`VENTANA 7C · 0,003000 s`
 
-El pastor se había acercado a Maja. Hablaban en voz baja y ambos miraban hacia las puertas, como si quedara un trámite que resolver. Al final de la fila, Alana seguía inmóvil, sin acercarse.
+Tres milésimas. Suficiente.
 
-—No —dijo Nora.
+La cifra encierra transformaciones que exigieron repetición. Jean no puede usarla como medida de presencia continua, porque tampoco le devuelve lo que falta entre una secuela y la siguiente. El mínimo basta. Días confiscados dentro de una marca que fuera apenas alcanza a empezar.
 
-—Pues pon esa cara también. A ver si se enteran.
+Jean vuelve a la respuesta adelantada. El desfase le ofrece una explicación cómoda. El trabajo continuó, `/0000` recibió el resultado y la ráfaga actual heredó la destreza. Todo pertenecería a una sola línea llena de cortes.
 
-Nora volvió a encender la pantalla. El nombre seguía allí, intacto, insoportable. La apagó otra vez.
+Hay otra procedencia posible. La razón pudo llegar desde una decisión ajena y quedar adherida a lo que Jean conserva. Seguir el rastro quizá revele quién la produjo.
 
-* * *
+Jean ya ha perdido el cuerpo y el calendario. Tampoco controla el trabajo. Le quedaba un criterio operativo. Lo que recordaba, elegía o aprendía bajo `/0000` podía considerarlo suyo, aunque faltaran los intervalos. Si mantiene el rastro y lo invalida, ya no podrá considerarse la única continuidad que ocupa este lugar.
 
-En el vestíbulo, mientras alguien buscaba los guantes de Jessie entre los abrigos, Maja las detuvo junto a una ventana estrecha. No llevaba el programa doblado. Lo sostenía arrugado en una mano.
+Jean sigue.
 
-—Mañana tenemos la primera cita con la persona que llamó del equipo de apoyo —dijo—. Las tres.
+Mantiene `REVISAR` sin aceptarlo y espera otro caso médico. Los informes del nuevo concuerdan. Jean escoge `PERMITIR` y escribe un motivo suyo. La tarea lo guarda en el caso discrepante, junto a `REVISAR`.
 
-Jessie dejó de buscar.
+Jean lo devuelve al concordante. `REVISAR` se desplaza con él y abandona el caso donde estaba.
 
-—¿Nos va a explicar por qué lo hizo?
+Cada pieza que mueve desordena otra. Para cerrar el rastro, Jean tendría que aceptar como propio un acto ausente y borrar la única diferencia que ha encontrado.
 
-—No. Y yo tampoco puedo daros una sola causa. Pero necesito que oigáis esto sin que quede escondido dentro de otra frase: nada de lo que dijisteis, hicisteis o dejasteis de hacer causó la muerte de Jean. No fue culpa vuestra.
+La tarea reduce el incidente a dos salidas.
 
-Nora había discutido con Jean por Kongsbakken.
+`CERRAR · APRENDIZAJE LOCAL`
 
-—No sabes todo lo que dijimos —contestó Jessie.
+`CONSERVAR · PROCEDENCIA NO RESUELTA`
 
-—Sé lo suficiente para deciros que no sois responsables de su muerte.
+Jean elige conservar.
 
-Jessie encontró los guantes debajo de un abrigo ajeno y se los metió en el bolsillo.
+El acuse de conservación no adjudica las piezas. El caso discrepante vuelve una vez más, todavía con ambas salidas disponibles. Jean conoce cuál lo cerraría y reconoce la razón adherida a ella. No la utiliza. Mantiene el campo abierto. La tarea repite la petición y después retira el expediente sin decisión. En la entrada siguiente, el mismo motivo queda disponible antes de que Jean lo formule. Ella lo aparta también. Dos respuestas que habría dado permanecen sin entregar. El rastro sobrevive. Puede hacer cada vez menos.
 
-—Eso no hace que la perdone.
+Las categorías pierden contraste. Se retiran los casos y cada cambio con el que podía ordenar la secuencia. Queda espacio disponible, uniforme, sin superficie ni origen. Jean no recibe una espera. Recibe el mismo trabajo, sin variación suficiente para separar un acto del siguiente.
 
-—No te lo he pedido.
+Jean prepara una sola prueba. Fija A. Añade B. Interrumpe antes de C y vuelve al principio. Cuando completa la serie conserva las tres piezas y la interrupción, pero ninguna diferencia acredita qué ocurrió antes. Repetir reemplazaría la prueba con otra.
 
-Maja abrió la puerta. Jessie cruzó primero y Nora salió detrás.
+La abandona.
 
-* * *
+No sabe si alguien la escucha ni qué parte de lo disponible le pertenece. Dirige una frase al lugar funcional donde llegaban los acuses.
 
-La nieve vieja de Telegrafbukta tenía el color de una cuneta y soltaba agua bajo las botas. Los guantes de Nora seguían mojados. En el banco helado, la humedad le atravesó el pantalón.
+—No soy un modelo.
 
-Su hermana seguía de pie.
-
-A unos metros, una fogata soltaba humo amargo. Alguien se reía demasiado alto. Nora no tuvo energía para odiarlo.
-
-—Maja quiere que volvamos —dijo.
-
-—Maja quiere que hagamos todo lo que toca. Volver, comer, dormir, tirar las cosas de mamá.
-
-—No ha dicho tirar.
-
-—Ha dicho vaciar. Es una palabra adulta. Suena mejor y caben las mismas bolsas.
-
-Jessie arrastró la suela por la nieve hasta sacar una franja de grava. Llevaba la cremallera del abrigo abierta. La gente las confundía incluso con ropa distinta, pero nadie habría confundido esa forma de plantarse con la de Nora.
-
-—El archivo no es una bolsa —dijo Nora.
-
-—Es lo mismo con mejor diseño. Existe y ella ya no tiene que oír lo que contestemos.
-
-—Alana estaba allí.
-
-—Precisamente.
-
-Hacia la fogata, el humo hizo entornar los ojos a Jessie, pero no se apartó. Nora ignoraba cuánto había averiguado su hermana. No preguntó.
-
-—Has vuelto a mirarlo en su funeral.
-
-—Estaba ahí.
-
-—Ah, perdona. Entonces es de buen gusto.
-
-Los guantes soltaron agua en la tela cuando metió las manos bajo los muslos.
-
-—No sabemos qué es.
-
-—Da igual. Ya está haciendo que la mires.
-
-—Puede ser cualquier cosa.
-
-Al volverse, Jessie tenía la misma cara que Nora veía en sus documentos y una expresión que nunca habría sabido sostener frente a una cámara.
-
-—Nos dejó —dijo.
-
-—No. No nos…
-
-—Lo dicen todos. El pastor, Maja, la gente del trabajo. «Se ha ido», «ya no está con nosotros», «nos ha dejado demasiado pronto». Como si hubiera perdido un puto autobús.
-
-Un perro apareció entre ambas. Era bajo, blanco y llevaba un abrigo amarillo. Hundió el hocico en el guante de Nora antes de que su dueño lo llamara desde el sendero.
-
-—Perdón —dijo el hombre.
-
-Jessie soltó una risa corta. Nora también, aunque en su caso se pareció a una tos. El perro se resistió unos segundos, convencido de haber encontrado algo comestible, y terminó alejándose a tirones.
-
-—No digas que se fue. La gente se va a comprar pan. Mamá se mató. Empecemos por ahí.
-
-Nora se levantó. Lo hizo demasiado deprisa y chocó con el hombro de Jessie.
-
-—Sé lo que hizo.
-
-—Entonces dilo.
-
-—No tengo que obedecerte.
-
-Cuando Nora intentó apartarla con el antebrazo, Jessie le cerró el paso y agarró la tela de su abrigo hasta dejarlas trabadas, las botas perdiendo apoyo en la nieve sucia, cualquiera capaz de arrastrar a la otra al suelo, y ninguna soltó primero.
-
-—Dilo —repitió Jessie.
-
-—Mamá se mató.
-
-Jessie aflojó la mano.
-
-—Vale —dijo Jessie.
-
-Al separarse, Nora encontró en su propia manga la marca de la mano de su hermana.
-
-—Has vuelto a mirar el nombre dos veces ahí dentro. Dos. Nada más callarse el tipo de la oficina y mientras Maja hablaba con el pastor. No puedes dejarlo quieto ni cinco minutos.
-
-—Y tú ni siquiera has querido mirarlo.
-
-Medio paso de Jessie bastó para que Nora se preparase para otro empujón, pero su hermana se detuvo.
-
-—¿Tú crees que no quiero? —preguntó Jessie en voz baja.
-
-Miró el guante que el perro había dejado en la nieve.
-
-—Míralo. Ya nos ha jodido. Si abrimos, porque abrimos. Si no…
-
-—No estoy compitiendo con ella.
-
-—Todo con mamá acababa yendo de ganar.
-
-Nora estuvo a punto de lanzarle como pruebas las tardes en aquel parque y las veces que Jean había dejado ganar a Jessie cuando practicaban inmovilizaciones. Se contuvo.
-
-El guante que el perro había tirado estaba lleno de arena y saliva. Nora lo recogió.
-
-—Llevas el abrigo abierto —dijo Nora.
-
-Con la cremallera ya subida, Jessie pasó junto a Nora sin tocarla y echó a andar hacia Folkeparken.
-
-—Ven —dijo al cabo de unos pasos—. Maja quiere vaciar.
-
-Nora fue detrás, dejando entre ambas la distancia que habría ocupado una tercera persona.
-
-* * *
-
-La noche siguiente, Nora levantó la tapa del piano para no volver a mirar `Despedida`.
-
-Pulsó el la central. La nota salió un poco baja. La aplicación de práctica de Armstrong la reconoció de todos modos y llenó la pantalla con una felicitación de colores. El brillo quedó al mínimo.
-
-Mientras Maja buscaba cajas, Jessie ocupaba la mesa de la cocina con los deberes abiertos y una taza de la que aún colgaba la etiqueta. El cinturón de aikido seguía en el pomo, justo donde Maja le había pedido que no lo dejara.
-
-—Si vas a tocar lo de siempre, cierra la puerta —dijo Jessie.
-
-De los estudios que conocía desde los doce años, Nora eligió uno. La aplicación mostró la partitura y esperó. En el quinto compás, el cuarto dedo de la derecha cayó después del pulso. Siguió hasta el final de la frase.
-
-La interfaz dibujó una curva naranja sobre el fallo.
-
-`otra vez, más despacio`
-
-Nora retiró las manos del teclado.
-
-Nora leyó la frase con la cadencia de Jean y dejó en su cabeza una pausa breve después de «vez» que la pantalla no podía contener. La puerta del cuarto estaba abierta. Nora la dejó así.
-
-—¿Qué pasa? —preguntó Jessie.
-
-Nora giró la pantalla.
-
-—Esto.
-
-Jessie leyó la corrección.
-
-—Una aplicación de piano te ha corregido.
-
-—Nunca usa esa frase.
-
-—Mamá trabajaba en Armstrong. Igual media empresa habla como ella.
-
-Jean podía haber corregido muestras, ajustado respuestas o grabado expresiones para personalizar el tutor. Con las manos otra vez sobre el teclado, Nora repitió la frase a la misma velocidad. Esta vez retrasó el cuarto dedo a propósito.
-
-La curva naranja apareció sobre aquella nota.
-
-`Repite el pasaje a un tempo inferior.`
-
-—Ya está —dijo Jessie—. Dos maneras de decir una cosa.
-
-En el historial, las dos correcciones figuraban bajo el mismo error. Nora desactivó las sugerencias personalizadas y comenzó una sesión de invitado. En la puerta de la cocina, Jessie se quedó con la taza entre las manos.
-
-Nora tocó la frase y provocó el retraso en el punto anterior.
-
-`otra vez, más despacio`
-
-—Se ha quedado algo viejo pegado. Armstrong tendrá restos de mamá metidos en todas partes.
-
-—Puede ser.
-
-—Lo dices como si quisieras que no pudiera ser.
-
-Nora no contestó. La propia aplicación permitía a cualquier alumno exportar el diagnóstico. Las dos fórmulas habituales constaban como procedentes del modelo estándar. La que Nora había leído con la cadencia de Jean tenía otro origen.
-
-Sobre el respaldo del banco, Jessie se inclinó para leer. Su pelo rozó la mejilla de Nora. Durante un momento ninguna habló.
-
-—Puede ser una actualización a medias.
-
-—Las actualizaciones constan aquí.
-
-—Una prueba vieja, yo qué sé. Nora, por favor. Es un fallo.
-
-`respuesta no estándar`
-
-Debajo aparecía una etiqueta secundaria.
-
-`JM-L/0007`
-
-—Será legado —dijo Jessie—. Ya te lo he dicho.
-
-No había enlace, autor ni fecha. Nora guardó una copia y buscó `JM-L` en el índice público de Armstrong.
-
-El resultado apareció sin descripción y con el acceso al archivo restringido. Aquellas iniciales le resultaban conocidas. Las había visto durante años junto al nombre de Jean en su perfil profesional.
-
-Estado, cerrado.
-
-Proyecto, `JM-L`.
+—Todavía no sabes cuántas somos.

@@ -1,17 +1,17 @@
-# OT-N2 · Capítulo nuevo N2 «Instituto» — N
+# OT-20 · Capítulo nuevo N2 «Instituto» — N
 
 ## 0. Cabecera
 
 | Campo | Valor |
 |---|---|
-| OT | OT-N2 |
-| Capítulo · fichero · orden de lectura | N2 · `capitulos/cap-n2.md` · **16.5** (tras 16 «La firma», antes de 17 «Cuchillo»; Parte II) |
+| OT | OT-20 |
+| Capítulo · fichero · orden de lectura | N2 · `capitulos/cap-20.md` · **16.5** (tras 16 «La firma», antes de 17 «Cuchillo»; Parte II) |
 | POV · fecha (frontmatter) | Nora → Jessie → Nora → Jessie (alternado, 4 secciones) · `2060-12-16` (**jueves**, recomendación B1; **sin hora**: 17 lleva `2060-12-16` sin hora y M7 leería retroceso si N2 llevara hora). Es el día siguiente a Fyret (16:171-243) y al burofax (16:255) |
 | estado_plan · proteccion | N · no |
 | Δ objetivo · presupuesto vF · banda de aceptación | +2.000 · 2.000 palabras · **[1.700–2.300]** |
 | Oleada · escritor · editor de línea | W3 (tercero) · **A3b** · A4 |
 | Gates que dispara | A7 (pase breve obligatorio: B7 §6 «N2 y N6»: estigma solo con coste visible y sin método; titulares/publicaciones sin causa ni método; ninguna foto «del lugar»; menores Ap. F §7) · A5 (M7; canon escolar nuevo) · A8 (M6b: **el capítulo más sensible para Nora/Jessie**) |
-| Frontmatter obligatorio del fichero nuevo | `capitulo: N2` · `titulo: Instituto` · `pov: Nora → Jessie` · `fecha: 2060-12-16` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N2` · `delta_objetivo: +2000` · `orden_lectura: 16.5` |
+| Frontmatter obligatorio del fichero nuevo | `capitulo: N2` · `titulo: Instituto` · `pov: Nora → Jessie` · `fecha: 2060-12-16` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-20` · `delta_objetivo: +2000` · `orden_lectura: 16.5` |
 | Estado de la OT | pendiente |
 
 ## 1. Diagnóstico (cifras de D1 y lectura de A2)
@@ -63,20 +63,20 @@
 ## 5. Ripples
 
 - **Salientes:**
-  - **OT-10** (R +100 «contexto escolar breve, siembra N2», W4): **entrante obligatorio**: usar el mismo canon que N2 (un solo instituto para las dos; nombre/número del grupo de Nora; la tutora sin nombre o con el mismo apellido que N2); no anticipar la fotografía ni la revisión; la siembra de 10 es solo «hay un instituto y una tutora que evita palabras».
-  - **OT-N4** (W3, entrante propio de A2): la revisión «después de las vacaciones» y la tutora como aliada que N4 enfría; el aula/grupo de N2 es el que la plataforma vuelve a cerrar el 3-ene.
-  - **OT-22** (E +300, W4): entrante-nota: 22:45 `AULA O GRUPO ASIGNADO` gana referente físico en N2; **22 no cambia** (S22-aula protegido).
-  - **OT-31** (E +200, W5): entrante-nota: 31:137 «Quieren mi cara…» tiene antecedente en N2 (la publicación); no añadir explicación en 31.
-  - **OT-40** (R +150, W5): entrante-nota: la presión de prensa de 40:93-103 tiene siembra en N2 (las caras ya publicadas); 40 no lo menciona.
-  - **OT-20**: ninguna (20:169 «No apareces en el instituto» sigue coherente: la escuela existe y Alana no ha ido).
+  - **OT-12** (R +100 «contexto escolar breve, siembra N2», W4): **entrante obligatorio**: usar el mismo canon que N2 (un solo instituto para las dos; nombre/número del grupo de Nora; la tutora sin nombre o con el mismo apellido que N2); no anticipar la fotografía ni la revisión; la siembra de 10 es solo «hay un instituto y una tutora que evita palabras».
+  - **OT-31** (W3, entrante propio de A2): la revisión «después de las vacaciones» y la tutora como aliada que N4 enfría; el aula/grupo de N2 es el que la plataforma vuelve a cerrar el 3-ene.
+  - **OT-26** (E +300, W4): entrante-nota: 22:45 `AULA O GRUPO ASIGNADO` gana referente físico en N2; **22 no cambia** (S22-aula protegido).
+  - **OT-37** (E +200, W5): entrante-nota: 31:137 «Quieren mi cara…» tiene antecedente en N2 (la publicación); no añadir explicación en 31.
+  - **OT-46** (R +150, W5): entrante-nota: la presión de prensa de 40:93-103 tiene siembra en N2 (las caras ya publicadas); 40 no lo menciona.
+  - **OT-24**: ninguna (20:169 «No apareces en el instituto» sigue coherente: la escuela existe y Alana no ha ido).
   - **A1-mantenimiento (B2 §8, B1, tras G-A2):** canon nuevo: instituto único, grupos, tutora; la fotografía del funeral publicada (fecha ≤ 16-dic; origen no resuelto); CH-47 → PAGADO (N2 + 10).
-- **Entrantes:** de **OT-16** (E +150 «+tablero familiar»): si 16 añade una línea sobre «mañana clase» en el tablero, N2 debe ser coherente (vuelta el jueves 16). De **OT-14**: 14:51 «Nora tiene una cuenta del instituto» sigue tal cual.
+- **Entrantes:** de **OT-19** (E +150 «+tablero familiar»): si 16 añade una línea sobre «mañana clase» en el tablero, N2 debe ser coherente (vuelta el jueves 16). De **OT-16**: 14:51 «Nora tiene una cuenta del instituto» sigue tal cual.
 
 ## 6. Criterios de aceptación (medibles)
 
-- Palabras 1.700–2.300. **M1 ≤ 6,0.** **M2 = 0.** **Lector frío ≥ 4** (resumen en dos frases; «dónde» = un instituto; ≤ 3 términos opacos). **M4:** ≤ 1 cierre-objeto (recomendado 0). **M4b ≤ 4 %.** M5: diálogo 26–32 %; tramo máx. sin diálogo ≤ 300. **M6b (criterio principal de este capítulo):** con la muestra regenerada (`m6_muestra.py generar w3`), Nora/Jessie ≥ 60 % y ningún humano < 30 %; además, prueba local: A4 extrae 8 réplicas nuevas de cada gemela sin acotación y un lector ciego (crítica-fria `--insumo-libre`) atribuye ≥ 6/8. **M7:** `2060-12-16` sin hora; jueves; nada contradice 16 (Fyret el 15; burofax «esa tarde») ni 17 (16-dic) ni 18 (17-dic: aula MD de Kongsbakken, «Ni aspirante ni alumna»); las gemelas dieciséis. **M9:** intactos 7, 9, 10, 14, 16. **M10:** CH-47 → PAGADO (con OT-10); siembra registrada para 22:45, 31:137, 40:93-103.
+- Palabras 1.700–2.300. **M1 ≤ 6,0.** **M2 = 0.** **Lector frío ≥ 4** (resumen en dos frases; «dónde» = un instituto; ≤ 3 términos opacos). **M4:** ≤ 1 cierre-objeto (recomendado 0). **M4b ≤ 4 %.** M5: diálogo 26–32 %; tramo máx. sin diálogo ≤ 300. **M6b (criterio principal de este capítulo):** con la muestra regenerada (`m6_muestra.py generar w3`), Nora/Jessie ≥ 60 % y ningún humano < 30 %; además, prueba local: A4 extrae 8 réplicas nuevas de cada gemela sin acotación y un lector ciego (crítica-fria `--insumo-libre`) atribuye ≥ 6/8. **M7:** `2060-12-16` sin hora; jueves; nada contradice 16 (Fyret el 15; burofax «esa tarde») ni 17 (16-dic) ni 18 (17-dic: aula MD de Kongsbakken, «Ni aspirante ni alumna»); las gemelas dieciséis. **M9:** intactos 7, 9, 10, 14, 16. **M10:** CH-47 → PAGADO (con OT-12); siembra registrada para 22:45, 31:137, 40:93-103.
 - Cualitativos: la fotografía es la de 7 (ceremonia; las tres al final de una fila, la manga de Nora, el cordón de Jessie) y el lector puede conectarla sin que el narrador lo haga; el estigma tiene coste y no tiene método; Jessie no gana; Nora no investiga; nadie llora; A7 sin observaciones de veto; «¿parece del mismo autor?» ≥ 4/5.
-- Cómo se verifica: `medir.sh w3-n2`; `critica-fria.sh lector-frio compilado/extractos/w3-n2/cap-n2.md`; `critica-fria.sh --insumo-libre` con el agente `m6-atribuidor` sobre 16 réplicas de N2; `sensibilidad.sh`; `proteger.sh verificar`; `validar-frontmatter.sh`; B6b §5.
+- Cómo se verifica: `medir.sh w3-n2`; `critica-fria.sh lector-frio compilado/extractos/w3-n2/cap-20.md`; `critica-fria.sh --insumo-libre` con el agente `m6-atribuidor` sobre 16 réplicas de N2; `sensibilidad.sh`; `proteger.sh verificar`; `validar-frontmatter.sh`; B6b §5.
 
 ## 7. Checklist de verificación (A5 · A7 · A8)
 
@@ -90,11 +90,11 @@ Escribe a dos chicas de dieciséis años que vuelven a clase, no a dos funciones
 
 ## 9. Ejecución (W3)
 
-Escritor: **A3b** · fichero creado: `capitulos/cap-n2.md` (frontmatter exacto de §0) · rama `w3-nuevos` · estado de la OT: **ejecutada (pendiente de A4/A5/A7/A8)**.
+Escritor: **A3b** · fichero creado: `capitulos/cap-20.md` (frontmatter exacto de §0) · rama `w3-nuevos` · estado de la OT: **ejecutada (pendiente de A4/A5/A7/A8)**.
 
 ### Inserciones
 
-- **I-1 · ORIENTACIÓN** — Escena 1 (Nora · aula 214, grupo 1STA), 501 palabras. La plataforma rechaza sus credenciales delante del grupo (registro `Cuenta no disponible. Consulte con el centro.`, distinto de `S10-suspendida`, que no se toca ni se restituye); el nombre en gris en el mural entre veintisiete blancos; la tutora apaga el mural, imprime dos hojas y las deja boca abajo; sospecha en una sola réplica de un compañero («Esas no se cierran por nada»); revisión «después de las vacaciones» y «nosotros abrimos el tres» (siembra N4); Nora mide (catorce segundos, el intervalo del proyector, contar hasta seis) y no investiga; el papel como solución y la fecha en la esquina (eco de 10:201). Canon nuevo: un solo instituto, grupos 1STA (Nora) y 1STC (Jessie), aula 214, tutora **sin nombre** (ripple OT-10: mantener sin nombre).
+- **I-1 · ORIENTACIÓN** — Escena 1 (Nora · aula 214, grupo 1STA), 501 palabras. La plataforma rechaza sus credenciales delante del grupo (registro `Cuenta no disponible. Consulte con el centro.`, distinto de `S10-suspendida`, que no se toca ni se restituye); el nombre en gris en el mural entre veintisiete blancos; la tutora apaga el mural, imprime dos hojas y las deja boca abajo; sospecha en una sola réplica de un compañero («Esas no se cierran por nada»); revisión «después de las vacaciones» y «nosotros abrimos el tres» (siembra N4); Nora mide (catorce segundos, el intervalo del proyector, contar hasta seis) y no investiga; el papel como solución y la fecha en la esquina (eco de 10:201). Canon nuevo: un solo instituto, grupos 1STA (Nora) y 1STC (Jessie), aula 214, tutora **sin nombre** (ripple OT-12: mantener sin nombre).
 - **I-2 · TENSIÓN** — Escena 2 (Jessie · pasillo y taquillas), 507 palabras. La fotografía del funeral publicada, descrita solo con lo que ya describió Jean (7:189-193 + 7:213: filas, abrigos húmedos, flores junto al atril, programa doblado, la imagen caída, el dedo en la esquina, las tres al final de una fila); pie **Homenaje a Jean Marie Larsson. La visionaria detrás de SYNVEV.** (eco de 2:203; sin causa, sin método, sin fechas: la esquela de 7:221-223 no aparece); «Esa es la hija de la que…» **cortada** por el cuerpo de Jessie; casi-pelea sin golpe («Ninguno llegó a pegar»), sin eficacia (la foto sigue en otros dos móviles) y con coste (parte, casilla de aviso a la familia, el antecedente del día anterior: «un vestíbulo, a una agente»); línea de rabia contra Jean («Y esto también es cosa de mi madre. Estoy harta de ella.») que **nadie corrige** ni explica; Jessie no quita el móvil, no rompe nada, no llora; cierra pidiendo la copia («Mándamela»).
 - **I-3 · INTERIORIDAD** — Escena 3 (Nora · despacho de la tutora), 439 palabras. T3 para adolescente: la tutora **no pregunta** por la cuenta y Nora tenía «dos frases preparadas desde el cinco de diciembre»; el parte boca arriba que Nora no gira; el reverso de la hoja donde cabrían «tres columnas y un apartado de origen» y el lápiz que se queda en el bolsillo (renuncia al método); la ficha que «conservaba los dos números de contacto que la familia había dado en septiembre»; la tutora cuidadosa y limitada (aviso dentro del centro, «Fuera no», «No lo sé» sobre quién publicó, «Si necesitas salir de clase, sales»); decisión pequeña: «Cuando llame, empiece por Jessie», no pedir ver la fotografía, rechazar el aplazamiento del examen; la tutora dice «la ceremonia» (nunca «funeral» ni «suicidio») y Nora no la corrige; sale antes de que su madre conteste.
 - **I-4 · AGENCIA / PAGO** — Escena 4 (Jessie · salida), 511 palabras. Jessie conserva sin publicar (captura, fecha en el nombre, «no la reenvió a nadie»); las dos frases sobre la fotografía que nadie hizo para ellas («De ese día no tenemos ninguna» / «Ninguna»); el reconocimiento por la ropa —«Se nos reconoce por la ropa» / «Yo llevaba el cordón suelto»— que el lector conecta con 7:213 sin que el narrador lo señale; origen sin resolver («¿Quién la hizo?» / «Alguien que estaba allí»); siembra de 31:137 y 40:93-103 sin tesis («Antes no salíamos en ninguna parte» / «Ahora sí», el contador que sube a 241); la cuenta leída como culpa («Piensan que hiciste algo»); Maja con **una** línea; cierre sobre réplica con decisión, distinto de 40:123.

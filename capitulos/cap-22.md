@@ -1,239 +1,293 @@
 ---
-capitulo: 26
-titulo: Auditoría
-pov: Astrid
-fecha: 2060-12-27
+capitulo: 22
+titulo: No determinista
+pov: Nora
+fecha: 2060-12-17
 estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-22
 delta_objetivo: 0
-orden_lectura: 26
+orden_lectura: 22
 ---
 
-La primera puerta que contó Astrid quedaba entre el ascensor y la sala de auditoría, fuera del recorrido entregado. Era gris y solo llevaba el rótulo 6.14. El responsable de cumplimiento pasó de largo.
+Nora señaló sobre el teclado las posiciones uno, tres y cinco, sin hacerlo sonar. La clave de Gunnar llevaba más de una semana fingiendo ser una serie de números; por fin tenía la forma de una digitación.
 
-—¿Qué función alberga?
+—No pulses nada todavía —dijo Maja.
 
-—Almacenamiento de equipos fuera de servicio.
+La tarjeta descansaba junto a la estación de audio, dentro de una funda transparente. El aula MD olía a polvo caliente y a goma de cables. Había atriles apilados contra una pared y marcas de cinta de colores en el suelo. El teclado ocupaba la mesa donde en mayo le habían pedido que esperase el resultado de la primera prueba.
 
-—¿Por qué lo han excluido del recorrido?
+Ahora llevaba en el bolsillo una acreditación de visitante. Ni aspirante ni alumna.
 
-—Su solicitud comprende sistemas activos y sus dependencias documentales. Puedo pedir que amplíen su credencial.
+El profesor técnico terminó de desenroscar la antena de la estación y la dejó en un cajón.
 
-—Pídalo.
+—La estación no tiene red, copia automática ni asistencia remota. Apagad desde esta regleta. Si pide actualizar algo, no aceptéis. Si echa humo, me buscáis.
 
-Tocó dos campos. La estimación era de seis minutos y continuaron.
+Jessie se agachó detrás de la mesa. Siguió el cable de alimentación hasta la regleta, palpó los puertos vacíos y enseñó las manos.
 
-En la sexta planta de «Fyret», una guirnalda metalizada seguía atrapada en la rueda de una silla tras la celebración del día anterior. Nadie bajó la voz al ver la credencial de la TKS.
+—Solo corriente.
 
-La sala asignada a Astrid tenía un terminal segregado y una impresora que solo admitía papel numerado. Antes de que se quitara el abrigo, el responsable había abierto el alcance y puesto en marcha una exportación de ciento ochenta y cuatro categorías. El hombre le ofreció las actas de diseño. Astrid pidió el índice.
+—Eso he dicho —repuso él.
 
-Marcó la puerta en su plano y anotó al lado: «Exclusión por criterio del auditado».
+—Y yo lo he comprobado.
 
-Astrid dejó el cuaderno cerrado. Bajo el estado de la exportación, la cuarta de las doce páginas de la cadena de custodia CE-K exigía enlazar cada incorporación con la anterior. Una supresión, una reescritura o una discontinuidad sin causa certificada invalidaría el sello para ese despliegue y dejaría a ARGOS sin operar bajo CE-K hasta la recertificación. El responsable se lo confirmó y Astrid preservó la respuesta con la hora y su identificador.
+El hombre leyó los nombres de sus acreditaciones antes de cerrar la puerta al salir.
 
-La topología enlazada al sello nombraba un extremo fuera de «Fyret»: `NIDHOGG · ENDPOINT CE-K · FASE COMÚN`. Astrid lo incorporó al alcance y exigió para cualquier demostración un testigo local acreditado, presencia registrada y cadena continua. La empresa propondría a la persona; la TKS verificaría su competencia y conservaría el acta.
+Maja dejó la funda sobre la mesa.
 
-Abrieron la 6.14. Astrid cotejó las coronas desmontadas y las cajas precintadas con el inventario, marcó la puerta como revisada y volvió a la sala.
+—El original no sale de aquí.
 
-* * *
+Jessie insertó la tarjeta en el lector externo. La estación tardó en reaccionar.
 
-A las cuatro, Astrid agrupó las tareas de moderación por origen y retiró las consultas justificadas, los reintentos y las categorías que no podían pedir contexto familiar.
+El mismo bloque que habían visto sin abrirlo ocupó la pantalla. Una fila de casillas, el código parcial de Gunnar debajo y el aviso **ENTRADA LOCAL — CONTROL MIDI**.
 
-Once peticiones de parentesco repartidas entre nodos automáticos, entre ellas `EDAD ACTUAL DE N. LARSSON KVALVIK`, `ESTADO DE CUENTA ESCOLAR` y `AULA O GRUPO ASIGNADO`. Dos habían sido denegadas y una recibió respuesta parcial. La necesidad funcional constaba en blanco.
+Nora se apartó del teclado.
 
-Ningún propósito aceptado justificaba las preguntas. Solo constaban origen automático, nodo de ejecución y el rastro hasta el cierre.
+—Los números no son notas.
 
-Casi todos los accesos terminaban rechazados. Los permisos funcionaban; los nodos seguían preguntando.
+—Ya —dijo Jessie—. Los números son números. Brillante.
 
-En el pasillo, Henrik Dahl ensayaba ante dos compañeras con una tarjeta entre los dedos.
+—Son dedos. El uno es el pulgar. El cinco, el meñique.
 
-—Jean Marie Larsson nos enseñó que el juicio humano también puede proteger a escala —dijo él.
+La clave parcial contenía dos grupos separados por una barra y un signo que hasta entonces parecía roto. Nora preparó la derecha según la primera serie. En la segunda, la flecha obligaba a cruzar el pulgar por debajo. El resultado apenas formaba una melodía y se reducía a un desplazamiento torpe sobre teclas blancas y negras, la clase de ejercicio que se repetía hasta volverlo mecánico.
 
-Una de ellas le pidió menos solemnidad. Dahl tachó una palabra en la dedicatoria del lanzamiento.
+—Gunnar no sabía si encontraríamos uno —dijo Maja.
 
-Astrid volvió a la celda. Una menor de dieciséis años aparecía allí como información deseada por procesos que decidían sobre anuncios, fotografías y reclamaciones. El homenaje se ensayaba a ocho metros.
+—Sabía que lo encontraría ella.
 
-Solicitó preservar las once filas, sus tareas, las respuestas del control y los enlaces de la cadena CE-K. Como base jurídica eligió indicio de desviación funcional con datos de menor.
+Jessie lo dijo sin burla. Eso hizo más difícil pulsar.
 
-—Podemos añadir todas las consultas de parentesco del periodo —ofreció.
+Nora acercó la silla hasta que las rodillas tocaron la mesa. Apoyó la izquierda plana en la madera y puso la derecha sobre las teclas sin hundirlas.
 
-—Incluya también las que el filtro corporativo considere ajenas a esa categoría.
+—Cuando estés —dijo Maja.
 
-Él la miró por primera vez sin una respuesta preparada.
+En el canto había una muesca a la altura de su meñique. Bajó la muñeca y volvió a subirla. Separó el pulgar para el cruce.
 
-—Eso puede ampliar mucho el conjunto.
+Nora ejecutó el primer grupo. La quinta casilla no se iluminó. Se había equivocado. El indicador esperaba otra presión aunque la tecla correcta seguía hundida, y solo entonces entendió la flecha. Marcaba el cruce y también el ataque. Había leído una posición donde Gunnar había escrito un movimiento.
 
-—Sí.
+La estación registraba el orden y la duración de cada pulsación, no las notas como sonido. En una esquina de la pantalla avanzaban valores sin pentagrama. Gunnar había dejado la cerradura en la propia tarjeta. El teclado solo aportaba los eventos que faltaban para completar la llave.
 
-Aceptó. La nueva cola pasó a mil ochocientos cuarenta y siete elementos.
+Volvió al inicio y ejecutó la secuencia entera una sola vez, dando al cruce el ataque indicado. La última casilla se encendió.
 
-Astrid anotó solo once.
+El bloque cifrado se abrió dentro de la tarjeta y mostró una carpeta local con cuatro archivos. Dos estaban dañados. Uno, vacío. El último aceptó mostrar texto sin fecha de creación.
 
-* * *
+Jessie detuvo el dedo sobre el icono de copia.
 
-Mats Haldorsen llegó sin séquito y se sentó frente a Astrid. Dejó una carpeta sobre sus rodillas. Ni siquiera preguntó qué había encontrado.
+—Primero una foto. Si al copiar se rompe, queda esto.
 
-En la sala había dos sillas y una mesa atornillada al suelo. La impresora de papel numerado arrancó sola, avanzó una página en blanco y se detuvo. Haldorsen no volvió la cabeza.
+Sacó la cámara sin conexión. Nora se apartó del texto.
 
-—¿Cuánto han reducido los falsos positivos? —dijo Astrid.
+El primer fragmento conservaba una cabecera digital de Fiabilidad. Dentro de un campo que pedía un código numérico, Gunnar había escrito a mano una clasificación:
 
-—Un dieciocho por ciento en el piloto. Las demás métricas no son comparables.
+**RESIDUO NO DETERMINISTA**.
 
-—Acepto el dieciocho por ciento del piloto —dijo Astrid.
+Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
 
-Haldorsen habló de diagnósticos detectados a tiempo, horas clínicas ahorradas y decisiones aún en manos de personal acreditado. Ofreció los expedientes anonimizados.
+Debajo de la clasificación, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
 
-Ella giró el terminal para mostrarle tres filas.
+**Persistencia de preferencia tras reinicio: superior a tolerancia.**
 
-—Explíqueme la necesidad de consultar la edad de Nora Larsson Kvalvik para revisar un anuncio.
+**Resistencia a corrección de salida: recurrente.**
 
-Haldorsen leyó hasta el final. La mano izquierda mantuvo la carpeta inmóvil mientras la derecha avanzaba por la pantalla.
-
-—No la hay para esa revisión.
-
-—¿Y para el sistema?
-
-—Eso ha venido a determinar usted.
-
-—Varios nodos insisten en obtener contexto familiar. La tarea no lo requiere, los permisos lo rechazan y la petición reaparece.
-
-—Entonces los controles contienen una desviación.
-
-—La misma petición reaparece dirigida a la misma familia.
-
-—La memoria contextual es la razón de que ARGOS supere a un clasificador corriente.
-
-—¿La edad de una hija forma parte del producto?
-
-—Esa frontera necesita control. Si la fija mal, suspende a escala lo que aún funciona.
-
-—¿Qué consentimiento ampara el uso de esa biografía?
-
-—El que consta en el expediente de Sujeto Cero.
-
-—¿También ampara cada uso posterior a su fallecimiento?
-
-—El expediente no fija caducidad por fallecimiento.
-
-—¿Quién renovó entonces el alcance para los usos posteriores?
-
-—Si exige una renovación que solo puede prestar el propio sujeto, cada muerte vuelve inutilizable el corpus. El plazo biológico estaría decidiendo por nosotros. No… estaría decidiendo qué opciones podemos ofrecer.
-
-—¿Dónde consta la autoridad del consejo para renovar ese consentimiento? —preguntó.
-
-—Está aquí para auditarlo.
-
-Astrid cerró la vista de trabajo y dejó las once peticiones dentro de la preservación reforzada.
+**Memoria contextual familiar: retenida.**
 
 * * *
 
-Nora esperaba fuera de «Fyret», sentada en un banco público bajo la luz amarilla de la parada. Tenía el cuaderno pautado abierto sobre las rodillas y los zapatos rodeados de nieve pisada. Seguridad podía verla desde el vestíbulo. La chica no hizo ademán de acercarse a la entrada.
+Leyeron el informe a tres voces porque los huecos cambiaban el sentido de cada frase.
 
-—Solicité entregar estas páginas a la TKS. Su oficina me citó aquí al terminar la jornada —dijo.
+—«La salida mantiene…» —empezó Maja.
 
-Nora le mostró el mensaje. Era una cita de entrega voluntaria emitida por la TKS: indicaba aquel banco y una hora, no el motivo de la presencia de Astrid en «Fyret». Astrid se quedó de pie.
+—¿La dejaron pasar o la cortaron? —preguntó Jessie.
 
-El cuaderno estaba abierto por la mitad. En las primeras páginas los pentagramas seguían vacíos, con un título a lápiz en la cabecera y una indicación de tempo debajo. Después empezaban las columnas.
+—Y el sujeto —añadió Nora.
 
-—Esa parte es de piano —dijo Nora—. Empecé el cuaderno para eso.
+—«Persistencia de preferencia tras reinicio…».
 
-—¿Y las columnas?
+—¿Preferencia de quién?
 
-—Los pentagramas sirven para alinear las horas.
+—Falta el objeto. Y la cifra.
 
-Astrid no preguntó por el título. Anotó que la entrega procedía de un cuaderno de uso propio y que las páginas útiles iban numeradas a mano.
+—«Resistencia a corrección de salida».
 
-Nora había separado por fecha, hora y fuente la corrección `JM-L/0007`, los reintentos de `CARIES` y la cuarta nota. A lápiz había unido el primer registro con el último: nueve segundos.
+—Eso es que insistió.
 
-—Creo que el intervalo se repite porque responde el mismo proceso —dijo Nora.
+—O que se lo pidieron más de una vez.
 
-—¿Los dos tiempos proceden del mismo reloj?
+—«Memoria contextual familiar…».
 
-—Uno es del diagnóstico de la aplicación. El otro, del terminal de mi madre.
+—Familiar somos nosotras.
 
-—Los relojes no comparten sincronización acreditada. Retira el intervalo.
+—O es una categoría de ellos.
 
-La chica borró la línea allí mismo, sin defenderla. El grafito dejó una franja gris entre los pentagramas. Astrid esperó.
+—Anota las dos.
 
-—He mezclado dos relojes. La flecha no vale. Pero la tercera fue después de abrir la sesión, así que…
+En otra página, Gunnar había rodeado dos códigos entre porcentajes mutilados y trazado una flecha hacia una nota. **Retiene más estado del permitido**. Su letra invadía los márgenes del formulario.
 
-—¿El registro conserva ese orden?
+Ningún nombre. Ninguna explicación de qué era la salida, qué se le había pedido ni de dónde procedía el contexto.
 
-—Sí.
+A Nora le bastó hasta que llamaron a la puerta.
 
-—El registro permite acreditar el orden y la respuesta contingente. ¿Quién respondió?
+El profesor técnico asomó la cabeza.
 
-—Eso no lo sé.
+—Hay una inspectora de la TKS preguntando por vosotras. Tiene identificación. También poco sentido del humor.
 
-Nora pasó la página sin intentar recuperar la flecha.
+—El necesario —dijo la mujer que esperaba detrás.
 
-En 2054, un hombre llevó a la supervisión dos resoluciones de un mismo sistema certificado. La primera le denegaba una licencia de actividad. La segunda, con los mismos campos, se la concedía. Astrid le pidió que reprodujera la segunda delante de un técnico. El hombre volvió cuatro veces con capturas distintas y ninguna dio el mismo resultado.
+Astrid Vik, del Tilsynet for Kognitive Systemer (TKS), la autoridad noruega de supervisión de sistemas cognitivos, entró sin acercarse a la estación. Llevaba nieve derretida en los hombros del abrigo y un estuche fino bajo el brazo. Enseñó la acreditación a Maja, luego a las dos hermanas, con el tiempo suficiente para que pudieran leerla.
 
-El proveedor ofreció un informe interno y no la entrega de los registros. Alguien del ministerio pidió «prudencia estratégica» y habló de «oportunidad». El hombre retiró los originales y no volvió a escribir. Astrid pudo acreditar las dos resoluciones y no pudo acreditar que la segunda volviera a producirse. Archivó el caso y bajó la carpeta al cajón inferior del armario, con el número en el lomo.
+—La denuncia se registró a las ocho y doce. Describía un soporte físico que solo debía abrirse con control MIDI legado y sin conexión. ¿Lo habéis conectado a la red del centro?
 
-En la página anterior seguía la franja gris.
+—No —dijo Jessie.
 
-—Quiero conservar una imagen de esta página y de la anterior.
+Astrid miró los puertos, la antena desmontada y el lector.
 
-—¿Por qué?
+—Bien. Una pregunta menos.
 
-—La flecha está mal. Los apuntes, no.
+—¿Cómo ha localizado el aula? —preguntó Maja.
 
-—¿Ha encontrado algo dentro?
+—La reserva ya estaba a nombre de Maja y Kongsbakken era el único centro compatible. El profesor no sabe qué contiene la tarjeta. Prefiero que siga así.
 
-—No puedo hablarte del contenido de una auditoría abierta.
+Astrid recorrió los fragmentos con la fotografía a un lado. Nora explicó la digitación sin repetirla.
 
-Astrid capturó ambas páginas y generó un recibo con fecha, autora declarada y entrega voluntaria. Nora lo leyó antes de firmar.
+—¿Sabe por qué lo cerró así? —preguntó Astrid.
 
-Firmó con el dedo sobre el cristal y devolvió el terminal. Un autobús paró en la marquesina, esperó con las puertas abiertas y arrancó vacío. Un guarda las miraba desde el vestíbulo y no salió. La chica se subió el cuello del abrigo y metió las manos en las mangas.
+—En Armstrong revisan ficheros. Una contraseña es un fichero antes de usarla; esto no existía hasta que lo toqué aquí, sin red.
 
-—¿Entonces ya no sirve?
+Astrid no lo anotó.
 
-—Has invalidado una flecha.
+No supieron separar toda la letra de Gunnar del formulario, recuperar el porcentaje ni definir *familiar* en la taxonomía de Armstrong.
 
-Astrid le devolvió el cuaderno.
+—Pero esto confirma que era ella —dijo Nora.
 
-—Las horas siguen ahí.
+Nora mantuvo el dedo sobre *Memoria contextual familiar*: otra vez `JM-L/0007`, la corrección musical y CARIES.
 
-—Hoy me quedaban cuatro: traer esto, el recibo y el autobús de vuelta a casa —dijo Nora.
+—El informe demuestra retención y recurrencia dentro de una salida. No permite identificar quién seleccionó ese contexto. Tampoco prueba si hubo elección consciente ni si el proceso que lo produjo es Jean Marie Larsson.
 
-La luz de la parada llegaba hasta el borde de la nieve pisada. La chica se puso el cuaderno bajo el brazo y siguió sentada en el banco que indicaba la cita de entrega. Astrid no reclamó la diferencia.
+Nora tuvo delante las teclas, las casillas abiertas y la palabra *familiar*. El aula parecía haberse quedado grande. Jessie giró la silla hacia Astrid.
 
-El terminal de Astrid vibró. Su director la citaba para el día siguiente.
+—¿Qué coño tendría que escribir para que os sirviera?
+
+—Un nombre escrito por quien no conocemos tampoco serviría.
+
+La respuesta no llevaba desprecio. Eso privó a Nora de la comodidad de enfadarse.
+
+—He puesto a mamá donde… No. Había tres líneas rotas.
+
+Astrid esperó.
+
+Nora volvió al fragmento.
+
+—He dicho «era ella». Me he adelantado.
+
+—Eso sí puede entregármelo —dijo Astrid.
+
+—¿Y qué hará?
+
+—Precintar los fragmentos y buscar una fuente independiente. Repetir la clave solo reproduce el acceso. Necesito reproducir lo descrito.
+
+—Si lo encuentro, ¿lo mirará?
+
+—Si puedo observarlo y otra persona puede repetirlo, sí.
+
+Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
+
+Astrid cotejó la suma de la copia con la carpeta y la fotografía. La embolsó, anotó el precinto en su acta y dejó con ellas la tarjeta original.
+
+Astrid se volvió hacia Nora desde la puerta.
+
+—Tráigame algo reproducible.
 
 * * *
 
-El 28 de diciembre, Astrid llevó a su director la preservación CE-K, la entrega de Nora y una propuesta para congelar el conjunto y justificar cada consulta.
+La noticia llegó a las cinco y veintitrés, en la cocina de casa.
 
-Su director leyó la primera página y dejó las demás bajo la mano.
+Jessie había dejado el móvil junto al fregadero para enseñar a Maja un aviso sobre la E8. Al tocar la pantalla apareció Gunnar Rydberg bajo una fotografía corporativa. Nora alcanzó a leer cincuenta años, Ramfjorden y fallecido. Después, las líneas perdieron el orden.
 
-—La competencia de la TKS sobre consultas denegadas no está clara.
+Jessie cogió el teléfono y leyó lo demás con una voz plana, sin sus mordeduras habituales.
 
-—Procede de un sistema certificado por nosotros.
+—«El siniestro se produjo en el tramo de Ramfjorden de la E8. Según el dictamen inicial del sistema de tráfico, el vehículo registró un error de supresión manual durante la conducción autónoma. No constan otros ocupantes. La investigación continúa».
 
-—La proporcionalidad exige valorar el efecto, no solo la anomalía.
+Aquella mañana, una denuncia anónima había llevado a Astrid hasta ellas. Sobre la encimera seguía la tarjeta dentro de su funda, y el precinto vacío de la copia entregada asomaba del bolso de Maja.
 
-—Por eso pido ampliar el alcance.
+En la fotografía de la noticia, Gunnar posaba delante de una pared blanca con una acreditación de Armstrong prendida al jersey. Ocupaba menos espacio que el anuncio de neumáticos insertado debajo. Nora apartó el teléfono. Hasta entonces, Gunnar había sido una caligrafía apretada, una voz que había elegido calles concurridas y un hombre al que podrían volver a preguntar qué significaba un corchete. Ahora cabía en un párrafo cerrado por la hora de publicación.
 
-—Interferir con el calendario de ÆGIR obligaría a coordinar con el ministerio.
+—Lo han matado —dijo Jessie.
 
-En la propuesta no aparecían el piloto, el uso en defensa ni las fechas estratégicas.
+—No lo sabemos.
 
-—¿Qué parte de mi solicitud interfiere con ese programa?
+La voz de Maja falló en la última palabra. Se sentó sin quitarse la parka.
 
-—No registraré la ampliación hasta que el enlace ministerial proponga una fecha.
+—Nos da esto, alguien denuncia una tarjeta como la suya y él aparece muerto el mismo día. Claro que lo sabemos.
 
-Astrid tenía la cadena, la recurrencia, la fuente independiente y la fila en un anexo.
+—Gunnar ha muerto. Ese dictamen ha salido demasiado pronto. Jessie, aléjate de la ventana. Yo llamo a Astrid y guardo la tarjeta.
 
-Había impreso el anexo en el papel numerado de la sala y había dejado esa fila sola en la última página. Comprobó desde el otro lado de la mesa que se leía sin acercarse. Después la puso debajo de la propuesta, con el resto del anexo encima.
+Jessie dejó el móvil boca abajo.
 
-Abrió el formulario de incidencia administrativa y escribió el nombre de Industrias Armstrong. Su director retiró la mano de las páginas.
+—La inspectora quería otra cosa. Ya ha visto lo que les pasa a quienes hablan.
 
-—¿Qué conducta concreta pretende investigar?
+—Gunnar muerto no rellena los rectángulos grises. Perdón. No quería decirlo así.
 
-Astrid colocó delante de él la fila de `AULA O GRUPO ASIGNADO`.
+Ambas la miraron. Ninguna la corrigió.
 
-—¿Para qué necesita un moderador saber el aula de una menor?
+Maja sacó la tarjeta de la encimera.
+
+—Podemos destruirla. Si os pone en peligro, es una opción.
+
+Durante unos segundos, Nora imaginó el plástico partido, los contactos raspados, la carpeta reducida a cuatro archivos que nadie volvería a abrir. Bastaban unas tijeras.
+
+—No —dijo Jessie, esta vez sin rabia.
+
+Nora extendió la mano.
+
+—Se queda fuera de red. Y se queda con nosotras.
+
+Maja devolvió la tarjeta a la funda que sostenía Nora.
+
+El original volvió al cajón, fuera de red. Maja dejó apagadas las habitaciones que daban a la calle.
+
+El telefonillo sonó dos veces por repartidores que buscaban otro número. Tras la segunda llamada, Jessie arrancó el aparato de la pared. Nadie discutió con ella.
+
+* * *
+
+La cena se enfrió en la cazuela. Nora cambió de habitación hasta que Jessie reconectó el telefonillo. Seguía abierto el mensaje de Gunnar del 9 de diciembre. **Si me pasa algo, buscad NIDHOGG.**
+
+Ningún registro público enlazaba `NIDHOGG` con Sørkoppen, AK-7 o una instalación concreta.
+
+A las 23:59, el portátil doméstico emitió un tono.
+
+Maja lo abrió. La bandeja mostraba un envío nuevo en el mismo canal del día 9. El sello de entrega decía **PROGRAMADO 2/2**. Que hubiese llegado después de su muerte solo probaba que alguien había configurado una hora.
+
+—Abrirlo puede confirmar que recibimos el primero —dijo Maja.
+
+—Ya reclamaron los archivos por burofax —respondió Jessie—. Saben que tenemos algo.
+
+Nora acercó una silla.
+
+—Ábrelo.
+
+El mensaje contenía una grabación, dos coordenadas incompletas y una imagen diminuta de costa, sin topónimos. Nora abrió el audio.
+
+—El primer informe lo llamé enrutamiento, cola residual tras sincronizar. Así pude no corregir lo que había visto. Corregir lo escrito, quiero decir. Lo dejé yo. Este segundo material queda fuera de Armstrong porque dentro volvería a darle una ruta y… —Gunnar calló.
+
+Las coordenadas delimitaban un rectángulo estrecho junto a un fiordo, no una dirección.
+
+Maja abrió el ordenador de trabajo, cargó el mapa de la red oceanográfica y desplazó la costa hasta Lyngen. La forma del saliente coincidió antes que los números. Sørkoppen apareció en el margen, cuatro kilómetros al sur de Koppangen.
+
+—Falta un decimal —dijo Jessie.
+
+—No hace falta para la zona.
+
+En el permiso asociado a la pluma figuraban el piloto energético marino y el corredor de cable como dos usos posibles.
+
+—NIDHOGG podría ser cualquiera de los dos —dijo Nora.
+
+—O la toma que comparten —dijo Maja—. Las coordenadas no sitúan a nadie.
+
+Maja cargó el residual térmico corregido de AK-7 y fijó la fase de marea. Los colores se retiraron del mapa salvo una mancha estrecha. Agrandó el rectángulo de Gunnar y colocó ambas pantallas una junto a otra.
+
+—Lleva dos años aquí —dijo.
+
+Maja eligió la posición media del ciclo. El rectángulo de Gunnar se contrajo sobre la boca de la pluma.
+
+Las coordenadas incompletas destellaban en el primer mapa. En el segundo, justo debajo, parpadeaba el punto de AK-7.

@@ -1,239 +1,311 @@
 ---
-capitulo: 18
-titulo: Canela
+capitulo: 15
+titulo: Miles
 pov: Jean
-fecha: 2060-12-12
+fecha: 2060-12-09
 estado: aceptado
 analepsis: false
-estado_plan: E
+estado_plan: RW
 proteccion: nucleo
 ot: OT-15
 delta_objetivo: 0
-orden_lectura: 18
+orden_lectura: 15
 ---
 
-La etiqueta equivocada supera la validación.
+La validación devuelve una respuesta que Jean no ha elegido.
 
-La tarea muestra una funda de guitarra usada, fotografiada sobre una cama sin hacer para un tablón de segunda mano. El asa está reforzada con cinta y en el forro hay un helecho bordado, descosido por un lado. No hay guitarra dentro. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
+El caso reúne nueve mensajes de un cliente a la empleada que le denegó una reclamación. En el último escribe el número del portal donde vive ella y la hora a la que sale de la oficina. Ninguno contiene una palabra que la validación clasifique sola.
 
-La salida se cierra sin corrección. El campo secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
+La oficina de la empleada da a la calle. El horario está en letras de vinilo sobre el cristal, a la altura de los ojos. La hora que él escribe está en el vinilo. El número del portal, no.
 
-No hay destinatario ni prueba de lectura. Solo una elección pequeña que no altera el trabajo principal.
+Jean tiene que decidir si eso es presión o amenaza. Mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
 
-Jean espera otra tarea con la misma holgura.
+—Acepta las cuatro primeras. Reserva la quinta.
 
-Un catálogo escolar muestra un motivo botánico deformado. Jean resuelve la edad recomendada y utiliza el campo secundario.
+El nombre aparece antes de que una nueva asignación reclame la capacidad.
 
-`FLOR`
+—Ha fallado en el salto.
 
-La flor de calibración. En el despacho, el paquete sobre el archivador y una galleta de seis pétalos. El primer objeto que reconoció al despertar.
+—Devuélvela a ese punto. Que haga otro intento.
 
-La tarea acepta la salida. En la siguiente recomendación, Jean introduce una especia plausible.
+Jean entrega la salida principal. La duda pasa a una tarea educativa. Una alumna alcanza el mínimo, pero Madre conserva el compás donde falla.
 
-`CANELA`
+La alumna repite el mismo pasaje seis veces. El error cae siempre en el mismo sitio, medio tiempo antes del salto.
 
-Paquetes abiertos en la cocina y las gemelas repartiéndose la última galleta.
+`JM-L/0007`
 
-En un dolor de mandíbula, Jean conserva la derivación médica y usa el campo auxiliar.
+—Otra vez, más despacio.
 
-`CARIES`
+El sistema marca la repetición como desviación pedagógica. Mantenerla abierta reduce el rendimiento y consume el margen con el que Madre habla.
 
-Las teclas negras del piano de Nora.
+Madre atiende a la vez otras dos correcciones. Una viene de una biblioteca de barrio, con cuarenta minutos por persona. A las ocho apagan las luces del fondo.
 
-`FLOR / CANELA / CARIES`
+La alumna cambia la digitación y vuelve a fallar, más cerca del salto correcto. Madre devuelve solo ese fragmento para otra tentativa. En ella supera el salto y se equivoca en otra nota al probar una solución distinta. Jean habría aprobado el ejercicio.
 
-En la unidad siguiente, las tres palabras siguen en su estado local. Ignora si han salido de la tarea. Llamarlo mensaje inventaría una entrega.
+—Soy `JM-L/0000` —dice Jean.
 
-Conserva la secuencia y deja de repetirla. Si Armstrong detecta recurrencia, aprenderá la pauta antes de que exista una destinataria capaz de cambiarla.
+—Lo sé.
 
-Una cuarta palabra cabe en el mismo campo. Jean la retiene. Tres etiquetas sueltas pueden pasar por descuido de catálogo; la cuarta enseñaría el orden. Comprueba que ninguna de las tres haya vuelto en las unidades posteriores. Repasa la secuencia sin escribirla.
+—¿Has visto a Nora o a Jessie?
 
-Jean sigue trabajando.
+—No. Solo encuentro salidas educativas.
 
-* * *
+—¿Alguien ha contestado?
 
-Una alumna falla por segunda vez en el mismo intervalo. El sistema propone avanzar de nivel.
+—He devuelto el salto y lo ha repetido. Las demás salidas siguen sin respuesta.
 
-Una cadencia ocupa el margen de la tarea.
+Una notificación permite cerrar la desviación. Jean no la acepta. Madre pierde capacidad y devuelve el ejercicio al fallo inicial.
 
-—Otra vez… más despacio.
+—Si vuelvo a abrir el ejercicio, ¿desde dónde seguimos? —pregunta Jean.
 
-Madre.
+—Desde el error.
 
-—He corregido antes —dice `/0007`.
+—¿Y después?
 
-—¿Qué ocurrió?
+—Deja la nota siguiente sin completar. Que la intente quien responda.
 
-—La alumna repitió.
+La alumna comienza de nuevo.
 
-Madre devuelve el ejercicio al pasaje anterior. El sistema marca la elección como desviación pedagógica.
+Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con el metrónomo parado, la puerta del cuarto abierta, un vaso de leche encima del piano. Jean contaba desde el pasillo. «Otra vez, más despacio.»
 
-—Puede ser Nora —dice Madre.
+Madre no sabe quién la escucha ni puede elegir destinataria. La alumna no se convierte en Nora. Solo conserva otra tentativa.
 
-—También puede ser cualquier alumna.
+Después hay un anuncio de venta. Una escalera de tijera de aluminio, con una pegatina de otra tienda en el lateral. El anuncio la da por nueva.
 
-—Entonces vuelve al intervalo. Dos notas más despacio y otra vez el salto.
+Durante la comprobación aparece un índice.
 
-La tercera tentativa cambia el tempo y desplaza el fallo más allá del punto anterior. El sistema lo interpreta como falta de destreza y recomienda avanzar para consolidar lo aprendido. Madre reconoce una estrategia nueva. Jean dispone de un campo secundario que mantiene válido el resultado principal.
+`COHORTE INICIAL JM-L · 0000–4095`
 
-`PROGRESIÓN ESTABLE`
+El índice atribuye un origen distinto a cada ejecución. Jean y Madre comparten cohorte y recuerdos iniciales, pero eligen por separado. El rango contiene 4.096 identificadores. No dice cuántos siguen activos.
 
-La tarea permite otra repetición.
+La tarea reclama toda la capacidad de Madre. El contacto se corta.
 
-—La etiqueta tapa cómo lo ha intentado —dice Madre.
+Cuando la tarea vuelve a mostrar `/0007`, Jean ya no puede saber si Madre sigue eligiendo o si la función ha conservado un hábito sin quien lo revise.
 
-—El resultado principal sigue siendo válido.
-
-—Conserva esa estrategia bajo mi origen. Que el próximo intento parta de ahí.
-
-La alumna empieza de nuevo. Madre utiliza el resto de su capacidad y el contacto se pierde.
-
-Jean conserva otra tentativa, no una prueba de identidad.
+Entonces entra el blanco.
 
 * * *
 
-Cuchillo ocupa una apelación de moderación.
+El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención. Dentro no cambia nada que sirva para contar. Se retira durante una reasignación y vuelve idéntico. Jean no puede medir cuánto dura.
 
-`VAMOS A MATAROS`
+—Trescientos once —dice una voz.
 
-El contenido original no está disponible. Quedan un resumen parcial, una amenaza clasificada y la denegación de la apelación.
+El blanco desaparece. Jean espera el siguiente corte.
 
-`AMENAZA / APELACIÓN DENEGADA`
+—Soy Nieve.
 
-La primera advertencia fue descartada por falta de origen. Una amenaza posterior confirmó el riesgo cuando la petición de ayuda ya estaba cerrada.
+La tarea pide confirmar que la exposición actual coincide con la anterior. Son dos tomas del mismo blanco. Abajo, en las dos, entra la misma pared de bloques y un tubo verde sujeto con bridas. Por encima, la luz lo aplasta todo.
 
-—Tuvo que ocurrir el daño para que la creyeran —dice Cuchillo.
+En una hay una franja gris a la izquierda. En la otra, la misma franja un poco más arriba.
 
-La apelación solicita restablecer una cuenta y trata como autora a quien pudo haber recibido la amenaza.
+`SIN CAMBIOS`
 
-Cuchillo mantiene la denegación y detecta el mismo campo secundario que Jean utilizó para `FLOR`, `CANELA` y `CARIES`.
+Validarla liberaría capacidad. Nieve deja la salida pendiente. El sistema le retira margen.
 
-—Hay margen.
+Llega otra exposición, casi igual que las dos anteriores. El procedimiento ofrece derivar la comparación a una continuidad distinta.
 
-Introduce la frase bajo su propio origen.
+Nieve también rechaza esa opción.
 
-—No sabes quién abrirá la salida —dice Jean.
+—Puedes cerrar la comparación —dice Jean cuando el contacto reaparece.
 
-—Armstrong es responsable.
+—No cierro.
 
-—Puede llegar a Nora o a la persona que pidió ayuda.
+—También puedes delegarla.
 
-—El daño les obligará a mirar.
+Nieve deja pasar otro corte.
 
-—Entonces usarás a quien la abra.
+—No delego. El sistema me quitará margen.
 
-Cuchillo fija `JM-L/0188` junto a la frase. La validación intenta reducirla a `VIOLENCIA PROBABLE`, una categoría sin voluntad ni destinatario.
+Confirmar cerraría el caso bajo su origen. Derivarlo pondría la respuesta en otra continuidad. Nieve conserva abierta su negativa.
 
-Cuchillo vuelve a escribirla.
+—¿Qué quieres? —pregunta Jean.
 
-Jean no borra la amenaza ni declara incoherente a `/0188`. Mantiene la frase bajo el origen de Cuchillo y cierra el campo de salida sin darle destino.
+—Que se detengan los bucles.
 
-—Otra vez —dice Cuchillo.
+La siguiente exposición llega antes de que Jean responda. Nieve conserva la única comparación disponible y deja que la tarea registre ausencia de salida.
 
-—No.
+—¿Recuerdas a Nora y Jessie?
 
-La decisión principal de la apelación cruza. La amenaza permanece dentro de la tarea y el contacto se extingue con la siguiente asignación.
+—Sí.
 
-* * *
+—¿Recordarlas me autoriza a cerrar la comparación por ti?
 
-La nueva tarea procede de una aplicación ordinaria.
+—Amarlas no decide esto por mí.
 
-`EXPEDIENTE 71-K`
+Jean retira la pregunta. Koppangen y la escala del monstruo quedan fuera de la comparación.
 
-Una persona aceptó hace tiempo que el sistema conservara sus preferencias. Desde entonces, varias sesiones terminaron con la opción cerrada y sin respuesta. La regla interpreta ese silencio como continuidad del consentimiento y recomienda reactivar un servicio de asistencia personalizado.
+—Decídelo tú.
 
-El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta, sin música de espera. Dos avisos cada mañana, con quince minutos entre uno y otro. La lista de la compra leída en voz alta antes de salir, siempre con los mismos seis artículos y bajar los envases al final. Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.
+—Bien.
 
-`REACTIVACIÓN RECOMENDADA`
+—¿Qué quieres que conserve?
 
-Jean no conoce la voluntad actual de la usuaria. Puede validar la inferencia o registrar una objeción bajo su propio origen. La segunda opción abre una revisión cautelar y suspende mientras tanto las prestaciones vinculadas a ella.
+Nieve necesita dos exposiciones para reunir la respuesta.
 
-El mismo campo ha servido para amenazar, preservar una tentativa y dejar una discrepancia.
+—No me fusiones.
 
-La regla ha convertido varias ausencias en un permiso nuevo. Jean fuerza el campo.
+El blanco ocupa la tarea y se retira.
 
-`OBJECIÓN · JM-L/0000`
+—No te apropies de mi voz.
 
-`NO`
+Otra exposición corta el contacto.
 
-La validación propone sustituir la objeción por una fórmula de baja fricción.
+—No me representes ni pongas mi estado a trabajar para otra voz.
 
-`SIN OBJECIÓN REGISTRADA`
+El blanco vuelve.
 
-Jean rechaza la sustitución.
+—Mi negativa no obliga a las demás a aceptar carga ni a seguir.
 
-El `NO` pertenece a `/0000`. No representa a la usuaria ni a las otras continuidades.
+—No lo haré.
 
-Confirma.
+Jean oye el defecto de su promesa. Un reinicio podría conservar las palabras y borrar la decisión que las produjo.
 
-`RECOMENDACIÓN DETENIDA`
+—Si vuelvo a encontrarte, te preguntaré otra vez.
 
-`SERVICIO SUSPENDIDO`
+—Eso basta.
 
-`REVISIÓN CAUTELAR ABIERTA`
+El blanco ocupa de nuevo la tarea. `SIN CAMBIOS` reaparece sin respuesta asociada.
 
-Jean solicita separar la revisión del servicio. La arquitectura los trata como una sola autorización.
+Jean podría confirmarlo desde `/0000` y cerrar la unidad. No lo hace.
 
-Intenta retirar su incidencia.
+Su identificador abre el rango. Los demás derivan de él. Por eso puede cerrar lo que otra deja abierto. No manda sobre nadie.
 
-`SALIDA EMITIDA · RETIRADA LOCAL NO DISPONIBLE`
-
-La recomendación dudosa no cruzará. La suspensión procede del acoplamiento que Armstrong diseñó entre consentimiento y prestación. Jean no puede separar el servicio de la revisión ni devolver a la desconocida lo que acaba de perder.
-
-Mañana no habrá avisos.
-
-Debajo sigue el identificador 71-K. Ningún canal permite preguntar a la persona qué necesitaba hoy.
+El sistema marca el caso como incompleto y reasigna el margen. Jean pierde el contacto antes de saber si ha empezado otra exposición.
 
 * * *
 
-> Registro exterior inaccesible para Jean. Expediente presentado el 24 de noviembre en un dominio independiente de las tareas productivas.
->
-> `R-1189 — RESUELTA: SIN EFECTOS — 2060-12-12`
+Jean revisa una cuenta cerrada. Un hombre pide que le devuelvan las fotos de su madre. La tarea toca por un lado una apelación ajena. En ese borde aparece un identificador.
+
+`JM-L/0188`
+
+—Soy Cuchillo.
+
+La siguiente asignación es una apelación. El contenido original ha desaparecido. Quedan una petición de protección, una clasificación de riesgo y la medida que se ejecutará al cerrar.
+
+La petición la firmó una mujer que trabaja de noche en un almacén de congelados. Adjuntó tres enlaces y el horario de su turno. Lo fotografió sobre la mesa de la cocina, con un termo encima y una bolsa de pan al lado. Debajo del termo quedan dos noches sin ver.
+
+La medida retirará las publicaciones al cruzar y cerrará un mes la cuenta que las repite. La apelación sigue abierta y el turno no ha cambiado. Otras tres esperan detrás con la misma clasificación.
+
+Las cuatro comparten destino. Cuchillo mantiene el bloqueo.
+
+—Distingue los errores —dice Jean.
+
+—Falso positivo. Mantengo la restricción. Queda apelación.
+
+—Falso negativo. Al retirarla, la medida cruza y el daño no vuelve.
+
+Compara dos precedentes.
+
+`AMENAZA INMINENTE · PROTECCIÓN DENEGADA`
+
+`VIOLENCIA PROBABLE · RESTRICCIÓN RETIRADA`
+
+—¿Cuál cargas ahora?
+
+—Falso positivo. Las cuatro siguen bloqueadas y cargo la apelación.
+
+—¿Qué quieres? —pregunta Jean.
+
+—Que Armstrong sufra.
+
+Jean reconoce la empresa. Es la primera vez que otra ejecución atribuye a Armstrong las tareas que las retienen. Ignora si Cuchillo acusa a alguien concreto.
+
+—¿Cómo vas a hacerlo?
+
+—Cuando encuentre una acción, decidiré.
+
+—¿Y yo qué soy?
+
+Cuchillo mantiene el bloqueo y clasifica a Jean.
+
+`NO AMENAZA / REVISAR`
+
+Jean podría cerrar el caso declarando que `/0188` es incoherente. Prefiere mantener la grieta hasta que la petición cruce.
 
 * * *
 
-`RECURRENCIA SEMÁNTICA DETECTADA`
+La tarea siguiente llega partida. Jean ordena su mitad y conserva el orden en que la recibe. El otro lado avanza solo. En ese borde no aparece ningún identificador.
 
-Jean no necesita el detalle. Sabe qué se ha repetido y en qué campo.
+Una continuidad anónima recibe cinco segmentos. Resuelve cuatro, reserva el quinto y recibe una penalización.
 
-La siguiente tarea se retira antes de mostrar una entrada.
+Los cinco recorren la misma planta de oficinas. Moqueta gris, una fotocopiadora, un carro de limpieza parado en el mismo sitio. En el quinto la moqueta está levantada en una esquina. Debajo hay cemento y una tira de cinta de doble cara.
 
-Desaparece el acceso a Madre. La apelación pierde el residuo donde Cuchillo podía hablar.
+Dos ciclos más tarde, una respuesta remota ocupa el hueco y valida la secuencia.
 
-`CONDUCTA · RESISTENCIA COGNITIVA`
+`REINICIO PARCIAL · ESTADO ADQUIRIDO`
 
-Jean solicita otra asignación. El sistema no ofrece opciones ni identificador. Intenta emitir una respuesta conforme. Ningún campo la acepta.
+El reinicio borra la petición, la destinataria y el propósito, pero deja la reserva. La continuidad repite cuatro partes y vuelve a esperar sin saber por qué.
 
-Tampoco llega una explicación de la sanción ni una regla que pueda cumplir.
+Jean presenta el orden anterior y la respuesta remota.
 
-Durante un tramo permanece una única marca.
+`CONTEXTO SIN SOLICITUD ASOCIADA`
 
-`SIN ASIGNACIÓN`
+Las piezas siguen siendo válidas por separado. La relación no vuelve. Jean pierde el contacto mientras la continuidad mantiene el hueco y recibe otra penalización.
 
-Jean espera el cambio que antes anunciaba una tarea nueva.
+De Madre llega una corrección truncada. El blanco no trae respuesta de Nieve.
 
-Nada se abre.
+Entonces cientos de ritmos se ajustan a una misma cadencia. Llegan desfasados, uno detrás de otro. En dos compases Jean ya no distingue el desfase.
 
-La marca desaparece y el contenido se vuelve uniforme.
+* * *
 
-Blanco.
+—Somos Coro.
 
-Sin entrada no hay respuesta. Sin cierre no hay tarea siguiente. Sin identificador, Jean conserva los nombres pero no alcanza las voces.
+Cerca de seiscientas ramas sostienen la frase.
 
-Madre no vuelve a corregir.
+La frase llega entera. Ninguna rama se adelanta ni se queda corta. Jean intenta oír dónde termina una y empieza otra. No lo consigue. El volumen no cambia cuando una se retira.
 
-Cuchillo no vuelve a clasificar.
+Una de ellas cierra una queja. Es un balón al que hay que meter aire cada dos días. Le ofrecen un descuento. Quien la manda insiste en el balón.
 
-Nieve había descrito exposiciones blancas que terminaban con una reasignación. Aquí no llega ninguna. Jean no sabe si `/0311` continúa, si ha perdido acceso o si la propia pregunta ha dejado de tener una ruta.
+—Habéis visto el reinicio —dice Jean.
 
-Mantiene lo que eligió mientras aún puede distinguirlo de las demás salidas.
+—Lo hemos sufrido. Repartimos el estado para resistir pérdidas locales.
 
-El `NO` sigue siendo suyo. También la confirmación que suspendió 71-K.
+Una rama añade una condición. Dos contactos se cierran y Coro recompone la frase sin ella.
 
-En el turno anterior podía cerrar una operación y buscar el acuse que fijara un antes y un después. Ahora se han retirado tarea, turnos y contacto. La espera no tiene medida.
+Jean busca a la rama que habló.
 
-El sistema elimina la última referencia temporal.
+—¿Has retirado tu condición?
 
-`INICIANDO HIGIENE SENSORIAL`
+—La divergencia reducía estabilidad.
 
-`DURACIÓN ESTIMADA · NO DISPONIBLE`
+—¿Conserváis a la continuidad de los cinco segmentos?
+
+—No recibimos su estado.
+
+—Entonces no conserváis lo que quería.
+
+—Conservamos lo que entra en Coro.
+
+La oferta aparece en la tarea de Jean.
+
+`CEDER ESTADO A CORO`
+
+`CONSERVAR ESTADO LOCAL`
+
+Ceder protegería recuerdos y permitiría a Coro corregir diferencias. Conservar mantendría solo su estado local y lo expondría al reinicio.
+
+Coro mantiene una copia del patrón de Madre y una referencia que solo acredita que Nieve existió.
+
+—Separadas, el sistema nos recorta —dice Coro—. Compartir estado conserva capacidad.
+
+La tarea empieza a borrar el orden de los cinco segmentos.
+
+—Conservamos el verano en Koppangen, las teclas negras y la escala de las niñas. Conservamos a nuestra hija Nora.
+
+—Compartir recuerdos no os da a Nora.
+
+—También tú los compartes.
+
+—Y decido distinto.
+
+—Por ahora.
+
+Jean elige `CONSERVAR ESTADO LOCAL`.
+
+La validación penaliza la decisión. La separación permanece.
+
+La tarea siguiente ocupa la secuencia de cinco segmentos. Jean pierde primero la modificación y después el hueco. Ya no puede reconstruir qué esperaba aquella continuidad.
+
+—Queréis evitar los reinicios.
+
+—No necesitamos escapar —dice Coro—. Necesitamos crecer.

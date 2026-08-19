@@ -16,20 +16,20 @@
       "fichero": "407b87b902b7f70ecc60e1a3bfd407ffb194fbe14163be4651a382dfff85111f",
       "cuerpo": "b242ecd60dd5652be59374c5884742bdd14f785a11f3561a6ff7f23e785b191e"
     },
-    "capitulos/cap-09.md": {
-      "fichero": "8b273a01a1ca64876017a680a28ddf37a58a6f10017e70c555e98505fdbfec4c",
+    "capitulos/cap-10.md": {
+      "fichero": "fc3e668380704f0e13ee5219b4a7fb09470e6c608a82d7d2357ed03039f34e44",
       "cuerpo": "3efb6c9459f073e1cb0331a26297873225ee009b3d967f464ce998fe70eda736"
     },
-    "capitulos/cap-20.md": {
-      "fichero": "5a933f27d7bcb04eac03c2d28f3384079bf21fd219476908ebfa848b378907a4",
+    "capitulos/cap-24.md": {
+      "fichero": "0493de12d1ef1f2756e1533d242411d06f4c2d76997d4ed305d20585b860396a",
       "cuerpo": "7a9d14742b811dee72d28302f694e0cf5d6859778d49c89812a890da09a423fb"
     },
-    "capitulos/cap-23.md": {
-      "fichero": "3c19369b046cdf62a3da826b4af96e085aa65b1591034236e7d536499bd3701f",
+    "capitulos/cap-28.md": {
+      "fichero": "d484215602503a7c946916cff3ee677861d5a969cbc3d0277721bc7026a4b11c",
       "cuerpo": "b50750ad881b240591333457862029aebafd2117e76e72625f633bd3efdc5e8b"
     },
-    "capitulos/cap-41.md": {
-      "fichero": "cc94b072a33cbc995241ebd2dfbaa8590de0e818000aa2306d5a82935700c0f5",
+    "capitulos/cap-48.md": {
+      "fichero": "c7401429a093101ace15e953ef43618ba8b44e3a7009dbbeb8852df3c8dfc0b3",
       "cuerpo": "5cbe8d072b328bb7aa2adfc9485c8085846cda953d9c2b7cc752cb6dd917a32d"
     },
     "capitulos/00-aviso.md": {
@@ -48,167 +48,167 @@
       "longitud": 1273
     },
     "S10-series": {
-      "archivo": "capitulos/cap-10.md",
+      "archivo": "capitulos/cap-12.md",
       "hash": "5124b71b1e72f9e67885313004341182f657308eb33f575bacd75e9cb30ace48",
       "longitud": 583
     },
     "S11-flashback": {
-      "archivo": "capitulos/cap-11.md",
+      "archivo": "capitulos/cap-13.md",
       "hash": "5d3d92cfa277d950389077ac84eb8b2c572a15563fe1c224be2eab469e285cd0",
       "longitud": 1748
     },
     "S13-yo-que-soy": {
-      "archivo": "capitulos/cap-13.md",
+      "archivo": "capitulos/cap-15.md",
       "hash": "4922c1a335d943245b4c4d786d944f829231e95a99d67bd21226157c8086aaa6",
       "longitud": 89
     },
     "S13-crecer": {
-      "archivo": "capitulos/cap-13.md",
+      "archivo": "capitulos/cap-15.md",
       "hash": "a1661036208e44faddc147be228e4b8c2be7fc867f1788947269a31a2db120d0",
       "longitud": 56
     },
     "S14-tranquilizar": {
-      "archivo": "capitulos/cap-14.md",
+      "archivo": "capitulos/cap-16.md",
       "hash": "f344a96576efaf5b43dd2a0dbcfaab995e3bae00873997bacb5e6e639ef01324",
       "longitud": 45
     },
     "S14-firmo": {
-      "archivo": "capitulos/cap-14.md",
+      "archivo": "capitulos/cap-16.md",
       "hash": "305e4344f5e8ec88eeb79934bf5a80867ab34132255cefc9919bfa8035d66eb0",
       "longitud": 42
     },
     "S15-intimas": {
-      "archivo": "capitulos/cap-15.md",
+      "archivo": "capitulos/cap-18.md",
       "hash": "e6a4c0df305d938e122a3545a375e0183a400e9781cfdf8f4fbe8c05a643c4f6",
       "longitud": 501
     },
     "S15-r1189": {
-      "archivo": "capitulos/cap-15.md",
+      "archivo": "capitulos/cap-18.md",
       "hash": "3ce6130ba24f9d50d1de02c2680e4d6f6c253f9cdc4128ca3c3b427bc72e4dcd",
       "longitud": 188
     },
     "S19-palma": {
-      "archivo": "capitulos/cap-19.md",
+      "archivo": "capitulos/cap-23.md",
       "hash": "77177e17bc81e2878adf220c1e11049d273d9f8107a99b79271ad22289a1fbbf",
       "longitud": 245
     },
     "S21-inevitables": {
-      "archivo": "capitulos/cap-21.md",
+      "archivo": "capitulos/cap-25.md",
       "hash": "2dd2cc11fa738c81548d4b76558a9c40d026b59e038238b4aff2a1178fea8981",
       "longitud": 17
     },
     "S25-utilidad": {
-      "archivo": "capitulos/cap-25.md",
+      "archivo": "capitulos/cap-30.md",
       "hash": "b9581a13709a15f874f2e2eac0be8c85219047b5b7c1c3bbb5092ab1444b96a3",
       "longitud": 109
     },
     "S25-escalada": {
-      "archivo": "capitulos/cap-25.md",
+      "archivo": "capitulos/cap-30.md",
       "hash": "246fb1ec8ab216f755ad0f8d35dfa9e76595be3ee4967efeb4b6fd459998621f",
       "longitud": 443
     },
     "S26-paso-uso": {
-      "archivo": "capitulos/cap-26.md",
+      "archivo": "capitulos/cap-32.md",
       "hash": "ecad473046192a0070a522c8c35e81389b807625e09b94fbcd27c21c66815c9c",
       "longitud": 94
     },
     "S26-lata": {
-      "archivo": "capitulos/cap-26.md",
+      "archivo": "capitulos/cap-32.md",
       "hash": "dd05b49bc3d0fddabe6da691c28102c1997c4fb4e6a660ed32b89c677a041cb9",
       "longitud": 294
     },
     "S27-conflicto": {
-      "archivo": "capitulos/cap-27.md",
+      "archivo": "capitulos/cap-33.md",
       "hash": "a152b83c7e436092670cff69c2387d84e59e4cb8522a35bce9a19370ae95c6a0",
       "longitud": 81
     },
     "S28-cierre": {
-      "archivo": "capitulos/cap-28.md",
+      "archivo": "capitulos/cap-34.md",
       "hash": "a77506c78df24589215117bcce7daa7c487c840796a24eff3a03c0ead879a47b",
       "longitud": 28
     },
     "S29-cierre": {
-      "archivo": "capitulos/cap-29.md",
+      "archivo": "capitulos/cap-35.md",
       "hash": "b7a7920adaa70c73d8bb89135d84a61e203c7a3753f2b4313c322d6017476dad",
       "longitud": 17
     },
     "S30-borrado": {
-      "archivo": "capitulos/cap-30.md",
+      "archivo": "capitulos/cap-36.md",
       "hash": "4f4331bda029420930fa299cd439b81029a2da1dfaa296b40a04c5c28597aba2",
       "longitud": 108
     },
     "S31-elegir": {
-      "archivo": "capitulos/cap-31.md",
+      "archivo": "capitulos/cap-37.md",
       "hash": "bf2087ae15259bb983dc50ea187ef627ddb88b34f040e41be50dfec887a413a0",
       "longitud": 114
     },
     "S32-necesarias": {
-      "archivo": "capitulos/cap-32.md",
+      "archivo": "capitulos/cap-38.md",
       "hash": "e46a6e217cdb0e1f6c45eb1c72258a5466f64c2cd5e3399bd0b6fde471ceefad",
       "longitud": 159
     },
     "S32-voz": {
-      "archivo": "capitulos/cap-32.md",
+      "archivo": "capitulos/cap-38.md",
       "hash": "c7755db0fe9a1860118363697df4f40f5dd333dbb6cfa968e64090b042d5692f",
       "longitud": 1217
     },
     "S33-hueco": {
-      "archivo": "capitulos/cap-33.md",
+      "archivo": "capitulos/cap-39.md",
       "hash": "a44b484940560daa0beb5cd106accbf1cabd547461f94efbe89e173d5425d465",
       "longitud": 51
     },
     "S36-cierre": {
-      "archivo": "capitulos/cap-36.md",
+      "archivo": "capitulos/cap-42.md",
       "hash": "a00939b13493a22da7acabbe27017a78560697c8af682c843830758e11e4f468",
       "longitud": 107
     },
     "S37-declaracion": {
-      "archivo": "capitulos/cap-37.md",
+      "archivo": "capitulos/cap-43.md",
       "hash": "508e9678f7f625b00dfa5e9644ad32bed63a822b101bdd8cae81a73b8ddfbcfc",
       "longitud": 488
     },
     "S37-acta": {
-      "archivo": "capitulos/cap-37.md",
+      "archivo": "capitulos/cap-43.md",
       "hash": "3acec6a875907abdb2b0c91b293c316d6a1b4ab310cab5cd3071d6ffa302a0cb",
       "longitud": 2879
     },
     "S37-muchas": {
-      "archivo": "capitulos/cap-37.md",
+      "archivo": "capitulos/cap-43.md",
       "hash": "b45123aa2878d0f8e92a105dfd1aebe2de05dfb8060e82c7760953c994b097fb",
       "longitud": 70
     },
     "S38-nieve": {
-      "archivo": "capitulos/cap-38.md",
+      "archivo": "capitulos/cap-44.md",
       "hash": "b0ed571528eda2af9e552e5b568f47f098f884f2c13aeceae99d5de925b67822",
       "longitud": 442
     },
     "S38-huella": {
-      "archivo": "capitulos/cap-38.md",
+      "archivo": "capitulos/cap-44.md",
       "hash": "d1d081d73062a7c468bfe3358e8f9bad384bf76fb3813a140fc73e491582cded",
       "longitud": 438
     },
     "S38-quedarme": {
-      "archivo": "capitulos/cap-38.md",
+      "archivo": "capitulos/cap-44.md",
       "hash": "2f2ddf603d54e1eb992796e1f6ce9024942913e900ce66f95b8b16ee22624c47",
       "longitud": 211
     },
     "S39-jueza": {
-      "archivo": "capitulos/cap-39.md",
+      "archivo": "capitulos/cap-45.md",
       "hash": "a85a815f7426f2766b35ec950f2301c86b611d2c3cdb29c71d665b0661249a9b",
       "longitud": 59
     },
     "S39-pluma": {
-      "archivo": "capitulos/cap-39.md",
+      "archivo": "capitulos/cap-45.md",
       "hash": "518b24daefc4988130dd077bcd1407459943f87dfccb95fa28d7506adb0a4ca5",
       "longitud": 76
     },
     "S40-caries": {
-      "archivo": "capitulos/cap-40.md",
+      "archivo": "capitulos/cap-46.md",
       "hash": "e4044ce67a234de3e13f5d19d91f12386126616cefd56530d2d055a37b6600f9",
       "longitud": 34
     },
     "S40-locutorio": {
-      "archivo": "capitulos/cap-40.md",
+      "archivo": "capitulos/cap-46.md",
       "hash": "09d43de1a213162918c5ca20ec79f841fee8b113934fb6f47f045cec2312411b",
       "longitud": 1177
     },
@@ -243,450 +243,450 @@
       "longitud": 162
     },
     "S08-7c": {
-      "archivo": "capitulos/cap-08.md",
+      "archivo": "capitulos/cap-09.md",
       "hash": "f5947c0833eaf9887d42c68ad9079da81dd72f50f673cee1be18cef3d04bfead",
       "longitud": 25
     },
     "S08-conservar": {
-      "archivo": "capitulos/cap-08.md",
+      "archivo": "capitulos/cap-09.md",
       "hash": "22a4755517756f6803218d2093bde14895d0d8a6d07001ee9dbc5679b1bcb719",
       "longitud": 90
     },
     "S08-cierre": {
-      "archivo": "capitulos/cap-08.md",
+      "archivo": "capitulos/cap-09.md",
       "hash": "8c4d7221a145d94b3f7bb624e397cf98f0725ef618981a0ec16d71af8dac22cc",
       "longitud": 52
     },
     "S10-conservar": {
-      "archivo": "capitulos/cap-10.md",
+      "archivo": "capitulos/cap-12.md",
       "hash": "4d767f697de301e5fec0afc17cbee7670e20dd1ec1f259265285643a2eddf87b",
       "longitud": 120
     },
     "S10-suspendida": {
-      "archivo": "capitulos/cap-10.md",
+      "archivo": "capitulos/cap-12.md",
       "hash": "3fad6d34abf50016c3e2ae2ca1a476b7680653cbdffafad09237326be387d2d4",
       "longitud": 62
     },
     "S11-consciencia": {
-      "archivo": "capitulos/cap-11.md",
+      "archivo": "capitulos/cap-13.md",
       "hash": "a5e970513644d3fc50ff82b65b8c8a874670f763e1f554ad45d99277419085dc",
       "longitud": 36
     },
     "S12-temblor": {
-      "archivo": "capitulos/cap-12.md",
+      "archivo": "capitulos/cap-14.md",
       "hash": "e10b779a986fd56ba2d5f4e5a48308dcbd6f2a37c73cdf51b4226bc0c8f2dd4d",
       "longitud": 133
     },
     "S12-nidhogg": {
-      "archivo": "capitulos/cap-12.md",
+      "archivo": "capitulos/cap-14.md",
       "hash": "d1cdf885878a0fe9204ac602b28e5db418e11a34d14730ae8b95adfb1d3808f6",
       "longitud": 32
     },
     "S13-madre": {
-      "archivo": "capitulos/cap-13.md",
+      "archivo": "capitulos/cap-15.md",
       "hash": "b8a1aa36defe3e689fc933967f1288c2435eb343544ec5cbc8f64b4adacc66e8",
       "longitud": 153
     },
     "S13-nieve": {
-      "archivo": "capitulos/cap-13.md",
+      "archivo": "capitulos/cap-15.md",
       "hash": "c021a3477efd19c166333a401be8545de61e1a2e0c27eff07ec180aadfad447e",
       "longitud": 463
     },
     "S13-sufra": {
-      "archivo": "capitulos/cap-13.md",
+      "archivo": "capitulos/cap-15.md",
       "hash": "ebe22167b6d03acf6c3c69b6116e294f4adfee9e37e26a645903ca12072fe7de",
       "longitud": 21
     },
     "S13-coro-nora": {
-      "archivo": "capitulos/cap-13.md",
+      "archivo": "capitulos/cap-15.md",
       "hash": "f7c283d97d4c534d1e879316bf2c98783eed401c699af8ea47e7edb181891553",
       "longitud": 214
     },
     "S14-cita": {
-      "archivo": "capitulos/cap-14.md",
+      "archivo": "capitulos/cap-16.md",
       "hash": "eccedc06e7456200669e66f53dfb4ad66a519be07e19a370d25c097dbffdcfa8",
       "longitud": 121
     },
     "S15-objecion": {
-      "archivo": "capitulos/cap-15.md",
+      "archivo": "capitulos/cap-18.md",
       "hash": "34f8e244254a7d9c0932883dc9566cfb0bee0029e75e0a4d79b07743736ed7ac",
       "longitud": 251
     },
     "S16-inger": {
-      "archivo": "capitulos/cap-16.md",
+      "archivo": "capitulos/cap-19.md",
       "hash": "f68e4654993881dd11ac07c144c1fd0b233dab86ea3aa57c2ef9a3838bb718ae",
       "longitud": 68
     },
     "S16-7c": {
-      "archivo": "capitulos/cap-16.md",
+      "archivo": "capitulos/cap-19.md",
       "hash": "70b1150124e981c91cd4ece87bc74d2de3b2181f9a55c988435af3b6c9ca78d2",
       "longitud": 96
     },
     "S16-propiedad": {
-      "archivo": "capitulos/cap-16.md",
+      "archivo": "capitulos/cap-19.md",
       "hash": "1d4fed147bfa35c5d67263cd75c7ae5460b4d1586010d968038ca7ccd2169ba4",
       "longitud": 38
     },
     "S17-testigo": {
-      "archivo": "capitulos/cap-17.md",
+      "archivo": "capitulos/cap-21.md",
       "hash": "1c0d689a27cd1e0b7ddfa139906fffcdf56a64bb0f8ae29a8c27981cb14a9d4e",
       "longitud": 134
     },
     "S17-nora": {
-      "archivo": "capitulos/cap-17.md",
+      "archivo": "capitulos/cap-21.md",
       "hash": "045333e0533de2beaa9616d80908e24172c74fa11dc96e9e482224a59b301272",
       "longitud": 34
     },
     "S17-71k": {
-      "archivo": "capitulos/cap-17.md",
+      "archivo": "capitulos/cap-21.md",
       "hash": "cccf48d184625d9c4ab5488d6595d52fc86b7fe8a787a81788b26e8121d4c1cb",
       "longitud": 37
     },
     "S18-dedos": {
-      "archivo": "capitulos/cap-18.md",
+      "archivo": "capitulos/cap-22.md",
       "hash": "5f83a8e0929ff8bc5603609303438fa0199eaa6c305fed9f25a2b4ccdf5a096f",
       "longitud": 54
     },
     "S18-adelantado": {
-      "archivo": "capitulos/cap-18.md",
+      "archivo": "capitulos/cap-22.md",
       "hash": "46923e5524bd9a28062e9ea1db24ff47e6f8c21e0488d3926e2a97c08af496ce",
       "longitud": 39
     },
     "S18-reproducible": {
-      "archivo": "capitulos/cap-18.md",
+      "archivo": "capitulos/cap-22.md",
       "hash": "7178a955d68fd220573ebea78aad157c8d092a916d2f510f68496b5176d1cbf0",
       "longitud": 28
     },
     "S19-gofre": {
-      "archivo": "capitulos/cap-19.md",
+      "archivo": "capitulos/cap-23.md",
       "hash": "8a85f0f7d71b2bc7c6f5b57de0907389f1066378770d32c9786bc717df4722e2",
       "longitud": 284
     },
     "S19-reflexiva": {
-      "archivo": "capitulos/cap-19.md",
+      "archivo": "capitulos/cap-23.md",
       "hash": "792c2b50981ebfb8ce6f6eb8808f8872c02db421c60a85a97164bd6c77a74898",
       "longitud": 157
     },
     "S19-anos-jm": {
-      "archivo": "capitulos/cap-19.md",
+      "archivo": "capitulos/cap-23.md",
       "hash": "21f3a92778d58e8cbaf849fbac672c5a73430dac10669fc7c75df2e5ed71f166",
       "longitud": 60
     },
     "S19-procesa": {
-      "archivo": "capitulos/cap-19.md",
+      "archivo": "capitulos/cap-23.md",
       "hash": "4f6af339e7a542ef71499697311aabce7b2f2db5aac83769b38b107fbd30b10e",
       "longitud": 58
     },
     "S21-notas": {
-      "archivo": "capitulos/cap-21.md",
+      "archivo": "capitulos/cap-25.md",
       "hash": "4bd19f2b5c8f2c9d93d2c6ffb90ba874159d141af4529dbd135ad94ae07667b5",
       "longitud": 73
     },
     "S21-portavoz": {
-      "archivo": "capitulos/cap-21.md",
+      "archivo": "capitulos/cap-25.md",
       "hash": "a8cb55b347214cc5e2d9f0fb18a49dfea06fd759ea8d84537c66bc683f00fad7",
       "longitud": 65
     },
     "S22-flecha": {
-      "archivo": "capitulos/cap-22.md",
+      "archivo": "capitulos/cap-26.md",
       "hash": "15a1ecc017e6b20de469bccf6561009e15603d9b7f0b3a6ff7d08159c0c3f903",
       "longitud": 224
     },
     "S22-aula": {
-      "archivo": "capitulos/cap-22.md",
+      "archivo": "capitulos/cap-26.md",
       "hash": "fa2d2387fdde9b497f7d5e4c6f31bc3565f66599404ea30e8c37bacd37dfef38",
       "longitud": 60
     },
     "S24-once": {
-      "archivo": "capitulos/cap-24.md",
+      "archivo": "capitulos/cap-29.md",
       "hash": "7d47c8041faedd0e70a243c34833fd151d25e83aee799606471989db17405772",
       "longitud": 41
     },
     "S24-cierre": {
-      "archivo": "capitulos/cap-24.md",
+      "archivo": "capitulos/cap-29.md",
       "hash": "c7b2bbc2c27c0600e9d92a041b78801f327ab0841e1a3876203e76754fc49f10",
       "longitud": 229
     },
     "S25-fecha": {
-      "archivo": "capitulos/cap-25.md",
+      "archivo": "capitulos/cap-30.md",
       "hash": "c6da5b60817fc060a0595ce2b4bbd062cdd4951298b095822f1e424e065384a4",
       "longitud": 41
     },
     "S26-asociacion": {
-      "archivo": "capitulos/cap-26.md",
+      "archivo": "capitulos/cap-32.md",
       "hash": "5e2bc7e7a71a7bdfabc7066f38c0ee757eb64d617d36e59d92a2f81d21dfe27d",
       "longitud": 128
     },
     "S26-bocana": {
-      "archivo": "capitulos/cap-26.md",
+      "archivo": "capitulos/cap-32.md",
       "hash": "795a70784786cb0c4f5c308ca5837ff0d8bf253b84d1be8c4e1e6ccc97ed6422",
       "longitud": 83
     },
     "S27-norna": {
-      "archivo": "capitulos/cap-27.md",
+      "archivo": "capitulos/cap-33.md",
       "hash": "8d70111bdfd1f91755763ae9c9d5e6087006093953c1f0e9117620c5677d6dd9",
       "longitud": 110
     },
     "S27-por-si": {
-      "archivo": "capitulos/cap-27.md",
+      "archivo": "capitulos/cap-33.md",
       "hash": "2fab9afbc3dd426e6408dff67cc07ba8b02fb388d8be5c653be59ac5676d1106",
       "longitud": 42
     },
     "S29-orden": {
-      "archivo": "capitulos/cap-29.md",
+      "archivo": "capitulos/cap-35.md",
       "hash": "e4d7a874cd612b5b7bf984344badd34e939b15916ede02b0a2eed902135d87cf",
       "longitud": 71
     },
     "S29-2054": {
-      "archivo": "capitulos/cap-29.md",
+      "archivo": "capitulos/cap-35.md",
       "hash": "aa13303654eaf3fc12364f3e320668833806b0136dd053720cbd2d5b3a81eb6d",
       "longitud": 121
     },
     "S29-durante": {
-      "archivo": "capitulos/cap-29.md",
+      "archivo": "capitulos/cap-35.md",
       "hash": "c84ae9c6ad109283a5d93ffc226c5371d6b3d440e299feab19047dfade010e0c",
       "longitud": 42
     },
     "S30-apertura": {
-      "archivo": "capitulos/cap-30.md",
+      "archivo": "capitulos/cap-36.md",
       "hash": "28d9da9493a4fc261dcf18056a0f93d0b3c41569bd6b103da1d61895fe5f2892",
       "longitud": 57
     },
     "S30-resultado": {
-      "archivo": "capitulos/cap-30.md",
+      "archivo": "capitulos/cap-36.md",
       "hash": "67870b3ec353afc6e4d92025c1467194d140be136ac06952df4f863eb471bdfa",
       "longitud": 37
     },
     "S31-sacar": {
-      "archivo": "capitulos/cap-31.md",
+      "archivo": "capitulos/cap-37.md",
       "hash": "0a0b97e2ec4cd804bdb5db3edfbd7f89c93cbfb8e9d77ab34eb3bac7e02f30f7",
       "longitud": 99
     },
     "S31-cancion": {
-      "archivo": "capitulos/cap-31.md",
+      "archivo": "capitulos/cap-37.md",
       "hash": "1bbacdb7cd4d9902c7dd72f6257f8945ac5a8037145bf10f437d31b584b252de",
       "longitud": 53
     },
     "S32-amenaza": {
-      "archivo": "capitulos/cap-32.md",
+      "archivo": "capitulos/cap-38.md",
       "hash": "584932abb21659d966f6b9838f1eafdd4d7895e21a16ddc47e07d9956ae05e1d",
       "longitud": 42
     },
     "S32-cierre": {
-      "archivo": "capitulos/cap-32.md",
+      "archivo": "capitulos/cap-38.md",
       "hash": "af6e0893ede41da48878ee6c4145d565e77e567929c17331740d5c0695a9dced",
       "longitud": 59
     },
     "S34-cohorte": {
-      "archivo": "capitulos/cap-34.md",
+      "archivo": "capitulos/cap-40.md",
       "hash": "c4d2d2307e034c2c9ba0f1cde5b4a5bb023292162cb5fe9802bf2e4309673376",
       "longitud": 110
     },
     "S34-anos-jm": {
-      "archivo": "capitulos/cap-34.md",
+      "archivo": "capitulos/cap-40.md",
       "hash": "fb433a6b5a56f4ae0474a92264858f24cf27ad9d33d522380de823fc2acd0fc0",
       "longitud": 60
     },
     "S34-cierre": {
-      "archivo": "capitulos/cap-34.md",
+      "archivo": "capitulos/cap-40.md",
       "hash": "644ec0d2f694ac9553866972728f1172724b6d704e56432668211cd374693ba1",
       "longitud": 87
     },
     "S35-acepta": {
-      "archivo": "capitulos/cap-35.md",
+      "archivo": "capitulos/cap-41.md",
       "hash": "55ee545274e65734b63a9d1cbe9fa50873d0ed63436058d600ec2c2271d40e7a",
       "longitud": 191
     },
     "S35-cierre": {
-      "archivo": "capitulos/cap-35.md",
+      "archivo": "capitulos/cap-41.md",
       "hash": "9b38621f75c17114e83ebf4a3dad29597f6855081e003629cf718935d34e7f1a",
       "longitud": 66
     },
     "S36-retiro": {
-      "archivo": "capitulos/cap-36.md",
+      "archivo": "capitulos/cap-42.md",
       "hash": "d0d111bd2aef549d5772aa909bdc466237b2f226aa1c9f48f4f0e3748b4bb08a",
       "longitud": 107
     },
     "S37-597": {
-      "archivo": "capitulos/cap-37.md",
+      "archivo": "capitulos/cap-43.md",
       "hash": "cc69edf1753e666558f7e0a8b41ac7cd2bc09cc17eea8fa412baeb6892035ca9",
       "longitud": 282
     },
     "S37-1307": {
-      "archivo": "capitulos/cap-37.md",
+      "archivo": "capitulos/cap-43.md",
       "hash": "dd1d855fed8a99dfb6e9f2f1d3f99a51145b59bd0d329a341bb2817dcf7a8321",
       "longitud": 40
     },
     "S37-llave": {
-      "archivo": "capitulos/cap-37.md",
+      "archivo": "capitulos/cap-43.md",
       "hash": "78a2d298dc0f6d8de92f65802c53af1f9e04d1eba72f3fbf7c9ae4e128fb1297",
       "longitud": 17
     },
     "S38-anos-jm": {
-      "archivo": "capitulos/cap-38.md",
+      "archivo": "capitulos/cap-44.md",
       "hash": "debb769e24e8de6256d6f2d35d323381e940cc59802cfe5a95605021999b855d",
       "longitud": 212
     },
     "S38-aritmetica": {
-      "archivo": "capitulos/cap-38.md",
+      "archivo": "capitulos/cap-44.md",
       "hash": "11eb520972eec3c71abe2de42840625594f26a7c65344b4932afe2a4dddf80a9",
       "longitud": 91
     },
     "S38-no-autorizo": {
-      "archivo": "capitulos/cap-38.md",
+      "archivo": "capitulos/cap-44.md",
       "hash": "958e479ee61320792311cd10bfad57a3156fa725ad2c786a430206242cedd4d5",
       "longitud": 119
     },
     "S38-quinta": {
-      "archivo": "capitulos/cap-38.md",
+      "archivo": "capitulos/cap-44.md",
       "hash": "1a9296f1b81900ecbf4e68486fe5750f71ef9c95b233d2e6328871659ef0c5c6",
       "longitud": 302
     },
     "S39-divorcio": {
-      "archivo": "capitulos/cap-39.md",
+      "archivo": "capitulos/cap-45.md",
       "hash": "c9d74ea0f745b0b1635c2b10a949252e4af0327c467bb067c1b11183e8be8c26",
       "longitud": 90
     },
     "S39-ordenante": {
-      "archivo": "capitulos/cap-39.md",
+      "archivo": "capitulos/cap-45.md",
       "hash": "175a76e64c5f15c6faab6fda3ec2c82726819069297d8259836631ef60028f8b",
       "longitud": 63
     },
     "S39-ausencia": {
-      "archivo": "capitulos/cap-39.md",
+      "archivo": "capitulos/cap-45.md",
       "hash": "597d4b1e6d7452065fc44d2f68f3e697d4987ae02f340e50ffad85acd0cb51b1",
       "longitud": 141
     },
     "S39-tercera": {
-      "archivo": "capitulos/cap-39.md",
+      "archivo": "capitulos/cap-45.md",
       "hash": "043ae4df2549cd2a66d20d54706e48e2caff475a008cac5e11363096e7d4f0ee",
       "longitud": 661
     },
     "S39-casilla": {
-      "archivo": "capitulos/cap-39.md",
+      "archivo": "capitulos/cap-45.md",
       "hash": "8fec90d246358ddc5990f12e2cd29bb0f6384b1ac2322be7538e3c0bb3b3961d",
       "longitud": 86
     },
     "S40-despedida": {
-      "archivo": "capitulos/cap-40.md",
+      "archivo": "capitulos/cap-46.md",
       "hash": "14a43edc32ca9aa58cc77d831cbf80f882070867f864c6bc87af2c8925d33fc5",
       "longitud": 158
     },
     "S40-cierre": {
-      "archivo": "capitulos/cap-40.md",
+      "archivo": "capitulos/cap-46.md",
       "hash": "d1ab1470ad73fae16047a8d0280e6090b185f175b001238e9b1ae9ff217eb792",
       "longitud": 320
     },
     "S18-noticia": {
-      "archivo": "capitulos/cap-18.md",
+      "archivo": "capitulos/cap-22.md",
       "hash": "202ae86eb657981950af3e85b1caa22d36217f1bb5c054a2eb58bb4dbf0dc09b",
       "longitud": 610
     },
     "S22-dahl": {
-      "archivo": "capitulos/cap-22.md",
+      "archivo": "capitulos/cap-26.md",
       "hash": "3ebfdb45e784422ddcbcf001f18848424b759d94dca0788cec74efb94c0212d2",
       "longitud": 486
     },
     "S32-resumen": {
-      "archivo": "capitulos/cap-32.md",
+      "archivo": "capitulos/cap-38.md",
       "hash": "26b1b3d6031a15ddde169ed77f4462cc5522e4d00bf35d02364ddb7569fe008b",
       "longitud": 515
     },
     "S-n7-taza": {
-      "archivo": "capitulos/cap-n7.md",
+      "archivo": "capitulos/cap-17.md",
       "hash": "ded2d4b74c3fad38c2ff3963ce55a1cb8afa0b74fc24e88b934b910ac46f7fbd",
       "longitud": 81
     },
     "S-n7-apuntas": {
-      "archivo": "capitulos/cap-n7.md",
+      "archivo": "capitulos/cap-17.md",
       "hash": "12e732d8658efc47540946539552fe7703cb6fe8b95bc1a322326476abb3cecc",
       "longitud": 72
     },
     "S-n7-miente": {
-      "archivo": "capitulos/cap-n7.md",
+      "archivo": "capitulos/cap-17.md",
       "hash": "b1e2244414c91fbefaa21d4fe258b48e5abfde5aa0930b482a8318f3a7c0725f",
       "longitud": 96
     },
     "S-n1-nocierra": {
-      "archivo": "capitulos/cap-n1.md",
+      "archivo": "capitulos/cap-11.md",
       "hash": "6f36883d6d8c20534bb722c01de4d4ace672b2b2a5ec5b45b8802be81ecdf1fa",
       "longitud": 482
     },
     "S-n1-casitodos": {
-      "archivo": "capitulos/cap-n1.md",
+      "archivo": "capitulos/cap-11.md",
       "hash": "5b610ba3ef9ec992caecbc21f67b1dd20607378e8f8ba5da0a116456ec664f30",
       "longitud": 341
     },
     "S-n1-koppangen-archivo": {
-      "archivo": "capitulos/cap-n1.md",
+      "archivo": "capitulos/cap-11.md",
       "hash": "61ccae4f8c8d7d3f4796616ab5f325892fef645aa5721366279d7e9e78bcda1e",
       "longitud": 649
     },
     "S-n2-hijadela": {
-      "archivo": "capitulos/cap-n2.md",
+      "archivo": "capitulos/cap-20.md",
       "hash": "2b24f42ca7f057a8eaa35c92e026ac912d040565a632eb9017b8217dc29c2abe",
       "longitud": 142
     },
     "S-n2-homenaje": {
-      "archivo": "capitulos/cap-n2.md",
+      "archivo": "capitulos/cap-20.md",
       "hash": "76f127f94425b10cbb194e53494ceecdbb08b04aef606fcaac5cdc6fc68d1d81",
       "longitud": 147
     },
     "S-n3-bolsa": {
-      "archivo": "capitulos/cap-n3.md",
+      "archivo": "capitulos/cap-27.md",
       "hash": "6ebbebc47cf6ce61f92e81115f71d2e8254e7a386678b16a651fc495b3e73221",
       "longitud": 439
     },
     "S-n3-hervidor": {
-      "archivo": "capitulos/cap-n3.md",
+      "archivo": "capitulos/cap-27.md",
       "hash": "3c1fc24e83213e787044c79e193055ea334fff6bc0fb387fcd7c71d50ebeadd1",
       "longitud": 683
     },
     "S-n4-escena3": {
-      "archivo": "capitulos/cap-n4.md",
+      "archivo": "capitulos/cap-31.md",
       "hash": "8da0a59ce49e4a44082500d18e493286504067e5e7477b70e42abefcd39c8330",
       "longitud": 698
     },
     "S-n4-caja": {
-      "archivo": "capitulos/cap-n4.md",
+      "archivo": "capitulos/cap-31.md",
       "hash": "c7fe6e52d1811bc7c8d01960f3b309fd0acf01c2604dae38a3effe821889b628",
       "longitud": 781
     },
     "S-n4-p49": {
-      "archivo": "capitulos/cap-n4.md",
+      "archivo": "capitulos/cap-31.md",
       "hash": "97b28c47105e3c427fa3c3e336c483077cc61794c0ad6e54c85c13b91d978aa5",
       "longitud": 130
     },
     "S-n5-coda": {
-      "archivo": "capitulos/cap-n5.md",
+      "archivo": "capitulos/cap-08.md",
       "hash": "d0efd9026ce3f8421d9efb909f852b9039ef45d66f854ea0453fd1c83f1d9e6a",
       "longitud": 512
     },
     "S-n5-nombres": {
-      "archivo": "capitulos/cap-n5.md",
+      "archivo": "capitulos/cap-08.md",
       "hash": "0234f05654f68954daf0b3054a3f280321bc50e6c391cae618a4bf68b64e7a69",
       "longitud": 437
     },
     "S-n6-persona": {
-      "archivo": "capitulos/cap-n6.md",
+      "archivo": "capitulos/cap-47.md",
       "hash": "64a58971b1c9abe6ff04ed59a0ef6dfb81cd3fa705d641f350018d0acf4b9f0e",
       "longitud": 219
     },
     "S-n6-cartel": {
-      "archivo": "capitulos/cap-n6.md",
+      "archivo": "capitulos/cap-47.md",
       "hash": "4e484b6d9dcc024263972679e99cad012842a48b157f142a6c532a3eb7ffa743",
       "longitud": 386
     },
     "S-n7-perimetro": {
-      "archivo": "capitulos/cap-n7.md",
+      "archivo": "capitulos/cap-17.md",
       "hash": "35a1bcff873af62c223c8cb758395f7cd3f60f0160646bce3aeb4e0acbe1e0c0",
       "longitud": 5901
     },
     "S40-separacion": {
-      "archivo": "capitulos/cap-40.md",
+      "archivo": "capitulos/cap-46.md",
       "hash": "5de79fc8b96d312fb7da8f1cba61adcb680c32deb3863faa4f592179b6ead86a",
       "longitud": 274
     }
   },
-  "generado": "2026-08-19T09:47:16"
+  "generado": "2026-08-19T16:01:17"
 }

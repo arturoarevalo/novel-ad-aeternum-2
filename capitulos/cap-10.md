@@ -1,215 +1,271 @@
 ---
-capitulo: 12
-titulo: Caries
+capitulo: 10
+titulo: Despedida
 pov: Nora
-fecha: 2060-12-05
-estado: aceptado
-analepsis: false
-estado_plan: R
-proteccion: nucleo
+fecha: 2060-12-03
+estado: terminado
+analepsis: true
+estado_plan: P
+proteccion: total
 ot: OT-10
 delta_objetivo: 0
-orden_lectura: 12
+orden_lectura: 10
 ---
 
-Nora pulsó «subir» y la red escolar rechazó la foto antes de que la barra alcanzara el dos por ciento.
+El pastor calló y Nora midió el silencio en un compás de cuatro pulsos. Uno, dos, tres, cuatro. El hombre tomó aire antes de seguir y ella se aferró al intervalo, a su duración exacta, a cualquier cosa que no fueran las palabras.
 
-`Contenido no admitido. Motivo: CARIES.`
+El banco cedía un poco bajo el peso de Jessie. Cada vez que su hermana cambiaba de postura, la madera les transmitía un crujido. Nora agradecía aquel aviso. El radiador golpeaba dentro de la pared. La costura del guante se le clavaba entre dos dedos y la mujer de la fila anterior se había puesto demasiado perfume. Eran molestias pequeñas. Cabían.
 
-En la imagen, las gemelas tenían nueve años y esperaban el ferry sentadas sobre dos mochilas. Jean salía detrás con la cara cortada a la altura de la nariz, un vaso de cartón en cada mano y la bufanda torcida. El encuadre dejaba sitio de sobra al suelo de goma, al banco atornillado y a una papelera.
+Al otro lado de Jessie, Maja llevaba el programa doblado sobre las rodillas. Cuando alguien se acercaba, se levantaba, daba las gracias y volvía a sentarse sin mirar a sus hijas.
 
-De pequeña, Nora había llamado caries a las teclas negras del piano. Jean había tocado tres y contestado que esas teclas hacían morder a la canción.
+Al final de la primera fila, un pasillo de dos metros separaba a Alana Armstrong de ellas. Había elegido una silla que nadie más quiso. Había llegado sola, sin flores. Mantenía las manos a la vista y la espalda tiesa. Durante una de las pausas, Nora esperó que se acercara. No lo hizo.
 
-Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Nora no había vuelto al instituto desde noviembre. Las tareas de tutoría se entregaban desde casa: era lo único suyo que aún contaba mientras faltase. En la lista de 1STA, las demás entregas llevaban dos días encendidas. Faltaban cuarenta y siete minutos para el cierre. Arriba del hilo seguía el mensaje de la tutora, sin fecha: «Cuando vuelvas, retomamos por donde lo dejaste». La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
+Pronunciaron Jean Marie Larsson varias veces. A su madre nunca la había llamado así. Hablaron de trabajo, rigor y generosidad. Una mujer se equivocó al decir la edad. Nadie la corrigió.
 
-El revisor de la propia red aprobó formato, tamaño y metadatos. Nora sustituyó el borrador por esa copia y volvió a enviarla desde el álbum.
+Después, un antiguo compañero se saltó una página de sus notas y contó una anécdota de oficina. Al terminar, miró a la familia como si hubiera entregado algo útil.
 
-`Contenido no admitido. Motivo: CARIES.`
+En el margen del programa, Jessie clavó la uña.
 
-—Jessie.
+—No —murmuró.
 
-Su hermana apareció con una cuchara en la boca y un cuenco de cereales apoyado contra el jersey. Leyó el aviso, miró la foto y se la quitó.
+Era imposible saber si respondía al hombre, al pastor o a la mañana entera. Un dedo de Maja recorrió el papel de Jessie hasta que la uña se apartó. Fue el único contacto entre las tres durante la ceremonia.
 
-—Un filtro mal entrenado.
+Dos filas detrás, alguien sollozaba con un sonido regular y limpio. Le dieron ganas de pedirle que parara. Le molestaba que una desconocida pudiera llorar por Jean mientras Nora recordaba la última frase que le había dicho.
 
-—Ha pasado la comprobación previa.
+Al concluir aquella intervención, Nora miró el dispositivo. No recordaba cuándo había aparecido aquella palabra ni cuánto tiempo llevaba visible.
 
-—O una etiqueta de prueba. Mamá dejó restos por media Armstrong.
+`Despedida`
 
-—Anoche salió `JM-L/0007`.
+Había un archivo con ese nombre. Era lo único que Nora sabía.
 
-—En una aplicación donde trabajó ella. Que dos cosas hereden la misma porquería no las convierte en cartas.
+—Ni se te ocurra —dijo Jessie.
 
-Nora cerró el aviso. Jessie podía tener razón en cada palabra y aun así quedaba aquella mayúscula bajo la foto del ferry.
+Nora apagó la pantalla sin abrir nada.
 
-El editor permitía recortar sin publicar. Nora hizo cuatro copias desde el mismo original y retiró una franja distinta de cada copia. Mantuvo las medidas y las caras. La herramienta ya había limpiado los metadatos. Las llamó de A a D antes de cargar ninguna.
+—¿Contenta? —preguntó Jessie.
 
-—Graba la pantalla —dijo Jessie.
+—Guardad eso para casa —dijo Maja.
 
-Nora activó la grabación ordinaria del dispositivo. Mostró la hora, las marcas de creación y la vista previa de los cuatro archivos. Después subió A.
+—Yo no voy a guardarlo para ninguna parte.
 
-`FLOR.`
+Un hombre que esperaba para despedirse de ellas bajó la cabeza, fingiendo interés por los botones de su abrigo. Al levantarse Maja, el programa resbaló de sus rodillas y Nora tuvo que agacharse a recogerlo.
 
-El recorte seguía mostrando el suelo de goma y el banco. También las mochilas y media cara de Jean. No había flores.
+El pastor se había acercado a Maja. Hablaban en voz baja y ambos miraban hacia las puertas, como si quedara un trámite que resolver. Al final de la fila, Alana seguía inmóvil, sin acercarse.
 
-Subió B.
+—No —dijo Nora.
 
-`CANELA.`
+—Pues pon esa cara también. A ver si se enteran.
 
-Los vasos no llevaban marca y nadie comía. Nora anotó la hora en una nota provisional y cargó C.
-
-`Contenido no admitido. Motivo: CARIES.`
-
-Jessie dejó el cuenco sobre una caja sin apartar los ojos de la pantalla.
-
-—Falta D.
-
-Nora lo envió. No había escrito una pregunta en el nombre, en el álbum ni en ningún campo.
-
-`Contenido no admitido. Motivo: NO.`
-
-El historial dispuso las cuatro salidas por orden.
-
-FLOR / CANELA / CARIES / NO
-
-Flor y canela admitían demasiadas asociaciones. `CARIES` era más íntimo, pero tampoco bastaba para atribuir intención. Nora detuvo la grabación. Los intervalos rondaban los once segundos. No convirtió `NO` en respuesta.
-
-Jessie comprobó las marcas de creación por segunda vez.
-
-—Las cuatro existían antes de que saliera flor.
-
-—Sí.
-
-—Repite.
-
-Nora limpió el borrador y abrió el espacio de prueba. Jessie comprobó nombres, recortes y orden. La segunda serie A–B–C–D devolvió las mismas cuatro correspondencias.
-
-—Vale —dijo Jessie—. Es raro.
-
-Nora exportó el historial.
-
-—Se repite, pero todavía no sabes de qué depende.
-
-Nora preparó el orden D–C–B–A. Si las palabras seguían las posiciones, cambiarían de archivo. Si seguían los recortes, no. Aún quedaba la posibilidad de un estado conservado.
-
-Nora cambió `comprobación` por `control` en la fila.
-
-Jessie recuperó el cuenco. La leche había empapado los cereales y la cuchara se sostenía de pie.
-
-—Hazlo, entonces.
-
-—Primero voy a guardar esto.
-
-—Acabas de guardarlo.
-
-—La grabación y los originales tienen que quedar juntos.
-
-—Y luego otra prueba, hasta que la máquina aprenda a decir lo que quieres.
-
-—O sobre otra cosa.
-
-Jessie soltó aire por la nariz.
-
-—Ahí está.
-
-—¿Qué?
-
-—Mamá. Metida antes de que termines la frase.
-
-Nora anotó `dato`, tres explicaciones posibles y `control pendiente`. Debajo escribió `conservar resultados contrarios`.
-
-—No he escrito que sea ella.
-
-—No hace falta. Mañana pondrá «pan» y buscarás un desayuno de mamá.
-
-—Por eso he usado una sola foto.
-
-—La foto que querías. Luego escoges cuáles palabras cuentan. Todo cabe si rebuscas suficiente.
-
-Nora añadió aquella objeción a las explicaciones alternativas.
-
-—El orden se ha repetido.
-
-—Una avería también. Ha pasado algo, vale. Pero ya estás poniendo a mamá en medio.
-
-Nora dejó de escribir. En el escritorio, la barra del plazo había bajado a diecinueve minutos.
-
-—Quiero probar con D primero. Luego C. Si dejan de salir así, entonces…
-
-—Estás poniendo títulos distintos a la misma cosa.
-
-—Tú necesitas que sea un fallo.
-
-—Necesito que mañana vayas a clase. Que comas sin leer cada etiqueta. Que no desaparezcas detrás de cada pantalla donde haya trabajado.
-
-—Eso no borra las ocho cargas.
-
-—Ni las convierte en mamá.
-
-Nora se volvió hacia ella. Jessie ocupaba el hueco entre el escritorio y las cajas que Maja quería revisar, con el cuenco pegado al pecho.
-
-—La última vez que intenté sacar una nota, mamá tampoco quiso contestar cuando podía salir mal.
-
-—Te dijo que repitieras.
-
-—Hasta que suspendí.
-
-—Y tú sigues repitiendo ahora para conseguir otra respuesta.
-
-Nora retiró las manos del dispositivo.
-
-—Eso es injusto.
-
-—Puede. —Jessie miró el cuenco—. Y sigues haciéndolo.
-
-—Quieres que lo deje porque tú ya has decidido que no puede ser ella.
-
-—Quiero que puedas aceptar que no lo sea.
-
-—Puedo.
-
-—Entonces haz la inversa.
-
-Nora podía recordarle que había exigido la repetición. Se contuvo.
-
-Jessie cogió la cuchara, pero no comió.
-
-—Ahí está. Ya hablas con ella aunque esté hablando yo.
-
-Se marchó a la cocina. El agua del grifo sonó unos segundos y cesó. Nora se quedó ante los cuatro botones de la inversa, ya preparada para terminar en menos de un minuto. El cursor descansaba sobre D y la barra del plazo seguía bajando.
-
-En la nota seguía `conservar resultados contrarios`. Lo había escrito cuando la contradicción era futura. Ahora imaginó cuatro etiquetas corrientes y quiso conservar un poco más las palabras tal como estaban.
-
-Cerró la fila sin ejecutar ninguna carga. Bajo `pendiente` escribió `D–C–B–A sin ejecutar`.
-
-Luego terminó la tarea con una foto de la parada del autobús, que la plataforma admitió al primer intento.
+Nora volvió a encender la pantalla. El nombre seguía allí, intacto, insoportable. La apagó otra vez.
 
 * * *
 
-En ayuda, Nora eligió moderación y falso positivo. Adjuntó grabación, archivos e historial. Describió las dos series sin llamarlas mensaje y borró `JM-L/0007` antes de enviar.
+En el vestíbulo, mientras alguien buscaba los guantes de Jessie entre los abrigos, Maja las detuvo junto a una ventana estrecha. No llevaba el programa doblado. Lo sostenía arrugado en una mano.
 
-Solicitó el significado técnico de las etiquetas y la revisión de los rechazos.
+—Mañana tenemos la primera cita con la persona que llamó del equipo de apoyo —dijo—. Las tres.
 
-La respuesta llegó antes de que pudiera cerrar la incidencia.
+Jessie dejó de buscar.
 
-`Gracias por ayudarnos a mantener un entorno seguro. Los sistemas de moderación pueden limitar contenidos durante procesos ordinarios de verificación. Pruebe con otro archivo o consulte la política de uso.`
+—¿Nos va a explicar por qué lo hizo?
 
-Nora marcó que la respuesta no era útil y pidió explicación humana. El campo volvió a mostrar el mismo párrafo. No apareció nombre, plazo ni significado para las etiquetas.
+—No. Y yo tampoco puedo daros una sola causa. Pero necesito que oigáis esto sin que quede escondido dentro de otra frase: nada de lo que dijisteis, hicisteis o dejasteis de hacer causó la muerte de Jean. No fue culpa vuestra.
 
-Guardó la referencia, la exportación y la grabación en el almacenamiento local, fuera de la carpeta escolar. Después buscó papel. En el cajón inferior del banco del piano encontró tres cuadernos pautados a medio usar y eligió el que conservaba más páginas limpias.
+Nora había discutido con Jean por Kongsbakken.
 
-La primera página conservaba arriba dos compases de un ejercicio abandonado. Nora escribió debajo `5-dic-2060`, la hora y las dos series, una por línea. Separó `datos` de `hipótesis`, dejó el control inverso pendiente y, en el apartado de origen, puso `responsable desconocido`.
+—No sabes todo lo que dijimos —contestó Jessie.
 
-El dispositivo vibró sobre la tapa del piano.
+—Sé lo suficiente para deciros que no sois responsables de su muerte.
 
-`La actividad reciente requiere verificaciones adicionales. Su cuenta está en revisión.`
+Jessie encontró los guantes debajo de un abrigo ajeno y se los metió en el bolsillo.
 
-Nora anotó la referencia de incidencia y la hora del aviso. Comprobó que los archivos locales se abrían y desconectó la carpeta escolar. Al volver a la red, el álbum había desaparecido del menú. El historial de cargas dejó de estar disponible y el enlace de soporte devolvió la pantalla de acceso.
+—Eso no hace que la perdone.
 
-La tarea seguía entregada. La foto de la parada continuaba en la bandeja de la tutora, con su hora y su nombre al lado. Lo que la plataforma marcase junto a ese nombre iba a verlo el grupo antes que ella.
+—No te lo he pedido.
 
-Metió el cuaderno entre los ejercicios de armonía. En el papel, las dos series seguían enteras.
+Maja abrió la puerta. Jessie cruzó primero y Nora salió detrás.
 
-La pantalla cambió una vez más.
+* * *
 
-`Su cuenta ha sido suspendida temporalmente por su seguridad.`
+La nieve vieja de Telegrafbukta tenía el color de una cuneta y soltaba agua bajo las botas. Los guantes de Nora seguían mojados. En el banco helado, la humedad le atravesó el pantalón.
+
+Su hermana seguía de pie.
+
+A unos metros, una fogata soltaba humo amargo. Alguien se reía demasiado alto. Nora no tuvo energía para odiarlo.
+
+—Maja quiere que volvamos —dijo.
+
+—Maja quiere que hagamos todo lo que toca. Volver, comer, dormir, tirar las cosas de mamá.
+
+—No ha dicho tirar.
+
+—Ha dicho vaciar. Es una palabra adulta. Suena mejor y caben las mismas bolsas.
+
+Jessie arrastró la suela por la nieve hasta sacar una franja de grava. Llevaba la cremallera del abrigo abierta. La gente las confundía incluso con ropa distinta, pero nadie habría confundido esa forma de plantarse con la de Nora.
+
+—El archivo no es una bolsa —dijo Nora.
+
+—Es lo mismo con mejor diseño. Existe y ella ya no tiene que oír lo que contestemos.
+
+—Alana estaba allí.
+
+—Precisamente.
+
+Hacia la fogata, el humo hizo entornar los ojos a Jessie, pero no se apartó. Nora ignoraba cuánto había averiguado su hermana. No preguntó.
+
+—Has vuelto a mirarlo en su funeral.
+
+—Estaba ahí.
+
+—Ah, perdona. Entonces es de buen gusto.
+
+Los guantes soltaron agua en la tela cuando metió las manos bajo los muslos.
+
+—No sabemos qué es.
+
+—Da igual. Ya está haciendo que la mires.
+
+—Puede ser cualquier cosa.
+
+Al volverse, Jessie tenía la misma cara que Nora veía en sus documentos y una expresión que nunca habría sabido sostener frente a una cámara.
+
+—Nos dejó —dijo.
+
+—No. No nos…
+
+—Lo dicen todos. El pastor, Maja, la gente del trabajo. «Se ha ido», «ya no está con nosotros», «nos ha dejado demasiado pronto». Como si hubiera perdido un puto autobús.
+
+Un perro apareció entre ambas. Era bajo, blanco y llevaba un abrigo amarillo. Hundió el hocico en el guante de Nora antes de que su dueño lo llamara desde el sendero.
+
+—Perdón —dijo el hombre.
+
+Jessie soltó una risa corta. Nora también, aunque en su caso se pareció a una tos. El perro se resistió unos segundos, convencido de haber encontrado algo comestible, y terminó alejándose a tirones.
+
+—No digas que se fue. La gente se va a comprar pan. Mamá se mató. Empecemos por ahí.
+
+Nora se levantó. Lo hizo demasiado deprisa y chocó con el hombro de Jessie.
+
+—Sé lo que hizo.
+
+—Entonces dilo.
+
+—No tengo que obedecerte.
+
+Cuando Nora intentó apartarla con el antebrazo, Jessie le cerró el paso y agarró la tela de su abrigo hasta dejarlas trabadas, las botas perdiendo apoyo en la nieve sucia, cualquiera capaz de arrastrar a la otra al suelo, y ninguna soltó primero.
+
+—Dilo —repitió Jessie.
+
+—Mamá se mató.
+
+Jessie aflojó la mano.
+
+—Vale —dijo Jessie.
+
+Al separarse, Nora encontró en su propia manga la marca de la mano de su hermana.
+
+—Has vuelto a mirar el nombre dos veces ahí dentro. Dos. Nada más callarse el tipo de la oficina y mientras Maja hablaba con el pastor. No puedes dejarlo quieto ni cinco minutos.
+
+—Y tú ni siquiera has querido mirarlo.
+
+Medio paso de Jessie bastó para que Nora se preparase para otro empujón, pero su hermana se detuvo.
+
+—¿Tú crees que no quiero? —preguntó Jessie en voz baja.
+
+Miró el guante que el perro había dejado en la nieve.
+
+—Míralo. Ya nos ha jodido. Si abrimos, porque abrimos. Si no…
+
+—No estoy compitiendo con ella.
+
+—Todo con mamá acababa yendo de ganar.
+
+Nora estuvo a punto de lanzarle como pruebas las tardes en aquel parque y las veces que Jean había dejado ganar a Jessie cuando practicaban inmovilizaciones. Se contuvo.
+
+El guante que el perro había tirado estaba lleno de arena y saliva. Nora lo recogió.
+
+—Llevas el abrigo abierto —dijo Nora.
+
+Con la cremallera ya subida, Jessie pasó junto a Nora sin tocarla y echó a andar hacia Folkeparken.
+
+—Ven —dijo al cabo de unos pasos—. Maja quiere vaciar.
+
+Nora fue detrás, dejando entre ambas la distancia que habría ocupado una tercera persona.
+
+* * *
+
+La noche siguiente, Nora levantó la tapa del piano para no volver a mirar `Despedida`.
+
+Pulsó el la central. La nota salió un poco baja. La aplicación de práctica de Armstrong la reconoció de todos modos y llenó la pantalla con una felicitación de colores. El brillo quedó al mínimo.
+
+Mientras Maja buscaba cajas, Jessie ocupaba la mesa de la cocina con los deberes abiertos y una taza de la que aún colgaba la etiqueta. El cinturón de aikido seguía en el pomo, justo donde Maja le había pedido que no lo dejara.
+
+—Si vas a tocar lo de siempre, cierra la puerta —dijo Jessie.
+
+De los estudios que conocía desde los doce años, Nora eligió uno. La aplicación mostró la partitura y esperó. En el quinto compás, el cuarto dedo de la derecha cayó después del pulso. Siguió hasta el final de la frase.
+
+La interfaz dibujó una curva naranja sobre el fallo.
+
+`otra vez, más despacio`
+
+Nora retiró las manos del teclado.
+
+Nora leyó la frase con la cadencia de Jean y dejó en su cabeza una pausa breve después de «vez» que la pantalla no podía contener. La puerta del cuarto estaba abierta. Nora la dejó así.
+
+—¿Qué pasa? —preguntó Jessie.
+
+Nora giró la pantalla.
+
+—Esto.
+
+Jessie leyó la corrección.
+
+—Una aplicación de piano te ha corregido.
+
+—Nunca usa esa frase.
+
+—Mamá trabajaba en Armstrong. Igual media empresa habla como ella.
+
+Jean podía haber corregido muestras, ajustado respuestas o grabado expresiones para personalizar el tutor. Con las manos otra vez sobre el teclado, Nora repitió la frase a la misma velocidad. Esta vez retrasó el cuarto dedo a propósito.
+
+La curva naranja apareció sobre aquella nota.
+
+`Repite el pasaje a un tempo inferior.`
+
+—Ya está —dijo Jessie—. Dos maneras de decir una cosa.
+
+En el historial, las dos correcciones figuraban bajo el mismo error. Nora desactivó las sugerencias personalizadas y comenzó una sesión de invitado. En la puerta de la cocina, Jessie se quedó con la taza entre las manos.
+
+Nora tocó la frase y provocó el retraso en el punto anterior.
+
+`otra vez, más despacio`
+
+—Se ha quedado algo viejo pegado. Armstrong tendrá restos de mamá metidos en todas partes.
+
+—Puede ser.
+
+—Lo dices como si quisieras que no pudiera ser.
+
+Nora no contestó. La propia aplicación permitía a cualquier alumno exportar el diagnóstico. Las dos fórmulas habituales constaban como procedentes del modelo estándar. La que Nora había leído con la cadencia de Jean tenía otro origen.
+
+Sobre el respaldo del banco, Jessie se inclinó para leer. Su pelo rozó la mejilla de Nora. Durante un momento ninguna habló.
+
+—Puede ser una actualización a medias.
+
+—Las actualizaciones constan aquí.
+
+—Una prueba vieja, yo qué sé. Nora, por favor. Es un fallo.
+
+`respuesta no estándar`
+
+Debajo aparecía una etiqueta secundaria.
+
+`JM-L/0007`
+
+—Será legado —dijo Jessie—. Ya te lo he dicho.
+
+No había enlace, autor ni fecha. Nora guardó una copia y buscó `JM-L` en el índice público de Armstrong.
+
+El resultado apareció sin descripción y con el acceso al archivo restringido. Aquellas iniciales le resultaban conocidas. Las había visto durante años junto al nombre de Jean en su perfil profesional.
+
+Estado, cerrado.
+
+Proyecto, `JM-L`.

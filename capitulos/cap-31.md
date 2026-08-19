@@ -1,269 +1,369 @@
 ---
-capitulo: 37
-titulo: El ladrillo
-pov: Nora
-fecha: 2061-01-15
-estado: en_oleada
+capitulo: 31
+titulo: Interferencias
+pov: Nora → Maja → Jessie → Maja
+fecha: 2061-01-03
+estado: aceptado
 analepsis: false
-estado_plan: E
+estado_plan: N
 proteccion: nucleo
 ot: OT-31
 delta_objetivo: 0
-orden_lectura: 37
+orden_lectura: 31
 ---
 
-Aslak sujetaba con pinzas la alimentación del ladrillo abierto. Alana mantenía la tarjeta negra en la ranura y Nora alumbraba la soldadura. Un cable llegaba desde la batería de la barca; la raíz seguía cerrada.
+La plataforma admitió las credenciales de Nora al primer intento.
 
-—Ahora —dijo Aslak.
+Nora abrió el calendario del curso antes que nada. La convocatoria de marzo seguía sin fecha de apertura y sin lista. Las entregas de diciembre figuraban recibidas, con la fecha de cierre al lado.
 
-Cuando Alana accionó el interruptor, el ventilador dio un tirón. Aslak corrigió la presión de las pinzas y el zumbido se sostuvo.
+—Ya te va —dijo Mikkel sin levantar la vista.
 
-—¿Se mantiene? —preguntó Alana.
+—Ya me va.
 
-—Mientras aguanten las pinzas. Corriente y contactos, míos.
+En los cristales quedaba la luz azul de la hora corta. Debajo del radiador se había formado el charco con forma de bota. El cuaderno pautado seguía en el fondo de la mochila, entre los ejercicios de armonía.
 
-—¿Y el ladrillo? —preguntó Nora.
+A las once y cuarenta, el terminal vibró contra la mesa.
 
-—Si al soltarlas el contacto aguanta, he terminado. Alana sigue con el ladrillo. Si cede, vuelvo yo.
+`La actividad reciente requiere verificaciones adicionales. Su cuenta está en revisión.`
 
-Nora bajó la linterna.
+Nora contó las palabras. Eran las mismas del cinco de diciembre y en el mismo orden.
 
-Cuando Alana introdujo el PIN, el terminal comprobó la presencia local y reconoció la credencial contra la raíz protegida.
+El segundo aviso entró a las once cincuenta y dos.
 
-`AUTORIDAD FUNDACIONAL · ALCANCE NORNA`
+`Su cuenta ha sido suspendida temporalmente por su seguridad.`
 
-La gobernanza ordinaria no podía retirar aquella raíz sin invalidar la cadena. El cliente común mostraba `NO OPERATIVA`; el módulo estaba en NIDHOGG. El ladrillo solo podía firmar una vez un desafío exterior. La conversación llegaba por una pasarela sin acceso a producción ni controles.
+`Revisión cerrada el 3 de enero.`
 
-—Media llave y un cable que puede soltarse —dijo Jessie.
+En el mural del grupo, su nombre volvió al gris.
 
-`…GEN INCOMPLETO. REPETID UBICACIÓN.`
+Dos mesas más allá, alguien miró el mural y después a Nora, en ese orden.
 
-Después de acercar el teclado, Nora vio aparecer una segunda línea antes de escribir.
+La tutora trajo dos hojas impresas y la captura del aviso.
 
-`Bajad la entrada. El canal recorta el inicio.`
+—Las paso yo al registro —dijo.
 
-Entonces Alana redujo la tasa. Una voz pobre en graves ocupó el altavoz. El ruido falseaba las consonantes.
+—Las de diciembre las registró usted también.
 
-Maja ajustó el volumen. Nadie pidió una prueba de infancia ni otra cuarta nota.
+—Y constan. Eso no se ha movido.
 
-—Tenemos menos de dieciocho minutos —dijo Jean—. Coro vigila las rutas que admiten una conversación normal.
+Nora comprobó que constaban. Después dio la vuelta a las hojas.
 
-En el cuaderno, Nora trazó tres barras vacías sobre el pentagrama y escribió debajo `SACAR A JEAN`.
+Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. En el apartado de origen puso `responsable desconocido`.
 
-Luego Maja se sentó ante el micrófono.
+La tutora se detuvo en su mesa al terminar la clase.
 
-—Veinte de enero, a las veintitrés horas. La consolidación revisará más de tres mil continuidades y puede eliminar rutas. Nadie nos ha dicho cuántas. Astrid pidió una cautelar. Se la denegaron.
+—¿La convocatoria se abre igual? —preguntó Nora.
 
-La línea de audio quedó abierta.
+—El viernes, en la plataforma.
 
-—La Jardinera fue el lote de prueba —dijo Jean.
+—La plataforma no me deja entrar. Han llegado dos avisos.
 
-La punta del bolígrafo atravesó el papel en la primera barra. Antes de rasgar la hoja, Nora la levantó.
+—Mientras dure, entregas en papel —dijo la tutora—. Desde aquí no puedo hacer más.
 
-—¿La borraron? —preguntó Nora.
+—¿Y marzo?
+
+—Entonces en papel, en la secretaría de Kongsbakken, y en horario de mañana. El impreso lo firma quien tenga tu tutela.
+
+—¿Hasta cuándo admiten el impreso?
+
+—Hasta el veintiocho. Después ya no hay lista.
+
+Nora contó los días que faltaban para el viernes. Después contó las mañanas que su madre tendría que dejar libres. La secretaría abría de nueve a una.
+
+—¿Puedo llevarlo yo?
+
+—Firmado.
+
+Nora escribió `viernes`, `28`, `Kongsbakken` y `firma` debajo de las dos horas de la mañana.
+
+* * *
+
+La boya retirada seguía en el banco del taller del Framsenteret, con la carcasa abierta y el sensor de referencia envuelto en un paño. Maja llevaba desde las nueve pasando la serie de diciembre a un archivo aparte. A las doce y veinte, cumplimiento la llamó por el interfono del laboratorio.
+
+Maja dejó la exportación a medias y bajó con el abrigo puesto.
+
+La responsable giró la pantalla antes de que Maja se sentara.
+
+—Esto entró de madrugada. No lo ha escrito nadie de aquí.
+
+`AVISO DE EXPOSICIÓN REPUTACIONAL · ORIGEN AUTOMÁTICO`
+
+`No consta responsable individual.`
+
+—La lista de distribución incluye a la entidad empleadora de la persona evaluada —dijo—. La entidad somos nosotros.
+
+—¿Qué evalúa?
+
+—Exposición. No dice de qué. El aviso pide que la entidad conste enterada. Eso lo he contestado esta mañana, y he pedido el origen.
+
+—¿Y qué te han devuelto?
+
+—El mismo aviso, con el mismo texto.
+
+—Guárdalo.
+
+—Ya lo he registrado como queja. Con eso tampoco se cierra nada.
+
+El aviso no traía hechos. Ni fechas, ni conducta, ni el nombre de quien evaluaba, ni una casilla para contestar. Traía una categoría, una referencia y una lista de destinatarios cerrada.
+
+La responsable pasó a la segunda pantalla.
+
+—Mientras no se aclare, no usas medios del centro para asuntos personales. Barca, vehículo, salidas oficiales, representación.
+
+—¿Quién decide qué es personal?
+
+—Lo decido yo, y hoy lo decido así.
+
+—La salida del jueves lleva pedida desde noviembre.
+
+—La salida del jueves es del programa. La saca otro patrón y otro responsable a bordo.
+
+—¿Y la serie?
+
+—Los datos son tuyos —dijo la responsable—. Lectura, como siempre. AK-7 la sigues abriendo tú.
+
+—¿Y si necesito el agua?
+
+—Lo pides como programa, con un patrón del centro y otra firma a bordo. Eso tarda.
+
+—¿Cuánto?
+
+—Tres semanas, si nadie pregunta nada.
+
+—¿Cuánto dura esto?
+
+—Hasta que se aclare.
+
+—¿Y si no se aclara?
+
+—Entonces dura.
+
+—¿Quién más lo ha recibido?
+
+—La lista no se ve. Solo el número de destinatarios.
+
+—¿Cuántos?
+
+—Catorce.
+
+Sin barca del centro no había forma de bajar a Sørkoppen por el procedimiento de siempre, ni de pedir un patrón, ni de firmar una salida oficial, y la serie seguiría entrando en su pantalla cada seis horas desde una boya a la que ya no podía acercarse.
+
+Maja pidió copia.
+
+La responsable la imprimió y se la dio doblada por la mitad.
+
+Maja fotografió la pantalla y guardó la copia en el bolsillo interior.
+
+La responsable abrió otra pantalla y la giró hacia las dos.
+
+—Tienes una incidencia reabierta sobre AK-7 desde el quince de diciembre. ¿Eso es del programa o tuyo?
+
+—Es de la serie.
+
+—Eso no es una respuesta.
+
+—Es la que tengo. El instrumento es de la red y la serie no está cerrada.
+
+—Si esto sigue, alguien va a leer esa incidencia junto a este aviso.
+
+—Que los lea juntos.
+
+—¿La cierro yo?
+
+—La dejas donde está.
+
+La responsable escribió algo corto y no lo leyó en voz alta.
+
+—Si preguntan de fuera, ¿qué contesto? —dijo.
+
+—Que la serie sigue abierta y que la firmo yo.
+
+—Eso último no lo pone en ningún sitio.
+
+—Ponlo.
+
+A la vuelta, Maja pasó por el pañol. El lector rechazó su credencial dos veces y encendió el piloto ámbar.
+
+La misma credencial abrió la puerta de su despacho.
+
+En el taller, dos técnicos habían vuelto a cerrar la carcasa de la boya. La lista del jueves seguía clavada en el corcho. El nombre de Maja estaba tachado a bolígrafo, con otro escrito encima a mano.
+
+El terminal personal vibró en el bolsillo del abrigo.
+
+**Alguien ha hecho la pregunta adecuada. No me llames a la unidad.**
+
+Maja no marcó el número. Escribió la hora del mensaje en el reverso de la copia y subió por la escalera.
+
+* * *
+
+La notificación entró en el terminal de Maja a las tres y veinticinco. Maja la imprimió entera antes de leerla y Jessie se la quitó de la bandeja.
+
+La leyó tres veces sentada en el suelo de la cocina, con la espalda contra el lavavajillas.
+
+Iba dirigida a Maja como tutora legal. El primer párrafo cerraba la revisión del encargo: el seguimiento del dos de enero constaba autorizado. El segundo mantenía abierta la investigación sobre ella por impedir la salida de un vehículo. El tercero volvía a nombrar «Fyret», con la fecha de diciembre al lado.
+
+`ENCARGO AUTORIZADO · REVISIÓN CERRADA`
+
+—Mira la hora —dijo Jessie.
+
+La autorización llevaba fecha del tres de enero, a las nueve y doce. El coche gris había esperado delante de la casa el domingo por la mañana.
+
+—Lo autorizan hoy. Nos siguieron ayer.
+
+—Consta lo que consta —dijo Maja.
+
+—Tú ya hablas igual que ellos.
+
+Maja acercó el aviso del Framsenteret y lo dejó junto a la carpeta gris.
+
+Jessie abrió el vídeo en el teléfono y buscó el primer fotograma. La hora estaba grabada en la esquina, en el mismo formato que el recibo de la comisaría. Era la del domingo.
+
+—¿Cuándo acaba lo mío? —preguntó.
+
+—No lo dice.
+
+—¿Y quién decide cuándo acaba?
+
+—Tampoco lo dice.
+
+Jessie volvió a la segunda hoja y siguió con el dedo una línea del final.
+
+—Esto está en los dos papeles. Igual. Palabra por palabra. —Leyó en voz alta—: «No consta responsable individual.»
+
+—Ponlo con lo demás —dijo Maja.
+
+—Uno es de una empresa que nos siguió y el otro es de tu trabajo.
 
 —Sí.
 
-La Jardinera había dejado una figura fuera de su playa antes que inventarla. Armstrong la había convertido en un ensayo. Nora apartó del micrófono el agujero de la hoja.
+—¿Y les sale la misma frase?
 
-Entonces Jessie empujó la funda de Gunnar hacia el centro de la mesa.
+Maja tendió la mano para que le pasara la hoja.
 
-—¿Sabías que la selección alcanzaba a más de tres mil?
+Jessie se la dio y volvió a coger el teléfono.
 
-—Sabía que había una selección. No que fuera esa noche. No que llegara a tantas.
+—Aquí no firma nadie. Y yo tengo dos partes con mi nombre. Uno del instituto y otro de la policía, los dos de la misma semana.
 
-—Pues ya conoces el alcance —dijo Jessie.
+Jessie se levantó y pasó el vídeo a la pantalla grande. La matrícula ocupaba el centro del encuadre; la cara aparecía en el reflejo, tres segundos después.
 
-Después miró a Alana.
+—Lo subo esta noche. En seis horas alguien lo reconoce.
 
-—Cuando aún podías votar, ¿cómo lo llamabais?
+—No lo subes.
 
-—Consolidación.
+—Ya. Porque hay que portarse bien.
 
-—Claro.
+—Porque la resolución te prohíbe acercarte a él. Publicarlo abre otra cosa contra ti, no contra él.
 
-Esta vez Alana no añadió la palabra preservación. Dejó la tarjeta negra dentro de la ranura y mantuvo el canal abierto. El convertidor vibró contra la madera. Nadie intentó cubrir el ruido.
+—Y una mierda.
 
-—El lanzamiento empieza el veintiuno a las doce. La fase común entra a las doce cuarenta y siete —dijo Jean—. La consolidación del día anterior no puede detenerse desde fuera. Solo podemos crear margen durante la demostración para quienes queden y mantengan su adhesión. Cada continuidad puede retirarla hasta el cierre. Coro votó en contra.
+—Lo mismo digo. Y no lo subes.
 
-`SACAR A JEAN` mandaba sobre cuatro trabajos sin que Jean hubiese aceptado ninguno. Maja desplazó el micrófono.
+—Entonces esto no sirve para nada.
 
-—¿Quieres vivir?
+—Sirve donde tiene que servir. Y no en tu cuenta.
 
-El contador del enlace registró seis segundos sin voz.
+Jessie paró la reproducción antes del avance del coche.
 
-—Quiero poder elegir. Es la primera vez.
+Copió el vídeo en la tarjeta, en el disco de casa y en el lápiz que llevaba en el bolsillo interior del abrigo. A las tres copias les puso la fecha en el nombre.
 
-Nora tachó `SACAR A JEAN`, escribió `PREGUNTAR ANTES DE ACTIVAR` y dejó `VIVIR` fuera del cuaderno.
+—Tres sitios —dijo—. Por si mañana falta alguno.
 
-Después, Maja extendió la hoja de AK-7. Dos marcas encerraban la franja entre las doce treinta y ocho y las doce cincuenta y seis.
+—Bien.
 
-—Yo mediré. Aslak gobernará la barca —dijo.
+—Ellos tienen un papel de hoy que dice que ayer valía. Yo tengo un vídeo de ayer que no puedo enseñar.
 
-—Si el hielo impide trabajar, la corriente vira o el ADCP desmiente la tabla, recojo —dijo Aslak—. AK-7 servirá después para contrastar.
+Maja recogió las hojas de la mesa y las igualó contra el canto.
 
-—El margen solo sirve si alcanza nuestras asignaciones —dijo Jean.
+—¿Y ahora qué hacemos?
 
-Dentro de la primera barra, Nora escribió `12:38–12:56` y `ASLAK ABORTA`.
+—Ahora bajas la caja del altillo.
 
-`UMBRAL 1 · CAPACIDAD FÍSICA`
+* * *
 
-A continuación, Jessie puso la funda de Gunnar junto al plano de la galería.
+Sobre la mesa de la cocina, Maja puso los tres papeles en fila y los alineó por el borde de arriba.
 
-—La llave inicia una petición limitada —dijo Alana—. Para completarla, una persona adulta con acreditación vigente debe aceptar allí una vinculación nominal con la petición, la incidencia y la puerta. No sabemos quién es ni si aceptará.
+El aviso del Framsenteret ocupaba una cara, con la referencia arriba a la derecha. La notificación de la policía, dos, con sello y con un número que empezaba por el año.
 
-—Entonces la galería sigue sin operadora —dijo Maja.
+El de la cuenta de Nora era una captura de cuatro líneas. La habían impreso en el instituto antes de que la cuenta se cerrara otra vez. Sin sello. Sin firma. Sin dirección de vuelta.
 
-Jessie abrió la funda sobre el plano y dejó el metal junto a la puerta dibujada.
+Tres formatos, tres tipos de letra, un solo día.
 
-—Ligo la activación a mi credencial. Si nadie acepta la petición, la cancelo. Si se abre, la persona acreditada fija el repetidor.
+Maja los fotografió juntos, en una sola toma, y añadió la foto de la pantalla del despacho.
 
-—Tú no entras —dijo Maja.
+A Astrid le escribió qué era cada papel, la hora de cada uno y de dónde había salido. Debajo puso una línea más.
 
-—No te lo estoy preguntando.
+**No coinciden entre sí.**
 
-Maja desplazó la llave hacia su lado de la mesa.
+Nora entró desde el pasillo con el terminal en la mano y la pantalla vuelta hacia Maja.
 
-—Buscaremos a otra persona.
+—Ha llegado otra vez. Sin la segunda línea.
 
-—El repetidor solo llevaría el audio educativo al homenaje —dijo Alana—. Si no lo alcanza, se termina. No abre producción ni controles.
+—¿Puedes imprimirlo?
 
-Nora apoyó el bolígrafo sobre la segunda barra, todavía vacía.
+—No puedo imprimir nada —dijo Nora—. Ni entrar. La captura de esta mañana la hizo la tutora.
 
-—Si nadie acepta la petición, ¿qué perdemos? —preguntó.
+—Enséñame las dos.
 
-—La cancelo y bajo a la barca. Mi credencial queda en el registro igual —dijo Jessie.
+—La segunda es de las once cincuenta y ocho.
 
-Maja mantuvo la llave a su lado de la mesa.
+Maja fotografió también aquella pantalla, colocó la hoja del instituto la cuarta en la fila y mandó las dos imágenes juntas.
 
-—La barca sale igual —dijo—. El margen se mide con galería o sin ella.
+**Recibido. Cuatro documentos del 3 de enero. Los incorporo como están, sin traducir.**
 
-El altavoz tardó en devolver la voz.
+Astrid no preguntó nada más y Maja no le mandó ninguna otra línea.
 
-—Sin ruta pública, el margen se queda dentro. No alcanzará ninguna asignación —dijo Jean.
+Después la mesa quedó libre para la caja.
 
-—Y sin acto público verificable, la custodia se queda condicional —dijo Alana—. Mats conserva el calendario.
+Jessie la había bajado del altillo y le había puesto encima la carpeta gris. Estaba abierta en el suelo, con las solapas dobladas hacia dentro.
 
-—Y esa persona verá mi nombre antes de decidir —dijo Jessie.
+Dentro fueron la tarjeta de Gunnar en su funda, el sobre de la unidad y la impresión de AK-7 con la fecha inicial de la serie rodeada. Encima, una tarjeta con el vídeo y los cuatro papeles del día en una funda nueva.
 
-Alana esperó a que el convertidor dejara de vibrar contra la madera.
+Nora dejó el cuaderno pautado sobre la funda y volvió a cogerlo.
 
-—Lo verá. Yo pierdo la acreditación con canal o sin él.
+Maja contó los objetos dos veces. Apuntó el número en el dorso de la funda y la fecha debajo.
 
-Nadie lo negó. El contador del enlace siguió bajando.
+Las habitaciones que daban a la calle seguían apagadas desde diciembre. El telefonillo continuaba fuera de la pared, con los dos cables recogidos.
 
-Nora escribió una línea al margen, fuera de las tres barras.
+Maja marcó el número de Aslak desde el pasillo.
 
-`EL SEGUNDO LO ACEPTA UN DESCONOCIDO`
+—¿Podemos ir esta noche? ¿Qué necesitas?
 
-`UMBRAL 2 · TRANSPORTE PÚBLICO`
+—Sacos y comida para tres días. Después de las seis nadie pasa la quitanieves por el desvío.
 
-Alana giró hacia Nora una acreditación sin completar.
+—Salimos ahora.
 
-—El homenaje necesita una pianista y una hija. Puedo acreditarte para la cabina y su entrada de audio. Nada más. No puedo impedir que retiren la acreditación ni obligarlos a abrir el canal.
+Jessie bajó dos bolsas al portal y volvió a por la tercera sin que se lo pidieran. Nora apagó el calentador y cerró el paso del agua, como en octubre.
 
-—Quieren mi cara para vender lo que le hicieron a la suya.
+En el rellano quedaron el felpudo levantado y la puerta abierta contra el tope.
 
-—Sí.
+—Podemos ir a un hotel —dijo Nora desde la escalera.
 
-—La escala será la señal —dijo Jean—. Puede fracturar a Coro si el canal llega hasta nosotras. La música no abrirá lo que falte.
+—Un hotel pide un nombre.
 
-Nora giró la acreditación aún vacía. Maja mantuvo un dedo sobre ella.
+—Aslak también sabrá el nombre.
 
-—Si no abren el canal, pierdo la cabina o me ordenan salir, termino la pieza ordinaria y salgo. No toco los controles —dijo Nora.
+—Aslak no lo escribe en ningún sitio.
 
-Nora deslizó el papel bajo la línea del repetidor.
+—¿Y mañana el instituto?
 
-—Astrid documentará la manifestación mientras ocurra. Yo liberaré la confesión que ya está preparada.
+—Te llevo yo.
 
-—¿Qué has puesto dentro? —preguntó Jessie.
+—Tengo dos hojas que entregar. Y el impreso.
 
-—No voy a abrirlo aquí.
+—Lo firmo el viernes.
 
-—Otra caja cerrada —dijo Jessie.
+—El de la gasolinera sabe dónde vivimos —dijo Jessie desde la puerta.
 
-—Hasta que la libere, sí.
+—Por eso salimos hoy.
 
-—Si no sale su voz, no metas esa caja en el hueco y digas que ha hablado. No otra vez.
+A las cuatro y media, Maja bajó la caja con las dos manos y la puso en el maletero, entre las bolsas.
 
-Nora dejó la pieza fuera del cuaderno y escribió debajo de la señal, dentro de la segunda barra.
+En la calle había dos coches con nieve encima y uno sin nieve, aparcado desde hacía menos de una hora, con un cartón de aparcamiento en el salpicadero. Maja anotó también aquella matrícula, en el mismo papel donde llevaba el número de objetos de la caja.
 
-—El acta y la confesión fijarán la prueba. Si activan la custodia, Mats pierde capacidad ordinaria para trasladar o modificar —dijo Alana—. NORNA seguirá cerrada.
+Comprobó la calle en los dos sentidos antes de arrancar y no dijo lo que buscaba. Nora se sentó detrás con el cuaderno sobre las rodillas. Jessie se sentó delante, con el teléfono boca abajo sobre el muslo.
 
-En la pantalla, la entrada de NORNA pasó de gris a ámbar y reclamó sus dos condiciones.
+Cruzaron el puente de Tromsøya a las cinco menos veinte. Hasta la casa baja del Lyngen quedaban dos horas de carretera y un desvío sin salar.
 
-`FIRMA FUNDACIONAL EXTERIOR`
+—¿Cuánto tiempo? —preguntó Nora.
 
-`CONDICIÓN INTERIOR · SINCRONIZACIÓN COMPLETA`
-
-Debajo, el manifiesto reunía `CORPUS JM + MATRIZ` bajo `MOLDE`.
-
-—`MOLDE` abarca Corpus JM y Matriz. Una ejecución activa puede quedar fuera —dijo Jean—. No veo la acción, el resultado ni si me daña. Durante la sincronización puedo presentar una petición desde la candidatura. No usa el audio. NORNA generará aquí un desafío de un solo uso.
-
-La última palabra llegó deshecha. Maja bajó el volumen.
-
-—Entonces nadie la llama rescate —dijo Jessie.
-
-Alana mantuvo la mano lejos del lector.
-
-—Conozco el ámbito, no el efecto —dijo Alana—. Firmaré únicamente si Jean lo pide.
-
-Nora pasó a la tercera barra.
-
-`UMBRAL 3 · AUTORIZACIÓN NORNA`
-
-—Tu firma abre NORNA. No elige por las de dentro —dijo Nora.
-
-Jessie acercó la silla al micrófono.
-
-—Quiero un minuto a solas.
-
-Nora cerró el cuaderno. Maja, Alana y Aslak salieron con ella al cobertizo. Solo se oyó la VHF.
-
-La puerta se abrió cuando el indicador exterior dio por terminado el minuto privado. Jessie llevaba la funda de Gunnar en la mano.
-
-—Ya.
-
-El registro conservaba el intervalo, sin audio. Debajo apareció una vinculación nueva.
-
-`APLICACIÓN MUSICAL · VINCULACIÓN REGISTRADA · CREDENCIAL J. L. KVALVIK`
-
-—Has ligado la activación a tu credencial —dijo Alana—. La persona acreditada puede rechazar la petición y esto no autoriza una entrada.
-
-—Eso no decide quién entra —dijo Maja.
-
-—Yo la activo. Si la rechaza, constará el rechazo.
-
-—Tú no entras —dijo Maja.
-
-—No he dicho que vaya a entrar.
-
-—La llave se queda conmigo hasta que sepamos quién acepta.
-
-Aslak dejó el contacto estable.
-
-—Resolverlo en tierra será más barato que discutirlo en la escotilla.
-
-Aslak esperó a que recuperasen sus sitios.
-
-—Primero cumplo con la descarga y con la reunión de Sør-Lyngen kystbrukslag. La barca y el equipo estarán en Koppangen antes del veinte.
-
-—¿Y vosotros? —preguntó Maja.
-
-—En la ribera de Lyngenfjord. Svensby es refugio, no atajo. Si el hielo o la corriente contradicen lo acordado, retiro mi parte.
-
-Nora abrió el cuaderno por las tres barras. No añadió otra para el traslado.
-
-El borde del canal parpadeó. La voz regresó sin la primera sílaba.
-
-Alana bajó la tasa. La salida se sostuvo para una frase.
-
-—Si algo sale mal, que Nora termine la canción igual.
-
-El enlace desapareció y la entrada de NORNA volvió al gris.
-
-Antes de que Alana retirase la tarjeta, una notificación sin emisor ocupó la pantalla. El encabezado la distinguía de la demostración pública del día 21 y la fecha coincidía con la hora de la consolidación.
-
-`20-ENE-2061 · 23:00`
-
-Ensayo general: sincronización completa.
+—Ropa para una semana —dijo Maja—. Y el cuaderno.

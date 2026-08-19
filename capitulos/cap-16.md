@@ -1,263 +1,359 @@
 ---
-capitulo: 19
-titulo: La firma
+capitulo: 16
+titulo: La visita
 pov: Maja
-fecha: 2060-12-13
+fecha: 2060-12-11
 estado: aceptado
 analepsis: false
-estado_plan: E
+estado_plan: R
 proteccion: nucleo
 ot: OT-16
 delta_objetivo: 0
-orden_lectura: 19
+orden_lectura: 16
 ---
 
-El campo del documento de origen era un rectángulo gris con la palabra «EXTERNO».
+La cena india para cuatro llegó con más de dos semanas de retraso, caliente aún, en manos de Alana Armstrong. Aquel gesto había empezado sin Maja.
 
-Inger mantuvo el índice encima, sin llegar a tocar la pantalla. Había elegido una sala de pases en el extremo de la UCI, estrecha y sin ventanas, donde el café de máquina dejaba en la boca un regusto a plástico.
+—He traído comida.
 
-—Esta exportación se genera para una revisión clínica —dijo Inger—. No para entregársela a una familiar.
+El papel transparentaba grasa y desprendía un picante dulce. Alana seguía en el felpudo, con la cena entre ambas.
 
-Miraba el aviso legal, impreso al pie. Alzó la cabeza y empujó hacia Maja un sobre de papel.
+Maja mantuvo una mano en el canto de la puerta.
 
-—Por eso te doy los campos que puedo justificar como parte del episodio de Jean Marie Larsson. Y los códigos.
+—¿Para quién?
 
-Maja sacó las hojas. «Fallecimiento previo a la llegada a UNN» aparecía junto a la identificación de Jean. Los campos separaban apertura clínica, documento de origen y recepción exterior.
+Alana miró la bolsa.
 
-—¿Esta hora es de Armstrong?
+—Para vosotras. Necesito hablar contigo.
 
-—No. Las 03:14 son la apertura técnica y no llevan firma.
+Había cuatro cubiertos grapados a la bolsa. Alana conservaba suficiente información doméstica para alimentar a una familia a la que llevaba catorce días sin ofrecer una respuesta útil.
 
-Inger giró la pantalla para que Maja pudiera leer la leyenda del campo.
+—Habla.
 
-—La autorización de continuidad consta recibida después de las 03:31 por una pasarela externa. `A. Armstrong` figura como responsable. La exportación no conserva la hora exacta de la firma.
+Alana no pidió entrar. Le habría resultado más fácil a Maja si lo hubiera hecho.
 
-—¿Y el documento de Jean?
+—Es sobre Nora.
 
-—Otra referencia la identifica como signataria. UNN no conserva contenido, antigüedad ni alcance.
+La puerta se abrió lo justo para que pasara. Maja cerró después, y el golpe del resbalón al encajar sonó con más fuerza de la necesaria.
 
-A su derecha figuraba un hash y, más abajo, un acuse con el destino recortado, `EXT/NIDHOGG/7C`.
+—En la cocina —dijo Maja.
 
-El documento de origen tenía su propia casilla, sustituida por ocho ceros.
+—Se enfría.
 
-—Si el receptor está vacío, no llegó a nadie —dijo Nora.
+—No importa.
 
-—No —dijo Inger—. La casilla está bloqueada. La pasarela registró tránsito. Esta exportación no enseña quién recibió. En UNN no hay ningún recurso llamado NIDHOGG.
+La bolsa quedó cerrada sobre la encimera. Alana se acercó a la nevera, pero Maja no se apartó. La hoja pitó y Maja la empujó con la cadera.
 
-—Necesito una copia verificable de lo que estás viendo.
+—Necesito que Nora deje de acceder a los sistemas de Armstrong —dijo Alana.
 
-—Los hashes están en el sobre. Acreditan que las filas no han cambiado desde la exportación. El historial deja mi usuario como responsable de esta consulta.
+La mano de Maja se apartó de la nevera.
 
-Maja pasó las hojas hasta la última. Cada una repetía abajo la hora de la consulta y quién la había pedido. Siete veces el apellido de Inger, en letra más pequeña que el resto. Maja las alineó por ese borde.
+—Nora tiene una cuenta del instituto.
 
-—Podías haberme dado solo la versión oficial.
+—Esas credenciales han generado actividad en una zona que no está destinada a alumnos.
 
-—El resumen dice que el episodio se cerró conforme al protocolo.
+—¿Cómo sabes lo que hace mi hija con ellas?
 
-—¿La decisión se tomó en el hospital?
+—Las credenciales educativas comparten infraestructura con desarrollo. Algunas acciones activan una revisión aunque Nora no pretendiera salir de su ámbito. Quiero impedir que llegue a una incidencia formal.
 
-—UNN registra una actuación. No la origina.
+—¿Qué hizo Nora?
 
-Maja guardó las hojas. La solapa del sobre se resistió y estuvo a punto de rasgarla.
+—Eso deberías preguntárselo a ella.
 
-—¿Qué te puede costar esto?
+—Te lo pregunto a ti. Has venido a mi casa.
 
-—Que alguien haga la pregunta adecuada.
+—Ha insistido en una ruta que el sistema ya había bloqueado.
 
-Inger abrió la puerta hacia el pasillo.
+—¿Qué ruta?
 
-—La unidad no conserva más información disponible para usted, señora Kvalvik.
+—No tengo ese detalle.
 
-Maja salió con Nora y el sobre bajo el brazo. Siguió andando hasta que las puertas de la UCI quedaron atrás.
+—Pero tienes nuestra dirección.
 
-* * *
+—Maja.
 
-Nora dejó los horarios en el margen del cuaderno pautado. Maja atravesó el sobre encima.
+—Y también tenías la de UNN. Llegaste sin llamar. Nadie de la familia sabía que ibas.
 
-—Coge el primer papel. ¿Quién figura aquí y qué hizo?
+—No podía discutirlo por teléfono.
 
-Nora trazó tres columnas: quién, acto y procedencia. Trabajaron con copias del archivo programado y los registros del hospital. La tarjeta de Gunnar siguió lejos de cualquier lector. Nora distribuyó el documento de origen, el acuse, la autorización y el receptor, cuya procedencia dejó vacía.
+—Podías avisar de que estabas allí.
 
-La mesa de la cocina quedó ocupada de lado a lado. El pentagrama se comió las tres columnas y Nora escribió encima de las líneas. Una apertura a las 03:14, sin firma. Una autorización con el nombre de Alana, recibida después de las 03:31 por una pasarela. Un acuse con el destino recortado y la casilla del receptor bloqueada. La tarjeta quedó abajo, fuera de las columnas, sin conectar. Nora sostenía el lápiz.
+—El hospital necesitaba una decisión. Yo podía darla.
 
-Jessie miró el nombre de Alana y después los dos terminales junto a la base de carga.
+—Jean tenía familia.
 
-Leídas de izquierda a derecha, las filas no formaban una secuencia.
+—El hospital pidió una respuesta sobre sus dispositivos y proyectos.
 
-Jessie dejó el vaso encima del renglón vacío.
+—¿Antes de que yo pudiera verla?
 
-—Alguien ha tapado justo lo que importa. ¿Eso en qué letra va?
+Entonces Alana se volvió hacia el pasillo.
 
-—En cabreo —dijo Nora—. C mayúscula.
+—Yo no decidí eso.
 
-Nora amplió el acuse conservado por UNN y aisló `NIDHOGG`. Abrió al lado el mensaje de Gunnar. El nombre se repetía allí sin barras ni sufijo. Escribió `ORIGEN · UNN`.
+—Decidiste algo a las tres y catorce.
 
-—Borra UNN de la primera columna —dijo Maja.
+—No firmé a las tres y catorce.
 
-Nora tachó `ORIGEN · UNN`.
+Era la primera precisión que Alana ofrecía. Había venido preparada para discutir aquella pantalla.
 
-—Entonces solo puedo poner que el nombre se repite.
+—El hospital se puso en contacto conmigo por una cuestión documental.
 
-—Eso es lo que podemos usar —dijo Maja.
+—En la tableta de Jean aparecía «03:14». Debajo ponía «Autorización — A. Armstrong».
 
-Jessie se apoyó en la mesa.
+—La pantalla ha puesto juntas actuaciones distintas. Yo llegué después. Lo que firmé… preservaba material.
 
-—Podríamos preguntárselo a Alana.
+—¿Qué autorizaste?
 
-—Ya se lo preguntamos.
+—Una medida de preservación.
 
-—La dejaste entrar y hablar. Yo digo preguntárselo de verdad.
+—¿De qué?
 
-—Fenomenal. Armstrong hace cosas alrededor de una muerta y nosotras discutimos preposiciones.
+—De material sujeto a custodia. No, sé cómo suena. El marco lo trataba como una obligación que sobrevivía a Jean.
 
-—Pon UNN donde no toca y Armstrong devuelve las páginas sin leer. Bórralo —dijo Maja.
+—A ti no parece costarte.
 
-—Entonces no os equivoquéis.
+La casa crujió por encima de ellas. Era una tabla del descanso junto al cuarto de Jessie. Maja alzó la vista. Su hija estaba sentada tres peldaños más arriba, medio oculta por la pared. Sostenía el terminal a la altura del muslo. En una esquina de la pantalla brillaba un punto rojo.
 
-A medianoche, ya 14 de diciembre, Jessie miró los dos terminales en la base de carga.
+La grabación continuó desde la escalera.
 
-—¿Mañana otra letra?
+—Nora podría exponerse a una investigación —dijo Alana—. Si detiene ahora la actividad, puedo procurar que la compañía la trate como un uso imprudente de credenciales educativas antes de que pase a examen formal.
 
-—Mañana revisaré mi propio archivo —dijo Maja—. Allí conozco el instrumento, el responsable y la trazabilidad.
+—¿Quién más sabe lo que ha hecho? —preguntó Maja.
 
-—Van a temblar.
+—Hasta hoy, una moratoria de Jurídico impedía que Seguridad iniciara un contacto visible. También me apartaba a mí.
 
-Nora cerró el cuaderno. Jessie esperó a que su hermana saliera y tomó el vaso. Cuando Maja regresó de guardar el sobre, también se había marchado. Un terminal seguía brillando en la base. Maja creyó que Jessie se había llevado el suyo y que aquel era el de Nora.
+—¿Y ahora?
 
-* * *
+—Ha vencido esta mañana. He decidido venir antes de que Seguridad se identifique con vosotras.
 
-El 15 de diciembre, Maja abrió en el Framsenteret su archivo trazable. Buscó `NIDHOGG`. Sin coincidencias. Entre sus incidencias cerradas encontró una serie todavía activa bajo un expediente resuelto por vía administrativa al amparo de un permiso de investigación energética. El registro térmico seguía abierto y el vínculo con `NIDHOGG`, sin demostrar. El instrumento pertenecía a su red.
+—¿Qué vas a frenar?
 
-AK-7. Sørkoppen.
+—El examen formal de la cuenta.
 
-La gráfica desplegó una franja cálida que empezaba en otoño de 2058 y persistía bajo los cambios estacionales.
+—Qué cómodo.
 
-Abrió el parte de la muestra manual de marzo de 2059. La temperatura era elevada, la salinidad correspondía a la masa de agua entrante y el sensor de referencia estaba dentro de tolerancia. Su nombre aparecía en la validación.
+—La palabra es «amenaza» —dijo—. Puedes usarla. Somos mayores.
 
-Aslak Utsi figuraba como patrón sjøsamisk, colaborador de campo y miembro de `Sør-Lyngen kystbrukslag`. Había tachado `ASISTENTE` y exigido `PATRÓN / COLABORADOR DE CAMPO` antes de firmar. Maja objetó que la casilla no admitía ambos cargos. Él devolvió el papel sin firma. Maja corrigió la plantilla. Desde entonces, los dos rótulos aparecían impresos. Una observación suya remitía al corredor costero de 2057. Ella la había excluido porque no afectaba al instrumento.
+Alana levantó la cabeza.
 
-En la campaña siguiente desplazaron AK-7 cuatrocientos metros para repararla. La señal desapareció y regresó al devolver la boya a su posición. La muestra y el traslado descartaban el sensor.
+—No os estoy amenazando.
 
-Maja quitó las medias mensuales y activó la capa de marea. El CTD distinguía la masa de agua por temperatura y salinidad. El ADCP daba dirección y velocidad para corregir su transporte. La pluma aparecía irregular, pegada al relieve submarino. En la vaciante, el agua cálida se alargaba hacia el sensor. Al cambiar la corriente, retrocedía y ganaba intensidad junto a AK-7.
+—Entonces se te da de puta pena tranquilizar.
 
-La marea arrastraba hasta AK-7 aquella huella térmica.
+—Jessie —dijo Maja.
 
-La resolución administrativa seguía adjunta al expediente.
+Desde allí, Jessie no se movió.
 
-«Vertido autorizado de investigación energética».
+La puerta del piso de arriba se abrió. En el descanso apareció Nora con su cuaderno pautado bajo el brazo. Bajó sin mirar a su hermana. El lápiz seguía prendido en la espiral.
 
-El permiso solo acreditaba el vertido. No identificaba instalación ni titular. Cubría una zona que terminaba antes de la costa. Sus umbrales habían cerrado la incidencia de cumplimiento, no la serie.
+Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión con Jean. El archivo seguía entero.
 
-Maja volvió al parte manual. Su firma estaba al pie. Después abrió la fotografía de la muestra. Guantes mojados, la sonda contra la borda y un cabo naranja cruzando el encuadre.
+Alana se apartó de la encimera y dejó libre el paso desde la escalera.
 
-Dejó la curva en pantalla y retiró el cierre automático. No iba a adjudicarle un origen que los datos no contenían ni a devolverla al archivo resuelto.
+—Nora, no debes volver a entrar en ese entorno.
 
-Escribió «marea», `AK-7` y la fecha inicial de la serie. Después rodeó `AK-7` una vez.
+En el último peldaño, Nora abrió el cuaderno por una página marcada.
 
-El terminal de trabajo vibró contra el escritorio. Nora apareció en pantalla desde casa, pálida bajo la luz de la cocina.
+—¿Qué significa CARIES?
 
-—Jessie se ha llevado mi terminal.
+Alana buscó apoyo en la encimera, calculó mal la distancia y golpeó la madera con los nudillos. La piel alrededor de su boca tomó un instante el mismo tono ceniza que la calle tras la ventana.
 
-—¿Cuándo?
+—¿Dónde has visto eso? —preguntó Alana.
 
-—Anoche, creo. Ha dejado el suyo en la base. Debió de cambiarlos cuando la dejamos sola. La última solicitud de ruta acaba en Breivika.
+—¿Lo reconoces?
 
-Maja ya estaba metiendo el bolígrafo en el bolsillo.
+—Quiero saber cómo has obtenido esa información.
 
-—¿Qué destino?
+Entonces Nora volvió el cuaderno hacia ella. Había cuatro palabras en mayúsculas, cada una alojada entre dos líneas del pentagrama.
 
-—«Fyret».
+—La aplicación me corrigió con una fórmula de Jean. Antes había visto `JM-L/0007`. Luego la moderación rechazó una foto por `CARIES` y la dividí en cuatro.
 
-—Espérame en la entrada. Paso a por ti.
+—¿Se repitió? —preguntó Maja.
 
-* * *
+—Dos veces: `FLOR`, `CANELA`, `CARIES`, `NO`. Luego me suspendieron.
 
-Las puertas azules se abrían para los empleados y se cerraban delante de Maja. Tras el cristal, Jessie ocupaba una silla junto al mostrador de Seguridad, con los brazos metidos entre las rodillas.
+La palabra hizo que Maja se volviera hacia Alana.
 
-Nora entró detrás de Maja, sin aliento. El terminal descansaba sobre el mostrador, fuera del alcance de ambas.
+CARIES era una palabra de aquella casa. La había dicho una niña de cuatro años delante del teclado y desde entonces no había salido de la cocina. Ahora estaba escrita a lápiz en el cuaderno de Nora, la tercera de cuatro. La página estaba vuelta hacia una mujer que no necesitaba leerla. Maja se puso entre Alana y la escalera.
 
-—Es mi hija —dijo Maja—. Tiene dieciséis años.
+—Le bloqueasteis la cuenta a mi hija. Y vuestra primera idea fue venir aquí antes que llamarme.
 
-El hombre de Seguridad mostró su acreditación al aproximarse. Tomas Eide. Traje oscuro, manos vacías.
+—El bloqueo lo ejecuta el sistema cuando detecta una desviación.
 
-—Intentó acceder a una zona restringida utilizando credenciales que no le pertenecen.
+—Guardé capturas y recortes. No sé de dónde salió.
 
-—Pedí una visita con su nombre —dijo Jessie—. Me hicieron esperar. Cuando salió uno de los empleados, pasé detrás.
+—Mamá iba a quitarnos el terminal —dijo Jessie desde la escalera.
 
-Eide señaló el torno y el terminal.
+—Os lo habría quitado.
 
-—Cruzó sin autorización. Se negó a entregar el dispositivo.
+—Por eso no te lo contamos.
 
-La correa de su propia mochila había dejado una marca roja en la muñeca de Jessie. Ningún golpe, ninguna mano de adulto.
+Ni siquiera Alana miró la página.
 
-—Intenté subir a preguntarle a Alana qué coño hizo con Jean —dijo Jessie—. Ese es el gran ataque.
+—Has manipulado una salida que no comprendes.
 
-—Cogió mi terminal —dijo Nora.
+—Podía depender del recorte o del orden. Solo sé que se repitió.
 
-Jessie levantó la vista.
+—¿Qué tiene que ver esa palabra con Armstrong? —preguntó Maja.
 
-—Porque tú ibas a seguir poniendo letras hasta que borrasen todo.
+Jessie entró en la cocina y apoyó el terminal contra la caja de pañuelos, con la cámara hacia Alana.
 
-Maja se interpuso.
+—Has puesto cara de haber visto un cadáver levantarse —dijo—. Y tú la conocías.
 
-—A partir de ahora hablan conmigo.
+—Apaga eso.
 
-Una agente pidió a Jessie que confirmara su nombre. La empresa no denunciaría aquel día, pero el acceso quedaba registrado.
+—Ven y apágalo tú.
 
-—¿Puedo llevármela?
+—Jessie —dijo Nora.
 
-—Sí. La advertencia queda notificada a usted como tutora.
+—¿Ahora vamos a dejar que mienta sin grabación?
 
-Tomas Eide deslizó el terminal hacia Nora.
+Alana miró a Maja.
 
-—El dispositivo estaba desbloqueado cuando la interceptamos. En pantalla había material sujeto a restricciones de Armstrong.
+—Esa grabación solo va a perjudicaros.
 
-—¿Han copiado algo de ese terminal? —preguntó Maja.
+—¿Quién actuaría contra mis hijas? —preguntó Maja.
 
-—Hemos documentado la pantalla visible durante el incidente.
+—Un fragmento fuera de contexto puede… Puede terminar donde no debe.
 
-—¿Una fotografía?
+—Entregadme las capturas y cualquier dispositivo donde hayáis guardado datos. Confirmaré que no se abra una incidencia contra Nora.
 
-—Un registro de Seguridad.
+—¿Por qué las necesitas si Armstrong ya conserva la actividad? —preguntó Maja.
 
-La agente remitió por escrito a la empresa cualquier reclamación sobre el dispositivo. Jessie podía marcharse. La policía no resolvería allí la disputa sobre datos.
+—Necesito saber qué habéis interpretado. Y qué puede salir de aquí.
 
-—Eran archivos de nuestra madre —dijo Jessie.
+Nora cerró el cuaderno sobre el dedo sin retirar la mano.
 
-—Eso tendrá que determinarse por el canal correspondiente.
+—Que sea Jean… No. Solo… —Nora no terminó.
 
-—El canal correspondiente la llevó a una silla y os dio tiempo a mirar —dijo Maja.
+Nora sacó el dedo y dejó que la tapa cayera. El impulso de Maja por apartarla del golpe cedió ante la necesidad de mirar a Alana.
 
-Tras el cristal, Alana salió de un ascensor, las reconoció y no se acercó. El vidrio se oscureció.
+—Claro. También tenemos una tarjeta y una clave. Te hacemos un paquetito.
 
-Jessie se levantó.
+Alana se volvió hacia Jessie.
 
-—Hija de puta.
+—¿Qué os ha entregado?
 
-—Nos vamos —dijo Maja.
+Maja buscó la cara de Nora.
 
-Recogió el terminal de manos de Nora y sacó a las dos del vestíbulo. Fuera, Jessie intentó defenderse con la primera frase. Maja la cortó.
+—¿De qué está hablando?
 
-—Has entrado con las credenciales de tu hermana. Les has enseñado qué tenemos y dónde lo guardamos.
+—Gunnar Rydberg me citó. Dijo que Jean no está donde debería y nos dio una tarjeta con parte de una clave. Sigue desconectada.
 
-—Iban a encontrarlo igual.
+—¿Cómo os encontró? —preguntó Alana.
 
-—Puede. Hoy les has regalado un incidente firmado por la policía.
+—¿Y pensabais contármelo cuándo? —preguntó Maja.
 
-—Al menos he hecho algo.
+Jessie señaló a Alana con la barbilla.
 
-Maja abrió la puerta del coche.
+—En cuanto terminase de demostrar por qué era mala idea contar cosas a adultos.
 
-—Ahora vas a hacer lo difícil. Vas a esperar.
+Maja dejó pasar el golpe. Discutirían esa parte cuando la casa estuviera vacía.
 
-—¿Y tú qué vas a hacer?
+—¿Qué más pasó?
 
-Maja dejó el terminal de Nora en el asiento delantero, junto a la libreta donde había escrito «marea» y «AK-7».
+Nora miró el cuaderno cerrado.
 
-—Volver a AK-7 con todo lo que tenemos.
+—Después llegó su archivo: «Si me pasa algo, buscad NIDHOGG».
 
-El burofax llegó esa tarde por el canal certificado de la familia. Armstrong exigía «el cese inmediato de cualquier acceso, copia, preservación o manipulación de material técnico y registros asociados». Ordenaba devolver los archivos y destruir las reproducciones. La última cláusula advertía de acciones por intrusión y apropiación.
+Alana miró a Jessie.
 
-Nora leyó el identificador. Jessie permaneció de pie, con la mesa por medio. Maja volvió a la primera página y encontró la categoría que la empresa había elegido para lo que ellas conservaban de Jean.
+—No abráis nada suyo. Si vuelve, dejadlo fuera. No aceptéis nada más.
 
-—Propiedad intelectual. Así la llaman.
+—¿Trabaja para ti? —preguntó Jessie.
+
+—Trabaja en Armstrong.
+
+—Te he preguntado si trabaja para ti.
+
+—La tarjeta se queda sin conectar.
+
+—Tú sí sabes a qué nos vincula CARIES —dijo Maja.
+
+—Sé que esos sistemas pueden haceros daño.
+
+Maja tendió los guantes y señaló el pasillo.
+
+—Fuera.
+
+—Escúchame. Por Jean, si no por mí.
+
+Cuando Maja abrió la puerta de la calle, el aire frío barrió el pasillo y entró hasta la cocina.
+
+—Jean ya pagó tu forma de protegerla.
+
+Alana pasó junto a Maja con los guantes en la mano y se detuvo en el umbral.
+
+—Si alguien contacta con Nora, llamadme antes de responder.
+
+—No vuelvas a entrar en esta casa con su nombre en la boca.
+
+Alana salió. Jessie alcanzó la puerta antes que Maja y la cerró de un golpe.
+
+El papel de la bolsa crujió al enfriarse.
+
+—Muy fino todo —dijo Jessie.
+
+Maja volvió a la cocina. La bolsa seguía cerrada.
+
+—Quiero una copia de esa grabación —dijo.
+
+Jessie despegó el terminal de la caja de pañuelos.
+
+—¿Eso significa que nos crees?
+
+—Pásame la grabación. Alana reconoce algo y ha venido a impedir que lo toquéis.
+
+—Mamá…
+
+—Eso sigue igual. Dame el terminal.
+
+Nora dejó el cuaderno junto a la cena.
+
+—Pero ya no quieres que pare.
+
+—Copiamos la grabación. Luego llamo a alguien que Armstrong no pague. La tarjeta no se enchufa.
+
+—Eso suena mucho a parar con más palabras —dijo Jessie.
+
+—Podéis seguir. Sin entregar otra cuenta ni otro terminal.
+
+—¿Y si Gunnar vuelve?
+
+—Le escucharé yo. Vosotras no le abriréis a solas.
+
+—Alana ha dicho casi lo mismo.
+
+—Alana quería las pruebas. Yo quiero una fuente que le lleve la contraria.
+
+Maja buscó a Inger Solbakken, jefa de UCI, y llamó.
+
+Inger respondió al quinto tono.
+
+—Maja. ¿Ha pasado algo con las chicas?
+
+—Necesito que me aclares una cosa del ingreso de Jean.
+
+Al otro lado hubo un roce y después una puerta que se cerraba.
+
+—Estoy en el hospital.
+
+—Mejor. En la tableta, una apertura técnica y «Autorización — A. Armstrong» parecían una sola cosa. Alana dice que son actuaciones distintas y que preservó material. Ha venido para que Nora deje de investigar.
+
+Inger tardó tanto en responder que Maja comprobó la pantalla. La llamada continuaba.
+
+—¿Sigues ahí?
+
+—Dime las palabras exactas.
+
+Maja se las dio y describió la pantalla. Nora abrió el cuaderno. La bolsa de Alana seguía entre las tres, cerrada.
+
+—Esos campos pertenecen a módulos distintos —dijo Inger—. UNN no puede convertir su proximidad en una explicación.
+
+Un tecleo breve cruzó la llamada.
+
+—Y no me refiero a la línea de Armstrong. Hay otra referencia, atribuida a Jean.
+
+—Entonces, ¿qué firmó Jean?
+
+—Lo que firmó tu exmujer no lo firmó aquí.
