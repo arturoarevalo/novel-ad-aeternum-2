@@ -278,8 +278,8 @@
     },
     "S13-madre": {
       "archivo": "capitulos/cap-13.md",
-      "hash": "f3159c16f76546b4aef5b9c1321d6c2471fee01a41001df1337fc1e4a89167cf",
-      "longitud": 37
+      "hash": "b8a1aa36defe3e689fc933967f1288c2435eb343544ec5cbc8f64b4adacc66e8",
+      "longitud": 153
     },
     "S13-nieve": {
       "archivo": "capitulos/cap-13.md",
@@ -682,5 +682,5 @@
       "longitud": 274
     }
   },
-  "generado": "2026-08-19T07:38:27"
+  "generado": "2026-08-19T08:13:34"
 }

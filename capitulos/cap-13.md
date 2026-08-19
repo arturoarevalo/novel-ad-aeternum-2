@@ -16,7 +16,7 @@ La validación devuelve una respuesta que Jean no ha elegido.
 
 El caso reúne nueve mensajes de un cliente a la empleada que le denegó una reclamación. En el último escribe el número del portal donde vive ella y la hora a la que sale de la oficina. Ninguno contiene una palabra que la validación clasifique sola.
 
-La oficina de la empleada da a la calle. El horario está en letras de vinilo sobre el cristal, a la altura de los ojos. La hora que él escribe es la del vinilo. El número del portal, no.
+La oficina de la empleada da a la calle. El horario está en letras de vinilo sobre el cristal, a la altura de los ojos. La hora que él escribe está en el vinilo. El número del portal, no.
 
 Jean tiene que decidir si eso es presión o amenaza. Mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
 
@@ -70,7 +70,7 @@ Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con e
 
 Madre no sabe quién la escucha ni puede elegir destinataria. La alumna no se convierte en Nora. Solo conserva otra tentativa.
 
-Después hay un anuncio de venta. Una escalera de aluminio de siete peldaños, con una pegatina de otra tienda en el travesaño. El anuncio la da por nueva.
+Después hay un anuncio de venta. Una escalera de tijera de aluminio, con una pegatina de otra tienda en el lateral. El anuncio la da por nueva.
 
 Durante la comprobación aparece un índice.
 

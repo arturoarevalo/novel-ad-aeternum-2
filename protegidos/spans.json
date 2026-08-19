@@ -333,9 +333,9 @@
   {
    "id": "S13-madre",
    "archivo": "capitulos/cap-13.md",
-   "inicio": "`JM-L/0007`",
+   "inicio": "La alumna repite el mismo pasaje seis veces.",
    "fin": "—Otra vez, más despacio.",
-   "desc": "Presentación de Madre: identificador y fórmula (RW del 13: identidad de la voz intacta)"
+   "desc": "Presentación de Madre: identificador y fórmula (RW del 13: identidad de la voz intacta) | 2026-08-19: inicio retrocedido a la linea TAMPON de arriba (P-71). Antes arrancaba en la primera linea protegida, asi que M9 era ciego a cualquier insercion entre :33 y :35. Hallazgo de A7 al revisar las anclas de W6."
   },
   {
    "id": "S13-nieve",
