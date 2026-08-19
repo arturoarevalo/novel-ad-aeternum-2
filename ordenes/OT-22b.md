@@ -4,23 +4,23 @@
 
 | Campo | Valor |
 |---|---|
-| OT | OT-26b (partida propia; **no contamina el Δ de OT-26**, que está cerrada — precedente: `OT-30b`) |
-| Capítulo · fichero · orden de lectura | 22 · `capitulos/cap-26.md` · 22 (Parte III; N3 va después, 22.5, y cap-23 después de N3) |
+| OT | OT-26b (partida propia; **no contamina el Δ de OT-32**, que está cerrada — precedente: `OT-30b`) |
+| Capítulo · fichero · orden de lectura | 22 · `capitulos/cap-32.md` · 22 (Parte III; N3 va después, 22.5, y cap-28 después de N3) |
 | POV · fecha (frontmatter) | Astrid · `2060-12-27` |
 | estado_plan · proteccion | E · **nucleo** (`S22-flecha`, `S22-aula`, `S22-dahl`; ninguno se toca) |
-| Δ objetivo · presupuesto vF · banda de aceptación | **+60** · presupuesto del capítulo 1.749 (OT-26) + 60 = **1.809** · **banda del beat [40–80], recomendado 55–65**; banda del capítulo **[1.796–1.836]** (hoy 1.756) |
+| Δ objetivo · presupuesto vF · banda de aceptación | **+60** · presupuesto del capítulo 1.749 (OT-32) + 60 = **1.809** · **banda del beat [40–80], recomendado 55–65**; banda del capítulo **[1.796–1.836]** (hoy 1.756) |
 | Oleada · escritor · editor de línea | **W5** (o pasada suelta, según decida A0) · **A3b** · A4 |
 | Gates que dispara | **A7 obligatorio, pasada previa sobre el borrador y antes de A4** (protocolo de G-2, `a7-w4r.md` §12.6): P-41, P-20, P-33, P-37 ampliada, CH-48, Carta F §3/§6 · A5 (M7: ninguna fecha ni hora nuevas) · A8 (M1, M2 = 0, M4, M4b, M5, M8, M9) · `lector-frio` sobre el capítulo suelto (test de doble filo, §6.9) |
-| Autorización | **Gates (a), (b) y (c) concedidos por el autor vía A0 el 2026-08-18** (apertura de `cap-22` fuera de oleada; cambio de estado de CH-48 en B4; cláusula de techo de cuatro retenciones) |
+| Autorización | **Gates (a), (b) y (c) concedidos por el autor vía A0 el 2026-08-18** (apertura de `cap-26` fuera de oleada; cambio de estado de CH-48 en B4; cláusula de techo de cuatro retenciones) |
 | Estado de la OT | **pendiente** |
 
-**Condición de commit (gate (a), higiene, no aritmética).** El beat entra en un commit propio de `cap-22` cuyo mensaje cita `OT-26b`. La poda de `cap-22` ya se ejecutó (A4, `b0f0350`, **−35**), y el corte restante de `22:35` (−20) **está declinado con motivo ratificado**: `OT-26` §6 lo lista intacto **con cita** («la cuarta de las doce páginas de CE-K», canon `b3-canon-sistema.md` §16) y G-3′ protege el contenido citado. **No se corta. Este beat no se paga con poda.**
+**Condición de commit (gate (a), higiene, no aritmética).** El beat entra en un commit propio de `cap-26` cuyo mensaje cita `OT-26b`. La poda de `cap-26` ya se ejecutó (A4, `b0f0350`, **−35**), y el corte restante de `22:35` (−20) **está declinado con motivo ratificado**: `OT-32` §6 lo lista intacto **con cita** («la cuarta de las doce páginas de CE-K», canon `b3-canon-sistema.md` §16) y G-3′ protege el contenido citado. **No se corta. Este beat no se paga con poda.**
 
 ---
 
 ## 1. Diagnóstico (cifras y lectura de A2)
 
-**Estado métrico de `cap-22` hoy** (medido, no estimado): **1.756 palabras** (v0 1.449 · W4 +342 · W4-R −35) · 5 escenas · 107 párrafos · **diálogo 31,3 %** · **tramo máx. sin diálogo 376** (techo `OT-26` §6: ≤ 411) · frase media 11,9 · frases ≥ 25 pal. 5,9 % · **M4b 2,0 %** (2/102) · 3 spans con hash · M9 OK (109 spans en el libro, **51 de anclaje único**).
+**Estado métrico de `cap-26` hoy** (medido, no estimado): **1.756 palabras** (v0 1.449 · W4 +342 · W4-R −35) · 5 escenas · 107 párrafos · **diálogo 31,3 %** · **tramo máx. sin diálogo 376** (techo `OT-32` §6: ≤ 411) · frase media 11,9 · frases ≥ 25 pal. 5,9 % · **M4b 2,0 %** (2/102) · 3 spans con hash · M9 OK (109 spans en el libro, **51 de anclaje único**).
 
 **Estado del libro:** M8 `w4r2` = **79.530** palabras, banda [80.000–82.000], objetivo 81.000. **El manuscrito está 470 palabras por debajo del suelo.** Parte III = **21.660**, ya por debajo del ≤ 21.700 de la poda.
 
@@ -61,7 +61,7 @@ Que el lector vea que **la novela eligió no abrir el hueco**, en vez de sospech
 
 - **Nunca después de** «El terminal de Astrid vibró…»: esa posición, delante del dinkus, es el énfasis máximo del libro. Es la misma razón por la que A7 salvó `firma` en `n4:91` (`a7-w4r.md` §13.3): **el remate va en el hecho administrativo, no en lo que duele.** Aquí el remate lo da la citación del director, que entierra el beat.
 - **Nunca antes de** «Astrid capturó ambas páginas y generó un recibo…»: mientras la entrega está abierta, cualquier resta se lee como duda sobre la auditoría, y entonces el beat cambia de asunto y no sirve.
-- **Nunca dentro de** `:29-:49` (cláusula M5 de `OT-26` §6: «nada entre `:27` y `:49`»). La posición elegida queda muy lejos.
+- **Nunca dentro de** `:29-:49` (cláusula M5 de `OT-32` §6: «nada entre `:27` y `:49`»). La posición elegida queda muy lejos.
 
 **Por qué exactamente ahí (para que A4 no lo mueva «medio párrafo»):** la transacción está cerrada —recibo generado, firmado, cuaderno devuelto—, así que nada procedimental queda pendiente y la resta **no puede leerse como desconfianza hacia la auditoría**; el testigo ya tiene el gesto en este mismo capítulo cincuenta líneas antes; y el capítulo pasa inmediatamente después a la derrota institucional n.º 8 (el director), de modo que el minuto humano queda enterrado por la institución, que es el argumento.
 
@@ -98,7 +98,7 @@ Que el lector vea que **la novela eligió no abrir el hueco**, en vez de sospech
 10. **Ninguna voz enuncia el parentesco.** Ni «como su madre», ni un narrador que compare, ni aquí ni en 39, 40 o 41. La rima se queda en rima.
 11. **No vuelve.** Ningún capítulo, personaje ni OT posterior recoge, recuerda, completa, corrige o cobra este beat. Si algo lo recoge, el hueco se ha convertido en trama.
 12. **Un solo gesto físico, y de los que ya están en la escena** («se subió el cuello del abrigo y metió las manos en las mangas»). Nada nuevo de atrezo, nada de clima nuevo, ningún objeto nuevo.
-13. **M2 = 0.** Ninguna mecánica de sistema nueva. Ningún término del lexicón que no esté ya en `cap-22`.
+13. **M2 = 0.** Ninguna mecánica de sistema nueva. Ningún término del lexicón que no esté ya en `cap-26`.
 14. **Nada de procedimiento judicial nuevo, nada de consejo, ningún epílogo de la escena.** El recibo firmado **no se reabre**.
 
 **Spans protegidos, diff = 0** (`protegidos/spans.json`, M9 109 spans):
@@ -109,7 +109,7 @@ Que el lector vea que **la novela eligió no abrir el hueco**, en vez de sospech
 | `S22-dahl` | inicio «En el pasillo, Henrik Dahl ensayaba ante dos compañeras con una tarjeta entre los dedos.» · fin «El homenaje se ensayaba a ocho metros.» | otra escena, muy anterior |
 | `S22-aula` | **anclaje único** «—¿Para qué necesita un moderador saber el aula de una menor?» | cierre del capítulo, tras el dinkus; **M9 es ciego a todo su entorno**: no se toca nada a su alrededor |
 
-**Tampoco se tocan** (fuera de spans, pero cerrados por `OT-26` y por el diagnóstico): el beat R3 del cuaderno («El cuaderno estaba abierto por la mitad…»), «Astrid no preguntó por el título…», el caso de 2054 («En 2054, un hombre llevó a la supervisión…»), la escena de Mats, y el bloque `:29-:49`.
+**Tampoco se tocan** (fuera de spans, pero cerrados por `OT-32` y por el diagnóstico): el beat R3 del cuaderno («El cuaderno estaba abierto por la mitad…»), «Astrid no preguntó por el título…», el caso de 2054 («En 2054, un hombre llevó a la supervisión…»), la escena de Mats, y el bloque `:29-:49`.
 
 **Ambigüedades protegidas (Ap. A §3) que rozan el beat:** el porqué (irresuelto); el contenido de «Despedida»; el ordenante. Ninguna se toca, ninguna se roza, ninguna se comenta.
 
@@ -120,7 +120,7 @@ Que el lector vea que **la novela eligió no abrir el hueco**, en vez de sospech
 Verificado por `grep` sobre `capitulos/` el 2026-08-18:
 
 - **Censo: seis menciones, todas administrativas** — `3:143` (la audición sin nombrarla: «Veintiocho plazas. Ciento seis candidatos.»), `9:73`, `18:149`, `n4:79`, `n4:91`, `40:167`.
-- **`cap-22` no contiene el término.** La mención más cercana en orden de lectura es **`18:149`, a cuatro capítulos**, con 19, 20 (protección total) y 21 en medio, y en otra escena, otro trámite y otra ciudad.
+- **`cap-26` no contiene el término.** La mención más cercana en orden de lectura es **`18:149`, a cuatro capítulos**, con 19, 20 (protección total) y 21 en medio, y en otra escena, otro trámite y otra ciudad.
 - **El beat no toca, no glosa y no se aproxima a ninguna de las seis.** El censo **sigue en seis** después de la inserción: es criterio de aceptación (§6.7).
 
 **4.3 · Cláusula de techo: cuatro retenciones y se congela (gate (c), concedido por el autor)**
@@ -155,10 +155,10 @@ La enmienda vigente: **vaciar, partir, fundir, reordenar o insertar al lado** de
 **Salientes:**
 
 - **B4 / M10 (A1-mantenimiento, tras la aceptación).** CH-48 pasa de `SIN-PAGO-INTENCIONAL` a **`SIN-PAGO-INTENCIONAL · HUECO NOMBRADO`**, con el locus. **No es pago y no mejora M10.** Se escribe en la entrada, con estas palabras, la advertencia del autor: *si alguna oleada futura lo lee como pagado, el hueco se ha perdido.* La entrada registra además que el censo del asidero sigue en seis.
-- **Manifiesto.** `capitulos[]` → `palabras` de `cap-22`: 1.749 → **1.809**, **solo** vía `herramientas/actualizar-metadatos.sh`, nunca a mano.
-- **`OT-26`.** Queda cerrada y sin tocar. Se anota en ella la referencia cruzada a `OT-26b` y el registro por escrito, ya ratificado, de que la cláusula M5 «nada entre `:27` y `:49`» era blindaje contra la **expansión** y no contra la poda, y de que ni la poda ni este beat la tocan (necesario antes de que A5 y A8 corran sus checklists).
-- **`cap-9`, `cap-14`, `cap-23`, `cap-39`, `cap-40`, `cap-41`, `n1`, `n3`: diff 0.** Ninguna OT futura puede añadir una quinta retención ni recoger esta (§4.3, §4.1.11).
-- **W5, aritmética de Parte III (dato que A0 debe tener a la vista).** Parte III hoy **21.660**; W5 le añade **+415** (`OT-29` +300, `OT-32` +200, ajustados por el diagnóstico del centro); este beat, +60. Total **22.135** contra el techo **≤ 22.150**: quedan **15 palabras de margen**. Es decir: `OT-29` y `OT-32` **no pueden pasarse de banda ni una palabra**, y nada más entra en la Parte III.
+- **Manifiesto.** `capitulos[]` → `palabras` de `cap-26`: 1.749 → **1.809**, **solo** vía `herramientas/actualizar-metadatos.sh`, nunca a mano.
+- **`OT-32`.** Queda cerrada y sin tocar. Se anota en ella la referencia cruzada a `OT-26b` y el registro por escrito, ya ratificado, de que la cláusula M5 «nada entre `:27` y `:49`» era blindaje contra la **expansión** y no contra la poda, y de que ni la poda ni este beat la tocan (necesario antes de que A5 y A8 corran sus checklists).
+- **`cap-9`, `cap-16`, `cap-28`, `cap-45`, `cap-46`, `cap-48`, `n1`, `n3`: diff 0.** Ninguna OT futura puede añadir una quinta retención ni recoger esta (§4.3, §4.1.11).
+- **W5, aritmética de Parte III (dato que A0 debe tener a la vista).** Parte III hoy **21.660**; W5 le añade **+415** (`OT-35` +300, `OT-38` +200, ajustados por el diagnóstico del centro); este beat, +60. Total **22.135** contra el techo **≤ 22.150**: quedan **15 palabras de margen**. Es decir: `OT-35` y `OT-38` **no pueden pasarse de banda ni una palabra**, y nada más entra en la Parte III.
 - **M8.** 79.530 + 60 = **79.590**; el suelo de banda sigue a 410 palabras. El beat repone, no engorda.
 
 **Entrantes:**
@@ -179,10 +179,10 @@ La enmienda vigente: **vaciar, partir, fundir, reordenar o insertar al lado** de
 | 6 | M1 · **M2** · M4 · M4b | M1 no sube (0 términos nuevos) · **M2 = 0** · 0 cierres-objeto nuevos (el capítulo sigue cerrando en réplica) · M4b ≤ 8 % (hoy 2,0) | `medir.sh`, `m4b_antepuestas.py` |
 | 7 | P-41 | censo del asidero **sigue en seis**; **0 coocurrencias** en el borrador, la OT y el prompt | grep sobre `capitulos/` y sobre el borrador |
 | 8 | P-33 | el techo de «No dice + interrogativa indirecta» **sigue en dos** (`13:73`, `25:227`) | grep |
-| 9 | **Test de doble filo (criterio del autor, con estas palabras)** | **si alguien nombra lo que falta, se revierte; si nadie nota que falta algo, también** | `critica-fria.sh lector-frio` sobre el extracto de `cap-22` suelto: el lector debe poder decir «hay algo que ella no dice» y nada más |
+| 9 | **Test de doble filo (criterio del autor, con estas palabras)** | **si alguien nombra lo que falta, se revierte; si nadie nota que falta algo, también** | `critica-fria.sh lector-frio` sobre el extracto de `cap-26` suelto: el lector debe poder decir «hay algo que ella no dice» y nada más |
 | 10 | Test de reversión | borrar el beat deja la escena exactamente como hoy: **inserción atómica**, sin costuras en las líneas vecinas | diff inverso |
 | 11 | M9 + paragrafado | `S22-flecha`, `S22-aula`, `S22-dahl` íntegros (109 spans) **y** declaración de §4.4 cumplida sobre el diff | `proteger.sh verificar` + lectura de A7 |
-| 12 | T7 | 0 hits de nivel A nuevos | `sensibilidad.sh --solo capitulos/cap-26.md` |
+| 12 | T7 | 0 hits de nivel A nuevos | `sensibilidad.sh --solo capitulos/cap-32.md` |
 | 13 | Etiqueta | la inserción figura como `INTERIORIDAD` en el mapa de intervenciones; **`PAGO` en cualquier registro = reversión** | `mapa_ot.py` · revisión de A0 |
 | 14 | M10 | CH-48 **no** cambia de estado a pagado; M10 **no sube** por esta OT | ledger B4 |
 
@@ -207,13 +207,13 @@ Sesenta palabras, y son de las difíciles porque casi todo lo que se te ocurra e
 
 ## 9 · Ejecución (A3b · 2026-08-18 · rama `w4r-ritmo`)
 
-**Estado de la escritura:** hecha. Pendiente de A7 (pasada previa sobre el borrador, antes de A4), A4, A5, A8 y `lector-frio`. El frontmatter no se ha tocado (sigue `ot: OT-26`, `delta_objetivo: +300`, `estado: aceptado`): esta OT no ordenaba cambiarlo — decisión de A0.
+**Estado de la escritura:** hecha. Pendiente de A7 (pasada previa sobre el borrador, antes de A4), A4, A5, A8 y `lector-frio`. El frontmatter no se ha tocado (sigue `ot: OT-32`, `delta_objetivo: +300`, `estado: aceptado`): esta OT no ordenaba cambiarlo — decisión de A0.
 
 ### 9.1 · Inserciones
 
 | # | Etiqueta | Locus | Palabras | Forma |
 |---|---|---|---|---|
-| I-1 | **`INTERIORIDAD`** (única) | `capitulos/cap-26.md`, escena 4, **entre** «—Las horas siguen ahí.» **y** «El terminal de Astrid vibró…» | **56** | **Forma A**: resta hablada + una oración de no-acceso |
+| I-1 | **`INTERIORIDAD`** (única) | `capitulos/cap-32.md`, escena 4, **entre** «—Las horas siguen ahí.» **y** «El terminal de Astrid vibró…» | **56** | **Forma A**: resta hablada + una oración de no-acceso |
 
 > **`PAGO` no se ha usado en ningún registro de esta inserción**, ni aquí, ni en el mapa de intervenciones, ni en el mensaje de commit sugerido. CH-48 **no** queda pagada: queda **nombrada**. M10 no sube por esta OT.
 
@@ -251,7 +251,7 @@ Diff verificado: **4 líneas añadidas, 0 modificadas, 0 borradas** (`git diff -
 | 4 | Verbos mentales · emociones · «culpa» | 0 · 0 · 0 | **0 · 0 · 0** ✔ (grep sobre 34 formas: pensó, recordó, quiso, sintió, dudó, se contuvo, calló, comprendió, supo que, pareció, esperó, entendió, todavía, desde entonces, alguna vez, nunca, causa, deuda, alivio, lista, doblado, tres…) |
 | 5 | **M5** | `pct_dialogo` ≥ 31,0 % · `max_tramo_sin_dialogo` ≤ 376 · ≥ 14 palabras en réplica | **31,24 %** (era 31,26) ✔ · **376, sin cambio** ✔ · **17** ✔ |
 | 6 | M1 · M2 · M4 · M4b | 0 términos nuevos · M2 = 0 · 0 cierres-objeto nuevos · M4b ≤ 8 % | 0 · **0** · el capítulo sigue cerrando igual y el beat no cierra escena ✔ · **1,9 %** (era 2,0) ✔ |
-| 7 | **P-41** | censo del asidero intacto · 0 coocurrencias en el borrador | censo **sin cambio** (`cap-09`, `cap-18`, `cap-n4` ×2, `cap-40`, más la audición sin nombrar de `3:143`) · **0** en el beat ✔ |
+| 7 | **P-41** | censo del asidero intacto · 0 coocurrencias en el borrador | censo **sin cambio** (`cap-10`, `cap-22`, `cap-31` ×2, `cap-46`, más la audición sin nombrar de `3:143`) · **0** en el beat ✔ |
 | 8 | P-33 | techo en dos | **dos** (`13:73`, `25:227`), sin tocar ✔ |
 | 9 | Test de doble filo | el lector debe poder decir «hay algo que ella no dice» y nada más | **pendiente** de `critica-fria.sh lector-frio` |
 | 10 | Test de reversión | inserción atómica | **4 líneas añadidas, 0 modificadas**: borrarlas deja la escena exactamente como hoy ✔ |
@@ -260,7 +260,7 @@ Diff verificado: **4 líneas añadidas, 0 modificadas, 0 borradas** (`git diff -
 | 13 | Etiqueta | `INTERIORIDAD`; `PAGO` = reversión | **`INTERIORIDAD`**, única; `PAGO` no usada ✔ |
 | 14 | M10 | CH-48 no pasa a pagada | sin cambio; la entrada de B4 la escribe A1-mantenimiento tras la aceptación ✔ |
 
-Además: `validar-frontmatter.sh capitulos/cap-26.md` → `validador OK (0 avisos)`. Ningún otro fichero tocado (`git diff --stat` = 1 fichero).
+Además: `validar-frontmatter.sh capitulos/cap-32.md` → `validador OK (0 avisos)`. Ningún otro fichero tocado (`git diff --stat` = 1 fichero).
 
 ### 9.5 · Lo que A3b pide expresamente que A7 y A4 miren
 
@@ -287,4 +287,4 @@ Además: `validar-frontmatter.sh capitulos/cap-26.md` → `validador OK (0 aviso
  * * *
 ```
 
-**Commit (lo ejecuta A0):** un commit propio de `cap-22` con `OT-26b` en el mensaje. A3b no ha ejecutado ningún comando git de escritura.
+**Commit (lo ejecuta A0):** un commit propio de `cap-26` con `OT-26b` en el mensaje. A3b no ha ejecutado ningún comando git de escritura.
