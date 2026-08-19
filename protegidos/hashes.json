@@ -600,7 +600,82 @@
       "archivo": "capitulos/cap-n7.md",
       "hash": "b1e2244414c91fbefaa21d4fe258b48e5abfde5aa0930b482a8318f3a7c0725f",
       "longitud": 96
+    },
+    "S-n1-nocierra": {
+      "archivo": "capitulos/cap-n1.md",
+      "hash": "6f36883d6d8c20534bb722c01de4d4ace672b2b2a5ec5b45b8802be81ecdf1fa",
+      "longitud": 482
+    },
+    "S-n1-casitodos": {
+      "archivo": "capitulos/cap-n1.md",
+      "hash": "5b610ba3ef9ec992caecbc21f67b1dd20607378e8f8ba5da0a116456ec664f30",
+      "longitud": 341
+    },
+    "S-n1-koppangen-archivo": {
+      "archivo": "capitulos/cap-n1.md",
+      "hash": "61ccae4f8c8d7d3f4796616ab5f325892fef645aa5721366279d7e9e78bcda1e",
+      "longitud": 649
+    },
+    "S-n2-hijadela": {
+      "archivo": "capitulos/cap-n2.md",
+      "hash": "2b24f42ca7f057a8eaa35c92e026ac912d040565a632eb9017b8217dc29c2abe",
+      "longitud": 142
+    },
+    "S-n2-homenaje": {
+      "archivo": "capitulos/cap-n2.md",
+      "hash": "76f127f94425b10cbb194e53494ceecdbb08b04aef606fcaac5cdc6fc68d1d81",
+      "longitud": 147
+    },
+    "S-n3-bolsa": {
+      "archivo": "capitulos/cap-n3.md",
+      "hash": "6ebbebc47cf6ce61f92e81115f71d2e8254e7a386678b16a651fc495b3e73221",
+      "longitud": 439
+    },
+    "S-n3-hervidor": {
+      "archivo": "capitulos/cap-n3.md",
+      "hash": "3c1fc24e83213e787044c79e193055ea334fff6bc0fb387fcd7c71d50ebeadd1",
+      "longitud": 683
+    },
+    "S-n4-escena3": {
+      "archivo": "capitulos/cap-n4.md",
+      "hash": "8da0a59ce49e4a44082500d18e493286504067e5e7477b70e42abefcd39c8330",
+      "longitud": 698
+    },
+    "S-n4-caja": {
+      "archivo": "capitulos/cap-n4.md",
+      "hash": "c7fe6e52d1811bc7c8d01960f3b309fd0acf01c2604dae38a3effe821889b628",
+      "longitud": 781
+    },
+    "S-n4-p49": {
+      "archivo": "capitulos/cap-n4.md",
+      "hash": "97b28c47105e3c427fa3c3e336c483077cc61794c0ad6e54c85c13b91d978aa5",
+      "longitud": 130
+    },
+    "S-n5-coda": {
+      "archivo": "capitulos/cap-n5.md",
+      "hash": "d0efd9026ce3f8421d9efb909f852b9039ef45d66f854ea0453fd1c83f1d9e6a",
+      "longitud": 512
+    },
+    "S-n5-nombres": {
+      "archivo": "capitulos/cap-n5.md",
+      "hash": "0234f05654f68954daf0b3054a3f280321bc50e6c391cae618a4bf68b64e7a69",
+      "longitud": 437
+    },
+    "S-n6-persona": {
+      "archivo": "capitulos/cap-n6.md",
+      "hash": "64a58971b1c9abe6ff04ed59a0ef6dfb81cd3fa705d641f350018d0acf4b9f0e",
+      "longitud": 219
+    },
+    "S-n6-cartel": {
+      "archivo": "capitulos/cap-n6.md",
+      "hash": "4e484b6d9dcc024263972679e99cad012842a48b157f142a6c532a3eb7ffa743",
+      "longitud": 386
+    },
+    "S-n7-perimetro": {
+      "archivo": "capitulos/cap-n7.md",
+      "hash": "35a1bcff873af62c223c8cb758395f7cd3f60f0160646bce3aeb4e0acbe1e0c0",
+      "longitud": 5901
     }
   },
-  "generado": "2026-08-18T23:51:04"
+  "generado": "2026-08-19T00:22:24"
 }

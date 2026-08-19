@@ -6,7 +6,7 @@ fecha: 2060-12-03
 estado: aceptado
 analepsis: false
 estado_plan: N
-proteccion: no
+proteccion: nucleo
 ot: OT-N5
 delta_objetivo: +1900
 orden_lectura: 7.5
