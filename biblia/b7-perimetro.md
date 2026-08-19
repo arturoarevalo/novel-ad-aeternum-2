@@ -259,6 +259,30 @@ Estos dos ficheros son lo único del proyecto que le habla directamente a quien 
 
 ---
 
+## 8b · Seis condiciones añadidas el 2026-08-19, tras las cuatro intervenciones de personaje
+
+Van aquí y no en un informe de oleada, por la razón que A7 dio al emitirlas: *un perímetro que solo vive en un informe caduca con la oleada.*
+
+**W9-16 · M-2 no se replantea.** Ni corta, ni como etiqueta, ni en otra posición, ni en otra oleada. **Cualquier construcción que ponga los dos vencimientos de Mats bajo una misma interfaz, columna, alcance o pantalla ES la ecuación**, la diga alguien o no. La asimetría —un reloj cancelado por orden expresa, otro intacto en otra pantalla— es lo que mantiene la rima en rima. *(R4)*
+
+**W9-17 · Las tres llamadas no se juntan.** El libro tiene tres llamadas que no conectan, y dos están bajo protección dura: la no-llamada de Alana (`cap-11`, dentro de `S11-flashback`), las dieciséis salientes de Nora (`cap-06`, bajo R3) y el `HIJO` de Mats (`cap-32`). **Ninguna voz pone dos de las tres en el mismo marco**, y a las dos primeras no se les da jamás estado de interfaz, plazo de retención, cuenta atrás ni etiqueta de caducidad. Aplicar a la noche del 26 de noviembre el vocabulario que hoy vive en `cap-32` sería R1 por acumulación y R3 a la vez. *(R1 · R3)*
+
+**W9-18 · La campaña de la esquina no se completa.** A la oración «Dahl volvió a la campaña de la esquina y comprobó los idiomas» **no se le añade nunca un complemento que nombre lo que esa campaña conmemora**. El demostrativo es el mecanismo: la oración pasa porque no formula ninguna proposición. *(Carta 4)*
+
+**W9-19 · `definitiv*` no entra en `cap-38` ni cerca.** Queda en tres apariciones en todo el libro, y las otras dos son pesadas: «su interrupción definitiva» (EDDA sobre la muerte de Jean) y «la frase definitiva», locución que la Carta prohíbe glosar. Una cuarta instancia allí **glosaría por eco léxico una locución protegida**. *(R4)*
+
+**W9-20 · La ausencia de interioridad de Henrik Dahl es un dispositivo, no un descuido.**
+
+> Es el lugar donde el libro deposita la romantización de una muerta para poder marcarla como falsa **sin que la marque el narrador**. Cada línea de interioridad suya es el narrador entrando a explicar al hombre que romantiza, y **explicarlo es empezar a excusarlo**. Hubo exactamente una en 79.772 palabras, y era una atenuación puesta en el segundo en que ese hombre autorizaba proyectar sin permiso las caras de dos menores en duelo bajo un crédito falso sobre su madre muerta. Se retiró y no vuelve.
+>
+> **A quien lo encuentre plano y quiera hacerle un favor:** veinte informes dijeron lo mismo y dos concedieron que parecía deliberado. Lo es. **Preferencia sí; razón, herida, precio, duda o cansancio, nunca.**
+
+*(Carta 4)*
+
+**W9-21 · La sala del consejo de `cap-11` está cerrada.** Toda adición futura entre `cap-11:249` y `:301` **es disparador de sensibilidad, sea cual sea su motivo declarado** — réplica, acotación o narración. El diálogo del capítulo está en el suelo exacto de su banda (40,0 %), lo que hace que la adición más barata sea diálogo, y en esa sala los únicos que pueden hablar son los consejeros, sobre la ficha de una menor. El equilibrio actual —la institución clasifica, el adulto despacha, Alana restituye— se rompe con una línea de más en cualquiera de los tres lados. *(Carta 7 · R6)*
+
+---
+
 ## 9 · De dónde viene cada cosa
 
 Para quien necesite el razonamiento original. Los informes están en `informes/a7-*.md` y siguen siendo válidos como argumento; como **norma**, manda este documento.
