@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w5c",
+  "fecha": "2026-08-18T23:19:16",
+  "capitulos": 48,
+  "palabras": 79792,
+  "por_parte": {
+    "1": 19925,
+    "2": 20117,
+    "3": 20388,
+    "4": 19362
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w5c.md"
+}

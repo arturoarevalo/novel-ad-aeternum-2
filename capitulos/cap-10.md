@@ -8,7 +8,7 @@ analepsis: false
 estado_plan: R
 proteccion: nucleo
 ot: OT-10
-delta_objetivo: +100
+delta_objetivo: 0
 orden_lectura: 10
 ---
 
@@ -182,7 +182,7 @@ En la nota seguía `conservar resultados contrarios`. Lo había escrito cuando l
 
 Cerró la fila sin ejecutar ninguna carga. Bajo `pendiente` escribió `D–C–B–A sin ejecutar`.
 
-Luego terminó la tarea con una foto de la parada del autobús. La plataforma la admitió al primer intento.
+Luego terminó la tarea con una foto de la parada del autobús, que la plataforma admitió al primer intento.
 
 * * *
 

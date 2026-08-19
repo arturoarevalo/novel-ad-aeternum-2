@@ -149,3 +149,18 @@ Muestra binaria de 16 réplicas nuevas (8 Nora / 8 Jessie), sin acotación, repa
 **Coser sin escribir:** ninguna frase nueva; solo supresiones y dos refundiciones con palabras del propio párrafo («La tutora unió las dos hojas de Nora con un clip»). Palabras añadidas: **0**.
 
 **Dudas para A0 / A7:** (a) el bloque de la fotografía en el despacho se ha conservado recortado y no suprimido porque «volvió a decir “la ceremonia”» (cierre de escena) necesita que la tutora la haya dicho antes. (b) A7: ninguna de las líneas dictaminadas en `informes/a7-w3-n2-n6.md` §1 se ha tocado; las condiciones prospectivas P-3 (los dos números de contacto) y P-5 (la captura que no se reenvía) siguen literales. (c) Ninguna frase marcada por sensibilidad.
+
+## 9 · W6
+
+**A4 · rama `w6-linea` · 2026-08-19.** Bloque 3, tarea 2 (molde «X esperaba + locativo»). Se corrige texto nuestro antes de tocar prosa del autor. **Una conversión, Δ = 0 exacto.**
+
+| # | antes (cita literal) | después (cita literal) | Δ |
+|---|---|---|---:|
+| W6-n2-a | «Jessie esperaba sentada en el murete de la rampa, con el parte doblado en el bolsillo del abrigo.» | «Jessie estaba sentada en el murete de la rampa, con el parte doblado en el bolsillo del abrigo.» | **0** (18 → 18) |
+
+- **Forma resultante declarada:** *sujeto + cópula + participio de postura + locativo.* Recuento en `cap-n2`: **dos antes** —«La misma fotografía estaba abierta en otros dos móviles, junto a la barandilla.» (:151) y «El parte de Jessie estaba boca arriba sobre la mesa, entre las dos.» (:177)—, **tres después**. Queda en el techo de la norma, que prohíbe la cuarta. Se declara para que ninguna pasada posterior la use aquí.
+- **Descartado «seguía sentada»:** *sujeto + «seguir» + complemento* ya aparece **cuatro veces** en el capítulo (:55, :65, :225, :243), y una de ellas —«La publicación seguía ahí.»— está a dos frases de ésta.
+- **La postura no se toca**, como pedía el plan (§4.2): «sentada en el murete de la rampa» y el parte doblado en el bolsillo llegan intactos, y con ellos el antecedente de «Lo sacó» en la frase siguiente.
+- **Qué se pierde:** la frase deja de nombrar la espera. La sostienen la escena —Nora sale ocho minutos después— y la postura. Es el cambio de «decir que espera» a «mostrarla esperando».
+- **Paragrafado:** la frase sigue siendo la primera de su escena, detrás del dinkus de :219; ningún párrafo se parte, funde, vacía ni se mueve. `S-n2-homenaje` (:87–91) y `S-n2-hijadela` (:101–109) conservan sus vecinos por arriba y por abajo.
+- **Métricas:** palabras 1.687 → **1.687**. M1 0,6 únicos/1.000, sin cambio (cero términos de lexicón tocados). M4b 0,9 % sin cambio (la frase no era antepuesta). M9 **129 spans íntegros**. T7: la frase no casa ningún patrón A ni B ni antes ni después → **0 hits nuevos**. `validar-frontmatter.sh` OK, frontmatter sin tocar.

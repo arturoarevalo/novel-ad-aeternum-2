@@ -122,3 +122,15 @@ Fichero creado por A3b: `capitulos/cap-n1.md` (frontmatter según §0). Total **
 **Sensibilidad:** ninguna frase marcada para A7. Los dos hits de nivel A del capítulo (269 «la culpa se reparte sola», 299 «¿Por qué Koppangen?») están intactos y literales.
 
 **Nota de voces para A0:** N1 no necesita más trabajo de diferenciación. Nora interroga con condición y medida, Maja contesta con logística y la profesional dice «no» o «no lo sé» siete veces sin defenderse; las tres son distinguibles sin acotación.
+
+## 9 · W6
+
+**A4 · rama `w6-linea` · 2026-08-19.** Bloque 3, tarea 2 (molde «X esperaba + locativo»). **Cero conversiones. La instancia de este capítulo se declina y el motivo es una norma nuestra, no una duda de gusto.**
+
+| # | cita literal | por qué se declina |
+|---|---|---|
+| W6-n1-a | «En el rellano esperaba un hombre con un niño sentado en el suelo, ya con las botas puestas.» | Las dos únicas sustituciones de verbo con Δ = 0 son presentacionales —«había», «quedaba»—, y la forma *locativo antepuesto + presentacional + SN indefinido* **ya aparece tres veces** en `cap-n1`: «En el primer piso había un perchero de cuatro ganchos y una papelera vacía.» (:63, **el mismo hueco de escalera**), «Sobre la mesa había una jarra y cuatro vasos.» (:69) y «En la pared, junto al reloj, había un calendario del año siguiente sin ninguna marca.» (:383). La norma de `cap-03` prohíbe la cuarta. Todo lo demás o cuesta palabras —«se agachaba» +1, «Un hombre ocupaba el rellano…» −1, «se cruzaron con» +2— o **inventa un hecho para un figurante** («hablaba», «fumaba», «tiraba de»), y la orden fija Δ = 0 de palabras **y de sentido**. |
+
+**Lo que quedaría disponible si A0 abre un solo punto de presupuesto:** «Un hombre ocupaba el rellano con un niño sentado en el suelo, ya con las botas puestas.» (**Δ = −1**), que conserva íntegra la cita que el plan manda conservar y mata el molde sin inventar nada. **No la ejecuto**: la decisión de gastar presupuesto no es mía.
+
+**Nada se ha tocado en este fichero.** `git diff` sobre `capitulos/cap-n1.md` = vacío. `S-n1-nocierra`, `S-n1-casitodos` y `S-n1-koppangen-archivo` intactos por definición.

@@ -8,7 +8,7 @@ analepsis: false
 estado_plan: R
 proteccion: nucleo
 ot: OT-21
-delta_objetivo: +50
+delta_objetivo: 0
 orden_lectura: 21
 ---
 

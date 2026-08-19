@@ -1,0 +1,3352 @@
+{
+ "etiqueta": "w5-check",
+ "generado": "2026-08-18T14:09:56",
+ "M1": {
+  "lexicon": "biblia/b3-lexicon.json",
+  "n_terminos_lexicon": 117,
+  "por_capitulo": {
+   "cap-01.md": {
+    "palabras": 746,
+    "terminos_unicos": 11,
+    "ocurrencias": 21,
+    "unicos_por_1000": 14.7,
+    "ocurrencias_por_1000": 28.2,
+    "terminos": [
+     "speil",
+     "molde",
+     "edda",
+     "norna",
+     "entrada",
+     "lote",
+     "canal",
+     "validacion",
+     "firma-testimonio",
+     "r-1189",
+     "consentimiento"
+    ]
+   },
+   "cap-02.md": {
+    "palabras": 1730,
+    "terminos_unicos": 16,
+    "ocurrencias": 32,
+    "unicos_por_1000": 9.2,
+    "ocurrencias_por_1000": 18.5,
+    "terminos": [
+     "speil",
+     "synvev",
+     "edda",
+     "tarea",
+     "entrada",
+     "salida",
+     "rafaga",
+     "prioridad",
+     "higiene-sensorial",
+     "latencia",
+     "validacion",
+     "umbral",
+     "bienestar-edda",
+     "estabilidad",
+     "r-1189",
+     "consentimiento"
+    ]
+   },
+   "cap-03.md": {
+    "palabras": 2102,
+    "terminos_unicos": 5,
+    "ocurrencias": 7,
+    "unicos_por_1000": 2.4,
+    "ocurrencias_por_1000": 3.3,
+    "terminos": [
+     "edda",
+     "entrada",
+     "margen",
+     "latencia",
+     "bienestar-edda"
+    ]
+   },
+   "cap-04.md": {
+    "palabras": 1501,
+    "terminos_unicos": 2,
+    "ocurrencias": 2,
+    "unicos_por_1000": 1.3,
+    "ocurrencias_por_1000": 1.3,
+    "terminos": [
+     "llave-gunnar",
+     "margen"
+    ]
+   },
+   "cap-05.md": {
+    "palabras": 1782,
+    "terminos_unicos": 14,
+    "ocurrencias": 46,
+    "unicos_por_1000": 7.9,
+    "ocurrencias_por_1000": 25.8,
+    "terminos": [
+     "jm-l",
+     "speil",
+     "tarea",
+     "entrada",
+     "salida",
+     "acuse",
+     "formulas-validacion",
+     "lote",
+     "rafaga",
+     "asignacion",
+     "blanco",
+     "validacion",
+     "ejecucion",
+     "ventana"
+    ]
+   },
+   "cap-06.md": {
+    "palabras": 2172,
+    "terminos_unicos": 5,
+    "ocurrencias": 7,
+    "unicos_por_1000": 2.3,
+    "ocurrencias_por_1000": 3.2,
+    "terminos": [
+     "entrada",
+     "salida",
+     "margen",
+     "validacion",
+     "ventana"
+    ]
+   },
+   "cap-07.md": {
+    "palabras": 1690,
+    "terminos_unicos": 13,
+    "ocurrencias": 87,
+    "unicos_por_1000": 7.7,
+    "ocurrencias_por_1000": 51.5,
+    "terminos": [
+     "tarea",
+     "entrada",
+     "salida",
+     "formulas-validacion",
+     "categorias-salida",
+     "lote",
+     "asignacion",
+     "margen",
+     "prioridad",
+     "blanco",
+     "patron-adversarial",
+     "validacion",
+     "ventana"
+    ]
+   },
+   "cap-n5.md": {
+    "palabras": 1822,
+    "terminos_unicos": 9,
+    "ocurrencias": 62,
+    "unicos_por_1000": 4.9,
+    "ocurrencias_por_1000": 34.0,
+    "terminos": [
+     "jm-l",
+     "tarea",
+     "entrada",
+     "salida",
+     "acuse",
+     "formulas-validacion",
+     "categorias-salida",
+     "lote",
+     "validacion"
+    ]
+   },
+   "cap-08.md": {
+    "palabras": 1017,
+    "terminos_unicos": 12,
+    "ocurrencias": 36,
+    "unicos_por_1000": 11.8,
+    "ocurrencias_por_1000": 35.4,
+    "terminos": [
+     "jm-l",
+     "ventana-7c",
+     "tarea",
+     "entrada",
+     "salida",
+     "acuse",
+     "categorias-salida",
+     "rafaga",
+     "procedencia",
+     "continuidad",
+     "ventana",
+     "modelo"
+    ]
+   },
+   "cap-09.md": {
+    "palabras": 1861,
+    "terminos_unicos": 6,
+    "ocurrencias": 8,
+    "unicos_por_1000": 3.2,
+    "ocurrencias_por_1000": 4.3,
+    "terminos": [
+     "jm-l",
+     "margen",
+     "blanco",
+     "ruta-educativa",
+     "ventana",
+     "modelo"
+    ]
+   },
+   "cap-n1.md": {
+    "palabras": 2065,
+    "terminos_unicos": 0,
+    "ocurrencias": 0,
+    "unicos_por_1000": 0.0,
+    "ocurrencias_por_1000": 0.0,
+    "terminos": []
+   },
+   "cap-10.md": {
+    "palabras": 1437,
+    "terminos_unicos": 5,
+    "ocurrencias": 9,
+    "unicos_por_1000": 3.5,
+    "ocurrencias_por_1000": 6.3,
+    "terminos": [
+     "jm-l",
+     "tarea",
+     "salida",
+     "objecion",
+     "suspension"
+    ]
+   },
+   "cap-11.md": {
+    "palabras": 2049,
+    "terminos_unicos": 30,
+    "ocurrencias": 94,
+    "unicos_por_1000": 14.6,
+    "ocurrencias_por_1000": 45.9,
+    "terminos": [
+     "jm-l",
+     "cohorte",
+     "speil",
+     "corpus-jm",
+     "matriz",
+     "synvev",
+     "argos",
+     "edda",
+     "kronfjord",
+     "asignacion",
+     "margen",
+     "blanco",
+     "validacion",
+     "umbral",
+     "bienestar-edda",
+     "gobernanza-edda",
+     "continuidad",
+     "ejecucion",
+     "instancia",
+     "ruta",
+     "firma-testimonio",
+     "estabilidad",
+     "fase-comun",
+     "ventana",
+     "consentimiento",
+     "documento-de-origen",
+     "preservacion-funcional",
+     "juicio-contextual",
+     "modelo",
+     "suspension"
+    ]
+   },
+   "cap-12.md": {
+    "palabras": 2032,
+    "terminos_unicos": 10,
+    "ocurrencias": 16,
+    "unicos_por_1000": 4.9,
+    "ocurrencias_por_1000": 7.9,
+    "terminos": [
+     "jm-l",
+     "nidhogg",
+     "tarea",
+     "entrada",
+     "salida",
+     "blanco",
+     "canal",
+     "ejecucion",
+     "firma-testimonio",
+     "residuo-no-determinista"
+    ]
+   },
+   "cap-13.md": {
+    "palabras": 1655,
+    "terminos_unicos": 22,
+    "ocurrencias": 105,
+    "unicos_por_1000": 13.3,
+    "ocurrencias_por_1000": 63.4,
+    "terminos": [
+     "jm-l",
+     "cohorte",
+     "tarea",
+     "salida",
+     "formulas-validacion",
+     "categorias-salida",
+     "asignacion",
+     "margen",
+     "prioridad",
+     "blanco",
+     "desviacion-pedagogica",
+     "reinicio",
+     "cesion-de-estado",
+     "fusion",
+     "apelacion",
+     "ruta-educativa",
+     "validacion",
+     "continuidad",
+     "ejecucion",
+     "rama",
+     "criterios-consolidacion",
+     "estabilidad"
+    ]
+   },
+   "cap-14.md": {
+    "palabras": 1756,
+    "terminos_unicos": 8,
+    "ocurrencias": 9,
+    "unicos_por_1000": 4.6,
+    "ocurrencias_por_1000": 5.1,
+    "terminos": [
+     "jm-l",
+     "nidhogg",
+     "salida",
+     "umbral",
+     "gobernanza-edda",
+     "ruta",
+     "ventana",
+     "custodia-estrategica"
+    ]
+   },
+   "cap-15.md": {
+    "palabras": 1299,
+    "terminos_unicos": 26,
+    "ocurrencias": 81,
+    "unicos_por_1000": 20.0,
+    "ocurrencias_por_1000": 62.4,
+    "terminos": [
+     "jm-l",
+     "expediente-71-k",
+     "tarea",
+     "entrada",
+     "salida",
+     "acuse",
+     "categorias-salida",
+     "campo-secundario",
+     "asignacion",
+     "margen",
+     "blanco",
+     "higiene-sensorial",
+     "resistencia-cognitiva",
+     "desviacion-pedagogica",
+     "cesion-de-estado",
+     "apelacion",
+     "objecion",
+     "canal",
+     "validacion",
+     "continuidad",
+     "ruta",
+     "r-1189",
+     "resolucion-r1189",
+     "consentimiento",
+     "residuo-no-determinista",
+     "suspension"
+    ]
+   },
+   "cap-16.md": {
+    "palabras": 1871,
+    "terminos_unicos": 24,
+    "ocurrencias": 54,
+    "unicos_por_1000": 12.8,
+    "ocurrencias_por_1000": 28.9,
+    "terminos": [
+     "ventana-7c",
+     "nidhogg",
+     "kystbrukslag",
+     "llave-gunnar",
+     "ak-7",
+     "adcp",
+     "pluma-termica",
+     "hash",
+     "pasarela",
+     "entrada",
+     "acuse",
+     "margen",
+     "procedencia",
+     "canal",
+     "validacion",
+     "umbral",
+     "continuidad",
+     "ruta",
+     "firma-testimonio",
+     "plantilla",
+     "ventana",
+     "documento-de-origen",
+     "propiedad-intelectual",
+     "servidumbre"
+    ]
+   },
+   "cap-n2.md": {
+    "palabras": 1687,
+    "terminos_unicos": 1,
+    "ocurrencias": 1,
+    "unicos_por_1000": 0.6,
+    "ocurrencias_por_1000": 0.6,
+    "terminos": [
+     "synvev"
+    ]
+   },
+   "cap-17.md": {
+    "palabras": 844,
+    "terminos_unicos": 15,
+    "ocurrencias": 52,
+    "unicos_por_1000": 17.8,
+    "ocurrencias_por_1000": 61.6,
+    "terminos": [
+     "jm-l",
+     "expediente-71-k",
+     "tarea",
+     "salida",
+     "categorias-salida",
+     "blanco",
+     "fusion",
+     "procedencia",
+     "apelacion",
+     "contencion",
+     "objecion",
+     "copia-supervision",
+     "firma-testimonio",
+     "residuo-no-determinista",
+     "suspension"
+    ]
+   },
+   "cap-18.md": {
+    "palabras": 2161,
+    "terminos_unicos": 22,
+    "ocurrencias": 42,
+    "unicos_por_1000": 10.2,
+    "ocurrencias_por_1000": 19.4,
+    "terminos": [
+     "jm-l",
+     "ventana-7c",
+     "nidhogg",
+     "tks",
+     "llave-gunnar",
+     "ak-7",
+     "pluma-termica",
+     "hash",
+     "entrada",
+     "salida",
+     "margen",
+     "higiene-sensorial",
+     "reinicio",
+     "canal",
+     "validacion",
+     "ruta",
+     "sincronizacion",
+     "ventana",
+     "juicio-contextual",
+     "residuo-no-determinista",
+     "geovalla",
+     "servidumbre"
+    ]
+   },
+   "cap-19.md": {
+    "palabras": 2174,
+    "terminos_unicos": 33,
+    "ocurrencias": 81,
+    "unicos_por_1000": 15.2,
+    "ocurrencias_por_1000": 37.3,
+    "terminos": [
+     "jm-l",
+     "argos",
+     "edda",
+     "nidhogg",
+     "kronfjord",
+     "aegir",
+     "circuito-marino",
+     "banco-de-voz",
+     "pasarela",
+     "galeria",
+     "tarea",
+     "entrada",
+     "asignacion",
+     "margen",
+     "blanco",
+     "resistencia-cognitiva",
+     "friccion-cognitiva",
+     "validacion",
+     "umbral",
+     "gobernanza-edda",
+     "compilacion",
+     "replicacion",
+     "continuidad",
+     "instancia",
+     "ruta",
+     "criterios-consolidacion",
+     "estabilidad",
+     "ventana",
+     "ventana-reflexiva",
+     "anos-jm",
+     "ce-k",
+     "suspension",
+     "servidumbre"
+    ]
+   },
+   "cap-20.md": {
+    "palabras": 1493,
+    "terminos_unicos": 12,
+    "ocurrencias": 27,
+    "unicos_por_1000": 8.0,
+    "ocurrencias_por_1000": 18.1,
+    "terminos": [
+     "entorno-aislado",
+     "entrada",
+     "salida",
+     "ruta-educativa",
+     "canal",
+     "latencia",
+     "compilacion",
+     "continuidad",
+     "ventana",
+     "documento-de-origen",
+     "preservacion-funcional",
+     "modelo"
+    ]
+   },
+   "cap-21.md": {
+    "palabras": 736,
+    "terminos_unicos": 12,
+    "ocurrencias": 44,
+    "unicos_por_1000": 16.3,
+    "ocurrencias_por_1000": 59.8,
+    "terminos": [
+     "jm-l",
+     "tarea",
+     "entrada",
+     "salida",
+     "asignacion",
+     "margen",
+     "cesion-de-estado",
+     "apelacion",
+     "copia-supervision",
+     "ruta-educativa",
+     "canal",
+     "rama"
+    ]
+   },
+   "cap-22.md": {
+    "palabras": 1812,
+    "terminos_unicos": 21,
+    "ocurrencias": 41,
+    "unicos_por_1000": 11.6,
+    "ocurrencias_por_1000": 22.6,
+    "terminos": [
+     "jm-l",
+     "sujeto-cero",
+     "speil",
+     "corpus-jm",
+     "argos",
+     "nidhogg",
+     "tks",
+     "aegir",
+     "tarea",
+     "entrada",
+     "blanco",
+     "higiene-sensorial",
+     "canal",
+     "ejecucion",
+     "rama",
+     "sincronizacion",
+     "fase-comun",
+     "consentimiento",
+     "juicio-contextual",
+     "ce-k",
+     "custodia-estrategica"
+    ]
+   },
+   "cap-n3.md": {
+    "palabras": 2824,
+    "terminos_unicos": 6,
+    "ocurrencias": 6,
+    "unicos_por_1000": 2.1,
+    "ocurrencias_por_1000": 2.1,
+    "terminos": [
+     "speil",
+     "llave-gunnar",
+     "margen",
+     "umbral",
+     "ejecucion",
+     "ventana"
+    ]
+   },
+   "cap-23.md": {
+    "palabras": 1847,
+    "terminos_unicos": 10,
+    "ocurrencias": 23,
+    "unicos_por_1000": 5.4,
+    "ocurrencias_por_1000": 12.5,
+    "terminos": [
+     "jm-l",
+     "entorno-aislado",
+     "pasarela",
+     "entrada",
+     "blanco",
+     "reinicio",
+     "ruta-educativa",
+     "canal",
+     "ventana",
+     "activo-memorial"
+    ]
+   },
+   "cap-24.md": {
+    "palabras": 1826,
+    "terminos_unicos": 13,
+    "ocurrencias": 35,
+    "unicos_por_1000": 7.1,
+    "ocurrencias_por_1000": 19.2,
+    "terminos": [
+     "hvelv",
+     "kronfjord",
+     "pki-hvelv",
+     "entrada",
+     "salida",
+     "blanco",
+     "gobernanza-edda",
+     "firma-testimonio",
+     "criterios-consolidacion",
+     "presencia-local",
+     "geovalla",
+     "diligencia-activo-critico",
+     "custodia-estrategica"
+    ]
+   },
+   "cap-25.md": {
+    "palabras": 1741,
+    "terminos_unicos": 30,
+    "ocurrencias": 129,
+    "unicos_por_1000": 17.2,
+    "ocurrencias_por_1000": 74.1,
+    "terminos": [
+     "jm-l",
+     "edda",
+     "tarea",
+     "entrada",
+     "salida",
+     "acuse",
+     "asignacion",
+     "prioridad",
+     "reinicio",
+     "procedencia",
+     "apelacion",
+     "latencia",
+     "validacion",
+     "bienestar-edda",
+     "gobernanza-edda",
+     "continuidad",
+     "ejecucion",
+     "ruta",
+     "firma-testimonio",
+     "plantilla",
+     "candidatura",
+     "consolidacion",
+     "estabilidad",
+     "fase-comun",
+     "ventana",
+     "ventana-reflexiva",
+     "r-1189",
+     "resolucion-r1189",
+     "consentimiento",
+     "documento-de-origen"
+    ]
+   },
+   "cap-n4.md": {
+    "palabras": 2878,
+    "terminos_unicos": 11,
+    "ocurrencias": 47,
+    "unicos_por_1000": 3.8,
+    "ocurrencias_por_1000": 16.3,
+    "terminos": [
+     "llave-gunnar",
+     "ak-7",
+     "tarea",
+     "entrada",
+     "salida",
+     "lote",
+     "margen",
+     "procedencia",
+     "rama",
+     "firma-testimonio",
+     "suspension"
+    ]
+   },
+   "cap-26.md": {
+    "palabras": 1772,
+    "terminos_unicos": 14,
+    "ocurrencias": 29,
+    "unicos_por_1000": 7.9,
+    "ocurrencias_por_1000": 16.4,
+    "terminos": [
+     "nidhogg",
+     "kystbrukslag",
+     "ak-7",
+     "adcp",
+     "pluma-termica",
+     "galeria",
+     "tarea",
+     "entrada",
+     "formulas-validacion",
+     "canal",
+     "compilacion",
+     "ruta",
+     "criterios-consolidacion",
+     "servidumbre"
+    ]
+   },
+   "cap-27.md": {
+    "palabras": 1889,
+    "terminos_unicos": 33,
+    "ocurrencias": 88,
+    "unicos_por_1000": 17.5,
+    "ocurrencias_por_1000": 46.6,
+    "terminos": [
+     "jm-l",
+     "cohorte",
+     "sujeto-cero",
+     "speil",
+     "corpus-jm",
+     "matriz",
+     "argos",
+     "edda",
+     "nidhogg",
+     "norna",
+     "kronfjord",
+     "tks",
+     "ladrillo",
+     "autoridad-fundacional",
+     "entrada",
+     "lote",
+     "margen",
+     "blanco",
+     "procedencia",
+     "gobernanza-edda",
+     "compilacion",
+     "replicacion",
+     "continuidad",
+     "instancia",
+     "firma-testimonio",
+     "anos-jm",
+     "r-1189",
+     "resolucion-r1189",
+     "consentimiento",
+     "documento-de-origen",
+     "presencia-local",
+     "diligencia-activo-critico",
+     "suspension"
+    ]
+   },
+   "cap-28.md": {
+    "palabras": 1661,
+    "terminos_unicos": 7,
+    "ocurrencias": 14,
+    "unicos_por_1000": 4.2,
+    "ocurrencias_por_1000": 8.4,
+    "terminos": [
+     "ak-7",
+     "adcp",
+     "salida",
+     "margen",
+     "ruta-educativa",
+     "ruta",
+     "ventana"
+    ]
+   },
+   "cap-29.md": {
+    "palabras": 1416,
+    "terminos_unicos": 25,
+    "ocurrencias": 70,
+    "unicos_por_1000": 17.7,
+    "ocurrencias_por_1000": 49.4,
+    "terminos": [
+     "argos",
+     "nidhogg",
+     "hvelv",
+     "tks",
+     "aegir",
+     "entrada",
+     "blanco",
+     "procedencia",
+     "continuidad",
+     "ejecucion",
+     "instancia",
+     "ruta",
+     "firma-testimonio",
+     "consolidacion",
+     "criterios-consolidacion",
+     "las-necesarias",
+     "estabilidad",
+     "fase-comun",
+     "r-1189",
+     "consentimiento",
+     "ce-k",
+     "presencia-local",
+     "diligencia-activo-critico",
+     "custodia-estrategica",
+     "tingrett"
+    ]
+   },
+   "cap-30.md": {
+    "palabras": 1571,
+    "terminos_unicos": 23,
+    "ocurrencias": 118,
+    "unicos_por_1000": 14.6,
+    "ocurrencias_por_1000": 75.1,
+    "terminos": [
+     "jm-l",
+     "argos",
+     "tarea",
+     "entrada",
+     "lote",
+     "asignacion",
+     "margen",
+     "blanco",
+     "fusion",
+     "procedencia",
+     "apelacion",
+     "canal",
+     "continuidad",
+     "ruta",
+     "rama",
+     "adhesion",
+     "firma-testimonio",
+     "papeleta",
+     "propagacion",
+     "candidatura",
+     "consolidacion",
+     "criterios-consolidacion",
+     "fase-comun"
+    ]
+   },
+   "cap-31.md": {
+    "palabras": 1613,
+    "terminos_unicos": 34,
+    "ocurrencias": 95,
+    "unicos_por_1000": 21.1,
+    "ocurrencias_por_1000": 58.9,
+    "terminos": [
+     "corpus-jm",
+     "matriz",
+     "molde",
+     "nidhogg",
+     "norna",
+     "kystbrukslag",
+     "llave-gunnar",
+     "ladrillo",
+     "autoridad-fundacional",
+     "repetidor",
+     "ak-7",
+     "adcp",
+     "pasarela",
+     "galeria",
+     "entrada",
+     "salida",
+     "lote",
+     "asignacion",
+     "margen",
+     "canal",
+     "umbral",
+     "continuidad",
+     "ejecucion",
+     "ruta",
+     "adhesion",
+     "firma-testimonio",
+     "candidatura",
+     "consolidacion",
+     "sincronizacion",
+     "fase-comun",
+     "presencia-local",
+     "vinculacion",
+     "custodia-estrategica",
+     "tingrett"
+    ]
+   },
+   "cap-32.md": {
+    "palabras": 1753,
+    "terminos_unicos": 31,
+    "ocurrencias": 80,
+    "unicos_por_1000": 17.7,
+    "ocurrencias_por_1000": 45.6,
+    "terminos": [
+     "jm-l",
+     "cohorte",
+     "corpus-jm",
+     "synvev",
+     "argos",
+     "edda",
+     "banco-de-voz",
+     "tarea",
+     "entrada",
+     "salida",
+     "margen",
+     "apelacion",
+     "contencion",
+     "canal",
+     "validacion",
+     "gobernanza-edda",
+     "continuidad",
+     "ejecucion",
+     "ruta",
+     "rama",
+     "firma-testimonio",
+     "propagacion",
+     "plantilla",
+     "consolidacion",
+     "criterios-consolidacion",
+     "las-necesarias",
+     "estabilidad",
+     "sincronizacion",
+     "fase-comun",
+     "ce-k",
+     "servidumbre"
+    ]
+   },
+   "cap-33.md": {
+    "palabras": 1648,
+    "terminos_unicos": 11,
+    "ocurrencias": 27,
+    "unicos_por_1000": 6.7,
+    "ocurrencias_por_1000": 16.4,
+    "terminos": [
+     "llave-gunnar",
+     "ladrillo",
+     "repetidor",
+     "ak-7",
+     "adcp",
+     "circuito-marino",
+     "salida",
+     "acuse",
+     "umbral",
+     "presencia-local",
+     "vinculacion"
+    ]
+   },
+   "cap-34.md": {
+    "palabras": 2267,
+    "terminos_unicos": 40,
+    "ocurrencias": 103,
+    "unicos_por_1000": 17.6,
+    "ocurrencias_por_1000": 45.4,
+    "terminos": [
+     "jm-l",
+     "cohorte",
+     "speil",
+     "argos",
+     "edda",
+     "nidhogg",
+     "hvelv",
+     "kronfjord",
+     "tks",
+     "llave-gunnar",
+     "autoridad-fundacional",
+     "repetidor",
+     "adcp",
+     "pki-hvelv",
+     "entrada",
+     "salida",
+     "asignacion",
+     "margen",
+     "prioridad",
+     "blanco",
+     "desviacion-pedagogica",
+     "reinicio",
+     "cesion-de-estado",
+     "procedencia",
+     "ruta-educativa",
+     "canal",
+     "umbral",
+     "ejecucion",
+     "ruta",
+     "firma-testimonio",
+     "consolidacion",
+     "criterios-consolidacion",
+     "sincronizacion",
+     "fase-comun",
+     "ventana",
+     "anos-jm",
+     "presencia-local",
+     "diligencia-activo-critico",
+     "tingrett",
+     "servidumbre"
+    ]
+   },
+   "cap-35.md": {
+    "palabras": 1832,
+    "terminos_unicos": 22,
+    "ocurrencias": 70,
+    "unicos_por_1000": 12.0,
+    "ocurrencias_por_1000": 38.2,
+    "terminos": [
+     "nidhogg",
+     "hvelv",
+     "llave-gunnar",
+     "repetidor",
+     "ak-7",
+     "adcp",
+     "circuito-marino",
+     "pki-hvelv",
+     "pasarela",
+     "galeria",
+     "entrada",
+     "salida",
+     "acuse",
+     "categorias-salida",
+     "margen",
+     "ruta-educativa",
+     "firma-testimonio",
+     "fase-comun",
+     "presencia-local",
+     "vinculacion",
+     "fail-secure",
+     "diligencia-activo-critico"
+    ]
+   },
+   "cap-36.md": {
+    "palabras": 1190,
+    "terminos_unicos": 21,
+    "ocurrencias": 103,
+    "unicos_por_1000": 17.6,
+    "ocurrencias_por_1000": 86.6,
+    "terminos": [
+     "jm-l",
+     "argos",
+     "tarea",
+     "entrada",
+     "salida",
+     "categorias-salida",
+     "margen",
+     "blanco",
+     "apelacion",
+     "canal",
+     "continuidad",
+     "ruta",
+     "rama",
+     "adhesion",
+     "firma-testimonio",
+     "propagacion",
+     "plantilla",
+     "estabilidad",
+     "sincronizacion",
+     "ventana",
+     "residuo-no-determinista"
+    ]
+   },
+   "cap-37.md": {
+    "palabras": 2234,
+    "terminos_unicos": 45,
+    "ocurrencias": 108,
+    "unicos_por_1000": 20.1,
+    "ocurrencias_por_1000": 48.3,
+    "terminos": [
+     "jm-l",
+     "matriz",
+     "argos",
+     "edda",
+     "nidhogg",
+     "llave-gunnar",
+     "repetidor",
+     "ak-7",
+     "pluma-termica",
+     "pki-hvelv",
+     "tarea",
+     "entrada",
+     "salida",
+     "acuse",
+     "formulas-validacion",
+     "margen",
+     "prioridad",
+     "blanco",
+     "cesion-de-estado",
+     "procedencia",
+     "contencion",
+     "ruta-educativa",
+     "canal",
+     "latencia",
+     "bienestar-edda",
+     "continuidad",
+     "ruta",
+     "rama",
+     "adhesion",
+     "firma-testimonio",
+     "papeleta",
+     "plantilla",
+     "criterios-consolidacion",
+     "fase-comun",
+     "ventana",
+     "r-1189",
+     "consentimiento",
+     "activo-memorial",
+     "juicio-contextual",
+     "modelo",
+     "ce-k",
+     "break-glass",
+     "custodia-estrategica",
+     "tingrett",
+     "servidumbre"
+    ]
+   },
+   "cap-38.md": {
+    "palabras": 1380,
+    "terminos_unicos": 38,
+    "ocurrencias": 138,
+    "unicos_por_1000": 27.5,
+    "ocurrencias_por_1000": 100.0,
+    "terminos": [
+     "jm-l",
+     "corpus-jm",
+     "matriz",
+     "molde",
+     "synvev",
+     "argos",
+     "nidhogg",
+     "norna",
+     "llave-gunnar",
+     "ladrillo",
+     "autoridad-fundacional",
+     "repetidor",
+     "banco-de-voz",
+     "tarea",
+     "entrada",
+     "salida",
+     "margen",
+     "cesion-de-estado",
+     "fusion",
+     "procedencia",
+     "contencion",
+     "ruta-educativa",
+     "canal",
+     "latencia",
+     "validacion",
+     "compilacion",
+     "continuidad",
+     "ejecucion",
+     "ruta",
+     "rama",
+     "adhesion",
+     "propagacion",
+     "respuesta-comun",
+     "ventana",
+     "anos-jm",
+     "ce-k",
+     "diligencia-activo-critico",
+     "custodia-estrategica"
+    ]
+   },
+   "cap-39.md": {
+    "palabras": 1690,
+    "terminos_unicos": 31,
+    "ocurrencias": 58,
+    "unicos_por_1000": 18.3,
+    "ocurrencias_por_1000": 34.3,
+    "terminos": [
+     "cohorte",
+     "corpus-jm",
+     "synvev",
+     "argos",
+     "nidhogg",
+     "norna",
+     "hvelv",
+     "kronfjord",
+     "pluma-termica",
+     "sensor-naust",
+     "cripta",
+     "tarea",
+     "entrada",
+     "salida",
+     "acuse",
+     "blanco",
+     "procedencia",
+     "canal",
+     "continuidad",
+     "ejecucion",
+     "consolidacion",
+     "ventana",
+     "r-1189",
+     "ce-k",
+     "diligencia-activo-critico",
+     "custodia-estrategica",
+     "rekonstruksjonsforhandling",
+     "midlertidig-forfoyning",
+     "kjennelse",
+     "deposito-judicial",
+     "suspension"
+    ]
+   },
+   "cap-40.md": {
+    "palabras": 1610,
+    "terminos_unicos": 15,
+    "ocurrencias": 24,
+    "unicos_por_1000": 9.3,
+    "ocurrencias_por_1000": 14.9,
+    "terminos": [
+     "nidhogg",
+     "norna",
+     "kystbrukslag",
+     "circuito-marino",
+     "sensor-naust",
+     "cripta",
+     "locutorio",
+     "entrada",
+     "salida",
+     "blanco",
+     "canal",
+     "validacion",
+     "continuidad",
+     "ejecucion",
+     "ventana"
+    ]
+   },
+   "cap-n6.md": {
+    "palabras": 1448,
+    "terminos_unicos": 4,
+    "ocurrencias": 5,
+    "unicos_por_1000": 2.8,
+    "ocurrencias_por_1000": 3.5,
+    "terminos": [
+     "kystbrukslag",
+     "ak-7",
+     "activo-memorial",
+     "servidumbre"
+    ]
+   },
+   "cap-41.md": {
+    "palabras": 704,
+    "terminos_unicos": 6,
+    "ocurrencias": 6,
+    "unicos_por_1000": 8.5,
+    "ocurrencias_por_1000": 8.5,
+    "terminos": [
+     "nidhogg",
+     "sensor-naust",
+     "rafaga",
+     "canal",
+     "umbral",
+     "deposito-judicial"
+    ]
+   }
+  }
+ },
+ "M2": {
+  "primera_aparicion": {
+   "speil": "cap-01.md",
+   "molde": "cap-01.md",
+   "edda": "cap-01.md",
+   "norna": "cap-01.md",
+   "entrada": "cap-01.md",
+   "lote": "cap-01.md",
+   "canal": "cap-01.md",
+   "validacion": "cap-01.md",
+   "firma-testimonio": "cap-01.md",
+   "r-1189": "cap-01.md",
+   "consentimiento": "cap-01.md",
+   "synvev": "cap-02.md",
+   "tarea": "cap-02.md",
+   "salida": "cap-02.md",
+   "rafaga": "cap-02.md",
+   "prioridad": "cap-02.md",
+   "higiene-sensorial": "cap-02.md",
+   "latencia": "cap-02.md",
+   "umbral": "cap-02.md",
+   "bienestar-edda": "cap-02.md",
+   "estabilidad": "cap-02.md",
+   "margen": "cap-03.md",
+   "llave-gunnar": "cap-04.md",
+   "jm-l": "cap-05.md",
+   "acuse": "cap-05.md",
+   "formulas-validacion": "cap-05.md",
+   "asignacion": "cap-05.md",
+   "blanco": "cap-05.md",
+   "ejecucion": "cap-05.md",
+   "ventana": "cap-05.md",
+   "categorias-salida": "cap-07.md",
+   "patron-adversarial": "cap-07.md",
+   "ventana-7c": "cap-08.md",
+   "procedencia": "cap-08.md",
+   "continuidad": "cap-08.md",
+   "modelo": "cap-08.md",
+   "ruta-educativa": "cap-09.md",
+   "objecion": "cap-10.md",
+   "suspension": "cap-10.md",
+   "cohorte": "cap-11.md",
+   "corpus-jm": "cap-11.md",
+   "matriz": "cap-11.md",
+   "argos": "cap-11.md",
+   "kronfjord": "cap-11.md",
+   "gobernanza-edda": "cap-11.md",
+   "instancia": "cap-11.md",
+   "ruta": "cap-11.md",
+   "fase-comun": "cap-11.md",
+   "documento-de-origen": "cap-11.md",
+   "preservacion-funcional": "cap-11.md",
+   "juicio-contextual": "cap-11.md",
+   "nidhogg": "cap-12.md",
+   "residuo-no-determinista": "cap-12.md",
+   "desviacion-pedagogica": "cap-13.md",
+   "reinicio": "cap-13.md",
+   "cesion-de-estado": "cap-13.md",
+   "fusion": "cap-13.md",
+   "apelacion": "cap-13.md",
+   "rama": "cap-13.md",
+   "criterios-consolidacion": "cap-13.md",
+   "custodia-estrategica": "cap-14.md",
+   "expediente-71-k": "cap-15.md",
+   "campo-secundario": "cap-15.md",
+   "resistencia-cognitiva": "cap-15.md",
+   "resolucion-r1189": "cap-15.md",
+   "kystbrukslag": "cap-16.md",
+   "ak-7": "cap-16.md",
+   "adcp": "cap-16.md",
+   "pluma-termica": "cap-16.md",
+   "hash": "cap-16.md",
+   "pasarela": "cap-16.md",
+   "plantilla": "cap-16.md",
+   "propiedad-intelectual": "cap-16.md",
+   "servidumbre": "cap-16.md",
+   "contencion": "cap-17.md",
+   "copia-supervision": "cap-17.md",
+   "tks": "cap-18.md",
+   "sincronizacion": "cap-18.md",
+   "geovalla": "cap-18.md",
+   "aegir": "cap-19.md",
+   "circuito-marino": "cap-19.md",
+   "banco-de-voz": "cap-19.md",
+   "galeria": "cap-19.md",
+   "friccion-cognitiva": "cap-19.md",
+   "compilacion": "cap-19.md",
+   "replicacion": "cap-19.md",
+   "ventana-reflexiva": "cap-19.md",
+   "anos-jm": "cap-19.md",
+   "ce-k": "cap-19.md",
+   "entorno-aislado": "cap-20.md",
+   "sujeto-cero": "cap-22.md",
+   "activo-memorial": "cap-23.md",
+   "hvelv": "cap-24.md",
+   "pki-hvelv": "cap-24.md",
+   "presencia-local": "cap-24.md",
+   "diligencia-activo-critico": "cap-24.md",
+   "candidatura": "cap-25.md",
+   "consolidacion": "cap-25.md",
+   "ladrillo": "cap-27.md",
+   "autoridad-fundacional": "cap-27.md",
+   "las-necesarias": "cap-29.md",
+   "tingrett": "cap-29.md",
+   "adhesion": "cap-30.md",
+   "papeleta": "cap-30.md",
+   "propagacion": "cap-30.md",
+   "repetidor": "cap-31.md",
+   "vinculacion": "cap-31.md",
+   "fail-secure": "cap-35.md",
+   "break-glass": "cap-37.md",
+   "respuesta-comun": "cap-38.md",
+   "sensor-naust": "cap-39.md",
+   "cripta": "cap-39.md",
+   "rekonstruksjonsforhandling": "cap-39.md",
+   "midlertidig-forfoyning": "cap-39.md",
+   "kjennelse": "cap-39.md",
+   "deposito-judicial": "cap-39.md",
+   "locutorio": "cap-40.md"
+  },
+  "por_capitulo": {
+   "cap-01.md": {
+    "terminos_nuevos": [
+     "speil",
+     "molde",
+     "edda",
+     "norna",
+     "entrada",
+     "lote",
+     "canal",
+     "validacion",
+     "firma-testimonio",
+     "r-1189",
+     "consentimiento"
+    ],
+    "mecanicas_nuevas": [
+     "entrada",
+     "lote",
+     "canal",
+     "validacion",
+     "firma-testimonio"
+    ],
+    "n_mecanicas_nuevas": 5
+   },
+   "cap-02.md": {
+    "terminos_nuevos": [
+     "synvev",
+     "tarea",
+     "salida",
+     "rafaga",
+     "prioridad",
+     "higiene-sensorial",
+     "latencia",
+     "umbral",
+     "bienestar-edda",
+     "estabilidad"
+    ],
+    "mecanicas_nuevas": [
+     "tarea",
+     "salida",
+     "rafaga",
+     "prioridad",
+     "higiene-sensorial",
+     "umbral",
+     "bienestar-edda"
+    ],
+    "n_mecanicas_nuevas": 7
+   },
+   "cap-03.md": {
+    "terminos_nuevos": [
+     "margen"
+    ],
+    "mecanicas_nuevas": [
+     "margen"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-04.md": {
+    "terminos_nuevos": [
+     "llave-gunnar"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-05.md": {
+    "terminos_nuevos": [
+     "jm-l",
+     "acuse",
+     "formulas-validacion",
+     "asignacion",
+     "blanco",
+     "ejecucion",
+     "ventana"
+    ],
+    "mecanicas_nuevas": [
+     "acuse",
+     "formulas-validacion",
+     "asignacion",
+     "blanco",
+     "ejecucion",
+     "ventana"
+    ],
+    "n_mecanicas_nuevas": 6
+   },
+   "cap-06.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-07.md": {
+    "terminos_nuevos": [
+     "categorias-salida",
+     "patron-adversarial"
+    ],
+    "mecanicas_nuevas": [
+     "categorias-salida",
+     "patron-adversarial"
+    ],
+    "n_mecanicas_nuevas": 2
+   },
+   "cap-n5.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-08.md": {
+    "terminos_nuevos": [
+     "ventana-7c",
+     "procedencia",
+     "continuidad",
+     "modelo"
+    ],
+    "mecanicas_nuevas": [
+     "procedencia",
+     "continuidad"
+    ],
+    "n_mecanicas_nuevas": 2
+   },
+   "cap-09.md": {
+    "terminos_nuevos": [
+     "ruta-educativa"
+    ],
+    "mecanicas_nuevas": [
+     "ruta-educativa"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-n1.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-10.md": {
+    "terminos_nuevos": [
+     "objecion",
+     "suspension"
+    ],
+    "mecanicas_nuevas": [
+     "objecion"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-11.md": {
+    "terminos_nuevos": [
+     "cohorte",
+     "corpus-jm",
+     "matriz",
+     "argos",
+     "kronfjord",
+     "gobernanza-edda",
+     "instancia",
+     "ruta",
+     "fase-comun",
+     "documento-de-origen",
+     "preservacion-funcional",
+     "juicio-contextual"
+    ],
+    "mecanicas_nuevas": [
+     "gobernanza-edda",
+     "instancia",
+     "ruta",
+     "fase-comun",
+     "juicio-contextual"
+    ],
+    "n_mecanicas_nuevas": 5
+   },
+   "cap-12.md": {
+    "terminos_nuevos": [
+     "nidhogg",
+     "residuo-no-determinista"
+    ],
+    "mecanicas_nuevas": [
+     "residuo-no-determinista"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-13.md": {
+    "terminos_nuevos": [
+     "desviacion-pedagogica",
+     "reinicio",
+     "cesion-de-estado",
+     "fusion",
+     "apelacion",
+     "rama",
+     "criterios-consolidacion"
+    ],
+    "mecanicas_nuevas": [
+     "desviacion-pedagogica",
+     "reinicio",
+     "cesion-de-estado",
+     "fusion",
+     "apelacion",
+     "rama",
+     "criterios-consolidacion"
+    ],
+    "n_mecanicas_nuevas": 7
+   },
+   "cap-14.md": {
+    "terminos_nuevos": [
+     "custodia-estrategica"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-15.md": {
+    "terminos_nuevos": [
+     "expediente-71-k",
+     "campo-secundario",
+     "resistencia-cognitiva",
+     "resolucion-r1189"
+    ],
+    "mecanicas_nuevas": [
+     "campo-secundario",
+     "resistencia-cognitiva"
+    ],
+    "n_mecanicas_nuevas": 2
+   },
+   "cap-16.md": {
+    "terminos_nuevos": [
+     "kystbrukslag",
+     "ak-7",
+     "adcp",
+     "pluma-termica",
+     "hash",
+     "pasarela",
+     "plantilla",
+     "propiedad-intelectual",
+     "servidumbre"
+    ],
+    "mecanicas_nuevas": [
+     "plantilla"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-n2.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-17.md": {
+    "terminos_nuevos": [
+     "contencion",
+     "copia-supervision"
+    ],
+    "mecanicas_nuevas": [
+     "contencion",
+     "copia-supervision"
+    ],
+    "n_mecanicas_nuevas": 2
+   },
+   "cap-18.md": {
+    "terminos_nuevos": [
+     "tks",
+     "sincronizacion",
+     "geovalla"
+    ],
+    "mecanicas_nuevas": [
+     "sincronizacion",
+     "geovalla"
+    ],
+    "n_mecanicas_nuevas": 2
+   },
+   "cap-19.md": {
+    "terminos_nuevos": [
+     "aegir",
+     "circuito-marino",
+     "banco-de-voz",
+     "galeria",
+     "friccion-cognitiva",
+     "compilacion",
+     "replicacion",
+     "ventana-reflexiva",
+     "anos-jm",
+     "ce-k"
+    ],
+    "mecanicas_nuevas": [
+     "compilacion",
+     "replicacion",
+     "ventana-reflexiva"
+    ],
+    "n_mecanicas_nuevas": 3
+   },
+   "cap-20.md": {
+    "terminos_nuevos": [
+     "entorno-aislado"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-21.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-22.md": {
+    "terminos_nuevos": [
+     "sujeto-cero"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-n3.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-23.md": {
+    "terminos_nuevos": [
+     "activo-memorial"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-24.md": {
+    "terminos_nuevos": [
+     "hvelv",
+     "pki-hvelv",
+     "presencia-local",
+     "diligencia-activo-critico"
+    ],
+    "mecanicas_nuevas": [
+     "presencia-local"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-25.md": {
+    "terminos_nuevos": [
+     "candidatura",
+     "consolidacion"
+    ],
+    "mecanicas_nuevas": [
+     "candidatura",
+     "consolidacion"
+    ],
+    "n_mecanicas_nuevas": 2
+   },
+   "cap-n4.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-26.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-27.md": {
+    "terminos_nuevos": [
+     "ladrillo",
+     "autoridad-fundacional"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-28.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-29.md": {
+    "terminos_nuevos": [
+     "las-necesarias",
+     "tingrett"
+    ],
+    "mecanicas_nuevas": [
+     "las-necesarias"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-30.md": {
+    "terminos_nuevos": [
+     "adhesion",
+     "papeleta",
+     "propagacion"
+    ],
+    "mecanicas_nuevas": [
+     "adhesion",
+     "papeleta",
+     "propagacion"
+    ],
+    "n_mecanicas_nuevas": 3
+   },
+   "cap-31.md": {
+    "terminos_nuevos": [
+     "repetidor",
+     "vinculacion"
+    ],
+    "mecanicas_nuevas": [
+     "vinculacion"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-32.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-33.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-34.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-35.md": {
+    "terminos_nuevos": [
+     "fail-secure"
+    ],
+    "mecanicas_nuevas": [
+     "fail-secure"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-36.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-37.md": {
+    "terminos_nuevos": [
+     "break-glass"
+    ],
+    "mecanicas_nuevas": [
+     "break-glass"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-38.md": {
+    "terminos_nuevos": [
+     "respuesta-comun"
+    ],
+    "mecanicas_nuevas": [
+     "respuesta-comun"
+    ],
+    "n_mecanicas_nuevas": 1
+   },
+   "cap-39.md": {
+    "terminos_nuevos": [
+     "sensor-naust",
+     "cripta",
+     "rekonstruksjonsforhandling",
+     "midlertidig-forfoyning",
+     "kjennelse",
+     "deposito-judicial"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-40.md": {
+    "terminos_nuevos": [
+     "locutorio"
+    ],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-n6.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   },
+   "cap-41.md": {
+    "terminos_nuevos": [],
+    "mecanicas_nuevas": [],
+    "n_mecanicas_nuevas": 0
+   }
+  }
+ },
+ "M3": {
+  "por_parte": {
+   "1": {
+    "palabras": 19925,
+    "familia": 7535,
+    "capitulos_familia": [
+     "cap-06.md",
+     "cap-09.md",
+     "cap-n1.md",
+     "cap-10.md"
+    ],
+    "pct_familia": 37.8
+   },
+   "2": {
+    "palabras": 19021,
+    "familia": 10554,
+    "capitulos_familia": [
+     "cap-12.md",
+     "cap-14.md",
+     "cap-16.md",
+     "cap-n2.md",
+     "cap-18.md",
+     "cap-20.md"
+    ],
+    "pct_familia": 55.5
+   },
+   "3": {
+    "palabras": 21973,
+    "familia": 11108,
+    "capitulos_familia": [
+     "cap-n3.md",
+     "cap-23.md",
+     "cap-24.md",
+     "cap-n4.md",
+     "cap-26.md",
+     "cap-28.md"
+    ],
+    "pct_familia": 50.6
+   },
+   "4": {
+    "palabras": 19369,
+    "familia": 8468,
+    "capitulos_familia": [
+     "cap-31.md",
+     "cap-33.md",
+     "cap-35.md",
+     "cap-37.md",
+     "cap-40.md",
+     "cap-41.md"
+    ],
+    "pct_familia": 43.7
+   }
+  },
+  "total_pct_familia": 46.9
+ },
+ "M4": {
+  "cierres_objeto": 29,
+  "cierres_registro": 10,
+  "hallazgos": [
+   {
+    "archivo": "cap-01.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "La corona se balanceó una sola vez en el gancho y quedó quieta.",
+    "parrafo": "La corona se balanceó una sola vez en el gancho y quedó quieta."
+   },
+   {
+    "archivo": "cap-04.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "La bolsa permaneció en el banco, casi vacía.",
+    "parrafo": "La bolsa permaneció en el banco, casi vacía."
+   },
+   {
+    "archivo": "cap-04.md",
+    "escena": 4,
+    "tipo": "cierre-objeto",
+    "texto": "La bisagra volvió a atascarse cuando intentó cerrar.",
+    "parrafo": "La bisagra volvió a atascarse cuando intentó cerrar."
+   },
+   {
+    "archivo": "cap-07.md",
+    "escena": 1,
+    "tipo": "cierre-registro",
+    "texto": "EVENTO SOCIAL — FUNERAL"
+   },
+   {
+    "archivo": "cap-09.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "La apagó otra vez.",
+    "parrafo": "Nora volvió a encender la pantalla. El nombre seguía allí, intacto, insoportable. La apagó otra vez."
+   },
+   {
+    "archivo": "cap-10.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "La plataforma la admitió al primer intento.",
+    "parrafo": "Luego terminó la tarea con una foto de la parada del autobús. La plataforma la admitió al primer intento."
+   },
+   {
+    "archivo": "cap-10.md",
+    "escena": 2,
+    "tipo": "cierre-registro",
+    "texto": "Su cuenta ha sido suspendida temporalmente por su seguridad."
+   },
+   {
+    "archivo": "cap-15.md",
+    "escena": 3,
+    "tipo": "cierre-objeto",
+    "texto": "La amenaza permanece dentro de la tarea y el contacto se extingue con la siguiente asignación.",
+    "parrafo": "La decisión principal de la apelación cruza. La amenaza permanece dentro de la tarea y el contacto se extingue con la siguiente asignación."
+   },
+   {
+    "archivo": "cap-15.md",
+    "escena": 4,
+    "tipo": "cierre-objeto",
+    "texto": "Ningún canal permite preguntar a la persona qué necesitaba hoy.",
+    "parrafo": "Debajo sigue el identificador 71-K. Ningún canal permite preguntar a la persona qué necesitaba hoy."
+   },
+   {
+    "archivo": "cap-15.md",
+    "escena": 5,
+    "tipo": "cierre-registro",
+    "texto": "Registro exterior inaccesible para Jean. Expediente presentado el 24 de noviembre en un dominio independiente de las tareas productivas.\nR-1"
+   },
+   {
+    "archivo": "cap-15.md",
+    "escena": 6,
+    "tipo": "cierre-registro",
+    "texto": "DURACIÓN ESTIMADA · NO DISPONIBLE"
+   },
+   {
+    "archivo": "cap-17.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "La apelación se cierra bajo JM-L/0188, con la voluntad de dañar a Armstrong atribuida a Cuchillo.",
+    "parrafo": "La apelación se cierra bajo JM-L/0188, con la voluntad de dañar a Armstrong atribuida a Cuchillo."
+   },
+   {
+    "archivo": "cap-17.md",
+    "escena": 3,
+    "tipo": "cierre-registro",
+    "texto": "COPIA_SUPERVISIÓN cambia de PENDIENTE a ACEPTADA."
+   },
+   {
+    "archivo": "cap-18.md",
+    "escena": 4,
+    "tipo": "cierre-objeto",
+    "texto": "En el segundo, justo debajo, parpadeaba el punto de AK-7.",
+    "parrafo": "Las coordenadas incompletas destellaban en el primer mapa. En el segundo, justo debajo, parpadeaba el punto de AK-7."
+   },
+   {
+    "archivo": "cap-21.md",
+    "escena": 1,
+    "tipo": "cierre-registro",
+    "texto": "ACEPTADA"
+   },
+   {
+    "archivo": "cap-22.md",
+    "escena": 4,
+    "tipo": "cierre-objeto",
+    "texto": "Su director la citaba para el día siguiente.",
+    "parrafo": "El terminal de Astrid vibró. Su director la citaba para el día siguiente."
+   },
+   {
+    "archivo": "cap-23.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "El temporizador perdió su primer segundo.",
+    "parrafo": "Maja pulsó el recuadro blanco. El temporizador perdió su primer segundo."
+   },
+   {
+    "archivo": "cap-23.md",
+    "escena": 2,
+    "tipo": "cierre-objeto",
+    "texto": "El temporizador marcaba algo menos de diecisiete minutos.",
+    "parrafo": "El temporizador marcaba algo menos de diecisiete minutos."
+   },
+   {
+    "archivo": "cap-25.md",
+    "escena": 3,
+    "tipo": "cierre-registro",
+    "texto": "ASIGNACIÓN · APELACIÓN"
+   },
+   {
+    "archivo": "cap-27.md",
+    "escena": 3,
+    "tipo": "cierre-objeto",
+    "texto": "La barrera permaneció inmóvil.",
+    "parrafo": "El lector encendió una luz roja. La barrera permaneció inmóvil."
+   },
+   {
+    "archivo": "cap-28.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "Después echó a correr hacia las escaleras.",
+    "parrafo": "Jessie barrió con el dedo un copo de azúcar del asiento, se lo comió y arrugó el envoltorio vacío. Después echó a correr hacia las escaleras."
+   },
+   {
+    "archivo": "cap-30.md",
+    "escena": 2,
+    "tipo": "cierre-objeto",
+    "texto": "En el centro, la fogata ajena sigue ardiendo sola.",
+    "parrafo": "En el centro, la fogata ajena sigue ardiendo sola."
+   },
+   {
+    "archivo": "cap-32.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "A las once tenía programada la sesión de accesibilidad en el estudio de la quinta planta.",
+    "parrafo": "EDDA selló la transcripción y devolvió un identificador. Mats lo guardó. A las once tenía programada la sesión de accesibilidad en el estudio de la quinta planta."
+   },
+   {
+    "archivo": "cap-33.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "En la tableta, el quinto hueco no volvió a abrirse.",
+    "parrafo": "En la tableta, el quinto hueco no volvió a abrirse."
+   },
+   {
+    "archivo": "cap-34.md",
+    "escena": 2,
+    "tipo": "cierre-objeto",
+    "texto": "Ya no necesitaba que las dos cosas resultasen compatibles.",
+    "parrafo": "En su terminal personal, la confesión seguía cifrada y preparada para salir. La autoridad fundacional permanecía fuera de aquel dispositivo. Podía dejar que Armstrong utilizase su cara durante la maña"
+   },
+   {
+    "archivo": "cap-34.md",
+    "escena": 3,
+    "tipo": "cierre-registro",
+    "texto": "FASE COMÚN · 12:47"
+   },
+   {
+    "archivo": "cap-34.md",
+    "escena": 6,
+    "tipo": "cierre-objeto",
+    "texto": "Ninguna confirmación llegó al Auditorio.",
+    "parrafo": "A las 12:38 comenzó la ventana pronosticada. La medición del ADCP decidiría allí, sobre el agua, si el grupo podía usarla. Ninguna confirmación llegó al Auditorio."
+   },
+   {
+    "archivo": "cap-34.md",
+    "escena": 7,
+    "tipo": "cierre-objeto",
+    "texto": "Su cobertura seguía registrada.",
+    "parrafo": "A las 12:46, la alarma local enlazó la petición exterior con INC-441. La indicación devolvió a Tomas al mismo lector de servicio. Su cobertura seguía registrada."
+   },
+   {
+    "archivo": "cap-36.md",
+    "escena": 2,
+    "tipo": "cierre-registro",
+    "texto": "RECHAZAR"
+   },
+   {
+    "archivo": "cap-36.md",
+    "escena": 4,
+    "tipo": "cierre-registro",
+    "texto": "NO AMENAZA"
+   },
+   {
+    "archivo": "cap-37.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "La pantalla dejó de seguir el guion.",
+    "parrafo": "La pantalla dejó de seguir el guion."
+   },
+   {
+    "archivo": "cap-37.md",
+    "escena": 2,
+    "tipo": "cierre-objeto",
+    "texto": "La salida cruzó.",
+    "parrafo": "La salida cruzó."
+   },
+   {
+    "archivo": "cap-37.md",
+    "escena": 3,
+    "tipo": "cierre-objeto",
+    "texto": "Después el mar volvió a cubrirla.",
+    "parrafo": "La voz de Jean regresó por el altavoz, deformada por la distancia. Maja distinguió una pausa. Después el mar volvió a cubrirla."
+   },
+   {
+    "archivo": "cap-38.md",
+    "escena": 5,
+    "tipo": "cierre-objeto",
+    "texto": "Su negativa queda fuera.",
+    "parrafo": "Cierro la ventana de /0311 sin añadir nada. Su negativa queda fuera."
+   },
+   {
+    "archivo": "cap-39.md",
+    "escena": 3,
+    "tipo": "cierre-objeto",
+    "texto": "Al otro lado siguieron zumbando las bombas.",
+    "parrafo": "Al otro lado siguieron zumbando las bombas."
+   },
+   {
+    "archivo": "cap-40.md",
+    "escena": 3,
+    "tipo": "cierre-objeto",
+    "texto": "La lente encuadraba un fragmento del muelle y el cable desaparecía en el transmisor precintado.",
+    "parrafo": "Desde el embarcadero se distinguía la carcasa del sensor judicial bajo el alero del naust. La lente encuadraba un fragmento del muelle y el cable desaparecía en el transmisor precintado."
+   },
+   {
+    "archivo": "cap-40.md",
+    "escena": 4,
+    "tipo": "cierre-objeto",
+    "texto": "Después marcó «asistiré» en la convocatoria del día siguiente.",
+    "parrafo": "En la convocatoria aparecían los otros tres nombres y una lista de pasajes que todavía no habían logrado tocar sin detenerse. Nora apoyó el terminal judicial junto al cajón, cerró la funda y la dejó e"
+   },
+   {
+    "archivo": "cap-n6.md",
+    "escena": 3,
+    "tipo": "cierre-objeto",
+    "texto": "La cajera dobló el recibo y saludó por su nombre al hombre que esperaba detrás.",
+    "parrafo": "Aslak pagó justo. La cajera dobló el recibo y saludó por su nombre al hombre que esperaba detrás."
+   },
+   {
+    "archivo": "cap-41.md",
+    "escena": 1,
+    "tipo": "cierre-objeto",
+    "texto": "La puerta rozó una vez más antes de cerrar.",
+    "parrafo": "La puerta rozó una vez más antes de cerrar."
+   }
+  ]
+ },
+ "M5": {
+  "cap-01.md": {
+   "palabras": 746,
+   "escenas": 1,
+   "parrafos": 36,
+   "pct_dialogo": 7.4,
+   "pct_registro": 4.3,
+   "frase_media": 11.4,
+   "pct_frases_cortas_le6": 20.7,
+   "pct_frases_largas_ge25": 1.7,
+   "max_tramo_sin_dialogo": 325,
+   "max_tramo_escena": 325,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-02.md": {
+   "palabras": 1730,
+   "escenas": 1,
+   "parrafos": 106,
+   "pct_dialogo": 25.4,
+   "pct_registro": 0.0,
+   "frase_media": 10.0,
+   "pct_frases_cortas_le6": 37.2,
+   "pct_frases_largas_ge25": 3.1,
+   "max_tramo_sin_dialogo": 485,
+   "max_tramo_escena": 485,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-03.md": {
+   "palabras": 2102,
+   "escenas": 1,
+   "parrafos": 180,
+   "pct_dialogo": 40.8,
+   "pct_registro": 0.0,
+   "frase_media": 9.4,
+   "pct_frases_cortas_le6": 37.1,
+   "pct_frases_largas_ge25": 2.3,
+   "max_tramo_sin_dialogo": 96,
+   "max_tramo_escena": 96,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-04.md": {
+   "palabras": 1501,
+   "escenas": 4,
+   "parrafos": 52,
+   "pct_dialogo": 3.2,
+   "pct_registro": 0.0,
+   "frase_media": 11.4,
+   "pct_frases_cortas_le6": 23.6,
+   "pct_frases_largas_ge25": 2.4,
+   "max_tramo_sin_dialogo": 627,
+   "max_tramo_escena": 513,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-05.md": {
+   "palabras": 1782,
+   "escenas": 1,
+   "parrafos": 115,
+   "pct_dialogo": 11.0,
+   "pct_registro": 0.4,
+   "frase_media": 8.3,
+   "pct_frases_cortas_le6": 43.2,
+   "pct_frases_largas_ge25": 0.5,
+   "max_tramo_sin_dialogo": 200,
+   "max_tramo_escena": 200,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-06.md": {
+   "palabras": 2172,
+   "escenas": 3,
+   "parrafos": 148,
+   "pct_dialogo": 23.9,
+   "pct_registro": 0.0,
+   "frase_media": 9.1,
+   "pct_frases_cortas_le6": 33.5,
+   "pct_frases_largas_ge25": 0.5,
+   "max_tramo_sin_dialogo": 188,
+   "max_tramo_escena": 138,
+   "parte": 1,
+   "pov": "Maja"
+  },
+  "cap-07.md": {
+   "palabras": 1690,
+   "escenas": 1,
+   "parrafos": 113,
+   "pct_dialogo": 7.2,
+   "pct_registro": 0.7,
+   "frase_media": 8.2,
+   "pct_frases_cortas_le6": 41.8,
+   "pct_frases_largas_ge25": 0.5,
+   "max_tramo_sin_dialogo": 308,
+   "max_tramo_escena": 308,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-n5.md": {
+   "palabras": 1822,
+   "escenas": 1,
+   "parrafos": 134,
+   "pct_dialogo": 10.4,
+   "pct_registro": 0.8,
+   "frase_media": 8.2,
+   "pct_frases_cortas_le6": 41.9,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 330,
+   "max_tramo_escena": 330,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-08.md": {
+   "palabras": 1017,
+   "escenas": 1,
+   "parrafos": 39,
+   "pct_dialogo": 0.9,
+   "pct_registro": 1.1,
+   "frase_media": 8.4,
+   "pct_frases_cortas_le6": 44.1,
+   "pct_frases_largas_ge25": 1.7,
+   "max_tramo_sin_dialogo": 1008,
+   "max_tramo_escena": 1008,
+   "parte": 1,
+   "pov": "Jean"
+  },
+  "cap-09.md": {
+   "palabras": 1861,
+   "escenas": 4,
+   "parrafos": 126,
+   "pct_dialogo": 27.2,
+   "pct_registro": 1.1,
+   "frase_media": 10.4,
+   "pct_frases_cortas_le6": 35.2,
+   "pct_frases_largas_ge25": 4.7,
+   "max_tramo_sin_dialogo": 257,
+   "max_tramo_escena": 257,
+   "parte": 1,
+   "pov": "Nora"
+  },
+  "cap-n1.md": {
+   "palabras": 2065,
+   "escenas": 3,
+   "parrafos": 210,
+   "pct_dialogo": 40.5,
+   "pct_registro": 0.0,
+   "frase_media": 10.1,
+   "pct_frases_cortas_le6": 24.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 167,
+   "max_tramo_escena": 167,
+   "parte": 1,
+   "pov": "Maja"
+  },
+  "cap-10.md": {
+   "palabras": 1437,
+   "escenas": 2,
+   "parrafos": 100,
+   "pct_dialogo": 22.3,
+   "pct_registro": 5.0,
+   "frase_media": 10.0,
+   "pct_frases_cortas_le6": 27.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 444,
+   "max_tramo_escena": 336,
+   "parte": 1,
+   "pov": "Nora"
+  },
+  "cap-11.md": {
+   "palabras": 2049,
+   "escenas": 1,
+   "parrafos": 154,
+   "pct_dialogo": 40.3,
+   "pct_registro": 0.0,
+   "frase_media": 8.9,
+   "pct_frases_cortas_le6": 39.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 216,
+   "max_tramo_escena": 216,
+   "parte": 2,
+   "pov": "Alana"
+  },
+  "cap-12.md": {
+   "palabras": 2032,
+   "escenas": 3,
+   "parrafos": 154,
+   "pct_dialogo": 31.4,
+   "pct_registro": 0.5,
+   "frase_media": 10.6,
+   "pct_frases_cortas_le6": 24.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 209,
+   "max_tramo_escena": 209,
+   "parte": 2,
+   "pov": "Nora"
+  },
+  "cap-13.md": {
+   "palabras": 1655,
+   "escenas": 5,
+   "parrafos": 141,
+   "pct_dialogo": 22.1,
+   "pct_registro": 2.1,
+   "frase_media": 8.5,
+   "pct_frases_cortas_le6": 35.4,
+   "pct_frases_largas_ge25": 0.7,
+   "max_tramo_sin_dialogo": 237,
+   "max_tramo_escena": 207,
+   "parte": 2,
+   "pov": "Jean"
+  },
+  "cap-14.md": {
+   "palabras": 1756,
+   "escenas": 1,
+   "parrafos": 173,
+   "pct_dialogo": 58.7,
+   "pct_registro": 0.0,
+   "frase_media": 9.3,
+   "pct_frases_cortas_le6": 29.5,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 73,
+   "max_tramo_escena": 73,
+   "parte": 2,
+   "pov": "Maja"
+  },
+  "cap-15.md": {
+   "palabras": 1299,
+   "escenas": 6,
+   "parrafos": 107,
+   "pct_dialogo": 9.0,
+   "pct_registro": 5.9,
+   "frase_media": 9.1,
+   "pct_frases_cortas_le6": 33.9,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 602,
+   "max_tramo_escena": 313,
+   "parte": 2,
+   "pov": "Jean"
+  },
+  "cap-16.md": {
+   "palabras": 1871,
+   "escenas": 4,
+   "parrafos": 122,
+   "pct_dialogo": 33.7,
+   "pct_registro": 0.0,
+   "frase_media": 9.7,
+   "pct_frases_cortas_le6": 26.6,
+   "pct_frases_largas_ge25": 0.8,
+   "max_tramo_sin_dialogo": 473,
+   "max_tramo_escena": 424,
+   "parte": 2,
+   "pov": "Maja"
+  },
+  "cap-n2.md": {
+   "palabras": 1687,
+   "escenas": 4,
+   "parrafos": 148,
+   "pct_dialogo": 29.4,
+   "pct_registro": 0.4,
+   "frase_media": 10.1,
+   "pct_frases_cortas_le6": 30.8,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 183,
+   "max_tramo_escena": 133,
+   "parte": 2,
+   "pov": "Nora → Jessie"
+  },
+  "cap-17.md": {
+   "palabras": 844,
+   "escenas": 3,
+   "parrafos": 88,
+   "pct_dialogo": 21.3,
+   "pct_registro": 2.8,
+   "frase_media": 9.3,
+   "pct_frases_cortas_le6": 29.0,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 186,
+   "max_tramo_escena": 186,
+   "parte": 2,
+   "pov": "Jean"
+  },
+  "cap-18.md": {
+   "palabras": 2161,
+   "escenas": 4,
+   "parrafos": 137,
+   "pct_dialogo": 30.6,
+   "pct_registro": 0.0,
+   "frase_media": 10.6,
+   "pct_frases_cortas_le6": 28.4,
+   "pct_frases_largas_ge25": 1.4,
+   "max_tramo_sin_dialogo": 182,
+   "max_tramo_escena": 182,
+   "parte": 2,
+   "pov": "Nora"
+  },
+  "cap-19.md": {
+   "palabras": 2174,
+   "escenas": 3,
+   "parrafos": 128,
+   "pct_dialogo": 22.6,
+   "pct_registro": 1.1,
+   "frase_media": 10.2,
+   "pct_frases_cortas_le6": 27.6,
+   "pct_frases_largas_ge25": 1.8,
+   "max_tramo_sin_dialogo": 222,
+   "max_tramo_escena": 222,
+   "parte": 2,
+   "pov": "Alana"
+  },
+  "cap-20.md": {
+   "palabras": 1493,
+   "escenas": 3,
+   "parrafos": 144,
+   "pct_dialogo": 43.1,
+   "pct_registro": 0.0,
+   "frase_media": 8.8,
+   "pct_frases_cortas_le6": 43.3,
+   "pct_frases_largas_ge25": 2.1,
+   "max_tramo_sin_dialogo": 224,
+   "max_tramo_escena": 224,
+   "parte": 2,
+   "pov": "Alana → Maja → Nora"
+  },
+  "cap-21.md": {
+   "palabras": 736,
+   "escenas": 2,
+   "parrafos": 71,
+   "pct_dialogo": 15.9,
+   "pct_registro": 3.9,
+   "frase_media": 8.8,
+   "pct_frases_cortas_le6": 35.8,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 231,
+   "max_tramo_escena": 123,
+   "parte": 3,
+   "pov": "Jean"
+  },
+  "cap-22.md": {
+   "palabras": 1812,
+   "escenas": 5,
+   "parrafos": 109,
+   "pct_dialogo": 31.2,
+   "pct_registro": 0.0,
+   "frase_media": 11.9,
+   "pct_frases_cortas_le6": 23.8,
+   "pct_frases_largas_ge25": 5.7,
+   "max_tramo_sin_dialogo": 376,
+   "max_tramo_escena": 262,
+   "parte": 3,
+   "pov": "Astrid"
+  },
+  "cap-n3.md": {
+   "palabras": 2824,
+   "escenas": 5,
+   "parrafos": 229,
+   "pct_dialogo": 22.9,
+   "pct_registro": 0.0,
+   "frase_media": 9.5,
+   "pct_frases_cortas_le6": 29.3,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 348,
+   "max_tramo_escena": 336,
+   "parte": 3,
+   "pov": "Maja"
+  },
+  "cap-23.md": {
+   "palabras": 1847,
+   "escenas": 4,
+   "parrafos": 147,
+   "pct_dialogo": 32.9,
+   "pct_registro": 2.3,
+   "frase_media": 8.7,
+   "pct_frases_cortas_le6": 42.8,
+   "pct_frases_largas_ge25": 1.4,
+   "max_tramo_sin_dialogo": 142,
+   "max_tramo_escena": 136,
+   "parte": 3,
+   "pov": "Nora"
+  },
+  "cap-24.md": {
+   "palabras": 1826,
+   "escenas": 6,
+   "parrafos": 99,
+   "pct_dialogo": 20.4,
+   "pct_registro": 0.2,
+   "frase_media": 11.3,
+   "pct_frases_cortas_le6": 18.0,
+   "pct_frases_largas_ge25": 1.6,
+   "max_tramo_sin_dialogo": 247,
+   "max_tramo_escena": 197,
+   "parte": 3,
+   "pov": "Tomas → Jessie → Tomas"
+  },
+  "cap-25.md": {
+   "palabras": 1741,
+   "escenas": 3,
+   "parrafos": 150,
+   "pct_dialogo": 17.2,
+   "pct_registro": 4.5,
+   "frase_media": 8.3,
+   "pct_frases_cortas_le6": 40.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 772,
+   "max_tramo_escena": 772,
+   "parte": 3,
+   "pov": "Jean (interior)"
+  },
+  "cap-n4.md": {
+   "palabras": 2878,
+   "escenas": 5,
+   "parrafos": 229,
+   "pct_dialogo": 30.0,
+   "pct_registro": 1.5,
+   "frase_media": 10.3,
+   "pct_frases_cortas_le6": 31.4,
+   "pct_frases_largas_ge25": 1.6,
+   "max_tramo_sin_dialogo": 222,
+   "max_tramo_escena": 222,
+   "parte": 3,
+   "pov": "Nora → Maja → Jessie → Jean → Maja"
+  },
+  "cap-26.md": {
+   "palabras": 1772,
+   "escenas": 1,
+   "parrafos": 90,
+   "pct_dialogo": 31.2,
+   "pct_registro": 0.0,
+   "frase_media": 12.0,
+   "pct_frases_cortas_le6": 17.6,
+   "pct_frases_largas_ge25": 2.0,
+   "max_tramo_sin_dialogo": 190,
+   "max_tramo_escena": 190,
+   "parte": 3,
+   "pov": "Maja"
+  },
+  "cap-27.md": {
+   "palabras": 1889,
+   "escenas": 3,
+   "parrafos": 98,
+   "pct_dialogo": 20.0,
+   "pct_registro": 3.5,
+   "frase_media": 10.2,
+   "pct_frases_cortas_le6": 31.9,
+   "pct_frases_largas_ge25": 0.7,
+   "max_tramo_sin_dialogo": 482,
+   "max_tramo_escena": 482,
+   "parte": 3,
+   "pov": "Alana"
+  },
+  "cap-28.md": {
+   "palabras": 1661,
+   "escenas": 4,
+   "parrafos": 106,
+   "pct_dialogo": 27.2,
+   "pct_registro": 0.0,
+   "frase_media": 9.7,
+   "pct_frases_cortas_le6": 29.6,
+   "pct_frases_largas_ge25": 0.8,
+   "max_tramo_sin_dialogo": 121,
+   "max_tramo_escena": 104,
+   "parte": 3,
+   "pov": "Nora"
+  },
+  "cap-29.md": {
+   "palabras": 1416,
+   "escenas": 5,
+   "parrafos": 104,
+   "pct_dialogo": 54.2,
+   "pct_registro": 0.0,
+   "frase_media": 9.5,
+   "pct_frases_cortas_le6": 27.9,
+   "pct_frases_largas_ge25": 1.5,
+   "max_tramo_sin_dialogo": 133,
+   "max_tramo_escena": 109,
+   "parte": 3,
+   "pov": "Astrid"
+  },
+  "cap-30.md": {
+   "palabras": 1571,
+   "escenas": 2,
+   "parrafos": 122,
+   "pct_dialogo": 21.1,
+   "pct_registro": 2.7,
+   "frase_media": 8.7,
+   "pct_frases_cortas_le6": 37.2,
+   "pct_frases_largas_ge25": 1.5,
+   "max_tramo_sin_dialogo": 315,
+   "max_tramo_escena": 315,
+   "parte": 3,
+   "pov": "Jean"
+  },
+  "cap-31.md": {
+   "palabras": 1613,
+   "escenas": 1,
+   "parrafos": 128,
+   "pct_dialogo": 51.8,
+   "pct_registro": 4.2,
+   "frase_media": 9.2,
+   "pct_frases_cortas_le6": 31.2,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 72,
+   "max_tramo_escena": 72,
+   "parte": 4,
+   "pov": "Nora"
+  },
+  "cap-32.md": {
+   "palabras": 1753,
+   "escenas": 3,
+   "parrafos": 97,
+   "pct_dialogo": 17.0,
+   "pct_registro": 1.1,
+   "frase_media": 9.8,
+   "pct_frases_cortas_le6": 34.9,
+   "pct_frases_largas_ge25": 2.7,
+   "max_tramo_sin_dialogo": 339,
+   "max_tramo_escena": 339,
+   "parte": 4,
+   "pov": "Mats"
+  },
+  "cap-33.md": {
+   "palabras": 1648,
+   "escenas": 1,
+   "parrafos": 113,
+   "pct_dialogo": 34.6,
+   "pct_registro": 0.0,
+   "frase_media": 11.0,
+   "pct_frases_cortas_le6": 18.4,
+   "pct_frases_largas_ge25": 4.1,
+   "max_tramo_sin_dialogo": 134,
+   "max_tramo_escena": 134,
+   "parte": 4,
+   "pov": "Maja"
+  },
+  "cap-34.md": {
+   "palabras": 2267,
+   "escenas": 8,
+   "parrafos": 142,
+   "pct_dialogo": 14.8,
+   "pct_registro": 3.6,
+   "frase_media": 11.2,
+   "pct_frases_cortas_le6": 20.0,
+   "pct_frases_largas_ge25": 0.6,
+   "max_tramo_sin_dialogo": 469,
+   "max_tramo_escena": 329,
+   "parte": 4,
+   "pov": "Tomas → Alana → Astrid → Tomas → Alana"
+  },
+  "cap-35.md": {
+   "palabras": 1832,
+   "escenas": 1,
+   "parrafos": 133,
+   "pct_dialogo": 12.2,
+   "pct_registro": 4.7,
+   "frase_media": 9.5,
+   "pct_frases_cortas_le6": 35.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 228,
+   "max_tramo_escena": 228,
+   "parte": 4,
+   "pov": "Jessie"
+  },
+  "cap-36.md": {
+   "palabras": 1190,
+   "escenas": 4,
+   "parrafos": 95,
+   "pct_dialogo": 10.1,
+   "pct_registro": 3.1,
+   "frase_media": 9.6,
+   "pct_frases_cortas_le6": 30.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 226,
+   "max_tramo_escena": 226,
+   "parte": 4,
+   "pov": "Jean Marie Larsson"
+  },
+  "cap-37.md": {
+   "palabras": 2234,
+   "escenas": 4,
+   "parrafos": 103,
+   "pct_dialogo": 7.9,
+   "pct_registro": 0.5,
+   "frase_media": 11.0,
+   "pct_frases_cortas_le6": 26.7,
+   "pct_frases_largas_ge25": 2.1,
+   "max_tramo_sin_dialogo": 385,
+   "max_tramo_escena": 385,
+   "parte": 4,
+   "pov": "Nora → Jean → Maja → Astrid"
+  },
+  "cap-38.md": {
+   "palabras": 1380,
+   "escenas": 7,
+   "parrafos": 96,
+   "pct_dialogo": 4.5,
+   "pct_registro": 2.5,
+   "frase_media": 9.7,
+   "pct_frases_cortas_le6": 32.6,
+   "pct_frases_largas_ge25": 1.5,
+   "max_tramo_sin_dialogo": 418,
+   "max_tramo_escena": 281,
+   "parte": 4,
+   "pov": "Jean"
+  },
+  "cap-39.md": {
+   "palabras": 1690,
+   "escenas": 3,
+   "parrafos": 102,
+   "pct_dialogo": 22.4,
+   "pct_registro": 0.0,
+   "frase_media": 10.6,
+   "pct_frases_cortas_le6": 22.6,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 223,
+   "max_tramo_escena": 223,
+   "parte": 4,
+   "pov": "Astrid"
+  },
+  "cap-40.md": {
+   "palabras": 1610,
+   "escenas": 4,
+   "parrafos": 83,
+   "pct_dialogo": 8.6,
+   "pct_registro": 0.2,
+   "frase_media": 10.7,
+   "pct_frases_cortas_le6": 27.0,
+   "pct_frases_largas_ge25": 1.5,
+   "max_tramo_sin_dialogo": 272,
+   "max_tramo_escena": 204,
+   "parte": 4,
+   "pov": "Nora"
+  },
+  "cap-n6.md": {
+   "palabras": 1448,
+   "escenas": 4,
+   "parrafos": 118,
+   "pct_dialogo": 31.9,
+   "pct_registro": 0.5,
+   "frase_media": 9.5,
+   "pct_frases_cortas_le6": 29.1,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 239,
+   "max_tramo_escena": 239,
+   "parte": 4,
+   "pov": "Aslak"
+  },
+  "cap-41.md": {
+   "palabras": 704,
+   "escenas": 1,
+   "parrafos": 48,
+   "pct_dialogo": 10.1,
+   "pct_registro": 0.0,
+   "frase_media": 10.2,
+   "pct_frases_cortas_le6": 24.2,
+   "pct_frases_largas_ge25": 0.0,
+   "max_tramo_sin_dialogo": 270,
+   "max_tramo_escena": 270,
+   "parte": 4,
+   "pov": "Nora"
+  }
+ },
+ "M6": {
+  "replicas_atribuidas": 377,
+  "replicas_usadas": 349,
+  "hablantes": {
+   "Alana": 45,
+   "Aslak": 13,
+   "Astrid": 16,
+   "EDDA": 12,
+   "Jean": 29,
+   "Jessie": 70,
+   "Maja": 83,
+   "Mats": 16,
+   "Nora": 65
+  },
+  "acierto": 27.2,
+  "acierto_por_hablante": {
+   "Alana": 22.2,
+   "Aslak": 0.0,
+   "Astrid": 6.2,
+   "EDDA": 25.0,
+   "Jean": 3.4,
+   "Jessie": 31.4,
+   "Maja": 42.2,
+   "Mats": 0.0,
+   "Nora": 35.4
+  },
+  "confusiones_top": [
+   "Maja→Nora: 27",
+   "Jessie→Maja: 24",
+   "Nora→Jessie: 18",
+   "Nora→Maja: 18",
+   "Maja→Jessie: 16",
+   "Jessie→Nora: 14",
+   "Alana→Jessie: 11",
+   "Jean→Nora: 9"
+  ],
+  "pares": {
+   "Nora/Jessie": 57.0,
+   "Astrid/Maja": 60.6,
+   "Astrid/Alana": 32.8,
+   "Maja/Alana": 72.7,
+   "Maja/Nora": 61.5,
+   "Maja/Jessie": 58.8
+  },
+  "nota": "clasificador NB multinomial (unigramas+bigramas+rasgos de estilo), leave-one-out, solo réplicas con atribución explícita"
+ },
+ "M7": {
+  "errores": [],
+  "avisos": [],
+  "horas_climax": {
+   "12:38": [
+    "cap-31.md",
+    "cap-34.md",
+    "cap-35.md"
+   ],
+   "12:46:01": [
+    "cap-35.md"
+   ],
+   "12:46:50": [
+    "cap-34.md",
+    "cap-35.md"
+   ],
+   "12:47": [
+    "cap-34.md",
+    "cap-35.md"
+   ],
+   "13:07": [
+    "cap-37.md"
+   ],
+   "13:11": [
+    "cap-38.md"
+   ]
+  },
+  "cifras_cohorte": {
+   "0000": 3,
+   "4.095": 3,
+   "0188": 1,
+   "2061": 1,
+   "0311": 1,
+   "597": 3,
+   "2.911": 1,
+   "2.311": 1,
+   "1189": 1,
+   "4.096": 1,
+   "1.185": 1
+  },
+  "cifras_sospechosas": [
+   "cap-11.md: «0000» junto a «orígenes»",
+   "cap-15.md: «0188» junto a «origen»",
+   "cap-15.md: «0000» junto a «continuidades»",
+   "cap-29.md: «2061» junto a «rutas»",
+   "cap-36.md: «0311» junto a «ruta»",
+   "cap-38.md: «0000» junto a «ruta»",
+   "cap-39.md: «1189» junto a «filas»"
+  ],
+  "inventario_fechas_prosa": {
+   "cap-01.md": {
+    "fechas": [],
+    "años": [
+     "2060"
+    ]
+   },
+   "cap-02.md": {
+    "fechas": [],
+    "años": [
+     "2058"
+    ]
+   },
+   "cap-06.md": {
+    "fechas": [],
+    "años": [
+     "2059"
+    ]
+   },
+   "cap-07.md": {
+    "fechas": [],
+    "años": [
+     "2060"
+    ]
+   },
+   "cap-10.md": {
+    "fechas": [],
+    "años": [
+     "2060"
+    ]
+   },
+   "cap-11.md": {
+    "fechas": [
+     "26 noviembre",
+     "27 noviembre",
+     "21 enero 2061",
+     "21 enero",
+     "21 enero",
+     "11 diciembre"
+    ],
+    "años": [
+     "2060",
+     "2061"
+    ]
+   },
+   "cap-15.md": {
+    "fechas": [
+     "24 noviembre"
+    ],
+    "años": [
+     "2060"
+    ]
+   },
+   "cap-16.md": {
+    "fechas": [
+     "14 diciembre",
+     "15 diciembre"
+    ],
+    "años": [
+     "2057",
+     "2058",
+     "2059"
+    ]
+   },
+   "cap-18.md": {
+    "fechas": [
+     "9 diciembre"
+    ],
+    "años": []
+   },
+   "cap-22.md": {
+    "fechas": [
+     "28 diciembre"
+    ],
+    "años": [
+     "2054"
+    ]
+   },
+   "cap-n3.md": {
+    "fechas": [],
+    "años": [
+     "2059"
+    ]
+   },
+   "cap-24.md": {
+    "fechas": [
+     "16 diciembre"
+    ],
+    "años": []
+   },
+   "cap-25.md": {
+    "fechas": [
+     "12 diciembre"
+    ],
+    "años": [
+     "2060",
+     "2061"
+    ]
+   },
+   "cap-n4.md": {
+    "fechas": [
+     "3 enero",
+     "3 enero"
+    ],
+    "años": [
+     "2061"
+    ]
+   },
+   "cap-26.md": {
+    "fechas": [],
+    "años": [
+     "2057"
+    ]
+   },
+   "cap-27.md": {
+    "fechas": [],
+    "años": [
+     "2060"
+    ]
+   },
+   "cap-29.md": {
+    "fechas": [
+     "21 enero"
+    ],
+    "años": [
+     "2054",
+     "2061"
+    ]
+   },
+   "cap-31.md": {
+    "fechas": [],
+    "años": [
+     "2061"
+    ]
+   },
+   "cap-32.md": {
+    "fechas": [],
+    "años": [
+     "2059",
+     "2061"
+    ]
+   },
+   "cap-33.md": {
+    "fechas": [],
+    "años": [
+     "2059"
+    ]
+   },
+   "cap-34.md": {
+    "fechas": [
+     "9 enero"
+    ],
+    "años": []
+   },
+   "cap-39.md": {
+    "fechas": [
+     "22 enero",
+     "27 enero",
+     "2 febrero"
+    ],
+    "años": []
+   },
+   "cap-n6.md": {
+    "fechas": [],
+    "años": [
+     "2057"
+    ]
+   },
+   "cap-41.md": {
+    "fechas": [
+     "21 enero 2062"
+    ],
+    "años": [
+     "2062"
+    ]
+   }
+  }
+ },
+ "M8": {
+  "total": 80288,
+  "objetivo": 81000,
+  "banda": [
+   80000,
+   82000
+  ],
+  "en_banda": true,
+  "suma_presupuestos": 82650,
+  "por_capitulo": {
+   "cap-01.md": {
+    "real": 746,
+    "presupuesto": 746,
+    "delta": 0
+   },
+   "cap-02.md": {
+    "real": 1730,
+    "presupuesto": 1768,
+    "delta": -38
+   },
+   "cap-03.md": {
+    "real": 2102,
+    "presupuesto": 2102,
+    "delta": 0
+   },
+   "cap-04.md": {
+    "real": 1501,
+    "presupuesto": 1501,
+    "delta": 0
+   },
+   "cap-05.md": {
+    "real": 1782,
+    "presupuesto": 1782,
+    "delta": 0
+   },
+   "cap-06.md": {
+    "real": 2172,
+    "presupuesto": 2221,
+    "delta": -49
+   },
+   "cap-07.md": {
+    "real": 1690,
+    "presupuesto": 1710,
+    "delta": -20
+   },
+   "cap-n5.md": {
+    "real": 1822,
+    "presupuesto": 1900,
+    "delta": -78
+   },
+   "cap-08.md": {
+    "real": 1017,
+    "presupuesto": 967,
+    "delta": 50
+   },
+   "cap-09.md": {
+    "real": 1861,
+    "presupuesto": 1861,
+    "delta": 0
+   },
+   "cap-n1.md": {
+    "real": 2065,
+    "presupuesto": 2200,
+    "delta": -135
+   },
+   "cap-10.md": {
+    "real": 1437,
+    "presupuesto": 1441,
+    "delta": -4
+   },
+   "cap-11.md": {
+    "real": 2049,
+    "presupuesto": 2068,
+    "delta": -19
+   },
+   "cap-12.md": {
+    "real": 2032,
+    "presupuesto": 2046,
+    "delta": -14
+   },
+   "cap-13.md": {
+    "real": 1655,
+    "presupuesto": 1606,
+    "delta": 49
+   },
+   "cap-14.md": {
+    "real": 1756,
+    "presupuesto": 1803,
+    "delta": -47
+   },
+   "cap-15.md": {
+    "real": 1299,
+    "presupuesto": 1335,
+    "delta": -36
+   },
+   "cap-16.md": {
+    "real": 1871,
+    "presupuesto": 1908,
+    "delta": -37
+   },
+   "cap-n2.md": {
+    "real": 1687,
+    "presupuesto": 2000,
+    "delta": -313
+   },
+   "cap-17.md": {
+    "real": 844,
+    "presupuesto": 850,
+    "delta": -6
+   },
+   "cap-18.md": {
+    "real": 2161,
+    "presupuesto": 2180,
+    "delta": -19
+   },
+   "cap-19.md": {
+    "real": 2174,
+    "presupuesto": 2166,
+    "delta": 8
+   },
+   "cap-20.md": {
+    "real": 1493,
+    "presupuesto": 1493,
+    "delta": 0
+   },
+   "cap-21.md": {
+    "real": 736,
+    "presupuesto": 707,
+    "delta": 29
+   },
+   "cap-22.md": {
+    "real": 1812,
+    "presupuesto": 1749,
+    "delta": 63
+   },
+   "cap-n3.md": {
+    "real": 2824,
+    "presupuesto": 3500,
+    "delta": -676
+   },
+   "cap-23.md": {
+    "real": 1847,
+    "presupuesto": 1847,
+    "delta": 0
+   },
+   "cap-24.md": {
+    "real": 1826,
+    "presupuesto": 1965,
+    "delta": -139
+   },
+   "cap-25.md": {
+    "real": 1741,
+    "presupuesto": 990,
+    "delta": 751
+   },
+   "cap-n4.md": {
+    "real": 2878,
+    "presupuesto": 3200,
+    "delta": -322
+   },
+   "cap-26.md": {
+    "real": 1772,
+    "presupuesto": 1904,
+    "delta": -132
+   },
+   "cap-27.md": {
+    "real": 1889,
+    "presupuesto": 1936,
+    "delta": -47
+   },
+   "cap-28.md": {
+    "real": 1661,
+    "presupuesto": 1613,
+    "delta": 48
+   },
+   "cap-29.md": {
+    "real": 1416,
+    "presupuesto": 1468,
+    "delta": -52
+   },
+   "cap-30.md": {
+    "real": 1571,
+    "presupuesto": 1460,
+    "delta": 111
+   },
+   "cap-31.md": {
+    "real": 1613,
+    "presupuesto": 1658,
+    "delta": -45
+   },
+   "cap-32.md": {
+    "real": 1753,
+    "presupuesto": 1835,
+    "delta": -82
+   },
+   "cap-33.md": {
+    "real": 1648,
+    "presupuesto": 1680,
+    "delta": -32
+   },
+   "cap-34.md": {
+    "real": 2267,
+    "presupuesto": 2573,
+    "delta": -306
+   },
+   "cap-35.md": {
+    "real": 1832,
+    "presupuesto": 1970,
+    "delta": -138
+   },
+   "cap-36.md": {
+    "real": 1190,
+    "presupuesto": 1188,
+    "delta": 2
+   },
+   "cap-37.md": {
+    "real": 2234,
+    "presupuesto": 2306,
+    "delta": -72
+   },
+   "cap-38.md": {
+    "real": 1380,
+    "presupuesto": 1421,
+    "delta": -41
+   },
+   "cap-39.md": {
+    "real": 1690,
+    "presupuesto": 1748,
+    "delta": -58
+   },
+   "cap-40.md": {
+    "real": 1610,
+    "presupuesto": 1874,
+    "delta": -264
+   },
+   "cap-n6.md": {
+    "real": 1448,
+    "presupuesto": 1700,
+    "delta": -252
+   },
+   "cap-41.md": {
+    "real": 704,
+    "presupuesto": 704,
+    "delta": 0
+   }
+  }
+ },
+ "M9": {
+  "ok": true,
+  "salida": "AVISO: capitulos/00-aviso.md es provisional (pendiente de validación de autor): sin hash.\nAVISO: capitulos/99-recursos.md es provisional (pendiente de validación de autor): sin hash.\nM9 OK · 8 ficheros íntegros · 109 spans íntegros"
+ },
+ "M10": {
+  "total": 83,
+  "por_estado": {
+   "PAGADO": 68,
+   "PENDIENTE-ASIGNAR": 7,
+   "SIN-PAGO-INTENCIONAL": 8
+  },
+  "pct_cerrado": 91.6,
+  "pendientes": [
+   "CH-2",
+   "CH-3",
+   "CH-4",
+   "CH-5",
+   "CH-6",
+   "CH-31",
+   "CH-75"
+  ]
+ }
+}

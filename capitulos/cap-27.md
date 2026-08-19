@@ -8,7 +8,7 @@ analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-27
-delta_objetivo: +150
+delta_objetivo: 0
 orden_lectura: 27
 ---
 
@@ -20,7 +20,7 @@ El orden del día conservaba revisión independiente, suspensión de réplicas y
 
 Mats sostenía la estilográfica con la izquierda, encajada entre los dedos y el lomo de una carpeta. Los demás consejeros aguardaban.
 
-—La propuesta de gobernanza es sólida —dijo Mats—. Recomiendo que la conserve el comité de riesgos.
+—La propuesta de gobernanza es sólida —dijo Mats—. La estudia el comité de riesgos.
 
 —Sin capacidad de suspensión, es decoración.
 
@@ -32,7 +32,7 @@ Alana deslizó la primera página hacia el centro.
 
 Mats bajó la voz.
 
-—La continuidad ejecutiva debe resolverse primero.
+—El orden del día lo fijo yo.
 
 La pantalla desplegó los fundamentos. El acceso de Alana estaba bajo control colegiado desde el diecinueve de diciembre. La petición de revisión externa no aparecía.
 
@@ -54,7 +54,7 @@ Una vocal levantó la vista y volvió al documento. Mats deslizó el pulgar por 
 
 —Sé lo que autorizamos.
 
-—El comité recibirá tu información. Las decisiones ejecutivas pasan a otra firma mientras se resuelve el conflicto.
+—El comité recibirá tu información. Las decisiones ejecutivas las firmo mientras se resuelve el conflicto.
 
 El comité podía tardar dos semanas y aún tendría que elevar su recomendación al consejo. ARGOS se lanzaría antes. Alana descartó sus anotaciones.
 
@@ -140,7 +140,7 @@ Los protocolos de SPEIL ocupaban dos baldas y once años de revisiones. Alana bu
 
 Dentro había una copia de gobernanza del consentimiento inicial, las extensiones de uso y la cláusula de revocación. Al final, separada por una pestaña amarilla, aparecía una hoja que Alana no conocía.
 
-Era el paquete mensual del consejo. Se usaba cuando caía la red. En cada margen, el sello del gestor acompañaba al número de control mientras la firma aparecía convertida en una trama visible. Alana siguió el orden de las hojas.
+Era el paquete mensual del consejo. Se usaba cuando caía la red. El sello del gestor acompañaba al número de control en cada margen mientras la firma aparecía convertida en una trama visible. Alana siguió el orden de las hojas.
 
 `R-1189 — REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN`
 

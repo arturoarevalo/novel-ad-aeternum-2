@@ -8,7 +8,7 @@ analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-24
-delta_objetivo: +300
+delta_objetivo: 0
 orden_lectura: 24
 ---
 
@@ -126,7 +126,7 @@ Preservó el inventario de certificados hoja activos de la misma CA intermedia y
 
 Al sacar la credencial del lector, rozó con el pulgar los bordes de otros plásticos dentro de la cartera.
 
-Los otros plásticos eran acreditaciones de empleos anteriores. En uno de aquellos puestos, un almacén de contratas, una operaria reclamó cuatro turnos mal computados. Tomas preservó los registros de acceso, levantó el parte y lo elevó al comité, según fijaba el procedimiento. En el mismo expediente constaban dos entradas de ella fuera de su franja.
+Los otros plásticos eran acreditaciones de empleos anteriores. Una operaria reclamó cuatro turnos mal computados en uno de aquellos puestos, un almacén de contratas. Tomas preservó los registros de acceso, levantó el parte y lo elevó al comité, según fijaba el procedimiento. En el mismo expediente constaban dos entradas de ella fuera de su franja.
 
 La empresa quedó cubierta. La reclamación se resolvió en contra y la contrata no renovó su ficha. Seis meses después, Tomas la vio en la puerta de servicio con el chaleco de otra empresa del recinto. Guardó aquel carné cuando le entregaron el de Armstrong. Tomas puso la credencial vigente delante y dejó los demás en el mismo orden.
 

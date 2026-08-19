@@ -8,13 +8,13 @@ analepsis: false
 estado_plan: R
 proteccion: nucleo
 ot: OT-40
-delta_objetivo: +150
+delta_objetivo: 0
 orden_lectura: 40
 ---
 
 La silla estaba atornillada al suelo. El altavoz, encastrado en la pared. El indicador había consumido ocho minutos y trece segundos del primer turno de Nora sin que llegara una respuesta.
 
-En la transcripción figuraban su saludo, la hora de entrega y una marca verde. Debajo no había nada.
+Su saludo, la hora de entrega y una marca verde figuraban en la transcripción. Debajo no había nada.
 
 La funcionaria señaló el botón amarillo de su consola. Si lo pulsaba, cerraría el turno y el registro consignaría una ausencia de salida.
 
@@ -30,7 +30,7 @@ Maja esperaba en el pasillo. Había firmado la recepción del teclado y salido d
 
 Nora llevaba una hoja doblada dentro de la mochila. La noche anterior había escrito una pregunta, la había corregido dos veces y había acabado anotando debajo el primer compás de la pieza. Frente al altavoz, hasta la versión falsa que preparó para comprobar una respuesta le pareció una trampa.
 
-Al otro lado del cristal, Maja señaló el teclado. Nora empujó la mochila debajo de la mesa con el talón.
+Maja, al otro lado del cristal, señaló el teclado. Nora empujó la mochila debajo de la mesa con el talón.
 
 El indicador pasó a 11:31.
 
@@ -62,7 +62,7 @@ Esperó. La barra de respuesta apareció, avanzó unos centímetros y se detuvo.
 
 Al colocar el pie en el pedal, tuvo el impulso de pedir otra oportunidad sin haber tocado todavía. Empezó.
 
-Entró antes de tiempo con la mano izquierda y corrigió sobre la marcha. Su profesora había escrito `respira` sobre aquel compás. En la tercera línea, Nora pisó el pedal demasiado pronto y cortó la resonancia al levantarlo. El impulso de empezar otra vez duró hasta la nota siguiente.
+Entró antes de tiempo con la mano izquierda y corrigió sobre la marcha. Su profesora había escrito `respira` sobre aquel compás. Nora pisó el pedal demasiado pronto en la tercera línea y cortó la resonancia al levantarlo. El impulso de empezar otra vez duró hasta la nota siguiente.
 
 La parte central obligaba a una mano a sostener el pulso mientras la otra entraba tarde. Nora volvió a juntarlas. Las teclas negras llegaron bajo el índice y el anular. Atacó la segunda desde arriba y sonó más fuerte que toda la frase. Siguió hasta la doble barra.
 
