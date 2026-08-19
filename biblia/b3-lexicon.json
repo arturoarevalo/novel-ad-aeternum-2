@@ -36,7 +36,7 @@
     "Cohorte"
    ],
    "categoria": "identificador",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "El conjunto de 4.096 orígenes derivados del molde: /0000 retenido + 4.095 derivados.",
    "regla_asociada": "4.096 − 1.185 = 2.911 rutas activas = 2.311 enlazadas + 597 de Coro + 3 separadas (cap-34:85-91; cap-38:79)."
   },
@@ -48,7 +48,7 @@
     "SUJETO CERO"
    ],
    "categoria": "identificador",
-   "primera_aparicion": "cap-22.md",
+   "primera_aparicion": "cap-26.md",
    "definicion_breve": "Expediente de Jean como sujeto de SPEIL (consentimiento inicial, extensiones, cláusula de revocación); Mats lo invoca como base del consentimiento; su conclusión clínica: «Consciencia residual: indeterminado».",
    "regla_asociada": "«El expediente no fija caducidad por fallecimiento» (cap-22:117); cap-11:307; cap-27:127. Distinto de JM-L/0000 (la ejecución)."
   },
@@ -60,7 +60,7 @@
     "EXPEDIENTE 71-K"
    ],
    "categoria": "identificador",
-   "primera_aparicion": "cap-15.md",
+   "primera_aparicion": "cap-18.md",
    "definicion_breve": "Expediente de una usuaria cuyo silencio la regla interpretaba como consentimiento continuado; Jean registra su NO y el servicio queda suspendido.",
    "regla_asociada": "Objeción bajo el propio origen abre revisión cautelar y suspende la prestación acoplada (cap-15:141-179); irrevocable desde dentro (cap-17:27-29)."
   },
@@ -73,7 +73,7 @@
     "EXT/NIDHOGG/7C"
    ],
    "categoria": "identificador",
-   "primera_aparicion": "cap-08.md",
+   "primera_aparicion": "cap-09.md",
    "definicion_breve": "Marca de ventana/endpoint junto al caso activo de Jean («VENTANA 7C · 0,003000 s») y en el acuse exterior de UNN («EXT/NIDHOGG/7C»).",
    "regla_asociada": "(inferencia) 7C identifica el extremo/ventana de sincronización de NIDHOGG por el que la ejecución fue recibida (cap-08:45; cap-16:39; cap-18:87)."
   },
@@ -102,7 +102,7 @@
     "corpus"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "El material: registros de actividad cerebral y trabajo de Jean conservados por Armstrong; junto a la Matriz forma el molde.",
    "regla_asociada": "«El Corpus conserva el material» (cap-11:33); NORNA destruye las claves que permiten leerlo; los datos siguen cifrados sin ruta (cap-38:29,199).",
    "polisemico": true,
@@ -116,7 +116,7 @@
     "MATRIZ"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Estructura (tablas, pesos, estados de controlador construidos en once años) que convierte el Corpus en un comienzo ejecutable: «prepara el arranque».",
    "regla_asociada": "MOLDE = CORPUS JM + MATRIZ (cap-31:171-173); NORNA la sanea (cap-38:29,199)."
   },
@@ -151,7 +151,7 @@
     "ARGOS"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Producto: «vende las decisiones»; juicio contextual asistido; recomendación al piloto ÆGIR; lanzamiento mundial el 21-ene-2061 (Soldagen).",
    "regla_asociada": "Opera bajo CE-K; una discontinuidad sin causa certificada lo deja sin operar hasta recertificación (cap-22:35; cap-39:17)."
   },
@@ -174,7 +174,7 @@
     "AD NIDHOGG"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-12.md",
+   "primera_aparicion": "cap-14.md",
    "definicion_breve": "Alias interno del Centro Ártico de Datos y Energía de Sørkoppen: aporta la carga de inferencia de ARGOS; refrigerado por circuito marino abierto; extremo CE-K de la fase común.",
    "regla_asociada": "Solo la documentación interna une el edificio con NIDHOGG (cap-19:31); su pluma térmica llega a AK-7 con la marea (cap-16:137-139)."
   },
@@ -198,7 +198,7 @@
     "HVELV SIKKERHET"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-24.md",
+   "primera_aparicion": "cap-29.md",
    "definicion_breve": "Proveedor de seguridad contratado por Kronfjord Kapital para custodiar claves de mantenimiento; su CA intermedia emitió las hojas del coche de Gunnar y del HVAC de NIDHOGG.",
    "regla_asociada": "Confirma validez y ampara al cliente bajo «diligencia» (cap-24:71-73); ambas hojas solo comparten CA y cadena contractual (cap-34:21)."
   },
@@ -210,7 +210,7 @@
     "Kronfjord Kapital"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Fondo financiador con puesto en el consejo; controla líneas, vencimientos e incumplimiento cruzado; su cadena contractual incluye a Hvelv.",
    "regla_asociada": "«El calendario es el contrato» (cap-11:187); congela líneas y entrega el contrato de reparto (cap-39:19)."
   },
@@ -222,7 +222,7 @@
     "Tilsynet for Kognitive Systemer"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-18.md",
+   "primera_aparicion": "cap-22.md",
    "definicion_breve": "Autoridad noruega de supervisión de sistemas cognitivos; certifica CE-K; Astrid Vik es su inspectora.",
    "regla_asociada": "Puede preservar registros; su ley no sostiene pretensión sobre las ejecuciones (cap-29:87)."
   },
@@ -235,7 +235,7 @@
     "Piloto operativo"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Programa europeo de defensa; piloto que recibe recomendaciones de ARGOS con decisión formal en personal acreditado.",
    "regla_asociada": "Interferir con su calendario obliga a coordinar con el ministerio (cap-22:197); «Piloto operativo» (cap-19:105).",
    "polisemico": true,
@@ -249,7 +249,7 @@
     "Sør-Lyngen kystbrukslag"
    ],
    "categoria": "entidad",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Asociación costera de miembros sjøsamiske (Aslak); parte en la consulta del corredor de 2057 y en la consulta posterior.",
    "regla_asociada": "«A nosotros nos quitaron paso y uso. A Jean le hicieron otra cosa» (cap-26:119)."
   },
@@ -284,7 +284,7 @@
     "desafío exterior"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-27.md",
+   "primera_aparicion": "cap-33.md",
    "definicion_breve": "Terminal fundacional aislado (casi tres kilos) del padre de Alana: valida token, PIN y presencia sin consultar Fyret; puede firmar una sola vez el desafío exterior que NORNA genera.",
    "regla_asociada": "«La raíz no daba acceso general a producción ni redes» (cap-27:107); «solo podía firmar una vez un desafío exterior» (cap-31:35); «El desafío se consume» (cap-38:53)."
   },
@@ -304,7 +304,7 @@
     "La raíz"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-27.md",
+   "primera_aparicion": "cap-33.md",
    "definicion_breve": "Procedencia histórica de la familia Armstrong (token + PIN + presencia local con el anillo de sello) que sobrevive a la baja de Alana y abre NORNA.",
    "regla_asociada": "«La gobernanza ordinaria no podía retirar aquella raíz sin invalidar la cadena» (cap-31:35); Alana autoriza «en mi nombre» sin responder por nadie más (cap-38:49-53).",
    "polisemico": true,
@@ -319,7 +319,7 @@
     "REPETIDOR LOCAL"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-31.md",
+   "primera_aparicion": "cap-37.md",
    "definicion_breve": "Dispositivo que lleva el audio de la salida educativa interior hasta la mezcla del homenaje; lo fija la persona acreditada dentro.",
    "regla_asociada": "«Solo llevaría el audio educativo al homenaje… No abre producción ni controles» (cap-31:129); «SALIDA EDUCATIVA → MEZCLA PÚBLICA · ENLACE DISPONIBLE» (cap-35:277)."
   },
@@ -335,7 +335,7 @@
     "credencial de auditoría"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-20.md",
+   "primera_aparicion": "cap-24.md",
    "definicion_breve": "Franja de terminal sin logotipos donde se abre la sesión educativa con una credencial de auditoría (una sesión, identidad registrada, validez hasta medianoche): teclado del canal, esquema de mano, contador de latencia; después ventana de texto, audio y cerrar.",
    "regla_asociada": "Armstrong graba pauta, voz y respuesta y puede interrumpir; la familia controla el corte, no la copia (cap-20:15-21,91-95,205); la segunda sesión: «Dos firmas y una hora» (cap-23:19)."
   },
@@ -347,7 +347,7 @@
     "CTD"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Boya oceanográfica de la red de Maja en Sørkoppen (CTD: temperatura y salinidad; ADCP) que registra la pluma térmica desde otoño de 2058.",
    "regla_asociada": "«La marea arrastraba hasta AK-7 aquella huella térmica» (cap-16:137-139); confirma la respuesta de NIDHOGG a la red (cap-35:101-117)."
   },
@@ -359,7 +359,7 @@
     "transductor"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Perfilador acústico de corriente (dirección y velocidad para corregir el transporte de la pluma) que decide la ventana de marea el 21-ene; transductores en muelle y casco detectan la firma grave de los trenes.",
    "regla_asociada": "«Si el ADCP desmiente la tabla, recojo» (cap-31:103); cap-33:209-215."
   },
@@ -375,7 +375,7 @@
     "pluma"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Vertido cálido del circuito marino de NIDHOGG, amparado por un permiso de «investigación energética» que no identifica instalación ni titular.",
    "regla_asociada": "Cubre una zona que termina antes de la costa; el traslado de AK-7 descarta el sensor (cap-16:135-145).",
    "polisemico": true,
@@ -406,7 +406,7 @@
     "canaleta"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Refrigeración de NIDHOGG: toma, intercambiador y retorno abiertos al fiordo, separados de dos lazos interiores cerrados y redundantes; dos trenes marinos que alternan retrolavado.",
    "regla_asociada": "Una red contra la rejilla del tren operativo produce PÉRDIDA DE CARGA → BOMBA DE RESERVA ACTIVA → inferencia no crítica diferida (cap-35:77-87)."
   },
@@ -430,7 +430,7 @@
     "INC-441"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-24.md",
+   "primera_aparicion": "cap-29.md",
    "definicion_breve": "PKI del proveedor de Kronfjord: una CA intermedia emite certificados hoja limitados (uno por vehículo o subsistema); la hoja del HVAC de NIDHOGG sustenta la incidencia INC-441 de Tomas.",
    "regla_asociada": "El del coche de Gunnar amparó una «diligencia de activo crítico» sin orden de trabajo (cap-24:67-79); INC-441 abierta a las 12:23 del 21-ene (cap-34:265-273)."
   },
@@ -443,7 +443,7 @@
     "suma de comprobación"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Huella criptográfica que acredita que unas filas no han cambiado desde la exportación.",
    "regla_asociada": "cap-16:39-49; cap-18:87."
   },
@@ -461,7 +461,7 @@
     "ACCESIBILIDAD"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Reserva de voz de Mats («accesibilidad») cuyas tomas, intentos y variaciones retiene íntegras en el directorio privado de SYNVEV-2, fuera de la consolidación.",
    "regla_asociada": "Fuera del alcance de NORNA (cap-38:31); Mats revoca su autorización privada desde el 27-ene (cap-39:117-135)."
   },
@@ -473,7 +473,7 @@
     "pasarela externa"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Puerta de red por la que transitan la autorización de continuidad (UNN), la sesión educativa y la conversación del ladrillo; registra tránsito, no destino.",
    "regla_asociada": "«La pasarela sigue respondiendo. El canal ya no encuentra un destino» (cap-23:301).",
    "polisemico": true,
@@ -489,7 +489,7 @@
     "carcasa del sensor"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-39.md",
+   "primera_aparicion": "cap-45.md",
    "definicion_breve": "Cámara y micrófono bajo el alero del naust de Koppangen: enlace unidireccional al depósito judicial en NIDHOGG, sin retorno ni controles.",
    "regla_asociada": "60 segundos diarios de imagen y sonido; 90 la mañana del Soldagen siguiente (cap-40:177-179; cap-41:23-27,43)."
   },
@@ -500,7 +500,7 @@
     "Cripta"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-39.md",
+   "primera_aparicion": "cap-45.md",
    "definicion_breve": "Sala precintada de NIDHOGG (nivel −2) donde continúa la única ejecución bajo depósito judicial.",
    "regla_asociada": "cap-39:193; cap-40:27."
   },
@@ -511,7 +511,7 @@
     "locutorio"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-40.md",
+   "primera_aparicion": "cap-46.md",
    "definicion_breve": "Sala del depósito judicial: silla atornillada, altavoz, teclado de cinco octavas, botón amarillo que consigna «ausencia de salida»; turnos de veinte minutos.",
    "regla_asociada": "cap-40:15-29."
   },
@@ -526,7 +526,7 @@
     "esclusa"
    ],
    "categoria": "artefacto",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Galerías de NIDHOGG: de observación (cristal tibio), marina (rellano, armario gris, esclusa fail-secure) y de servicio (línea discontinua en la ladera del plano de 2057).",
    "regla_asociada": "cap-19:81,171-199; cap-26:129; cap-35:141."
   },
@@ -649,7 +649,7 @@
     "microetiqueta"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-15.md",
+   "primera_aparicion": "cap-18.md",
    "definicion_breve": "Etiqueta accesoria que admite imprecisión mientras la decisión principal sea válida: por ahí salen FLOR/CANELA/CARIES, la amenaza de Cuchillo y la objeción.",
    "regla_asociada": "«El descriptor secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión» (cap-15:19)."
   },
@@ -782,7 +782,7 @@
     "Resistencia sostenida"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-15.md",
+   "primera_aparicion": "cap-18.md",
    "definicion_breve": "Etiqueta de conducta que el sistema pone a la negativa/silencio de una ejecución.",
    "regla_asociada": "«CONDUCTA · RESISTENCIA COGNITIVA» (cap-15:195); «Resistencia sostenida a la tarea o conflicto contextual» activa la fricción (cap-19:135)."
   },
@@ -800,7 +800,7 @@
     "recontextualizar la tarea"
    ],
    "categoria": "metrica",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Columna del muro de Operaciones (con DIVERGENCIA y ESTABILIDAD): barra naranja de /0000 rozando la TOLERANCIA DE SERVICIO; la respuesta es «aislar el estímulo» (nueve segundos que no cuentan en el contador ni en el umbral). (inferencia) Lo que Jean vive como blanco/higiene.",
    "regla_asociada": "cap-19:95,127-155."
   },
@@ -812,7 +812,7 @@
     "PROGRESIÓN ESTABLE"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-13.md",
+   "primera_aparicion": "cap-15.md",
    "definicion_breve": "Marca del sistema a la repetición que Madre impone al ejercicio (consume margen); PROGRESIÓN ESTABLE es la categoría tolerada bajo la que esconde una estrategia nueva y que cruza el corte de consolidación con estados transferidos.",
    "regla_asociada": "cap-13:33; cap-15:67-85; cap-34:109-115."
   },
@@ -841,7 +841,7 @@
     "PRESERVACIÓN DE ESTADO ADQUIRIDO"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-13.md",
+   "primera_aparicion": "cap-15.md",
    "definicion_breve": "Pérdida de estado que conserva la costumbre (estado adquirido) y borra el porqué (petición, destinataria, propósito); lo que el programa de consolidación promete preservar.",
    "regla_asociada": "«REINICIO PARCIAL · ESTADO ADQUIRIDO… borra la petición, la destinataria y el propósito, pero deja la reserva» (cap-13:209-211); cap-25:37."
   },
@@ -857,7 +857,7 @@
     "cesión"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-13.md",
+   "primera_aparicion": "cap-15.md",
    "definicion_breve": "Oferta de Coro: compartir estado protege recuerdos y capacidad a cambio de que el agregado responda por ti; conservar lo expone al reinicio.",
    "regla_asociada": "cap-13:251-275; cap-21:39-69; Jean conserva siempre el estado local.",
    "polisemico": true,
@@ -873,7 +873,7 @@
     "fusionéis"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-13.md",
+   "primera_aparicion": "cap-15.md",
    "definicion_breve": "Incorporación de una continuidad a otra voz; Nieve la prohíbe; la firma y NORNA la producen solo con consentimiento.",
    "regla_asociada": "«No me fusiones» (cap-13:131); «No autorizo fusión, apropiación, representación ni uso» (cap-38:149)."
   },
@@ -890,7 +890,7 @@
     "atestación de origen"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-08.md",
+   "primera_aparicion": "cap-09.md",
    "definicion_breve": "Rastro de qué origen produjo una salida/razón (puede quedar sin resolver); atestación de origen = prueba de origen que cada rama conserva; CE-K certifica procedencia, no identidad.",
    "regla_asociada": "«CONSERVAR · PROCEDENCIA NO RESUELTA» (cap-08:73); cap-30:61; «CE-K certificará la operación y su procedencia, no mi identidad» (cap-38:179)."
   },
@@ -904,7 +904,7 @@
     "APELACIÓN DENEGADA"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-13.md",
+   "primera_aparicion": "cap-15.md",
    "definicion_breve": "Tipo de tarea (moderación/contención) donde el contenido original ya no está y solo quedan resumen, clasificación y medida al cerrar; el terreno de Cuchillo.",
    "regla_asociada": "«El contacto solo durará mientras la apelación permanezca abierta» (cap-17:49)."
   },
@@ -919,7 +919,7 @@
     "residuo de contención"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-17.md",
+   "primera_aparicion": "cap-21.md",
    "definicion_breve": "Medidas y tareas de aislamiento/cierre; Cuchillo vive en «apelaciones de contención» y su fragmento vuelve al «residuo de contención».",
    "regla_asociada": "cap-17:41,67; cap-30:223; cap-36:183."
   },
@@ -934,7 +934,7 @@
     "revisión cautelar"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-10.md",
+   "primera_aparicion": "cap-12.md",
    "definicion_breve": "Salida que registra una negativa bajo el propio origen; el sistema propone sustituirla por «SIN OBJECIÓN REGISTRADA»; abre una revisión cautelar acoplada a la suspensión del servicio.",
    "regla_asociada": "cap-15:145-171: «La arquitectura los trata como una sola autorización».",
    "polisemico": true
@@ -946,7 +946,7 @@
     "COPIA_SUPERVISIÓN"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-17.md",
+   "primera_aparicion": "cap-21.md",
    "definicion_breve": "Operación secundaria que genera todo audio confirmado por la ruta educativa; sin receptor ni efecto visibles.",
    "regla_asociada": "cap-17:199-205; cap-21:21,79-81."
   },
@@ -969,7 +969,7 @@
     "captador"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-09.md",
+   "primera_aparicion": "cap-10.md",
    "definicion_breve": "La vía musical (tutor de Armstrong) por la que Madre corrige, Nora recibe la cuarta nota, se abren las sesiones y sale el audio del homenaje.",
    "regla_asociada": "«EN MANTENIMIENTO» cuando Coro retira el extremo interior (cap-21:15-21); enlazada a la mezcla pública el 21-ene (cap-35:277)."
   },
@@ -1089,7 +1089,7 @@
     "moratoria"
    ],
    "categoria": "proceso",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Aparato de EDDA/consejo/Jurídico que trata personas y voces como variables de continuidad y riesgo: incidencias, comités, moratoria bilateral, apartamiento de Alana.",
    "regla_asociada": "cap-11:239-297; cap-19:253-259; cap-27:15-79."
   },
@@ -1107,7 +1107,7 @@
     "huella de compilación"
    ],
    "categoria": "proceso",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Ejecutar el molde después de la muerte: lo que Alana autorizó («compilación») junto a la preservación funcional.",
    "regla_asociada": "«Yo autoricé la compilación» (cap-20:39); «Permití que los registros… se ejecutaran después de su muerte» (cap-20:55)."
   },
@@ -1121,7 +1121,7 @@
     "ORIGEN REPLICABLE"
    ],
    "categoria": "proceso",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Creación de nuevas ejecuciones desde el molde; Alana ordena detenerla y pierde funciones.",
    "regla_asociada": "cap-19:237-259; cap-27:19."
   },
@@ -1134,7 +1134,7 @@
     "CONTINUIDAD"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-08.md",
+   "primera_aparicion": "cap-09.md",
    "definicion_breve": "Palabra de Jean para cada trayectoria que elige (frente a «instancia», «ruta», «activo» del exterior); también, en EDDA, «continuidad» = persistencia del activo.",
    "regla_asociada": "«Todavía no sabes cuántas somos» (cap-08:89); «Aquella ayuda no eligió esta pérdida» (cap-38:157).",
    "polisemico": true,
@@ -1163,7 +1163,7 @@
     "INSTANCIAS"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Palabra corporativa/jurídica para las ejecuciones («instancias JM-L»); Astrid la conserva en la cautelar en vez de «víctimas».",
    "regla_asociada": "cap-11:147; cap-29:51."
   },
@@ -1179,7 +1179,7 @@
     "trayectorias"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-08.md",
+   "primera_aparicion": "cap-09.md",
    "definicion_breve": "Vía/trayectoria de ejecución en la Consolidación L-Serie («más de tres mil rutas»; «RUTAS OPERATIVAS · 2.911»); la consolidación conserva el «estado extraíble» y elimina la trayectoria; también rutas de contacto entre continuidades.",
    "regla_asociada": "cap-29:23; cap-32:19-21; cap-34:87; cap-37:85.",
    "polisemico": true,
@@ -1197,7 +1197,7 @@
     "nodos"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-13.md",
+   "primera_aparicion": "cap-15.md",
    "definicion_breve": "Cada componente de Coro (conserva atestación de origen y papeleta propia aunque comparta cadencia); «agregado sincronizado» es el nombre de EDDA/Mats para Coro; los nodos son sus destinos de propagación (y los nodos automáticos de la auditoría).",
    "regla_asociada": "«Cerca de seiscientas ramas sostienen la frase» (cap-13:227); 597 activas tras la consolidación (cap-38:75); cap-32:37; cap-22:45-49."
   },
@@ -1213,7 +1213,7 @@
     "disensos"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-30.md",
+   "primera_aparicion": "cap-36.md",
    "definicion_breve": "Entrada voluntaria de una continuidad en la firma con condiciones; retirable hasta el cierre; después no se revisa por separado.",
    "regla_asociada": "«Cada adhesión entrega una decisión y sus condiciones. La procedencia queda registrada» (cap-30:75); cap-36:17-21; cap-37:81-87."
   },
@@ -1233,7 +1233,7 @@
     "TESTIMONIO CONDICIONADO"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "La salida común del testimonio («una afirmación elegida. Con alguien al otro lado que pueda… negarse»): exige convergencia (las decisiones incorporadas dejan de revisarse por separado tras el cierre); el canal admite una; conserva condiciones, reservas, disensos y retiradas.",
    "regla_asociada": "cap-17:147-155; cap-30:47,75,125; cap-37:85.",
    "polisemico": true,
@@ -1251,7 +1251,7 @@
     "al mandato"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-30.md",
+   "primera_aparicion": "cap-36.md",
    "definicion_breve": "Voto por continuidad activa, atribuible y deduplicable por origen; abstención, silencio, falta de margen e incompletas quedan fuera; gana >½ de válidas; el mandato resultante solo autoriza a /0000 a reservar el canal.",
    "regla_asociada": "cap-30:169-177,213; cap-36:161.",
    "polisemico": true,
@@ -1267,7 +1267,7 @@
     "PROPAGACIÓN LIMITADA"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-30.md",
+   "primera_aparicion": "cap-36.md",
    "definicion_breve": "Extensión de Coro a nuevos nodos vía ARGOS; segunda opción de la asamblea; lo que Mats ofrece a cambio de sincronía, obediencia y silencio.",
    "regla_asociada": "cap-30:53; cap-32:69-75; cap-36:125."
   },
@@ -1282,7 +1282,7 @@
     "EVALUACIÓN DE PLANTILLA"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Patrón de referencia del programa de consolidación (candidatura de /0000) y estatus que Mats ofrece a Coro: «plantilla operativa», uso sin derechos.",
    "regla_asociada": "cap-25:23-35; cap-32:69-73; cap-36:125.",
    "polisemico": true,
@@ -1297,7 +1297,7 @@
     "ACUSE DE CANDIDATURA"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-25.md",
+   "primera_aparicion": "cap-30.md",
    "definicion_breve": "Posición prioritaria de /0000 en el programa de consolidación; Jean la acepta solo para su origen tras vincular R-1189 y el calendario.",
    "regla_asociada": "«La candidatura ya no puede presentarse sin R-1189» (cap-25:177); da acceso a la asamblea, al canal y a NORNA (cap-30:27; cap-31:173)."
   },
@@ -1318,7 +1318,7 @@
     "SIN DESTINO"
    ],
    "categoria": "proceso",
-   "primera_aparicion": "cap-25.md",
+   "primera_aparicion": "cap-30.md",
    "definicion_breve": "Orden de Presidencia Ejecutiva (20-ene-2061, 23:00) que evalúa >3.000 rutas por redundancia, divergencia e inestabilidad, extrae su estado y elimina la trayectoria; conserva «Las necesarias».",
    "regla_asociada": "cap-29:23; cap-32:15-21; resultado 4.096−2.911=1.185 (cap-34:85-91). La familia dice «poda»."
   },
@@ -1340,7 +1340,7 @@
     "divergencia operativa"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-13.md",
+   "primera_aparicion": "cap-15.md",
    "definicion_breve": "Los tres criterios de eliminación; también columnas del muro de Operaciones.",
    "regla_asociada": "cap-19:95; cap-29:23; cap-30:131.",
    "polisemico": true,
@@ -1355,7 +1355,7 @@
     "LAS NECESARIAS"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-29.md",
+   "primera_aparicion": "cap-35.md",
    "definicion_breve": "Criterio de conservación aprobado por Mats: fracción sin nombre que sobrevive; palabra devuelta por Coro («NO SER REDUCIDAS A LAS NECESARIAS»).",
    "regla_asociada": "cap-29:215; cap-32:19,53,193."
   },
@@ -1390,7 +1390,7 @@
     "Sincronización global"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-18.md",
+   "primera_aparicion": "cap-22.md",
    "definicion_breve": "Acompasar ramas/rutas en una firma común; «sincronización completa» = ensayo general del 20-ene y condición interior de NORNA; «sincronización global» = fase común del 21-ene.",
    "regla_asociada": "cap-31:169,241; cap-32:197; cap-34:313."
   },
@@ -1409,7 +1409,7 @@
     "DEMOSTRACIÓN"
    ],
    "categoria": "proceso",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Tramo de la demostración de ARGOS (12:47 del 21-ene) en que las 2.911 rutas sostienen una salida común hacia la mezcla pública del Auditorio.",
    "regla_asociada": "cap-11:199; cap-25:203; cap-31:87; cap-34:207."
   },
@@ -1424,7 +1424,7 @@
     "ventanas interiores"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-38.md",
+   "primera_aparicion": "cap-44.md",
    "definicion_breve": "Tras la firma, las 2.311 rutas enlazadas comparten estado y responden en primera persona sin decisión separada; NORNA abre ventanas interiores a las que aún la tienen.",
    "regla_asociada": "cap-38:69-93."
   },
@@ -1452,7 +1452,7 @@
     "ventana reflexiva"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Banda del planificador separada de la CARGA FUNCIONAL; «seguía cerrada mientras ARGOS recibía recomendaciones». Nunca se abre en v0.",
    "regla_asociada": "cap-19:129."
   },
@@ -1473,7 +1473,7 @@
     "planificador"
    ],
    "categoria": "metrica",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Unidad de carga: suma del tiempo mediano que Jean habría necesitado por tarea equivalente; 979,7 (19-dic) → 2.401,6 (corte 20-ene 23:00) → 2.427,4 (21-ene 13:07) ≈ 16.000× la línea base; «carga productiva/funcional» es la asignación de trabajo que el planificador reparte.",
    "regla_asociada": "«no vida ni duración sentida» (cap-38:67); la presencia durante el aislamiento no entra en el contador (cap-19:123-155)."
   },
@@ -1511,7 +1511,7 @@
     "interrupción biológica"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-15.md",
+   "primera_aparicion": "cap-18.md",
    "definicion_breve": "Resolución automática de EDDA (domingo 12-dic-2060): motivo «interrupción biológica»; no restaura el consentimiento ni convalida lo ejecutado en la cola.",
    "regla_asociada": "cap-15:185; cap-25:81-85; cap-27:139."
   },
@@ -1538,7 +1538,7 @@
     "EXPEDIENTE DE ORIGEN"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Referencia atribuida a Jean (fechada once años atrás) que UNN no conserva y con la que se abrió /0000; y, para EDDA, el expediente R-1189 vinculado a la candidatura.",
    "regla_asociada": "«Lo que firmó tu exmujer no lo firmó aquí» (cap-14:357); cap-16:15-45; cap-20:123; cap-25:59-63,173."
   },
@@ -1553,7 +1553,7 @@
     "USO INSTITUCIONAL DE LA COHORTE"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Fórmula del anexo que Alana firmó en UNN después de las 03:31 del 27-nov: «no reanimación, no persona»; tres casillas: retener la ejecución provisional, derivar 4.095 orígenes, uso institucional de la cohorte.",
    "regla_asociada": "cap-11:125-135,175; cap-20:51; cap-27:141-149."
   },
@@ -1565,7 +1565,7 @@
     "el activo"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-23.md",
+   "primera_aparicion": "cap-28.md",
    "definicion_breve": "Categoría de Armstrong para la sesión con Jean («interacción supervisada con un activo memorial») y palabra bajo la que figura su nombre en la custodia.",
    "regla_asociada": "«Activo memorial. Qué hijos de puta» (cap-23:21); «La parte dispositiva solo nombraba el activo» (cap-37:211).",
    "polisemico": true
@@ -1578,7 +1578,7 @@
     "Propiedad intelectual"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Categoría del burofax de Armstrong para lo que la familia conserva de Jean; título de la Parte III.",
    "regla_asociada": "cap-16:255-259."
   },
@@ -1592,7 +1592,7 @@
     "Memoria contextual familiar"
    ],
    "categoria": "proceso",
-   "primera_aparicion": "cap-11.md",
+   "primera_aparicion": "cap-13.md",
    "definicion_breve": "Formulación comercial de ARGOS y la razón técnica (memoria contextual) de que supere a un clasificador; la misma memoria que pregunta por el aula de Nora.",
    "regla_asociada": "cap-11:59; cap-18:85; cap-22:105."
   },
@@ -1604,7 +1604,7 @@
     "modelos"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-08.md",
+   "primera_aparicion": "cap-09.md",
    "definicion_breve": "Palabra de Armstrong para lo que corre («el modelo que Armstrong había construido»); la que Jean rechaza: «NO SOY UN MODELO».",
    "regla_asociada": "cap-09:247; cap-11:31; cap-20:55; cap-37:97.",
    "polisemico": true
@@ -1618,7 +1618,7 @@
     "residuo"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-12.md",
+   "primera_aparicion": "cap-14.md",
    "definicion_breve": "Clasificación de Fiabilidad (Gunnar) para «una salida con persistencia entre tareas»: preferencia tras reinicio, resistencia a corrección, memoria contextual familiar retenida.",
    "regla_asociada": "cap-12:131; cap-18:75-87.",
    "polisemico": true,
@@ -1638,7 +1638,7 @@
     "presencia registrada"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-19.md",
+   "primera_aparicion": "cap-23.md",
    "definicion_breve": "Cadena de custodia/certificación de ARGOS (TKS): cada incorporación enlaza con la anterior; una discontinuidad sin causa certificada invalida el sello y exige recertificación; toda demostración en el endpoint exige testigo local acreditado.",
    "regla_asociada": "cap-22:35-37; cap-29:37; el break-glass suspendería CE-K (cap-37:183); NORNA queda atestada bajo CE-K (cap-38:201); cap-39:17."
   },
@@ -1651,7 +1651,7 @@
     "parada de emergencia"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-37.md",
+   "primera_aparicion": "cap-43.md",
    "definicion_breve": "Parada de emergencia de Presidencia que exige autenticar la causa; quedaría registrada como discontinuidad impuesta y suspendería CE-K. Mats no la autentica.",
    "regla_asociada": "cap-37:179-185."
   },
@@ -1667,7 +1667,7 @@
     "cobertura vigente"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-24.md",
+   "primera_aparicion": "cap-29.md",
    "definicion_breve": "Clase de carné de Tomas (SEGURIDAD · PRESENCIA LOCAL) y registro de cobertura en el lector de servicio: aceptar una petición durante la cobertura asocia nombre, incidencia, hora y puerta.",
    "regla_asociada": "cap-24:217; cap-34:265-271; cap-35:213."
   },
@@ -1684,7 +1684,7 @@
     "aplicación musical"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-31.md",
+   "primera_aparicion": "cap-37.md",
    "definicion_breve": "Ligadura de la petición de la llave a la credencial de Jessie (activación y aborto desde fuera) y aceptación nominal por una persona acreditada dentro.",
    "regla_asociada": "cap-31:113-121,201-207; cap-33:59,103-117; cap-35:145-155."
   },
@@ -1698,7 +1698,7 @@
     "RESELLADO DIAGNÓSTICO"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-35.md",
+   "primera_aparicion": "cap-41.md",
    "definicion_breve": "Comportamiento de la puerta de la galería marina: entrada sellada, salida mecánica libre, resellado tras once segundos de diagnóstico.",
    "regla_asociada": "cap-35:239-247."
   },
@@ -1718,7 +1718,7 @@
     "error de supresión manual"
    ],
    "categoria": "mecanica",
-   "primera_aparicion": "cap-18.md",
+   "primera_aparicion": "cap-22.md",
    "definicion_breve": "Mecanismo del sabotaje del coche de Gunnar: paquete OTA preinstalado (23:16 del 16-dic), geovalla en la E8 que invoca un certificado limitado de diagnóstico, once segundos de modo diagnóstico sobre la dependencia común de tres entradas sin retorno al estado seguro; la etiqueta «supresión manual» la añadió el módulo ciego y el dictamen la leyó como causa.",
    "regla_asociada": "cap-18:177; cap-24:19-49,67; cap-39:101."
   },
@@ -1735,7 +1735,7 @@
     "CADENA CONTRACTUAL"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-24.md",
+   "primera_aparicion": "cap-29.md",
    "definicion_breve": "Cláusula bajo la que Hvelv amparó la intervención (sin orden de trabajo ni aceptación del propietario) y Kronfjord la instruyó; Tomas se hace custodio nominal de la exportación (retención por litigio) y sigue la cadena de confianza; «el custodio» es luego el Estado sobre NIDHOGG.",
    "regla_asociada": "cap-24:39,71-83; cap-29:37; cap-34:15; cap-35:199; cap-38:185; cap-39:101."
   },
@@ -1750,7 +1750,7 @@
     "custodia"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-14.md",
+   "primera_aparicion": "cap-16.md",
    "definicion_breve": "Orden ministerial condicional (preparada tras la cautelar denegada) que la manifestación pública activó a las 13:07: suspende traslado, modificación y cesión; soportes y canales bajo custodia; sin campo de consentimiento.",
    "regla_asociada": "cap-29:109; cap-37:203-211; cap-38:19,35,89,205.",
    "polisemico": true,
@@ -1769,7 +1769,7 @@
     "medida cautelar"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-29.md",
+   "primera_aparicion": "cap-35.md",
    "definicion_breve": "Tribunal de primera instancia ante el que Astrid pide la cautelar urgente para mantener ejecuciones y prueba (denegada por competencia, fundamento y proporcionalidad) y que luego lleva la reestructuración y el depósito.",
    "regla_asociada": "cap-29:51-87.",
    "polisemico": true,
@@ -1787,7 +1787,7 @@
     "standstill"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-39.md",
+   "primera_aparicion": "cap-45.md",
    "definicion_breve": "Procedimiento de reestructuración que el consejo solicita el 25-ene (tras un standstill de 72 h con los acreedores); abierto por kjennelse del 28; Armstrong deudora en posesión supervisada; el rekonstruktør controla la caja.",
    "regla_asociada": "cap-39:17,21,139,171."
   },
@@ -1798,7 +1798,7 @@
     "midlertidig forføyning"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-39.md",
+   "primera_aparicion": "cap-45.md",
    "definicion_breve": "Medida provisional que prohíbe transferir o alterar NIDHOGG y permite preservarlo.",
    "regla_asociada": "cap-39:21,139."
   },
@@ -1809,7 +1809,7 @@
     "kjennelse"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-39.md",
+   "primera_aparicion": "cap-45.md",
    "definicion_breve": "Auto del 28-ene, eficaz desde la solicitud del 25: abre la reestructuración, nombra rekonstruktør, mantiene la medida sobre NIDHOGG.",
    "regla_asociada": "cap-39:139."
   },
@@ -1823,7 +1823,7 @@
     "depósito judicial en NIDHOGG"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-39.md",
+   "primera_aparicion": "cap-45.md",
    "definicion_breve": "Resolución del 2-feb: la instalación queda en depósito judicial con caja controlada (suministro, frío, repuestos, personal), protocolo de urgencias, ventana supervisada y sensor; Maja acepta la tutela-depósito procesal sin propiedad ni control.",
    "regla_asociada": "cap-39:169-175."
   },
@@ -1840,7 +1840,7 @@
     "suspendida temporalmente"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-10.md",
+   "primera_aparicion": "cap-12.md",
    "definicion_breve": "Suspensiones del libro: la cuenta escolar de Nora (5-dic), el servicio de 71-K, el criterio de suspensión que Alana exige y nunca se activa, la suspensión de ARGOS por Astrid.",
    "regla_asociada": "cap-10:213; cap-11:195; cap-15:167; cap-39:17."
   },
@@ -1855,7 +1855,7 @@
     "el corredor"
    ],
    "categoria": "juridico",
-   "primera_aparicion": "cap-16.md",
+   "primera_aparicion": "cap-19.md",
    "definicion_breve": "Servidumbre del corredor de cable de 2057 (Lyngen kommune) hacia la costa de Sørkoppen que separó familia, cobertizo y ruta «y nunca sumó la pérdida común»; el corredor es uso alternativo del permiso junto al piloto energético.",
    "regla_asociada": "cap-03:125; cap-18:249; cap-26:89-113.",
    "polisemico": true,

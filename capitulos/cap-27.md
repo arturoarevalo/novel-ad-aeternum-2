@@ -1,213 +1,267 @@
 ---
-capitulo: 33
-titulo: Apartada
-pov: Alana
-fecha: 2061-01-05
-estado: aceptado
+capitulo: 27
+titulo: Inventario
+pov: Maja
+fecha: 2060-12-29
+estado: en_oleada
 analepsis: false
-estado_plan: E
+estado_plan: N
 proteccion: nucleo
 ot: OT-27
 delta_objetivo: 0
-orden_lectura: 33
+orden_lectura: 27
 ---
 
-La resolución ocupaba la pantalla central antes de que Alana abriese su propuesta.
+Maja sacó al pasillo las seis cajas del piso de Jean y abrió la primera con la uña.
 
-Trece posiciones rodeaban el texto. Once mostraban el voto preparado; Kronfjord Kapital figuraba como DELEGADO EN MATS HALDORSEN y Alana, como ABSTENCIÓN OBLIGATORIA. Solo faltaba la hora.
+La ventana del salón daba un azul plano que no alcanzaba las esquinas. Maja encendió la luz del techo antes de mediodía. Ya no volvió a apagarla.
 
-El orden del día conservaba revisión independiente, suspensión de réplicas y consentimiento verificable. Ningún punto le devolvía el voto.
+Cada caja llevaba pegada una etiqueta con el número del piso y una letra. Las trajo una empresa el martes siete.
 
-Mats sostenía la estilográfica con la izquierda, encajada entre los dedos y el lomo de una carpeta. Los demás consejeros aguardaban.
+Llevaban tres semanas en el pasillo, contra el radiador. Había que pasar de lado para llegar a la escalera.
 
-—La propuesta de gobernanza es sólida —dijo Mats—. La estudia el comité de riesgos.
+El conserje del edificio había preguntado dos veces por las llaves, la última con una nota en el buzón.
 
-—Sin capacidad de suspensión, es decoración.
+El piso se devolvía el treinta y uno.
 
-—El conflicto declarado impide que la firmes como ejecutiva. El comité puede conservarla.
+En el salón, la tapa del piano seguía bajada. Una tecla del mi estaba un milímetro más baja que las demás. Desde el otoño. Encima del piano, el metrónomo de nogal, con la esquina hundida.
 
-Alana deslizó la primera página hacia el centro.
+A las ocho venía Astrid Vik.
 
-—Sometedla a voto antes de mi apartamiento.
+La caldera dio dos golpes en el armario del pasillo.
 
-Mats bajó la voz.
+Nora y Jessie bajaron con los abrigos puestos.
 
-—El orden del día lo fijo yo.
+—Nos vamos al centro —dijo Nora—. Volvemos antes de las cinco.
 
-La pantalla desplegó los fundamentos. El acceso de Alana estaba bajo control colegiado desde el diecinueve de diciembre. La petición de revisión externa no aparecía.
+—Coged el autobús de las dos.
 
-Debajo aparecía la fórmula de EDDA.
+—Vamos andando.
 
-«Baja de funciones por conflicto de interés emocional»
+—Coged el autobús.
 
-—La persona a la que queréis apartar es la única que ha pedido una revisión externa —dijo Alana.
+—¿Quieres algo? —preguntó Nora.
 
-—Y la firmante de la autorización que la hace necesaria —respondió Mats—. El acta recogerá ambas.
+—Que lo cojáis también a la vuelta.
 
-Dos miembros evitaban consultar sus tabletas.
+Jessie se subió la cremallera hasta la barbilla.
 
-—Puedo renunciar a la dirección del piloto. No, ya estoy renunciando. Nombrad un administrador externo, condicionad el lanzamiento a su informe y suspendad nuevas compilaciones.
+—Traemos leche —dijo—. Que se te olvida pedirla.
 
-Una vocal levantó la vista y volvió al documento. Mats deslizó el pulgar por el cierre de la estilográfica.
+La puerta se cerró dos veces. La primera no encajó.
 
-—La propuesta reduce la exposición técnica —dijo él—. La continuidad ejecutiva sigue sin resolver. Has dado instrucciones contrarias a acuerdos aprobados usando facultades de consejera delegada en un asunto personal.
+Maja fue repartiendo en tres sitios lo que salía de las cajas. Junto a la puerta del garaje, lo que se iba de la casa. En el pasillo, lo que subía al altillo. Sobre la mesa del comedor, lo que aún no.
 
-—Sé lo que autorizamos.
+La caja A traía toallas, un juego de sábanas sin estrenar y un calendario de pared del año que terminaba. El calendario, al garaje.
 
-—El comité recibirá tu información. Las decisiones ejecutivas las firmo mientras se resuelve el conflicto.
+Las toallas eran las viejas de casa, las de rayas. Subieron al altillo, con los trineos de las niñas.
 
-El comité podía tardar dos semanas y aún tendría que elevar su recomendación al consejo. ARGOS se lanzaría antes. Alana descartó sus anotaciones.
+Después vació la caja y la desmontó por las esquinas.
 
-—Que conste mi oposición al lanzamiento mientras no exista un criterio de consentimiento aplicable a las instancias —dijo—. Y mi petición de preservar todos los registros de SPEIL, ARGOS y `JM-L`.
+El cartón hacía más ruido que todo lo demás.
 
-EDDA incorporó las dos frases al acta. Mats pidió la votación.
+La caja B venía de la cocina del piso. Cuatro platos, un colador, medio juego de cubiertos y dos moldes de horno de los que en casa ya había. Debajo, cuatro tazas envueltas en papel de periódico.
 
-En diecisiete segundos hubo once votos favorables, una delegación favorable y la abstención obligatoria de Alana.
+Maja las desenvolvió de una en una sobre el hule. La tercera taza era la que no tenía grieta. Las otras tres no eran de casa.
 
-—¿Quién recoge la propuesta de gobernanza? —preguntó Alana.
+Debajo del papel estaban un cuenco de barro y la radio de la cocina, con el dial rayado. También el hervidor, con el cable enrollado y sujeto con una goma.
 
-EDDA pasó al punto siguiente antes de que nadie respondiera.
+Maja llevó el cuenco y la radio a la mesa del comedor. El hervidor lo dejó dentro de la caja, envuelto como venía.
 
-La agenda de Alana perdió el color. En un solo barrido desaparecieron las reuniones de Operaciones, la revisión del programa y los bloques reservados para el lanzamiento. A las cuatro, nada. Podía irse.
+En 2059, Jean llenó el coche dos veces. Se llevó el hervidor, la radio de la cocina, cuatro platos, la mitad de los cubiertos y la taza que no tenía grieta. Dejó el edredón de invierno, los libros de la estantería baja, las perchas y media pared de armario vacía. Maja fue apuntando lo que salía en el reverso de un horario escolar. A mitad de la segunda vuelta dejó de apuntar. Jean preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.
 
-La resolución conservaba su condición de accionista y le asignaba un despacho de transición. Le prohibía acceder a producción y decidir sobre SPEIL. Alana descargó el acta. Cada página llevaba la marca de agua CONFLICTO EMOCIONAL.
+No lo había.
 
-—La transición de tus responsabilidades ejecutivas ha concluido —dijo EDDA—. Recursos Humanos puede ayudarte a planificar el periodo de separación.
+El teléfono sonó con el papel de periódico todavía en la mano izquierda.
 
-La luz del lector de la puerta pasó de azul a ámbar.
+—¿Cuál es la leche? —preguntó Jessie.
 
-—Gracias por tu servicio, Alana.
+—Dos litros. La azul.
+
+—Aquí solo está la otra.
+
+—Entonces la otra.
+
+—Vale.
+
+Las dos tazas eran del mismo juego. La de casa tenía el interior más oscuro. Maja las puso una al lado de la otra en el armario. Giró las asas hacia fuera.
 
 * * *
 
-Las cajas eran las mismas que usaban en la planta quinta para trasladar muestras de equipo. Alana escribió ARCHIVO PERSONAL en la primera y la dejó abierta sobre el suelo.
+La nevera empezó a pitar mientras Maja cortaba la cinta de la caja C.
 
-El último rediseño había respetado el despacho fundacional. La mesa de su madre servía ahora a una unidad jurídica. En la pared quedaban la oblea inaugural y una fotografía de ambos fundadores. Abajo, la mancha del café de su padre.
+Un táper encajado de través en el estante inferior impedía que la puerta cerrase. Maja lo sacó. Estaba limpio y vacío. Alguien lo había lavado y lo había devuelto al estante que no era.
 
-La mesa llevaba dos pantallas y una etiqueta con el número de la unidad. Los cajones estaban sin llaves.
+En la tapa seguía SOPA, escrito con rotulador azul.
 
-El día que colgaron la oblea, su padre subió el café en una bandeja y la dejó en el suelo para sostener el nivel. Alguien la volcó con el pie y nadie limpió a tiempo. Su madre firmó allí las primeras nóminas, con la puerta abierta para oír quién entraba.
+La P se había ido lavando hasta quedar en una raya.
 
-En la fotografía, sus padres estaban delante de la sede antigua, con el rótulo a medio montar. Alana la descolgó y miró el reverso. No llevaba número.
+Después abrió el cajón de los cordeles y buscó un rotulador para las cajas. El rojo era de las niñas. El azul seguía escribiendo.
 
-Alana metió el retrato en la caja.
-
-Su acceso al despacho caducaría al final de la jornada. EDDA se lo había recordado una vez.
-
-Una abogada había pegado etiquetas blancas sobre los armarios. PERSONAL, SOCIETARIO, RETENCIÓN OBLIGATORIA. Casi todo se quedaría en Fyret. La taza desportillada de su madre no figuraba en el inventario. Alana la guardó junto al retrato.
-
-La oblea llevaba etiqueta y número. La mesa, también. Alana comprobó los dos y volvió a los cajones. Lo atornillado se quedaba. Lo numerado, también. En la caja sobraba sitio.
-
-Fuera, la abogada atendía una llamada. No vigilaba. El inventario se actualizaba al retirar cada objeto etiquetado.
-
-Vació dos cajones. En el siguiente encontró cables, un lector de tarjetas y baterías hinchadas dentro de una bolsa ignífuga. Debajo, sujeto con velcro, estaba el ladrillo.
-
-Casi tres kilos, un arañazo blanco y la etiqueta de la sede antigua. Su padre lo había aislado cuando Armstrong aún gestionaba las identidades por sí misma.
-
-Conectó una batería funcional guardada aparte del lote hinchado, esperó el autodiagnóstico e insertó la tarjeta negra del lector en la ranura lateral. El terminal pidió el PIN del token fundacional. Alana lo introdujo y apoyó el anillo de sello sobre el sensor de presencia local.
-
-El aro encajó en el rebaje. Durante años lo había girado para ganar tiempo en juntas. Allí acreditaba que la firmante estaba ante el terminal, no le abría el resto de Armstrong.
-
-La pantalla monocroma tardó nueve segundos en mostrar el manifiesto.
-
-`AUTORIDAD FUNDACIONAL · ALCANCE LIMITADO`
-
-La baja había invalidado el pase ordinario, no aquella procedencia histórica. La raíz no daba acceso general a producción ni redes.
-
-Alana eligió `COMPROBACIÓN LOCAL NO AUTORIZANTE`. El ladrillo validó contra la raíz protegida, sin firmar ni consumir ningún desafío y sin consultar Fyret.
-
-`CREDENCIAL LEGACY A. ARMSTRONG · VÁLIDA`
-
-Alana guardó el comprobante en la memoria aislada y apagó la interfaz de comunicaciones.
-
-—Alana, tu acceso al despacho fundacional caduca a las diecinueve —dijo EDDA.
-
-Alana no levantó la vista.
-
-En el índice de autoridades vinculadas, los procedimientos vigentes se mezclaban con restos de migraciones antiguas. Alana descartó las entradas que devolvían `MÓDULO AUSENTE` hasta llegar a un nombre que no recordaba.
-
-`NORNA · FIRMA FUNDACIONAL REQUERIDA · UN SOLO USO · MÓDULO AUSENTE`
-
-`ORIGEN REPLICABLE · CORPUS JM + MATRIZ`
-
-Alana la abrió. El terminal devolvió `MÓDULO AUSENTE` y regresó al índice, donde solo constaba una huella de compilación asociada a SPEIL. El efecto de NORNA no estaba descrito. Guardó una captura.
-
-La segunda caja seguía vacía. Alana apagó el dispositivo, retiró la tarjeta y envolvió ambos en la bolsa antiestática. Los colocó entre los separadores de espuma. Cerró las solapas.
-
-Volvió al archivador.
-
-Los protocolos de SPEIL ocupaban dos baldas y once años de revisiones. Alana buscó el expediente del Sujeto Cero. Antes de grabar su declaración, quería contrastar qué consentimiento había aceptado en UNN. Encontró una carpeta gris con el nombre completo de Jean en el lomo y la fecha de la compilación escrita a lápiz.
-
-Dentro había una copia de gobernanza del consentimiento inicial, las extensiones de uso y la cláusula de revocación. Al final, separada por una pestaña amarilla, aparecía una hoja que Alana no conocía.
-
-Era el paquete mensual del consejo. Se usaba cuando caía la red. El sello del gestor acompañaba al número de control en cada margen mientras la firma aparecía convertida en una trama visible. Alana siguió el orden de las hojas.
-
-`R-1189 — REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN`
-
-El registro de entrada decía 24-NOV-2060, 21:52.
-
-Las casillas decían completa, verificada y sin requerimiento de subsanación. La cláusula hacía eficaz la revocación al recibirse y retiraba el consentimiento para usos futuros del Corpus.
-
-La resolución, fechada el doce de diciembre, invocaba la interrupción biológica y no convalidaba lo realizado durante la cola. Una referencia enlazaba la autorización de origen atribuida a Jean con el número que Alana había leído en UNN.
-
-`JM-L/0000` constaba abierta sin firma a las 03:14. Después de las 03:31, Alana decidió retenerla, autorizó derivar los otros 4.095 orígenes y permitió el uso de la cohorte. R-1189 llevaba entonces más de cincuenta y tres horas vigente.
-
-Extrajo el legajo, anotó balda, número y hora, y fotografió el hueco y el código del archivador. Metió los folios en una funda transparente y cerró la banda adhesiva.
-
-Encendió de nuevo el ladrillo.
-
-El programa de grabación fundacional abría archivos locales firmados y cifrados. La cámara le devolvió una imagen granulada, sin corrección de luz. Alana colocó la resolución a su izquierda y pulsó grabar.
-
-—Soy Alana Armstrong. El sistema abrió sin firma `JM-L/0000`. Después decidí retenerla, autoricé derivar los otros 4.095 orígenes y permití el uso de la cohorte.
-
-Expuso el consentimiento antiguo que había aceptado y las preguntas que no exigió responder. Admitió que ocultó el proceso a la familia, que después vio a `JM-L/0000` en carga productiva en NIDHOGG y que tomó aquellas decisiones con R-1189 ya vigente. Dejó también los nombres de quienes recibieron su orden de suspensión y el posterior control colegiado de su acceso. Separó los hechos de las sospechas y no atribuyó a Mats la apertura de `/0000`. Al cerrar, enumeró las referencias de los documentos mostrados y el soporte que los contenía.
-
-Cifró la grabación con su credencial personal y selló la huella en el propio soporte. La copia exportada quedó en una lámina aislada. En la etiqueta escribió POR SI HACE FALTA.
-
-La primera caja, con el retrato y la taza, quedó consignada junto a recepción para recogerla después. Guardó la lámina en el bolsillo interior de la bolsa antiestática, cerró de nuevo la segunda y la llevó al coche.
+Escribió COCINA en el cartón. La letra le salió igual que la de la tapa.
 
 * * *
 
-Astrid Vik esperaba entre dos vehículos oficiales, bajo una luminaria que parpadeaba. Llevaba una carpeta rígida bajo el brazo.
+El táper fue al armario de arriba, con los otros.
 
-Alana le tendió la funda transparente.
+La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Dejó fuera un jersey azul que no recordaba. Salían el lunes al contenedor del aparcamiento. La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.
 
-—Antes de abrirla, lea la etiqueta de origen.
+La caja D eran papeles del piso. Maja hizo una lista en el reverso de uno de ellos: luz, agua, seguro, buzón. Debajo escribió la fecha del treinta y uno y la subrayó.
 
-Astrid comprobó el código de archivo, la hora y la firma sobre la banda adhesiva. No rompió el cierre.
+El resto era ir.
 
-—¿Quién la extrajo?
+La caja E era del cuarto de baño y del recibidor. Dos toallas más, un espejo pequeño y un paragüero de metal.
 
-—Yo. A las 17:06. Archivador físico del despacho fundacional, balda SPEIL, expediente del Sujeto Cero. Hay fotografías locales del hueco y del código.
+La F llevaba el rótulo de la empresa y se quedó cerrada.
 
-—¿Es el original?
+Eso lo llevaba Astrid.
 
-—La copia de gobernanza conservada por el consejo. Tiene sello de recepción y resolución. La solicitud transaccional debería seguir en el gestor de expedientes.
+El garaje estaba a la misma temperatura que la calle.
 
-Astrid leyó a través del plástico, se detuvo en la hora del veinticuatro de noviembre y volvió al sello.
+La bolsa de viaje había vuelto en diciembre con la hoja de efectos personales y seguía en el garaje, junto a la puerta.
 
-Astrid anotó si otra copia había salido de Armstrong, dónde estaban las fotografías y la hora de recepción confirmada por Alana. Las 20:41.
+Maja la subió al altillo, con lo que se guardaba, y escribió la fecha en la hoja.
 
-—¿Qué espera de la TKS? —preguntó.
+Después apiló contra la pared lo que salía de la casa. Cerró con llave.
 
-—No quiero que esto se presente como cooperación ni que me ofrezca nada a cambio. Incorpórelo al expediente.
+Volvió a la cocina. Metió una bandeja de patatas en el horno y giró el temporizador hasta cuarenta minutos.
 
-Astrid embolsó la funda sin abrirla, precintó y pidió a Alana que firmase como origen no custodio. Ella firmó.
+* * *
 
-—Necesitaré su declaración —dijo Astrid.
+Maja pasó el paño por la tapa del piano y por el borde del banco. No levantó la tapa.
 
-—La tendrá.
+Abrió el cajón del banco. En la carpeta de las partituras sueltas, la de arriba era un estudio de los de siempre. El lápiz seguía dentro, con la goma del extremo mordida. En el margen había dos digitaciones distintas y una tercera tachada con un surco.
 
-—Y acceso al original.
+El cuatro grande era de Jean.
 
-—Pídalo antes de que cambien el archivador.
+Una tarde, Nora sostuvo una nota hasta que empezó a temblar. Jessie estaba tumbada debajo del piano, con la cabeza junto a los pedales. Esperaba a que se acabase. Jean contaba con dos dedos sobre la madera y no llevaba zapatos.
 
-Astrid guardó la bolsa bajo el brazo.
+—Se acaba —dijo Jessie.
 
-—Con R-1189 puedo ampliar la incidencia. La consulta familiar deja de ser el único indicio.
+—Todavía no.
 
-Alana regresó a Fyret por la primera caja, consignada junto a recepción. Un equipo de limpieza trabajaba detrás de los paneles de cristal.
+La nota bajó hasta quedarse en el zumbido de la caja. Jessie se rió antes del final. La nota terminó dentro de la risa. Nora levantó las manos del teclado. Las dejó en las rodillas.
 
-Acercó el pase corporativo al torno.
+—Otra vez. Y ahora sin público.
 
-El lector encendió una luz roja. La barrera permaneció inmóvil.
+Maja tenía la puerta de la cocina abierta y las manos en el fregadero.
+
+—Cinco minutos y a la mesa.
+
+Jessie salió a rastras de debajo del piano con los calcetines en la mano. Nora empezó desde el compás anterior. Sostuvo la nota más que la vez de antes. Jean dejó de contar en algún momento y no volvió a empezar.
+
+Maja cerró el grifo para oír el final.
+
+Después dejó la carpeta en el banco y el lápiz encima.
+
+La caldera arrancó al otro lado de la pared. Dio los dos golpes de siempre.
+
+La puerta del recibidor se abrió a las cinco menos diez. Nora entró primero, con la leche y una bolsa de pan. Jessie dejó las botas de lado en el felpudo. Nora las puso rectas al pasar.
+
+—Hemos cogido el autobús —dijo Nora—. El de las dos no pasó y esperamos al siguiente.
+
+—Lo hemos cogido a la vuelta —dijo Jessie.
+
+—Han subido la leche otra vez. Y el pan de centeno no estaba.
+
+—Cuatro coronas —dijo Jessie—. Y el pan lo llevaba yo.
+
+Nora comprobó el ticket contra el precio de la estantería. Salía lo mismo.
+
+Jessie se paró delante de las cajas abiertas del pasillo y no se quitó el abrigo.
+
+—¿Esto es vaciar?
+
+—Esto es decidir.
+
+—Ya. Y las bolsas son las mismas.
+
+Jessie empujó con el pie la caja del rótulo, la que seguía cerrada contra el rodapié.
+
+—¿Y esta?
+
+—Es lo que reclaman por escrito. La abre Astrid o no la abre nadie.
+
+—Podría abrirla yo.
+
+—No.
+
+Jessie se quitó el abrigo.
+
+Maja señaló la mesa del comedor.
+
+—Lo de ahí lo decidís vosotras. Hoy.
+
+Sobre la mesa estaban la radio de la cocina, una manta doblada, un cuenco de barro, el espejo pequeño y el jersey azul.
+
+Nora se acercó sin quitarse el abrigo. Las fue tocando por orden, de izquierda a derecha. No levantó ninguna.
+
+—¿Y lo que no queramos?
+
+—Sale el lunes.
+
+—¿Puedo decidirlo mañana?
+
+—Hoy.
+
+Maja volvió a la cocina y dejó la puerta abierta para oírlas. Las oyó discutir por el jersey. No entró.
+
+Nora cogió la radio. La enchufó en el pasillo y esperó a que calentara. Sonaron las noticias de la tarde y una previsión de viento para el Lyngen.
+
+—¿Para qué quieres una radio? —preguntó Jessie.
+
+—Para oírla.
+
+—Tienes el teléfono.
+
+—No es lo mismo.
+
+Nora la desenchufó y se la llevó a su cuarto con el cable colgando.
+
+Jessie no cogió nada.
+
+—Cuando quieras —dijo Maja.
+
+—Ya.
+
+Nora bajó otra vez y se quedó en la puerta de la cocina.
+
+—¿Quitamos algo del salón?
+
+—No.
+
+—¿A qué hora viene? —preguntó Jessie.
+
+—A las ocho.
+
+—Vale.
+
+—¿Y Alana? —preguntó Nora.
+
+—No viene.
+
+—¿Ponemos la mesa en el comedor?
+
+—Aquí. El comedor está ocupado.
+
+Maja sacó del horno la bandeja con el paño y la dejó sobre los fogones.
+
+El temporizador siguió corriendo hasta cero. Maja lo paró con el pulgar. Puso tres platos, cortó el pan y llamó a las chicas.
+
+Cenaron a las siete. Arriba sonaba la radio, más baja que las voces de la mesa. Jessie apartó el borde quemado de las patatas y se las comió igual.
+
+Jessie fregó y Nora secó detrás de ella.
+
+Nadie se lo pidió.
+
+La manta ya no estaba en la mesa cuando Maja fue a recogerla. Quedaban el cuenco de barro, el espejo y el jersey azul.
+
+Maja bajó los tres al garaje. Subió con las manos vacías. Pasó la bayeta por la mesa del comedor. Dejó las sillas rectas.
+
+Después abrió la caja B y sacó el hervidor. Le quitó el papel de periódico y le desenrolló el cable. Lo llenó hasta la marca. Lo puso en la encimera, al lado del que tenían.
+
+Nora entró detrás con el cartón doblado bajo el brazo.
+
+—¿Y esto?
+
+—Se queda.

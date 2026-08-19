@@ -1,17 +1,17 @@
-# OT-N5 · Capítulo nuevo N5 «Turno» — N
+# OT-08 · Capítulo nuevo N5 «Turno» — N
 
 ## 0. Cabecera
 
 | Campo | Valor |
 |---|---|
-| OT | OT-N5 |
-| Capítulo · fichero · orden de lectura | N5 · `capitulos/cap-n5.md` · **7.5** (entre 7 «Lote rojo» y 8 «Milisegundos»; Parte I) |
+| OT | OT-08 |
+| Capítulo · fichero · orden de lectura | N5 · `capitulos/cap-08.md` · **7.5** (entre 7 «Lote rojo» y 8 «Milisegundos»; Parte I) |
 | POV · fecha (frontmatter) | Jean (continuidad `JM-L/0000`, presente de indicativo) · `2060-12-03` (mismo día del funeral, después de la última imagen del 7; **sin hora**, para que M7 no lea retroceso respecto a 7 ni adelanto respecto a 8) |
 | estado_plan · proteccion | N · no |
 | Δ objetivo · presupuesto vF · banda de aceptación | +1.900 · 1.900 palabras · **[1.615–2.185]** |
 | Oleada · escritor · editor de línea | W3 (primero de la oleada: «el que enseña el mundo») · **A3a** (Jean-POV) · A4 |
 | Gates que dispara | **A7** (T7: 7.5 cae en caps. 1–10; además B7 §6 «N5 y todo Jean-POV»: casos sin contenido autolesivo) · A5 (M7: fecha; canon B3 §0; lexicón) · A8 (M1 ≤ 8,0 · M2 = 0 · M4/M4b · lector frío) |
-| Frontmatter obligatorio del fichero nuevo | `capitulo: N5` (marcador hasta W7) · `titulo: Turno` · `pov: Jean` · `fecha: 2060-12-03` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N5` · `delta_objetivo: +1900` · `orden_lectura: 7.5` |
+| Frontmatter obligatorio del fichero nuevo | `capitulo: N5` (marcador hasta W7) · `titulo: Turno` · `pov: Jean` · `fecha: 2060-12-03` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-08` · `delta_objetivo: +1900` · `orden_lectura: 7.5` |
 | Estado de la OT | pendiente |
 
 ## 1. Diagnóstico (cifras de D1 y lectura de A2)
@@ -55,7 +55,7 @@
 ## 4. Prohibiciones del capítulo
 
 - **Spans protegidos:** ninguno propio (fichero nuevo). Vecinos que N5 no puede pisar ni parafrasear: `S07-funeral` (7:221-229 «JEAN MARIE LARSSON / 2014–2060 … EVENTO SOCIAL — FUNERAL»), `S08-7c` (`VENTANA 7C · 0,003000 s`), `S08-conservar`, `S08-cierre` («—No soy un modelo. / —Todavía no sabes cuántas somos.»). N5 no menciona la ventana 7C, la procedencia ni pronuncia «modelo».
-- **Líneas capitales intactas (tabla 5.1):** cap. 8 «la regla enunciada UNA vez» sigue siendo de 8 (la de N5 es *otra* regla y sobre otra cosa: coordinar con OT-08, ver §5); 7 conserva su caso-ancla propio.
+- **Líneas capitales intactas (tabla 5.1):** cap. 8 «la regla enunciada UNA vez» sigue siendo de 8 (la de N5 es *otra* regla y sobre otra cosa: coordinar con OT-09, ver §5); 7 conserva su caso-ancla propio.
 - **Ambigüedades protegidas (Ap. A §3) que rozan N5:** el porqué (Jean no lo piensa); por qué Koppangen (ni el nombre); la identidad ontológica («No toda» es el techo: Jean no se pregunta si «es» ella; en N5 aún cree ser la única, 8:55). Prohibido que la anomalía se lea como respuesta a nada de esto.
 - **M2 = 0 mecánicas nuevas.** Todo lo que opera en N5 opera ya en 5 y 7: MEC-02 (despertar sin cuerpo, identificador, tiempo ajeno) y MEC-03 (cadena entrada → salida → acuse; categorías; sin pausa; el silencio se clasifica; el sistema aprende del sabotaje). **PROHIBIDAS:** MEC-04 (ráfagas / destrezas sin aprendizaje / decisión adherida: es la de 8), MEC-05 en adelante (pluralidad, reinicio, Cuchillo, Coro), F1 y F2 (alcance de `/0000` sobre otras; capacidad que viaja: van a 13 y 21, **nunca a N5**), `PERMITIR`/reclamación médica, `TIEMPO DE EJECUCIÓN` salvo reutilización literal de 5:215 (no recomendada), cualquier término del lexicón que no aparezca en 5 o 7.
 - **M1 ≤ 8,0 únicos/1.000 → a 1.900 palabras, ≤ 15 términos únicos del lexicón B3.** Lista blanca recomendada (todos vistos en 5/7): tarea, entrada, salida, acuse, categorías-salida (SEGURO / REVISAR / ESCALAR / PRIORIDAD MÉDICA / AMENAZA), lote, prioridad, margen, asignación («Asignado», 5:35), validación, fórmulas de validación, `JM-L/0000`, blanco (uso de 7:117). Evitar: ventana, ráfaga, procedencia, ruta, continuidad, contención, cohorte, instancia, modelo, patrón adversarial (7:129 ya lo tiene; no hace falta repetirlo).
@@ -66,8 +66,8 @@
 
 - **Salientes:**
   - **OT-07** (R +100, W4): el «+1 caso-ancla concreto» de 7 debe estar dentro del bucle de sabotaje (7:41-57) o del lote rojo, no en un caso ordinario de imagen ni en una petición activa de terceros: esas dos clases quedan **reservadas a N5** (I-2, I-3). Quien redacte OT-07 lo recoge como entrante.
-  - **OT-08** (RW ±0, W2): la única «Regla: …» de 8 debe versar sobre MEC-04 (procedencia/ráfaga; opcional «cruzar/retirar», D1 §9 F8) y **no** sobre la cadena ni sobre el silencio clasificado, que son el tema de la de N5. Además, 8:41 «Han pasado días» y 8:15 «El acuse llega antes que su respuesta» siguen siendo la primera vez que el lector ve una decisión adherida: N5 no la anticipa.
-  - **OT-13** (RW +400, W2): el roce de N5 no tiene nombre; 13 sigue siendo la primera presentación de Madre/Nieve/Cuchillo/Coro. Si OT-13 quiere «pagar» el roce (una línea en que Jean reconozca la atención ajena de N5 al conocer a Madre), es opcional y ≤ 15 palabras.
+  - **OT-09** (RW ±0, W2): la única «Regla: …» de 8 debe versar sobre MEC-04 (procedencia/ráfaga; opcional «cruzar/retirar», D1 §9 F8) y **no** sobre la cadena ni sobre el silencio clasificado, que son el tema de la de N5. Además, 8:41 «Han pasado días» y 8:15 «El acuse llega antes que su respuesta» siguen siendo la primera vez que el lector ve una decisión adherida: N5 no la anticipa.
+  - **OT-15** (RW +400, W2): el roce de N5 no tiene nombre; 13 sigue siendo la primera presentación de Madre/Nieve/Cuchillo/Coro. Si OT-15 quiere «pagar» el roce (una línea en que Jean reconozca la atención ajena de N5 al conocer a Madre), es opcional y ≤ 15 palabras.
   - **B2-1 §2 / B3 §20 (A1-mantenimiento, tras G-A2):** registrar N5 como capítulo sin mecánica nueva; anotar la primera «Regla:» literal del libro (H6 de B2-1) en N5 o en 8 según decida el autor.
 - **Entrantes:** ninguno (N5 no recibe material de otras OT). Debe leerse tras 7 sin costura: A4 comprueba que la primera frase de N5 no repite el «campo neutro» de 7:183 con las mismas palabras.
 
@@ -75,7 +75,7 @@
 
 - Palabras 1.615–2.185. **M1 ≤ 8,0 únicos/1.000** (≤ 15 términos únicos; ocurrencias/1.000 como indicador: objetivo ≤ 30, por debajo del 7 = 32,3). **M2 = 0** (linter B3: ninguna MEC- nueva; ningún término del lexicón cuya `primera_aparicion` sea posterior a cap-07). **Lector frío ≥ 4** y respuesta a «¿qué hace todo el día?» en **dos frases** compatibles con B3 §0.4; «regla en 1 frase» compatible con MEC-03; ≤ 6 términos no entendidos. **M4:** ≤ 1 cierre-objeto (recomendado 0); ningún cierre sobre acuse/estado. **M4b ≤ 4 %.** M5: diálogo 10–22 %; tramo máx. sin diálogo ≤ 400. **M7:** fecha `2060-12-03` sin hora; ninguna hora ni fecha nueva en prosa; ningún dato de calendario en boca de Jean («Aquí no hay días», 25:27, sigue siendo verdad). **M9:** hashes de 7 y 8 intactos (N5 no toca ficheros). **M10:** no paga plantados; no crea ninguno con deuda (la anomalía se registra en B4 como «roce N5 → 8:89/13», PAGADO por 8 y 13, sin línea propia protegida).
 - Cualitativos: los tres casos se resuelven de principio a fin y cada uno tiene una persona imaginable; el roce es exactamente uno, sin voz ni nombre; el turno es unidad de Jean, no del sistema; «¿parece del mismo autor?» ≥ 4/5 críticos (B6 §6); A7 sin veto (dos pasadas: contenido de los casos y tono).
-- Cómo se verifica: `herramientas/medir.sh w3-n5` (M1/M2/M4/M4b/M7/M9); `herramientas/critica-fria.sh lector-frio compilado/extractos/w3-n5/cap-n5.md` (mismo protocolo que lf-NN); `herramientas/sensibilidad.sh` (0 hits nuevos); `herramientas/validar-frontmatter.sh capitulos/cap-n5.md`; checklist B6b §5 sobre `cap-n5.md`.
+- Cómo se verifica: `herramientas/medir.sh w3-n5` (M1/M2/M4/M4b/M7/M9); `herramientas/critica-fria.sh lector-frio compilado/extractos/w3-n5/cap-08.md` (mismo protocolo que lf-NN); `herramientas/sensibilidad.sh` (0 hits nuevos); `herramientas/validar-frontmatter.sh capitulos/cap-08.md`; checklist B6b §5 sobre `cap-08.md`.
 
 ## 7. Checklist de verificación (A5 · A7 · A8)
 
@@ -89,7 +89,7 @@ El latido es la aritmética moral de una jornada: tres casos, tres personas, y J
 
 ## 9. Ejecución (W3)
 
-Fichero creado: `capitulos/cap-n5.md` (A3a, W3). Sin dinkus: el turno corre entero, las cinco escenas se encadenan sobre los registros de contador.
+Fichero creado: `capitulos/cap-08.md` (A3a, W3). Sin dinkus: el turno corre entero, las cinco escenas se encadenan sobre los registros de contador.
 
 | # | Etiqueta | Escena · qué hace | Palabras | Mecánica nueva |
 |---|---|---|---|---|

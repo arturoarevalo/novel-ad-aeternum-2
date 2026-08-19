@@ -1,17 +1,17 @@
-# OT-N6 · Capítulo nuevo N6 «Acta» — N
+# OT-47 · Capítulo nuevo N6 «Acta» — N
 
 ## 0. Cabecera
 
 | Campo | Valor |
 |---|---|
-| OT | OT-N6 |
-| Capítulo · fichero · orden de lectura | N6 · `capitulos/cap-n6.md` · **40.5** (tras 40 «Sombra», antes de 41 «El siguiente Soldagen»; Parte IV) |
+| OT | OT-47 |
+| Capítulo · fichero · orden de lectura | N6 · `capitulos/cap-47.md` · **40.5** (tras 40 «Sombra», antes de 41 «El siguiente Soldagen»; Parte IV) |
 | POV · fecha (frontmatter) | **Aslak** (**APROBADO en G-A1 por el autor, 2026-08-17**: primer POV de Aslak del libro; la alternativa Maja «invitada» queda descartada) · `2061-05-11` (**miércoles**, día de sesión: 40:137 «El miércoles nos escuchan»; primavera, luz larga; ventana admisible B1: cualquier fecha ≥ `2061-04` y anterior a octubre de 2061 —41:101 «Llevas diciendo eso desde octubre»—; posterior a la «segunda sesión» de marzo de 40:175) |
 | estado_plan · proteccion | N · no |
 | Δ objetivo · presupuesto vF · banda de aceptación | +1.700 · 1.700 palabras · **[1.445–1.955]** |
 | Oleada · escritor · editor de línea | W3 (sexto y último) · **A3b** · A4 |
 | Gates que dispara | A7 (pase breve: B7 §6 «N2 y N6»: titulares sin causa ni método; ninguna foto «del lugar»; el debate público persona/activo sin editorial) · A5 (M7: ventana 40→41; canon del kystbrukslag y de la servidumbre de 2057: 26:87-121, 16:133, 37:141, 40:135-141, 40:161, 40:175; 41:95-103) · A8 (M1 ≤ 6,0; M2 = 0; **0 cierres-objeto**) · **G-A1**: POV y contenido del acta (canon del hilo sjøsamisk) |
-| Frontmatter obligatorio del fichero nuevo | `capitulo: N6` · `titulo: Acta` · `pov: Aslak` (decisión G-A1) · `fecha: 2061-05-11` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N6` · `delta_objetivo: +1700` · `orden_lectura: 40.5` |
+| Frontmatter obligatorio del fichero nuevo | `capitulo: N6` · `titulo: Acta` · `pov: Aslak` (decisión G-A1) · `fecha: 2061-05-11` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-47` · `delta_objetivo: +1700` · `orden_lectura: 40.5` |
 | Estado de la OT | pendiente |
 
 ## 1. Diagnóstico (cifras de D1 y lectura de A2)
@@ -63,19 +63,19 @@
 ## 5. Ripples
 
 - **Salientes:**
-  - **OT-26** (E +200 «+agenda propia de Aslak», W4): **entrante obligatorio de coordinación:** la reunión del kystbrukslag del 4-ene (26:175) debe tener el **mismo asunto** que N6 paga (la servidumbre/usos costeros de 2057; un requerimiento o revisión recibido por la asociación en diciembre; origen administrativo/corporativo, no Coro), y la agenda propia de Aslak en 26 no debe anticipar el resultado. `S26-asociacion` (26:121 «La asociación decidirá lo suyo») queda como plantado que N6 paga.
-  - **OT-40** (R +150, W5): **sin retoque de 40:161/175** (N6 es posterior); si A4 varía el cierre-objeto 40:163 con «réplica de Aslak sobre la segunda sesión de la consulta» (B6 §5.6 n.º 8), esa réplica no puede adelantar el acta (solo que habrá otra sesión: coherente con 40:161).
-  - **OT-41** (P): ninguna costura necesaria (0 palabras); N6 no toca «En primavera» / «desde octubre».
-  - **OT-37** (P núcleo, +150 textura): 37:141 se conserva; N6 lo paga.
-  - **OT-33** (E +150): 33:37 («la voz de Aslak contando algo que Alana no entendía») puede quedar como ambigüedad de lengua; N6 puede dejar oír una palabra en sami/kven sin traducirla; no es obligatorio; ninguna glosa.
+  - **OT-32** (E +200 «+agenda propia de Aslak», W4): **entrante obligatorio de coordinación:** la reunión del kystbrukslag del 4-ene (26:175) debe tener el **mismo asunto** que N6 paga (la servidumbre/usos costeros de 2057; un requerimiento o revisión recibido por la asociación en diciembre; origen administrativo/corporativo, no Coro), y la agenda propia de Aslak en 26 no debe anticipar el resultado. `S26-asociacion` (26:121 «La asociación decidirá lo suyo») queda como plantado que N6 paga.
+  - **OT-46** (R +150, W5): **sin retoque de 40:161/175** (N6 es posterior); si A4 varía el cierre-objeto 40:163 con «réplica de Aslak sobre la segunda sesión de la consulta» (B6 §5.6 n.º 8), esa réplica no puede adelantar el acta (solo que habrá otra sesión: coherente con 40:161).
+  - **OT-48** (P): ninguna costura necesaria (0 palabras); N6 no toca «En primavera» / «desde octubre».
+  - **OT-43** (P núcleo, +150 textura): 37:141 se conserva; N6 lo paga.
+  - **OT-39** (E +150): 33:37 («la voz de Aslak contando algo que Alana no entendía») puede quedar como ambigüedad de lengua; N6 puede dejar oír una palabra en sami/kven sin traducirla; no es obligatorio; ninguna glosa.
   - **A1-mantenimiento (tras G-A2):** canon nuevo (B1: fecha de la sesión del acta; B2 §7: el resultado —pérdida común registrada, usos costeros reconocidos como anteriores, consulta previa a reservas de la bocana/cierres del paso; servidumbre mantenida—; B4: CH-26 → PAGADO (N6 + 26); B2 §8: fichas de dos o tres miembros de la asociación y del funcionario si tienen nombre); B2 §7(g): test no-instrumental → superado (N6 + 26).
-- **Entrantes:** de **OT-26** (el asunto de la reunión del 4-ene, si se ejecuta antes que N6 en el orden de trabajo —N6 se escribe en W3 y 26 en W4: **N6 fija el canon y 26 lo respeta**); de **OT-37** (37:141); de **OT-40** (40:135-141, 40:161, 40:175 tal como están).
+- **Entrantes:** de **OT-32** (el asunto de la reunión del 4-ene, si se ejecuta antes que N6 en el orden de trabajo —N6 se escribe en W3 y 26 en W4: **N6 fija el canon y 26 lo respeta**); de **OT-43** (37:141); de **OT-46** (40:135-141, 40:161, 40:175 tal como están).
 
 ## 6. Criterios de aceptación (medibles)
 
 - Palabras 1.445–1.955. **M1 ≤ 6,0.** **M2 = 0.** **Lector frío ≥ 4** («¿qué ocurre?»: una asociación costera recibe el resultado de una consulta y una mujer asiste como invitada técnica; «¿dónde?»: Lyngen/Svensby, una sala, un ferry; ≤ 4 términos opacos, ninguno de sistema). **M4: 0 cierres-objeto.** **M4b ≤ 4 %.** M5: diálogo 26–32 %; tramo máx. sin diálogo ≤ 350. **M6b:** las réplicas nuevas de Aslak (si entra en la muestra ampliada) atribuibles ≥ 60 % en prueba local (`--insumo-libre`, 8 réplicas). **M7:** `2061-05-11` (miércoles; ≥ 2061-04; < octubre 2061); posterior a marzo (40:175); nada contradice 41:95-103; la sesión no coincide con turnos de locutorio (no se mencionan). **M9:** 26, 37, 40, 41 intactos. **M10:** CH-26 → PAGADO; 40:141 y 26:121 pagados; 37:141 pagado.
 - Cualitativos: **test no-instrumental de Aslak superado**: el resultado existe sin la familia y la escena no sirve a la familia; Maja invitada (≤ 6 réplicas, ninguna decisión suya); tres pinceladas del debate persona/activo **vistas** y ninguna comentada; ninguna frase del narrador que tome partido; nada de 41 anticipado; «¿parece del mismo autor?» ≥ 4/5 (riesgo específico: nuevo POV → A4 vigila que la sintaxis de Aslak-narrado sea la de la casa, no un dialecto).
-- Cómo se verifica: `medir.sh w3-n6`; `critica-fria.sh lector-frio compilado/extractos/w3-n6/cap-n6.md`; `sensibilidad.sh`; `proteger.sh verificar`; `validar-frontmatter.sh`; B6b §5 ((d) cierres = 0).
+- Cómo se verifica: `medir.sh w3-n6`; `critica-fria.sh lector-frio compilado/extractos/w3-n6/cap-47.md`; `sensibilidad.sh`; `proteger.sh verificar`; `validar-frontmatter.sh`; B6b §5 ((d) cierres = 0).
 
 ## 7. Checklist de verificación (A5 · A7 · A8)
 
@@ -89,7 +89,7 @@ Este capítulo no es de la familia y no lo disimules. Aslak no siente en página
 
 ## 9. Ejecución (W3)
 
-Fichero creado: `capitulos/cap-n6.md` (no existía). Frontmatter exacto de §0. Recuento: 0 → **1.646 palabras** (banda 1.445–1.955; objetivo 1.700). Cuatro escenas: 343 / 753 / 242 / 308.
+Fichero creado: `capitulos/cap-47.md` (no existía). Frontmatter exacto de §0. Recuento: 0 → **1.646 palabras** (banda 1.445–1.955; objetivo 1.700). Cuatro escenas: 343 / 753 / 242 / 308.
 
 | # | Etiqueta | Escena · líneas | Qué se escribió | Palabras |
 |---|---|---|---|---|
@@ -98,12 +98,12 @@ Fichero creado: `capitulos/cap-n6.md` (no existía). Frontmatter exacto de §0. 
 | **I-3** | **TEXTURA / PAGO** | Escena 3 · 201-229 (ferry de las 16:00 y tienda de Svensby) | Tablón, horario de verano corregido a mano, anuncio de una barca en venta; **tercera pincelada:** hoja impresa en el cristal con `NO SOY UN MODELO`, la última palabra tachada con rotulador y dos renglones corridos por la lluvia (mostrado, no leído), más dos hombres discutiendo una palabra del rótulo que callan al llegar su turno. La cajera de 28:53-77 con una línea vecinal sin causa y sin la muerte («Mi padre alegó en el cincuenta y siete. Le contestaron dos años después»); Aslak responde con el expediente y la página. Cierre sobre réplica de la cajera («Algo es»). | 242 |
 | **I-4** | **AGENCIA** | Escena 4 · 233-269 (refugio y varadero) | El acta al **cajón del refugio**, encima de las tres reproducciones que vuelven (40:135); las selladas en diez días. Aslak vuelve al oficio: calzos del revés cambiados, cabo adujado a la bita, reparto del hielo, guía de proa, mordaza; cuenta las cajas en voz alta en sami sin glosa («Okta, guokte, golbma»; ripple opcional de 33:37); corrección de trabajo a Nils Seppola; el día sumado en trescientos y una marea. La consulta se juzga desde fuera («Eso no es nada») y él no discute: cierre sobre réplica —«Es un aviso» + orden de trabajo—, **0 cierres-objeto**. | 308 |
 
-**Métricas al entregar:** palabras 1.646 · **M1 2,4 únicos/1.000** (4 términos: `kystbrukslag`, `servidumbre` ×2, `ak-7`, `activo-memorial`; ninguno en boca de Aslak) · **M2 = 0** · diálogo **28,8 %** · réplicas 66, mediana **5,5**, máx. 28 (lectura del acta, autorizada en §2b) · acotaciones 22,7 % · frase media narrativa 10,2, máx. 22, frases ≥ 25 = 0 · **M4 = 0 cierres-objeto** (gesto con decisión / réplica ×3) · **M4b = 0,0 %** · tramo máx. sin diálogo 264 · 4 escenas · cero -mente, cero adjetivos valorativos, cero verbos de sentimiento, cero «como si», cero «;». `validar-frontmatter.sh` OK (0 avisos) · `proteger.sh verificar` M9 OK (8 ficheros, 108 spans) · `sensibilidad.sh --solo cap-n6.md`: **0 hits de nivel A**, 16 de nivel B (léxico costero inherente: `cabo`, `agua`, `mar`, `hielo`, `ferry`, `naust`, `carretera`, `coche`), ninguno próximo al acto ni a Jean.
+**Métricas al entregar:** palabras 1.646 · **M1 2,4 únicos/1.000** (4 términos: `kystbrukslag`, `servidumbre` ×2, `ak-7`, `activo-memorial`; ninguno en boca de Aslak) · **M2 = 0** · diálogo **28,8 %** · réplicas 66, mediana **5,5**, máx. 28 (lectura del acta, autorizada en §2b) · acotaciones 22,7 % · frase media narrativa 10,2, máx. 22, frases ≥ 25 = 0 · **M4 = 0 cierres-objeto** (gesto con decisión / réplica ×3) · **M4b = 0,0 %** · tramo máx. sin diálogo 264 · 4 escenas · cero -mente, cero adjetivos valorativos, cero verbos de sentimiento, cero «como si», cero «;». `validar-frontmatter.sh` OK (0 avisos) · `proteger.sh verificar` M9 OK (8 ficheros, 108 spans) · `sensibilidad.sh --solo cap-47.md`: **0 hits de nivel A**, 16 de nivel B (léxico costero inherente: `cabo`, `agua`, `mar`, `hielo`, `ferry`, `naust`, `carretera`, `coche`), ninguno próximo al acto ni a Jean.
 
 **Decisiones y desviaciones (para A0 / A4 / A5 / A7):**
 1. **Geografía de la sesión.** Aslak vive en la ribera de Svensby (26, 28:189, 31:225), de modo que el ferry solo cabe si la lectura no se celebra en Lyngen: el acta la lee la administración donde está el expediente y donde tiene sello el órgano costero (37:141), y Aslak cruza con la furgoneta. La queja consta en escena («Esto podían haberlo leído en Lyngseidet») como coste, no como comentario. Sin organismos ni siglas nuevas; el membrete trilingüe de 26:91 se cita sin glosa.
 2. **Las dos líneas Aslak–Maja sobre el acta** se han colocado al final de la escena 2 (escalera), no en la escena 3: así las escenas 3 y 4 quedan **sin familia** y Maja «contesta y se va». Ninguna decisión suya en la sala; ni una palabra sobre Jean.
-3. **Canon fijado para W4 (OT-26 debe respetarlo):** la reunión del 4-ene (26:175) trata del mismo expediente; la servidumbre **sigue**; «paso» vuelve solo como consulta previa **sin plazo**; «uso» no vuelve; el acta admite observaciones quince días y las copias selladas tardan diez. La asociación tenía 23 nombres en 2057 y hoy 11 (dato nuevo, contable).
+3. **Canon fijado para W4 (OT-32 debe respetarlo):** la reunión del 4-ene (26:175) trata del mismo expediente; la servidumbre **sigue**; «paso» vuelve solo como consulta previa **sin plazo**; «uso» no vuelve; el acta admite observaciones quince días y las copias selladas tardan diez. La asociación tenía 23 nombres en 2057 y hoy 11 (dato nuevo, contable).
 4. **Nombres nuevos para B2 §8** (A1-mantenimiento): Marit Sarre (secretaria de la asociación), Jonas Seppola (miembro veterano), Nils Seppola (trabaja con Aslak en el varadero), el funcionario (sin nombre), la cajera de Svensby (ya en B2).
 5. **Riesgos que quiero que miren A7 y A4:** (a) Marit fecha la reserva de la bocana el **21 de enero** —pago literal de 26:191—; es la fecha del Soldagen y el lector la reconocerá, aunque en escena solo significa una bocana cerrada por operaciones; (b) `NO SOY UN MODELO` como consigna callejera y `PERSONA O ACTIVO` como rótulo: sin causa, sin método, sin foto del lugar, sin editorial; (c) el desliz «el activo… la persona» queda sin corregir por decisión de la OT.
 

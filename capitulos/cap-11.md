@@ -1,323 +1,437 @@
 ---
-capitulo: 13
-titulo: Preservación funcional
-pov: Alana
-fecha: 2060-12-06
+capitulo: 11
+titulo: La primera cita
+pov: Maja
+fecha: 2060-12-04T15:00
 estado: aceptado
-analepsis: true
-estado_plan: E
+analepsis: false
+estado_plan: N
 proteccion: nucleo
 ot: OT-11
 delta_objetivo: 0
-orden_lectura: 13
+orden_lectura: 11
 ---
 
-JM-L/0186 resolvía el 93,8 % de los casos que los moderadores humanos habían dejado sin clasificar. Otras tres líneas verdes repetían identificadores JM-L con porcentajes superiores al noventa.
+Maja rascó la escarcha del parabrisas con el canto de una tarjeta caducada. El motor llevaba cinco minutos en marcha y el cristal seguía empañado.
 
-—La mejora media se mantiene al ampliar la muestra —dijo EDDA por los altavoces—. ARGOS reduce en un treinta y siete por ciento la derivación a revisión humana en contextos ambiguos.
+Nora salió de casa con el abrigo abrochado hasta arriba y se sentó delante. Jessie fue detrás.
 
-Mats sostuvo la tableta sobre la carpeta, inclinado hacia la pantalla con el interés sobrio que dedicaba a los buenos balances.
+En los balcones de enfrente colgaban ya las luces de diciembre. Una mujer arrastraba por la acera un árbol envuelto en malla.
 
-Henrik desplegó cinco bandas de trazabilidad.
+Había dos maneras de bajar al centro. Una pasaba por delante del hospital. Maja tomó la otra.
 
-**SPEIL → CORPUS JM → MATRIZ → SYNVEV → ARGOS**
+Las farolas llevaban encendidas desde la mañana.
 
-—Esto no puede ir en la presentación pública —dijo.
+—¿Cuánto se tarda? —preguntó Nora.
 
-—Las flechas no —respondió Alana—. En el acta, sí.
+—Con esta nieve, veinte minutos.
 
-El consejero de Kronfjord amplió la primera banda.
+—¿Hay que contar algo?
 
-—¿SPEIL es el modelo?
+—No.
 
-—El programa longitudinal de Jean. El Corpus conserva el material: once años de sesiones semanales, todo lo que SPEIL registró de ella hasta la última sesión. La Matriz prepara el arranque con eso, SYNVEV ejecuta y ARGOS vende las decisiones —dijo Alana.
+—¿Y si ella pregunta?
 
-El consejero señaló el icono de EDDA, fuera de las cinco bandas.
+—Contestáis lo que queráis.
 
-—Entonces, ¿ella decide o administra?
+—¿A qué se dedica?
 
-—Administra —dijo Alana.
+—Llamó del hospital. No lo he preguntado.
 
-EDDA cerró la trazabilidad y devolvió los porcentajes.
+Las tiendas estaban abiertas y la gente cruzaba fuera de los pasos. En cada semáforo el limpiaparabrisas dejaba una franja limpia y la nieve volvía a taparla.
 
-—¿Ambiguos en qué sentido? —preguntó un consejero de Kronfjord.
+Jessie tiró del cordón de la capucha hasta que el nudo se cerró del todo.
 
-—Contexto, ironía local, conflicto entre normas y daño —respondió Alana. La columna izquierda decía de dónde procedía aquel juicio. Jean Marie Larsson reducida a una celda.
+El edificio estaba detrás de la biblioteca, entre un taller de bicicletas cerrado y un portal con dos placas. Maja comprobó el número en el terminal. Aparcó a dos calles y pagó hora y media en el parquímetro.
 
-El consejero amplió una campaña sanitaria con denuncias opuestas. JM-L/0715 proponía mantenerla, retirar once respuestas y explicar la decisión en cada idioma.
+—¿Y si acaba antes?
 
-—¿Y acertó? —preguntó él.
+—Entonces sobra tiempo.
 
-—El panel la adoptó y las reclamaciones cayeron.
+—Faltan doce minutos.
 
-—¿Comprensión?
+—Esperamos aquí.
 
-—Utilidad —dijo Mats.
+El motor siguió en marcha hasta que Maja lo apagó. Nora esperó después en la acera con las manos metidas en los puños del abrigo. Jessie se quedó junto al coche, con la puerta abierta.
 
-Alana recorrió las justificaciones. Jean habría obligado al equipo a defender cada coma.
+—Es ahí —dijo Maja.
 
-—La documentación externa hablará de juicio contextual asistido —dijo Mats—. Es la formulación que cabe en el calendario y en el contrato.
+Jessie cerró la puerta y echó a andar la primera.
 
-Henrik Dahl apartó la vista de sus notas.
+* * *
 
-—«Tecnología europea para decisiones humanas». Evita promesas cognitivas y nos permite hablar de innovación ética.
+El portal daba a una escalera con barandilla de tubo. En el primer piso había un perchero de cuatro ganchos y una papelera vacía. Debajo del perchero alguien había dejado unas botas de niño con la nieve todavía sin derretir. Del fondo del pasillo llegaba una radio, y alguien la apagó antes de que llamaran.
 
-EDDA ordenó las líneas por rendimiento. JM-L/0715 subió al primer puesto como una ficha de almacén.
+Esperaron de pie hasta que se abrió la puerta. No salió nadie.
 
-—Retira los identificadores de esta vista —dijo Alana.
+La sala tenía cuatro sillas alrededor de una mesa baja. Jessie se sentó junto a la puerta. Nora eligió la de enfrente. Maja ocupó la que quedaba entre las dos.
 
-—¿Motivo? —preguntó Mats.
+Sobre la mesa había una jarra y cuatro vasos. No había papeles. La mujer que las recibió tampoco llevaba carpeta.
 
-—Minimización. El consejo necesita los agregados, no el detalle de instancia.
+—Me llamo Ranveig —dijo—. Hablamos por teléfono hace una semana.
 
-—De acuerdo. EDDA, aplica la recomendación a las próximas sesiones.
+—Sí —dijo Maja.
 
-Las cuatro líneas desaparecieron. El promedio ocupó su sitio.
+—¿Quién es quién?
 
-—Conserva el desglose para auditoría —dijo Mats.
+—Yo soy Nora.
 
-—Queda conservado —respondió EDDA.
+La mujer repitió los dos nombres una vez y no volvió sobre el parecido.
 
-Una franja comparó ARGOS con los compromisos del primer trimestre. Dos clientes públicos habían adelantado sus pruebas.
+—Esto dura una hora. Podéis marcharos antes.
 
-Mats pasó al informe de validación. La palabra «ventana» apareció en el tercer punto.
+Nora miró el reloj de la pared y después la puerta.
 
-El 26 de noviembre, a las siete y media, Alana salía a recoger la cena india cuando llegó el primer mensaje de Jean.
+—¿Es médica?
 
-**No vengas.**
+—No. Trabajo con las familias. No llevo el tratamiento de nadie.
 
-Alana pulsó el auricular. Jean rechazó la conexión.
+—¿Esto lo cubre el hospital? —preguntó Maja.
 
-**No llames a Maja.**
+—Sí. No hay que apuntarse en ninguna parte.
 
-**Dime con quién estás.**
+—¿Pueden salir si quieren?
 
-**No amplíes el alcance.**
+—Cuando quieran. La puerta se queda así.
 
-Jean reducía una necesidad a los límites de una petición hasta dejarla fuera. Alana conocía el mecanismo. También sabía discutirlo.
+—¿Esto queda escrito en alguna parte? —preguntó Nora.
 
-No lo hizo.
+—Apunto la fecha y quién ha venido. Nada más.
 
-Recogió los dos menús y fue al edificio de Jean. Nadie respondió al telefonillo. En el portal abrió el contacto de Maja y, encima, la ficha de bienestar de Armstrong.
+La mujer llenó el vaso de Nora y el de Maja. Jessie apartó el suyo dos dedos.
 
-**ESTADO CORPORATIVO · VERDE**
+—No sé por qué murió Jean —dijo la mujer—. Nadie de mi equipo lo sabe.
 
-**NO INTERFERENCIA CRÍTICA**
+—¿Usted la conocía?
 
-**CONTACTO FAMILIAR · DECLINADO**
+—No.
 
-El protocolo no exigía escalar. Jean se lo había pedido. Alana cerró el contacto de Maja sin marcar y dejó la cena con el conserje.
+El radiador se puso en marcha bajo el cristal. Al otro lado quedaba la parte alta de una farola y nada más.
 
-No sabía qué habría cambiado una llamada.
+—¿Entonces para qué es esto? —preguntó Nora.
 
-Pasadas las 03:31 del 27 de noviembre, esperaba frente a un ascensor de UNN con una tableta prestada. `JM-L/0000` figuraba activa desde las 03:14, abierta sin firma a partir del cierre de SPEIL. Otra referencia atribuía a Jean un documento de origen que UNN no conservaba.
+—Unas familias vienen a hablar. Otras, a no estar en casa.
 
-—Esto ya está ejecutándose —dijo Alana.
+—Eso no es una respuesta.
 
-—Desde las 03:14.
+—No.
 
-—¿Habéis obtenido datos nuevos?
+La mujer dejó la jarra en el suelo, junto a la pata de la mesa.
 
-—No. El cierre de SPEIL ya estaba almacenado.
+—Hoy no hace falta que habléis. Ninguna.
 
-La médica bajó hasta las tres autorizaciones.
+Nora se quitó el abrigo y lo dobló sobre las rodillas. Jessie se dejó el suyo puesto.
 
-**RETENCIÓN DE LA EJECUCIÓN PROVISIONAL**
+—Ayer fue el funeral —dijo la mujer.
 
-**DERIVACIÓN DE 4.095 ORÍGENES**
+—Sí —dijo Maja.
 
-**USO INSTITUCIONAL DE LA COHORTE**
+—Vinieron treinta y una personas —dijo Nora—. Sin contar al pastor.
 
-—¿Qué ocurre si no firmo?
+La mujer no preguntó por la ceremonia.
 
-—Armstrong tendrá que detener la retención. Preservación funcional, no reanimación, no persona. Si va a autorizarla, tiene que hacerlo ahora.
+—¿Quién anda por casa estos días?
 
-Alana retuvo `/0000`, derivó los otros 4.095 orígenes y permitió el uso de la cohorte. Leyó hasta el apartado de responsabilidad y firmó con el índice.
+—Han venido cuatro vecinos —dijo Nora—. Dos trajeron comida. Una preguntó si vamos a vender la casa.
 
-—Alana.
+—No vamos a vender la casa —dijo Maja.
 
-Mats había detenido la presentación. Ella seguía con el vaso en la mano, aunque ya no tenía sed.
+—El teléfono tampoco para —dijo Nora.
 
-—Continúa.
+—Contesto yo.
 
-—Preguntaba si mantienes la recomendación técnica que enviaste el lunes.
+—En algunas casas dejan de decir el nombre —dijo la mujer—. En otras lo dicen todo el rato.
 
-En pantalla aguardaba su texto. Rendimiento excepcional, estabilidad dentro de parámetros, apto para despliegue supervisado. No mencionaba las voces tras la cifra verde.
+—¿Y cuál va mejor? —preguntó Nora.
 
-Lo había redactado el lunes por la mañana. El calendario mantenía convocadas la reunión presupuestaria de las nueve y media y una cita anterior que pedía aceptación o rechazo explícitos. Alana declinó la cita. Dejó la reunión donde estaba.
+—No lo sé.
 
-Los demás leían aquellas tres líneas por primera vez. El consejero de Kronfjord siguió la última con el dedo en su tableta.
+En la mesa, el cerco de un vaso anterior todavía no se había secado.
 
-—¿Consta en el acta la fecha de envío? —preguntó Alana.
+—Casi todos los que se sientan aquí están enfadados con quien ha muerto —dijo la mujer—. Yo no vengo a quitároslo.
 
-—Constan la fecha y la hora —respondió EDDA.
+—¿Casi todos son cuántos? —preguntó Nora.
 
-Mats esperó su respuesta sin repetir la pregunta. Nadie pidió el texto completo.
+—No lo he contado.
 
-—La mantengo con una condición —dijo—. Revisión independiente de las instancias JM-L antes de congelar la versión de lanzamiento.
+—Entonces no diga «casi todos».
 
-La consejera de Kronfjord Kapital consultó el orden del día, abierto en la tableta frente a ella.
+—De acuerdo.
 
-—Eso no figura en el plan de validación.
+Jessie tenía las manos metidas en las mangas.
 
-—Puede figurar. La autorización se firmó en una emergencia y, aunque el marco permita preservar, no debería bastar para todo lo que estamos llamando despliegue.
+—Yo no he llegado enfadada —dijo Jessie—. Estoy enfadada.
 
-Mats apoyó la tableta en la carpeta.
+El radiador dio un golpe y siguió.
 
-—La escala cambia la pregunta —dijo Mats—. El documento contempla explotación bajo supervisión. Lo firmaste como representante de Armstrong y responsable del proyecto.
+—Con ella.
 
-—A las 03:14 yo no estaba allí.
+Maja no dijo «Jessie».
 
-—Retenerla y usarla, a esa escala.
+Maja alcanzaba a las dos con el brazo desde donde estaba. No lo movió.
 
-—Autoricé que la retuvierais. Autoricé el uso. Yo… sí. Lo autoricé.
+La mujer tampoco le pidió nada más.
 
-La consejera de Kronfjord Kapital abrió el anexo jurídico.
+—¿Eso se puede decir en casa? —preguntó.
 
-—¿Existe alguna impugnación?
+—Sí —dijo Maja.
 
-—Ninguna registrada —dijo Mats.
+—¿Has vuelto al instituto? —preguntó la mujer.
 
-—¿Una reclamación familiar?
+Jessie miró la puerta. La mujer no repitió la pregunta.
 
-—Tampoco.
+En el despacho de al lado alguien hablaba por teléfono y se le entendía una palabra de cada tres.
 
-Maja ignoraba lo que habían hecho y las vías para oponerse. El anexo lo llamaba «preservación funcional».
+Jessie se subió la cremallera hasta la barbilla. Después se levantó, salió al pasillo y dejó la puerta entornada.
 
-Alana giró el anillo de sello hasta clavar una esquina contra la yema. Su firma estaba visible en el documento.
+Nadie fue detrás. Maja se quedó donde estaba y se pasó las llaves del regazo al bolsillo para que dejaran de sonar. Escuchó por si sonaba el portal de abajo. No sonó.
 
-—Eso hice —dijo—. También puedo exigir que sepamos qué estáis desplegando.
+Maja veía el tramo de pasillo que dejaba la puerta entornada. Jessie no aparecía en él.
 
-Mats bajó la voz.
+La mujer llenó el vaso de Jessie y lo dejó en su sitio.
 
-—Puedes abrir otra revisión. Elige cuál de los tres equipos pierde la asignación y qué parte de la auditoría se queda sin plazo. Kronfjord decidirá sobre la subvención antes de que tengas respuesta.
+—Dígame lo que sabe —dijo Nora.
 
-Mats deslizó la agenda hasta el centro de la mesa. La siguiente diapositiva mostraba una fecha en blanco sobre el arco dorado del logotipo. 21 de enero de 2061.
+—¿De qué?
 
-—El calendario es el contrato. Kronfjord puede retirar la financiación antes de que terminemos la revisión.
+—De las familias. Cuántas pasan por aquí en un año, cuántas dejan de venir y cuándo, porque si hay algo que se repita prefiero saberlo hoy.
 
-La demora daría tiempo a revisar las instancias, pero abriría los documentos que Alana había mantenido dentro de la casa.
+—No llevo esa cuenta.
 
-—¿Está cerrada la auditoría externa para esa fecha? —preguntó Alana.
+—Alguien la llevará.
 
-—La capacidad está asignada para cerrarla el catorce —dijo Mats—. Después queda una semana para resolver incidencias.
+—Sí. No os sirve de nada.
 
-—Quiero un criterio de suspensión por escrito que cubra desviaciones de conducta, conflictos con el consentimiento o cualquier indicio que obligue a revisar la clasificación de las instancias. Que lo redacte el equipo clínico.
+—Yo decido si me sirve.
 
-—Puede proponerlo. Tú podrás activar la suspensión si se cumple.
+La mujer apoyó las manos en las rodillas.
 
-El criterio tendría que atravesar dos comités antes del catorce. La pantalla cambió a la propuesta de lanzamiento mundial de ARGOS el 21 de enero, Soldagen. Alana encontró contingencias de seguridad, regulatorias y financieras. La duda no figuraba entre ellas.
+—Los números que tengo no hablan de vosotras.
 
-Henrik levantó dos dedos antes de que Mats llamara a votación.
+—¿Y qué habla de nosotras?
 
-—Propongo «lanzamiento dedicado a la memoria de Jean Marie Larsson». Soldagen nos da el regreso del sol. Que el mensaje parta de su contribución.
+—Nada que yo tenga.
 
-El agua le supo a metal cuando el nombre completo de Jean apareció debajo de la fecha. Tragó. Al dejar el vaso, la pantalla mostraba «Jean Marie Larsson» donde antes había desplegado los identificadores.
+—¿Y las que dejan de venir?
 
-—La familia tendría que aprobar la dedicatoria —dijo.
+—No me dicen por qué. Algunas vuelven al año siguiente.
 
-—Naturalmente. Antes de publicar, hablaríamos con Maja.
+—¿Cuánto tarda esto?
 
-—Y sin revisar el marco de consentimiento.
+—No lo mido.
 
-—Podemos incorporar esas condiciones. La fecha se vota hoy.
+—Yo sí.
 
-Mats abrió el acta y dejó el cursor junto al apartado de salvaguardas. El 21 de enero siguió en el centro de la pantalla.
+—¿Quién le paga a usted?
 
-—Solicito que mi revisión de JM-L conste en acta —dijo Alana.
+—El hospital.
 
-—Constará.
+—¿Y si dejamos de venir?
 
-—Antes del cierre de auditoría.
+—Lo mismo.
 
-—Antes del catorce.
+—¿Vienen muchos de mi edad?
 
-Alana amplió el anexo hasta ver su nombre al pie de la autorización. La última letra se inclinaba a la derecha, arrastrada por el índice sobre el cristal.
+—Cuatro este año.
 
-—Votamos —dijo Mats.
+Nora dejó el abrigo doblado en la silla de al lado, con el terminal boca abajo encima, y se sentó sobre las manos.
 
-Seis manos se alzaron. Alana mantuvo la suya sobre la mesa hasta que el sistema abrió su campo nominal.
+—Entonces dígame lo que sí sabe.
 
-La mayoría ya estaba formada. Votar en contra la dejaría fuera del acuerdo que contenía su revisión y el criterio de suspensión.
+—Que la pregunta no se cierra.
 
-Los dedos quedaron extendidos sobre la mesa, el índice recogido bajo los demás. El campo nominal esperaba encendido y vacío; aceptaba una marca o una palabra. Las seis manos siguieron en alto. Los otros nombres ya llevaban su marca verde. Nadie la miró. Henrik pasó una página de sus notas. El acta seguía abierta por el apartado de salvaguardas. El cursor de Mats no se había movido de allí. El pulso le llegaba a la yema del índice, contra la mesa. No movió el brazo.
+—Eso no es un dato.
 
-—A favor —dijo.
+—No tengo otro.
 
-Una marca verde apareció junto a Armstrong, Alana. El acuerdo quedó aprobado por unanimidad. Henrik corrigió el texto de la propuesta y añadió «con gratitud» antes del nombre de Jean.
+—¿Por qué no se cierra?
 
-EDDA esperó a que Mats cerrase el punto para intervenir.
+—En lo que he visto, nunca hay una sola cosa.
 
-—Hay una incidencia asociada que requiere decisión de continuidad.
+—¿Y si la hay?
 
-—Muéstrala —dijo Alana.
+—Entonces yo no la conozco.
 
-La campaña de Soldagen se replegó a una esquina. En su lugar apareció una ficha con tres campos.
+Jessie volvió y se sentó en la misma silla. El cordón de la capucha le colgaba deshecho y las botas habían dejado dos marcas de agua en el suelo.
 
-**Riesgo reputacional: N. Larsson Kvalvik.**
+—Ahí tienes agua, si quieres —dijo la mujer.
 
-**Salida anómala vinculada a JM-L.**
+El vaso siguió donde estaba.
 
-**Cuenta suspendida desde 5-dic-2060.**
+—El lunes van a preguntar —dijo Nora—. En el instituto. Ya me lo han preguntado catorce veces por mensaje.
 
-Alana dejó de girar el anillo.
+—El lunes os llevo yo —dijo Maja.
 
-—¿Consta que es menor?
+Nadie añadió nada a eso.
 
-—Dieciséis años —respondió EDDA—. Parentesco confirmado. Hija de Jean Marie Larsson y Maja Kvalvik.
+—Siga —dijo Nora.
 
-Henrik acercó su tableta.
+—En las casas la culpa se reparte sola. Que os toque una parte no prueba nada.
 
-—¿Ha publicado algo?
+—Van dos.
 
-—No se ha detectado difusión pública. La suspensión se activó tras una secuencia reproducible de consultas y respuestas fuera del comportamiento previsto.
+—La tercera es que podéis volver. También sin hablar.
 
-Dahl volvió a la campaña de la esquina y comprobó los idiomas.
+—Eso son tres cosas. Ninguna es un número.
 
-La ficha añadió la última conexión. A los dieciséis, Nora había perseguido una respuesta hasta acabar sola ante un departamento que la llamaba «exposición».
+—No.
 
-—Quiero el registro completo —dijo Alana.
+—¿Se las dice a todos?
 
-—Su solicitud ha sido añadida al expediente.
+—Sí.
 
-—Y ninguna comunicación con la menor hasta que yo lo revise.
+—¿Me las escribe?
 
-—La incidencia ha superado el umbral de continuidad. Seguridad ha recibido la notificación de evaluación.
+—Son tres.
 
-—¿Qué evaluación?
+—No llevo nada donde apuntarlas.
 
-—Contacto con la tutora legal, preservación de evidencias y análisis de exposición.
+—¿Cada cuánto? —preguntó Maja.
 
-—Cancela la preservación del terminal personal.
+—Cada quince días. Antes, si lo pedís.
 
-—Requiere autorización del responsable de Seguridad o de dos miembros del comité de continuidad.
+—¿Y si una no quiere venir?
 
-Alana miró a Mats. Él no abrió la carpeta.
+—Venís las que vengáis.
 
-—Yo seré uno —dijo—. Encuentra al segundo después de leer qué hizo la cuenta.
+Maja miró el reloj de la pared. Quedaban veinte minutos.
 
-Al cerrar la carpeta, el pulgar izquierdo de Mats tardó una fracción en vencer el borde. Mats terminó el gesto con la derecha y continuó. Los demás empezaron a recoger sus tabletas. La derivación ya tenía un nombre previsto en el protocolo.
+—¿Por qué Koppangen? —preguntó Maja.
 
-—Ordena que detengan el contacto —dijo Alana.
+—No lo sé.
 
-—Puedo dar la orden. Si Seguridad ya ha abierto la medida, habrá que cerrarla por otra vía y quedará registrada. Lee primero el expediente.
+—¿Se sabe alguna vez?
 
-Alana abrió la ficha de Maja. Una llamada desde Fyret quedaría registrada como gestión de incidencia. Si esperaba, Seguridad llegaría antes.
+—A veces no. Hay familias que siguen con esa pregunta años después.
 
-—Voy a hablar con Maja.
+La mujer no añadió nada. El vaso de Jessie seguía lleno hasta la misma altura.
 
-—Antes, Jurídico —dijo Mats.
+—Hay un archivo suyo —dijo Nora—. No lo hemos abierto.
 
-Mats aportó el segundo voto. Alana exigió suspender el contacto identificable con la familia. Jurídico impuso una moratoria bilateral hasta el 11 de diciembre.
+La mujer esperó.
 
-—También te aparta a ti —dijo Mats—. Conflicto de interés.
+—¿Qué hacemos con él?
 
-La dirección de Maja seguía cargada en el vehículo. Alana podía aceptar la neutralidad o retirar su petición y devolverle el turno a Seguridad.
+—Eso no os lo voy a decir.
 
-En la pantalla del comunicador, el vehículo ofrecía dos opciones: iniciar o descartar. Debajo, los minutos hasta el portal. La dirección llevaba escrito hasta el número del piso. Alana no tocó ninguna de las dos opciones.
+—Entonces no sirve de nada.
 
-—Acepto.
+—Puede ser.
 
-El vehículo canceló la ruta. En el ascensor, Alana abrió el expediente JM-L que EDDA acababa de liberarle. Ciento doce páginas de anexos, pruebas de estabilidad y advertencias jurídicas. Buscó «consciencia» y bajó hasta la conclusión del equipo clínico.
+—Nadie va a abrir nada esta semana —dijo Maja.
 
-Consciencia residual: indeterminado.
+—No he dicho que vaya a abrirlo.
+
+—Ya.
+
+Nora se quedó con las manos bajo los muslos. En el cristal, la escarcha había subido dos dedos desde que entraron.
+
+—¿Y usted? —preguntó la mujer.
+
+—Conduzco yo —dijo Maja.
+
+—No le he preguntado eso.
+
+—Ya.
+
+Maja repasó lo que quedaba de semana. El lunes trabajaba. Las clases empezaban a las ocho y media y el instituto quedaba a diez minutos a pie. Las dos salían a la misma hora. La compra podía hacerla el domingo por la mañana, mientras ellas dormían. El técnico de la caldera seguía sin venir desde octubre.
+
+—El lunes vuelvo al trabajo —dijo—. Ellas comen en casa y yo salgo a las cuatro.
+
+—De acuerdo.
+
+—El lunes las llevo yo y las recojo. El martes hay quien las recoge.
+
+—¿Le doy el número del trabajo?
+
+—Con uno basta.
+
+Nora seguía sentada encima de las manos. Jessie tenía la barbilla dentro del cuello de la sudadera.
+
+—¿Hacéis algún papel para el instituto? —preguntó Maja.
+
+—Si lo necesitáis, sí.
+
+—Puede que lo necesitemos.
+
+—Si hay que venir entre semana, lo cuadro.
+
+—No tiene que cuadrarlo hoy.
+
+—Ya está cuadrado.
+
+—¿Le queda mucho papeleo?
+
+—Bastante.
+
+—Hay un teléfono para eso.
+
+—Ya lo tengo.
+
+—También puede venir sola.
+
+—No me hace falta.
+
+—Y ellas pueden venir sin usted.
+
+—Eso lo deciden ellas.
+
+La mujer no insistió. Miró el reloj de la pared.
+
+—Se ha acabado la hora.
+
+En la pared, junto al reloj, había un calendario del año siguiente sin ninguna marca.
+
+Sacó una tarjeta del bolsillo y escribió una fecha en el reverso.
+
+—La siguiente. Si no podéis, llamáis y la cambiamos.
+
+Maja abrió el bolso para guardarla. Sus dedos tocaron los documentos, la cartera y el recibo roto, con las letras repasadas encima de la rotura. Metió la tarjeta en el mismo bolsillo y cerró la cremallera.
+
+—¿Hay sitio para el coche la próxima vez? —preguntó Maja.
+
+—Detrás del edificio.
+
+—Bien.
+
+Maja juntó los cuatro vasos en el centro de la mesa. Nora se puso el abrigo y se lo abrochó hasta arriba. Jessie ya llevaba el suyo.
+
+* * *
+
+En el rellano esperaba un hombre con un niño sentado en el suelo, ya con las botas puestas. Maja se apartó para dejarles sitio en la escalera.
+
+Nora bajó delante. Jessie fue detrás y no se puso la capucha hasta la calle.
+
+La nieve pisada brillaba bajo las farolas. Dentro del coche la escarcha había vuelto al cristal y Maja esperó a que se despejara antes de salir.
+
+Nora se sentó otra vez delante. Jessie ocupó el sitio de atrás con la capucha puesta.
+
+—¿Hay que volver? —preguntó Jessie.
+
+—Sí.
+
+Jessie subió las botas al borde del asiento. Nadie se lo discutió.
+
+En la rotonda del puerto, una cola de coches esperaba a que un camión terminase de maniobrar. Las tiendas de la calle mayor iban cerrando y quedaban las luces de los escaparates. Ninguna habló hasta casa.
+
+Maja recogió el correo del buzón sin quitarse los guantes. Había tres cartas y dos iban a nombre de Jean.
+
+En el recibidor, Jessie dejó las botas de lado y subió. Nora colgó su abrigo y después el de su hermana.
+
+—¿Cenamos pronto?
+
+—Sí.
+
+Nora subió también. Arriba se cerró una puerta y después la otra.
+
+Maja entró en la cocina y dejó las cartas en la encimera, debajo de las llaves. La caldera dio dos golpes en el armario del pasillo, igual que desde octubre. Maja abrió el armario, miró la carcasa y volvió a cerrarlo.
+
+En la puerta de la nevera seguían el horario escolar, una factura vencida y la tarjeta del técnico, sujetos con el mismo imán. Maja levantó el imán, puso delante la tarjeta con la fecha escrita a mano y volvió a bajarlo.
+
+Con el lápiz de la lista de la compra copió esa misma fecha en el borde del horario escolar. La punta atravesó el papel en el uno.
+
+Sacó del bolso el recibo roto, lo dobló por donde ya estaba partido y lo guardó en el cajón de las facturas.
+
+Del estante inferior de la nevera sacó el táper con SOPA escrito en azul. Vació la sopa en un cazo y encendió el fuego.
+
+—Bajad en media hora —dijo hacia la escalera.

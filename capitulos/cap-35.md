@@ -1,279 +1,229 @@
 ---
-capitulo: 41
-titulo: Caída
-pov: Jessie
-fecha: 2061-01-21T12:30
-estado: en_oleada
+capitulo: 35
+titulo: La poda
+pov: Astrid
+fecha: 2061-01-09
+estado: aceptado
 analepsis: false
 estado_plan: E
 proteccion: nucleo
 ot: OT-35
 delta_objetivo: 0
-orden_lectura: 41
+orden_lectura: 35
 ---
 
-La red pesaba demasiado para algo que no debía romper nada.
+Tomas Eide esperaba junto a la plaza de Astrid con una carpeta bajo la chaqueta. A las siete y cuarto había escogido el ángulo que la cámara tardaba seis segundos en recuperar.
 
-Jessie la sostuvo contra la regala mientras Aslak soltaba el primer paño. Los plomos golpearon la cubierta y después desaparecieron por la popa. Maja, arrodillada ante la tableta protegida, comparaba la flecha del perfilador con las marcas que había trazado la noche anterior. No levantó la cabeza.
+—Seis minutos —dijo.
 
-Habían salido de Koppangen con las cajas bajo los bancos y una lona sobre el carrete. Bajo el foco, cada vuelta de red mostraba remiendos de cordel distinto. Equipo de pesca usado para un trabajo que duraría minutos.
+—Cinco, si empiezas por la procedencia.
 
-El pantalón impermeable de Jessie se pegaba a sus rodillas con la sal. En la caja quedaban el cuchillo, dos grilletes y una boya de señal. Solo el repetidor, bajo su parka, parecía no pertenecer a la barca.
+Tomas sacó una copia impresa y un soporte precintado.
 
-—Dos grados más a babor.
+«Consolidación L-Serie» fijaba la ejecución para el 20-ene-2061, 23:00. Alcanzaba más de tres mil rutas y ordenaba evaluarlas por redundancia, divergencia operativa e inestabilidad. «PRESIDENCIA EJECUTIVA» cerraba el circuito.
 
-Aslak corrigió el rumbo. La proa apartó una costra fina de hielo. A la derecha, la carretera de Koppangen quedaba interrumpida bajo el alud, pero el equipo llevaba allí desde antes. Jessie había oído tres veces que la nieve solo les quitaba la vuelta por tierra. A la cuarta, Maja le había mandado comprobar los mosquetones.
+—Sale del circuito interno. Presidencia Ejecutiva cierra la aprobación. La hora coincide con el precinto y el código se repite en cada página y en el soporte —dijo Tomas.
 
-—Línea de fondo —dijo Aslak.
+—¿Quién la aprobó?
 
-Jessie dejó correr el cabo por la guía hasta la marca amarilla. La tensión cambió al alcanzar la canaleta sumergida que conducía hacia la toma. Aún no tiraba de la red. Solo la llevaba.
+—Solo figuran los niveles que ves ahí. No puedo sostener un autor individual. El original sigue en el servidor.
 
-—Marca amarilla —dijo.
+—¿Qué acredita la copia y quién decide «estado necesario»?
 
-—Vista.
+—La firma del servidor y mi nombre. Deciden los responsables de consolidación. Sacarla vulnera el protocolo.
 
-Maja amplió el perfil de corriente. Una racha hizo vibrar el cabo bajo la palma de Jessie.
+Otro coche entró en la rampa. Tomas cerró la carpeta hasta que pasó.
 
-—Si vira al sur o AK-7 contradice, paramos —dijo Maja—. Si Aslak pierde fondo, él manda cortar.
+—Tienes la custodia nominal de la incidencia Hvelv y competencia de presencia local —dijo Astrid—. NIDHOGG es el extremo CE-K de la fase común. Te designo testigo local para la demostración. La empresa aún puede rechazarte, pero deberá dejar constancia.
 
-—Me acuerdo.
+—Preservaré la hoja que ya tengo y observaré hasta las doce cuarenta y siete.
 
-Aslak señaló el cabo.
+Se apeó antes de que Astrid pudiera preguntarle cuánto más sabía y desapareció calle abajo.
 
-—Trabaja.
+Astrid cogió la carpeta y entró en la TKS.
 
-Jessie aseguró la vuelta en el carrete. Aslak había marcado el hielo de la guía con una raya de tiza. Mientras la raya siguiera visible, aceptaba trabajar. Si el agua la cubría y congelaba otra capa, cortaría la maniobra. No lo había presentado como una opinión y Maja no se la había discutido.
+* * *
 
-El perfilador emitió un pitido corto. Maja miró la hora y luego la corriente junto al fondo.
+A las diez y veinte, Astrid había apartado el teclado y extendido el expediente sobre la mesa. Las bolsas de prueba esperaban en el suelo, lejos de la destructora.
 
-—Aún no.
+R-1189 acreditaba una revocación eficaz. El expediente dejaba la identidad sin atribuir. Un técnico verificó la firma del servidor.
 
-Jessie observó el rellano de servicio, unas luces más allá. Una figura se apartaba del armario gris. Desde la barca solo distinguía la parka oscura y el rectángulo claro de una acreditación antes de que desapareciese por la pasarela lateral.
+Astrid pidió una cautelar urgente por riesgo de destrucción de prueba y de continuidades funcionales aún sin categoría jurídica. Borró «víctimas» e «individuos» del escrito. Conservó «instancias», la palabra de Armstrong. A las doce y nueve, el Nord-Troms og Senja tingrett fijó la vista para las catorce.
 
-—Hay alguien.
+La jueza leyó la solicitud. El letrado de Armstrong llevaba un expediente más delgado.
 
-—Debe haberlo —dijo Maja.
+—La consolidación forma parte del mantenimiento previsto —dijo—. La TKS puede preservar registros, pero suspender miles de ejecuciones de identidad jurídica abierta sería desproporcionado.
 
-—Eso también lo dices cuando quieres que parezca buena noticia.
+Astrid dejó la orden sobre la mesa.
 
-Maja apoyó el dedo sobre la banda permitida de la pantalla.
+—La orden evalúa más de tres mil rutas y permite eliminar las que la empresa clasifique como redundantes o inestables. Pido que se mantengan hasta examinar el alcance.
 
-—Corriente dentro de tabla. Aslak.
+—¿Se preservará una copia íntegra de cada ruta afectada? —preguntó.
 
-—Largamos.
+—Se conservará el estado exigido por contrato, certificación y seguridad del servicio —dijo el letrado.
 
-A las 12:38, Maja levantó dos dedos. Jessie abrió la mordaza y la red empezó a hundirse guiada por la línea de fondo. No viajó libre ni buscó nada. Aslak la llevó hasta la rejilla del tren que seguía operativo mientras el otro completaba el retrolavado.
+—La selección queda en manos de su representada.
 
-La marca amarilla pasó por la guía. Llegó la roja.
+—Como corresponde al operador. Prohibir todo el mantenimiento impondría un coste cierto frente a un daño que la TKS no puede individualizar.
 
-—Firme —dijo Aslak.
+—Señora Vik, ¿qué pretensión principal pretende asegurar?
 
-Jessie cerró la mordaza. El cabo se endureció y transmitió una vibración grave desde el fondo. La red había cargado contra la rejilla. Bastaba con que estorbase el paso del agua durante unos minutos. La reserva absorbería la caída de presión y el sistema aplazaría trabajo que no pertenecía a la demostración.
+—La continuidad de las ejecuciones y la prueba.
 
-La regala empezó a vibrar. Aslak redujo motor para no añadir tiro y se situó con una mano en la palanca y la vista en la guía. Jessie esperaba una sacudida que arrancase el carrete o una alarma capaz de oírse desde la montaña. Recibió un traqueteo de cadena y el olor del escape regresando a popa.
+—La TKS puede preservar registros. ¿Qué pretensión sostiene sobre las ejecuciones?
 
-En la tableta apareció un aviso.
+—Si las eliminan, no podremos determinar el objeto de la incidencia.
 
-`PÉRDIDA DE CARGA · TREN MARINO 1`
+—Eso fundamenta la prueba, no cada ejecución.
 
-Debajo, la curva bajó un tramo y se estabilizó.
+—¿Puede individualizar cuáles van a interrumpirse? —preguntó la jueza.
 
-—Reserva —dijo Maja.
+—Puedo acreditar que la orden autoriza eliminar rutas divergentes. No cuáles ni cuántas.
 
-El casco recibió un segundo pulso a través del agua. La bomba auxiliar había entrado. NIDHOGG seguía encendido. Ni humo, ni oscuridad, ni la clase de ruido que en una película habría permitido saber que algo importante acababa de ocurrir.
+—¿Y puede acotar la prohibición sin suspender el mantenimiento de todo el conjunto?
 
-`BOMBA DE RESERVA · ACTIVA`
+—No antes de examinarlo.
 
-`CAPACIDAD · INFERENCIA NO CRÍTICA DIFERIDA`
+La resolución llegó cuarenta minutos después. Aceptaba el riesgo irreversible, pero la ley de la TKS no sostenía la pretensión sobre las ejecuciones y el expediente no permitía acotar la prohibición. Denegaba la medida por competencia, fundamento y proporcionalidad.
 
-—Ya está —dijo Jessie.
+La fecha de la orden seguía a once días de distancia. Astrid embolsó primero R-1189.
 
-—Falta la boya.
+* * *
 
-—La pantalla lo pone.
+El ministerio llamó cuando aún estaba en el pasillo.
 
-—La boya.
+El número no figuraba en el directorio de la TKS. Quien llamaba coordinaba el programa ÆGIR con la industria. Dio el cargo y no dio el nombre. Al otro lado se oyeron una puerta y un ascensor. Astrid consignó la hora y el cargo en la incidencia.
 
-Esperaron. El cabo quería escaparse hacia popa y Jessie tuvo que cambiar las manos sin soltarlo. El agua negra ocultaba la red y la toma a la que se había pegado. Los plomos podían seguir corriendo limpios por la canaleta o haberse trabado ya.
+—Conviene que coordinemos los siguientes pasos. Hay implicaciones europeas, certificaciones y empleo.
 
-Un minuto era suficiente para que Maja comprobase dos veces la hora y ordenase una vez que nadie tocase nada. Aslak respondió bajando las revoluciones. Jessie contó las pulsaciones del transductor en lugar de los segundos. Las conocía desde el naust, pero sobre el agua cada pitido parecía llegar tarde.
+—He solicitado una cautelar. La han denegado.
 
-A las 12:41, la primera muestra de AK-7 mantuvo la temperatura anterior. La salinidad, la velocidad y la dirección de la corriente seguían dentro de la banda. A las 12:42, la temperatura bajó.
+—Precisamente. Necesitamos prudencia estratégica.
 
-—¿Eso basta?
+—¿Me pide que cierre la incidencia?
 
-Maja deslizó una regla sobre el gráfico.
+—Te pido oportunidad. La seguridad europea no puede depender de actuaciones inconexas.
 
-—Otra muestra.
+—He presentado una orden firmada como una orden firmada.
 
-—Ya ha bajado.
+—Y deberías mantener esa precisión fuera del juzgado.
 
-—Otra.
+—El veintiuno hay acto y hay delegaciones. Ese día, antes de cualquier actuación, coordinas conmigo. Una llamada basta.
 
-A las 12:43, la tercera muestra repitió la bajada. AK-7 daba temperatura, salinidad, velocidad y dirección de la corriente. La pérdida de carga y la respuesta de la instalación estaban en el otro panel.
+—Puedo comunicar una actuación. No puedo condicionarla a una llamada.
 
-Maja comparó las dos curvas.
+—Nadie te pide eso. Te pido que no coincida. En esta planta se cierra el calendario, y detrás del calendario hay empleo.
 
-—Respuesta confirmada. Recuperamos paño.
+—Consignaré su petición con la hora.
 
-—Quedan cuatro minutos hasta la fase —dijo Jessie.
+—Mientras tanto, iniciaremos una orden condicional de custodia estratégica que solo se activaría ante una manifestación pública verificable.
 
-—Tres para recuperar y llegar —dijo Maja—. A las 12:46:50 nos separamos.
+El vocabulario había cambiado poco desde 2054. Astrid esperó entonces una reproducción que nunca llegó y archivó el caso.
 
-Aslak metió avante corta. Jessie liberó la mordaza por tramos. La red volvió cargada de algas viejas y escamas de pintura. Un plomo se quedó abajo. El cabo dio un tirón seco.
+—La incidencia sigue abierta —dijo.
 
-—No sale —dijo ella.
+—Hablaremos mañana.
 
-Aslak ya tenía la cuchilla en la mano.
+Alguien lo llamó por el cargo desde el fondo de su pasillo. Tapó el micrófono.
 
-—Paño dentro. Plomos fuera.
+La llamada terminó.
 
-Cortó el ramal lastrado. La tensión desapareció y el resto de la red subió. No intentó recuperar lo perdido.
+Astrid se quedó con el terminal en la mano hasta que la pantalla se apagó sola. Marcó en la resolución las dos líneas que podía comunicar: la fecha y la acción. El resto siguió debajo de la carpeta, sobre los cuatro papeles del tres de enero que le había mandado la familia.
 
-Maja cerró la vista de la boya.
+Astrid buscó el número de Maja Kvalvik. Ocupó el banco del pasillo con la carpeta entre las rodillas.
 
-—Al rellano. Jessie, te quedas a mi alcance.
+—El aviso ya tiene fecha y acción —dijo cuando Maja contestó—. El veinte de enero, a las veintitrés horas, Armstrong someterá a consolidación más de tres mil rutas. La orden permite eliminar las que clasifique como redundantes o inestables.
 
-—Eso son unos dos metros.
+Al otro lado hubo ruido de una puerta y voces amortiguadas.
 
-—A mi alcance.
+—¿Es Jean?
 
-Aslak llevó la barca hasta la plataforma de la galería marina. Una defensa de goma protegía la escala de servicio. Sobre el rellano de tramex había un armario gris y, más allá, una puerta sin manilla cortaba el paso hacia la esclusa. La consola estaba vacía.
+—La orden es auténtica. El expediente no identifica las instancias.
 
-Maja permaneció en la escala, con una mano en el pasamanos y la otra tendida hacia Jessie. Aslak mantuvo el motor al ralentí. La popa se separaba medio metro de la plataforma y volvía con cada corrección.
+—¿Dónde van a hacerlo?
 
-Jessie sacó la tableta estanca y la llave de Gunnar. Encajó esta en el alojamiento del armario. No giró una cerradura. La aplicación mostró su nombre completo antes de ofrecer el envío.
+—La orden que puedo comunicar no identifica una ubicación operativa.
 
-`SOLICITANTE · JESSIE LARSSON KVALVIK`
+Maja repitió la hora. Cerca del teléfono, alguien dijo que la apuntara. Astrid no distinguió si era Nora o Jessie.
 
-`CREDENCIAL VINCULADA · EXPUESTA EN REGISTRO`
+—¿Poda? —preguntó otra voz, más lejos.
 
-Podía cancelar. En ese momento, todavía podía guardarse la llave y volver a la barca con un expediente inmaculado reducido a recuerdo. Pulsó.
+—Consolidación —dijo Astrid.
 
-`PETICIÓN LOCAL · INICIADA`
+—¿Puedes pararlo? —preguntó Maja.
 
-`12:46:01`
+—Hoy no he podido.
 
-La puerta siguió cerrada.
+—Entonces tendremos que llegar nosotros.
 
-El borde de la consola se encendió en amarillo. Jessie había imaginado una voz ordenándole que dejase la llave en el suelo. Los pasos llegaron desde la pasarela lateral.
+—Conocer el plazo no os da acceso. La demostración exige una persona acreditada cuya identidad no puedo comunicar y cuya aceptación no está garantizada. No improviséis una entrada.
 
-Tomas Eide se detuvo ante el armario con el carné de Armstrong por fuera de la parka. Jessie lo reconoció de Fyret, del día que le retuvieron el terminal. Después de aquello habían venido el coche gris y las dos horas bajo luces blancas.
+Maja tardó en responder.
 
-—Tú —dijo Jessie.
+—Gracias por llamar.
 
-Tomas miró primero la consola.
+Astrid colgó.
 
-—Tú fuera. Yo entro con la cobertura.
+* * *
 
-—Era la idea.
+Alana la esperaba al día siguiente en un banco frente a Ishavskatedralen. Astrid se sentó en un extremo.
 
-Maja movió la mano tendida.
+—Han denegado la cautelar —dijo.
 
-—Sigo aquí.
+—Armstrong habrá alegado mantenimiento previsto, conservación de estado y una prohibición imposible de acotar.
 
-—Ya te veo.
+—Con bastante éxito.
 
-—Cuarenta segundos.
+Alana sacó un dispositivo plano, desconectado, y lo mantuvo sobre sus rodillas.
 
-—También veo el reloj.
+—Aquí está mi declaración cifrada. Incluye lo que autoricé, el consentimiento que acepté y R-1189.
 
-La última palabra salió demasiado alta. Jessie bajó la voz y se dirigió al armario.
+—Un contenedor cerrado no me entrega una prueba.
 
-—Vamos. Para esto tienes tantas lucecitas.
+—He decidido conservar la clave para que el contenido llegue a todos a la vez. Puedo acreditar su integridad. Se liberará si no renuevo antes del vencimiento. Cada comprobación firmada reinicia el contador.
 
-La aplicación empezó a descontar la solicitud. Tomas consultó la consola de `INC-441`.
+Alana mostró la huella, la marca temporal y tres renovaciones. Astrid las cotejó con el recibo del fedatario.
 
-`INC-441 · ABIERTA`
+—Si cambias el mecanismo, necesitaré una huella nueva.
 
-`COBERTURA LOCAL · TOMAS EIDE · HASTA 12:47`
+—La tendrás. Lo recibirán prensa, supervisores y dos fedatarios.
 
-Debajo aparecieron la sesión de Jessie, el identificador conservado por la llave de Gunnar Rydberg y dos registros de certificado.
+Astrid extendió la mano. Alana no le entregó el dispositivo.
 
-`HOJA 1 · VEHÍCULO G. RYDBERG`
+—Todavía no. Si sale hoy, Armstrong lo presentará como la represalia de una accionista apartada.
 
-`HOJA 2 · HVAC AD NIDHOGG`
+—Eres una accionista apartada. Eso estará en cualquier versión.
 
-`CA INTERMEDIA · HVELV SIKKERHET`
+—Sí.
 
-`CADENA CONTRACTUAL · KRONFJORD KAPITAL`
+—Y aun así sigues controlando la fecha.
 
-La consola ofreció dos opciones.
+—Hasta que falle una renovación. Después, no.
 
-`ACEPTAR · RECHAZAR`
+—Podrías depositar una copia confidencial en la TKS.
 
-El motor de la barca cambió de tono. Aslak corregía una deriva que Jessie no alcanzaba a ver desde el rellano. Una vez, nada más. Si tenía que hacerlo otra, podía ordenar retirada y la mano de Maja dejaría de estar tendida.
+—Tendríais que requerir la clave e incorporar el mecanismo al circuito ministerial. Armstrong podría aislar la liberación.
 
-—La corriente sigue dentro —dijo Maja desde la escala—. Jessie, si no acepta, bajas.
+—Mientras renueves la clave, sigues decidiendo quién sabe la verdad y cuándo.
 
-—Ya lo sé.
+—Sí.
 
-Jessie mantuvo un dedo sobre `CANCELAR`. Tomas leyó las cuatro filas una vez. Presentó el carné, seleccionó `ACEPTAR` y apoyó el pulgar en el campo de firma.
+Astrid fotografió la huella, la firma temporal y el mecanismo.
 
-`RESPONSABLE ASOCIADO · T. EIDE`
+—No te ofrezco un trato —dijo Astrid.
 
-La consola fijó hora, incidencia y puerta.
+Alana miró el semáforo.
 
-Tomas extendió la mano.
+—Está en verde.
 
-—No bajes aún. Necesito la llave.
+Guardó el dispositivo y cruzó sin despedirse. Astrid volvió a la TKS.
 
-—¿Para qué?
+* * *
 
-—La cobertura sigue conmigo al cruzar. Dámela.
+Abrió un acta de incidencia para el lanzamiento mundial de ARGOS del 21 de enero y dejó en blanco hecho y compareciente. Preparó hora, fuente, manifestación observable, respuesta corporativa, custodia y dos firmas de fedatarios. La imprimió y la guardó con la resolución.
 
-Jessie la sacó del alojamiento. Podía haber tardado, hacerle prometer que no llamaría a nadie, exigir una frase que sonase a bando elegido. Le entregó la llave.
+Si no puedo llegar antes, llegaré durante.
 
-—El repetidor —dijo él.
+Después proyectó el anexo de «Consolidación L-Serie». La pantalla se llenó de más de tres mil filas, estados previstos y criterios de estabilidad. Al final del circuito de aprobación, un comentario preguntaba cuántas debían conservarse.
 
-Lo llevaba en el bolsillo interior. Jessie puso el repetidor sobre la mano abierta.
-
-—Si lo apagas antes de enlazar, la aplicación aborta.
-
-—Vigila que la salida siga verde.
-
-Tomas guardó ambos objetos.
-
-La puerta no se abrió. La consola cambió de estado.
-
-`ENTRADA · FAIL-SECURE`
-
-`SALIDA MECÁNICA · LIBRE`
-
-`RESELLADO DIAGNÓSTICO · 00:11`
-
-Tomas esperó frente a la hoja. Diez. Nueve. El contador siguió bajando mientras la alarma de `INC-441` parpadeaba sobre su firma. Al llegar a cero, el cierre cedió. Tomas cruzó con la llave y el repetidor. La hoja se cerró detrás de su talón y el cerrojo golpeó el marco.
-
-`ENTRADA · SELLADA`
-
-Jessie se quedó ante el armario.
-
-Tras el acero llegó el arranque grave de una bomba al otro lado de la galería. La consola no mostraba dónde estaba Tomas. Un primer acuse tardó siete segundos.
-
-`PASO LOCAL · T. EIDE`
-
-Otro estado apareció y desapareció antes de completarse. Jessie alcanzó a leer `REPETIDOR` y una referencia de puerto. Después, nada.
-
-El ruido interior se alejó. Podía ser Tomas bajando por la galería o una compuerta que cambiaba de posición. La consola omitía imagen, voz y lugar. Bajo la parka de Jessie, el bolsillo del repetidor ya no pesaba.
-
-—Tiempo —dijo Maja.
-
-—Jessie, vuelve a la escala.
-
-En el armario saltó una alarma amarilla. La caída de presión seguía dentro del margen, pero el sistema había adelantado la retirada de carga no crítica. Maja ya estaba guardando la tableta para largar.
-
-—Ahora —dijo.
-
-Jessie bajó un peldaño sin apartar la vista de la consola. El aviso térmico quedó fijo. Dentro sonó metal contra metal. Luego apareció, en un registro distinto, el acuse que Tomas no podía enviarle con palabras.
-
-`REPETIDOR LOCAL · DETECTADO`
-
-`ENLACE DE APLICACIÓN · LIMITADO`
-
-Aslak metió atrás. Maja agarró a Jessie por la parte posterior de la parka y la llevó al fondo de la barca. Jessie cayó de lado entre los bancos, con la barbilla baja. No se hizo daño. El rellano empezó a separarse. La puerta permaneció cerrada y el indicador interior de salida, verde.
-
-La consola exterior cambió de estado una vez más.
-
-`SALIDA EDUCATIVA → MEZCLA PÚBLICA · ENLACE DISPONIBLE`
-
-12:46:50.
+«Las necesarias.»

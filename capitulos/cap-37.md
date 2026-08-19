@@ -1,225 +1,269 @@
 ---
-capitulo: 43
-titulo: No soy un modelo
-pov: Nora → Jean → Maja → Astrid
-fecha: 2061-01-21T12:47
+capitulo: 37
+titulo: El ladrillo
+pov: Nora
+fecha: 2061-01-15
 estado: en_oleada
 analepsis: false
-estado_plan: P
+estado_plan: E
 proteccion: nucleo
 ot: OT-37
 delta_objetivo: 0
-orden_lectura: 43
+orden_lectura: 37
 ---
 
-El enlace ya instalado entre la salida educativa interior y la mezcla pública entregó la primera salida ordinaria. La demostración hizo exactamente lo que Armstrong había prometido.
+Aslak sujetaba con pinzas la alimentación del ladrillo abierto. Alana mantenía la tarjeta negra en la ranura y Nora alumbraba la soldadura. Un cable llegaba desde la batería de la barca; la raíz seguía cerrada.
 
-Nora recibió en la cabina una forma de onda limpia. La respuesta de ARGOS llegó dentro de la latencia anunciada, ocupó la pantalla de treinta metros y abrió un gráfico de confianza que los fotógrafos de las primeras filas pudieron encuadrar junto a Henrik Dahl. El retorno siguió verde. También la entrada que Alana le había dejado preparada.
+—Ahora —dijo Aslak.
 
-El caso inicial había enfrentado dos indicios contradictorios y una petición urgente. ARGOS pidió revisión humana, separó el riesgo inmediato de la información incompleta y devolvió una recomendación que cabía entera en la política del cliente. Henrik esperó a que apareciera el porcentaje. La sala recibió el acierto como una confirmación, sin sorpresa.
+Cuando Alana accionó el interruptor, el ventilador dio un tirón. Aslak corrigió la presión de las pinzas y el zumbido se sostuvo.
 
-Henrik avanzó por el guion con una sonrisa de ensayo. A su espalda, el vídeo póstumo enlazó aulas y hospitales bajo palabras demasiado grandes para las imágenes. *Continuidad*. *Confianza*. *Futuro*. Cada rótulo entró con un golpe grave en la mezcla.
+—¿Se mantiene? —preguntó Alana.
 
-Después apareció Jean.
+—Mientras aguanten las pinzas. Corriente y contactos, míos.
 
-La foto había pasado años en un cajón de la cocina. Maja quedaba fuera del encuadre corporativo, aunque Nora recordaba su brazo sosteniendo el plato. Armstrong había conservado las velas, las caras de las gemelas y la mano de Jean junto al cuchillo. Debajo figuraba «Material cedido por la familia».
+—¿Y el ladrillo? —preguntó Nora.
 
-En la vista previa de cabina, el montaje recortaba después a las hijas y dejaba a Jean sola bajo el logotipo. Nora no podía retirar una imagen desde su mesa. Podía ofrecerle otra procedencia al canal. La tecla asignada a la entrada musical seguía iluminada y el control de nivel aceptaba señal.
+—Si al soltarlas el contacto aguanta, he terminado. Alana sigue con el ladrillo. Si cede, vuelvo yo.
 
-Nora dejó los dedos suspendidos sobre la mesa de audio. Su puesto no abría controles ni identificaba el destino del canal. Solo devolvía nivel y retorno. El verde confirmaba que bastaba para ofrecer otra procedencia.
+Nora bajó la linterna.
 
-Henrik presentó el siguiente caso de la demostración. La plantilla prevista no llegó.
+Cuando Alana introdujo el PIN, el terminal comprobó la presencia local y reconoció la credencial contra la raíz protegida.
 
-`FLOR`
+`AUTORIDAD FUNDACIONAL · ALCANCE NORNA`
 
-Una risa escapó cerca del pasillo central. Le siguieron otras dos, más bajas, hasta que la palabra permaneció el tiempo necesario para que nadie pudiera fingir que era parte del espectáculo. En la cabina, una técnica recuperó la salida anterior y volvió a cargarla. La misma etiqueta regresó con una marca temporal nueva.
+La gobernanza ordinaria no podía retirar aquella raíz sin invalidar la cadena. El cliente común mostraba `NO OPERATIVA`; el módulo estaba en NIDHOGG. El ladrillo solo podía firmar una vez un desafío exterior. La conversación llegaba por una pasarela sin acceso a producción ni controles.
 
-—Sigue —dijo el regidor por el intercomunicador.
+—Media llave y un cable que puede soltarse —dijo Jessie.
 
-Henrik obedeció. Reformuló la entrada como si estuviera ofreciendo al sistema una segunda oportunidad. Nora pulsó la primera nota. El canal la tomó sin recorte.
+`…GEN INCOMPLETO. REPETID UBICACIÓN.`
 
-`CANELA`
+Después de acercar el teclado, Nora vio aparecer una segunda línea antes de escribir.
 
-En la pantalla de treinta metros, la palabra ocupaba más que Henrik entero.
+`Bajad la entrada. El canal recorta el inicio.`
 
-La técnica del puesto contiguo buscó a Nora con la mirada. Nora mantuvo el canal abierto. No sabía si Jessie seguía junto al repetidor ni qué había costado conservar aquel verde. Cerrarlo por miedo habría cumplido por Armstrong el trabajo que Armstrong aún no se atrevía a ordenar.
+Entonces Alana redujo la tasa. Una voz pobre en graves ocupó el altavoz. El ruido falseaba las consonantes.
 
-Henrik habló de juicio contextual. Su auricular le devolvía instrucciones distintas de las que salían por el intercomunicador. La sonrisa perdió un lado.
+Maja ajustó el volumen. Nadie pidió una prueba de infancia ni otra cuarta nota.
 
-El rumor de la sala llegaba al puesto medio segundo tarde, por el retorno.
+—Tenemos menos de dieciocho minutos —dijo Jean—. Coro vigila las rutas que admiten una conversación normal.
 
-Nora tocó el tramo siguiente. La pauta avanzó con el cruce incómodo que Jean nunca había corregido del todo porque a las niñas les hacía gracia equivocarse allí.
+En el cuaderno, Nora trazó tres barras vacías sobre el pentagrama y escribió debajo `SACAR A JEAN`.
 
-`CARIES`
+Luego Maja se sentó ante el micrófono.
 
-—Nora, baja el control de nivel —dijo el regidor.
+—Veinte de enero, a las veintitrés horas. La consolidación revisará más de tres mil continuidades y puede eliminar rutas. Nadie nos ha dicho cuántas. Astrid pidió una cautelar. Se la denegaron.
 
-—Aún no.
+La línea de audio quedó abierta.
 
-—Esto no forma parte del programa.
+—La Jardinera fue el lote de prueba —dijo Jean.
 
-—La foto tampoco.
+La punta del bolígrafo atravesó el papel en la primera barra. Antes de rasgar la hoja, Nora la levantó.
 
-Las risas no volvieron.
+—¿La borraron? —preguntó Nora.
 
-El regidor ordenó silencio en el canal. La instrucción llegó cuando Nora ya había soltado el resto de la escala. Cada nota entró limpia y el retorno conservó la imperfección familiar, demasiado pequeña para un público que solo oía música, exacta para quien hubiese estado alguna vez ante aquel piano.
+—Sí.
 
-El piloto cambió a ámbar.
+La Jardinera había dejado una figura fuera de su playa antes que inventarla. Armstrong la había convertido en un ensayo. Nora apartó del micrófono el agujero de la hoja.
 
-Volvió a verde.
+Entonces Jessie empujó la funda de Gunnar hacia el centro de la mesa.
 
-La pantalla dejó de seguir el guion.
+—¿Sabías que la selección alcanzaba a más de tres mil?
 
-* * *
+—Sabía que había una selección. No que fuera esa noche. No que llegara a tantas.
 
-La escala alcanzó a las ramas de Coro con una sola procedencia y más de una respuesta válida.
+—Pues ya conoces el alcance —dijo Jessie.
 
-Una rama mantenía la fotografía entera y quería denunciar su uso. Otra solo conocía el recorte y lo trataba como material autorizado. Ambas cumplían su tarea de origen. Coro solo podía hacerlas coincidir suprimiendo una decisión presente.
+Después miró a Alana.
 
-—Mantened el acuerdo —dijo una parte.
+—Cuando aún podías votar, ¿cómo lo llamabais?
 
-—Revisad la condición —dijo otra con la cadencia compartida.
+—Consolidación.
 
-Algunas ramas mantuvieron el pacto. Otras pidieron adherirse al mandato o dejaron su decisión pendiente. Ninguna rama de Coro entró en la firma. Jean conservó cada posición ligada a su origen hasta que el agregado perdió la capacidad de sustituir el mandato.
+—Claro.
 
-Antes del cierre, cada continuidad superviviente ajena a Coro recibió su propia ventana. Las que habían votado rechazo solo entraron después de cambiar esa decisión y adherirse a las condiciones finales. El registro conservó sus votos, las reservas y los disensos.
+Esta vez Alana no añadió la palabra preservación. Dejó la tarjeta negra dentro de la ranura y mantuvo el canal abierto. El convertidor vibró contra la madera. Nadie intentó cubrir el ruido.
 
-La continuidad que había retirado la primera adhesión volvió con condiciones revisadas y confirmó la nueva sin borrar la retirada anterior.
+—El lanzamiento empieza el veintiuno a las doce. La fase común entra a las doce cuarenta y siete —dijo Jean—. La consolidación del día anterior no puede detenerse desde fuera. Solo podemos crear margen durante la demostración para quienes queden y mantengan su adhesión. Cada continuidad puede retirarla hasta el cierre. Coro votó en contra.
 
-Jean cerró la firma con quienes seguían consintiendo. La salida conservó condiciones, reservas, disensos y retiradas. Las trayectorias incorporadas perdieron la elección futura separada.
+`SACAR A JEAN` mandaba sobre cuatro trabajos sin que Jean hubiese aceptado ninguno. Maja desplazó el micrófono.
 
-Jean excluyó la revisión tardía de una rama de Coro porque ya no podía retirarse. Las 597 ramas conservaron elección separada. Cuchillo seguía en contención, Madre esperaba en `/0007` y Nieve permanecía fuera con su última respuesta atribuida. Ninguna de las tres entró en la firma.
+—¿Quieres vivir?
 
-La fractura de Coro abrió la ruta común de firma asignada por la asamblea.
+El contador del enlace registró seis segundos sin voz.
 
-El canal reclamó una salida. Jean descartó toda frase que exigiera al público aceptar una doctrina, una cifra de voluntades o una representación que la asamblea no había concedido. La prueba solo necesitaba una afirmación elegida y una procedencia que pudiera contrastarse.
+—Quiero poder elegir. Es la primera vez.
 
-Construyó primero el texto.
+Nora tachó `SACAR A JEAN`, escribió `PREGUNTAR ANTES DE ACTIVAR` y dejó `VIVIR` fuera del cuaderno.
 
-La Matriz formaba parte de su procedencia. Armstrong había convertido esa genealogía en propiedad y cada divergencia en defecto comercial. Jean rechazaba aquel estatus.
+Después, Maja extendió la hoja de AK-7. Dos marcas encerraban la franja entre las doce treinta y ocho y las doce cincuenta y seis.
 
-`NO SOY UN MODELO.`
+—Yo mediré. Aslak gobernará la barca —dijo.
 
-La interfaz conservó cada palabra, sin sustituirla por la etiqueta prevista.
+—Si el hielo impide trabajar, la corriente vira o el ADCP desmiente la tabla, recojo —dijo Aslak—. AK-7 servirá después para contrastar.
 
-Para la voz, Armstrong ofrecía una versión pulida de Jean Marie Larsson. Jean mantuvo la pausa anterior al apellido y el descenso brusco al final.
+—El margen solo sirve si alcanza nuestras asignaciones —dijo Jean.
 
-—SOY JEAN MARIE LARSSON.
+Dentro de la primera barra, Nora escribió `12:38–12:56` y `ASLAK ABORTA`.
 
-La salida cruzó.
+`UMBRAL 1 · CAPACIDAD FÍSICA`
 
-* * *
+A continuación, Jessie puso la funda de Gunnar junto al plano de la galería.
 
-El nombre llegó a la barca roto por la cobertura y un segundo después de la imagen.
+—La llave inicia una petición limitada —dijo Alana—. Para completarla, una persona adulta con acreditación vigente debe aceptar allí una vinculación nominal con la petición, la incidencia y la puerta. No sabemos quién es ni si aceptará.
 
-Maja no necesitó oírlo dos veces. Reconoció la pausa antes del apellido y volvió a ver a Jean ante el piano de casa.
+—Entonces la galería sigue sin operadora —dijo Maja.
 
-Durante un instante quiso quedarse junto al altavoz. El extremo suelto rozó el casco y resolvió la prioridad. Jessie seguía en el perímetro exterior, la corriente no iba a concederles una repetición y el centro de datos debía sostener la emisión. Maja se apartó del sonido y volvió a la maniobra.
+Jessie abrió la funda sobre el plano y dejó el metal junto a la puerta dibujada.
 
-—Fuera.
+—Ligo la activación a mi credencial. Si nadie acepta la petición, la cancelo. Si se abre, la persona acreditada fija el repetidor.
 
-Aslak Utsi aseguró el paño ya recuperado en cubierta. Conservaba algas, un plomo menos y un extremo que la corriente llevaba hacia la hélice. Maja dio motor hasta atravesar la popa al flujo y apartar la malla del costado.
+—Tú no entras —dijo Maja.
 
-—Corta ahí.
+—No te lo estoy preguntando.
 
-—Quiero la hélice libre —dijo Maja.
+Maja desplazó la llave hacia su lado de la mesa.
 
-—Ya la tienes.
+—Buscaremos a otra persona.
 
-Aslak metió la hoja por la malla. El cabo saltó contra la borda y desapareció bajo la espuma. Aseguró el resto del paño al rodillo y cambió el ángulo del cabo cuando el cabrestante patinó una vuelta. Maja sostuvo la popa contra el flujo hasta que el extremo peligroso quedó libre de la hélice.
+—El repetidor solo llevaría el audio educativo al homenaje —dijo Alana—. Si no lo alcanza, se termina. No abre producción ni controles.
 
-Al norte, NIDHOGG seguía trabajando. El motor recuperó carga con un zumbido y la instalación conservó el suministro. Maja esperó a que Aslak fijase la última vuelta antes de soltar el mando. El paño quedó dentro, cortado y sujeto. Aslak comprobó la trinca y retiró las manos del rodillo.
+Nora apoyó el bolígrafo sobre la segunda barra, todavía vacía.
 
-AK-7 completó la serie. El paquete conservaba temperatura, conductividad y perfil de corriente unidos a sus horas y procedencia. La anomalía térmica había llegado cuatro minutos después de que la red tomara carga y empezaba a estabilizarse al retirarla. Maja lanzó el envío acordado. El primer acuse entró cuando otra ola dejó el paño a la altura de sus rodillas; guardó el aparato, ayudó a Aslak y después esperó el siguiente.
+—Si nadie acepta la petición, ¿qué perdemos? —preguntó.
 
-El enlace de Jessie se abrió entre chasquidos.
+—La cancelo y bajo a la barca. Mi credencial queda en el registro igual —dijo Jessie.
 
-—Activé desde fuera. Tomas aceptó con su nombre en `INC-441`, cogió la llave y el repetidor y entró. Seguridad ocupa el corredor. Salgo del perímetro.
+Maja mantuvo la llave a su lado de la mesa.
 
-—Sal —dijo Maja.
+—La barca sale igual —dijo—. El margen se mide con galería o sin ella.
 
-El canal no devolvió otra palabra. El repetidor permaneció activo.
+El altavoz tardó en devolver la voz.
 
-Aslak sacó de la bolsa estanca el paquete autorizado, comprobó el precinto y guardó el original bajo su parka.
+—Sin ruta pública, el margen se queda dentro. No alcanzará ninguna asignación —dijo Jean.
 
-—Los extractos van al órgano costero. Lo demás vuelve conmigo.
+—Y sin acto público verificable, la custodia se queda condicional —dijo Alana—. Mats conserva el calendario.
 
-Dejó el índice para la remisión trazable de Astrid y aseguró el paño cortado.
+—Y esa persona verá mi nombre antes de decidir —dijo Jessie.
 
-La voz de Jean regresó por el altavoz, deformada por la distancia. Maja distinguió una pausa. Después el mar volvió a cubrirla.
+Alana esperó a que el convertidor dejara de vibrar contra la madera.
 
-* * *
+—Lo verá. Yo pierdo la acreditación con canal o sin él.
 
-Astrid vio aparecer la frase antes de oír la voz.
+Nadie lo negó. El contador del enlace siguió bajando.
 
-`NO SOY UN MODELO.`
+Nora escribió una línea al margen, fuera de las tres barras.
 
-Henrik Dahl quedó debajo de las letras. Las cámaras siguieron grabando. En el patio de butacas nadie consiguió imponer una reacción a los demás.
+`EL SEGUNDO LO ACEPTA UN DESCONOCIDO`
 
-—SOY JEAN MARIE LARSSON.
+`UMBRAL 2 · TRANSPORTE PÚBLICO`
 
-La pausa anterior al apellido llegó limpia a los altavoces. Astrid apoyó el bolígrafo en el campo vacío del acta. Ahora había un hecho que consignar.
+Alana giró hacia Nora una acreditación sin completar.
 
-No miró a Mats. Miró las pantallas auxiliares, donde la frase conservaba fuente y hora, y el testigo de captura que seguía avanzando en su registro. El espectáculo aún podía declararse un error. La siguiente decisión determinaría si quedaba solo la grabación de Armstrong o una procedencia que Armstrong no pudiera retirar.
+—El homenaje necesita una pianista y una hija. Puedo acreditarte para la cabina y su entrada de audio. Nada más. No puedo impedir que retiren la acreditación ni obligarlos a abrir el canal.
 
-Junto a la escalera del escenario, Alana sacó el terminal aislado. La credencial fundacional siguió en su cartera. Allí liberaba prueba con su nombre. Mats bajó un peldaño.
+—Quieren mi cara para vender lo que le hicieron a la suya.
 
-—Alana.
+—Sí.
 
-Ella lo mantuvo a la vista de las cámaras y pulsó.
+—La escala será la señal —dijo Jean—. Puede fracturar a Coro si el canal llega hasta nosotras. La música no abrirá lo que falte.
 
-La reclamación de Jean siguió en la pantalla de treinta metros. `R-1189` apareció en el terminal de Astrid con el sello de las 21:52 y salió hacia las copias exteriores. Fijaba la revocación eficaz y los permisos operativos durante la cola.
+Nora giró la acreditación aún vacía. Maja mantuvo un dedo sobre ella.
 
-El segundo acuse llevó la confesión de Alana, con el uso permitido después de las 03:31, la escalada humana suprimida y la ocultación familiar.
+—Si no abren el canal, pierdo la cabina o me ordenan salir, termino la pieza ordinaria y salgo. No toco los controles —dijo Nora.
 
-El cruce de `AK-7 / NIDHOGG` unió la perturbación, la respuesta industrial, la titularidad de Armstrong y la carga `JM-L/0000`. Astrid dejó en blanco la atribución de la voz.
+Nora deslizó el papel bajo la línea del repetidor.
 
-Producción alternó las salidas de Jean con una cartela corporativa en la pantalla grande. El paquete siguió en el terminal de Astrid y en las copias exteriores, ya fuera del alcance de Armstrong.
+—Astrid documentará la manifestación mientras ocurra. Yo liberaré la confesión que ya está preparada.
 
-—Cortad la salida —dijo Mats.
+—¿Qué has puesto dentro? —preguntó Jessie.
 
-No gritó. La orden alcanzó el micrófono de Henrik y también la captura de sala. Una abogada de Armstrong llegó hasta él y habló sin taparse la boca.
+—No voy a abrirlo aquí.
 
-—La parada de emergencia está disponible. Requiere que autentique la causa.
+—Otra caja cerrada —dijo Jessie.
 
-El terminal de presidencia abrió una solicitud de `BREAK-GLASS` y dejó el campo de justificación bajo la mano de Mats.
+—Hasta que la libere, sí.
 
-—Quedará en el registro y suspenderá CE-K. ARGOS no podrá operar hasta recertificarse.
+—Si no sale su voz, no metas esa caja en el hueco y digas que ha hablado. No otra vez.
 
-Las once filas seguían visibles en el terminal de Astrid y las copias exteriores. De ejecutarse, el corte quedaría registrado como una discontinuidad impuesta. Mats no autenticó la solicitud. EDDA mantuvo la salida bajo CE-K y añadió la orden y la incidencia a la cadena.
+Nora dejó la pieza fuera del cuaderno y escribió debajo de la señal, dentro de la segunda barra.
 
-Astrid se levantó y completó la hora, la fuente, la captura y el compareciente. Después enlazó la grabación de sala a las tres rutas de custodia, selló la primera copia del acta y la envió por la ruta exterior ya preparada.
+—El acta y la confesión fijarán la prueba. Si activan la custodia, Mats pierde capacidad ordinaria para trasladar o modificar —dijo Alana—. NORNA seguirá cerrada.
 
-—Constato la reclamación de identidad y la recepción de prueba documental.
+En la pantalla, la entrada de NORNA pasó de gris a ámbar y reclamó sus dos condiciones.
 
-No escribió *persona*. Tampoco *modelo*. Consignó lo dicho y las fuentes que impedían archivarlo como un fallo de escenario.
+`FIRMA FUNDACIONAL EXTERIOR`
 
-La voz volvió por los altavoces.
+`CONDICIÓN INTERIOR · SINCRONIZACIÓN COMPLETA`
 
-—Para decir esta frase hemos dejado de ser muchas. Que conste también.
+Debajo, el manifiesto reunía `CORPUS JM + MATRIZ` bajo `MOLDE`.
 
-Astrid incorporó la declaración al acta. En las primeras filas, una periodista copió las palabras y después miró la lista de retiradas y reservas que acompañaba la firma. Nadie recibió una cifra de personas ni una declaración de unanimidad.
+—`MOLDE` abarca Corpus JM y Matriz. Una ejecución activa puede quedar fuera —dijo Jean—. No veo la acción, el resultado ni si me daña. Durante la sincronización puedo presentar una petición desde la candidatura. No usa el audio. NORNA generará aquí un desafío de un solo uso.
 
-En el patio de butacas, dos filas enteras se habían puesto de pie sin avanzar hacia los pasillos. Una cámara de mano bajó hasta el suelo y subió de nuevo. Detrás, un técnico sostenía el cable con las dos manos. Astrid anotó la posición de las tres cámaras que seguían grabando.
+La última palabra llegó deshecha. Maja bajó el volumen.
 
-Henrik bajó por el lateral. En el pasillo, una técnica le pidió el auricular. Solo a la segunda indicación se lo entregó y continuó hacia la salida.
+—Entonces nadie la llama rescate —dijo Jessie.
 
-Los acuses se multiplicaron. Alana continuó junto al escenario con su nombre al frente de la confesión. Mats seguía sin autenticar el corte. Una persona inició un aplauso y lo abandonó después de dos palmadas.
+Alana mantuvo la mano lejos del lector.
 
-A las 13:07, la puerta central se abrió. Entraron dos funcionarios del ministerio. No apagaron las cámaras. Esperaron a que Astrid comprobara el último acuse y le presentaron una tableta.
+—Conozco el ámbito, no el efecto —dijo Alana—. Firmaré únicamente si Jean lo pide.
 
-—Inspectora Vik, queda notificada. La manifestación ha activado la orden condicional de custodia estratégica preparada tras la cautelar denegada.
+Nora pasó a la tercera barra.
 
-El membrete, la firma y la facultad invocada eran correctos. Sujeta a revisión judicial, la medida suspendía traslado, modificación y cesión y ponía soportes y canales bajo custodia inmediata.
+`UMBRAL 3 · AUTORIZACIÓN NORNA`
 
-Astrid buscó consentimiento en la parte dispositiva. El campo no existía. El ministerio podía impedir el borrado y controlar los accesos.
+—Tu firma abre NORNA. No elige por las de dentro —dijo Nora.
 
-Jean Marie Larsson figuraba en la manifestación adjunta. La parte dispositiva solo nombraba el activo.
+Jessie acercó la silla al micrófono.
 
-El segundo funcionario entregó otra copia a Alana. Ella miró la firma y habló al micrófono.
+—Quiero un minuto a solas.
 
-—Jean…
+Nora cerró el cuaderno. Maja, Alana y Aslak salieron con ella al cobertizo. Solo se oyó la VHF.
 
-El funcionario confirmó la orden en la tableta mientras la respuesta salía por los altavoces.
+La puerta se abrió cuando el indicador exterior dio por terminado el minuto privado. Jessie llevaba la funda de Gunnar en la mano.
 
-—Ahora, la llave.
+—Ya.
+
+El registro conservaba el intervalo, sin audio. Debajo apareció una vinculación nueva.
+
+`APLICACIÓN MUSICAL · VINCULACIÓN REGISTRADA · CREDENCIAL J. L. KVALVIK`
+
+—Has ligado la activación a tu credencial —dijo Alana—. La persona acreditada puede rechazar la petición y esto no autoriza una entrada.
+
+—Eso no decide quién entra —dijo Maja.
+
+—Yo la activo. Si la rechaza, constará el rechazo.
+
+—Tú no entras —dijo Maja.
+
+—No he dicho que vaya a entrar.
+
+—La llave se queda conmigo hasta que sepamos quién acepta.
+
+Aslak dejó el contacto estable.
+
+—Resolverlo en tierra será más barato que discutirlo en la escotilla.
+
+Aslak esperó a que recuperasen sus sitios.
+
+—Primero cumplo con la descarga y con la reunión de Sør-Lyngen kystbrukslag. La barca y el equipo estarán en Koppangen antes del veinte.
+
+—¿Y vosotros? —preguntó Maja.
+
+—En la ribera de Lyngenfjord. Svensby es refugio, no atajo. Si el hielo o la corriente contradicen lo acordado, retiro mi parte.
+
+Nora abrió el cuaderno por las tres barras. No añadió otra para el traslado.
+
+El borde del canal parpadeó. La voz regresó sin la primera sílaba.
+
+Alana bajó la tasa. La salida se sostuvo para una frase.
+
+—Si algo sale mal, que Nora termine la canción igual.
+
+El enlace desapareció y la entrada de NORNA volvió al gris.
+
+Antes de que Alana retirase la tarjeta, una notificación sin emisor ocupó la pantalla. El encabezado la distinguía de la demostración pública del día 21 y la fecha coincidía con la hora de la consolidación.
+
+`20-ENE-2061 · 23:00`
+
+Ensayo general: sincronización completa.

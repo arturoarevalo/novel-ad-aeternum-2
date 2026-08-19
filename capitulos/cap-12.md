@@ -1,325 +1,215 @@
 ---
-capitulo: 14
-titulo: Gunnar
+capitulo: 12
+titulo: Caries
 pov: Nora
-fecha: 2060-12-09
+fecha: 2060-12-05
 estado: aceptado
 analepsis: false
-estado_plan: E
+estado_plan: R
 proteccion: nucleo
 ot: OT-12
 delta_objetivo: 0
-orden_lectura: 14
+orden_lectura: 12
 ---
 
-Deja de subir fotos si quieres que siga respondiendo.
+Nora pulsó «subir» y la red escolar rechazó la foto antes de que la barra alcanzara el dos por ciento.
 
-Nora leyó el mensaje bajo el toldo de una farmacia cerrada. La nieve de la acera devolvía el verde de la cruz y volvía enfermas las manos que sostenían el terminal.
+`Contenido no admitido. Motivo: CARIES.`
 
-El remitente conocía los cuatro recortes que ella conservó antes de que Armstrong le suspendiera la cuenta. El primero había llegado el martes por la tarde. Nora había contestado cuatro minutos después. Dos días de frases sin firma: una pregunta de Nora, una instrucción seca, otra pregunta que quedaba sin contestar. Nada que permitiese decidir si al otro lado había una persona o un sistema automático con acceso a sus archivos.
+En la imagen, las gemelas tenían nueve años y esperaban el ferry sentadas sobre dos mochilas. Jean salía detrás con la cara cortada a la altura de la nariz, un vaso de cartón en cada mano y la bufanda torcida. El encuadre dejaba sitio de sobra al suelo de goma, al banco atornillado y a una papelera.
 
-Llegó una segunda línea.
+De pequeña, Nora había llamado caries a las teclas negras del piano. Jean había tocado tres y contestado que esas teclas hacían morder a la canción.
 
-`17:40. Cafetería frente al cine. Mesa del fondo. Ven sola.`
+Leyó el aviso otra vez. La foto era para una tarea de tutoría sobre trayectos cotidianos. Nora no había vuelto al instituto desde noviembre. Las tareas de tutoría se entregaban desde casa: era lo único suyo que aún contaba mientras faltase. En la lista de 1STA, las demás entregas llevaban dos días encendidas. Faltaban cuarenta y siete minutos para el cierre. Arriba del hilo seguía el mensaje de la tutora, sin fecha: «Cuando vuelvas, retomamos por donde lo dejaste». La tutora le había ofrecido aplazar la entrega con esa delicadeza adulta que evitaba la palabra funeral. Nora había contestado que llegaría a tiempo.
 
-Faltaban veintisiete minutos. Podía comprobar la existencia del local y llegar andando. La hora tan próxima reducía las posibilidades de consultar a nadie.
+El revisor de la propia red aprobó formato, tamaño y metadatos. Nora sustituyó el borrador por esa copia y volvió a enviarla desde el álbum.
 
-Nora abrió los detalles del envío. El identificador cambiaba cada vez que salía de la pantalla. El interlocutor había visto los recortes. Seguía siendo lo único útil.
+`Contenido no admitido. Motivo: CARIES.`
 
-Escribió `¿Quién eres?` y borró la pregunta. Si la respuesta podía llegar en persona, gastarla allí servía de poco. Si todo era una trampa, ninguna firma en el terminal iba a volverla menos trampa.
+—Jessie.
 
-—Pues le ha salido regular.
+Su hermana apareció con una cuchara en la boca y un cuenco de cereales apoyado contra el jersey. Leyó el aviso, miró la foto y se la quitó.
 
-Jessie estaba a su lado, leyendo por encima del terminal.
+—Un filtro mal entrenado.
 
-Nora apagó la pantalla.
+—Ha pasado la comprobación previa.
 
-—Podrías avisar antes de aparecer.
+—O una etiqueta de prueba. Mamá dejó restos por media Armstrong.
 
-—Llevo medio Storgata detrás de ti. —Jessie señaló el bolsillo de Nora—. ¿Quién quiere que vayas sola?
+—Anoche salió `JM-L/0007`.
 
-—No lo sé.
+—En una aplicación donde trabajó ella. Que dos cosas hereden la misma porquería no las convierte en cartas.
 
-—Estupendo. Así es mucho más seguro.
+Nora cerró el aviso. Jessie podía tener razón en cada palabra y aun así quedaba aquella mayúscula bajo la foto del ferry.
 
-Nora echó a andar. Jessie la acompañó sin pedir permiso. Los escaparates seguían abiertos aunque la tarde fuese negra. Dentro de una tienda, un dependiente colocaba guantes de colores bajo una lámpara blanca. Dos turistas pasaron discutiendo si las nubes arruinarían la excursión de auroras que acababan de pagar.
+El editor permitía recortar sin publicar. Nora hizo cuatro copias desde el mismo original y retiró una franja distinta de cada copia. Mantuvo las medidas y las caras. La herramienta ya había limpiado los metadatos. Las llamó de A a D antes de cargar ninguna.
 
-—Ha visto los recortes —dijo Nora.
+—Graba la pantalla —dijo Jessie.
 
-—También soporte. Y ahora tienes la cuenta bloqueada.
+Nora activó la grabación ordinaria del dispositivo. Mostró la hora, las marcas de creación y la vista previa de los cuatro archivos. Después subió A.
 
-—Por eso quiero escucharle.
+`FLOR.`
 
-—Yo también. Desde otra mesa, si hace falta.
+El recorte seguía mostrando el suelo de goma y el banco. También las mochilas y media cara de Jean. No había flores.
 
-—Ha dicho sola.
+Subió B.
 
-Jessie se detuvo lo justo para obligarla a volverse.
+`CANELA.`
 
-—Tienes dieciséis años y has quedado con un adulto anónimo. Vas conmigo o no vas.
+Los vasos no llevaban marca y nadie comía. Nora anotó la hora en una nota provisional y cargó C.
 
-Nora abrió la boca y volvió a cerrarla. Había calculado hasta el asiento que elegiría sin incluir ese dato elemental.
+`Contenido no admitido. Motivo: CARIES.`
 
-—De acuerdo, vienes —dijo.
+Jessie dejó el cuenco sobre una caja sin apartar los ojos de la pantalla.
 
-—Gracias por invitarme.
+—Falta D.
 
-* * *
+Nora lo envió. No había escrito una pregunta en el nombre, en el álbum ni en ningún campo.
 
-La cafetería estaba llena de parkas mojadas y conversaciones demasiado altas. En la mesa del fondo había un hombre solo, con una taza intacta y un folio cuadriculado doblado bajo la mano. Cincuenta años, quizá. La barba de dos días le ensuciaba la cara y tenía hundida la piel bajo los ojos.
+`Contenido no admitido. Motivo: NO.`
 
-Al ver a Jessie, se levantó a medias.
+El historial dispuso las cuatro salidas por orden.
 
-—He dicho sola.
+FLOR / CANELA / CARIES / NO
 
-—Y yo no acepto citas de mierda —dijo Jessie—. Puedes irte.
+Flor y canela admitían demasiadas asociaciones. `CARIES` era más íntimo, pero tampoco bastaba para atribuir intención. Nora detuvo la grabación. Los intervalos rondaban los once segundos. No convirtió `NO` en respuesta.
 
-El hombre miró la puerta, la barra y el ventanal que daba a Storgata. Se sentó.
+Jessie comprobó las marcas de creación por segunda vez.
 
-—Cinco minutos.
-
-—¿Cómo se llama? —preguntó Nora.
-
-—Gunnar Rydberg.
-
-—¿Trabaja para Armstrong?
-
-—Fiabilidad. Sistemas desplegados.
-
-—Enséñenos algo.
-
-Gunnar sacó una acreditación del bolsillo y la sostuvo entre dos dedos, sin soltarla. La foto mostraba una cara más descansada y el mismo capilar roto en el ojo. Nombre, departamento, una banda azul de acceso. Volvió a esconderla antes de que Nora pudiera acercar el terminal.
-
-Nora alcanzó a leer la fecha de emisión.
-
-—Podría estar caducada —dijo.
+—Las cuatro existían antes de que saliera flor.
 
 —Sí.
 
-Nora dejó el abrigo puesto. Jessie ocupó la silla que permitía ver la entrada. Gunnar no les ofreció café ni les preguntó por Maja.
+—Repite.
 
-—¿Cómo consiguió los recortes?
+Nora limpió el borrador y abrió el espacio de prueba. Jessie comprobó nombres, recortes y orden. La segunda serie A–B–C–D devolvió las mismas cuatro correspondencias.
 
-—No los conseguí. Vi las salidas en la cola lateral de… Ese nombre no. Recibe reintentos fuera de soporte y no debería tocar tráfico escolar.
+—Vale —dijo Jessie—. Es raro.
 
-—¿Y el informe? —preguntó Nora.
+Nora exportó el historial.
 
-—El primero. Puse «enrutamiento». Me equivoqué.
+—Se repite, pero todavía no sabes de qué depende.
 
-Gunnar miró la barra antes de continuar.
+Nora preparó el orden D–C–B–A. Si las palabras seguían las posiciones, cambiarían de archivo. Si seguían los recortes, no. Aún quedaba la posibilidad de un estado conservado.
 
-—El segundo iba a…
+Nora cambió `comprobación` por `control` en la fila.
 
-La puerta se abrió a su espalda. Entró un chico con una bolsa de deporte y se puso el último en la barra. Gunnar dejó la frase a medias, con la boca todavía abierta. No se volvió. Tenía las manos planas sobre el folio y esperó así hasta que el chico pidió, pagó y se apartó hacia el fondo. El papel se arrugó debajo, en el borde. Nora contó catorce segundos.
+Jessie recuperó el cuenco. La leche había empapado los cereales y la cuchara se sostenía de pie.
 
-—Es solo la puerta —dijo Jessie.
+—Hazlo, entonces.
 
-Gunnar no contestó. Volvió a hablar más bajo.
+—Primero voy a guardar esto.
 
-—El segundo no llegó a presentarse.
+—Acabas de guardarlo.
 
-—¿Por qué?
+—La grabación y los originales tienen que quedar juntos.
 
-—Porque dejé de tener acceso.
+—Y luego otra prueba, hasta que la máquina aprenda a decir lo que quieres.
 
-Él sacó una pieza rectangular del bolsillo interior del abrigo. Era gris, más gruesa que una tarjeta de memoria común, con una banda de contactos en un extremo. Una pegatina blanca cubría parte del número de serie. Gunnar escribió algo en el papel cuadriculado antes de dejar el objeto frente a Nora. El folio quedó bajo su mano.
+—O sobre otra cosa.
 
-—Tu madre no está donde debería estar.
+Jessie soltó aire por la nariz.
 
-—¿Dónde debería estar?
+—Ahí está.
 
-—Fuera de ejecución.
+—¿Qué?
 
-—Mi madre murió.
+—Mamá. Metida antes de que termines la frase.
 
-—Lo sé.
+Nora anotó `dato`, tres explicaciones posibles y `control pendiente`. Debajo escribió `conservar resultados contrarios`.
 
-—Entonces dígame qué se está ejecutando.
+—No he escrito que sea ella.
 
-—Una salida con persistencia entre tareas. La cola conserva… —Gunnar tapó el folio—. Lo clasificaron como residuo no determinista.
+—No hace falta. Mañana pondrá «pan» y buscarás un desayuno de mamá.
 
-Las tres palabras estaban impresas en la pegatina. Debajo había una cadena de letras y cifras cortada por un espacio en blanco.
+—Por eso he usado una sola foto.
 
-—¿Es una clave? —preguntó Nora.
+—La foto que querías. Luego escoges cuáles palabras cuentan. Todo cabe si rebuscas suficiente.
 
-—Una parte. Por sí sola no abre nada.
+Nora añadió aquella objeción a las explicaciones alternativas.
 
-—¿Y la otra?
+—El orden se ha repetido.
 
-—A salvo. No la busquéis desde vuestro terminal.
+—Una avería también. Ha pasado algo, vale. Pero ya estás poniendo a mamá en medio.
 
-Jessie señaló la tarjeta sin tocarla.
+Nora dejó de escribir. En el escritorio, la barra del plazo había bajado a diecinueve minutos.
 
-—Hablas como los que venden una estafa y prometen el resto después de cobrar.
+—Quiero probar con D primero. Luego C. Si dejan de salir así, entonces…
 
-—No quiero dinero.
+—Estás poniendo títulos distintos a la misma cosa.
 
-—Quieres que dos hijas de Jean Marie Larsson confíen en ti porque sabes decir su nombre.
+—Tú necesitas que sea un fallo.
 
-Gunnar dejó la taza donde estaba y escondió la mano debajo de la mesa. Nora tardó un instante en entender que le temblaban los dedos.
+—Necesito que mañana vayas a clase. Que comas sin leer cada etiqueta. Que no desaparezcas detrás de cada pantalla donde haya trabajado.
 
-—Quiero que dejéis de producir señales en un canal que registra cada intento.
+—Eso no borra las ocho cargas.
 
-—¿Quién lo vio? —preguntó Nora.
+—Ni las convierte en mamá.
 
-—La incidencia saltó después de vuestras cargas. Primero a riesgo. Después salió de soporte.
+Nora se volvió hacia ella. Jessie ocupaba el hueco entre el escritorio y las cajas que Maja quería revisar, con el cuenco pegado al pecho.
 
-—¿A dónde?
+—La última vez que intenté sacar una nota, mamá tampoco quiso contestar cuando podía salir mal.
 
-Gunnar miró el terminal apagado de Nora.
+—Te dijo que repitieras.
 
-—No lo sé. La incidencia quedó derivada al circuito de Seguridad para preservar evidencias. No puedo ver el alcance ni si llegaron a ejecutar la medida.
+—Hasta que suspendí.
 
-Jessie retiró el aparato de la mesa y se lo metió a Nora en el bolsillo.
+—Y tú sigues repitiendo ahora para conseguir otra respuesta.
 
-—Dinos quién está al otro lado —dijo.
+Nora retiró las manos del dispositivo.
 
-—No lo sé.
+—Eso es injusto.
 
-—Acabas de afirmar que nuestra madre está ejecutándose.
+—Puede. —Jessie miró el cuenco—. Y sigues haciéndolo.
 
-—Hay una salida que no debería conservar estado.
+—Quieres que lo deje porque tú ya has decidido que no puede ser ella.
 
-—Claro. Así no dices «madre muerta». Dices «salida», la metes en una casilla y listo.
+—Quiero que puedas aceptar que no lo sea.
 
-Nora quiso agradecerle a Jessie que lo dijera y pedirle que se callase al mismo tiempo.
+—Puedo.
 
-El calor del local se acumulaba bajo el jersey de Nora. Aflojó la cremallera del abrigo y miró la tarjeta. En la banda de contactos había una raya reciente, brillante. Un objeto usado.
+—Entonces haz la inversa.
 
-—Necesito algo que podamos repetir —dijo—. El informe, por ejemplo.
+Nora podía recordarle que había exigido la repetición. Se contuvo.
 
-—Al abrir un volcado, el sistema llama a casa.
+Jessie cogió la cuchara, pero no comió.
 
-—La hoja no —dijo Jessie.
+—Ahí está. Ya hablas con ella aunque esté hablando yo.
 
-Gunnar la miró.
+Se marchó a la cocina. El agua del grifo sonó unos segundos y cesó. Nora se quedó ante los cuatro botones de la inversa, ya preparada para terminar en menos de un minuto. El cursor descansaba sobre D y la barra del plazo seguía bajando.
 
-—El papel no sincroniza.
+En la nota seguía `conservar resultados contrarios`. Lo había escrito cuando la contradicción era futura. Ahora imaginó cuatro etiquetas corrientes y quiso conservar un poco más las palabras tal como estaban.
 
-Desdobló el folio. Había fechas e identificadores que Nora no alcanzó a leer antes de que él lo tapara.
+Cerró la fila sin ejecutar ninguna carga. Bajo `pendiente` escribió `D–C–B–A sin ejecutar`.
 
-—¿La corrección musical salió del mismo sitio? —preguntó Nora.
-
-La silla de Gunnar chirrió.
-
-—La pegatina no pone música.
-
-—Pero sabe de qué hablo.
-
-Gunnar bajó la vista hasta la cuadrícula. En una casilla, escrita con una punta más roma, Nora distinguió `/0007` antes de que el pliegue volviera a ocultarlo.
-
-—La corrección llegó por la cola lateral, en un reintento que no… Tenéis que marcharos.
-
-—¿Es la misma salida?
-
-—Nora —dijo Jessie.
-
-Su hermana no miraba a Gunnar. Atendía a la calle.
-
-Él volvió la cabeza hacia el ventanal. El reflejo de la máquina de café ocultaba parte de la acera. Justo en el borde se detuvo un hombre con una parka oscura. Frente al escaparate de enfrente, se sujetaba el cuello gris con la derecha y mantenía la izquierda hundida en un bolsillo.
-
-—Guardad la tarjeta fuera de cualquier lector conectado —dijo Gunnar.
-
-—¿Por qué? —preguntó Jessie.
-
-—Conectada, llama a casa.
-
-—¿Qué cosa?
-
-—Seguirla.
-
-Gunnar plegó el folio en cuatro. La taza seguía llena hasta la misma altura que cuando se sentaron. En toda la tarde no la había levantado ni una vez, y el plato de debajo seguía limpio, sin cerco. Esta vez la taza se movió cuando la rozó y el café dejó una media luna en el plato.
-
-—Se acabó.
-
-—Quedan dos minutos —dijo Nora.
-
-—Ya no.
-
-Se levantó y caminó hacia los aseos, en lugar de hacia la puerta. Jessie cogió la tarjeta con la servilleta y la guardó en el bolsillo interior de su abrigo.
-
-—¿Qué haces?
-
-—Evitar que dejes tus huellas por toda la pista misteriosa.
-
-—Eso solo sirve en las películas.
-
-—Perfecto. Tú crees al señor Papel y yo confío en el cine.
-
-Nora buscó en el ventanal la parka oscura. El hombre ya no estaba frente a la tienda.
-
-—Nos vamos —dijo Jessie.
+Luego terminó la tarea con una foto de la parada del autobús, que la plataforma admitió al primer intento.
 
 * * *
 
-Salieron con una pareja que discutía por un gorro. Gunnar apareció media manzana más arriba, junto a un grupo de turistas con trípodes.
+En ayuda, Nora eligió moderación y falso positivo. Adjuntó grabación, archivos e historial. Describió las dos series sin llamarlas mensaje y borró `JM-L/0007` antes de enviar.
 
-Jessie tiró hacia el sur. Nora mantuvo el paso hasta el siguiente escaparate y usó el reflejo para mirar atrás.
+Solicitó el significado técnico de las etiquetas y la revisión de los rechazos.
 
-La parka oscura reapareció detrás de ellas.
+La respuesta llegó antes de que pudiera cerrar la incidencia.
 
-El cristal deformaba la figura entre maniquíes, pero el hombre repitió el gesto: una mano en el cuello, la otra en el bolsillo. Dos locales después volvió a surgir entre los reflejos.
+`Gracias por ayudarnos a mantener un entorno seguro. Los sistemas de moderación pueden limitar contenidos durante procesos ordinarios de verificación. Pruebe con otro archivo o consulte la política de uso.`
 
-—Dos escaparates —dijo Nora, sin bajar el paso.
+Nora marcó que la respuesta no era útil y pidió explicación humana. El campo volvió a mostrar el mismo párrafo. No apareció nombre, plazo ni significado para las etiquetas.
 
-—Ya.
+Guardó la referencia, la exportación y la grabación en el almacenamiento local, fuera de la carpeta escolar. Después buscó papel. En el cajón inferior del banco del piano encontró tres cuadernos pautados a medio usar y eligió el que conservaba más páginas limpias.
 
-—Podría ir detrás de Gunnar.
+La primera página conservaba arriba dos compases de un ejercicio abandonado. Nora escribió debajo `5-dic-2060`, la hora y las dos series, una por línea. Separó `datos` de `hipótesis`, dejó el control inverso pendiente y, en el apartado de origen, puso `responsable desconocido`.
 
-—O podría esperar a que nos separemos.
+El dispositivo vibró sobre la tapa del piano.
 
-—Podemos dejar la tarjeta aquí.
+`La actividad reciente requiere verificaciones adicionales. Su cuenta está en revisión.`
 
-—Y venir mañana a recogerla, supongo.
+Nora anotó la referencia de incidencia y la hora del aviso. Comprobó que los archivos locales se abrían y desconectó la carpeta escolar. Al volver a la red, el álbum había desaparecido del menú. El historial de cargas dejó de estar disponible y el enlace de soporte devolvió la pantalla de acceso.
 
-—Si la quiere, irá a por ella.
+La tarea seguía entregada. La foto de la parada continuaba en la bandeja de la tutora, con su hora y su nombre al lado. Lo que la plataforma marcase junto a ese nombre iba a verlo el grupo antes que ella.
 
-—Si la quiere, sabrá que la hemos soltado. Sigue andando.
+Metió el cuaderno entre los ejercicios de armonía. En el papel, las dos series seguían enteras.
 
-Jessie cambió de acera con un grupo que cruzaba sin orden hacia un autobús. No miró al hombre. Eligió el restaurante indio de la esquina y empujó la puerta justo cuando salían tres clientes cargados con bolsas de comida.
+La pantalla cambió una vez más.
 
-El aire caliente olía a comino tostado y cardamomo. Una familia esperaba junto al mostrador de recogida; en el comedor, dos camareros juntaban mesas para un grupo que acababa de llegar. Jessie atravesó el vestíbulo como si tuviera una reserva. Nora quiso mirar la puerta, pero el cristal devolvía la fila de abrigos. Su propia cara reaparecía allí pegada a la de su hermana.
-
-—Buenas tardes —dijo un camarero—. ¿Mesa para dos?
-
-—Estamos buscando a nuestro padre —contestó Jessie.
-
-—¿Cómo se llama? —preguntó el camarero.
-
-—Ya lo hemos visto. Gracias.
-
-Nora no tuvo tiempo de protestar. Su hermana pasó entre el mostrador y un perchero, hacia la segunda sala. Allí había otra puerta de cristal que daba a la calle lateral. Un repartidor la sujetó con el hombro mientras equilibraba dos cajas térmicas.
-
-—Gracias —dijo Jessie, y arrastró a Nora detrás de él.
-
-Fuera, el aire helado le humedeció los ojos a Nora después del restaurante. El chico de las cajas bajó hacia el puerto. Ellas doblaron en sentido contrario, junto a una pareja con un carrito de bebé. Jessie se permitió entonces mirar atrás.
-
-—¿Está?
-
-—No lo sé.
-
-—¿Gunnar?
-
-Nora buscó el gorro entre la gente de Storgata. Los trípodes continuaban hacia la esquina, pero Gunnar ya no se distinguía entre los demás. Tampoco el hombre de la parka.
-
-—Tampoco.
-
-Jessie palpó el bolsillo donde guardaba la tarjeta.
-
-—Nos vamos a casa.
-
-—No podemos meterla en ningún lector.
-
-—Eso ha dicho él.
-
-—Y tú no le crees.
-
-—Le temblaban los dedos. La tarjeta se queda envuelta.
-
-Tomaron un desvío entre tiendas hasta una parada concurrida. El primer autobús de vuelta abrió las puertas, pero Jessie lo dejó marchar porque, una vez en marcha, solo ofrecía una salida. Esperaron cinco minutos entre la cola del siguiente, un hombre con una niña dormida sobre los hombros y dos estudiantes que compartían auriculares. Allí nadie podía acercarse sin ser visto.
-
-Un portal se abrió frente a la parada. Salió un hombre de unos cuarenta años, con una parka oscura y el cuello gris levantado. Antes de echar a andar se metió las manos en los bolsillos. Su cara no mostró reconocimiento al pasar junto a las gemelas.
-
-El terminal de Nora vibró. Acababa de recibir un archivo de texto que Gunnar Rydberg había dejado programado. Solo una línea era visible bajo el nombre.
-
-Si me pasa algo, buscad NIDHOGG.
+`Su cuenta ha sido suspendida temporalmente por su seguridad.`

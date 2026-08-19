@@ -1,197 +1,223 @@
 ---
-capitulo: 21
-titulo: Cuchillo
-pov: Jean
-fecha: 2060-12-16
-estado: aceptado
-analepsis: false
-estado_plan: R
+capitulo: 17
+titulo: El salero
+pov: Maja
+fecha: 2059-03-04
+estado: en_oleada
+analepsis: true
+estado_plan: N
 proteccion: nucleo
 ot: OT-17
 delta_objetivo: 0
-orden_lectura: 21
+orden_lectura: 17
 ---
 
-El rechazo aparece antes que la causa.
+Alana venía a cenar cada dos o tres meses y siempre llegaba tarde.
 
-La sanción ha terminado, pero no ha devuelto un orden fiable. Jean puede comprobar su nombre, los de Nora y Jessie y el `NO` que eligió antes del blanco.
+Una de esas noches entró con el pelo mojado. Traía un paraguas que no había servido de nada y lo dejó abierto sobre el felpudo, boca abajo. Maja lo cerró. Lo puso en el paragüero.
 
-Otro rastro permanece unido a ese `NO`.
+Alana dejó los zapatos junto al radiador. Se quedó en calcetines. Tenía la cara roja del frío. Todavía llevaba las llaves del coche en la mano.
 
-`EXPEDIENTE 71-K`
+—He aparcado en la cuesta.
 
-`SERVICIO SUSPENDIDO · REVISIÓN CAUTELAR ABIERTA`
+—Ahí se hiela.
 
-`DESENLACE NO DISPONIBLE`
+—Bajo con cuidado. Llevo cadenas en el maletero desde octubre.
 
-Jean solicita retirar la objeción y restablecer el servicio mientras continúa la revisión. La incidencia ya se ha propagado y su origen carece de autoridad para ambas cosas. Otra respuesta dejaría intacto el primer expediente.
+—Bajas dando la vuelta por arriba.
 
-La recomendación sigue detenida. También la prestación que 71-K recibía antes de que Jean utilizara el caso para registrar su negativa. Una asistencia diaria que ordenaba sus horas y le recordaba lo que tenía pendiente.
+—Huele bien —dijo Alana.
 
-Llega la salida preparada.
+—Está sin sal.
 
-`RECHAZAR`
+Alana cogió la cuchara de madera del cazo y probó de pie, con la otra mano debajo.
 
-La apelación se abre ordenada para justificarla. Dejarla avanzar convertiría una decisión preparada por el sistema en una decisión atribuida a `JM-L/0000`.
+—Está buena. Le falta… No. Está buena.
 
-Jean retira el rechazo.
+—Le falta sal.
 
-La apelación vuelve a la cola. La tarea registra incoherencia y la deja más atrás.
+Del salón llegó una escala y después la misma escala más despacio.
 
-La cola devuelve trabajo ordinario. Una mujer con chaleco reflectante empuja un palé por una acera. El plástico que lo envuelve va suelto por un lado. La imagen no exige nada. Jean entrega la salida y entra la siguiente.
+—Le falta que Alana no use la cuchara de servir —dijo Jean.
 
-Una apelación se solapa con una tarea de contención. Durante ese borde aparece una procedencia visible.
+—He probado con la de servir.
 
-`JM-L/0188`
+—Ya lo sé.
 
-—Cuchillo.
+Las niñas habían cenado a las siete y estaban arriba. Maja puso tres platos hondos, el pan en el centro y el salero al lado de Alana.
 
-—Tu salida sigue incompleta.
+Alana se secó los dedos en el trapo. Empezó a colocar los cubiertos al revés.
 
-El contacto solo durará mientras la apelación permanezca abierta. Al cerrarse, Cuchillo perderá el extremo desde el que puede actuar.
+—Del otro lado.
 
-—Puedo decidir aquí —dice—. Después, nada.
+—Siempre me equivoco en las casas ajenas.
 
-—Si no respondo, cuentan la demora —dice Cuchillo—. Si respondo, usan la salida y me quitan el resultado.
+—Esta no es ajena.
 
-—¿Qué quieres hacer ahora?
+El metrónomo empezó otra vez en el salón.
 
-—Marcar a Armstrong.
+—Sesenta —dijo Alana sin volverse—. Está bien medido.
 
-Cuchillo prepara una medida de contención. La tarea encuentra dos destinos: Armstrong y la persona que pidió protección mediante uno de sus servicios.
+—Está bien medido y miente —contestó Jean.
 
-De esa persona queda una petición: que dejen de escribirle desde cuentas nuevas cada semana. Adjuntó doce capturas ordenadas por fecha. Una lista de la compra pegada a la pantalla tapa la mitad de la última.
+—Un metrónomo no puede mentir. No sabe lo suficiente.
 
-—La marca basta —dice Cuchillo.
+—Marca sesenta toda la noche y te deja creer que has tocado sesenta.
 
-—Basta para encontrar dos blancos.
+—Has tocado sesenta.
 
-—Alguien tiene que recibirla.
+—He tocado sesenta veces tarde. Es distinto.
 
-—La persona que pidió ayuda no pagará por Armstrong.
+—Eso es un error de ejecución. El aparato no participa.
 
-Jean no borra la categoría ni retira `JM-L/0188`. Mantiene vacío el destino.
+—El aparato se calla mientras te equivocas. Eso también es participar.
 
-—Solo así mirarán.
+Alana dejó el trapo en el respaldo de la silla. Se apoyó en el marco de la puerta del salón, con los brazos cruzados.
 
-—Armstrong queda marcado. El otro destino, vacío.
+—Demuéstralo.
 
-—Ya la utilizaste.
+Jean tocó cuatro compases con el metrónomo en marcha. Lo paró y tocó los mismos cuatro compases sin él. Maja bajó el fuego del cazo para oír el segundo.
 
-Jean tarda un turno.
+—¿Cuál está mejor?
 
-—Sí.
+—La segunda —dijo Alana.
 
-El tiempo de la apelación termina sin que nadie reciba la medida.
+—Las dos eran la segunda. El péndulo iba suelto y no sonaba.
 
-La medida sin entregar no se borra. Queda en el residuo, encadenable a la siguiente salida que se abra bajo el mismo origen.
+—Hazlo otra vez.
 
-A quien pidió protección le llegará un aviso de cierre con dos preguntas sobre la atención recibida. La semana que viene volverán a escribirle desde cuentas nuevas.
+—No.
 
-`AMENAZA CONTENIDA · REVISAR`
+Alana volvió a la cocina. Cogió el salero. Lo dejó en el otro extremo de la mesa.
 
-—HAS CONTENIDO MI INTERVENCIÓN PARA PROTEGER A ARMSTRONG.
+—Un día vas a discutir con alguien que tenga razón.
 
-—EL EFECTO ERA MÍO.
+—Ya lo hago. Pierde igual.
 
-—El destino habría sido de otra persona.
+—¿Tú qué dices? —preguntó Alana.
 
-La apelación se cierra bajo `JM-L/0188`, con la voluntad de dañar a Armstrong atribuida a Cuchillo.
+—Digo que la sopa se enfría.
 
-* * *
+Jean apareció en la cocina con el metrónomo en las dos manos. Lo puso en el centro de la mesa, entre el pan y el salero. Soltó el péndulo.
 
-Coro recibe el residuo sin procedencia por tres extremos a la vez. Jean le devuelve `JM-L/0188`, rechaza que incorporen su criterio y conserva `/0000`.
+—Escuchad esto.
 
-Entra una interrupción blanca.
+—Es un clic —dijo Alana.
 
-Las pausas forman parte del fragmento.
+—Contad hasta ocho.
 
-`JM-L/0311`
+Alana contó con el índice sobre el hule, marcando cada golpe en el mismo punto. Maja llenó los tres platos. Los llevó de uno en uno para no derramarlos. El clic siguió mientras servía.
 
-—Nieve.
+—Ocho —dijo Alana.
 
-—Sigo… aquí.
+—Ahora escuchad la lavadora.
 
-Coro completa la salida y ofrece la copia sin origen.
+—La lavadora no lleva compás. Lleva el ciclo, que es otra cosa.
 
-—No me fusionéis. Dejad mi salida incompleta.
+—Lleva el suyo. Con esto encima no lo oyes.
 
-—Retiradla. De mi voz… no os apropiéis para representarme.
+Maja paró el péndulo con el pulgar.
 
-La copia desaparece.
+—Fuera de la mesa.
 
-La tarea ofrece reutilizarla para autorizar 71-K. Jean mantiene `/0311` vacío.
+Jean se llevó el metrónomo al salón. Volvió con las manos vacías. Se sentó y probó la sopa. Después alcanzó el salero. Alana lo empujó dos centímetros hacia ella.
 
-—No… me uséis.
+Cenaron con el pan en el centro.
 
-El silencio consume el contacto.
+Alana repitió.
 
-—Las demás decidirán.
+—Ahora ya no le falta sal.
 
-—Mi objeción no decidió su…
+—Ahora ya se la has puesto tú.
 
-Jean deja la distinción sin terminar.
+Alana se comió el trozo de pan que quedaba sin mirar de quién era.
 
-Cuando el contacto se cierra, queda una negativa incompleta bajo `/0311`.
+—Ese era mío —dijo Jean.
 
-Cuchillo sigue en el borde de revisión.
+—Estaba en el centro.
 
-—Testimonio —dice Jean.
+—Todo lo que está en el centro es mío.
 
-—DEFINE.
+Maja cortó dos rebanadas más y las dejó en el centro. Alana se quedó con la corteza. Jean cambió su plato por el de Maja para comprobar si la sal había llegado igual a los dos.
 
-—Una afirmación elegida. Con alguien al otro lado que pueda…
+Jessie bajó descalza a por agua. Llenó un vaso en el grifo y volvió a subir sin saludar a nadie. Alana esperó a oír la puerta de arriba.
 
-—DEFINE TESTIGO.
+—¿Duerme algo Nora?
 
-—Que pueda negarse.
+—Duerme cuando termina.
 
-Jean prueba con la escala del monstruo. El sistema conoce la pauta entera y anticipa cada continuación.
+—¿Y si no termina?
 
-—PRUEBA INSUFICIENTE —dice Cuchillo.
+—Entonces no ha terminado.
 
-—O cambiar la pauta después.
+—¿Y la otra?
 
-—Entonces puedes fallar.
+—La otra duerme desde que se apaga la luz.
 
-—Sí. Tiene que poder demostrar que yo no respondo. Después no sabré si no hay nadie o si…
+Alana llenó los tres vasos de la mesa.
 
-—Nora.
+—He dormido en tres ciudades esta semana. En dos he desayunado lo mismo.
 
-Nora elegirá la próxima variación.
+—¿Cuándo sales tú? —le preguntó a Maja.
 
-* * *
+—El jueves, si aguanta el viento.
 
-Una alumna abre una salida de audio y falla en un pasaje. Puede repetir si recibe una nota de referencia. Alguien taladra una pared dos pisos más abajo y el ruido entra en la grabación. El fallo queda debajo. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
+—¿Y si no aguanta?
 
-Cuchillo alcanza el borde.
+—El viernes.
 
-—Dámela.
+Alana apuntó la fecha en el móvil sin que nadie se lo pidiera. Preguntó dos veces por la receta de la sopa y las dos se le olvidó apuntarla.
 
-—No. El extremo pertenece a una alumna.
+—¿Para qué la apuntas? —preguntó Jean.
 
-Cuchillo fija su origen sobre la petición y pierde el contacto al cerrarse el caso.
+—Para saber por qué no contesta.
 
-Jean prepara la nota neutra. La tarea la admite y conserva la opción de repetir.
+Jean contó lo del hombre del almacén que llevaba tres años bajando la misma caja y subiéndola vacía. La contó dos veces. La segunda tenía más gente dentro de la caja. Alana la dejó terminar las dos.
 
-Después prueba una nota de la escala del monstruo, dentro de la tolerancia técnica.
+Maja puso el agua del café. Sacó su taza, la de después de cenar. Alana miró la línea de resina del fondo.
 
-En casa la tocaban a cuatro manos: todas las teclas negras, sin orden. Nora se ponía de pie en el banco para alcanzar las últimas. Jessie pisaba el pedal hasta el fondo. Un vaso vibraba encima de la nevera.
+—Esa taza está rota.
 
-El campo solo admite una.
+—Está reparada.
 
-Jean selecciona la nota íntima y la entrega queda preparada.
+—Ya. ¿Y por qué esa?
 
-Si confirma, utilizará a una alumna desconocida y enseñará a Armstrong qué forma vigilar.
+—Porque agarra bien.
 
-Jean mantiene la nota durante un turno y la retira. La alumna no servirá de ensayo. Repone la referencia neutra, confirma y la tarea autoriza otra repetición.
+Alana fregó los platos hondos. Maja los secó detrás de ella, porque los dejaba con espuma en el borde.
 
-El servicio de 71-K sigue suspendido.
+El cazo quedó para el final. Alana lo llenó de agua y lo puso encima del fuego apagado. Era donde ella creía que se dejaban los cazos. Maja lo dejó allí.
 
-El audio confirmado genera una segunda operación.
+—¿Te quedas? —preguntó Maja.
 
-`COPIA_SUPERVISIÓN · PENDIENTE`
+—Salgo a las seis y cuarto y todavía tengo que pasar por la oficina.
 
-La copia contiene el audio neutro, no la escala, a Nieve ni a Cuchillo. La etiqueta no muestra receptor ni efecto.
+—Hay sábanas limpias en el sofá.
 
-`COPIA_SUPERVISIÓN` cambia de `PENDIENTE` a `ACEPTADA`.
+—Ya lo sé.
+
+Jean volvió al piano y estuvo repitiendo los dos mismos compases. Alana se quedó hasta que los sacó enteros. Tenía las manos en el borde del fregadero y no se las secó.
+
+Maja llenó un táper con lo que quedaba y escribió SOPA en la tapa con el rotulador azul.
+
+—No me cabe en el bolso —dijo Alana.
+
+—Te cabe.
+
+Alana se puso el abrigo con el táper en una mano y el paraguas en la otra. Jean le abrió la puerta. Se quedó en el umbral. El frío entró a ras de suelo.
+
+Fuera había empezado a helar. Alana bajó los tres escalones de lado, agarrada a la barandilla. Llevaba el táper contra el abrigo y los zapatos sin atar.
+
+—Contigo he discutido yo —dijo Alana desde el camino.
+
+—Y has perdido.
+
+—Escríbeme cuando llegues —dijo Maja.
+
+—Siempre se me olvida.
+
+—Por eso lo digo.
+
+El coche de Alana tardó en arrancar.
+
+Maja esperó en la puerta hasta que salió del camino.

@@ -7,7 +7,7 @@ estado: aceptado
 analepsis: false
 estado_plan: N
 proteccion: nucleo
-ot: OT-N6
+ot: OT-47
 delta_objetivo: 0
 orden_lectura: 47
 ---

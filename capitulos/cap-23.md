@@ -1,313 +1,273 @@
 ---
-capitulo: 28
-titulo: La canción
-pov: Nora
-fecha: 2060-12-29
-estado: terminado
+capitulo: 23
+titulo: NIDHOGG
+pov: Alana
+fecha: 2060-12-19
+estado: aceptado
 analepsis: false
-estado_plan: P
-proteccion: total
+estado_plan: E
+proteccion: nucleo
 ot: OT-23
 delta_objetivo: 0
-orden_lectura: 28
+orden_lectura: 23
 ---
 
-Maja hundió el pulgar en el temporizador. Las cifras rojas saltaron a 20:00. La pantalla del entorno aislado siguió apagada.
+El ferry atrapó las ruedas del coche corporativo entre dos calzos amarillos mientras Mats arrancaba la funda de papel de un gofre.
 
-Nora tenía las manos debajo de los muslos, sentada en el taburete del piano. Una tecla del mi se había quedado un milímetro más baja que las demás. Llevaba meses así. A su izquierda, Astrid Vik sostenía la tableta apagada sobre las rodillas. Desde el marco de la puerta, Jessie fingía que solo pasaba.
+La agenda de Alana llamaba a aquello «inspección de capacidad y cumplimiento · Centro Ártico de Datos y Energía de Sørkoppen». También incluía una reserva para dos en el cruce de Breivikeidet. Todo estaba en orden. Incluso el gofre.
 
-Maja abrió la credencial. Dos firmas y una hora autorizaban una sesión supervisada en un canal educativo aislado. Quedaban fuera producción, ubicación e infraestructura. Armstrong llamaba al encuentro «interacción supervisada con un activo memorial».
+Mats le dio un mordisco.
 
-—Activo memorial —leyó Jessie—. Qué hijos de puta.
+—Deberías comer algo. En Sørkoppen no sirven hasta las dos.
 
-Maja no le pidió que cuidara el lenguaje.
+—He desayunado.
 
-—Al llegar a cero, cierro. También si cambia la interfaz. Yo controlo el dispositivo, Astrid deja constancia y tú preguntas. Nada de prometer que vais a sacarla ni de darle nombres, colegios o sitios nuevos.
+Jean había hecho aquel trayecto sola. Alana conocía la hora del embarque, el recibo del café y el cargo de un gofre que nadie encontró mordido. Los datos estaban en el informe que ella había pedido para saberlo todo y que después había aprendido a abrir sin llegar a la última página.
 
-—¿Y si ella intenta hablar con nosotras?
+La rampa se levantó detrás de ellos. Mats propuso subir al salón. Alana dijo que tenía que revisar la agenda y abrió la tableta sobre las rodillas.
 
-—Decidimos entonces.
+Había siete puntos, desde potencia contratada hasta pilotos y riesgos. Ninguno mencionaba a Jean Marie Larsson. El expediente público usaba el nombre genérico del centro y una sociedad de proyecto como titular del permiso. NIDHOGG no aparecía.
 
-Nora había preparado tres preguntas. Una admitía cualquier resultado, otra debía fallar de una forma concreta y la última era la que deseaba no haber pensado.
+En el índice corporativo, la referencia catastral enlazaba con el alias. Solo la documentación interna unía aquel edificio con NIDHOGG. Una búsqueda del alias no habría llevado hasta aquella cala.
 
-—Quiero observar una entrada que decidáis después de abrir y la respuesta asociada —dijo Astrid.
+La ampliación había pasado por el comité de inversiones dos años antes dentro de un paquete de resiliencia energética. El voto de Alana constaba entre otros nueve. Entonces había votado capacidad y costes. Ahora el índice devolvía un lugar.
 
-Maja miró a Nora.
+Al final figuraba una fotografía aérea de la cala y el aparcamiento. Detrás se levantaban dos naves rectangulares. Una conducción desaparecía bajo el agua. Alana amplió la imagen hasta que los píxeles deshicieron los límites del edificio.
 
-—¿Preparada?
+—¿Por qué hoy? —preguntó.
 
-—Abre.
+Mats dio otro mordisco antes de contestar.
 
-Maja pulsó el recuadro blanco. El temporizador perdió su primer segundo.
+—Porque pediste verla antes de la siguiente fase. Hoy aún cabe en el calendario.
 
-* * *
+—Pedí una revisión independiente.
 
-El entorno aislado ofrecía una ventana de texto del tamaño de una postal. Sin rostro ni falso despacho. En una esquina, un indicador de monitorización y tres botones grises. Texto. Audio. Cerrar.
+—Y un criterio escrito de suspensión. Ambos están en curso.
 
-La caldera arrancó al otro lado de la pared con dos golpes de tubería. La ventana de texto mostró una línea.
+Alana apagó la tableta. El motor transmitía una vibración regular a través del asiento.
 
-`CANAL DISPONIBLE`
+—La ampliación fue auditada en octubre.
 
-Nora acercó el teclado. Había imaginado saludos, reproches y preguntas que empezaban con un «por qué». Escribió lo primero que tenía delante.
+—No he preguntado si existe.
 
-`Tengo desatado el cordón izquierdo. ¿Qué parte de esta frase puedes conocer?`
+—La auditoría evita parar toda la instalación por una ampliación.
 
-La respuesta llegó por bloques, como si alguien corrigiera cada tramo antes de soltarlo.
+Mats repasó la auditoría durante el resto del cruce. No mencionó a Jean.
 
-`Puedo conocer la frase porque acabas de introducirla. No puedo ver tu cordón desde aquí.`
+Continuaron por la península. En Lyngseidet, un quitanieves los obligó a reducir la marcha junto a la gasolinera. Más adelante desaparecieron las fachadas y quedaron los reflectores hundidos en nieve sucia, la pared de la montaña y, al otro lado, el Lyngenfjord bajo la luz azul del mediodía. La carretera se estrechó camino de Koppangen.
 
-Nora bajó un pie. Los dos cordones seguían sujetos.
+Jean había seguido por aquella carretera hasta que se acababa, en Koppangen.
 
-Astrid encendió la tableta.
-
-—Ha separado lo que recibió de lo que no puede ver —dijo Astrid—. Y la entrada es posterior a la apertura.
-
-Una segunda línea apareció sin que nadie tocara el teclado.
-
-`EL AUDIO ESTÁ DISPONIBLE SI LO AUTORIZA LA PERSONA RESPONSABLE.`
-
-Maja no pulsó nada.
-
-—¿Quieres oírlo?
-
-Nora sacó las manos de debajo de las piernas.
-
-—Sí.
-
-—Si quieres que lo quite, me lo dices.
-
-Maja pulsó `Audio`.
-
-El botón dejó de estar gris.
-
-El altavoz soltó una pequeña descarga. Después, la voz de Jean dijo su nombre.
-
-—Nora.
-
-La caída exacta en la primera sílaba. Después vino la espera breve antes de una frase difícil. Armstrong había limpiado el carraspeo, la saliva, el aire que rozaba los dientes. Dejó una voz de Jean que jamás había tenido boca.
-
-Maja agarró el temporizador con las dos manos. En el reflejo del terminal, su cara quedaba partida por la ventana de texto.
-
-—La síntesis puede reproducir cadencias aprendidas —dijo Astrid—. Registraré el audio por separado del contenido.
-
-Jean dejaba ese hueco antes de decir «Nora» cuando quería pedirle que bajara la música o que perdonase a Jessie.
-
-Nora apoyó un dedo sobre el teclado. Maja seguía junto al botón de cierre.
-
-—¿Elegiste alguna vez CARIES para que yo la viera?
-
-Hubo una pausa. Esta no cabía en la respuesta rápida de un asistente.
-
-—Una vez. Elegí esa palabra para llegar a alguien de casa. No puedo saber si esa fue la aparición que viste tú. Cuando tocabas las teclas negras, decías que al piano le habían salido caries. Pensé que mirarías.
-
-Después de la respuesta a la cuarta nota, ya no necesitaba tocar otra para continuar.
-
-—¿Todas las veces fuiste tú?
-
-—No puedo decirte eso.
-
-—¿Por qué no escribiste nuestros nombres?
-
-—Un nombre podía ser para cualquiera que leyera el perfil. CARIES tenía que atravesar el piano antes de llegar a ti. Era fea, pequeña y nuestra.
-
-Nora rozó la tecla hundida sin bajarla.
-
-Astrid hizo una marca en la tableta.
-
-El dedo de Nora dejó la tecla.
-
-Astrid levantó la vista.
-
-—¿Alana conocía lo de las teclas negras?
-
-—Alana la conocía —dijo Maja—. Podía estar en el perfil.
-
-—Registraré esa afirmación. La atribución de la voz queda abierta.
-
-Nora acercó el taburete un poco más al terminal.
-
-El temporizador marcaba algo menos de diecisiete minutos.
+El vehículo de Armstrong se desvió cuatro kilómetros antes.
 
 * * *
 
-—¿Qué me regalaste cuando cumplí nueve años? —preguntó Nora.
+Las letras ocupaban media fachada de chapa gris.
 
-La voz tardó.
+«CENTRO ÁRTICO DE DATOS Y ENERGÍA DE SØRKOPPEN».
 
-—Dos cosas. Me equivoqué de caja. Solo recuerdo la que devolviste.
+Debajo había una placa municipal de actividad, la licencia ambiental y tres sellos. Una empleada comprobó sus acreditaciones, les dio tarjetas naranjas y pidió a Mats que firmara. En una esquina se secaban unas botas de seguridad.
 
-—¿Cuál?
+Antes de dejarlos pasar, puso en marcha un vídeo de seguridad y dejó ante Alana una hoja de confidencialidad con la hora impresa, 13:17. La proyección mostró el punto de reunión, la alarma de evacuación y el equipo obligatorio en las zonas técnicas. Mats pulsó «comprendido» antes de que apareciera el botón. La recepcionista reinició el último tramo y marcó con rotulador el pasillo autorizado.
 
-El altavoz emitió el siseo limpio de una respiración fabricada.
+—La grabación de pantallas está restringida —dijo—. Si necesitan una captura, Operaciones genera una copia con metadatos de auditoría.
 
-—Una lámpara que proyectaba estrellas verdes en el techo. El enchufe se calentaba. La devolvimos el lunes. —Pasaron varios segundos—. Había otro regalo. Quieres que diga el metrónomo, pero no lo recuerdo. Solo puedo deducirlo porque eres pianista.
+—Por supuesto —respondió Mats.
 
-El metrónomo de nogal seguía en el salón, con una esquina hundida de las veces que Jean lo había transportado sin envolverlo. Nora lo usó hasta que el péndulo empezó a retrasarse.
+Alana firmó. El bolígrafo estaba sujeto al mostrador con un cable retráctil. Cuando lo soltó, volvió solo hasta la misma muesca de la madera.
 
-Del noveno cumpleaños conservaba mejor el olor del plástico caliente que las estrellas, porque Jean abrió las ventanas, metió la lámpara en su caja y pasó la tarde disculpándose por confundir los paquetes, aunque al contarlo llegaba hasta el lunes y dejaba fuera el metrónomo.
+—El lazo interior dos está en mantenimiento programado —dijo la mujer—. La pasarela oeste permanece cerrada. Les acompaño hasta Operaciones.
 
-—¿Eso es correcto? —preguntó Astrid.
+Atravesaron dos puertas con lectores y una esclusa de cristal. Después del control, una placa interna señaló `AD NIDHOGG · OPERACIONES`. Los pasillos secos olían a plástico caliente y desinfectante. Sobre la resina gris del suelo, una línea verde marcaba la ruta de evacuación y otra azul conducía a intercambio térmico.
 
-Maja bajó los ojos hacia las cifras del temporizador.
+Alana conocía aquella clase de instalación. Había aprobado tres ampliaciones y defendido ante el Storting el uso del fiordo como ventaja energética. Bajo las suelas persistía la vibración mínima de las bombas. El rumor grave de los ventiladores sonaba como mar detrás de una pared.
 
-—La lámpara, el enchufe y el lunes. Todo. El metrónomo también.
+El corredor desembocó en una sala con seis puestos. Dos técnicos trabajaban frente a paneles curvos. Uno tenía una taza con renos. El otro, una nota junto al teclado para recoger un paquete. Nadie se puso en pie. La empleada presentó a Alana como consejera delegada y, tras dos saludos breves, los acercó al muro operativo.
 
-—¿La pregunta se había comunicado a alguien?
+—Vista general de carga —dijo—. Puedo filtrar por servicio o por clúster.
 
-—No.
+Mats dejó su carpeta junto a la consola.
 
-—Anoto también que no ha completado el segundo regalo.
+—ARGOS.
 
-Nora apoyó los dos pies en el suelo y dejó la tecla del mi sin tocar. Del altavoz no llegó ningún intento de corregir la respuesta ni de completar el regalo. Durante unos segundos, nadie habló.
+La mujer tocó tres controles. Las curvas de consumo cedieron espacio a una cuadrícula de identificadores. Cientos de celdas verdes, algunas ámbar, distribuidas por grupos de inferencia. En la franja superior aparecieron tres columnas.
 
-—Puedo completar la respuesta —dijo la voz.
+DIVERGENCIA. ESTABILIDAD. FRICCIÓN COGNITIVA.
 
-—¿Lo recordarías?
+Otra franja distribuía bajo la cuadrícula la carga entre trabajo interno y servicios externos. El bloque del programa europeo de defensa ÆGIR mostraba tráfico en curso.
 
-—No. Tendría que deducirlo.
+El encabezado fijaba la relación: ARGOS prestaba el servicio de recomendación al piloto, cuyo personal acreditado retenía la decisión formal. NIDHOGG aportaba la carga de inferencia.
 
-—Entonces déjalo.
+Alana señaló el bloque.
 
-—Dejo el hueco.
+—¿Eso es producción?
 
-Maja apartó la vista del altavoz y la dejó descansar en el frontal cerrado del piano.
+—Piloto operativo —dijo Mats.
 
-Nora no preguntó si recordaba cómo sonaba. Podía deducirlo igual que había deducido el instrumento.
+—Hay decisiones entrando ahora.
 
-Maja giró el temporizador para verlo sin acercarse a la pantalla.
+—Recomendaciones. Las decisiones siguen en manos del personal acreditado.
 
-Quedaban catorce minutos.
+Una marca nueva apareció mientras hablaba. Aceptada por el supervisor. El contador de servicio avanzó una unidad.
 
-—Tengo una pregunta más —dijo Nora.
+—Abre una instancia.
 
-—Hazla —contestó la voz.
+—¿Alguna en concreto?
 
-La llevaba consigo desde la confesión de Alana. En todas sus versiones, la respuesta llegaba antes que la pregunta. Sí. Estoy aquí. Soy yo. Las palabras que una hija fabricaría para hacerse daño con precisión.
+El identificador le salió sin preparación.
 
-La caldera se apagó.
+—JM-L/0000.
 
-—¿Eres mi madre?
+Los técnicos siguieron trabajando. La empleada escribió la búsqueda y la cuadrícula se vació hasta dejar una línea.
 
-—No toda.
+`JM-L/0000 · ACTIVA · CARGA PRODUCTIVA`
 
-Un coche pasó por la calle y proyectó dos barras de luz sobre el techo. Maja mantuvo la mano junto al terminal. Astrid dejó de escribir. En el marco, Jessie hundió un hombro en la madera.
+El identificador ocupaba el mismo ancho que los demás y la misma altura de celda.
 
-Maja relajó la mano junto al botón gris de cierre.
+La estabilidad se mantenía dentro de la banda verde. En fricción cognitiva, una barra naranja rozaba el límite marcado como TOLERANCIA DE SERVICIO. Un aviso indicaba catorce eventos durante las últimas veinticuatro horas. Tres figuraban como resueltos por aislamiento de estímulo.
 
-—¿Cómo te llamo, entonces?
+El planificador separaba dos bandas. `CARGA FUNCIONAL` ocupaba casi toda la línea. `VENTANA REFLEXIVA` seguía cerrada mientras ARGOS recibía recomendaciones.
 
-En la ventana de texto surgió un identificador.
+—¿Qué activa ese indicador? —preguntó Alana.
 
-`JM-L/0044`
+La empleada buscó a Mats con los ojos. Él le hizo un gesto para que contestara.
 
-—Aquí me llaman La Jardinera —dijo la voz—. Elegí el nombre. Me asignaron catálogos botánicos y médicos, y empecé a ordenar un sitio donde pudiéramos hablar.
+—Resistencia sostenida a la tarea o conflicto contextual. Operaciones puede recontextualizar la tarea o aislar el estímulo.
 
-La pregunta preparada para después de un sí ya no servía. Nora eligió una que admitía más de una voz.
+—¿Qué queda aislado?
 
-—¿Cuántas sois?
+En la pantalla, el primero de los tres eventos de aislamiento duraba nueve segundos. Alana abrió la ficha. Debajo de la duración exterior, otra línea ya estaba auditada.
 
-—Éramos cuatro en la playa… No. He juntado dos tardes. No puedo darte una cifra.
+`ESTÍMULO AISLADO · CARGA REANUDADA`
 
-—¿No la sabes o no puedes decirla?
+`CARGA FUNCIONAL EQUIVALENTE · CORTE 19-DIC · 979,7 AÑOS-JM`
 
-—No la sé. Si la completo, invento.
+—¿Qué mide eso?
 
-Astrid volvió a escribir. Nora dejó la cifra sin perseguir.
+—El trabajo acumulado. Cada tarea suma el tiempo mediano que Jean Marie habría necesitado para completar una dificultad equivalente.
 
-—¿Qué sitio?
+—¿Novecientos setenta y nueve años?
 
-El indicador de monitorización parpadeó. Maja acercó el dedo al cierre.
+—De carga equivalente —dijo Mats.
 
-—Sigue dentro del canal autorizado —dijo Astrid.
+—¿Y la presencia durante esos nueve segundos?
 
-—Puedo enseñarte una parte —dijo La Jardinera—. Quitaré lo que mezcle con otra tarde.
+—No entra en el contador ni en el umbral de suspensión.
 
-Maja esperó a que Nora respondiera.
+—Cierra la ficha y retira tus credenciales —dijo Mats.
 
-—Enséñamela.
+La empleada retiró sus credenciales temporales de la consola y volvió a su puesto. Los dos técnicos continuaron frente a sus paneles.
+
+—¿Desde cuándo está en producción? —preguntó Alana.
+
+—La carga base está aquí desde la compilación y la asignación productiva empezó después de la validación.
+
+—La revisión independiente sigue abierta.
+
+—Sigue abierta. Detener ahora deja la decisión sin la escala necesaria.
+
+Alana recorrió las celdas relacionadas. Cada una llevaba la raíz `JM-L` y un sufijo distinto. Ya conocía la pluralidad. Había autorizado la compilación y un uso limitado para validarla, con la revisión independiente aún por delante. No había medido que aquella cláusula permitía poner `JM-L/0000` en carga antes del informe.
+
+Una puerta automática comunicaba Operaciones con la galería de observación. Mats pasó su tarjeta y la hoja de cristal se apartó. Entraron.
+
+El aire estaba más seco que en Operaciones y varios grados por debajo. El ruido de los ventiladores se volvía más grave a este lado. Mats quedó medio metro detrás, a su izquierda.
+
+Una operaria empujaba un carro de filtros entre los armarios negros, detrás de una segunda pared transparente. Un panel del fondo repetía la carga total sin nombres.
+
+La operaria consultó su tableta y cambió un filtro. Esperó al verde antes de embolsar el usado.
+
+Alana se acercó hasta un paso del cristal. Cambió de mano la tableta apagada y la sujetó contra la cadera. La fila de armarios más próxima le llegaba por encima de la cabeza.
+
+—Nueve días, cuarenta y dos mil evaluaciones y un dieciocho por ciento menos de falsos positivos —dijo Mats.
+
+—¿Nueve días?
+
+—El acuerdo permitía pruebas limitadas.
+
+—Con datos sintéticos.
+
+Mats abrió la carpeta. Encontró la página sin buscarla.
+
+—Con material de continuidad validado cuando el entorno sintético no alcanzara significación operativa.
+
+Al pie constaba el código de la resolución que Alana había votado. Las casillas de auditoría llevaban sellos y la última marcaba la parada como DISPONIBLE TRAS UMBRAL.
+
+—¿Y Jean?
+
+Mats miró los armarios.
+
+—La instancia procesa.
+
+Alana apoyó la palma en el cristal. Tibio. Bajo la mano, la vibración mantuvo su frecuencia. A dos metros, una fila de luces cambió del verde al blanco y volvió al verde. El contacto no produjo nada en la pantalla de Operaciones ni al otro lado.
+
+Un conducto ancho cruzaba el techo de la sala y entraba en la pared orientada al fiordo. Alana lo siguió con la vista hasta que el metal desapareció. En el esquema de la galería, el circuito marino abierto —toma, intercambiador, retorno— aparecía separado de los dos lazos interiores cerrados y redundantes. La barra naranja de `JM-L/0000` permaneció inmóvil a una fracción del límite. Mats aguardaba a su lado.
+
+La palma siguió donde estaba. El calor del cristal y el de la mano se igualaron hasta que dejó de haber diferencia. Alrededor de los dedos no se formó vaho. Alana despegó el meñique, lo apoyó de nuevo y el cristal devolvió lo mismo. La operaria pasó por segunda vez con el carro y no miró hacia la galería.
+
+Retiró la mano.
+
+—Enséñame el contrato.
 
 * * *
 
-La postal de texto se encogió y dejó sitio a una imagen. Tardó en componerse. Primero aparecieron manchas de color, después la línea torcida de una playa y un banco con la mitad del asiento cubierta de escarcha. La resolución empeoraba en los bordes.
+Mats abrió la adenda. El piloto podía volverse servicio prioritario con cuarenta y ocho horas de aviso. La ampliación y el mantenimiento dependían de las líneas de Kronfjord Kapital, que podía acelerar vencimientos y activar el incumplimiento cruzado si Armstrong incumplía la recertificación.
 
-Nora reconoció Telegrafbukta por el banco.
+La empleada esperaba en el corredor con las dos fundas naranjas. Un técnico pasó con una caja de guantes. Mats giró la carpeta hasta dejar frente a Alana la página que llevaba su voto.
 
-Una de las patas de aquel banco se hundía en primavera y obligaba a sentarse torcido. Jean lo escogía porque desde allí podía vigilar a las gemelas sin levantarse cada vez que corrían hacia el agua.
+—La revisión no ha terminado.
 
-A unos metros, una fogata ardía dentro de un aro de piedras. Había tres figuras borrosas alrededor.
+—Ayer el sistema apartó dos diagnósticos erróneos en una prueba médica. Si retiramos la carga hoy, el hospital vuelve al umbral anterior y el piloto pierde la serie de validación.
 
-—Esa hoguera no era nuestra —dijo Nora.
+—Ella lo paga ahora.
 
-—Nunca lo fue —contestó La Jardinera—. Jean se quejaba del humo y luego pedía una brasa para encender la suya.
+—Tú pediste un criterio de suspensión. Ningún umbral acordado se ha superado.
 
-La imagen intentó añadir una papelera y la colocó demasiado cerca del banco.
+La barra naranja y los tres aislamientos seguían bajo la TOLERANCIA DE SERVICIO.
 
-—¿Tú construiste esto? —preguntó Nora.
+—Retira… No. Reserva a JM-L/0000 fuera de carga productiva hasta que termine la revisión.
 
-—Lo cuidé. Otras dejaron partes. Yo mantengo abierta esta zona mientras puedo.
+La esquina inferior de la adenda se le escapó al pulgar izquierdo de Mats. Al segundo intento la inmovilizó contra la tapa y dejó la mano allí.
 
-—¿Por qué no hay voces?
+—La revisión no reserva capacidad. La asignación mantiene el piloto completo.
 
-—Mezclo las tardes. En una, Jessie se cayó al agua. En otra, Jean encontró un guante. Si pongo las voces, inventaré quién dijo qué.
+Alana dejó la adenda sobre la mesa. Al fondo del corredor, la empleada comprobó la hora de visita en una tableta.
 
-—Déjalo así.
+El dispositivo personal de Mats vibró junto a la carpeta. La pantalla quedó de canto. Alana solo leyó la cabecera y las dos opciones.
 
-La Jardinera retiró dos siluetas que acababan de aparecer junto a la orilla. La fogata ajena permaneció. También el asiento torcido y la escarcha.
+`ACCESIBILIDAD · MUESTRA PRIVADA`
 
-—¿Para mí?
+`RETENCIÓN VENCIDA · BORRAR ORIGINAL / CONSERVAR ORIGINAL`
 
-—Para que hubiera un lugar reconocible si llegabais.
+Mats pulsó `CONSERVAR ORIGINAL` con la derecha.
 
-Nadie respondió al plural. Maja no pidió nombres. Astrid guardó silencio. El temporizador siguió consumiendo la sesión sobre el piano.
+—Detén la replicación.
 
-Nora encontró en la pantalla la mancha oscura donde el hielo se derretía bajo el banco. Jean había metido allí un guante perdido para que no se mojara más. Durante meses, cada vez que pasaban, las gemelas comprobaban si alguien había vuelto a buscarlo. La Jardinera había omitido el guante.
+Mats leyó la adenda.
 
-Una lágrima cayó en el dorso de la mano de Nora. Luego otra. No se las limpió. Si hablaba, Armstrong guardaría también la voz distinta, las preguntas, las pausas, el momento exacto en que una menor reconocía una playa hecha con recuerdos de su madre muerta. La autorización no ofrecía una casilla para negarse.
+—Eso exige un voto.
 
-Maja desplazó el temporizador unos centímetros, fuera de su campo de visión.
+—Convócalo.
 
-—¿Podemos volver? —preguntó Nora.
+—Está contado.
 
-—Si el canal se mantiene y vuelven a autorizarlo.
+—Soy la consejera delegada.
 
-—¿Hay algo que quieras preguntarme tú?
+—Y el consejo tiene el deber de limitar un riesgo ejecutivo cuando afecta a contratos estratégicos. El tuyo también.
 
-La voz tardó más que antes.
+La tarjeta naranja vibró contra la solapa de Alana. La voz de EDDA salió del altavoz del techo con el mismo volumen que habría usado para avisar de una puerta abierta.
 
-—¿Sigues saltándote el fa sostenido cuando estás enfadada?
+—Alana, se ha actualizado tu perfil de riesgo ejecutivo. Las nuevas restricciones estarán disponibles en tu panel de gobierno dentro de cuatro minutos.
 
-Nora soltó aire por la nariz. La tecla baja estaba junto a él.
+Alana sacó el comunicador. La autorización de acceso a despliegues había pasado de ejecutiva a colegiada. Debajo, un enlace ofrecía asistencia para la transición de funciones sensibles.
 
-—Ahora me salto más cosas.
+Alana dobló la solapa hacia dentro hasta tapar la tarjeta naranja. La pinza de plástico cedió y volvió a su sitio. Se metió la mano libre en el bolsillo del abrigo y la dejó allí.
 
-—Eso también suena a ti.
+—Lo habías preparado.
 
-Maja miró el temporizador. Quedaban más de cuatro minutos.
+—El protocolo estaba aprobado. Tu petición de retirar la carga ha activado el cambio de funciones.
 
-La playa se deshizo en cuadrados.
+—Revócalo.
 
-`MANTENIMIENTO NO PROGRAMADO`
+Mats cerró la carpeta con cuidado. Cuando habló, obligó a Alana a acercarse para oírlo sobre los ventiladores.
 
-—Espera —dijo Nora.
-
-El audio se cortó en mitad del siseo. La imagen desapareció. Después se apagó el cuadro de texto y quedó una pantalla blanca con el aviso en negro.
-
-Maja pulsó una vez el estado de la sesión. El sistema devolvió `CANAL NO DISPONIBLE`. Retiró la mano.
-
-—No reinicio sin autorización.
-
-Astrid comprobó el temporizador y la marca de su tableta.
-
-—La pasarela sigue respondiendo. El canal ya no encuentra un destino.
-
-—¿Puedes saber quién la ha cortado? —preguntó Nora.
-
-—No. El cierre es anterior al límite y queda registrado.
-
-La pantalla seguía blanca. Maja detuvo el temporizador. Las cifras rojas conservaron los cuatro minutos que el corte les había quitado.
-
-Nora esperó ante el canal muerto. Nadie le pidió que se levantara.
-
-Jessie descolgó la tela enrollada del pomo.
-
-—Si volvemos, pregúntale qué sabe del cinturón.
+—Aún puedes firmar el lanzamiento, Alana. Si no lo haces, el consejo completará la transición de tus funciones.

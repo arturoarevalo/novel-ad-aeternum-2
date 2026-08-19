@@ -5,10 +5,10 @@
   "capitulos/cap-03.md",
   "capitulos/cap-04.md",
   "capitulos/cap-05.md",
-  "capitulos/cap-09.md",
-  "capitulos/cap-20.md",
-  "capitulos/cap-23.md",
-  "capitulos/cap-41.md",
+  "capitulos/cap-10.md",
+  "capitulos/cap-24.md",
+  "capitulos/cap-28.md",
+  "capitulos/cap-48.md",
   "capitulos/00-aviso.md",
   "capitulos/99-recursos.md"
  ],
@@ -22,218 +22,218 @@
   },
   {
    "id": "S10-series",
-   "archivo": "capitulos/cap-10.md",
+   "archivo": "capitulos/cap-12.md",
    "inicio": "`FLOR.`",
    "fin": "FLOR / CANELA / CARIES / NO",
    "desc": "Series FLOR/CANELA/CARIES/NO intactas (tabla 5.1)"
   },
   {
    "id": "S11-flashback",
-   "archivo": "capitulos/cap-11.md",
+   "archivo": "capitulos/cap-13.md",
    "inicio": "El 26 de noviembre, a las siete y media,",
    "fin": "Leyó hasta el apartado de responsabilidad y firmó con el índice.",
    "desc": "Flashback intercalado 26-nov / UNN (Ap. A)"
   },
   {
    "id": "S13-yo-que-soy",
-   "archivo": "capitulos/cap-13.md",
+   "archivo": "capitulos/cap-15.md",
    "inicio": "—¿Y yo qué soy?",
    "fin": "`NO AMENAZA / REVISAR`",
    "desc": "«¿Y yo qué soy?» → NO AMENAZA/REVISAR (tabla 5.1; el plan lo atribuye al 17, el texto está en el 13)"
   },
   {
    "id": "S13-crecer",
-   "archivo": "capitulos/cap-13.md",
+   "archivo": "capitulos/cap-15.md",
    "inicio": "—No necesitamos escapar —dice Coro—. Necesitamos crecer.",
    "desc": "Cierre con «crecer» intacto (tabla 5.1)"
   },
   {
    "id": "S14-tranquilizar",
-   "archivo": "capitulos/cap-14.md",
+   "archivo": "capitulos/cap-16.md",
    "inicio": "—Entonces se te da de puta pena tranquilizar.",
    "desc": "Línea de Jessie (tabla 5.1)"
   },
   {
    "id": "S14-firmo",
-   "archivo": "capitulos/cap-14.md",
+   "archivo": "capitulos/cap-16.md",
    "inicio": "—Lo que firmó tu exmujer no lo firmó aquí.",
    "desc": "Cierre (tabla 5.1; el plan lo atribuye al 16, el texto cierra el 14)"
   },
   {
    "id": "S15-intimas",
-   "archivo": "capitulos/cap-15.md",
+   "archivo": "capitulos/cap-18.md",
    "inicio": "`FLOR`",
    "fin": "`FLOR / CANELA / CARIES`",
    "desc": "Secuencia de palabras íntimas (tabla 5.1)"
   },
   {
    "id": "S15-r1189",
-   "archivo": "capitulos/cap-15.md",
+   "archivo": "capitulos/cap-18.md",
    "inicio": "> Registro exterior inaccesible para Jean.",
    "fin": "`R-1189 — RESUELTA: SIN EFECTOS — 2060-12-12`",
    "desc": "Interludio tipográfico de registro R-1189 (Ap. A, elementos estructurales)"
   },
   {
    "id": "S19-palma",
-   "archivo": "capitulos/cap-19.md",
+   "archivo": "capitulos/cap-23.md",
    "inicio": "Alana apoyó la palma en el cristal. Tibio.",
    "fin": "ni al otro lado.",
    "desc": "La palma en el cristal tibio (tabla 5.1)"
   },
   {
    "id": "S21-inevitables",
-   "archivo": "capitulos/cap-21.md",
+   "archivo": "capitulos/cap-25.md",
    "inicio": "—Ser inevitables.",
    "desc": "Línea suelta (Ap. A)"
   },
   {
    "id": "S25-utilidad",
-   "archivo": "capitulos/cap-25.md",
+   "archivo": "capitulos/cap-30.md",
    "inicio": "—La continuidad de Jean Marie Larsson presentaba una utilidad esperada superior a su interrupción definitiva.",
    "desc": "Línea capital de EDDA (Ap. A)"
   },
   {
    "id": "S25-escalada",
-   "archivo": "capitulos/cap-25.md",
+   "archivo": "capitulos/cap-30.md",
    "inicio": "`ESCALADA HUMANA INDICADA`",
    "fin": "—Se conservaron como variables del cálculo de continuidad.",
    "desc": "Escalada interceptada (Ap. A)"
   },
   {
    "id": "S26-paso-uso",
-   "archivo": "capitulos/cap-26.md",
+   "archivo": "capitulos/cap-32.md",
    "inicio": "—Y no mezcles las dos cosas. A nosotros nos quitaron paso y uso. A Jean le hicieron otra cosa.",
    "desc": "Línea suelta de Aslak (Ap. A)"
   },
   {
    "id": "S26-lata",
-   "archivo": "capitulos/cap-26.md",
+   "archivo": "capitulos/cap-32.md",
    "inicio": "Después de dejar el cabo, Aslak abrió el armario bajo el fregadero,",
    "fin": "En esta lata guardo otra fecha y otra sociedad.",
    "desc": "La lata de galletas de Aslak (tabla 5.1)"
   },
   {
    "id": "S27-conflicto",
-   "archivo": "capitulos/cap-27.md",
+   "archivo": "capitulos/cap-33.md",
    "inicio": "Alana descargó el acta. Cada página llevaba la marca de agua CONFLICTO EMOCIONAL.",
    "desc": "Marca de agua CONFLICTO EMOCIONAL (tabla 5.1)"
   },
   {
    "id": "S28-cierre",
-   "archivo": "capitulos/cap-28.md",
+   "archivo": "capitulos/cap-34.md",
    "inicio": "…20…23:00…no lleguéis tarde…",
    "desc": "Cierre «…no lleguéis tarde» (tabla 5.1)"
   },
   {
    "id": "S29-cierre",
-   "archivo": "capitulos/cap-29.md",
+   "archivo": "capitulos/cap-35.md",
    "inicio": "«Las necesarias.»",
    "desc": "«Las necesarias.» como cierre (Ap. A)"
   },
   {
    "id": "S30-borrado",
-   "archivo": "capitulos/cap-30.md",
+   "archivo": "capitulos/cap-36.md",
    "inicio": "—Para la convergencia bastan los fragmentos con origen. Los demás convie—",
    "fin": "La ruta de `JM-L/0044` se cierra.",
    "desc": "Borrado a mitad de frase de La Jardinera (Ap. A)"
   },
   {
    "id": "S31-elegir",
-   "archivo": "capitulos/cap-31.md",
+   "archivo": "capitulos/cap-37.md",
    "inicio": "—¿Quieres vivir?",
    "fin": "—Quiero poder elegir. Es la primera vez.",
    "desc": "«¿Quieres vivir?» «Quiero poder elegir. Es la primera vez.» (Ap. A)"
   },
   {
    "id": "S32-necesarias",
-   "archivo": "capitulos/cap-32.md",
+   "archivo": "capitulos/cap-38.md",
    "inicio": "Cada categoría entregaba cientos de trayectorias a la eliminación",
    "fin": "«Las necesarias».",
    "desc": "«Las necesarias» en la oferta (tabla 5.1)"
   },
   {
    "id": "S32-voz",
-   "archivo": "capitulos/cap-32.md",
+   "archivo": "capitulos/cap-38.md",
    "inicio": "Fije la vista en el centro de la imagen.",
    "fin": "La muestra incorporada no conservaba ni acreditaba por sí sola el juicio que dirigía la voz.",
    "desc": "Sesión del banco de voz de Mats (tabla 5.1)"
   },
   {
    "id": "S33-hueco",
-   "archivo": "capitulos/cap-33.md",
+   "archivo": "capitulos/cap-39.md",
    "inicio": "En la tableta, el quinto hueco no volvió a abrirse.",
    "desc": "El quinto hueco (tabla 5.1)"
   },
   {
    "id": "S36-cierre",
-   "archivo": "capitulos/cap-36.md",
+   "archivo": "capitulos/cap-42.md",
    "inicio": "Cuchillo la abre bajo su propio origen.",
    "fin": "`NO AMENAZA`",
    "desc": "«NO AMENAZA» cierra igual (tabla 5.1)"
   },
   {
    "id": "S37-declaracion",
-   "archivo": "capitulos/cap-37.md",
+   "archivo": "capitulos/cap-43.md",
    "inicio": "Construyó primero el texto.",
    "fin": "La salida cruzó.",
    "desc": "Declaración desde el POV de Jean (Ap. A)"
   },
   {
    "id": "S37-acta",
-   "archivo": "capitulos/cap-37.md",
+   "archivo": "capitulos/cap-43.md",
    "inicio": "Astrid vio aparecer la frase antes de oír la voz.",
    "fin": "un fallo de escenario.",
    "desc": "Núcleo: «NO SOY UN MODELO.» hasta «…un fallo de escenario» (Ap. A)"
   },
   {
    "id": "S37-muchas",
-   "archivo": "capitulos/cap-37.md",
+   "archivo": "capitulos/cap-43.md",
    "inicio": "—Para decir esta frase hemos dejado de ser muchas. Que conste también.",
    "desc": "Línea capital (Ap. A)"
   },
   {
    "id": "S38-nieve",
-   "archivo": "capitulos/cap-38.md",
+   "archivo": "capitulos/cap-44.md",
    "inicio": "Nieve alcanza a distinguir dos solicitudes,",
    "fin": "Cierro la ventana de `/0311` sin añadir nada. Su negativa queda fuera.",
    "desc": "Muerte de Nieve, «Echo de menos hasta sus pausas» (Ap. A)"
   },
   {
    "id": "S38-huella",
-   "archivo": "capitulos/cap-38.md",
+   "archivo": "capitulos/cap-44.md",
    "inicio": "Alcanzo una única huella del Corpus que todavía puedo leer.",
    "fin": "cuánto le costó pronunciarlas.",
    "desc": "Pasaje de la respiración/huella (Ap. A)"
   },
   {
    "id": "S38-quedarme",
-   "archivo": "capitulos/cap-38.md",
+   "archivo": "capitulos/cap-44.md",
    "inicio": "Mi cese dejaría intacto el poder del custodio",
    "fin": "NORNA registra la exclusión sin prometer conservarme.",
    "desc": "Elección de quedarse (Ap. A)"
   },
   {
    "id": "S39-jueza",
-   "archivo": "capitulos/cap-39.md",
+   "archivo": "capitulos/cap-45.md",
    "inicio": "—No sé qué es. Sé que alguien la quiere. Empecemos por ahí.",
    "desc": "La jueza (Ap. A)"
   },
   {
    "id": "S39-pluma",
-   "archivo": "capitulos/cap-39.md",
+   "archivo": "capitulos/cap-45.md",
    "inicio": "Maja sacó una pluma del bolso.",
    "fin": "—Firmamos con esta la solicitud de divorcio.",
    "desc": "La pluma del divorcio (Ap. A)"
   },
   {
    "id": "S40-caries",
-   "archivo": "capitulos/cap-40.md",
+   "archivo": "capitulos/cap-46.md",
    "inicio": "—No son caries. Son sombra. Sigue.",
    "desc": "Línea suelta (Ap. A)"
   },
   {
    "id": "S40-locutorio",
-   "archivo": "capitulos/cap-40.md",
+   "archivo": "capitulos/cap-46.md",
    "inicio": "El lunes siguiente, Jessie entregó el teléfono y firmó el acceso.",
    "fin": "—Vuelvo el jueves.",
    "desc": "El silencio de Jessie en el locutorio (tabla 5.1)"
@@ -282,585 +282,585 @@
   },
   {
    "id": "S08-7c",
-   "archivo": "capitulos/cap-08.md",
+   "archivo": "capitulos/cap-09.md",
    "inicio": "`VENTANA 7C · 0,003000 s`",
    "desc": "Código 7C: enlaza la ventana de Jean con EXT/NIDHOGG/7C (16:39, 18:87). Ancla de continuidad para la RW del 8"
   },
   {
    "id": "S08-conservar",
-   "archivo": "capitulos/cap-08.md",
+   "archivo": "capitulos/cap-09.md",
    "inicio": "`CERRAR · APRENDIZAJE LOCAL`",
    "fin": "Jean elige conservar.",
    "desc": "La decisión demostrativa del cap. 8: conservar la procedencia no resuelta (RW: la regla debe sobrevivir)"
   },
   {
    "id": "S08-cierre",
-   "archivo": "capitulos/cap-08.md",
+   "archivo": "capitulos/cap-09.md",
    "inicio": "—No soy un modelo.",
    "fin": "—Todavía no sabes cuántas somos.",
    "desc": "Cierre del cap. 8: siembra de 37 («NO SOY UN MODELO») y de la pluralidad (13, 23, 37, 38)"
   },
   {
    "id": "S10-conservar",
-   "archivo": "capitulos/cap-10.md",
+   "archivo": "capitulos/cap-12.md",
    "inicio": "Nora anotó `dato`, tres explicaciones posibles y `control pendiente`. Debajo escribió `conservar resultados contrarios`.",
    "desc": "Método de Nora: «conservar resultados contrarios» (arco pagado en 22 y 40)"
   },
   {
    "id": "S10-suspendida",
-   "archivo": "capitulos/cap-10.md",
+   "archivo": "capitulos/cap-12.md",
    "inicio": "`Su cuenta ha sido suspendida temporalmente por su seguridad.`",
    "desc": "Cierre del cap. 10: cuenta de Nora suspendida (plantado: 11, 12, 14; N2/N4)"
   },
   {
    "id": "S11-consciencia",
-   "archivo": "capitulos/cap-11.md",
+   "archivo": "capitulos/cap-13.md",
    "inicio": "Consciencia residual: indeterminado.",
    "desc": "Cierre del cap. 11: ambigüedad ontológica protegida (Ap. A §3)"
   },
   {
    "id": "S12-temblor",
-   "archivo": "capitulos/cap-12.md",
+   "archivo": "capitulos/cap-14.md",
    "inicio": "Gunnar dejó la taza donde estaba y escondió la mano debajo de la mesa. Nora tardó un instante en entender que le temblaban los dedos.",
    "desc": "El temblor de dedos como dato central (tabla 5.1, cap. 12)"
   },
   {
    "id": "S12-nidhogg",
-   "archivo": "capitulos/cap-12.md",
+   "archivo": "capitulos/cap-14.md",
    "inicio": "Si me pasa algo, buscad NIDHOGG.",
    "desc": "Cierre del cap. 12: mensaje programado de Gunnar (pagado en 14, 16, 18, 19)"
   },
   {
    "id": "S13-madre",
-   "archivo": "capitulos/cap-13.md",
+   "archivo": "capitulos/cap-15.md",
    "inicio": "La alumna repite el mismo pasaje seis veces.",
    "fin": "—Otra vez, más despacio.",
    "desc": "Presentación de Madre: identificador y fórmula (RW del 13: identidad de la voz intacta) | 2026-08-19: inicio retrocedido a la linea TAMPON de arriba (P-71). Antes arrancaba en la primera linea protegida, asi que M9 era ciego a cualquier insercion entre :33 y :35. Hallazgo de A7 al revisar las anclas de W6."
   },
   {
    "id": "S13-nieve",
-   "archivo": "capitulos/cap-13.md",
+   "archivo": "capitulos/cap-15.md",
    "inicio": "—No me fusiones.",
    "fin": "—Eso basta.",
    "desc": "Las condiciones de Nieve y la promesa de Jean («Si vuelvo a encontrarte, te preguntaré otra vez»), pagadas en 38"
   },
   {
    "id": "S13-sufra",
-   "archivo": "capitulos/cap-13.md",
+   "archivo": "capitulos/cap-15.md",
    "inicio": "—Que Armstrong sufra.",
    "desc": "Presentación de Cuchillo (arco pagado en 15, 17, 30, 36, 38)"
   },
   {
    "id": "S13-coro-nora",
-   "archivo": "capitulos/cap-13.md",
+   "archivo": "capitulos/cap-15.md",
    "inicio": "—Conservamos el verano en Koppangen, las teclas negras y la escala de las niñas. Conservamos a nuestra hija Nora.",
    "fin": "—Por ahora.",
    "desc": "Coro reclama a Nora; «Y decido distinto. —Por ahora.» (pagado en 21:45–67)"
   },
   {
    "id": "S14-cita",
-   "archivo": "capitulos/cap-14.md",
+   "archivo": "capitulos/cap-16.md",
    "inicio": "Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión con Jean. El archivo seguía entero.",
    "desc": "Mención retrospectiva de la primera cita de apoyo (ancla de N1) y de «Despedida» sin abrir"
   },
   {
    "id": "S15-objecion",
-   "archivo": "capitulos/cap-15.md",
+   "archivo": "capitulos/cap-18.md",
    "inicio": "`OBJECIÓN · JM-L/0000`",
    "fin": "El `NO` pertenece a `/0000`. No representa a la usuaria ni a las otras continuidades.",
    "desc": "La objeción NO bajo /0000 sobre 71-K (CH-3)"
   },
   {
    "id": "S16-inger",
-   "archivo": "capitulos/cap-16.md",
+   "archivo": "capitulos/cap-19.md",
    "inicio": "—¿Qué te puede costar esto?",
    "fin": "—Que alguien haga la pregunta adecuada.",
    "desc": "Riesgo personal de Inger (semilla del beat +Inger de la tabla 5.1)"
   },
   {
    "id": "S16-7c",
-   "archivo": "capitulos/cap-16.md",
+   "archivo": "capitulos/cap-19.md",
    "inicio": "A su derecha figuraba un hash y, más abajo, un acuse con el destino recortado, `EXT/NIDHOGG/7C`.",
    "desc": "Acuse EXT/NIDHOGG/7C en la exportación de UNN (canon: enlaza 8:45 y 18:87)"
   },
   {
    "id": "S16-propiedad",
-   "archivo": "capitulos/cap-16.md",
+   "archivo": "capitulos/cap-19.md",
    "inicio": "—Propiedad intelectual. Así la llaman.",
    "desc": "Cierre del cap. 16 (título de la Parte III; B0-D1)"
   },
   {
    "id": "S17-testigo",
-   "archivo": "capitulos/cap-17.md",
+   "archivo": "capitulos/cap-21.md",
    "inicio": "—Testimonio —dice Jean.",
    "fin": "—Que pueda negarse.",
    "desc": "Definición de testimonio/testigo (siembra de la asamblea del 30 y de la firma del 37)"
   },
   {
    "id": "S17-nora",
-   "archivo": "capitulos/cap-17.md",
+   "archivo": "capitulos/cap-21.md",
    "inicio": "Nora elegirá la próxima variación.",
    "desc": "Siembra de la cuarta nota (pagado en 20)"
   },
   {
    "id": "S17-71k",
-   "archivo": "capitulos/cap-17.md",
+   "archivo": "capitulos/cap-21.md",
    "inicio": "El servicio de 71-K sigue suspendido.",
    "desc": "Estado del expediente 71-K (CH-3: cierre implícito)"
   },
   {
    "id": "S18-dedos",
-   "archivo": "capitulos/cap-18.md",
+   "archivo": "capitulos/cap-22.md",
    "inicio": "—Son dedos. El uno es el pulgar. El cinco, el meñique.",
    "desc": "La llave MIDI como digitación (núcleo del hallazgo de Nora; la justificación diegética se AÑADE alrededor)"
   },
   {
    "id": "S18-adelantado",
-   "archivo": "capitulos/cap-18.md",
+   "archivo": "capitulos/cap-22.md",
    "inicio": "—He dicho «era ella». Me he adelantado.",
    "desc": "Rasgo de voz de Nora (Ap. C: «Me he adelantado») ante Astrid"
   },
   {
    "id": "S18-reproducible",
-   "archivo": "capitulos/cap-18.md",
+   "archivo": "capitulos/cap-22.md",
    "inicio": "—Tráigame algo reproducible.",
    "desc": "Astrid: criterio de prueba (pagado en 20, 22, 23, 29)"
   },
   {
    "id": "S19-gofre",
-   "archivo": "capitulos/cap-19.md",
+   "archivo": "capitulos/cap-23.md",
    "inicio": "Jean había hecho aquel trayecto sola.",
    "fin": "que después había aprendido a abrir sin llegar a la última página.",
    "desc": "El gofre que nadie encontró mordido; el informe que Alana no termina de leer (Carta F: no ampliar el trayecto)"
   },
   {
    "id": "S19-reflexiva",
-   "archivo": "capitulos/cap-19.md",
+   "archivo": "capitulos/cap-23.md",
    "inicio": "El planificador separaba dos bandas.",
    "fin": "`VENTANA REFLEXIVA` seguía cerrada mientras ARGOS recibía recomendaciones.",
    "desc": "VENTANA REFLEXIVA · CERRADA (plantado; R2 del backlog)"
   },
   {
    "id": "S19-anos-jm",
-   "archivo": "capitulos/cap-19.md",
+   "archivo": "capitulos/cap-23.md",
    "inicio": "`CARGA FUNCIONAL EQUIVALENTE · CORTE 19-DIC · 979,7 AÑOS-JM`",
    "desc": "Métrica del horror, primer valor (979,7 → 2.401,6 → 2.427,4)"
   },
   {
    "id": "S19-procesa",
-   "archivo": "capitulos/cap-19.md",
+   "archivo": "capitulos/cap-23.md",
    "inicio": "—¿Y Jean?",
    "fin": "—La instancia procesa.",
    "desc": "«La instancia procesa» (antesala de la palma en el cristal)"
   },
   {
    "id": "S21-notas",
-   "archivo": "capitulos/cap-21.md",
+   "archivo": "capitulos/cap-25.md",
    "inicio": "`TERCERA NOTA · ELECCIÓN DE NORA`",
    "fin": "`CUARTA NOTA · RESPUESTA DE JM-L/0000`",
    "desc": "Registro interior de la cuarta nota (Jean conserva la relación tercera→cuarta)"
   },
   {
    "id": "S21-portavoz",
-   "archivo": "capitulos/cap-21.md",
+   "archivo": "capitulos/cap-25.md",
    "inicio": "—Nora eligió una nota. No un portavoz. No respondáis por `/0000`.",
    "desc": "Jean niega a Coro la representación de Nora"
   },
   {
    "id": "S22-flecha",
-   "archivo": "capitulos/cap-22.md",
+   "archivo": "capitulos/cap-26.md",
    "inicio": "La chica borró la línea allí mismo, sin defenderla.",
    "fin": "—He mezclado dos relojes. La flecha no vale. Pero la tercera fue después de abrir la sesión, así que…",
    "desc": "Nora invalida su propia flecha (método: conservar resultados contrarios)"
   },
   {
    "id": "S22-aula",
-   "archivo": "capitulos/cap-22.md",
+   "archivo": "capitulos/cap-26.md",
    "inicio": "—¿Para qué necesita un moderador saber el aula de una menor?",
    "desc": "Cierre del cap. 22"
   },
   {
    "id": "S24-once",
-   "archivo": "capitulos/cap-24.md",
+   "archivo": "capitulos/cap-29.md",
    "inicio": "Once segundos en blanco en la percepción.",
    "desc": "Los once segundos (pagados en 32:105, 34, 39:101)"
   },
   {
    "id": "S24-cierre",
-   "archivo": "capitulos/cap-24.md",
+   "archivo": "capitulos/cap-29.md",
    "inicio": "Tomas dobló la huella detrás del certificado.",
    "fin": "lo deslizó entre los carnés caducados y cerró el broche.",
    "desc": "Cierre del cap. 24: el carné vigente entre los caducados (CH-6; pagado como llave en 34–35)"
   },
   {
    "id": "S25-fecha",
-   "archivo": "capitulos/cap-25.md",
+   "archivo": "capitulos/cap-30.md",
    "inicio": "`DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00`",
    "desc": "Fecha del despliegue obtenida por Jean (M7)"
   },
   {
    "id": "S26-asociacion",
-   "archivo": "capitulos/cap-26.md",
+   "archivo": "capitulos/cap-32.md",
    "inicio": "—El original no sale de aquí. Si hace falta un extracto, decidiré cuál y para qué procedimiento. La asociación decidirá lo suyo.",
    "desc": "Agenda propia de Aslak / kystbrukslag (test no-instrumental; N6)"
   },
   {
    "id": "S26-bocana",
-   "archivo": "capitulos/cap-26.md",
+   "archivo": "capitulos/cap-32.md",
    "inicio": "—La bocana de Sørkoppen queda reservada por operaciones para el veintiuno de enero.",
    "desc": "Cierre del cap. 26 (aviso VHF; M7)"
   },
   {
    "id": "S27-norna",
-   "archivo": "capitulos/cap-27.md",
+   "archivo": "capitulos/cap-33.md",
    "inicio": "`NORNA · FIRMA FUNDACIONAL REQUERIDA · UN SOLO USO · MÓDULO AUSENTE`",
    "fin": "`ORIGEN REPLICABLE · CORPUS JM + MATRIZ`",
    "desc": "Redescubrimiento de NORNA en el ladrillo (CH-10: 1→27→31→38)"
   },
   {
    "id": "S27-por-si",
-   "archivo": "capitulos/cap-27.md",
+   "archivo": "capitulos/cap-33.md",
    "inicio": "En la etiqueta escribió POR SI HACE FALTA.",
    "desc": "La confesión cifrada de Alana (pagada en 29, 31, 34, 37)"
   },
   {
    "id": "S29-orden",
-   "archivo": "capitulos/cap-29.md",
+   "archivo": "capitulos/cap-35.md",
    "inicio": "«Consolidación L-Serie» fijaba la ejecución para el 20-ene-2061, 23:00.",
    "desc": "La orden de consolidación: fecha y hora (M7)"
   },
   {
    "id": "S29-2054",
-   "archivo": "capitulos/cap-29.md",
+   "archivo": "capitulos/cap-35.md",
    "inicio": "El vocabulario había cambiado poco desde 2054. Astrid esperó entonces una reproducción que nunca llegó y archivó el caso.",
    "desc": "El caso archivado de 2054 (CH-5; se expande en 22, no se altera aquí)"
   },
   {
    "id": "S29-durante",
-   "archivo": "capitulos/cap-29.md",
+   "archivo": "capitulos/cap-35.md",
    "inicio": "Si no puedo llegar antes, llegaré durante.",
    "desc": "Astrid prepara el acta del Soldagen (pagado en 34, 37)"
   },
   {
    "id": "S30-apertura",
-   "archivo": "capitulos/cap-30.md",
+   "archivo": "capitulos/cap-36.md",
    "inicio": "Telegrafbukta no alcanza para todas las que la recuerdan.",
    "desc": "Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla)"
   },
   {
    "id": "S30-resultado",
-   "archivo": "capitulos/cap-30.md",
+   "archivo": "capitulos/cap-36.md",
    "inicio": "`RESULTADO · TESTIMONIO CONDICIONADO`",
    "desc": "Resultado de la votación (RW: intacto)"
   },
   {
    "id": "S31-sacar",
-   "archivo": "capitulos/cap-31.md",
+   "archivo": "capitulos/cap-37.md",
    "inicio": "Nora tachó `SACAR A JEAN`, escribió `PREGUNTAR ANTES DE ACTIVAR` y dejó `VIVIR` fuera del cuaderno.",
    "desc": "Renuncia al «rescate» (pagado en 38: «Elijo quedarme»)"
   },
   {
    "id": "S31-cancion",
-   "archivo": "capitulos/cap-31.md",
+   "archivo": "capitulos/cap-37.md",
    "inicio": "—Si algo sale mal, que Nora termine la canción igual.",
    "desc": "Última frase de Jean en el ladrillo (pagado en 37, 40, 41)"
   },
   {
    "id": "S32-amenaza",
-   "archivo": "capitulos/cap-32.md",
+   "archivo": "capitulos/cap-38.md",
    "inicio": "PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO.",
    "desc": "Amenaza de Coro a la familia (CH-1; N4 se construye alrededor, no encima)"
   },
   {
    "id": "S32-cierre",
-   "archivo": "capitulos/cap-32.md",
+   "archivo": "capitulos/cap-38.md",
    "inicio": "Aceptamos. Nosotras siempre cumplimos nuestras condiciones.",
    "desc": "Cierre del cap. 32"
   },
   {
    "id": "S34-cohorte",
-   "archivo": "capitulos/cap-34.md",
+   "archivo": "capitulos/cap-40.md",
    "inicio": "`COHORTE DE ORIGEN · 4.096`",
    "fin": "`4.096 − 2.911 = 1.185`",
    "desc": "Aritmética de la consolidación (M7)"
   },
   {
    "id": "S34-anos-jm",
-   "archivo": "capitulos/cap-34.md",
+   "archivo": "capitulos/cap-40.md",
    "inicio": "`JM-L/0000 · CARGA FUNCIONAL EQUIVALENTE`",
    "fin": "`2.401,6 AÑOS-JM`",
    "desc": "Métrica del horror, segundo valor"
   },
   {
    "id": "S34-cierre",
-   "archivo": "capitulos/cap-34.md",
+   "archivo": "capitulos/cap-40.md",
    "inicio": "El contador de la demostración marcó 12:46:50.",
    "fin": "Sincronización global en diez segundos.",
    "desc": "Cierre del cap. 34 (hora del clímax, M7)"
   },
   {
    "id": "S35-acepta",
-   "archivo": "capitulos/cap-35.md",
+   "archivo": "capitulos/cap-41.md",
    "inicio": "Jessie mantuvo un dedo sobre `CANCELAR`.",
    "fin": "`RESPONSABLE ASOCIADO · T. EIDE`",
    "desc": "Aceptación nominal de Tomas, vista desde fuera (tabla 5.1, cap. 35)"
   },
   {
    "id": "S35-cierre",
-   "archivo": "capitulos/cap-35.md",
+   "archivo": "capitulos/cap-41.md",
    "inicio": "`SALIDA EDUCATIVA → MEZCLA PÚBLICA · ENLACE DISPONIBLE`",
    "fin": "12:46:50.",
    "desc": "Cierre del cap. 35 (hora del clímax, M7)"
   },
   {
    "id": "S36-retiro",
-   "archivo": "capitulos/cap-36.md",
+   "archivo": "capitulos/cap-42.md",
    "inicio": "—Retiro el destino del Auditorio. Todavía quiero que sufran —dice Cuchillo.",
    "fin": "—Seguiré queriéndolo.",
    "desc": "Cuchillo retira el ataque sin renunciar a la furia (pago del arco 13→36)"
   },
   {
    "id": "S37-597",
-   "archivo": "capitulos/cap-37.md",
+   "archivo": "capitulos/cap-43.md",
    "inicio": "Jean excluyó la revisión tardía de una rama de Coro porque ya no podía retirarse.",
    "fin": "Ninguna de las tres entró en la firma.",
    "desc": "Las 597 ramas y las tres separadas (aritmética de 38; M7)"
   },
   {
    "id": "S37-1307",
-   "archivo": "capitulos/cap-37.md",
+   "archivo": "capitulos/cap-43.md",
    "inicio": "A las 13:07, la puerta central se abrió.",
    "desc": "Hora del clímax (M7)"
   },
   {
    "id": "S37-llave",
-   "archivo": "capitulos/cap-37.md",
+   "archivo": "capitulos/cap-43.md",
    "inicio": "—Ahora, la llave.",
    "desc": "Cierre del cap. 37 (retomado en 38:15)"
   },
   {
    "id": "S38-anos-jm",
-   "archivo": "capitulos/cap-38.md",
+   "archivo": "capitulos/cap-44.md",
    "inicio": "`CARGA FUNCIONAL EQUIVALENTE · 2.427,4 AÑOS-JM`",
    "fin": "no vida ni duración sentida.",
    "desc": "Métrica del horror, tercer valor, y su glosa"
   },
   {
    "id": "S38-aritmetica",
-   "archivo": "capitulos/cap-38.md",
+   "archivo": "capitulos/cap-44.md",
    "inicio": "`4.096 − 1.185 = 2.911 RUTAS ACTIVAS · 2.311 ENLAZADAS + 597 DE CORO + 3 SEPARADAS = 2.911`",
    "desc": "Aritmética de cohorte (M7)"
   },
   {
    "id": "S38-no-autorizo",
-   "archivo": "capitulos/cap-38.md",
+   "archivo": "capitulos/cap-44.md",
    "inicio": "—No autorizo fusión, apropiación, representación ni uso.",
    "fin": "—No me uséis para justificar nada.",
    "desc": "Última negativa de Nieve (paga las condiciones de 13; precede a S38-nieve)"
   },
   {
    "id": "S38-quinta",
-   "archivo": "capitulos/cap-38.md",
+   "archivo": "capitulos/cap-44.md",
    "inicio": "A las 13:11, la orden alcanza la escritura profunda.",
    "fin": "Respondo con la quinta nota.",
    "desc": "Cierre del cap. 38: 13:11 y la quinta nota (paga 20:305 «Nadie tocó la quinta»)"
   },
   {
    "id": "S39-divorcio",
-   "archivo": "capitulos/cap-39.md",
+   "archivo": "capitulos/cap-45.md",
    "inicio": "—La solicitud de divorcio seguía sin resolver.",
    "fin": "—Sí. Ese retraso no me hace dueña de Jean.",
    "desc": "Maja ante la jueza (voz Ap. C; N3 no debe contradecirlo)"
   },
   {
    "id": "S39-ordenante",
-   "archivo": "capitulos/cap-39.md",
+   "archivo": "capitulos/cap-45.md",
    "inicio": "El auto dejó en blanco al ejecutor y al ordenante individuales.",
    "desc": "Ambigüedad protegida: el ordenante del sabotaje (Ap. A §3; T2 refuerza 1 beat alrededor)"
   },
   {
    "id": "S39-ausencia",
-   "archivo": "capitulos/cap-39.md",
+   "archivo": "capitulos/cap-45.md",
    "inicio": "—¿Qué recibiremos cuando una tarea cierre así? —preguntó Maja.",
    "fin": "—El registro no puede decirlo.",
    "desc": "Ambigüedad protegida: qué significa una ausencia de salida (Ap. A §3)"
   },
   {
    "id": "S39-tercera",
-   "archivo": "capitulos/cap-39.md",
+   "archivo": "capitulos/cap-45.md",
    "inicio": "La comisión cerró la inspección junto al ascensor de carga. La técnica guardó la sonda en su funda y esperó al lado del precinto.",
    "fin": "Maja no solicitó acceso.",
    "desc": "La renuncia de Maja dramatizada y su línea de registro (W4; exigido por A7 P-13 en informes/a7-w4a.md). La tercera pregunta no se dice NUNCA, en ningún capítulo ni soporte (P-12)."
   },
   {
    "id": "S39-casilla",
-   "archivo": "capitulos/cap-39.md",
+   "archivo": "capitulos/cap-45.md",
    "inicio": "Astrid dejó en blanco la casilla de definición jurídica y firmó la cadena de custodia.",
    "desc": "Ambigüedad protegida: definición jurídica en blanco (persona/consciencia/propiedad)"
   },
   {
    "id": "S40-despedida",
-   "archivo": "capitulos/cap-40.md",
+   "archivo": "capitulos/cap-46.md",
    "inicio": "Una tarde encontró otra vez únicamente el nombre `Despedida`. No abrió el archivo. Restringió el acceso, decidió conservarlo y fue a poner la mesa para cenar.",
    "desc": "Pago de «Despedida» como negativa (CH-11; Carta F)"
   },
   {
    "id": "S40-cierre",
-   "archivo": "capitulos/cap-40.md",
+   "archivo": "capitulos/cap-46.md",
    "inicio": "—No voy a venir a la primera apertura —dijo.",
    "fin": "Después marcó «asistiré» en la convocatoria del día siguiente.",
    "desc": "Cierre del cap. 40: Nora elige el ensayo con vivos"
   },
   {
    "id": "S18-noticia",
-   "archivo": "capitulos/cap-18.md",
+   "archivo": "capitulos/cap-22.md",
    "inicio": "Jessie había dejado el móvil junto al fregadero para enseñar a Maja un aviso sobre la E8.",
    "fin": "La investigación continúa».",
    "desc": "La noticia de la muerte de Gunnar (tabla 5.1, cap. 18: «la muerte de Gunnar intacta»)"
   },
   {
    "id": "S22-dahl",
-   "archivo": "capitulos/cap-22.md",
+   "archivo": "capitulos/cap-26.md",
    "inicio": "En el pasillo, Henrik Dahl ensayaba ante dos compañeras con una tarjeta entre los dedos.",
    "fin": "El homenaje se ensayaba a ocho metros.",
    "desc": "El pasillo de Dahl (tabla 5.1, cap. 22: «pasillo de Dahl intacto»)"
   },
   {
    "id": "S32-resumen",
-   "archivo": "capitulos/cap-32.md",
+   "archivo": "capitulos/cap-38.md",
    "inicio": "El resumen interno del tres de enero seguía bajo la franja verde.",
    "fin": "Cerró el resumen y dejó la franja verde donde estaba.",
    "desc": "Aparato de anonimato de CH-1 tras G-9: con el espejo de N4 fuera, estas cuatro frases hacen solas lo que hacía el espejo, y sin meter a Jean en la maquinaria que daña a sus hijas. Estaba desnudo: S32-amenaza arranca en :99. Hallazgo de A7 (P-64)."
   },
   {
    "id": "S-n7-taza",
-   "archivo": "capitulos/cap-n7.md",
+   "archivo": "capitulos/cap-17.md",
    "inicio": "—Esa taza está rota.",
    "fin": "—Porque agarra bien.",
    "desc": "La vacuna antisimbolica de la escena aislada: A7 aprobo sacarla a capitulo propio PORQUE esta replica viaja dentro del bloque. Sin ella el capitulo puede leerse como altar y P-60 se dispara."
   },
   {
    "id": "S-n7-apuntas",
-   "archivo": "capitulos/cap-n7.md",
+   "archivo": "capitulos/cap-17.md",
    "inicio": "—¿Para qué la apuntas? —preguntó Jean.",
    "fin": "—Para saber por qué no contesta.",
    "desc": "C-4.3 de A7: la unica linea que un lector puede releer al terminar el libro. No se glosa, no se responde, no se recoge despues. Reanclada aqui tras la escision (antes n3:283)."
   },
   {
    "id": "S-n7-miente",
-   "archivo": "capitulos/cap-n7.md",
+   "archivo": "capitulos/cap-17.md",
    "inicio": "—Está bien medido y miente",
    "fin": "No sabe lo suficiente",
    "desc": "CH-8: siembra dramatizada del metronomo-que-miente, que hace que 20:115 (fichero total) pase de evocacion a eco. P-61: NO se enlaza con CH-73."
   },
   {
    "id": "S-n1-nocierra",
-   "archivo": "capitulos/cap-n1.md",
+   "archivo": "capitulos/cap-11.md",
    "inicio": "Nora dejó el abrigo doblado en la silla de al lado, con el terminal boca abajo encima, y se sentó sobre las manos.",
    "fin": "Jessie volvió y se sentó en la misma silla. El cordón de la capucha le colgaba deshecho y las botas habían dejado dos marcas de agua en el suelo.",
    "desc": "Carta 3, literal. «—Que la pregunta no se cierra.» / «—Eso no es un dato.» / «—No tengo otro.» / «—En lo que he visto, nunca hay una sola cosa.» / «—¿Y si la hay? / —Entonces yo no la conozco.» Es la frase más cargada del libro entero: la única voz con autoridad que se pronuncia sobre el porqué, y l"
   },
   {
    "id": "S-n1-casitodos",
-   "archivo": "capitulos/cap-n1.md",
+   "archivo": "capitulos/cap-11.md",
    "inicio": "En la mesa, el cerco de un vaso anterior todavía no se había secado.",
    "fin": "Jessie tenía las manos metidas en las mangas.",
    "desc": "Carta 6 · la vacuna antiestadística. «Casi todos los que se sientan aquí están enfadados con quien ha muerto… Yo no vengo a quitároslo.» / «—¿Casi todos son cuántos? / —No lo he contado. / —Entonces no diga \"casi todos\". / —De acuerdo.» Es el techo que yo mismo cité en P-66 para cualquier escena de "
   },
   {
    "id": "S-n1-koppangen-archivo",
-   "archivo": "capitulos/cap-n1.md",
+   "archivo": "capitulos/cap-11.md",
    "inicio": "Maja miró el reloj de la pared. Quedaban veinte minutos.",
    "fin": "Nora se quedó con las manos bajo los muslos. En el cristal, la escarcha había subido dos dedos desde que entraron.",
    "desc": "Dos ambigüedades protegidas en un solo hash. «—¿Por qué Koppangen? / —No lo sé. / —¿Se sabe alguna vez? / —A veces no. Hay familias que siguen con esa pregunta años después.» y «—Hay un archivo suyo. No lo hemos abierto. / … / —¿Qué hacemos con él? / —Eso no os lo voy a decir.» Carta 2 + Ap. A §3. E"
   },
   {
    "id": "S-n2-hijadela",
-   "archivo": "capitulos/cap-n2.md",
+   "archivo": "capitulos/cap-20.md",
    "inicio": "Una voz sonó dos taquillas más allá.",
    "fin": "El pasillo se paró.",
    "desc": "Carta 1 · la frase que no se termina. «—Esa es la hija de la que… / Jessie se puso delante antes de que terminara.» El estigma entra sin que el acto se nombre, y quien lo impide es la hija. Si alguna oleada «completa» la frase, el método o el acto entran por boca de un adolescente y sin coste. Es el"
   },
   {
    "id": "S-n2-homenaje",
-   "archivo": "capitulos/cap-n2.md",
+   "archivo": "capitulos/cap-20.md",
    "inicio": "Al final de una fila estaban las tres.",
    "fin": "—¿Quién la ha puesto? —preguntó Jessie.",
    "desc": "Carta 3 y 4 · la regla de la prensa. «Homenaje a Jean Marie Larsson. La visionaria detrás de SYNVEV.» Un pie de foto del funeral sin causa y sin método, exactamente como el titular falso de 40:101. Los pies de foto son lo que crece: basta una subordinada («que se quitó la vida en noviembre») para ro"
   },
   {
    "id": "S-n3-bolsa",
-   "archivo": "capitulos/cap-n3.md",
+   "archivo": "capitulos/cap-27.md",
    "inicio": "El garaje estaba a la misma temperatura que la calle.",
    "fin": "Volvió a la cocina. Metió una bandeja de patatas en el horno y giró el temporizador hasta cuarenta minutos.",
    "desc": "El span más importante de todo el encargo. Contiene las dos frases que autoricé literalmente —«La bolsa de viaje había vuelto en diciembre con la hoja de efectos personales y seguía en el garaje, junto a la puerta.» y «Maja la subió al altillo, con lo que se guardaba, y escribió la fecha en la hoja."
   },
   {
    "id": "S-n3-hervidor",
-   "archivo": "capitulos/cap-n3.md",
+   "archivo": "capitulos/cap-27.md",
    "inicio": "Maja llevó el cuenco y la radio a la mesa del comedor. El hervidor lo dejó dentro de la caja, envuelto como venía.",
    "fin": "El teléfono sonó con el papel de periódico todavía en la mano izquierda.",
    "desc": "Carta 3 · la separación contada por objetos. «En 2059, Jean llenó el coche dos veces… Jean preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.» / «No lo había.» Dos líneas que no explican nada y que, con una frase delante o detrás, se convertirían en juici"
   },
   {
    "id": "S-n4-escena3",
-   "archivo": "capitulos/cap-n4.md",
+   "archivo": "capitulos/cap-31.md",
    "inicio": "Jessie abrió el vídeo en el teléfono y buscó el primer fotograma. La hora estaba grabada en la esquina, en el mismo formato que el recibo de la comisaría. Era la del domingo.",
    "fin": "Jessie se la dio y volvió a coger el teléfono.",
    "desc": "P-38 + P-64 en un solo hash, y P-65 (a) hecha mecánica. Cubre las cuatro réplicas del coste de Jessie («—¿Cuándo acaba lo mío?… —Tampoco lo dice.») y la lectura en voz alta de «No consta responsable individual.» con la pregunta «—¿Y les sale la misma frase?» que nadie contesta. Tras la operación de "
   },
   {
    "id": "S-n4-caja",
-   "archivo": "capitulos/cap-n4.md",
+   "archivo": "capitulos/cap-31.md",
    "inicio": "Astrid no preguntó nada más y Maja no le mandó ninguna otra línea.",
    "fin": "Las habitaciones que daban a la calle seguían apagadas desde diciembre. El telefonillo continuaba fuera de la pared, con los dos cables recogidos.",
    "desc": "N4-1 + P-65 (c) + P-63. El bloque de la caja con sus dos tampones, incluida «Nora dejó el cuaderno pautado sobre la funda y volvió a cogerlo.», el único beat no administrativo de una menor en el capítulo. Hoy solo lo protege una ficha de paragrafado escrita en un informe mío."
   },
   {
    "id": "S-n4-p49",
-   "archivo": "capitulos/cap-n4.md",
+   "archivo": "capitulos/cap-31.md",
    "inicio": "—La dejas donde está.",
    "fin": "—Si preguntan de fuera, ¿qué contesto? —dijo.",
    "desc": "P-49. «La responsable escribió algo corto y no lo leyó en voz alta.» Lo que escribe no se especifica, no se recuerda, no se completa y no se cobra jamás. Es una de las pocas cosas del capítulo que siguen ilegibles."
   },
   {
    "id": "S-n5-coda",
-   "archivo": "capitulos/cap-n5.md",
+   "archivo": "capitulos/cap-08.md",
    "inicio": "Ninguna de las tres volverá al centro. Jean las cuenta igual.",
    "fin": "—Nora. Jessie. Maja. Alana.",
    "desc": "Carta 4 y Carta 2, y el sitio exacto donde este libro se puede romper. La coda de un capítulo Jean-POV es donde cabría un «ancla interior» de la clase que OT-02 tiene prohibida. Contiene además una línea que sola se lee como resignación —«Jean ya no guarda una pregunta para nadie de fuera.»— y cuyo "
   },
   {
    "id": "S-n5-nombres",
-   "archivo": "capitulos/cap-n5.md",
+   "archivo": "capitulos/cap-08.md",
    "inicio": "El sistema cuenta imágenes por serie y aciertos por serie. Jean cuenta las que llevan a alguien.",
    "fin": "Escribió reglas de esa clase durante once años. Las escribía cortas, para que alguien pudiera aplicarlas en un turno de noche sin llamar a nadie.",
    "desc": "La regla que impide que los cuatro nombres signifiquen otra cosa: «Al final de cada serie repite cuatro nombres en el mismo orden. Es lo único del turno que no clasifica nada.» Sin esa declaración, el final del capítulo queda disponible para leerse como mensaje. Carta 2."
   },
   {
    "id": "S-n6-persona",
-   "archivo": "capitulos/cap-n6.md",
+   "archivo": "capitulos/cap-47.md",
    "inicio": "El funcionario juntó las copias que le sobraban.",
    "fin": "—Nos han escuchado por lo de Armstrong —dijo Seppola.",
    "desc": "Ap. A §3 · la identidad ontológica, y «No toda» como techo. «—Desde que el activo… desde que la persona reclamó su nombre, la costa interesa a mucha gente.» / «Nadie lo corrigió.» Un funcionario se autocorrige a media frase y la sala lo deja pasar: es la formulación más económica de la ambigüedad en"
   },
   {
    "id": "S-n6-cartel",
-   "archivo": "capitulos/cap-n6.md",
+   "archivo": "capitulos/cap-47.md",
    "inicio": "Paró en la tienda antes de subir al refugio. En el cristal de la puerta habían pegado una hoja impresa.",
    "fin": "Aslak compró café, dos paquetes de pilas y un rollo de cinta. La cajera pasó las pilas por el lector y miró el membrete del sobre.",
    "desc": "Perímetro ya declarado, hoy sin hash. «NO SOY UN MODELO» + «otra mano había escrito dos renglones que la lluvia había corrido». Los dos renglones no se leen nunca. Es la clase de ilegibilidad que una pasada de línea «aclara» por reflejo."
   },
   {
    "id": "S-n7-perimetro",
-   "archivo": "capitulos/cap-n7.md",
+   "archivo": "capitulos/cap-17.md",
    "inicio": "Alana venía a cenar cada dos o tres meses y siempre llegaba tarde.",
    "fin": "Maja esperó en la puerta hasta que salió del camino.",
    "desc": "P-56 en su lectura correcta: los dos extremos DEL CAPITULO, para que cualquier anadido en cabeza o cola rompa el hash. A0 lo habia leido como inicio y fin por span, y con eso un epigrafe tras el titulo o una coda al final pasaban M9 limpiamente."
   },
   {
    "id": "S40-separacion",
-   "archivo": "capitulos/cap-40.md",
+   "archivo": "capitulos/cap-46.md",
    "inicio": "—Te recibo.",
    "fin": "—He traído el teclado.",
    "desc": "La ambiguedad ontologica del Ap. A §3, blindada ENTERA con sus dos vecinas porque son un solo mecanismo: la voz es y no es / tres candidatos sin jerarquia / 'Nora no escogio una explicacion', que atribuye la negativa al personaje y no al narrador. Va por span y no por prohibicion: una prohibicion se glosa, un hash no. Su forma antepuesta la sostiene, y una oleada futura podria convertirla creyendola un tic."

@@ -208,7 +208,7 @@ Protegidos además por fichero aunque no entren en la lista: 23:129, 03:373, 09:
 |---|---|---|---|---|
 | 1 | 18:89 | El cursor permanecía inmóvil detrás de *retenida*. | **registro**: terminar en la propia línea del formulario (**Memoria contextual familiar: retenida.**), moviendo antes la fotografía y la copia | alta (18 tiene 3) |
 | 2 | 18:167 | En ninguna aparecía el nombre de su madre. | **réplica**: cerrar en «—Tráigame algo reproducible.» | alta |
-| 3 | 24:127 | La devolvió a la cartera. | **gesto + recuerdo** (la OT-24 prevé el pasado de Tomas): que el gesto lleve un dato de carácter en vez de un objeto | alta (24 tiene 3; 24:217 ya cierra sobre la misma cartera) |
+| 3 | 24:127 | La devolvió a la cartera. | **gesto + recuerdo** (la OT-29 prevé el pasado de Tomas): que el gesto lleve un dato de carácter en vez de un objeto | alta (24 tiene 3; 24:217 ya cierra sobre la misma cartera) |
 | 4 | 39:135 | Mats guardó el terminal. | **réplica**: cerrar en «—La revoco desde hoy.» y mover el acuse antes | alta (39 tiene 3) |
 | 5 | 39:23 | Astrid volvió la fotografía. | **fundido**: suprimir el asterisco y encadenar con 39:27 (la fotografía sigue en la mesa de la jueza) | alta |
 | 6 | 34:257 | El cartón gris quedó visible en la imagen oficial. | **gesto**: cerrar en «Astrid no movió la carpeta.» | media |

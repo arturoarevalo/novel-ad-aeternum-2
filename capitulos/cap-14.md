@@ -1,359 +1,325 @@
 ---
-capitulo: 16
-titulo: La visita
-pov: Maja
-fecha: 2060-12-11
+capitulo: 14
+titulo: Gunnar
+pov: Nora
+fecha: 2060-12-09
 estado: aceptado
 analepsis: false
-estado_plan: R
+estado_plan: E
 proteccion: nucleo
 ot: OT-14
 delta_objetivo: 0
-orden_lectura: 16
+orden_lectura: 14
 ---
 
-La cena india para cuatro llegó con más de dos semanas de retraso, caliente aún, en manos de Alana Armstrong. Aquel gesto había empezado sin Maja.
+Deja de subir fotos si quieres que siga respondiendo.
 
-—He traído comida.
+Nora leyó el mensaje bajo el toldo de una farmacia cerrada. La nieve de la acera devolvía el verde de la cruz y volvía enfermas las manos que sostenían el terminal.
 
-El papel transparentaba grasa y desprendía un picante dulce. Alana seguía en el felpudo, con la cena entre ambas.
+El remitente conocía los cuatro recortes que ella conservó antes de que Armstrong le suspendiera la cuenta. El primero había llegado el martes por la tarde. Nora había contestado cuatro minutos después. Dos días de frases sin firma: una pregunta de Nora, una instrucción seca, otra pregunta que quedaba sin contestar. Nada que permitiese decidir si al otro lado había una persona o un sistema automático con acceso a sus archivos.
 
-Maja mantuvo una mano en el canto de la puerta.
+Llegó una segunda línea.
 
-—¿Para quién?
+`17:40. Cafetería frente al cine. Mesa del fondo. Ven sola.`
 
-Alana miró la bolsa.
+Faltaban veintisiete minutos. Podía comprobar la existencia del local y llegar andando. La hora tan próxima reducía las posibilidades de consultar a nadie.
 
-—Para vosotras. Necesito hablar contigo.
+Nora abrió los detalles del envío. El identificador cambiaba cada vez que salía de la pantalla. El interlocutor había visto los recortes. Seguía siendo lo único útil.
 
-Había cuatro cubiertos grapados a la bolsa. Alana conservaba suficiente información doméstica para alimentar a una familia a la que llevaba catorce días sin ofrecer una respuesta útil.
+Escribió `¿Quién eres?` y borró la pregunta. Si la respuesta podía llegar en persona, gastarla allí servía de poco. Si todo era una trampa, ninguna firma en el terminal iba a volverla menos trampa.
 
-—Habla.
+—Pues le ha salido regular.
 
-Alana no pidió entrar. Le habría resultado más fácil a Maja si lo hubiera hecho.
+Jessie estaba a su lado, leyendo por encima del terminal.
 
-—Es sobre Nora.
+Nora apagó la pantalla.
 
-La puerta se abrió lo justo para que pasara. Maja cerró después, y el golpe del resbalón al encajar sonó con más fuerza de la necesaria.
+—Podrías avisar antes de aparecer.
 
-—En la cocina —dijo Maja.
+—Llevo medio Storgata detrás de ti. —Jessie señaló el bolsillo de Nora—. ¿Quién quiere que vayas sola?
 
-—Se enfría.
+—No lo sé.
 
-—No importa.
+—Estupendo. Así es mucho más seguro.
 
-La bolsa quedó cerrada sobre la encimera. Alana se acercó a la nevera, pero Maja no se apartó. La hoja pitó y Maja la empujó con la cadera.
+Nora echó a andar. Jessie la acompañó sin pedir permiso. Los escaparates seguían abiertos aunque la tarde fuese negra. Dentro de una tienda, un dependiente colocaba guantes de colores bajo una lámpara blanca. Dos turistas pasaron discutiendo si las nubes arruinarían la excursión de auroras que acababan de pagar.
 
-—Necesito que Nora deje de acceder a los sistemas de Armstrong —dijo Alana.
+—Ha visto los recortes —dijo Nora.
 
-La mano de Maja se apartó de la nevera.
+—También soporte. Y ahora tienes la cuenta bloqueada.
 
-—Nora tiene una cuenta del instituto.
+—Por eso quiero escucharle.
 
-—Esas credenciales han generado actividad en una zona que no está destinada a alumnos.
+—Yo también. Desde otra mesa, si hace falta.
 
-—¿Cómo sabes lo que hace mi hija con ellas?
+—Ha dicho sola.
 
-—Las credenciales educativas comparten infraestructura con desarrollo. Algunas acciones activan una revisión aunque Nora no pretendiera salir de su ámbito. Quiero impedir que llegue a una incidencia formal.
+Jessie se detuvo lo justo para obligarla a volverse.
 
-—¿Qué hizo Nora?
+—Tienes dieciséis años y has quedado con un adulto anónimo. Vas conmigo o no vas.
 
-—Eso deberías preguntárselo a ella.
+Nora abrió la boca y volvió a cerrarla. Había calculado hasta el asiento que elegiría sin incluir ese dato elemental.
 
-—Te lo pregunto a ti. Has venido a mi casa.
+—De acuerdo, vienes —dijo.
 
-—Ha insistido en una ruta que el sistema ya había bloqueado.
+—Gracias por invitarme.
 
-—¿Qué ruta?
+* * *
 
-—No tengo ese detalle.
+La cafetería estaba llena de parkas mojadas y conversaciones demasiado altas. En la mesa del fondo había un hombre solo, con una taza intacta y un folio cuadriculado doblado bajo la mano. Cincuenta años, quizá. La barba de dos días le ensuciaba la cara y tenía hundida la piel bajo los ojos.
 
-—Pero tienes nuestra dirección.
+Al ver a Jessie, se levantó a medias.
 
-—Maja.
+—He dicho sola.
 
-—Y también tenías la de UNN. Llegaste sin llamar. Nadie de la familia sabía que ibas.
+—Y yo no acepto citas de mierda —dijo Jessie—. Puedes irte.
 
-—No podía discutirlo por teléfono.
+El hombre miró la puerta, la barra y el ventanal que daba a Storgata. Se sentó.
 
-—Podías avisar de que estabas allí.
+—Cinco minutos.
 
-—El hospital necesitaba una decisión. Yo podía darla.
+—¿Cómo se llama? —preguntó Nora.
 
-—Jean tenía familia.
+—Gunnar Rydberg.
 
-—El hospital pidió una respuesta sobre sus dispositivos y proyectos.
+—¿Trabaja para Armstrong?
 
-—¿Antes de que yo pudiera verla?
+—Fiabilidad. Sistemas desplegados.
 
-Entonces Alana se volvió hacia el pasillo.
+—Enséñenos algo.
 
-—Yo no decidí eso.
+Gunnar sacó una acreditación del bolsillo y la sostuvo entre dos dedos, sin soltarla. La foto mostraba una cara más descansada y el mismo capilar roto en el ojo. Nombre, departamento, una banda azul de acceso. Volvió a esconderla antes de que Nora pudiera acercar el terminal.
 
-—Decidiste algo a las tres y catorce.
+Nora alcanzó a leer la fecha de emisión.
 
-—No firmé a las tres y catorce.
+—Podría estar caducada —dijo.
 
-Era la primera precisión que Alana ofrecía. Había venido preparada para discutir aquella pantalla.
+—Sí.
 
-—El hospital se puso en contacto conmigo por una cuestión documental.
+Nora dejó el abrigo puesto. Jessie ocupó la silla que permitía ver la entrada. Gunnar no les ofreció café ni les preguntó por Maja.
 
-—En la tableta de Jean aparecía «03:14». Debajo ponía «Autorización — A. Armstrong».
+—¿Cómo consiguió los recortes?
 
-—La pantalla ha puesto juntas actuaciones distintas. Yo llegué después. Lo que firmé… preservaba material.
+—No los conseguí. Vi las salidas en la cola lateral de… Ese nombre no. Recibe reintentos fuera de soporte y no debería tocar tráfico escolar.
 
-—¿Qué autorizaste?
+—¿Y el informe? —preguntó Nora.
 
-—Una medida de preservación.
+—El primero. Puse «enrutamiento». Me equivoqué.
 
-—¿De qué?
+Gunnar miró la barra antes de continuar.
 
-—De material sujeto a custodia. No, sé cómo suena. El marco lo trataba como una obligación que sobrevivía a Jean.
+—El segundo iba a…
 
-—A ti no parece costarte.
+La puerta se abrió a su espalda. Entró un chico con una bolsa de deporte y se puso el último en la barra. Gunnar dejó la frase a medias, con la boca todavía abierta. No se volvió. Tenía las manos planas sobre el folio y esperó así hasta que el chico pidió, pagó y se apartó hacia el fondo. El papel se arrugó debajo, en el borde. Nora contó catorce segundos.
 
-La casa crujió por encima de ellas. Era una tabla del descanso junto al cuarto de Jessie. Maja alzó la vista. Su hija estaba sentada tres peldaños más arriba, medio oculta por la pared. Sostenía el terminal a la altura del muslo. En una esquina de la pantalla brillaba un punto rojo.
+—Es solo la puerta —dijo Jessie.
 
-La grabación continuó desde la escalera.
+Gunnar no contestó. Volvió a hablar más bajo.
 
-—Nora podría exponerse a una investigación —dijo Alana—. Si detiene ahora la actividad, puedo procurar que la compañía la trate como un uso imprudente de credenciales educativas antes de que pase a examen formal.
+—El segundo no llegó a presentarse.
 
-—¿Quién más sabe lo que ha hecho? —preguntó Maja.
+—¿Por qué?
 
-—Hasta hoy, una moratoria de Jurídico impedía que Seguridad iniciara un contacto visible. También me apartaba a mí.
+—Porque dejé de tener acceso.
 
-—¿Y ahora?
+Él sacó una pieza rectangular del bolsillo interior del abrigo. Era gris, más gruesa que una tarjeta de memoria común, con una banda de contactos en un extremo. Una pegatina blanca cubría parte del número de serie. Gunnar escribió algo en el papel cuadriculado antes de dejar el objeto frente a Nora. El folio quedó bajo su mano.
 
-—Ha vencido esta mañana. He decidido venir antes de que Seguridad se identifique con vosotras.
+—Tu madre no está donde debería estar.
 
-—¿Qué vas a frenar?
+—¿Dónde debería estar?
 
-—El examen formal de la cuenta.
+—Fuera de ejecución.
 
-—Qué cómodo.
+—Mi madre murió.
 
-—La palabra es «amenaza» —dijo—. Puedes usarla. Somos mayores.
+—Lo sé.
 
-Alana levantó la cabeza.
+—Entonces dígame qué se está ejecutando.
 
-—No os estoy amenazando.
+—Una salida con persistencia entre tareas. La cola conserva… —Gunnar tapó el folio—. Lo clasificaron como residuo no determinista.
 
-—Entonces se te da de puta pena tranquilizar.
+Las tres palabras estaban impresas en la pegatina. Debajo había una cadena de letras y cifras cortada por un espacio en blanco.
 
-—Jessie —dijo Maja.
+—¿Es una clave? —preguntó Nora.
 
-Desde allí, Jessie no se movió.
+—Una parte. Por sí sola no abre nada.
 
-La puerta del piso de arriba se abrió. En el descanso apareció Nora con su cuaderno pautado bajo el brazo. Bajó sin mirar a su hermana. El lápiz seguía prendido en la espiral.
+—¿Y la otra?
 
-Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión con Jean. El archivo seguía entero.
+—A salvo. No la busquéis desde vuestro terminal.
 
-Alana se apartó de la encimera y dejó libre el paso desde la escalera.
+Jessie señaló la tarjeta sin tocarla.
 
-—Nora, no debes volver a entrar en ese entorno.
+—Hablas como los que venden una estafa y prometen el resto después de cobrar.
 
-En el último peldaño, Nora abrió el cuaderno por una página marcada.
+—No quiero dinero.
 
-—¿Qué significa CARIES?
+—Quieres que dos hijas de Jean Marie Larsson confíen en ti porque sabes decir su nombre.
 
-Alana buscó apoyo en la encimera, calculó mal la distancia y golpeó la madera con los nudillos. La piel alrededor de su boca tomó un instante el mismo tono ceniza que la calle tras la ventana.
+Gunnar dejó la taza donde estaba y escondió la mano debajo de la mesa. Nora tardó un instante en entender que le temblaban los dedos.
 
-—¿Dónde has visto eso? —preguntó Alana.
+—Quiero que dejéis de producir señales en un canal que registra cada intento.
 
-—¿Lo reconoces?
+—¿Quién lo vio? —preguntó Nora.
 
-—Quiero saber cómo has obtenido esa información.
+—La incidencia saltó después de vuestras cargas. Primero a riesgo. Después salió de soporte.
 
-Entonces Nora volvió el cuaderno hacia ella. Había cuatro palabras en mayúsculas, cada una alojada entre dos líneas del pentagrama.
+—¿A dónde?
 
-—La aplicación me corrigió con una fórmula de Jean. Antes había visto `JM-L/0007`. Luego la moderación rechazó una foto por `CARIES` y la dividí en cuatro.
+Gunnar miró el terminal apagado de Nora.
 
-—¿Se repitió? —preguntó Maja.
+—No lo sé. La incidencia quedó derivada al circuito de Seguridad para preservar evidencias. No puedo ver el alcance ni si llegaron a ejecutar la medida.
 
-—Dos veces: `FLOR`, `CANELA`, `CARIES`, `NO`. Luego me suspendieron.
+Jessie retiró el aparato de la mesa y se lo metió a Nora en el bolsillo.
 
-La palabra hizo que Maja se volviera hacia Alana.
+—Dinos quién está al otro lado —dijo.
 
-CARIES era una palabra de aquella casa. La había dicho una niña de cuatro años delante del teclado y desde entonces no había salido de la cocina. Ahora estaba escrita a lápiz en el cuaderno de Nora, la tercera de cuatro. La página estaba vuelta hacia una mujer que no necesitaba leerla. Maja se puso entre Alana y la escalera.
+—No lo sé.
 
-—Le bloqueasteis la cuenta a mi hija. Y vuestra primera idea fue venir aquí antes que llamarme.
+—Acabas de afirmar que nuestra madre está ejecutándose.
 
-—El bloqueo lo ejecuta el sistema cuando detecta una desviación.
+—Hay una salida que no debería conservar estado.
 
-—Guardé capturas y recortes. No sé de dónde salió.
+—Claro. Así no dices «madre muerta». Dices «salida», la metes en una casilla y listo.
 
-—Mamá iba a quitarnos el terminal —dijo Jessie desde la escalera.
+Nora quiso agradecerle a Jessie que lo dijera y pedirle que se callase al mismo tiempo.
 
-—Os lo habría quitado.
+El calor del local se acumulaba bajo el jersey de Nora. Aflojó la cremallera del abrigo y miró la tarjeta. En la banda de contactos había una raya reciente, brillante. Un objeto usado.
 
-—Por eso no te lo contamos.
+—Necesito algo que podamos repetir —dijo—. El informe, por ejemplo.
 
-Ni siquiera Alana miró la página.
+—Al abrir un volcado, el sistema llama a casa.
 
-—Has manipulado una salida que no comprendes.
+—La hoja no —dijo Jessie.
 
-—Podía depender del recorte o del orden. Solo sé que se repitió.
+Gunnar la miró.
 
-—¿Qué tiene que ver esa palabra con Armstrong? —preguntó Maja.
+—El papel no sincroniza.
 
-Jessie entró en la cocina y apoyó el terminal contra la caja de pañuelos, con la cámara hacia Alana.
+Desdobló el folio. Había fechas e identificadores que Nora no alcanzó a leer antes de que él lo tapara.
 
-—Has puesto cara de haber visto un cadáver levantarse —dijo—. Y tú la conocías.
+—¿La corrección musical salió del mismo sitio? —preguntó Nora.
 
-—Apaga eso.
+La silla de Gunnar chirrió.
 
-—Ven y apágalo tú.
+—La pegatina no pone música.
 
-—Jessie —dijo Nora.
+—Pero sabe de qué hablo.
 
-—¿Ahora vamos a dejar que mienta sin grabación?
+Gunnar bajó la vista hasta la cuadrícula. En una casilla, escrita con una punta más roma, Nora distinguió `/0007` antes de que el pliegue volviera a ocultarlo.
 
-Alana miró a Maja.
+—La corrección llegó por la cola lateral, en un reintento que no… Tenéis que marcharos.
 
-—Esa grabación solo va a perjudicaros.
+—¿Es la misma salida?
 
-—¿Quién actuaría contra mis hijas? —preguntó Maja.
+—Nora —dijo Jessie.
 
-—Un fragmento fuera de contexto puede… Puede terminar donde no debe.
+Su hermana no miraba a Gunnar. Atendía a la calle.
 
-—Entregadme las capturas y cualquier dispositivo donde hayáis guardado datos. Confirmaré que no se abra una incidencia contra Nora.
+Él volvió la cabeza hacia el ventanal. El reflejo de la máquina de café ocultaba parte de la acera. Justo en el borde se detuvo un hombre con una parka oscura. Frente al escaparate de enfrente, se sujetaba el cuello gris con la derecha y mantenía la izquierda hundida en un bolsillo.
 
-—¿Por qué las necesitas si Armstrong ya conserva la actividad? —preguntó Maja.
+—Guardad la tarjeta fuera de cualquier lector conectado —dijo Gunnar.
 
-—Necesito saber qué habéis interpretado. Y qué puede salir de aquí.
+—¿Por qué? —preguntó Jessie.
 
-Nora cerró el cuaderno sobre el dedo sin retirar la mano.
+—Conectada, llama a casa.
 
-—Que sea Jean… No. Solo… —Nora no terminó.
+—¿Qué cosa?
 
-Nora sacó el dedo y dejó que la tapa cayera. El impulso de Maja por apartarla del golpe cedió ante la necesidad de mirar a Alana.
+—Seguirla.
 
-—Claro. También tenemos una tarjeta y una clave. Te hacemos un paquetito.
+Gunnar plegó el folio en cuatro. La taza seguía llena hasta la misma altura que cuando se sentaron. En toda la tarde no la había levantado ni una vez, y el plato de debajo seguía limpio, sin cerco. Esta vez la taza se movió cuando la rozó y el café dejó una media luna en el plato.
 
-Alana se volvió hacia Jessie.
+—Se acabó.
 
-—¿Qué os ha entregado?
+—Quedan dos minutos —dijo Nora.
 
-Maja buscó la cara de Nora.
+—Ya no.
 
-—¿De qué está hablando?
+Se levantó y caminó hacia los aseos, en lugar de hacia la puerta. Jessie cogió la tarjeta con la servilleta y la guardó en el bolsillo interior de su abrigo.
 
-—Gunnar Rydberg me citó. Dijo que Jean no está donde debería y nos dio una tarjeta con parte de una clave. Sigue desconectada.
+—¿Qué haces?
 
-—¿Cómo os encontró? —preguntó Alana.
+—Evitar que dejes tus huellas por toda la pista misteriosa.
 
-—¿Y pensabais contármelo cuándo? —preguntó Maja.
+—Eso solo sirve en las películas.
 
-Jessie señaló a Alana con la barbilla.
+—Perfecto. Tú crees al señor Papel y yo confío en el cine.
 
-—En cuanto terminase de demostrar por qué era mala idea contar cosas a adultos.
+Nora buscó en el ventanal la parka oscura. El hombre ya no estaba frente a la tienda.
 
-Maja dejó pasar el golpe. Discutirían esa parte cuando la casa estuviera vacía.
+—Nos vamos —dijo Jessie.
 
-—¿Qué más pasó?
+* * *
 
-Nora miró el cuaderno cerrado.
+Salieron con una pareja que discutía por un gorro. Gunnar apareció media manzana más arriba, junto a un grupo de turistas con trípodes.
 
-—Después llegó su archivo: «Si me pasa algo, buscad NIDHOGG».
+Jessie tiró hacia el sur. Nora mantuvo el paso hasta el siguiente escaparate y usó el reflejo para mirar atrás.
 
-Alana miró a Jessie.
+La parka oscura reapareció detrás de ellas.
 
-—No abráis nada suyo. Si vuelve, dejadlo fuera. No aceptéis nada más.
+El cristal deformaba la figura entre maniquíes, pero el hombre repitió el gesto: una mano en el cuello, la otra en el bolsillo. Dos locales después volvió a surgir entre los reflejos.
 
-—¿Trabaja para ti? —preguntó Jessie.
+—Dos escaparates —dijo Nora, sin bajar el paso.
 
-—Trabaja en Armstrong.
+—Ya.
 
-—Te he preguntado si trabaja para ti.
+—Podría ir detrás de Gunnar.
 
-—La tarjeta se queda sin conectar.
+—O podría esperar a que nos separemos.
 
-—Tú sí sabes a qué nos vincula CARIES —dijo Maja.
+—Podemos dejar la tarjeta aquí.
 
-—Sé que esos sistemas pueden haceros daño.
+—Y venir mañana a recogerla, supongo.
 
-Maja tendió los guantes y señaló el pasillo.
+—Si la quiere, irá a por ella.
 
-—Fuera.
+—Si la quiere, sabrá que la hemos soltado. Sigue andando.
 
-—Escúchame. Por Jean, si no por mí.
+Jessie cambió de acera con un grupo que cruzaba sin orden hacia un autobús. No miró al hombre. Eligió el restaurante indio de la esquina y empujó la puerta justo cuando salían tres clientes cargados con bolsas de comida.
 
-Cuando Maja abrió la puerta de la calle, el aire frío barrió el pasillo y entró hasta la cocina.
+El aire caliente olía a comino tostado y cardamomo. Una familia esperaba junto al mostrador de recogida; en el comedor, dos camareros juntaban mesas para un grupo que acababa de llegar. Jessie atravesó el vestíbulo como si tuviera una reserva. Nora quiso mirar la puerta, pero el cristal devolvía la fila de abrigos. Su propia cara reaparecía allí pegada a la de su hermana.
 
-—Jean ya pagó tu forma de protegerla.
+—Buenas tardes —dijo un camarero—. ¿Mesa para dos?
 
-Alana pasó junto a Maja con los guantes en la mano y se detuvo en el umbral.
+—Estamos buscando a nuestro padre —contestó Jessie.
 
-—Si alguien contacta con Nora, llamadme antes de responder.
+—¿Cómo se llama? —preguntó el camarero.
 
-—No vuelvas a entrar en esta casa con su nombre en la boca.
+—Ya lo hemos visto. Gracias.
 
-Alana salió. Jessie alcanzó la puerta antes que Maja y la cerró de un golpe.
+Nora no tuvo tiempo de protestar. Su hermana pasó entre el mostrador y un perchero, hacia la segunda sala. Allí había otra puerta de cristal que daba a la calle lateral. Un repartidor la sujetó con el hombro mientras equilibraba dos cajas térmicas.
 
-El papel de la bolsa crujió al enfriarse.
+—Gracias —dijo Jessie, y arrastró a Nora detrás de él.
 
-—Muy fino todo —dijo Jessie.
+Fuera, el aire helado le humedeció los ojos a Nora después del restaurante. El chico de las cajas bajó hacia el puerto. Ellas doblaron en sentido contrario, junto a una pareja con un carrito de bebé. Jessie se permitió entonces mirar atrás.
 
-Maja volvió a la cocina. La bolsa seguía cerrada.
+—¿Está?
 
-—Quiero una copia de esa grabación —dijo.
+—No lo sé.
 
-Jessie despegó el terminal de la caja de pañuelos.
+—¿Gunnar?
 
-—¿Eso significa que nos crees?
+Nora buscó el gorro entre la gente de Storgata. Los trípodes continuaban hacia la esquina, pero Gunnar ya no se distinguía entre los demás. Tampoco el hombre de la parka.
 
-—Pásame la grabación. Alana reconoce algo y ha venido a impedir que lo toquéis.
+—Tampoco.
 
-—Mamá…
+Jessie palpó el bolsillo donde guardaba la tarjeta.
 
-—Eso sigue igual. Dame el terminal.
+—Nos vamos a casa.
 
-Nora dejó el cuaderno junto a la cena.
+—No podemos meterla en ningún lector.
 
-—Pero ya no quieres que pare.
+—Eso ha dicho él.
 
-—Copiamos la grabación. Luego llamo a alguien que Armstrong no pague. La tarjeta no se enchufa.
+—Y tú no le crees.
 
-—Eso suena mucho a parar con más palabras —dijo Jessie.
+—Le temblaban los dedos. La tarjeta se queda envuelta.
 
-—Podéis seguir. Sin entregar otra cuenta ni otro terminal.
+Tomaron un desvío entre tiendas hasta una parada concurrida. El primer autobús de vuelta abrió las puertas, pero Jessie lo dejó marchar porque, una vez en marcha, solo ofrecía una salida. Esperaron cinco minutos entre la cola del siguiente, un hombre con una niña dormida sobre los hombros y dos estudiantes que compartían auriculares. Allí nadie podía acercarse sin ser visto.
 
-—¿Y si Gunnar vuelve?
+Un portal se abrió frente a la parada. Salió un hombre de unos cuarenta años, con una parka oscura y el cuello gris levantado. Antes de echar a andar se metió las manos en los bolsillos. Su cara no mostró reconocimiento al pasar junto a las gemelas.
 
-—Le escucharé yo. Vosotras no le abriréis a solas.
+El terminal de Nora vibró. Acababa de recibir un archivo de texto que Gunnar Rydberg había dejado programado. Solo una línea era visible bajo el nombre.
 
-—Alana ha dicho casi lo mismo.
-
-—Alana quería las pruebas. Yo quiero una fuente que le lleve la contraria.
-
-Maja buscó a Inger Solbakken, jefa de UCI, y llamó.
-
-Inger respondió al quinto tono.
-
-—Maja. ¿Ha pasado algo con las chicas?
-
-—Necesito que me aclares una cosa del ingreso de Jean.
-
-Al otro lado hubo un roce y después una puerta que se cerraba.
-
-—Estoy en el hospital.
-
-—Mejor. En la tableta, una apertura técnica y «Autorización — A. Armstrong» parecían una sola cosa. Alana dice que son actuaciones distintas y que preservó material. Ha venido para que Nora deje de investigar.
-
-Inger tardó tanto en responder que Maja comprobó la pantalla. La llamada continuaba.
-
-—¿Sigues ahí?
-
-—Dime las palabras exactas.
-
-Maja se las dio y describió la pantalla. Nora abrió el cuaderno. La bolsa de Alana seguía entre las tres, cerrada.
-
-—Esos campos pertenecen a módulos distintos —dijo Inger—. UNN no puede convertir su proximidad en una explicación.
-
-Un tecleo breve cruzó la llamada.
-
-—Y no me refiero a la línea de Armstrong. Hay otra referencia, atribuida a Jean.
-
-—Entonces, ¿qué firmó Jean?
-
-—Lo que firmó tu exmujer no lo firmó aquí.
+Si me pasa algo, buscad NIDHOGG.
