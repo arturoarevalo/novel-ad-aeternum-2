@@ -16,8 +16,6 @@ La plataforma admitió las credenciales de Nora al primer intento.
 
 Nora abrió el calendario del curso antes que nada. La convocatoria de marzo seguía sin fecha de apertura y sin lista. Las entregas de diciembre figuraban recibidas, con la fecha de cierre al lado.
 
-El álbum había vuelto al menú. No contenía nada. El historial de cargas empezaba aquella mañana y las ocho de diciembre no estaban en ninguna parte.
-
 —Ya te va —dijo Mikkel sin levantar la vista.
 
 —Ya me va.
@@ -50,11 +48,7 @@ La tutora trajo dos hojas impresas y la captura del aviso.
 
 Nora comprobó que constaban. Después dio la vuelta a las hojas.
 
-El mismo aviso llegó otra vez a las once cincuenta y ocho. La primera línea era idéntica. La segunda ya no estaba.
-
-Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. Puso las dos horas con su referencia de incidencia al lado. Subrayó la línea que había desaparecido. En el apartado de origen puso `responsable desconocido`.
-
-Bajo `datos` quedaron las dos cosas del día: la cuenta abierta a las ocho y diez y cerrada a las once cincuenta y dos. No abrió `hipótesis`.
+Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. En el apartado de origen puso `responsable desconocido`.
 
 La tutora se detuvo en su mesa al terminar la clase.
 
@@ -62,15 +56,7 @@ La tutora se detuvo en su mesa al terminar la clase.
 
 —El viernes, en la plataforma.
 
-—La plataforma no me deja entrar. Han llegado dos avisos, con seis minutos de diferencia y dos referencias distintas.
-
-La tutora abrió la ficha en su propio terminal y la giró lo justo para leerla ella.
-
-—Aquí aparece uno.
-
-—¿Cuál?
-
-—El que hay cuando abro. No puedo decirte más.
+—La plataforma no me deja entrar. Han llegado dos avisos.
 
 —Mientras dure, entregas en papel —dijo la tutora—. Desde aquí no puedo hacer más.
 
@@ -108,15 +94,7 @@ La responsable giró la pantalla antes de que Maja se sentara.
 
 —¿Qué evalúa?
 
-—Exposición. No dice de qué.
-
-—¿Quién lo aclara?
-
-—El aviso no lo dice.
-
-—¿Quién lo cierra?
-
-—Tampoco. El aviso pide que la entidad conste enterada. Eso lo he contestado esta mañana, y he pedido el origen.
+—Exposición. No dice de qué. El aviso pide que la entidad conste enterada. Eso lo he contestado esta mañana, y he pedido el origen.
 
 —¿Y qué te han devuelto?
 
@@ -172,23 +150,9 @@ Sin barca del centro no había forma de bajar a Sørkoppen por el procedimiento 
 
 Maja pidió copia.
 
-La responsable la imprimió y se la dio doblada por la mitad. En la primera línea, el número de referencia terminaba en otras cifras.
+La responsable la imprimió y se la dio doblada por la mitad.
 
-—¿Cuál de las dos? —preguntó Maja.
-
-—Es el mismo aviso.
-
-—La pantalla dice una cosa y el papel dice otra.
-
-—El sistema devuelve el mismo asunto para las dos.
-
-Maja puso el papel junto al monitor. Fotografió la pantalla con la referencia a la vista y guardó la copia doblada en el bolsillo interior.
-
-—Necesito la hora de emisión.
-
-—Consta la de entrada aquí. La de emisión no viene.
-
-—Anótalo tú también.
+Maja fotografió la pantalla y guardó la copia en el bolsillo interior.
 
 La responsable abrió otra pantalla y la giró hacia las dos.
 
@@ -342,10 +306,6 @@ Nora entró desde el pasillo con el terminal en la mano y la pantalla vuelta hac
 
 —La segunda es de las once cincuenta y ocho.
 
-—¿Y la referencia?
-
-—Distinta. Se separan en el cuarto grupo.
-
 Maja fotografió también aquella pantalla, colocó la hoja del instituto la cuarta en la fila y mandó las dos imágenes juntas.
 
 **Recibido. Cuatro documentos del 3 de enero. Los incorporo como están, sin traducir.**
@@ -384,13 +344,13 @@ En el rellano quedaron el felpudo levantado y la puerta abierta contra el tope.
 
 —Aslak no lo escribe en ningún sitio.
 
-—¿Y mañana el instituto? —preguntó Nora.
+—¿Y mañana el instituto?
 
-—Mañana lo miramos.
+—Te llevo yo.
 
-—Tengo dos hojas que entregar.
+—Tengo dos hojas que entregar. Y el impreso.
 
-—Las entregas. Ya veremos cómo.
+—Lo firmo el viernes.
 
 —El de la gasolinera sabe dónde vivimos —dijo Jessie desde la puerta.
 
