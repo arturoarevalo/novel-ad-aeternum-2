@@ -287,3 +287,150 @@ Y el argumento de gobernanza, que ya usé una vez y sigue siendo válido: **el c
 ---
 
 **Resumen en una línea.** Los tres acosos no son la pieza suelta —uno sostiene el clímax, otro está bajo veto y el tercero obliga a editar un capítulo `nucleo` y hunde M3—; la pieza suelta es el espejo, que es el pasaje con más «ninguna» y «nadie» por palabra de toda la novela, que dos de tres lectores nombran, que la auditoría adversarial ya había mandado borrar y cuya reversión el autor dejó firmada con una condición que hoy se cumple; y la decisión que los lectores echan de menos no hay que inventarla, porque G-1 ya la plantó en el cuaderno de Nora y el capítulo termina sin cobrarla.
+
+---
+
+# Segunda vuelta · W5c
+
+**A2 · 2026-08-18.** Encargo de A0 tras remedir con el espejo ya fuera: `cap-n4` sigue nombrado por dos de tres, y ahora señalan la figura repetida. Evalúo las tres vías que me pide, en su orden.
+
+## 14. Lo que la remedición dice — y dos correcciones a mi informe anterior
+
+**La excisión salió gratis y compró un lector.** Medianas w5b → w5c **idénticas en los once ejes** (global 8,5 · ritmo 7,5 · duelo 9,5). Ningún lector echa de menos a Coro ni pregunta quién actúa: el riesgo que declaré en §7.2 no se materializó. Y `cap-n4` pasa de **3/3 a 2/3**. No bastó, pero no fue gratis en el sentido contrario: no costó nada.
+
+**La mitad de mi vía no se ejecutó.** Recomendé dos cosas: la excisión **y** que el final pagara (±0 palabras, `:449–:463` de entonces). Solo entró la primera. El final sigue difiriendo tres veces seguidas —«—Mañana lo miramos», «—Ya veremos cómo», «—Ropa para una semana»—, y **A6-1 llama al capítulo «inercia»**, que es la misma palabra con otra letra. Lo digo sin reproche y con una consecuencia práctica: **la parte barata del arreglo sigue disponible y sigue costando cero palabras.**
+
+**Corrección 1 (mía, y me la señala A0 con razón): cortar la escena 1 NO obliga a editar `cap-32:93`.** Lo escribí demasiado fuerte. Los «cuatro documentos» y las «tres actuaciones» sobreviven mientras la actuación sobre la cuenta **exista**, aunque no se dramatice: hoy la escena final ya la reporta («La habían impreso en el instituto antes de que la cuenta se cerrara otra vez»). El capítulo `nucleo` no se toca en ninguna de las vías de abajo. Retiro el argumento.
+
+**Corrección 2 (del repositorio, y urge): M3 no está en 49,1 %. Hoy mide 46,7 %.** El frontmatter sigue declarando `pov: Nora → Maja → Jessie → **Jean** → Maja` con cuatro escenas. `metricas.m3` reparte por escena solo si el número de POV coincide con el de escenas; al no coincidir, reparte proporcionalmente y le resta a la familia 479 palabras que son suyas. Verificado ejecutando `metricas.m3` sobre el árbol de hoy:
+
+| | Parte III | familia | % |
+|---|---:|---:|---:|
+| tal como está el repositorio | 20.388 | 9.529 | **46,7 %** |
+| con `pov` corregido a cuatro | 20.388 | 10.008 | **49,1 %** |
+
+**Es una regresión falsa esperando a que alguien la mida y se la atribuya a la excisión.** Una línea de frontmatter. `validar-frontmatter.sh` no lo detecta (no compara POV con escenas) y el manifiesto sigue con `palabras_real: 2878`. Las dos cosas van en la checklist de §21.
+
+## 15. El defecto nombrado, con precisión: son dos figuras, no una
+
+El capítulo ejecuta **dos** figuras distintas y solo una está repetida:
+
+- **(i) «los papeles no coinciden entre sí»** — dos referencias, dos horas, una línea que desaparece. Hoy se ejecuta **cuatro veces**: Nora en la escena 1 (`:53`, `:55`, `:65`, `:67-73`), Maja en la 2 (`:175-191`), Nora otra vez en la 4 (`:345-347`), y se **enuncia** una quinta en la línea que Maja manda a Astrid: **«No coinciden entre sí.»**
+- **(ii) «los papeles usan las mismas palabras»** — «No consta responsable individual» en dos documentos de instituciones que no tienen nada que ver. Se ejecuta **una sola vez**, en boca de Jessie (`:265-279`), y es el pago del capítulo, uno de los tres modos con que A7 declaró escenificada la ambigüedad protegida.
+
+**La redundancia que nombran los lectores es (i). (ii) no es redundante: es el hallazgo.** A6-1 dice «tres documentos comparados en tres escenas casi idénticas»: describe (i). A6-3 dice «no toda reiteración necesita convertirse en escena completa»: describe la ejecución de (i) como escena en tres sitios. **La instrucción operativa está en su frase, literal: la reiteración se queda; las escenas completas, no.**
+
+Y A0 tiene razón en dónde debe quedar (i): el capítulo ya tiene la mesa con los tres papeles en fila. **Ahí (i) se enuncia una vez y no cuesta una palabra, porque ya está escrita.**
+
+## 16. Vía A · recomendada — desduplicar (i), bajar la escena 1 al peso de un beat, y cobrar el final
+
+Tres operaciones, todas por sustracción salvo la última, que es a ±0.
+
+### 16.1 · Hoja de cortes (loci del fichero de hoy, palabras medidas con el tokenizador de M8)
+
+| # | locus | qué sale | −pal |
+|---|---|---|---:|
+| **D-1** | `:19` | «El álbum había vuelto al menú…» — la tercera comprobación de la mañana; la restitución ya está en `:15` y `:17` | −22 |
+| **D-2** | `:53` | «El mismo aviso llegó otra vez a las once cincuenta y ocho…» — **el hecho no se pierde: lo trae Nora en la escena 4** («Ha llegado otra vez. Sin la segunda línea.»), que es donde A0 quiere la figura | −22 |
+| **D-3** | `:55` parcial | «Puso las dos horas con su referencia de incidencia al lado. Subrayó la línea que había desaparecido.» — **se conserva `responsable desconocido`**, que es el gancho temático | −17 |
+| **D-4** | `:57` | «Bajo `datos` quedaron las dos cosas del día… No abrió `hipótesis`.» | −35 |
+| **D-5** | `:65` parcial | «, con seis minutos de diferencia y dos referencias distintas» — la réplica de G-1 sobrevive entera en su función | −8 |
+| **D-6** | `:67`–`:73` | la ficha girada y «—Aquí aparece uno. / —¿Cuál? / —El que hay cuando abro. No puedo decirte más.» — `:75` («Desde aquí no puedo hacer más») ya dice lo mismo mejor | −30 |
+| **D-7** | `:175`–`:183` parcial | se conserva «La responsable la imprimió y se la dio doblada por la mitad.»; sale la referencia distinta y las cuatro réplicas de «¿cuál de las dos?» | −41 |
+| **D-8** | `:185`–`:191` parcial | se conserva que Maja fotografía y guarda la copia; sale «—Necesito la hora de emisión / —La de emisión no viene / —Anótalo tú también» (**y con ello la alerta VOZ de la auditoría adversa: Maja dejaba de hablar como Maja y hablaba como Nora**) | −30 |
+| **D-9** | `:113`–`:119` parcial | «—¿Quién lo aclara? / —El aviso no lo dice. / —¿Quién lo cierra? / —Tampoco.» — el principio queda enunciado en el propio aviso (`:105`) y en `:127` | −15 |
+| **D-10** | `:345`–`:347` | «—¿Y la referencia? / —Distinta. Se separan en el cuarto grupo.» — se conserva «—Enséñame las dos» y «—La segunda es de las once cincuenta y ocho», que sostienen los **cuatro documentos** | −10 |
+| | | **total** | **−230** |
+
+**Presupuesto: −230, banda −215…−260.** Si A4 necesita más, sale del mismo aparato comparativo y de ningún otro sitio.
+
+### 16.2 · La operación a ±0 que quedó pendiente
+
+Se ejecuta ahora, con el mismo perímetro de mi informe anterior (§5): en `:379–:393` —fuera del bloque congelado por N4-1, que hoy va de `:353` a `:365`— el final deja de aplazar tres veces y **la marcha pasa a ser una decisión de Maja con un precio nombrado**. `AGENCIA` / `INTERIORIDAD`, **±0 palabras**, marzo **no** se cancela (mandan `40:167` y `28:159-161`), sin nuevo locus de Kongsbakken (P-41), cierre sobre réplica (M4 = 0).
+
+### 16.3 · Qué queda intacto, punto por punto
+
+- **P-38: la escena 3 no se toca. Diff 0.** Ni las cuatro réplicas (`:257–:263`) ni su contexto. **Mi vía no las roza ni las comprime, ni por dentro ni alrededor.**
+- **La única ejecución dramatizada de la figura sobrevive, y es la buena**: `:265-279`, Jessie y la frase idéntica. Deja de ser la cuarta vez que el lector ve comparar papeles y pasa a ser la única.
+- **N4-1**: el bloque del altillo (`:353–:365`) y sus dos vecinos (`:351` y `:367`) quedan con la misma forma y el mismo texto. Ningún corte cae a menos de ocho líneas de él.
+- **`cap-32:93`** sigue siendo exacto: tres actuaciones, y los cuatro documentos siguen existiendo (D-10 conserva las dos notificaciones que hacen el cuarto).
+- **`cap-26:81`**, CH-27, CH-28, M2 = 1, `n4:85` (el ancla de A7), G-1 (propósito → interrupción → renegociación → precio → plan), la ruta de marzo, la tutora, el charco, Mikkel y el mural: **todo se queda**.
+- **P-6 / P-26 (adultización de Nora): la vía mejora el cumplimiento.** D-3, D-4 y D-10 son precisamente los tres sitios donde una chica de quince años hacía trabajo forense.
+
+### 16.4 · Números
+
+| medida | hoy | tras la vía A |
+|---|---:|---:|
+| `cap-n4`, palabras | 2.395 (**el más largo del libro**) | **2.165** (5.º; deja de ser el más largo y entra en el pelotón de los largos del autor: `cap-34` 2.267 · `cap-37` 2.234 · `cap-19` 2.174 · `cap-06` 2.172 · `cap-18` 2.161) |
+| escenas | 507 · 715 · 505 · 668 | **373 · 629 · 505 · 658** |
+| ejecuciones de la figura (i) | 4 + 1 enunciación | **0 + 1 enunciación** |
+| ejecuciones de la figura (ii) | 1 | **1** (intacta) |
+| M3 · Parte III (con `pov` corregido) | 49,1 % | **48,5 %** ✔ |
+| diálogo del capítulo | 35,7 % | **≈34,8 %** (banda rederivada 32–38 %) |
+| total del libro | 79.792 | **79.562** ✔ en banda (79.000–81.000) |
+
+Margen consumido de los 792: **230**. Quedan 562 sin gastar.
+
+## 17. Qué se pierde — y esto es lo que A0 me pide que no esconda
+
+1. **El capítulo deja de demostrar que el sistema no se pone de acuerdo consigo mismo, y pasa a afirmarlo.** Cuatro pruebas dramatizadas se convierten en una prueba (la de Jessie, que además es de otra clase) más cuatro palabras de Maja. Si un lector no acepta la afirmación, ya no tiene con qué comprobarla. **Es una pérdida real de densidad probatoria, y es exactamente lo que dos lectores piden.**
+2. **R4 queda revertida casi entera.** De las +800 palabras de la reserva —500 de espejo y ~300 de costuras— sobreviven las de la escena 3. La conclusión honesta, para el registro: **R4 se asignó mal, y han hecho falta cuatro hitos y cuatro intervenciones para demostrarlo.** No es un fallo del escritor: la orden pedía costuras en cuatro sitios y las costuras eran la misma figura cuatro veces.
+3. **Nora pierde su método.** «No abrió `hipótesis`» era el eco en N4 de `S10-conservar`, que es arco de v0 pagado en 22 y en 40. El arco no se rompe (vive en sus loci propios), pero el capítulo deja de rimar con él.
+4. **Se pierde una de las dos «no-respuestas» mejores de la escena 2** (D-9). Las dos que quedan —«Entonces dura.» y «Catorce.»— son mejores, pero eran tres.
+5. **No garantiza el criterio de salida.** Ver §20.
+
+## 18. Vía B · borrar la escena 1 entera — con los números corregidos, y por qué sigue dominada
+
+Con las dos correcciones de §14 aplicadas, la vía B es más viable de lo que dije: **no obliga a tocar `cap-32:93`**. Los números:
+
+| | vía A (−230) | vía B (−507) |
+|---|---:|---:|
+| capítulo | 2.165 | 1.888 |
+| libro | 79.562 | 79.285 (también en banda) |
+| **M3 Parte III** | **48,5 %** ✔ | **47,8 %** ✗ (por debajo del objetivo) |
+| escenas de institución | 3 (una en peso de beat) | 2 |
+| figura (i) | 0 ejecuciones | **2 ejecuciones** (Maja y Nora en la mesa) ← *el defecto nombrado sigue dentro* |
+
+**Y lo que la vía B se lleva por delante:** `n4:85` (el ancla que A7 declaró y protegió), G-1 entera, la ruta de marzo —que es el único material con el que el final puede pagar—, la tutora, la textura adolescente (Mikkel, el mural, la mirada de dos mesas más allá), la única escena en solitario de Nora en toda la Parte III y la dramatización de CH-27, que quedaría contestado solo en estilo indirecto nueve capítulos después de plantarse en N2.
+
+**Compra 277 palabras más y paga con seis cosas, una de ellas protegida.** Y, sobre todo: **deja la figura repetida dentro del capítulo dos veces**, porque la comparación de Maja y la de Nora en la mesa sobreviven. Es la vía que responde al tamaño y no al defecto. Sigo sin recomendarla.
+
+*(La variante «comprimir la escena 3 alrededor de P-38» tampoco la recomiendo, y no por el veto: `:243-251` es lo que hace verdadera la frase «un expediente policial cerrado con **una autorización posterior**» de `cap-32:93`, y `:265-279` es la figura (ii). La escena 3 es la que menos sobra de las cuatro.)*
+
+## 19. Vía C · no hacer nada más
+
+**No es mi juicio hoy, y digo por qué con la regla que yo mismo escribí.** En el informe anterior puse: «si después de esto vuelve a ser nombrado, la respuesta correcta será dejarlo en paz». Me acojo a la letra de mi regla y a un hecho que la modifica: **el diagnóstico ha cambiado de naturaleza.** Hasta hoy nombraban propiedades del capítulo (largo, plano, inerte). Hoy nombran **una figura concreta, repetida un número contable de veces, cuya supresión no quita ningún hecho de la trama**. Eso no es perseguir una diana móvil: es la primera vez que el jurado nos entrega un objeto extraíble.
+
+Además, la vía A tiene **cuatro apoyos independientes** que apuntan al mismo material: A6-1 (W5c), A6-3 (W5c), la auditoría adversarial de W3 —que marcó I-2R DUDOSA y I-3R NO PAGA y cuya lista nunca se ejecutó del todo— y **dos prohibiciones vivas de A7** (P-6/P-26 sobre la adultización de Nora, y la alerta VOZ sobre Maja). Cuando cuatro jueces distintos señalan las mismas líneas por cuatro razones distintas, cortar no es perseguir un fantasma.
+
+**Y ahora la regla de parada, que esta vez enuncio para no renegociarla:** **esta es la última intervención sobre `cap-n4`.** Si en el hito siguiente vuelve a ser nombrado, la respuesta es no hacer nada, y la razón estará escrita de antemano en §20. Cuatro intervenciones sobre un capítulo es el límite de lo que este proceso puede hacer sin empezar a escribir otro capítulo distinto.
+
+## 20. El hallazgo que importa más que `cap-n4`
+
+Los dos lectores que no se quedaron en el capítulo dicen, en la misma respuesta, algo que ya no es de `cap-n4`:
+
+> **A6-1:** «**La Parte III en conjunto se hunde bajo actas, moratorias y burofaxes.**»
+>
+> **A6-2** (que abandona en `cap-29` «La poda»): «cautelar denegada, llamada ministerial, banco frente a Ishavskatedralen y un acta en blanco, **todo en el mismo registro de “la institución se abstiene”, y es el tercer capítulo consecutivo en ese modo**».
+
+**Eso es un presupuesto de modo, no un defecto de capítulo.** La Parte III encadena `cap-27`, `cap-28`, `cap-29` en el mismo registro, y `cap-n4` es su ejemplar más visible porque es nuestro y es el más largo. **Aunque la vía A funcione perfectamente, el problema del modo sigue ahí**, y el criterio de salida puede volver a fallar en el hito siguiente **en `cap-29`**, que es del autor.
+
+Mi recomendación para W6, que no decido yo: dejar de optimizar capítulos de uno en uno y **hacer el censo de modo de la Parte III** —cuántos capítulos consecutivos en «la institución se abstiene», cuáles pueden cambiar de registro sin perder función— antes de tocar nada más. Es el mismo movimiento que funcionó con `cap-n3`: la respuesta no estaba dentro del capítulo.
+
+Y una observación de gobernanza, para que A0 decida y no yo: con el criterio «ningún capítulo nombrado por dos o más lectores», **`cap-n4` en 1/3 lo pasaría, pero `cap-29` en 2/3 lo volvería a fallar**. Conviene decidir de antemano si el criterio se aplica al libro (cualquier capítulo) o a lo nuestro (capítulos de la revisión), porque las dos lecturas llevan a oleadas distintas.
+
+## 21. Checklist de esta pasada
+
+| # | tarea | quién | nota |
+|---|---|---|---|
+| **F-1** | `pov: Nora → Maja → Jessie → Maja` en `cap-n4.md` | A8 / A1 | **bloqueante**: sin esto M3 informa 46,7 % y parece regresión de la excisión |
+| **F-2** | `palabras_real` de `cap-n4` (2.878 → valor tras la pasada) vía `actualizar-metadatos.sh` | A1-mant. | el manifiesto sigue en 2.878 |
+| **A7-1** | Los diez cortes de §16.1 (ninguno toca `:257–:263` ni el bloque `:353–:365`) y el precio del final de §16.2 | **A7**, antes de ejecutar | y cerrar la revisión abierta sobre el vecino nuevo del bloque del altillo |
+| **A4-1** | Ejecutar −230 (banda −215…−260) sin reescribir nada que no esté en la hoja | A4 | la sustitución del final la escribe A3b |
+| **A5-1** | Cuatro documentos, dos notificaciones, `32:93`, `26:81`, calendario | A5 | |
+| **A8-1** | M8 79.562 · M3 48,5 % · diálogo 34,8 % (banda rederivada 32–38 %) · M4 = 0 · M9 sin cambios | A8 | |
+| **OT-N4** | §11 nuevo: la hoja de §16.1, la baja definitiva de las costuras de R4, la banda de palabras 2.100–2.250 y la regla de parada de §19 | A2 | lo escribo cuando A7 firme |
+
+---
+
+**Resumen de la segunda vuelta.** No sobra un acoso: sobra una figura ejecutada cuatro veces. Se quita entera de tres sitios, se deja donde es distinta y buena —Jessie y la frase idéntica—, se enuncia una sola vez donde A0 dice, que es la mesa con los tres papeles, y la escena 1 baja al peso de un beat sin perder ni el ancla de A7 ni el querer que G-1 le puso. Son 230 palabras, ninguna de ellas de la escena 3, y con ellas el capítulo deja de ser el más largo del libro. Lo que se pierde es densidad probatoria y lo que queda de R4. Y lo que viene después no es `cap-n4`: es el modo de la Parte III.
