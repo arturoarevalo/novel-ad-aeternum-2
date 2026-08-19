@@ -6,7 +6,7 @@ fecha: 2060-11-26T11:15
 estado: terminado
 analepsis: false
 estado_plan: P
-proteccion: total
+proteccion: nucleo
 ot: OT-03
 delta_objetivo: 0
 orden_lectura: 3

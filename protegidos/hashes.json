@@ -5,7 +5,7 @@
       "cuerpo": "d3a99aba183818d05e1c00e7079b55898cc4a06c7f03fdc7f1b0e4fbef15d1ff"
     },
     "capitulos/cap-03.md": {
-      "fichero": "1168b4092b46bdbd78c046013d47ca00e113dbf302b68a374cc3c408a45775f4",
+      "fichero": "b2949a925fdb0a1cc3e2665c41314f6ebebe2a11959174b790406a003b6be87e",
       "cuerpo": "51e44f77337b947cab1768adced4f20f5b0dba3bf5c8a6d0b8d9762e25f6de2c"
     },
     "capitulos/cap-04.md": {
@@ -551,6 +551,11 @@
       "hash": "597d4b1e6d7452065fc44d2f68f3e697d4987ae02f340e50ffad85acd0cb51b1",
       "longitud": 141
     },
+    "S39-tercera": {
+      "archivo": "capitulos/cap-39.md",
+      "hash": "043ae4df2549cd2a66d20d54706e48e2caff475a008cac5e11363096e7d4f0ee",
+      "longitud": 661
+    },
     "S39-casilla": {
       "archivo": "capitulos/cap-39.md",
       "hash": "8fec90d246358ddc5990f12e2cd29bb0f6384b1ac2322be7538e3c0bb3b3961d",
@@ -575,11 +580,6 @@
       "archivo": "capitulos/cap-22.md",
       "hash": "3ebfdb45e784422ddcbcf001f18848424b759d94dca0788cec74efb94c0212d2",
       "longitud": 486
-    },
-    "S39-tercera": {
-      "archivo": "capitulos/cap-39.md",
-      "hash": "043ae4df2549cd2a66d20d54706e48e2caff475a008cac5e11363096e7d4f0ee",
-      "longitud": 661
     },
     "S32-resumen": {
       "archivo": "capitulos/cap-32.md",
@@ -677,5 +677,5 @@
       "longitud": 5901
     }
   },
-  "generado": "2026-08-19T00:22:24"
+  "generado": "2026-08-19T06:09:07"
 }
