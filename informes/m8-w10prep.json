@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w10prep",
+  "fecha": "2026-08-19T16:00:30",
+  "capitulos": 48,
+  "palabras": 79794,
+  "por_parte": {
+    "1": 19925,
+    "2": 20337,
+    "3": 20158,
+    "4": 19374
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w10prep.md"
+}
