@@ -1,5 +1,5 @@
 ---
-capitulo: N1
+capitulo: 11
 titulo: La primera cita
 pov: Maja
 fecha: 2060-12-04T15:00
@@ -9,7 +9,7 @@ estado_plan: N
 proteccion: nucleo
 ot: OT-N1
 delta_objetivo: 0
-orden_lectura: 9.5
+orden_lectura: 11
 ---
 
 Maja rascó la escarcha del parabrisas con el canto de una tarjeta caducada. El motor llevaba cinco minutos en marcha y el cristal seguía empañado.

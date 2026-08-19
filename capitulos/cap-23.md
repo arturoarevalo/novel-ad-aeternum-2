@@ -1,5 +1,5 @@
 ---
-capitulo: 23
+capitulo: 28
 titulo: La canción
 pov: Nora
 fecha: 2060-12-29
@@ -9,7 +9,7 @@ estado_plan: P
 proteccion: total
 ot: OT-23
 delta_objetivo: 0
-orden_lectura: 23
+orden_lectura: 28
 ---
 
 Maja hundió el pulgar en el temporizador. Las cifras rojas saltaron a 20:00. La pantalla del entorno aislado siguió apagada.

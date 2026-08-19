@@ -1,5 +1,5 @@
 ---
-capitulo: 38
+capitulo: 44
 titulo: Norna
 pov: Jean
 fecha: 2061-01-21T13:07
@@ -9,7 +9,7 @@ estado_plan: P
 proteccion: nucleo
 ot: OT-38
 delta_objetivo: 0
-orden_lectura: 38
+orden_lectura: 44
 ---
 
 Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».

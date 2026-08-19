@@ -1,5 +1,5 @@
 ---
-capitulo: 16
+capitulo: 19
 titulo: La firma
 pov: Maja
 fecha: 2060-12-13
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-16
 delta_objetivo: 0
-orden_lectura: 16
+orden_lectura: 19
 ---
 
 El campo del documento de origen era un rectángulo gris con la palabra «EXTERNO».

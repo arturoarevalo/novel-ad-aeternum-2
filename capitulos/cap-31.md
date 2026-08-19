@@ -1,5 +1,5 @@
 ---
-capitulo: 31
+capitulo: 37
 titulo: El ladrillo
 pov: Nora
 fecha: 2061-01-15
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-31
 delta_objetivo: 0
-orden_lectura: 31
+orden_lectura: 37
 ---
 
 Aslak sujetaba con pinzas la alimentación del ladrillo abierto. Alana mantenía la tarjeta negra en la ranura y Nora alumbraba la soldadura. Un cable llegaba desde la batería de la barca; la raíz seguía cerrada.

@@ -1,5 +1,5 @@
 ---
-capitulo: 15
+capitulo: 18
 titulo: Canela
 pov: Jean
 fecha: 2060-12-12
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-15
 delta_objetivo: 0
-orden_lectura: 15
+orden_lectura: 18
 ---
 
 La microetiqueta equivocada supera la validación.

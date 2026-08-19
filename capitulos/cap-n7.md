@@ -1,5 +1,5 @@
 ---
-capitulo: N7
+capitulo: 17
 titulo: El salero
 pov: Maja
 fecha: 2059-03-04
@@ -9,7 +9,7 @@ estado_plan: N
 proteccion: nucleo
 ot: OT-N7
 delta_objetivo: 0
-orden_lectura: 14.5
+orden_lectura: 17
 ---
 
 Alana venía a cenar cada dos o tres meses y siempre llegaba tarde.

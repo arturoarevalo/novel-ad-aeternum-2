@@ -1,5 +1,5 @@
 ---
-capitulo: 34
+capitulo: 40
 titulo: Soldagen
 pov: Tomas → Alana → Astrid → Tomas → Alana
 fecha: 2061-01-21T08:51
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-34
 delta_objetivo: 0
-orden_lectura: 34
+orden_lectura: 40
 ---
 
 A las ocho y cincuenta y uno, Tomas generó la consulta programada contra el inventario de hojas activas de Hvelv. La asignación de la Agencia, desde el 9 de enero, lo obligaba a observar NIDHOGG hasta la fase común de las 12:47. Después de la incidencia del coche de Gunnar, había incorporado la verificación a la monitorización de la cadena de confianza como última comprobación antes de viajar.

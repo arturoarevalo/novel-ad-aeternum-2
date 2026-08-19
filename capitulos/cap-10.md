@@ -1,5 +1,5 @@
 ---
-capitulo: 10
+capitulo: 12
 titulo: Caries
 pov: Nora
 fecha: 2060-12-05
@@ -9,7 +9,7 @@ estado_plan: R
 proteccion: nucleo
 ot: OT-10
 delta_objetivo: 0
-orden_lectura: 10
+orden_lectura: 12
 ---
 
 Nora pulsó «subir» y la red escolar rechazó la foto antes de que la barra alcanzara el dos por ciento.

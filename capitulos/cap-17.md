@@ -1,5 +1,5 @@
 ---
-capitulo: 17
+capitulo: 21
 titulo: Cuchillo
 pov: Jean
 fecha: 2060-12-16
@@ -9,7 +9,7 @@ estado_plan: R
 proteccion: nucleo
 ot: OT-17
 delta_objetivo: 0
-orden_lectura: 17
+orden_lectura: 21
 ---
 
 El rechazo aparece antes que la causa.

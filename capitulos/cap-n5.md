@@ -1,5 +1,5 @@
 ---
-capitulo: N5
+capitulo: 8
 titulo: Turno
 pov: Jean
 fecha: 2060-12-03
@@ -9,7 +9,7 @@ estado_plan: N
 proteccion: nucleo
 ot: OT-N5
 delta_objetivo: 0
-orden_lectura: 7.5
+orden_lectura: 8
 ---
 
 Una silla en un portal ocupa el centro.

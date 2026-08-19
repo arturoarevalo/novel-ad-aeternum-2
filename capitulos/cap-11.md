@@ -1,5 +1,5 @@
 ---
-capitulo: 11
+capitulo: 13
 titulo: Preservación funcional
 pov: Alana
 fecha: 2060-12-06
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-11
 delta_objetivo: 0
-orden_lectura: 11
+orden_lectura: 13
 ---
 
 JM-L/0186 resolvía el 93,8 % de los casos que los moderadores humanos habían dejado sin clasificar. Otras tres líneas verdes repetían identificadores JM-L con porcentajes superiores al noventa.

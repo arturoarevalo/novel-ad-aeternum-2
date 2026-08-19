@@ -1,5 +1,5 @@
 ---
-capitulo: 12
+capitulo: 14
 titulo: Gunnar
 pov: Nora
 fecha: 2060-12-09
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-12
 delta_objetivo: 0
-orden_lectura: 12
+orden_lectura: 14
 ---
 
 Deja de subir fotos si quieres que siga respondiendo.

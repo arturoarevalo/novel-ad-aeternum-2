@@ -1,5 +1,5 @@
 ---
-capitulo: N6
+capitulo: 47
 titulo: Acta
 pov: Aslak
 fecha: 2061-05-11
@@ -9,7 +9,7 @@ estado_plan: N
 proteccion: nucleo
 ot: OT-N6
 delta_objetivo: 0
-orden_lectura: 40.5
+orden_lectura: 47
 ---
 
 Aslak dejó la furgoneta en la segunda fila de la cubierta y subió al salón con el sobre bajo el brazo.

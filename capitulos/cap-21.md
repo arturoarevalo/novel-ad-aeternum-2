@@ -1,5 +1,5 @@
 ---
-capitulo: 21
+capitulo: 25
 titulo: Coro
 pov: Jean
 fecha: 2060-12-25
@@ -9,7 +9,7 @@ estado_plan: R
 proteccion: nucleo
 ot: OT-21
 delta_objetivo: 0
-orden_lectura: 21
+orden_lectura: 25
 ---
 
 Jean consulta la salida educativa y recibe `EN MANTENIMIENTO`.

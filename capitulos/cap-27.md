@@ -1,5 +1,5 @@
 ---
-capitulo: 27
+capitulo: 33
 titulo: Apartada
 pov: Alana
 fecha: 2061-01-05
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-27
 delta_objetivo: 0
-orden_lectura: 27
+orden_lectura: 33
 ---
 
 La resolución ocupaba la pantalla central antes de que Alana abriese su propuesta.

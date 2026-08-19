@@ -1,5 +1,5 @@
 ---
-capitulo: 30
+capitulo: 36
 titulo: La asamblea
 pov: Jean
 fecha: 2061-01-12
@@ -9,7 +9,7 @@ estado_plan: RW
 proteccion: nucleo
 ot: OT-30
 delta_objetivo: 0
-orden_lectura: 30
+orden_lectura: 36
 ---
 
 Telegrafbukta no alcanza para todas las que la recuerdan.

@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w7",
+  "fecha": "2026-08-19T09:27:59",
+  "capitulos": 48,
+  "palabras": 79772,
+  "por_parte": {
+    "1": 19925,
+    "2": 20325,
+    "3": 20160,
+    "4": 19362
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w7.md"
+}

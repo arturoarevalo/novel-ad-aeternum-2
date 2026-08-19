@@ -1,5 +1,5 @@
 ---
-capitulo: 18
+capitulo: 22
 titulo: No determinista
 pov: Nora
 fecha: 2060-12-17
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-18
 delta_objetivo: 0
-orden_lectura: 18
+orden_lectura: 22
 ---
 
 Nora señaló sobre el teclado las posiciones uno, tres y cinco, sin hacerlo sonar. La clave de Gunnar llevaba más de una semana fingiendo ser una serie de números; por fin tenía la forma de una digitación.

@@ -1,5 +1,5 @@
 ---
-capitulo: 28
+capitulo: 34
 titulo: El mismo trayecto
 pov: Nora
 fecha: 2061-01-07
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-28
 delta_objetivo: 0
-orden_lectura: 28
+orden_lectura: 34
 ---
 
 Jessie se metió en la boca la última esquina del gofre y, antes de tragar, rasgó el envoltorio del segundo.
