@@ -675,7 +675,12 @@
       "archivo": "capitulos/cap-n7.md",
       "hash": "35a1bcff873af62c223c8cb758395f7cd3f60f0160646bce3aeb4e0acbe1e0c0",
       "longitud": 5901
+    },
+    "S40-separacion": {
+      "archivo": "capitulos/cap-40.md",
+      "hash": "5de79fc8b96d312fb7da8f1cba61adcb680c32deb3863faa4f592179b6ead86a",
+      "longitud": 274
     }
   },
-  "generado": "2026-08-19T06:17:41"
+  "generado": "2026-08-19T07:38:27"
 }

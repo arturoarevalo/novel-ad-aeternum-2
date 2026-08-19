@@ -857,6 +857,13 @@
    "inicio": "Alana venía a cenar cada dos o tres meses y siempre llegaba tarde.",
    "fin": "Maja esperó en la puerta hasta que salió del camino.",
    "desc": "P-56 en su lectura correcta: los dos extremos DEL CAPITULO, para que cualquier anadido en cabeza o cola rompa el hash. A0 lo habia leido como inicio y fin por span, y con eso un epigrafe tras el titulo o una coda al final pasaban M9 limpiamente."
+  },
+  {
+   "id": "S40-separacion",
+   "archivo": "capitulos/cap-40.md",
+   "inicio": "—Te recibo.",
+   "fin": "—He traído el teclado.",
+   "desc": "La ambiguedad ontologica del Ap. A §3, blindada ENTERA con sus dos vecinas porque son un solo mecanismo: la voz es y no es / tres candidatos sin jerarquia / 'Nora no escogio una explicacion', que atribuye la negativa al personaje y no al narrador. Va por span y no por prohibicion: una prohibicion se glosa, un hash no. Su forma antepuesta la sostiene, y una oleada futura podria convertirla creyendola un tic."
   }
  ]
 }
