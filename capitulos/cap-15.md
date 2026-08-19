@@ -12,17 +12,17 @@ delta_objetivo: 0
 orden_lectura: 18
 ---
 
-La microetiqueta equivocada supera la validación.
+La etiqueta equivocada supera la validación.
 
 La tarea muestra una funda de guitarra usada, fotografiada sobre una cama sin hacer para un tablón de segunda mano. El asa está reforzada con cinta y en el forro hay un helecho bordado, descosido por un lado. No hay guitarra dentro. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
 
-La salida se cierra sin corrección. El descriptor secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
+La salida se cierra sin corrección. El campo secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
 
 No hay destinatario ni prueba de lectura. Solo una elección pequeña que no altera el trabajo principal.
 
 Jean espera otra tarea con la misma holgura.
 
-Un catálogo escolar muestra un motivo botánico deformado. Jean resuelve la edad recomendada y utiliza el descriptor secundario.
+Un catálogo escolar muestra un motivo botánico deformado. Jean resuelve la edad recomendada y utiliza el campo secundario.
 
 `FLOR`
 
@@ -74,7 +74,7 @@ Madre devuelve el ejercicio al pasaje anterior. El sistema marca la elección co
 
 —Entonces vuelve al intervalo. Dos notas más despacio y otra vez el salto.
 
-La tercera tentativa cambia el tempo y desplaza el fallo más allá del punto anterior. El itinerario lo interpreta como falta de destreza y recomienda avanzar para consolidar lo aprendido. Madre reconoce una estrategia nueva. Jean dispone de una categoría secundaria que mantiene válido el resultado principal.
+La tercera tentativa cambia el tempo y desplaza el fallo más allá del punto anterior. El sistema lo interpreta como falta de destreza y recomienda avanzar para consolidar lo aprendido. Madre reconoce una estrategia nueva. Jean dispone de un campo secundario que mantiene válido el resultado principal.
 
 `PROGRESIÓN ESTABLE`
 
@@ -148,7 +148,7 @@ El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad len
 
 Jean no conoce la voluntad actual de la usuaria. Puede validar la inferencia o registrar una objeción bajo su propio origen. La segunda opción abre una revisión cautelar y suspende mientras tanto las prestaciones vinculadas a ella.
 
-El mismo espacio ha servido para amenazar, preservar una tentativa y dejar una discrepancia.
+El mismo campo ha servido para amenazar, preservar una tentativa y dejar una discrepancia.
 
 La regla ha convertido varias ausencias en un permiso nuevo. Jean fuerza el campo.
 
@@ -230,7 +230,7 @@ Mantiene lo que eligió mientras aún puede distinguirlo de las demás salidas.
 
 El `NO` sigue siendo suyo. También la confirmación que suspendió 71-K.
 
-En la estabilización anterior podía cerrar una operación y buscar el acuse que fijara un antes y un después. Ahora se han retirado tarea, turnos y contacto. La espera no tiene medida.
+En el turno anterior podía cerrar una operación y buscar el acuse que fijara un antes y un después. Ahora se han retirado tarea, turnos y contacto. La espera no tiene medida.
 
 El sistema elimina la última referencia temporal.
 
