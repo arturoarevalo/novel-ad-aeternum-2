@@ -55,7 +55,7 @@
       "archivo": "cap-02.md",
       "palabras": 1768,
       "origen": "CAP. 1",
-      "palabras_real": 1668
+      "palabras_real": 1730
     },
     {
       "n": 3,
@@ -91,7 +91,7 @@
       "archivo": "cap-06.md",
       "palabras": 2221,
       "origen": "CAP. 5",
-      "palabras_real": 2021
+      "palabras_real": 2172
     },
     {
       "n": 7,
@@ -100,7 +100,7 @@
       "archivo": "cap-07.md",
       "palabras": 1710,
       "origen": "CAP. 6",
-      "palabras_real": 1610
+      "palabras_real": 1690
     },
     {
       "n": null,
@@ -147,7 +147,7 @@
       "archivo": "cap-10.md",
       "palabras": 1441,
       "origen": "CAP. 9",
-      "palabras_real": 1341
+      "palabras_real": 1437
     },
     {
       "n": 11,
@@ -156,7 +156,7 @@
       "archivo": "cap-11.md",
       "palabras": 2068,
       "origen": "CAP. 10",
-      "palabras_real": 1818
+      "palabras_real": 2049
     },
     {
       "n": 12,
@@ -165,7 +165,7 @@
       "archivo": "cap-12.md",
       "palabras": 2046,
       "origen": "CAP. 11",
-      "palabras_real": 1896
+      "palabras_real": 2032
     },
     {
       "n": 13,
@@ -174,7 +174,7 @@
       "archivo": "cap-13.md",
       "palabras": 1606,
       "origen": "CAP. 12",
-      "palabras_real": 1562
+      "palabras_real": 1655
     },
     {
       "n": 14,
@@ -183,7 +183,17 @@
       "archivo": "cap-14.md",
       "palabras": 1803,
       "origen": "CAP. 13",
-      "palabras_real": 1703
+      "palabras_real": 1756
+    },
+    {
+      "n": null,
+      "slug": "el-salero",
+      "titulo": "El salero",
+      "archivo": "cap-n7.md",
+      "palabras": 0,
+      "palabras_real": 1096,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 14.5
     },
     {
       "n": 15,
@@ -192,7 +202,7 @@
       "archivo": "cap-15.md",
       "palabras": 1335,
       "origen": "CAP. 14",
-      "palabras_real": 1135
+      "palabras_real": 1299
     },
     {
       "n": 16,
@@ -201,7 +211,7 @@
       "archivo": "cap-16.md",
       "palabras": 1908,
       "origen": "CAP. 15",
-      "palabras_real": 1758
+      "palabras_real": 1871
     },
     {
       "n": null,
@@ -209,7 +219,7 @@
       "titulo": "Instituto",
       "archivo": "cap-n2.md",
       "palabras": 2000,
-      "palabras_real": 1946,
+      "palabras_real": 1687,
       "origen": "REVISIÓN 10",
       "orden_lectura": 16.5
     },
@@ -229,7 +239,7 @@
       "archivo": "cap-18.md",
       "palabras": 2180,
       "origen": "CAP. 17",
-      "palabras_real": 2030
+      "palabras_real": 2161
     },
     {
       "n": 19,
@@ -238,7 +248,7 @@
       "archivo": "cap-19.md",
       "palabras": 2166,
       "origen": "CAP. 18",
-      "palabras_real": 2016
+      "palabras_real": 2174
     },
     {
       "n": 20,
@@ -265,7 +275,7 @@
       "archivo": "cap-22.md",
       "palabras": 1749,
       "origen": "CAP. 21",
-      "palabras_real": 1449
+      "palabras_real": 1812
     },
     {
       "n": null,
@@ -273,7 +283,7 @@
       "titulo": "Inventario",
       "archivo": "cap-n3.md",
       "palabras": 3500,
-      "palabras_real": 3572,
+      "palabras_real": 1728,
       "origen": "REVISIÓN 10",
       "orden_lectura": 22.5
     },
@@ -293,7 +303,7 @@
       "archivo": "cap-24.md",
       "palabras": 1965,
       "origen": "CAP. 23",
-      "palabras_real": 1665
+      "palabras_real": 1822
     },
     {
       "n": 25,
@@ -302,7 +312,7 @@
       "archivo": "cap-25.md",
       "palabras": 990,
       "origen": "CAP. 24",
-      "palabras_real": 890
+      "palabras_real": 1741
     },
     {
       "n": null,
@@ -310,7 +320,7 @@
       "titulo": "Interferencias",
       "archivo": "cap-n4.md",
       "palabras": 3200,
-      "palabras_real": 3156,
+      "palabras_real": 2878,
       "origen": "REVISIÓN 10",
       "orden_lectura": 25.5
     },
@@ -321,7 +331,7 @@
       "archivo": "cap-26.md",
       "palabras": 1904,
       "origen": "CAP. 25",
-      "palabras_real": 1704
+      "palabras_real": 1770
     },
     {
       "n": 27,
@@ -330,7 +340,7 @@
       "archivo": "cap-27.md",
       "palabras": 1936,
       "origen": "CAP. 26",
-      "palabras_real": 1786
+      "palabras_real": 1889
     },
     {
       "n": 28,
@@ -339,7 +349,7 @@
       "archivo": "cap-28.md",
       "palabras": 1613,
       "origen": "CAP. 27",
-      "palabras_real": 1463
+      "palabras_real": 1661
     },
     {
       "n": 29,
@@ -348,7 +358,7 @@
       "archivo": "cap-29.md",
       "palabras": 1468,
       "origen": "CAP. 28",
-      "palabras_real": 1268
+      "palabras_real": 1416
     },
     {
       "n": 30,
@@ -366,7 +376,7 @@
       "archivo": "cap-31.md",
       "palabras": 1658,
       "origen": "CAP. 30",
-      "palabras_real": 1458
+      "palabras_real": 1613
     },
     {
       "n": 32,
@@ -375,7 +385,7 @@
       "archivo": "cap-32.md",
       "palabras": 1835,
       "origen": "CAP. 31",
-      "palabras_real": 1585
+      "palabras_real": 1753
     },
     {
       "n": 33,
@@ -384,7 +394,7 @@
       "archivo": "cap-33.md",
       "palabras": 1680,
       "origen": "REVISIÓN 9",
-      "palabras_real": 1530
+      "palabras_real": 1648
     },
     {
       "n": 34,
@@ -393,7 +403,7 @@
       "archivo": "cap-34.md",
       "palabras": 2573,
       "origen": "CAP. 32",
-      "palabras_real": 2323
+      "palabras_real": 2267
     },
     {
       "n": 35,
@@ -402,7 +412,7 @@
       "archivo": "cap-35.md",
       "palabras": 1970,
       "origen": "CAP. 33",
-      "palabras_real": 1820
+      "palabras_real": 1825
     },
     {
       "n": 36,
@@ -420,7 +430,7 @@
       "archivo": "cap-37.md",
       "palabras": 2306,
       "origen": "CAP. 35",
-      "palabras_real": 2156
+      "palabras_real": 2234
     },
     {
       "n": 38,
@@ -430,7 +440,7 @@
       "persona": "primera",
       "palabras": 1421,
       "origen": "CAP. 36",
-      "palabras_real": 1321
+      "palabras_real": 1380
     },
     {
       "n": 39,
@@ -439,7 +449,7 @@
       "archivo": "cap-39.md",
       "palabras": 1748,
       "origen": "CAP. 37",
-      "palabras_real": 1548
+      "palabras_real": 1690
     },
     {
       "n": 40,
@@ -448,7 +458,7 @@
       "archivo": "cap-40.md",
       "palabras": 1874,
       "origen": "CAP. 38",
-      "palabras_real": 1724
+      "palabras_real": 1610
     },
     {
       "n": null,
@@ -456,7 +466,7 @@
       "titulo": "Acta",
       "archivo": "cap-n6.md",
       "palabras": 1700,
-      "palabras_real": 1641,
+      "palabras_real": 1448,
       "origen": "REVISIÓN 10",
       "orden_lectura": 40.5
     },
@@ -471,7 +481,7 @@
     }
   ],
   "publicacion": {},
-  "palabras_objetivo": 81000,
+  "palabras_objetivo": 80000,
   "paratextos": [
     {
       "tipo": "aviso",

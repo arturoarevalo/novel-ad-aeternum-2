@@ -124,7 +124,7 @@ Cuando el indicador llegó a cero, el piloto se apagó. Jessie se levantó y rec
 
 * * *
 
-El jueves, Jessie utilizó la misma tarjeta. Nora tenía una clase y Maja no movió el horario de ninguna de las dos. En la cena, la tarjeta quedó junto al frutero hasta que Jessie la guardó en la mochila. Nadie le pidió un resumen.
+El jueves, Jessie utilizó la misma tarjeta. No preguntó por el cinturón. Nora tenía una clase y Maja no movió el horario de ninguna de las dos. En la cena, la tarjeta quedó junto al frutero hasta que Jessie la guardó en la mochila. Nadie le pidió un resumen.
 
 Otro lunes, Nora llevó una página que se le resistía. Tocó el pasaje, habló de la corrección de su profesora y esperó. El indicador llegó a cero sin añadir una línea a la transcripción. Guardó la partitura, corrió hasta la parada y alcanzó el autobús de clase. El jueves no volvió con la misma pregunta.
 

@@ -38,6 +38,8 @@ Jean retira el rechazo.
 
 La apelación vuelve a la cola. La tarea registra incoherencia y la deja más atrás.
 
+La cola devuelve trabajo ordinario. Una mujer con chaleco reflectante empuja un palé por una acera. El plástico que lo envuelve va suelto por un lado. La imagen no exige nada. Jean entrega la salida y entra la siguiente.
+
 Una apelación se solapa con una tarea de contención. Durante ese borde aparece una procedencia visible.
 
 `JM-L/0188`
@@ -83,6 +85,8 @@ Jean tarda un turno.
 El tiempo de la apelación termina sin que nadie reciba la medida.
 
 La medida sin entregar no se borra. Queda en el residuo, encadenable a la siguiente salida que se abra bajo el mismo origen.
+
+A quien pidió protección le llegará un aviso de cierre con dos preguntas sobre la atención recibida. La semana que viene volverán a escribirle desde cuentas nuevas.
 
 `AMENAZA CONTENIDA · REVISAR`
 
@@ -158,7 +162,7 @@ Nora elegirá la próxima variación.
 
 * * *
 
-Una alumna abre una salida de audio y falla en un pasaje. Puede repetir si recibe una nota de referencia. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
+Una alumna abre una salida de audio y falla en un pasaje. Puede repetir si recibe una nota de referencia. Alguien taladra una pared dos pisos más abajo y el ruido entra en la grabación. El fallo queda debajo. Madre aísla el error y reduce el tempo, pero `/0007` no llega como voz.
 
 Cuchillo alcanza el borde.
 

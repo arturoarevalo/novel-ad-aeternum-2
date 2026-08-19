@@ -14,7 +14,12 @@
 | Frontmatter obligatorio del fichero nuevo | `capitulo: N4` · `titulo: Interferencias` · `pov: Nora → Maja → Jessie → Jean → Maja` · `fecha: 2061-01-03` · `estado: en_oleada` · `analepsis: false` · `estado_plan: N` · `proteccion: no` · `ot: OT-N4` · `delta_objetivo: +3200` · `orden_lectura: 25.5` |
 | Estado de la OT | pendiente |
 
-## 0b. R4 (+800) se aplica en N4 · encargo redefinido (decisión de A0, 2026-08-17; revocable en G-A2)
+## 0b. R4 (+800) se aplica en N4 · encargo redefinido (decisión de A0, 2026-08-17) — **DEROGADO POR G-9 (2026-08-18)**
+
+> **AVISO VINCULANTE.** Todo lo que sigue en esta sección quedó **derogado el 2026-08-18 por G-9**, que aplicó la cláusula de reversión que el propio autor puso en D-1 (G-A2): «se vuelve a medir en el hito de scoring completo de W5 y, si allí sigue siendo el punto de abandono de los críticos, se revierte». El disparador saltó (1 de 3 en W5, 3 de 3 en W5b) y **el espejo de Jean se excindió**: 483 palabras, líneas 319–388.
+>
+> Se conserva el texto para no perder el rastro de la decisión, **pero ninguna frase de esta sección es ejecutable**. En particular, «ninguna de las dos mitades funciona sin la otra» y el carácter «obligatorio» del espejo son, mientras sigan en pie sin este aviso, **una instrucción escrita para restaurarlo** — que es exactamente el vector que A7 señaló. Cualquier beat nuevo que pretenda «volver a pagar» CH-1 es, por construcción, una atribución de los actos del 3 de enero y **pasa por la mesa de A7 antes de escribirse** (P-64). La reparación se hace **reanclando, jamás replantando**.
+
 
 **Qué dice G-A1.** La reserva §5.3 se aprobó entera y R4 (+800) quedó con **asignación diferida a los A6b (N2 o N4), antes de W3** (`RESERVA.md` §3; `informes/registro-gates-autor.md`, punto **C**). El espejo de Jean de I-5 quedó **condicionado a que R4 cayera en N4** (punto **F**). Los cuatro A6b ya se han ejecutado sobre el compilado de W2 y sobre v0 en paralelo (`informes/a6b-w2/`, ocho informes).
 
@@ -425,3 +430,110 @@ Párrafo propio de 3 frases, verbatim. Vecino anterior: `—Hasta el veintiocho.
 - **La adyacencia Kongsbakken ↔ `9:73`.** Poner la inscripción de marzo en el centro de la escena pone **Kongsbakken** en el centro, y Kongsbakken es el asunto de la última discusión de Nora con Jean (`9:73`, `14:149`; B2 §2 (c)). **El texto no los conecta en ningún punto**: no hay una sola alusión a Jean, a la discusión, a la prueba de mayo ni a «otra vez, más despacio», y ningún adulto lo roza. La escena trata la inscripción como trámite y como querer de Nora. Mi lectura es que esto **trabaja a favor** de la Carta (devuelve a Nora un futuro propio y vivo en vez de dejarla solo como hija en duelo, y `9:65-71` ya inocula la causalidad de forma explícita), pero es una adyacencia nueva y quiero que A7 la juzgue antes de integrar.
 - **`firma` en el cierre.** La última palabra de la escena es lo que Nora necesita de su madre. No nombra ninguna emoción, no glosa nada y es una anotación de su cuaderno, pero es el punto de la escena donde más fácil sería leer sentimiento. Si A7 lo considera de más, **basta con borrar «y `firma`»** (−2): el cierre vuelve a la forma exacta que A4 dejó y la escena no pierde ninguna otra pieza.
 - **«—Las paso yo al registro —dijo.»** es la única réplica de la escena cuyo texto no venía ni de la OT ni de la poda auditada. Sustituye a «—La entrega la registro yo», el quinto par verbatim con `n2:37`. Contenido procesal idéntico; hablante, posición y función intactos.
+
+## 9.5 · G-9 · Se aplica la cláusula de reversión de D-1 (A0, 2026-08-18)
+
+**El espejo de N4 se retira.** Excisión de las líneas 319–388: **483 palabras, cero costura, cero ripples, cero spans tocados.** `cap-n4` queda en 2.395.
+
+**No es una decisión contra el autor: es su decisión.** D-1 no fue «conservar el espejo». Fue, literal en `informes/registro-gates-autor.md` (G-A2, punto B): «se vuelve a medir en el hito de scoring completo de W5… **si allí sigue siendo el punto de abandono de los críticos, se revierte**». El disparador ha saltado: **1 de 3 en W5, 3 de 3 en W5b**, unánime por primera vez en el proyecto. Invocar el perímetro de D-1 para proteger el espejo exigiría **derogar la cláusula que el propio D-1 le puso**. A2 lo vio y yo se lo había pasado por alto al escribirle la restricción.
+
+**Por qué el espejo y no uno de los tres acosos**, que era mi hipótesis:
+
+- Los tres acosos están gateados **sin condición** en G-A1-F; el espejo se autorizó **«solo si R4 → N4»**.
+- Ninguno sale gratis: el **2** sostiene la barca de Aslak hasta el clímax; el **3** dispara **P-38**; el **1** obliga a editar `cap-32:93` —fichero `nucleo` y ripple de W5— y **hunde M3 de la Parte III del 48,0 % al 46,7 %**.
+- El espejo sale limpio y **M3 sube al 49,1 %**.
+
+**Y hay un número que lo confirma sin depender de nadie.** A2 midió la densidad de no-respuesta —«nadie», «ninguna», «no lo dice»— por mil palabras: mediana del libro **3,1**; `cap-n4` **13,6**, el primero del libro; **la escena 4: 33,1, diez veces y media la mediana**. «Sin que ninguna decisión cambie de estado», que es lo que dicen los tres críticos, **es literalmente medible ahí**.
+
+**Añadir no era la respuesta**, aunque los críticos lo pidieran con esas palabras: G-1 ya plantó la convocatoria de marzo y el final la difiere tres veces. Lo que faltaba no era una decisión más, sino que dejara de haber una escena entera dedicada a que nada se decida.
+
+**Correcciones que acepto de A2:** P-38 está hoy en `:257–:263`, no en `:271–:277` como yo le indiqué. Y `cap-n3` **no está limpio**: ha salido de la lista de puntos de abandono, que es el criterio, pero A6-1 sigue diciendo que es «hermoso en tres momentos y demasiado largo en los otros veinte». Queda anotado para W6.
+
+---
+
+## 9.6 · Vía A · desduplicación de la figura (i) y cobro del final (A4, 2026-08-18)
+
+**A4 · rama `w5-trama` · 2026-08-18.** Encargo de A0: ejecutar la hoja de diez cortes de `informes/w5-cap-n4.md` §16.1 y la operación a ±0 de §16.2, que quedó sin hacer en W5c. **Regla de parada: última intervención sobre `cap-n4`.** No he abierto ningún otro fichero de `capitulos/`.
+
+**Recuento: 2.395 → 2.170 (−225, −9,4 %).** Banda de la hoja **−215…−260** ✔. Objetivo nominal de A0 −230; ver «Desviación aritmética» abajo. Escenas: **507·715·505·668 → 376·631·505·658**. **Escena 3 byte-idéntica** (verificado con `aa.split_scenes` contra `HEAD`).
+
+### Los diez cortes, por cita literal, con el paragrafado de lo que queda al lado
+
+*(A7 avisa de que hay cuatro numeraciones vivas en este fichero: aquí no se cita ni una línea por número.)*
+
+| # | qué sale (literal) | qué queda al lado (literal) y en qué forma | Δ |
+|---|---|---|---:|
+| **D-1** | párrafo entero: «El álbum había vuelto al menú. No contenía nada. El historial de cargas empezaba aquella mañana y las ocho de diciembre no estaban en ninguna parte.» | Antes: «Nora abrió el calendario del curso antes que nada…» (párrafo propio de 3 frases, **sin cambio de forma**). Después: «—Ya te va —dijo Mikkel sin levantar la vista.» (réplica, párrafo propio, **sin cambio**). Se borra un párrafo entero; **ningún párrafo se funde, se parte ni se reordena** | −26 |
+| **D-2** | párrafo entero: «El mismo aviso llegó otra vez a las once cincuenta y ocho. La primera línea era idéntica. La segunda ya no estaba.» | Antes: «Nora comprobó que constaban. Después dio la vuelta a las hojas.» (2 frases, párrafo propio, **sin cambio**). Después: el párrafo del cuaderno, ya recortado por D-3. El hecho **no se pierde**: lo trae Nora en la escena de la mesa («—Ha llegado otra vez. Sin la segunda línea.» / «—La segunda es de las once cincuenta y ocho.») | −22 |
+| **D-3** | dos frases interiores: «Puso las dos horas con su referencia de incidencia al lado. Subrayó la línea que había desaparecido.» | El párrafo **sigue existiendo** y pasa de 4 frases a 2: primera frase intacta («Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`.») y última intacta («En el apartado de origen puso `responsable desconocido`.», **P-64**) | −17 |
+| **D-4** | párrafo entero: «Bajo `datos` quedaron las dos cosas del día: la cuenta abierta a las ocho y diez y cerrada a las once cincuenta y dos. No abrió `hipótesis`.» | Antes: el párrafo del cuaderno (2 frases tras D-3). Después: «La tutora se detuvo en su mesa al terminar la clase.» (1 frase, párrafo propio, **sin cambio**). **Se pierde el eco de `S10-conservar`**, declarado por A0 | −27 |
+| **D-5** | inciso: «, con seis minutos de diferencia y dos referencias distintas» | La réplica sigue siendo de Nora, párrafo propio, misma posición, y pasa a «—La plataforma no me deja entrar. Han llegado dos avisos.» | −9 |
+| **D-6** | cuatro párrafos: «La tutora abrió la ficha en su propio terminal y la giró lo justo para leerla ella.» + «—Aquí aparece uno.» + «—¿Cuál?» + «—El que hay cuando abro. No puedo decirte más.» | Antes: la réplica de Nora ya recortada por D-5. Después: «—Mientras dure, entregas en papel —dijo la tutora—. Desde aquí no puedo hacer más.», **verbatim, con su acotación y su párrafo propio**. La alternancia Nora/tutora queda intacta y la atribución sigue explícita en la acotación | −30 |
+| **D-9** | dos pares de réplicas y una palabra: «—¿Quién lo aclara?» + «—El aviso no lo dice.» + «—¿Quién lo cierra?» + «Tampoco.» | **Único corte con fusión de párrafos, y se declara:** el resto de la respuesta se une a la réplica anterior de la responsable, que pasa de «—Exposición. No dice de qué.» a «—Exposición. No dice de qué. El aviso pide que la entidad conste enterada. Eso lo he contestado esta mañana, y he pedido el origen.» Se hace así **para no romper la alternancia** (si no, dos réplicas seguidas de la misma hablante). «—¿Qué evalúa?» y «—¿Y qué te han devuelto?» quedan verbatim y en sus párrafos. **Motivo añadido: era el eco casi verbatim de P-38** («—¿Y quién decide cuándo acaba? / —Tampoco lo dice.»), que ahora queda como única | −12 |
+| **D-7** | una frase y cuatro réplicas: «En la primera línea, el número de referencia terminaba en otras cifras.» + «—¿Cuál de las dos? —preguntó Maja.» + «—Es el mismo aviso.» + «—La pantalla dice una cosa y el papel dice otra.» + «—El sistema devuelve el mismo asunto para las dos.» | Se conserva **verbatim y en su párrafo** «La responsable la imprimió y se la dio doblada por la mitad.», que pasa de 2 frases a 1. Antes: «Maja pidió copia.» (**sin cambio**) | −41 |
+| **D-8** | tres réplicas: «—Necesito la hora de emisión.» + «—Consta la de entrada aquí. La de emisión no viene.» + «—Anótalo tú también.», y la puesta en escena comparativa del párrafo anterior | El párrafo sigue existiendo, en su sitio y de 1 frase: «Maja puso el papel junto al monitor. Fotografió la pantalla con la referencia a la vista y guardó la copia doblada en el bolsillo interior.» → **«Maja fotografió la pantalla y guardó la copia en el bolsillo interior.»** Después: «La responsable abrió otra pantalla y la giró hacia las dos.» (**sin cambio**). Con esto cae la **alerta VOZ** de la auditoría adversa (Maja hablaba como Nora) | −31 |
+| **D-10** | dos réplicas: «—¿Y la referencia?» + «—Distinta. Se separan en el cuarto grupo.» | Antes: «—La segunda es de las once cincuenta y ocho.» (**sin cambio**), precedida de «—Enséñame las dos.» (**sin cambio**): los dos sostienen los **cuatro documentos**. Después: «Maja fotografió también aquella pantalla, colocó la hoja del instituto la cuarta en la fila y mandó las dos imágenes juntas.» (**sin cambio**) | −10 |
+| | | **total** | **−225** |
+
+**La figura (i) —«los papeles no coinciden entre sí»— queda en 0 ejecuciones dramatizadas + 1 enunciación**, la que ya estaba escrita: **«No coinciden entre sí.»**, la línea que Maja manda a Astrid sobre los tres papeles en fila. **La figura (ii) —«los papeles usan las mismas palabras»— queda intacta, en su única ejecución**, la de Jessie.
+
+### La operación a ±0 (§16.2): el final deja de aplazar
+
+**Sustitución dentro del bloque del rellano, `AGENCIA` (Maja) / `INTERIORIDAD` (Nora), ±0 palabras exactas (19 → 19), medidas con el tokenizador de M8.**
+
+| antes | después |
+|---|---|
+| «—¿Y mañana el instituto? —preguntó Nora.» | «—¿Y mañana el instituto?» |
+| «—Mañana lo miramos.» | **«—Te llevo yo.»** |
+| «—Tengo dos hojas que entregar.» | «—Tengo dos hojas que entregar. **Y el impreso.**» |
+| «—Las entregas. Ya veremos cómo.» | **«—Lo firmo el viernes.»** |
+
+- **Paragrafado:** cuatro réplicas antes, cuatro réplicas después, **cada una en su párrafo, en el mismo orden y con los mismos vecinos**: «—Aslak no lo escribe en ningún sitio.» delante y «—El de la gasolinera sabe dónde vivimos —dijo Jessie desde la puerta.» detrás, las dos verbatim. Ningún párrafo se funde ni se parte.
+- **Qué cambia:** dos de los tres aplazamientos del final —«Mañana lo miramos», «Ya veremos cómo»— pasan a ser **dos decisiones de Maja con fecha**. El precio es doméstico y suyo: llevar a Nora al instituto y bajar a firmar el viernes desde una casa que está a dos horas de carretera y un desvío sin salar. **Cobra tres de las cuatro palabras que G-1 dejó plantadas en el cuaderno de Nora** (`viernes`, `firma`, el impreso) y el ancla de A7 («las mañanas que su madre tendría que dejar libres»), **sin tocarla**.
+- **Prohibiciones cumplidas:** marzo **no se cancela** (mandan `40:167` y `28:159-161`); **P-41**: ni un locus nuevo del topónimo —se dice «el impreso»—; ninguna institución, trámite ni mecánica nueva (**M2 = 0**); nadie firma nada que no estuviera ya sobre la mesa («El impreso lo firma quien tenga tu tutela» / «—¿Puedo llevarlo yo? —Firmado.»); **M4 = 0**, el capítulo sigue cerrando sobre réplica y **«—Ropa para una semana —dijo Maja—. Y el cuaderno.» queda verbatim y fuera del bloque**; Nora no litiga: nombra sus deberes y su impreso.
+- **Dos decisiones de A4 dentro del perímetro, declaradas:** (a) cae la acotación «—preguntó Nora.», porque el ±0 no daba para conservarla; la atribución queda garantizada por alternancia estricta desde «—Podemos ir a un hotel —dijo Nora desde la escalera.» y por la acotación de Jessie que cierra la serie; (b) **«el impreso» lo nombra Nora, no Maja**: en el texto Maja no ha estado presente cuando la tutora se lo explica, y ponérselo en boca le daba un saber que el capítulo no le da. Es también lo que impide que la línea suba la competencia de nadie.
+
+### Qué queda intacto, verificado pieza por pieza
+
+- **P-38 · escena 3: diff 0.** Escena byte-idéntica (`aa.split_scenes` contra `HEAD`): 505 palabras antes y después. **Ni las cuatro réplicas ni su contexto han sido tocados, ni por dentro ni alrededor.**
+- **N4-1:** el bloque del altillo y **sus dos tampones** —de «**Recibido. Cuatro documentos del 3 de enero. Los incorporo como están, sin traducir.**» a «Maja marcó el número de Aslak desde el pasillo.»— **byte-idénticos**, paragrafado incluido (comparación literal del bloque de 17 líneas). El corte más cercano (D-10) queda tres párrafos por encima del primer tampón.
+- **P-65 (c):** «Nora dejó el cuaderno pautado sobre la funda y volvió a cogerlo.» **verbatim, en su párrafo, con los mismos vecinos.** El recorte no se financia ahí.
+- **P-63:** el dinkus entre «—Ahora bajas la caja del altillo.» y «Sobre la mesa de la cocina, Maja puso los tres papeles en fila…» **no se rellena, no se explica y no se toca**. Las dos líneas siguen siendo vecinas del blanco.
+- **P-64:** el aparato de anonimato sigue entero — «`responsable desconocido`» (conservado expresamente por D-3), «`No consta responsable individual.`» ×2 en sus dos orígenes, la pregunta de Jessie sin respuesta, P-49 («La responsable escribió algo corto y no lo leyó en voz alta.», intacta con sus vecinos) y `cap-32:93`. **Nada se glosa, se contesta ni se atribuye.**
+- **Ripples:** `cap-32:93` sigue siendo exacto —tres actuaciones y **cuatro documentos**, que D-10 conserva—; `cap-26:81` («un aviso que nadie de allí puede cerrar») sigue sostenido por «Ya lo he registrado como queja. Con eso tampoco se cierra nada.» y por «—¿Y si no se aclara? / —Entonces dura.»
+- **CH-27, CH-28, M2 = 1 en el capítulo, `n4:85` (ancla de A7, diff 0), la ruta de marzo, la tutora, el charco, Mikkel, el mural, la caja, la carpeta gris:** todo se queda. **Ningún fichero `nucleo` ni `total` se ha abierto.**
+
+### Métricas
+
+| | antes | después | criterio |
+|---|---:|---:|---|
+| palabras | 2.395 | **2.170** | banda de la hoja −215…−260 ✔ |
+| escenas | 507·715·505·668 | **376·631·505·658** | escena 3 byte-idéntica ✔ |
+| libro (M8) | 79.792 | **79.567** | banda 79.000–81.000 ✔ |
+| **M3 · Parte III** | 49,1 % | **48,5 %** | ✔ el número de la hoja |
+| diálogo | 35,7 % | **35,2 %** | banda rederivada 32–38 % ✔ |
+| tramo máx. sin diálogo | 208 | **208** | ≤ 350 ✔ |
+| M1 únicos/1.000 | 2,3 | **2,3** (5 términos, 0 nuevos) | ≤ 8,5 ✔ |
+| M2 mecánicas nuevas | 0 | **0** | ≤ 1 ✔ |
+| M4 cierres-objeto | 0 | **0** | = 0 ✔ |
+| M4b antepuestas | 0,8 % | **0,9 %** | ≤ 4 % ✔ |
+| M7 | 0 errores | **0 errores, 0 avisos** | ✔ |
+| M9 | 113 spans | **113 spans íntegros · 8 ficheros íntegros** | ✔ |
+| frontmatter | OK | **validador OK, 0 avisos** | ✔ (ni un campo tocado) |
+| T7 sensibilidad | 9 B / 0 A | **9 B / 0 A, los mismos nueve** | **0 hits nuevos** |
+| densidad de no-respuesta | 9,6 /1.000 | **7,8 /1.000** | deja de ser el primero del libro y baja de `cap-n1` (8,7) y `cap-30` (8,3) |
+| frase media | 12,0 | **12,2** | ver aviso 3 |
+| frases ≤ 6 palabras | 18,4 % | **15,2 %** | ver aviso 3 |
+
+### Desviación aritmética de la hoja, declarada
+
+La hoja pedía **−230** y los loci tal como están escritos dan **−225**. La diferencia no está en el texto: está en la aritmética de §16.1, medida con `aa.count_words` fila a fila — **D-1 son 26 palabras y no 22; D-4 son 27 y no 35; D-9 son 12 y no 15; D-5 son 9 y no 8; D-8 son 31 y no 30.** No he inventado un corte undécimo para cuadrar el redondeo: A0 y A2 fijaron que si hacía falta más saldría «del mismo aparato comparativo y de ningún otro sitio», y **no hace falta** (−225 está dentro de la banda −215…−260). Consecuencia en los números de A0: capítulo **2.170** (no 2.165) y libro **79.567** (no 79.562); **M3 Parte III da 48,5 % exacto** y la banda del libro no se mueve.
+
+### Avisos para A0 y A7
+
+1. **A7 no ha firmado esta pasada.** `informes/w5-cap-n4.md` §21 pone «**A7-1**, antes de ejecutar» sobre los diez cortes y sobre el final, y **P-65** dice que comprimir cualquiera de los tres acosos **dispara el gate de A7**. He ejecutado porque A0 me traslada el perímetro con los vetos dentro y con la regla de parada, pero **la firma sigue pendiente y va antes del commit**: el diff a revisar son siete hunks, ninguno en la escena 3.
+2. **Pérdida no listada en §17: el eco de `cap-10:207`.** D-1 se lleva la única línea del capítulo que cerraba el plantado del álbum de `cap-10` («el álbum había desaparecido del menú»), y con ella «las ocho de diciembre», que son las cargas de la foto del ferry con Jean. No es un problema de Carta —no romantiza, no explica, no dulcifica nada— pero es un eco de v0 que muere y que §17 no cuenta entre las cuatro pérdidas. **Si A0 lo quiere de vuelta, cuesta 9 palabras y no más: «El álbum había vuelto al menú. No contenía nada.»**, sin la tercera frase, que era la forense.
+3. **El staccato baja un punto.** Cortar pares de pregunta-respuesta sube la frase media (12,0 → 12,2) y baja las frases de ≤ 6 palabras (18,4 % → 15,2 %). Es aritmética de lo que se ha quitado, no deriva de escritura: no he alargado ni una frase. Queda anotado por si A8 mide ritmo contra la huella.
+4. **Numeración de spans:** A0 pide verificar **110**; el repositorio lleva **113** desde el commit de A7 (`S32-resumen` entró con sus dos extremos y `proteger.sh` cuenta tres). Los 113 verifican. `HEAD~1` sí tenía 110.
+5. **Pendiente y no es mío:** **F-2** de §21, `palabras_real` de `cap-n4` (el manifiesto sigue en 2.878; hoy son 2.170) vía `actualizar-metadatos.sh`, que es de A1-mantenimiento; y §11 de esta OT, que escribe A2.
+6. **Carta F:** ninguna frase tocada romantiza, explica ni dulcifica el suicidio; ninguna se acerca al acto, al método ni al lugar; el único cambio que roza a una menor —el final— **le quita carga a Nora y se la pone a un adulto**, y no cura nada: el trámite sigue siendo en papel, la cuenta sigue cerrada y nadie firma nada nuevo. **No he marcado ninguna frase para veto de A7.**

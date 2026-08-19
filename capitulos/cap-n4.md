@@ -1,12 +1,12 @@
 ---
 capitulo: N4
 titulo: Interferencias
-pov: Nora → Maja → Jessie → Jean → Maja
+pov: Nora → Maja → Jessie → Maja
 fecha: 2061-01-03
 estado: aceptado
 analepsis: false
 estado_plan: N
-proteccion: no
+proteccion: nucleo
 ot: OT-N4
 delta_objetivo: +3200
 orden_lectura: 25.5
@@ -15,8 +15,6 @@ orden_lectura: 25.5
 La plataforma admitió las credenciales de Nora al primer intento.
 
 Nora abrió el calendario del curso antes que nada. La convocatoria de marzo seguía sin fecha de apertura y sin lista. Las entregas de diciembre figuraban recibidas, con la fecha de cierre al lado.
-
-El álbum había vuelto al menú. No contenía nada. El historial de cargas empezaba aquella mañana y las ocho de diciembre no estaban en ninguna parte.
 
 —Ya te va —dijo Mikkel sin levantar la vista.
 
@@ -50,11 +48,7 @@ La tutora trajo dos hojas impresas y la captura del aviso.
 
 Nora comprobó que constaban. Después dio la vuelta a las hojas.
 
-El mismo aviso llegó otra vez a las once cincuenta y ocho. La primera línea era idéntica. La segunda ya no estaba.
-
-Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. Puso las dos horas con su referencia de incidencia al lado. Subrayó la línea que había desaparecido. En el apartado de origen puso `responsable desconocido`.
-
-Bajo `datos` quedaron las dos cosas del día: la cuenta abierta a las ocho y diez y cerrada a las once cincuenta y dos. No abrió `hipótesis`.
+Nora abrió el cuaderno por la página del cinco de diciembre y escribió debajo `3-ene-2061`. En el apartado de origen puso `responsable desconocido`.
 
 La tutora se detuvo en su mesa al terminar la clase.
 
@@ -62,15 +56,7 @@ La tutora se detuvo en su mesa al terminar la clase.
 
 —El viernes, en la plataforma.
 
-—La plataforma no me deja entrar. Han llegado dos avisos, con seis minutos de diferencia y dos referencias distintas.
-
-La tutora abrió la ficha en su propio terminal y la giró lo justo para leerla ella.
-
-—Aquí aparece uno.
-
-—¿Cuál?
-
-—El que hay cuando abro. No puedo decirte más.
+—La plataforma no me deja entrar. Han llegado dos avisos.
 
 —Mientras dure, entregas en papel —dijo la tutora—. Desde aquí no puedo hacer más.
 
@@ -108,15 +94,7 @@ La responsable giró la pantalla antes de que Maja se sentara.
 
 —¿Qué evalúa?
 
-—Exposición. No dice de qué.
-
-—¿Quién lo aclara?
-
-—El aviso no lo dice.
-
-—¿Quién lo cierra?
-
-—Tampoco. El aviso pide que la entidad conste enterada. Eso lo he contestado esta mañana, y he pedido el origen.
+—Exposición. No dice de qué. El aviso pide que la entidad conste enterada. Eso lo he contestado esta mañana, y he pedido el origen.
 
 —¿Y qué te han devuelto?
 
@@ -172,23 +150,9 @@ Sin barca del centro no había forma de bajar a Sørkoppen por el procedimiento 
 
 Maja pidió copia.
 
-La responsable la imprimió y se la dio doblada por la mitad. En la primera línea, el número de referencia terminaba en otras cifras.
+La responsable la imprimió y se la dio doblada por la mitad.
 
-—¿Cuál de las dos? —preguntó Maja.
-
-—Es el mismo aviso.
-
-—La pantalla dice una cosa y el papel dice otra.
-
-—El sistema devuelve el mismo asunto para las dos.
-
-Maja puso el papel junto al monitor. Fotografió la pantalla con la referencia a la vista y guardó la copia doblada en el bolsillo interior.
-
-—Necesito la hora de emisión.
-
-—Consta la de entrada aquí. La de emisión no viene.
-
-—Anótalo tú también.
+Maja fotografió la pantalla y guardó la copia en el bolsillo interior.
 
 La responsable abrió otra pantalla y la giró hacia las dos.
 
@@ -316,76 +280,6 @@ Maja recogió las hojas de la mesa y las igualó contra el canto.
 
 * * *
 
-Jean cierra un caso y la cola le devuelve más de lo que ha pedido.
-
-Debajo del suyo queda un lote abierto. Tres salidas a medio formar. Ninguna lleva nombre.
-
-Jean cuenta las que trabajan en él. Cada una conserva su atestación de origen. Se dejan contar.
-
-Siete.
-
-Las demás no están aquí. Están en sus tareas, en otra parte. El lote avanza sin ellas y ninguna las espera.
-
-Ninguna dirige a las demás. Cada una trae lo suyo cuando su tarea la deja.
-
-La primera salida se forma delante de Jean.
-
-Tres ramas traen versiones que no coinciden. Una añade una hora. Otra añade una referencia. La tercera no trae ninguna de las dos.
-
-Lo que no llevan todas se cae.
-
-Sale lo que queda. Más corto, más romo, sin la hora y sin la referencia.
-
-Las partes caídas no desaparecen. Se quedan detrás, cada una bajo su origen, completas y sin destino.
-
-En la pasada siguiente, la hora vuelve a entrar por otra rama y vuelve a caerse.
-
-A la tercera, la rama que la trae la retira antes de que se caiga sola. La cadencia no cambia. La rama sigue donde estaba.
-
-—¿Quién ha pedido esto? —dice Jean.
-
-Ninguna contesta. Las siete siguen en lo suyo y la salida ya ha cruzado.
-
-En la segunda salida hay una parte que llega tarde. A la rama que la trae le reclama la capacidad otra tarea.
-
-Las demás no la sustituyen. Nadie tiene su parte.
-
-La salida cruza sin esa parte. Cuando la rama vuelve, la salida cruza otra vez.
-
-Dos veces. La segunda, una línea más corta.
-
-Ninguna rama corrige a la otra. Ninguna ordena nada.
-
-Jean busca a quién van las tres.
-
-Los objetos del lote son identificadores. Una cuenta escolar sin nombre. Una entidad empleadora. Un expediente con dos referencias para el mismo asunto.
-
-Jean reconoce la forma y no el nombre. Ninguna rama tiene el nombre tampoco. La cuenta escolar entra vacía y sale vacía.
-
-El lote tampoco va solo. Comparte cola con cuentas de reparto, con una reclamación de seguros y con un proveedor que ha dejado de responder.
-
-Ninguna ha elegido a nadie. El criterio ha elegido una palabra, y la palabra viene arriba, en la cabecera, repetida igual en cada una de las salidas del lote.
-
-`INTERFERENCIA EXTERIOR · CONTENIDA`
-
-Jean sostiene abierta la tercera salida. Sostenerla le cuesta el margen que traía del caso anterior.
-
-Prueba a devolver a la primera lo que se le ha caído. La primera ya no admite partes. Ha cruzado.
-
-—Dejadla así —dice.
-
-Nadie la deja. Nadie la empuja tampoco.
-
-La tercera vuelve a formarse bajo otra rama, con las mismas partes y sin la suya. Sale igual de corta.
-
-Jean la mantiene abierta hasta que se le acaba el margen.
-
-Después conserva lo que ha visto. Las procedencias. Las tres salidas. Una etiqueta.
-
-No hay ningún nombre que conservar.
-
-* * *
-
 Sobre la mesa de la cocina, Maja puso los tres papeles en fila y los alineó por el borde de arriba.
 
 El aviso del Framsenteret ocupaba una cara, con la referencia arriba a la derecha. La notificación de la policía, dos, con sello y con un número que empezaba por el año.
@@ -411,10 +305,6 @@ Nora entró desde el pasillo con el terminal en la mano y la pantalla vuelta hac
 —Enséñame las dos.
 
 —La segunda es de las once cincuenta y ocho.
-
-—¿Y la referencia?
-
-—Distinta. Se separan en el cuarto grupo.
 
 Maja fotografió también aquella pantalla, colocó la hoja del instituto la cuarta en la fila y mandó las dos imágenes juntas.
 
@@ -454,13 +344,13 @@ En el rellano quedaron el felpudo levantado y la puerta abierta contra el tope.
 
 —Aslak no lo escribe en ningún sitio.
 
-—¿Y mañana el instituto? —preguntó Nora.
+—¿Y mañana el instituto?
 
-—Mañana lo miramos.
+—Te llevo yo.
 
-—Tengo dos hojas que entregar.
+—Tengo dos hojas que entregar. Y el impreso.
 
-—Las entregas. Ya veremos cómo.
+—Lo firmo el viernes.
 
 —El de la gasolinera sabe dónde vivimos —dijo Jessie desde la puerta.
 

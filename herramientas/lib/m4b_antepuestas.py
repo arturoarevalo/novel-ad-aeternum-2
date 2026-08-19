@@ -13,6 +13,11 @@ import aa
 
 PAT = re.compile(r"^(Al |Sin |Con |Tras |Antes de |Después de |Mientras |Cuando |Aunque |Si |Como |Desde |Hasta |Para |Por |Durante |"
                  r"Sobre |Bajo |Entre |Junto |Frente |Ante |Según |Nada más |Una vez |"
+                 # Locativas y direccionales que faltaban: el censo las omitía y por tanto
+                 # INFRAVALORABA M4b. Hallazgo de A4 en cap-03 (gate de autor 2026-08-19),
+                 # donde encontró al menos cuatro sin contar: «En el banco del piano,»,
+                 # «Debajo,», «Hacia el sur,», «Dentro del ascensor,».
+                 r"En |Dentro |Debajo |Encima |Detrás |Delante |Alrededor |Hacia |Contra |Tras de |A través |Más allá |"
                  r"[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+(?:ando|iendo|éndose|ándose|ándola|ándolo|iéndola|iéndolo)\b|"
                  r"[A-ZÁÉÍÓÚÑ][a-záéíóúñ]+(?:ado|ada|ados|adas|ido|ida|idos|idas)\b [a-záéíóúñ]+)[^.;:!?]{0,80}?,\s+[a-záéíóúñA-ZÁÉÍÓÚÑ]")
 

@@ -3,7 +3,7 @@ capitulo: 31
 titulo: El ladrillo
 pov: Nora
 fecha: 2061-01-15
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -127,6 +127,34 @@ Maja desplazó la llave hacia su lado de la mesa.
 —Buscaremos a otra persona.
 
 —El repetidor solo llevaría el audio educativo al homenaje —dijo Alana—. Si no lo alcanza, se termina. No abre producción ni controles.
+
+Nora apoyó el bolígrafo sobre la segunda barra, todavía vacía.
+
+—Si nadie acepta la petición, ¿qué perdemos? —preguntó.
+
+—La cancelo y bajo a la barca. Mi credencial queda en el registro igual —dijo Jessie.
+
+Maja mantuvo la llave a su lado de la mesa.
+
+—La barca sale igual —dijo—. El margen se mide con galería o sin ella.
+
+El altavoz tardó en devolver la voz.
+
+—Sin ruta pública, el margen se queda dentro. No alcanzará ninguna asignación —dijo Jean.
+
+—Y sin acto público verificable, la custodia se queda condicional —dijo Alana—. Mats conserva el calendario.
+
+—Y esa persona verá mi nombre antes de decidir —dijo Jessie.
+
+Alana esperó a que el convertidor dejara de vibrar contra la madera.
+
+—Lo verá. Yo pierdo la acreditación con canal o sin él.
+
+Nadie lo negó. El contador del enlace siguió bajando.
+
+Nora escribió una línea al margen, fuera de las tres barras.
+
+`EL SEGUNDO LO ACEPTA UN DESCONOCIDO`
 
 `UMBRAL 2 · TRANSPORTE PÚBLICO`
 

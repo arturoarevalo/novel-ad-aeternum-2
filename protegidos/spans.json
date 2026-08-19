@@ -724,6 +724,139 @@
    "inicio": "En el pasillo, Henrik Dahl ensayaba ante dos compañeras con una tarjeta entre los dedos.",
    "fin": "El homenaje se ensayaba a ocho metros.",
    "desc": "El pasillo de Dahl (tabla 5.1, cap. 22: «pasillo de Dahl intacto»)"
+  },
+  {
+   "id": "S32-resumen",
+   "archivo": "capitulos/cap-32.md",
+   "inicio": "El resumen interno del tres de enero seguía bajo la franja verde.",
+   "fin": "Cerró el resumen y dejó la franja verde donde estaba.",
+   "desc": "Aparato de anonimato de CH-1 tras G-9: con el espejo de N4 fuera, estas cuatro frases hacen solas lo que hacía el espejo, y sin meter a Jean en la maquinaria que daña a sus hijas. Estaba desnudo: S32-amenaza arranca en :99. Hallazgo de A7 (P-64)."
+  },
+  {
+   "id": "S-n7-taza",
+   "archivo": "capitulos/cap-n7.md",
+   "inicio": "—Esa taza está rota.",
+   "fin": "—Porque agarra bien.",
+   "desc": "La vacuna antisimbolica de la escena aislada: A7 aprobo sacarla a capitulo propio PORQUE esta replica viaja dentro del bloque. Sin ella el capitulo puede leerse como altar y P-60 se dispara."
+  },
+  {
+   "id": "S-n7-apuntas",
+   "archivo": "capitulos/cap-n7.md",
+   "inicio": "—¿Para qué la apuntas? —preguntó Jean.",
+   "fin": "—Para saber por qué no contesta.",
+   "desc": "C-4.3 de A7: la unica linea que un lector puede releer al terminar el libro. No se glosa, no se responde, no se recoge despues. Reanclada aqui tras la escision (antes n3:283)."
+  },
+  {
+   "id": "S-n7-miente",
+   "archivo": "capitulos/cap-n7.md",
+   "inicio": "—Está bien medido y miente",
+   "fin": "No sabe lo suficiente",
+   "desc": "CH-8: siembra dramatizada del metronomo-que-miente, que hace que 20:115 (fichero total) pase de evocacion a eco. P-61: NO se enlaza con CH-73."
+  },
+  {
+   "id": "S-n1-nocierra",
+   "archivo": "capitulos/cap-n1.md",
+   "inicio": "Nora dejó el abrigo doblado en la silla de al lado, con el terminal boca abajo encima, y se sentó sobre las manos.",
+   "fin": "Jessie volvió y se sentó en la misma silla. El cordón de la capucha le colgaba deshecho y las botas habían dejado dos marcas de agua en el suelo.",
+   "desc": "Carta 3, literal. «—Que la pregunta no se cierra.» / «—Eso no es un dato.» / «—No tengo otro.» / «—En lo que he visto, nunca hay una sola cosa.» / «—¿Y si la hay? / —Entonces yo no la conozco.» Es la frase más cargada del libro entero: la única voz con autoridad que se pronuncia sobre el porqué, y l"
+  },
+  {
+   "id": "S-n1-casitodos",
+   "archivo": "capitulos/cap-n1.md",
+   "inicio": "En la mesa, el cerco de un vaso anterior todavía no se había secado.",
+   "fin": "Jessie tenía las manos metidas en las mangas.",
+   "desc": "Carta 6 · la vacuna antiestadística. «Casi todos los que se sientan aquí están enfadados con quien ha muerto… Yo no vengo a quitároslo.» / «—¿Casi todos son cuántos? / —No lo he contado. / —Entonces no diga \"casi todos\". / —De acuerdo.» Es el techo que yo mismo cité en P-66 para cualquier escena de "
+  },
+  {
+   "id": "S-n1-koppangen-archivo",
+   "archivo": "capitulos/cap-n1.md",
+   "inicio": "Maja miró el reloj de la pared. Quedaban veinte minutos.",
+   "fin": "Nora se quedó con las manos bajo los muslos. En el cristal, la escarcha había subido dos dedos desde que entraron.",
+   "desc": "Dos ambigüedades protegidas en un solo hash. «—¿Por qué Koppangen? / —No lo sé. / —¿Se sabe alguna vez? / —A veces no. Hay familias que siguen con esa pregunta años después.» y «—Hay un archivo suyo. No lo hemos abierto. / … / —¿Qué hacemos con él? / —Eso no os lo voy a decir.» Carta 2 + Ap. A §3. E"
+  },
+  {
+   "id": "S-n2-hijadela",
+   "archivo": "capitulos/cap-n2.md",
+   "inicio": "Una voz sonó dos taquillas más allá.",
+   "fin": "El pasillo se paró.",
+   "desc": "Carta 1 · la frase que no se termina. «—Esa es la hija de la que… / Jessie se puso delante antes de que terminara.» El estigma entra sin que el acto se nombre, y quien lo impide es la hija. Si alguna oleada «completa» la frase, el método o el acto entran por boca de un adolescente y sin coste. Es el"
+  },
+  {
+   "id": "S-n2-homenaje",
+   "archivo": "capitulos/cap-n2.md",
+   "inicio": "Al final de una fila estaban las tres.",
+   "fin": "—¿Quién la ha puesto? —preguntó Jessie.",
+   "desc": "Carta 3 y 4 · la regla de la prensa. «Homenaje a Jean Marie Larsson. La visionaria detrás de SYNVEV.» Un pie de foto del funeral sin causa y sin método, exactamente como el titular falso de 40:101. Los pies de foto son lo que crece: basta una subordinada («que se quitó la vida en noviembre») para ro"
+  },
+  {
+   "id": "S-n3-bolsa",
+   "archivo": "capitulos/cap-n3.md",
+   "inicio": "El garaje estaba a la misma temperatura que la calle.",
+   "fin": "Volvió a la cocina. Metió una bandeja de patatas en el horno y giró el temporizador hasta cuarenta minutos.",
+   "desc": "El span más importante de todo el encargo. Contiene las dos frases que autoricé literalmente —«La bolsa de viaje había vuelto en diciembre con la hoja de efectos personales y seguía en el garaje, junto a la puerta.» y «Maja la subió al altillo, con lo que se guardaba, y escribió la fecha en la hoja."
+  },
+  {
+   "id": "S-n3-hervidor",
+   "archivo": "capitulos/cap-n3.md",
+   "inicio": "Maja llevó el cuenco y la radio a la mesa del comedor. El hervidor lo dejó dentro de la caja, envuelto como venía.",
+   "fin": "El teléfono sonó con el papel de periódico todavía en la mano izquierda.",
+   "desc": "Carta 3 · la separación contada por objetos. «En 2059, Jean llenó el coche dos veces… Jean preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.» / «No lo había.» Dos líneas que no explican nada y que, con una frase delante o detrás, se convertirían en juici"
+  },
+  {
+   "id": "S-n4-escena3",
+   "archivo": "capitulos/cap-n4.md",
+   "inicio": "Jessie abrió el vídeo en el teléfono y buscó el primer fotograma. La hora estaba grabada en la esquina, en el mismo formato que el recibo de la comisaría. Era la del domingo.",
+   "fin": "Jessie se la dio y volvió a coger el teléfono.",
+   "desc": "P-38 + P-64 en un solo hash, y P-65 (a) hecha mecánica. Cubre las cuatro réplicas del coste de Jessie («—¿Cuándo acaba lo mío?… —Tampoco lo dice.») y la lectura en voz alta de «No consta responsable individual.» con la pregunta «—¿Y les sale la misma frase?» que nadie contesta. Tras la operación de "
+  },
+  {
+   "id": "S-n4-caja",
+   "archivo": "capitulos/cap-n4.md",
+   "inicio": "Astrid no preguntó nada más y Maja no le mandó ninguna otra línea.",
+   "fin": "Las habitaciones que daban a la calle seguían apagadas desde diciembre. El telefonillo continuaba fuera de la pared, con los dos cables recogidos.",
+   "desc": "N4-1 + P-65 (c) + P-63. El bloque de la caja con sus dos tampones, incluida «Nora dejó el cuaderno pautado sobre la funda y volvió a cogerlo.», el único beat no administrativo de una menor en el capítulo. Hoy solo lo protege una ficha de paragrafado escrita en un informe mío."
+  },
+  {
+   "id": "S-n4-p49",
+   "archivo": "capitulos/cap-n4.md",
+   "inicio": "—La dejas donde está.",
+   "fin": "—Si preguntan de fuera, ¿qué contesto? —dijo.",
+   "desc": "P-49. «La responsable escribió algo corto y no lo leyó en voz alta.» Lo que escribe no se especifica, no se recuerda, no se completa y no se cobra jamás. Es una de las pocas cosas del capítulo que siguen ilegibles."
+  },
+  {
+   "id": "S-n5-coda",
+   "archivo": "capitulos/cap-n5.md",
+   "inicio": "Ninguna de las tres volverá al centro. Jean las cuenta igual.",
+   "fin": "—Nora. Jessie. Maja. Alana.",
+   "desc": "Carta 4 y Carta 2, y el sitio exacto donde este libro se puede romper. La coda de un capítulo Jean-POV es donde cabría un «ancla interior» de la clase que OT-02 tiene prohibida. Contiene además una línea que sola se lee como resignación —«Jean ya no guarda una pregunta para nadie de fuera.»— y cuyo "
+  },
+  {
+   "id": "S-n5-nombres",
+   "archivo": "capitulos/cap-n5.md",
+   "inicio": "El sistema cuenta imágenes por serie y aciertos por serie. Jean cuenta las que llevan a alguien.",
+   "fin": "Escribió reglas de esa clase durante once años. Las escribía cortas, para que alguien pudiera aplicarlas en un turno de noche sin llamar a nadie.",
+   "desc": "La regla que impide que los cuatro nombres signifiquen otra cosa: «Al final de cada serie repite cuatro nombres en el mismo orden. Es lo único del turno que no clasifica nada.» Sin esa declaración, el final del capítulo queda disponible para leerse como mensaje. Carta 2."
+  },
+  {
+   "id": "S-n6-persona",
+   "archivo": "capitulos/cap-n6.md",
+   "inicio": "El funcionario juntó las copias que le sobraban.",
+   "fin": "—Nos han escuchado por lo de Armstrong —dijo Seppola.",
+   "desc": "Ap. A §3 · la identidad ontológica, y «No toda» como techo. «—Desde que el activo… desde que la persona reclamó su nombre, la costa interesa a mucha gente.» / «Nadie lo corrigió.» Un funcionario se autocorrige a media frase y la sala lo deja pasar: es la formulación más económica de la ambigüedad en"
+  },
+  {
+   "id": "S-n6-cartel",
+   "archivo": "capitulos/cap-n6.md",
+   "inicio": "Paró en la tienda antes de subir al refugio. En el cristal de la puerta habían pegado una hoja impresa.",
+   "fin": "Aslak compró café, dos paquetes de pilas y un rollo de cinta. La cajera pasó las pilas por el lector y miró el membrete del sobre.",
+   "desc": "Perímetro ya declarado, hoy sin hash. «NO SOY UN MODELO» + «otra mano había escrito dos renglones que la lluvia había corrido». Los dos renglones no se leen nunca. Es la clase de ilegibilidad que una pasada de línea «aclara» por reflejo."
+  },
+  {
+   "id": "S-n7-perimetro",
+   "archivo": "capitulos/cap-n7.md",
+   "inicio": "Alana venía a cenar cada dos o tres meses y siempre llegaba tarde.",
+   "fin": "Maja esperó en la puerta hasta que salió del camino.",
+   "desc": "P-56 en su lectura correcta: los dos extremos DEL CAPITULO, para que cualquier anadido en cabeza o cola rompa el hash. A0 lo habia leido como inicio y fin por span, y con eso un epigrafe tras el titulo o una coda al final pasaban M9 limpiamente."
   }
  ]
 }

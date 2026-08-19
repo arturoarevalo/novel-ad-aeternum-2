@@ -3,7 +3,7 @@ capitulo: 24
 titulo: Accidente
 pov: Tomas → Jessie → Tomas
 fecha: 2061-01-02
-estado: terminado
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
@@ -102,6 +102,8 @@ Al otro lado se oyó pasar una hoja.
 
 Tomas miró la copia sellada. Kronfjord Kapital estaba en el consejo y Gunnar había activado alarmas internas antes de morir, pero el formulario no ampliaba el perímetro.
 
+Su nombre figuraba en la primera línea y en el pie de cada página. El sello llevaba la hora de la exportación y el número de la cadena. El formulario pedía el número de acreditación y su fecha de vencimiento. No pedía un cargo ni una empresa. Tomas comprobó la fecha. Si Armstrong retiraba la clase, la cadena seguía a su nombre y él perdía el acceso. Mantuvo la mano sobre el sello mientras Mats esperaba.
+
 —He preservado la cadena a mi nombre. Conservaré el expediente de contratación del fondo y después consultaré su alcance.
 
 —La policía cerró la incidencia del vehículo.
@@ -124,7 +126,9 @@ Preservó el inventario de certificados hoja activos de la misma CA intermedia y
 
 Al sacar la credencial del lector, rozó con el pulgar los bordes de otros plásticos dentro de la cartera.
 
-La devolvió a la cartera.
+Los otros plásticos eran acreditaciones de empleos anteriores. En uno de aquellos puestos, un almacén de contratas, una operaria reclamó cuatro turnos mal computados. Tomas preservó los registros de acceso, levantó el parte y lo elevó al comité, según fijaba el procedimiento. En el mismo expediente constaban dos entradas de ella fuera de su franja.
+
+La empresa quedó cubierta. La reclamación se resolvió en contra y la contrata no renovó su ficha. Seis meses después, Tomas la vio en la puerta de servicio con el chaleco de otra empresa del recinto. Guardó aquel carné cuando le entregaron el de Armstrong. Tomas puso la credencial vigente delante y dejó los demás en el mismo orden.
 
 * * *
 

@@ -135,3 +135,45 @@ Después: **G-1** (reasignar la función de la escena 1 de n4, ±0 palabras; A3b
 ### Ledger
 
 Manuscrito **79.844**, por debajo del suelo de banda (80.000–82.000). W5 lo repone. Techo aritmético de poda adicional ≈ 1.230.
+
+---
+
+## 2026-08-18 · W4-R fusionada · W5 ejecutada y en verificación
+
+### W4-R · cerrada y fusionada en `main` (`efef390`)
+
+**−1.989 palabras netas.** Poda en tres frentes (N3/N2 −1.007, cierre −728, centro −394), más **G-1** (reasignación de función en la escena 1 de n4: quita una de las siete ejecuciones del movimiento), **G-2** (R5 en cap-13, +93, tres anclas exteriores) y el **beat de CH-48** (+56). Gate en `informes/w4r-gate.md`.
+
+**Criterio del autor:** Personajes 8,5 CUMPLE · **Ritmo 7,5 NO CUMPLE**, y no por falta de trabajo: es 7,5 en v0 y 7,5 en el manuscrito trabajado, seis lecturas el mismo día con dos familias de modelos. **La campaña de ritmo se cierra por techo.**
+
+**Lo que sí responde: la lista de abandonos.** `cap-n4` sale tras G-1; `cap-13` sale de la lista de A6-3 tras R5; precedentes `cap-30` (W2) y `cap-n3` (poda). Hoy los tres críticos nombran capítulos distintos, por primera vez.
+
+**Prueba ciega con control pareado del beat de CH-48: 3/3 contra 0/3** (`ch48-prueba-ciega.md`). Sin el beat los lectores formulan la regla del capítulo en positivo («las horas siguen ahí»); con él, en negativo («se deja como hueco»). Nadie lo vio; todos lo notaron.
+
+### W5 · escrita, rama `w5-trama`, sin fusionar
+
+**+702 palabras** (24 +189 · 31 +155 · 32 +168 · 34 +95 · 26 +68 · 35 +22 · 40 +5). **Manuscrito 80.288, en banda.** Un commit por capítulo.
+
+A2 recortó la oleada **de +1.500 a +768** clasificando las 33 intervenciones en **apuesta o procedimiento**: se ejecutan 16, se caen 15, **textura ejecutada cero**. Tres intervenciones murieron por condiciones de A7 y por v0, no por decisión de A0.
+
+**Pendiente:** A7 (segunda pasada sobre el diff, obligatoria en seis capítulos) y A5. Sin ejecutar: `OT-35` I-4 (dictamen de A5) y `OT-40` I-4 (A4).
+
+### Reglas nuevas de proyecto
+
+- **Los números localizan; solo la cita literal instruye y verifica.** Hay cuatro numeraciones vivas (v0, cuerpo, fichero, compilado) y se mezclaban dentro de un mismo documento, incluido un dictamen de A7. Las declaraciones de paragrafado van por cita textual.
+- **Test de las dos clases** (A7): clase R, la narración posee un ítem singular y declina entregarlo; clase A, un personaje declina una potestad y al lector no se le retiene nada. **P-45: el presupuesto de clase R está agotado** — cero instancias nuevas en W5, W6, W7 y toda reserva.
+- Las hojas de poda **se miden con el contador oficial, no se estiman**.
+
+### Tres herramientas arregladas hoy, todas del mismo género
+
+Ninguna estaba rota: **las tres hacían lo que decía su código y nada de lo que decía su nombre.**
+
+1. `sensibilidad.sh --solo` fallaba **abierto** (W2).
+2. `mapa_ot.py` **callaba** las OT fuera de `tabla-5-1.json` — `OT-22b` y `OT-25b`, +960 palabras invisibles.
+3. **M5 medía tramos secos que atravesaban los cambios de escena**: una línea filtraba los dinkus de la secuencia antes del bucle. **17 de 47 capítulos exageraban**, hasta 289 palabras en `cap-15`, cuyo «tramo de 602» es en realidad 313. Se añade `max_tramo_escena`; el campo antiguo se conserva por comparabilidad.
+
+### Deudas
+
+- **`cap-n3`**: podar el inventario alrededor pasó la cena del 30,7 % al 38,8 % del capítulo y A6-1 la nombra ahora. **Podar alrededor de una escena la agranda.** Para W6, bajo el gate P-36.
+- **P-41 corregido**: son cinco loci de Kongsbakken, no seis, y la única coocurrencia con Jean es v0 en fichero protegido. Debe leerse «0 coocurrencias NUEVAS».
+- Pendiente del autor: cerrar **R3** en 175/600 y sustituir el criterio de Ritmo.

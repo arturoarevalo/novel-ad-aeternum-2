@@ -413,7 +413,7 @@ Afecta a `cap-40` y a `cap-32` por vecindad de tema. **Ninguna intervención de 
 
 - `40:167` («En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el teclado») es el pago del marzo de N4 y **es administrativo y administrativo se queda**. Glosar la llegada sería VETO.
 - La cancelación de R3 en el 40 **elimina el único riesgo real de P-41 de toda la oleada**: un beat de ensayo/repesca en la elipsis de febrero pasaba a treinta líneas de `:167` y habría tentado a que alguien cobrase la inscripción emocionalmente.
-- **Verificación obligatoria (A8, `grep`):** censo en seis, **0 coocurrencias** Kongsbakken↔Jean en capítulos, borradores, hojas de intervención y prompts. Nadie —tampoco Nora en interioridad— recuerda la discusión donde Kongsbakken aparece.
+- **Verificación obligatoria (A8, `grep`):** censo en **cinco** loci —`9:73`, `18:149`, `n4:79`, `n4:91`, `40:167`; `3:143` NO contiene el término—, **0 coocurrencias NUEVAS** Kongsbakken↔Jean en capítulos, borradores, hojas de intervención y prompts. Nadie —tampoco Nora en interioridad— recuerda la discusión donde Kongsbakken aparece.
 
 ### 10.2 · P-42 (el cuarto ítem de `22:203`)
 
@@ -542,7 +542,7 @@ La declaración de la v1 era **autocontradictoria**: decía a la vez que la inse
 - **Precede:** «—Quiero que nos dejes quedarnos —dijo—. …» · **Sigue:** «—Dormís aquí —dijo Aslak—. Mañana sacamos la barca si el hielo deja libre el amarre.» — los dos intactos.
 - **Spans más próximos:** `S26-paso-uso` (**anclaje único**) y `S26-asociacion` (**anclaje único**) quedan por encima; `S26-bocana` («—La bocana de Sørkoppen queda reservada por operaciones para el veintiuno de enero.», **anclaje único**) queda al final del capítulo. **Nada nuevo entra entre «Nora cerró el cuaderno. Aslak guardó la carpeta en la lata…» y `S26-bocana`**: ninguno de los tres cambia de vecino.
 
-**6 · `OT-26` I-5 — M4b, nueve antepuestas recompuestas**
+**6 · `OT-26` I-5 — M4b, diez antepuestas recompuestas**
 
 - **Forma:** se reordena **dentro de la frase** (sujeto delante, circunstancia detrás). **Prohibido** partir, fundir, vaciar o reordenar párrafos, y prohibido tocar contenido u objetos.
 - **Ninguna de las nueve está dentro de un span.** La antepuesta que abre `S26-lata` («Después de dejar el cabo, Aslak abrió el armario…») **no se toca**.
@@ -724,3 +724,28 @@ Ocho cosas. Las tres primeras están en el alcance vigente de W5 y las quito yo;
 2. **Defendí G-W5-1 con dos argumentos malos y acerté por casualidad.** «Paga un plantado sembrado en un fichero protegido» no exime de nada —si eximiera, el techo estaría vacío, porque aquí toda retención se justifica como pago— y mi caracterización del censo era **falsa**, comprobable contra el texto en treinta segundos. El criterio bueno es el test de las dos clases de §10.4, y **es el que gobierna todo lo que venga**: no se juzga el origen de una línea, se juzga si la narración posee un ítem y declina entregarlo.
 
 **A2 · 2026-08-18 · v2, sobre `informes/a7-w5.md`**
+
+
+---
+
+## 15. Correcciones de A7 sobre el diff (2026-08-18), aplicadas
+
+Dictamen en `informes/a7-w5-diff.md`. **Aprobado con correcciones, sin veto.** Las cinco, ejecutadas:
+
+1. **`cap-35`** — un solo dato de postura y **no el codo**: «con el codo recogido contra las costillas y la barbilla baja» → «con la barbilla baja» (−7). A7 rechaza expresamente que sea Carta 7 —«caer con la barbilla baja no es conducta de riesgo»— y da el motivo bueno: dos posiciones **ordenadas** más su resultado verificado es formalmente **una instrucción**, y el codo importa el aikido como anatomía. El argumento decisivo: **`3:123` lo paga el eco de las palabras** («caer sin hacerse daño» → «No se hizo daño»), **no la anatomía**.
+2. **`cap-24`** — el gesto pierde «dos dedos». **`26:99` y `33:81` no se tocan**: el choque lo creó la recomposición M4b de esta misma oleada, que volvió `26:99` sintácticamente idéntica.
+3. **`cap-26`** — suprimido «sin responsable».
+4. **§10.5 n.º 6:** eran **diez** antepuestas, no nueve. `OT-26` §9 sí las declaraba las diez; el error estaba en el plan.
+5. **§10.1 y hoja de A8:** P-41 se verifica como **«0 coocurrencias NUEVAS»** sobre un censo de **cinco** loci. Verificar «cero» a secas fallaba la oleada contra `9:73`, que es v0 en fichero de protección total. Y **P-44 cond. 7 se cuenta por LOCUS, no por ocurrencia**: `4:27` nombra el cinturón dos veces en la misma línea y es de v0, así que `grep -rno` da 5 y no es una quinta. **Censo verificado hoy: 4 loci.**
+
+**Manuscrito tras las correcciones: 80.275, en banda.**
+
+### Tres repeticiones que solo aparecen leyendo la rama entera
+
+A7 señala que **ninguna intervención las causa por separado**: el gesto de los dos dedos (corregido), la figura «no hay nombre» dicha **tres veces en `cap-26`** con el narrador adelantando lo que dice Maja, y `cap-40` diciendo «No preguntó» dos veces en idéntica construcción y posición. Esto último A7 lo asume como error propio al fijar la posición del cinturón —no vio que la instancia más cercana estaba en el mismo capítulo—, lo deja y cierra `40:81` a modificación (**P-50**).
+
+### Pendiente
+
+**`OT-40` I-4 no está ejecutada.** `40:161-163` conservan el orden de v0 y la declaración n.º 13 queda sin cumplir. Es un reorden a coste cero, tarea de A4, y **A7 debe una segunda pasada sobre él**: permuta dónde cierra una escena a dos párrafos de `S40-despedida`.
+
+Condiciones nuevas: **P-50** (`40:81` cerrado), **P-51** (figura «sin nombre» cerrada en 12), **P-52** (`cap-31` cerrado a clase A), **P-53** (la operaria no vuelve), **P-54** (la cala de Mats no crea precedente — VETO si se cruza), **P-55** (ningún cuerpo de menor recibe más de un dato de postura en acción de riesgo).

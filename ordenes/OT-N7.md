@@ -1,0 +1,54 @@
+---
+ot: OT-N7
+capitulo: N7
+titulo: El salero
+oleada: W5
+escritor: —
+delta_objetivo: 0
+---
+
+# OT-N7 · «El salero» · capítulo nuevo por extracción, sin una palabra escrita
+
+**A0 · 2026-08-18.** Orden de **movimiento**, no de escritura. Se extrae la cena del metrónomo de `cap-n3` —**1.096 palabras, diff 0 desde que se escribió en W3**— y se le da capítulo propio en `orden_lectura` **14,5**, detrás de `cap-14` «La visita». **Δ del proyecto: 0.**
+
+## 1. Por qué
+
+El gate de W5 falla: **`cap-n3` lo nombran dos de tres lectores fríos** como punto de abandono, y coinciden en el motivo — **es emplazamiento, no tamaño**. A6-2: «contiene la mejor escritura del libro… pero llega al 55 %, **detiene los cuatro relojes institucionales**».
+
+A2 demostró que `cap-n3` **no puede moverse** (cinco anclas lo clavan al 29 de diciembre; el 22,5 es el único hueco legal) y que **en todo el tramo 48–57 % la cena es el único objeto de texto no clavado a una fecha**. La única pieza movible del tramo es la que los dos lectores quieren mover.
+
+**Ganancia que decide, y no es métrica:** con la cena en 14,5, **`20:115` —línea del autor, fichero de protección total— deja de ser evocación y pasa a ser el recuerdo del propio lector** en el instante en que Maja tiene el pómulo de Alana al alcance. A7 confirma la ganancia.
+
+## 2. Título · «El salero» (G-8, A0)
+
+**«Sesenta» queda NO AUTORIZADO por A7 (P-58)**, con dos razones que ni A2 ni A0 habían visto:
+
+1. **El rendering.** `compilar.py` escribe `## <n>. <título>`, así que saldría **`## 17. Sesenta`**: el único título numeral de 48 capítulos, en un libro cuyos cuatro subtítulos de parte son cuentas atrás explícitas. **Sesenta días antes de Soldagen es el 22 de noviembre: dos días antes de que empiece el libro, cuatro antes de lo que el libro elide.** El texto se niega escrupulosamente a convertir la escena en señal retrospectiva; el paratexto lo haría gratis.
+2. **«sesenta» ya carga peso en `40:177`** (fichero `total`, la petición de la ejecución, CH-73), y `cap-23` (`total`) tiene el hueco del segundo regalo con el metrónomo dentro. Un capítulo *llamado* por la marca del metrónomo pone el pulgar sobre **dos ambigüedades protegidas a la vez**.
+
+**A0 elige «El salero»** de las tres alternativas de A7, y **descarta «La sopa»** por una versión suave del mismo defecto: SOPA es una cadena viva (`04:17` → `n1:435` → [14,5] → `n3:95`), y titular el capítulo por ella hace que el índice apunte a una cadena Chéjov. **«El centro de la mesa»** se descarta por longitud: rompe el registro de artículo + sustantivo de «La visita», «La canción», «La firma», «La asamblea», «La oferta», «La poda», «La caída».
+
+El salero aparece cuatro veces en la escena, no encadena nada, no admite aritmética de fechas y es **el objeto más banal disponible** — que es exactamente lo que la escena necesita: su defensa contra volverse un altar es no ser simbólica.
+
+## 3. Perímetro heredado de A7 (P-59, transcrito ANTES de que el fichero exista)
+
+Todo lo que sigue viajaba con la escena dentro de `cap-n3` y **sigue vigente en el fichero nuevo**:
+
+- **C-3 · perímetro de no-ampliación.** Las frases del bloque movido **pueden cortarse, nunca crecer**. No pueden ganar una cláusula, un adjetivo, un adverbio, una acotación, una mirada, una pausa ni un segundo inciso.
+- **C-4.3 · vigilancia hacia delante** sobre «—¿Para qué la apuntas? —preguntó Jean. / —Para saber por qué no contesta.» Es la única línea que un lector puede releer al terminar el libro. No se glosa, no se responde, no se recoge después.
+- **Ejemplares que no se tocan:** «La contó dos veces. La segunda tenía más gente dentro de la caja.» y **la réplica de la taza reparada** —«—Esa taza está rota. / —Está reparada. / —Ya. ¿Y por qué esa? / —Porque agarra bien.»—, que A7 identifica como **la vacuna antisimbólica que la escena lleva dentro** y la razón por la que la aislaba se aprueba en vez de vetarse.
+
+## 4. P-60 · disparador de reversión (escrito ANTES de mover nada)
+
+> **Si un solo lector frío llama a este capítulo homenaje, elegía o «el capítulo donde vemos quién era», la reversión se ejecuta sin deliberar.**
+
+A7 lo formula así porque **lo que la escena pierde es una garantía estructural —la caja que la contenía— y lo que gana es contractual**. La reversión es exacta y no aproximada: `git revert` del commit de movimiento, `orden_lectura` de vuelta y baja en el manifiesto. **La cena no habrá sido tocada en ningún momento.**
+
+## 5. Condiciones de ejecución
+
+- **P-56:** el span M9 del capítulo nuevo se define **con los dos extremos**, no por anclaje único. Convierte en mecánico lo que si no sería contractual. *(De los 109 spans vigentes, 51 son de anclaje único y M9 es ciego a todo su entorno; no se añade el 52.º.)*
+- **P-57:** A8 **declara por escrito, sobre el compilado**, cuáles son los vecinos de `S14-firmo` y de la costura de `cap-n3`. M9 aquí es ciego por construcción: `S14-firmo` son 42 caracteres de anclaje único.
+- **Frontera `S14-firmo`: AUTORIZADA por A7.** La enmienda a G-3 protege **el aparato de énfasis** de la línea, no su posición en el fichero, y los cuatro elementos que lo forman —última línea de capítulo, párrafo propio sin vecino textual por abajo, revelación sin respuesta, corte de capítulo detrás— **se conservan**. Lo único que cambia es qué llena el silencio.
+- **`orden_lectura` 13,5 queda PROHIBIDA** (plan B de A2, rechazado por A7 con más fuerza que la vía principal): pondría la amistad intacta *antes* de verla rota en `cap-14` —paraíso y después caída, la forma canónica de la elegía— y `S13-crecer` es la línea de una ejecución.
+- Frontmatter: `fecha: 2059-03-04`, `analepsis: true`, `proteccion: no`, `estado_plan: N`, `orden_lectura: 14.5`. La fecha **no se compila** y es invisible para el lector.
+- Registro en `capitulos[]` del manifiesto **solo vía `actualizar-metadatos.sh`** y tras superar el gate.
