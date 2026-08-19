@@ -88,7 +88,7 @@ Ninguno se nombra, cita, adivina, parafrasea, glosa, completa ni «recupera», e
 - **La «cita anterior» de `cap-13:147` no se nombra nunca.** Ni «salud laboral», ni «seguimiento», ni «evaluación». Su identificación es y seguirá siendo inferencia del lector. Y nadie establece que Alana supiera antes del 26-nov del proceso de salud laboral de Jean.
 - **El objeto de «buscarse un error» (`cap-30:237`) no sale del registro de trabajo.** Ninguna voz lo conecta con su vida, su familia o su muerte.
 - **La pluralidad la enuncian dos voces y no hay una tercera:** `cap-10:71` («yo tampoco puedo daros una sola causa») y `cap-11:249`. Las cuatro líneas de `cap-11` son inseparables de su desactivación —«—¿Y si la hay? / —Entonces yo no la conozco»— y esa desactivación no se separa de ellas.
-- **La sospecha de personaje sí vive:** «Y mamá tenía enemigos» (`cap-29:211`). El narrador no la refrenda ni deriva causa de ella. Esa es la forma correcta.
+- **La sospecha de personaje sí vive:** «Y mamá tenía enemigos» (`cap-29:215`). El narrador no la refrenda ni deriva causa de ella. Esa es la forma correcta.
 
 ### R4 · Ni descanso, ni solución, ni castigo — y ninguna rima se enuncia
 
