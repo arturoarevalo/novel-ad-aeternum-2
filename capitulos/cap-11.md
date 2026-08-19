@@ -272,6 +272,8 @@ Henrik acercó su tableta.
 
 —No se ha detectado difusión pública. La suspensión se activó tras una secuencia reproducible de consultas y respuestas fuera del comportamiento previsto.
 
+Dahl volvió a la campaña de la esquina y comprobó los idiomas.
+
 La ficha añadió la última conexión. A los dieciséis, Nora había perseguido una respuesta hasta acabar sola ante un departamento que la llamaba «exposición».
 
 —Quiero el registro completo —dijo Alana.

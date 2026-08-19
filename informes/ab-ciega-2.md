@@ -1,0 +1,8 @@
+# lector-frio · lectura · FRÍO REAL — 2026-08-19
+
+> Ejecutado con `herramientas/critica-fria.sh` (claude -p desde `/tmp/claude-1000/-workspaces-novel-ad-aeternum-2/bd090156-c6af-4c32-99b6-0c9d6d54266f/scratchpad/frio/20260819-134614-lector-frio`, fuera del repositorio; system prompt = cuerpo de `.claude/agents/lector-frio.md`; sin herramientas, sin CLAUDE.md, sin memoria, sin MCP; entorno de la sesión padre eliminado). Insumo único inline: `compilado/extractos/ab/ab-2.md` (sha256 3c145275f23d14f8…, 13277 palabras). Instrucción previa: «Vas a leer DOS versiones de los mismos seis capitulos de una novela, en el mismo orden. Son dos estados distintos del mismo manuscrito. Lee las dos enteras y responde SOLO esto, en cuatro lineas: (1) cual de las dos versiones es mejor como novela, VERSION 1 o VERSION 2; (2) una sola frase con el motivo principal; (3) el capitulo donde mas se nota la diferencia, por su numero; (4) una cosa que la version peor haga MEJOR que la otra, o la palabra NADA. No resumas la trama.».
+> Modelo pedido `claude-opus-4-8` (esfuerzo medium) · tokens por modelo: `claude-haiku-4-5-20251001`: in 28,143 / cache_w 0 / cache_r 0 / out 17; `claude-opus-4-8`: in 1 / cache_w 38,359 / cache_r 0 / out 618 (la llamada auxiliar de haiku es del harness, no del lector) · razonamiento 439 · coste 0.427273 USD · 11 s · turnos 1 · stop end_turn
+(1) VERSION 1.
+(2) Conserva los anclajes concretos y sensoriales (casos cotidianos, fotos, piano, la playa) que dan peso emocional y legibilidad a una premisa muy abstracta que la VERSION 2 adelgaza hasta volverse árida.
+(3) Capítulo 2.
+(4) La VERSION 2 explica con más claridad el mecanismo del rastro que se desplaza entre casos en el capítulo 1 (motivo, `REVISAR` e identificador).

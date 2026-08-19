@@ -1,4 +1,4 @@
-# B6 · Huella estilística — datos cuantitativos (v0)
+# B6 · Huella estilística — datos cuantitativos (--help)
 
 ## Grupo: global (48 capítulos)
 

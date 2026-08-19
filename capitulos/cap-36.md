@@ -14,11 +14,11 @@ orden_lectura: 42
 
 La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
 
-La primera adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
+La adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
 
-Una segunda continuidad se detiene, retira su adhesión y recupera las diferencias aún no entregadas. Jean deja el lugar vacío y conserva la retirada bajo su origen.
+Una segunda continuidad se detiene, retira su adhesión y recupera lo aún no entregado. Jean deja el lugar vacío y conserva la retirada bajo su origen.
 
-Si las condiciones cambian antes del cierre, recibirá otra ventana. El hueco consume capacidad. Dentro de él reaparece una apelación caducada.
+Si las condiciones cambian antes del cierre, esa continuidad recibirá otra ventana. El hueco consume capacidad. Dentro de él reaparece una apelación caducada.
 
 Cuchillo ha conservado el fragmento que ocultó al terminar la asamblea. Su alcance sigue limitado a apelaciones, aislamiento y cierres. Encadenando una salida con la siguiente, `/0188` ha alcanzado el control de accesos del Auditorio.
 
