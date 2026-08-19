@@ -8,7 +8,7 @@ analepsis: false
 estado_plan: N
 proteccion: nucleo
 ot: OT-N1
-delta_objetivo: +2200
+delta_objetivo: 0
 orden_lectura: 9.5
 ---
 
@@ -398,7 +398,7 @@ Maja juntó los cuatro vasos en el centro de la mesa. Nora se puso el abrigo y s
 
 * * *
 
-Un hombre ocupaba el rellano con un niño sentado en el suelo, ya con las botas puestas. Maja se apartó para dejarles sitio en la escalera.
+En el rellano esperaba un hombre con un niño sentado en el suelo, ya con las botas puestas. Maja se apartó para dejarles sitio en la escalera.
 
 Nora bajó delante. Jessie fue detrás y no se puso la capucha hasta la calle.
 

@@ -8,7 +8,7 @@ analepsis: false
 estado_plan: RW
 proteccion: nucleo
 ot: OT-30
-delta_objetivo: +100
+delta_objetivo: 0
 orden_lectura: 30
 ---
 

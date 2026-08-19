@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w6",
+  "fecha": "2026-08-19T08:56:11",
+  "capitulos": 48,
+  "palabras": 79771,
+  "por_parte": {
+    "1": 19924,
+    "2": 20325,
+    "3": 20160,
+    "4": 19362
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w6.md"
+}
