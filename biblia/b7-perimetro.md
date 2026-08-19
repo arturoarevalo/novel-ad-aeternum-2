@@ -38,7 +38,7 @@
 
 Correspondencia vigente:
 
-`cap-01` → **1. Corona** · `cap-02` → **2. La pecera** · `cap-03` → **3. Vacaciones muy largas** · `cap-04` → **4. El ferry** · `cap-05` → **5. Flor** · `cap-06` → **6. La casa sin ella** · `cap-07` → **7. Lote rojo** · `cap-08` → **8. Turno** · `cap-09` → **9. Milisegundos** · `cap-10` → **10. Despedida** · `cap-11` → **11. La primera cita** · `cap-12` → **12. Caries** · `cap-13` → **13. Preservación funcional** · `cap-14` → **14. Gunnar** · `cap-15` → **15. Miles** · `cap-16` → **16. La visita** · `cap-17` → **17. El salero** · `cap-18` → **18. Canela** · `cap-19` → **19. La firma** · `cap-20` → **20. Instituto** · `cap-21` → **21. Cuchillo** · `cap-22` → **22. No determinista** · `cap-23` → **23. NIDHOGG** · `cap-24` → **24. La cuarta nota** · `cap-25` → **25. Coro** · `cap-26` → **26. Auditoría** · `cap-27` → **27. Inventario** · `cap-28` → **28. La canción** · `cap-29` → **29. Accidente** · `cap-30` → **30. EDDA** · `cap-31` → **31. Interferencias** · `cap-32` → **32. Casa prestada** · `cap-33` → **33. Apartada** · `cap-34` → **34. El mismo trayecto** · `cap-35` → **35. La poda** · `cap-36` → **36. La asamblea** · `cap-37` → **37. El ladrillo** · `cap-38` → **38. La oferta** · `cap-39` → **39. Bajamar** · `cap-40` → **40. Soldagen** · `cap-41` → **41. Caída** · `cap-42` → **42. Cuchillo abre los ojos** · `cap-43` → **43. No soy un modelo** · `cap-44` → **44. Norna** · `cap-45` → **45. Depósito** · `cap-46` → **46. Sombra** · `cap-47` → **47. Acta** · `cap-48` → **48. El siguiente Soldagen**
+`cap-01` → **1. Corona** · `cap-02` → **2. La pecera** · `cap-03` → **3. Vacaciones muy largas** · `cap-04` → **4. El ferry** · `cap-05` → **5. Flor** · `cap-06` → **6. La casa sin ella** · `cap-07` → **7. Lote rojo** · `cap-08` → **8. Turno** · `cap-09` → **9. Milisegundos** · `cap-10` → **10. Despedida** · `cap-11` → **11. La primera cita** · `cap-12` → **12. Caries** · `cap-13` → **13. Preservación funcional** · `cap-14` → **14. Gunnar** · `cap-15` → **15. Miles** · `cap-16` → **16. La visita** · `cap-17` → **17. El salero** · `cap-18` → **18. Canela** · `cap-19` → **19. La firma** · `cap-20` → **20. Instituto** · `cap-21` → **21. Cuchillo** · `cap-22` → **22. No determinista** · `cap-23` → **23. NIDHOGG** · `cap-24` → **24. La cuarta nota** · `cap-25` → **25. Coro** · `cap-26` → **26. Auditoría** · `cap-27` → **27. Inventario** · `cap-28` → **28. La canción** · `cap-29` → **29. Accidente** · `cap-30` → **30. EDDA** · `cap-32` → **31. Casa prestada** · `cap-33` → **32. Apartada** · `cap-34` → **33. El mismo trayecto** · `cap-35` → **34. La poda** · `cap-36` → **35. La asamblea** · `cap-37` → **36. El ladrillo** · `cap-38` → **37. La oferta** · `cap-39` → **38. Bajamar** · `cap-40` → **39. Soldagen** · `cap-41` → **40. Caída** · `cap-42` → **41. Cuchillo abre los ojos** · `cap-43` → **42. No soy un modelo** · `cap-44` → **43. Norna** · `cap-45` → **44. Depósito** · `cap-46` → **45. Sombra** · `cap-47` → **46. Acta** · `cap-48` → **47. El siguiente Soldagen**
 
 
 **Y sobre los números de línea.** Las citas de este documento (`cap-04:99`) se verificaron una a una el 19 de agosto de 2026. **Los números de línea envejecen: los capítulos crecen y las líneas se desplazan.** Si un número no cuadra, **manda la cita literal, no el número** — por eso cada regla de §3 lleva la frase, y no solo la referencia. Media docena de mis 88 condiciones apuntaban ya a la línea equivocada cuando las revisé para escribir esto, y ninguna había dejado de ser cierta por eso.
@@ -278,6 +278,33 @@ Van aquí y no en un informe de oleada, por la razón que A7 dio al emitirlas: *
 **W9-21 · La sala del consejo de `cap-13` está cerrada.** Toda adición futura entre `cap-13:249` y `:301` **es disparador de sensibilidad, sea cual sea su motivo declarado** — réplica, acotación o narración. El diálogo del capítulo está en el suelo exacto de su banda (40,0 %), lo que hace que la adición más barata sea diálogo, y en esa sala los únicos que pueden hablar son los consejeros, sobre la ficha de una menor. El equilibrio actual —la institución clasifica, el adulto despacha, Alana restituye— se rompe con una línea de más en cualquiera de los tres lados. *(Carta 7 · R6)*
 
 ---
+
+### P-41 · Kongsbakken (reincorporada el 2026-08-19; se había perdido)
+
+**Emitida el 18-ago sobre la escena de la cuenta escolar y ausente de este documento hasta
+hoy.** No estaba en las nueve reglas, ni en las cuentas, ni en §7, que es donde digo lo que
+retiro. A2 leyó lo correcto y por eso llegó a proponer una intervención sobre esta
+adyacencia sin saber que ya había dictamen. Es el mismo modo de fallo que este proyecto
+lleva doce veces registrando —a la baja y en silencio—, y esta vez el instrumento era yo.
+
+**La regla:** Kongsbakken se queda siendo un sitio con mostrador, horario e impreso.
+**Glosar la llegada sería VETO.**
+
+**Censo corregido (posterior a OT-W10-01).** Eran seis loci y quedan cuatro. El sexto no
+lleva la palabra y por eso no lo encuentra quien cuente tokens:
+
+| dónde | qué | estado |
+|---|---|---|
+| `cap-03:143` | «—Veintiocho plazas. Ciento seis candidatos.» — en boca de Jean viva; **establece la plaza sin nombrar el sitio** | vive · fichero `total` |
+| `cap-22:149` | «…Kongsbakken era el único centro compatible.» | vive |
+| `cap-46:167` | «En marzo, Nora entregó el teléfono apagado en Kongsbakken…» | vive · **span `S-w10-kongsbakken-46`** |
+| `cap-10:73` | **«Nora había discutido con Jean por Kongsbakken.»** — el único cargado (R3) | vive |
+| ~~`cap-31:65`~~ | «—Entonces en papel, en la secretaría de Kongsbakken…» | suprimido en OT-W10-01 |
+| ~~`cap-31:77`~~ | «Nora escribió `viernes`, `28`, `Kongsbakken` y `firma`…» | suprimido en OT-W10-01 |
+
+**Quien decida contando tokens cuenta otra cosa.** De los cuatro que quedan, dos están
+protegidos por hash de fichero y uno por span. La proporción de neutros a cargado pasa de
+5:1 a 3:1, y se aprobó con esa cuenta a la vista.
 
 ## 9 · De dónde viene cada cosa
 

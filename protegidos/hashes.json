@@ -643,17 +643,17 @@
       "longitud": 683
     },
     "S-n4-escena3": {
-      "archivo": "capitulos/cap-31.md",
+      "archivo": "capitulos/cap-32.md",
       "hash": "8da0a59ce49e4a44082500d18e493286504067e5e7477b70e42abefcd39c8330",
       "longitud": 698
     },
     "S-n4-caja": {
-      "archivo": "capitulos/cap-31.md",
+      "archivo": "capitulos/cap-32.md",
       "hash": "c7fe6e52d1811bc7c8d01960f3b309fd0acf01c2604dae38a3effe821889b628",
       "longitud": 781
     },
     "S-n4-p49": {
-      "archivo": "capitulos/cap-31.md",
+      "archivo": "capitulos/cap-32.md",
       "hash": "97b28c47105e3c427fa3c3e336c483077cc61794c0ad6e54c85c13b91d978aa5",
       "longitud": 130
     },
@@ -686,7 +686,27 @@
       "archivo": "capitulos/cap-46.md",
       "hash": "5de79fc8b96d312fb7da8f1cba61adcb680c32deb3863faa4f592179b6ead86a",
       "longitud": 274
+    },
+    "S-w10-kongsbakken-46": {
+      "archivo": "capitulos/cap-46.md",
+      "hash": "09d4a5b165be8547519cf35ce907c3170dd6294178a74003c1fba4038d6f26dc",
+      "longitud": 81
+    },
+    "S-w10-mananas-34": {
+      "archivo": "capitulos/cap-34.md",
+      "hash": "28428eb267a709b869e4ae46ede2a2513b82f304f74782f685eb56d825f07132",
+      "longitud": 139
+    },
+    "S-w10-costura-c3": {
+      "archivo": "capitulos/cap-32.md",
+      "hash": "cdf1e976aca89c1ccec321df169b049894b1897893d83c4634d6bf1d9edc961e",
+      "longitud": 276
+    },
+    "S-w10-ducha": {
+      "archivo": "capitulos/cap-32.md",
+      "hash": "d7a0fc6e627288cf923821f7444b0e1035c0706afcc7831dc3f2abca4053957d",
+      "longitud": 663
     }
   },
-  "generado": "2026-08-19T16:01:17"
+  "generado": "2026-08-19T18:18:53"
 }

@@ -170,6 +170,48 @@ def cmd_renumerar(args):
     print("partes:", [(p["n"], p["capitulo_inicial"], p["capitulo_final"]) for p in m["partes"]])
     print("RECUERDA: renumerar también el campo 'capitulo' del frontmatter (herramientas/inyectar-frontmatter.sh --renumerar-w7).")
 
+def cmd_fundir(args):
+    """W10 · funde el capítulo <origen> dentro de <destino>: retira la entrada del origen,
+    reajusta el recuento del destino, renumera `n` de los posteriores y encoge el rango de
+    la parte afectada. Existe porque hasta W10 el proyecto no podía fundir capítulos y la
+    operación no tenía herramienta: hacerlo a mano habría violado la regla del manifiesto."""
+    m = aa.load_manifest(); antes = _autor_snapshot(m)
+    if not args.gate:
+        sys.exit("Fundir capítulos exige --gate \"OT-... A7 <fecha>\": es estructural y pasa por A7.")
+    org, dst = os.path.basename(args.origen), os.path.basename(args.destino)
+    caps = m["capitulos"]
+    ce = next((c for c in caps if c["archivo"] == org), None)
+    cd = next((c for c in caps if c["archivo"] == dst), None)
+    if ce is None: sys.exit(f"{org} no está en el manifiesto.")
+    if cd is None: sys.exit(f"{dst} no está en el manifiesto.")
+    if os.path.exists(os.path.join(aa.CAPITULOS, org)):
+        sys.exit(f"{org} todavía existe en capitulos/: funde el texto primero y bórralo.")
+    reales = _capitulos_reales()
+    if dst not in reales: sys.exit(f"No encuentro {dst} en el orden de lectura.")
+    n_org = ce.get("n")
+    caps.remove(ce)
+    nuevo_real = aa.count_words(reales[dst]["body"])
+    cd["palabras_real"] = nuevo_real
+    cd["palabras"] = nuevo_real
+    cd["origen"] = f"{cd.get('origen','?')} + {ce.get('origen','?')} (fusión {args.gate})"
+    # NO se renumera. Se deja un HUECO en la numeración, documentado en b0-mapa-renumeracion.md.
+    #
+    # Renumerar aquí desincroniza `n` de los `orden_lectura` de los ficheros y de sus nombres,
+    # que es exactamente el fallo que b7-perimetro.md §2 documenta: «durante unas horas, quien
+    # aplicara el perímetro por número de fichero habría errado en cuarenta de los cuarenta y
+    # ocho casos». Con 133 spans, 65 citas del perímetro y un mapa de equivalencias apuntando a
+    # nombres de fichero, el coste de renumerar en caliente supera con mucho el de un hueco.
+    # La renumeración es una operación aparte, se hace UNA VEZ y al final, como en W7.
+    #
+    # Los rangos de `partes[]` NO se tocan: describen cotas de orden_lectura, no cuentas, y el
+    # compilador numera 1..N por orden de lectura, así que el libro impreso sale correlativo.
+    hueco = n_org
+    _registrar_gate(args.gate, f"fundir {org} dentro de {dst}: {len(caps)+1} -> {len(caps)} capítulos, hueco en n={hueco}")
+    _guardar(m, antes)
+    print(f"fundido {org} en {dst}: {len(caps)} capítulos · {dst} pasa a {nuevo_real} palabras")
+    print(f"  hueco documentado en n={hueco}; rangos de partes intactos; renumerar es operación aparte")
+
+
 def cmd_verificar(args):
     m = aa.load_manifest()
     errores, avisos = [], []
@@ -256,12 +298,14 @@ def main():
     p = sub.add_parser("presupuestos"); p.add_argument("--v0", action="store_true")
     p = sub.add_parser("registrar"); p.add_argument("archivo"); p.add_argument("--gate")
     p = sub.add_parser("renumerar"); p.add_argument("--w7", action="store_true"); p.add_argument("--gate-autor")
+    p = sub.add_parser("fundir"); p.add_argument("--origen", required=True); p.add_argument("--destino", required=True); p.add_argument("--gate")
     p = sub.add_parser("verificar")
     p = sub.add_parser("paratexto"); p.add_argument("archivo")
     sub.add_parser("mostrar")
     args = ap.parse_args()
     {"palabras-real": cmd_palabras_real, "objetivo": cmd_objetivo, "presupuestos": cmd_presupuestos,
      "registrar": cmd_registrar, "renumerar": cmd_renumerar, "verificar": cmd_verificar,
+     "fundir": cmd_fundir,
      "paratexto": cmd_paratexto, "mostrar": cmd_mostrar}[args.cmd](args)
 
 if __name__ == "__main__":

@@ -804,21 +804,21 @@
   },
   {
    "id": "S-n4-escena3",
-   "archivo": "capitulos/cap-31.md",
+   "archivo": "capitulos/cap-32.md",
    "inicio": "Jessie abrió el vídeo en el teléfono y buscó el primer fotograma. La hora estaba grabada en la esquina, en el mismo formato que el recibo de la comisaría. Era la del domingo.",
    "fin": "Jessie se la dio y volvió a coger el teléfono.",
    "desc": "P-38 + P-64 en un solo hash, y P-65 (a) hecha mecánica. Cubre las cuatro réplicas del coste de Jessie («—¿Cuándo acaba lo mío?… —Tampoco lo dice.») y la lectura en voz alta de «No consta responsable individual.» con la pregunta «—¿Y les sale la misma frase?» que nadie contesta. Tras la operación de "
   },
   {
    "id": "S-n4-caja",
-   "archivo": "capitulos/cap-31.md",
+   "archivo": "capitulos/cap-32.md",
    "inicio": "Astrid no preguntó nada más y Maja no le mandó ninguna otra línea.",
    "fin": "Las habitaciones que daban a la calle seguían apagadas desde diciembre. El telefonillo continuaba fuera de la pared, con los dos cables recogidos.",
-   "desc": "N4-1 + P-65 (c) + P-63. El bloque de la caja con sus dos tampones, incluida «Nora dejó el cuaderno pautado sobre la funda y volvió a cogerlo.», el único beat no administrativo de una menor en el capítulo. Hoy solo lo protege una ficha de paragrafado escrita en un informe mío."
+   "desc": "N4-1 + P-65 (c) + P-63. El bloque de la caja con sus dos tampones, incluida «Nora dejó el cuaderno pautado sobre la funda y volvió a cogerlo.». Era el único beat no administrativo de una menor cuando esto era cap-31; tras la fusión de W10 (OT-W10-01) ya no lo es —la ducha de Jessie está en el mismo capítulo—, y por eso la protección pasa a ser del bloque en sí y no de su rareza. Sostiene además los «cuatro documentos» de cap-38:93."
   },
   {
    "id": "S-n4-p49",
-   "archivo": "capitulos/cap-31.md",
+   "archivo": "capitulos/cap-32.md",
    "inicio": "—La dejas donde está.",
    "fin": "—Si preguntan de fuera, ¿qué contesto? —dijo.",
    "desc": "P-49. «La responsable escribió algo corto y no lo leyó en voz alta.» Lo que escribe no se especifica, no se recuerda, no se completa y no se cobra jamás. Es una de las pocas cosas del capítulo que siguen ilegibles."
@@ -864,6 +864,34 @@
    "inicio": "—Te recibo.",
    "fin": "—He traído el teclado.",
    "desc": "La ambiguedad ontologica del Ap. A §3, blindada ENTERA con sus dos vecinas porque son un solo mecanismo: la voz es y no es / tres candidatos sin jerarquia / 'Nora no escogio una explicacion', que atribuye la negativa al personaje y no al narrador. Va por span y no por prohibicion: una prohibicion se glosa, un hash no. Su forma antepuesta la sostiene, y una oleada futura podria convertirla creyendola un tic."
+  },
+  {
+   "id": "S-w10-kongsbakken-46",
+   "archivo": "capitulos/cap-46.md",
+   "inicio": "En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el teclado.",
+   "fin": "En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el teclado.",
+   "desc": "K-2 de A7 (OT-W10-01). Tras suprimir la escena 1 de cap-31, Kongsbakken pasa de seis loci a cuatro y de cuatro neutros a dos. Este es uno de los dos que quedan desactivando «Nora había discutido con Jean por Kongsbakken» (cap-10:73, R3). Si desaparece, el topónimo queda mayoritariamente cargado."
+  },
+  {
+   "id": "S-w10-mananas-34",
+   "archivo": "capitulos/cap-34.md",
+   "inicio": "—¿Ya hay fecha para la repesca? —preguntó Maja.",
+   "fin": "—No hace falta todas.",
+   "desc": "K-3 de A7 (OT-W10-01). Al caer la escena 1 de cap-31 y las réplicas del impreso, este pasa a ser el único pago de marzo y de las mañanas en toda la segunda mitad del libro. Sin span, la próxima pasada de línea se lo lleva por «redundante»."
+  },
+  {
+   "id": "S-w10-costura-c3",
+   "archivo": "capitulos/cap-32.md",
+   "inicio": "Cruzaron el puente de Tromsøya a las cinco menos veinte. Hasta la casa baja del Lyngen quedaban dos horas de carretera y un desvío sin salar.",
+   "fin": "La tercera bolsa se quedó en el maletero.",
+   "desc": "F-1 de A7 (OT-W10-01). LA ELISIÓN, no el texto. Lo que hay entre estas dos frases eran dos capítulos distintos y hoy es un dinkus: dos horas de carretera de invierno, de noche, de Tromsø a la ribera del Lyngen, cuyo primer tramo es el trayecto de Jean. Un hueco entre capítulos no lo rellena nadie; un hueco dentro de un capítulo es una escena que falta, y alguien la escribirá dentro de un año para dar aire. R1: no crece. Esta elisión se cierra con un hash, no con un párrafo en un informe."
+  },
+  {
+   "id": "S-w10-ducha",
+   "archivo": "capitulos/cap-32.md",
+   "inicio": "Nora subió con el cuaderno pautado bajo el brazo mientras Jessie se encerraba en el baño.",
+   "fin": "—Respuesta correcta.",
+   "desc": "F-2 de A7 (OT-W10-01). «El modelo del libro para el punto 7 y para el 6 a la vez», y hasta hoy sin protección alguna. El llanto ocurre detrás de una puerta y nadie pregunta. F-6, permanente: nada conecta jamás esta escena con los papeles del día."
   }
  ]
 }
