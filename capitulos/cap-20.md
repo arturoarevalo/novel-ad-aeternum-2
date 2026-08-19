@@ -1,5 +1,5 @@
 ---
-capitulo: 20
+capitulo: 24
 titulo: La cuarta nota
 pov: Alana → Maja → Nora
 fecha: 2060-12-20
@@ -9,7 +9,7 @@ estado_plan: P
 proteccion: total
 ot: OT-20
 delta_objetivo: 0
-orden_lectura: 20
+orden_lectura: 24
 ---
 
 Alana dejó la clave de auditoría en el centro del banco helado y retrocedió dos pasos.

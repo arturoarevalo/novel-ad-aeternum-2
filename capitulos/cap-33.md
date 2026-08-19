@@ -1,5 +1,5 @@
 ---
-capitulo: 33
+capitulo: 39
 titulo: Bajamar
 pov: Maja
 fecha: 2061-01-20T21:10
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-33
 delta_objetivo: 0
-orden_lectura: 33
+orden_lectura: 39
 ---
 
 Maja encontró el repetidor dentro de la manga de Jessie.

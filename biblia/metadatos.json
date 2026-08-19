@@ -14,28 +14,28 @@
       "titulo": "Mørketid",
       "subtitulo": "24 de noviembre de 2060 · Faltan 58 días para Soldagen",
       "capitulo_inicial": 1,
-      "capitulo_final": 10
+      "capitulo_final": 12
     },
     {
       "n": 2,
       "titulo": "Fije la vista",
       "subtitulo": "6 de diciembre de 2060 · Faltan 46 días para Soldagen",
-      "capitulo_inicial": 11,
-      "capitulo_final": 20
+      "capitulo_inicial": 13,
+      "capitulo_final": 24
     },
     {
       "n": 3,
       "titulo": "Propiedad intelectual",
       "subtitulo": "25 de diciembre de 2060 · Faltan 27 días para Soldagen",
-      "capitulo_inicial": 21,
-      "capitulo_final": 30
+      "capitulo_inicial": 25,
+      "capitulo_final": 36
     },
     {
       "n": 4,
       "titulo": "Soldagen",
       "subtitulo": "15 de enero de 2061 · Faltan 6 días para Soldagen",
-      "capitulo_inicial": 31,
-      "capitulo_final": 41
+      "capitulo_inicial": 37,
+      "capitulo_final": 48
     }
   ],
   "capitulos": [
@@ -103,7 +103,7 @@
       "palabras_real": 1690
     },
     {
-      "n": null,
+      "n": 8,
       "slug": "turno",
       "titulo": "Turno",
       "archivo": "cap-n5.md",
@@ -113,7 +113,7 @@
       "orden_lectura": 7.5
     },
     {
-      "n": 8,
+      "n": 9,
       "slug": "milisegundos",
       "titulo": "Milisegundos",
       "archivo": "cap-08.md",
@@ -122,7 +122,7 @@
       "palabras_real": 1017
     },
     {
-      "n": 9,
+      "n": 10,
       "slug": "despedida",
       "titulo": "Despedida",
       "archivo": "cap-09.md",
@@ -131,7 +131,7 @@
       "palabras_real": 1861
     },
     {
-      "n": null,
+      "n": 11,
       "slug": "la-primera-cita",
       "titulo": "La primera cita",
       "archivo": "cap-n1.md",
@@ -141,7 +141,7 @@
       "orden_lectura": 9.5
     },
     {
-      "n": 10,
+      "n": 12,
       "slug": "caries",
       "titulo": "Caries",
       "archivo": "cap-10.md",
@@ -150,7 +150,7 @@
       "palabras_real": 1437
     },
     {
-      "n": 11,
+      "n": 13,
       "slug": "preservacion-funcional",
       "titulo": "Preservación funcional",
       "archivo": "cap-11.md",
@@ -159,7 +159,7 @@
       "palabras_real": 2049
     },
     {
-      "n": 12,
+      "n": 14,
       "slug": "gunnar",
       "titulo": "Gunnar",
       "archivo": "cap-12.md",
@@ -168,7 +168,7 @@
       "palabras_real": 2032
     },
     {
-      "n": 13,
+      "n": 15,
       "slug": "miles",
       "titulo": "Miles",
       "archivo": "cap-13.md",
@@ -177,7 +177,7 @@
       "palabras_real": 1778
     },
     {
-      "n": 14,
+      "n": 16,
       "slug": "la-visita",
       "titulo": "La visita",
       "archivo": "cap-14.md",
@@ -186,7 +186,7 @@
       "palabras_real": 1756
     },
     {
-      "n": null,
+      "n": 17,
       "slug": "el-salero",
       "titulo": "El salero",
       "archivo": "cap-n7.md",
@@ -196,7 +196,7 @@
       "orden_lectura": 14.5
     },
     {
-      "n": 15,
+      "n": 18,
       "slug": "canela",
       "titulo": "Canela",
       "archivo": "cap-15.md",
@@ -205,7 +205,7 @@
       "palabras_real": 1299
     },
     {
-      "n": 16,
+      "n": 19,
       "slug": "la-firma",
       "titulo": "La firma",
       "archivo": "cap-16.md",
@@ -214,7 +214,7 @@
       "palabras_real": 1871
     },
     {
-      "n": null,
+      "n": 20,
       "slug": "instituto",
       "titulo": "Instituto",
       "archivo": "cap-n2.md",
@@ -224,7 +224,7 @@
       "orden_lectura": 16.5
     },
     {
-      "n": 17,
+      "n": 21,
       "slug": "cuchillo",
       "titulo": "Cuchillo",
       "archivo": "cap-17.md",
@@ -233,7 +233,7 @@
       "palabras_real": 929
     },
     {
-      "n": 18,
+      "n": 22,
       "slug": "no-determinista",
       "titulo": "No determinista",
       "archivo": "cap-18.md",
@@ -242,7 +242,7 @@
       "palabras_real": 2161
     },
     {
-      "n": 19,
+      "n": 23,
       "slug": "nidhogg",
       "titulo": "NIDHOGG",
       "archivo": "cap-19.md",
@@ -251,7 +251,7 @@
       "palabras_real": 2174
     },
     {
-      "n": 20,
+      "n": 24,
       "slug": "la-cuarta-nota",
       "titulo": "La cuarta nota",
       "archivo": "cap-20.md",
@@ -260,7 +260,7 @@
       "palabras_real": 1493
     },
     {
-      "n": 21,
+      "n": 25,
       "slug": "coro",
       "titulo": "Coro",
       "archivo": "cap-21.md",
@@ -269,7 +269,7 @@
       "palabras_real": 736
     },
     {
-      "n": 22,
+      "n": 26,
       "slug": "auditoria",
       "titulo": "Auditoría",
       "archivo": "cap-22.md",
@@ -278,7 +278,7 @@
       "palabras_real": 1812
     },
     {
-      "n": null,
+      "n": 27,
       "slug": "inventario",
       "titulo": "Inventario",
       "archivo": "cap-n3.md",
@@ -288,7 +288,7 @@
       "orden_lectura": 22.5
     },
     {
-      "n": 23,
+      "n": 28,
       "slug": "la-cancion",
       "titulo": "La canción",
       "archivo": "cap-23.md",
@@ -297,7 +297,7 @@
       "palabras_real": 1847
     },
     {
-      "n": 24,
+      "n": 29,
       "slug": "accidente",
       "titulo": "Accidente",
       "archivo": "cap-24.md",
@@ -306,7 +306,7 @@
       "palabras_real": 1822
     },
     {
-      "n": 25,
+      "n": 30,
       "slug": "edda",
       "titulo": "EDDA",
       "archivo": "cap-25.md",
@@ -315,7 +315,7 @@
       "palabras_real": 1741
     },
     {
-      "n": null,
+      "n": 31,
       "slug": "interferencias",
       "titulo": "Interferencias",
       "archivo": "cap-n4.md",
@@ -325,7 +325,7 @@
       "orden_lectura": 25.5
     },
     {
-      "n": 26,
+      "n": 32,
       "slug": "casa-prestada",
       "titulo": "Casa prestada",
       "archivo": "cap-26.md",
@@ -334,7 +334,7 @@
       "palabras_real": 1770
     },
     {
-      "n": 27,
+      "n": 33,
       "slug": "apartada",
       "titulo": "Apartada",
       "archivo": "cap-27.md",
@@ -343,7 +343,7 @@
       "palabras_real": 1886
     },
     {
-      "n": 28,
+      "n": 34,
       "slug": "el-mismo-trayecto",
       "titulo": "El mismo trayecto",
       "archivo": "cap-28.md",
@@ -352,7 +352,7 @@
       "palabras_real": 1661
     },
     {
-      "n": 29,
+      "n": 35,
       "slug": "la-poda",
       "titulo": "La poda",
       "archivo": "cap-29.md",
@@ -361,7 +361,7 @@
       "palabras_real": 1416
     },
     {
-      "n": 30,
+      "n": 36,
       "slug": "la-asamblea",
       "titulo": "La asamblea",
       "archivo": "cap-30.md",
@@ -370,7 +370,7 @@
       "palabras_real": 1571
     },
     {
-      "n": 31,
+      "n": 37,
       "slug": "el-ladrillo",
       "titulo": "El ladrillo",
       "archivo": "cap-31.md",
@@ -379,7 +379,7 @@
       "palabras_real": 1613
     },
     {
-      "n": 32,
+      "n": 38,
       "slug": "la-oferta",
       "titulo": "La oferta",
       "archivo": "cap-32.md",
@@ -388,7 +388,7 @@
       "palabras_real": 1753
     },
     {
-      "n": 33,
+      "n": 39,
       "slug": "bajamar",
       "titulo": "Bajamar",
       "archivo": "cap-33.md",
@@ -397,7 +397,7 @@
       "palabras_real": 1648
     },
     {
-      "n": 34,
+      "n": 40,
       "slug": "soldagen",
       "titulo": "Soldagen",
       "archivo": "cap-34.md",
@@ -406,7 +406,7 @@
       "palabras_real": 2267
     },
     {
-      "n": 35,
+      "n": 41,
       "slug": "caida",
       "titulo": "Caída",
       "archivo": "cap-35.md",
@@ -415,7 +415,7 @@
       "palabras_real": 1825
     },
     {
-      "n": 36,
+      "n": 42,
       "slug": "cuchillo-abre-los-ojos",
       "titulo": "Cuchillo abre los ojos",
       "archivo": "cap-36.md",
@@ -424,7 +424,7 @@
       "palabras_real": 1190
     },
     {
-      "n": 37,
+      "n": 43,
       "slug": "no-soy-un-modelo",
       "titulo": "No soy un modelo",
       "archivo": "cap-37.md",
@@ -433,7 +433,7 @@
       "palabras_real": 2234
     },
     {
-      "n": 38,
+      "n": 44,
       "slug": "norna",
       "titulo": "Norna",
       "archivo": "cap-38.md",
@@ -443,7 +443,7 @@
       "palabras_real": 1380
     },
     {
-      "n": 39,
+      "n": 45,
       "slug": "deposito",
       "titulo": "Depósito",
       "archivo": "cap-39.md",
@@ -452,7 +452,7 @@
       "palabras_real": 1690
     },
     {
-      "n": 40,
+      "n": 46,
       "slug": "sombra",
       "titulo": "Sombra",
       "archivo": "cap-40.md",
@@ -461,7 +461,7 @@
       "palabras_real": 1610
     },
     {
-      "n": null,
+      "n": 47,
       "slug": "acta",
       "titulo": "Acta",
       "archivo": "cap-n6.md",
@@ -471,7 +471,7 @@
       "orden_lectura": 40.5
     },
     {
-      "n": 41,
+      "n": 48,
       "slug": "el-siguiente-soldagen",
       "titulo": "El siguiente Soldagen",
       "archivo": "cap-41.md",

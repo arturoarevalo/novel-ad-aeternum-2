@@ -1,5 +1,5 @@
 ---
-capitulo: N3
+capitulo: 27
 titulo: Inventario
 pov: Maja
 fecha: 2060-12-29
@@ -9,7 +9,7 @@ estado_plan: N
 proteccion: nucleo
 ot: OT-N3
 delta_objetivo: 0
-orden_lectura: 22.5
+orden_lectura: 27
 ---
 
 Maja sacó al pasillo las seis cajas del piso de Jean y abrió la primera con la uña.

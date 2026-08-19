@@ -1,5 +1,5 @@
 ---
-capitulo: 25
+capitulo: 30
 titulo: EDDA
 pov: Jean (interior)
 fecha: 2061-01-03
@@ -9,7 +9,7 @@ estado_plan: R
 proteccion: nucleo
 ot: OT-25
 delta_objetivo: 0
-orden_lectura: 25
+orden_lectura: 30
 ---
 
 Jean clasifica una amenaza citada sin bloquear a quien pidió ayuda.

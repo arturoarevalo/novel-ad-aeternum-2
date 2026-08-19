@@ -1,5 +1,5 @@
 ---
-capitulo: 19
+capitulo: 23
 titulo: NIDHOGG
 pov: Alana
 fecha: 2060-12-19
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-19
 delta_objetivo: 0
-orden_lectura: 19
+orden_lectura: 23
 ---
 
 El ferry atrapó las ruedas del coche corporativo entre dos calzos amarillos mientras Mats arrancaba la funda de papel de un gofre.

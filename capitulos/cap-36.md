@@ -1,5 +1,5 @@
 ---
-capitulo: 36
+capitulo: 42
 titulo: Cuchillo abre los ojos
 pov: Jean Marie Larsson
 fecha: 2061-01-21T12:46
@@ -9,7 +9,7 @@ estado_plan: R
 proteccion: nucleo
 ot: OT-36
 delta_objetivo: 0
-orden_lectura: 36
+orden_lectura: 42
 ---
 
 La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.

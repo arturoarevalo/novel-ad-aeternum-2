@@ -1,5 +1,5 @@
 ---
-capitulo: 26
+capitulo: 32
 titulo: Casa prestada
 pov: Maja
 fecha: 2061-01-03
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-26
 delta_objetivo: 0
-orden_lectura: 26
+orden_lectura: 32
 ---
 
 La tercera bolsa se quedó en el maletero. Agradecerían no haber descargado la vida entera si tenían que marcharse antes del amanecer.

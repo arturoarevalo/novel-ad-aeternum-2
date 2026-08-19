@@ -1,5 +1,5 @@
 ---
-capitulo: N2
+capitulo: 20
 titulo: Instituto
 pov: Nora → Jessie
 fecha: 2060-12-16
@@ -9,7 +9,7 @@ estado_plan: N
 proteccion: nucleo
 ot: OT-N2
 delta_objetivo: 0
-orden_lectura: 16.5
+orden_lectura: 20
 ---
 
 Nora introdujo sus credenciales dos veces. La segunda negativa llegó más rápido que la primera.

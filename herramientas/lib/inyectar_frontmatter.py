@@ -53,7 +53,29 @@ def main():
     ap.add_argument("--solo", nargs="*")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--set", nargs=2, metavar=("ARCHIVO", "CLAVE=VALOR"))
+    # `capitulo` es campo de AUTOR y esta herramienta lo rechaza por --set, con razón.
+    # Pero el plan (§2.4) manda renumerarlo UNA vez, en W7, y `actualizar-metadatos.sh
+    # renumerar --w7` remite desde F0 a un flag que nunca se implementó: el recordatorio
+    # existía y la vía no. Sin esto, frontmatter y manifiesto quedan desincronizados en
+    # silencio (41 de 48 capítulos) y ningún validador lo ve, porque cada uno mira el suyo.
+    # Toma los números del manifiesto, que ya renumeró la herramienta oficial, y no toca
+    # ningún otro campo.
+    ap.add_argument("--renumerar-w7", action="store_true",
+                    help="renumera `capitulo` en el frontmatter según capitulos[].n del manifiesto (UNA vez, en W7)")
     a = ap.parse_args()
+    if a.renumerar_w7:
+        m = aa.load_manifest()
+        n = 0
+        for c in m["capitulos"]:
+            p = os.path.join(aa.CAPITULOS, c["archivo"])
+            if not os.path.exists(p):
+                continue
+            ch = aplicar(p, {"capitulo": c["n"]}, a.dry_run)
+            n += ch
+            if ch:
+                print(f"{c['archivo']}: capitulo={c['n']}")
+        print(f"{n} ficheros {'que cambiarían' if a.dry_run else 'renumerados'}")
+        return
     if a.set:
         archivo, kv = a.set
         k, v = kv.split("=", 1)

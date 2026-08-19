@@ -1,5 +1,5 @@
 ---
-capitulo: N4
+capitulo: 31
 titulo: Interferencias
 pov: Nora → Maja → Jessie → Maja
 fecha: 2061-01-03
@@ -9,7 +9,7 @@ estado_plan: N
 proteccion: nucleo
 ot: OT-N4
 delta_objetivo: 0
-orden_lectura: 25.5
+orden_lectura: 31
 ---
 
 La plataforma admitió las credenciales de Nora al primer intento.

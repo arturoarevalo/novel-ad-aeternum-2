@@ -1,5 +1,5 @@
 ---
-capitulo: 41
+capitulo: 48
 titulo: El siguiente Soldagen
 pov: Nora
 fecha: 2062-01-21
@@ -9,7 +9,7 @@ estado_plan: P
 proteccion: total
 ot: OT-41
 delta_objetivo: 0
-orden_lectura: 41
+orden_lectura: 48
 ---
 
 *21 de enero de 2062 · Un año después*

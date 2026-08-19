@@ -1,5 +1,5 @@
 ---
-capitulo: 35
+capitulo: 41
 titulo: Caída
 pov: Jessie
 fecha: 2061-01-21T12:30
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-35
 delta_objetivo: 0
-orden_lectura: 35
+orden_lectura: 41
 ---
 
 La red pesaba demasiado para algo que no debía romper nada.

@@ -54,7 +54,14 @@ def validar(paths=None, verbose=True):
         if "orden_lectura" in fm:
             try: float(fm["orden_lectura"])
             except Exception: errores.append(f"{a}: orden_lectura no numérico")
-        if fm.get("estado_plan") == "N" and "orden_lectura" in fm and float(fm["orden_lectura"]).is_integer():
+        # Los capítulos nuevos llevan orden_lectura DECIMAL para intercalarse sin renumerar…
+        # …pero solo hasta W7, que es cuando el plan (§2.4) renumera una vez y los decimales
+        # pasan a enteros correlativos. Sin esta condición el validador acusa a los siete
+        # capítulos nuevos justo después de hacer bien la renumeración. Señal de que W7 ya
+        # ocurrió: `capitulo` es un entero (antes era el marcador "N5", "N7"…).
+        renumerado_w7 = isinstance(fm.get("capitulo"), int)
+        if (fm.get("estado_plan") == "N" and not renumerado_w7
+                and "orden_lectura" in fm and float(fm["orden_lectura"]).is_integer()):
             avisos.append(f"{a}: capítulo nuevo con orden_lectura entero (se esperaba decimal hasta W7)")
         if not d["body"].strip():
             errores.append(f"{a}: cuerpo vacío")

@@ -1,5 +1,5 @@
 ---
-capitulo: 39
+capitulo: 45
 titulo: Depósito
 pov: Astrid
 fecha: 2061-01-22
@@ -9,7 +9,7 @@ estado_plan: E
 proteccion: nucleo
 ot: OT-39
 delta_objetivo: 0
-orden_lectura: 39
+orden_lectura: 45
 ---
 
 La escarcha de la fotografía había convertido una tubería de NIDHOGG en una pregunta que nadie quería contestar.

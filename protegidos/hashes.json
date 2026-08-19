@@ -17,23 +17,29 @@
       "cuerpo": "b242ecd60dd5652be59374c5884742bdd14f785a11f3561a6ff7f23e785b191e"
     },
     "capitulos/cap-09.md": {
-      "fichero": "283ec3dfefc495e4a5b1fc31e9df18e5f70eb36c815d32a62562eba2090222c6",
+      "fichero": "8b273a01a1ca64876017a680a28ddf37a58a6f10017e70c555e98505fdbfec4c",
       "cuerpo": "3efb6c9459f073e1cb0331a26297873225ee009b3d967f464ce998fe70eda736"
     },
     "capitulos/cap-20.md": {
-      "fichero": "6a63268438a646b3472dfddb58746043567dbf604df3940d008e75941dcd349a",
+      "fichero": "5a933f27d7bcb04eac03c2d28f3384079bf21fd219476908ebfa848b378907a4",
       "cuerpo": "7a9d14742b811dee72d28302f694e0cf5d6859778d49c89812a890da09a423fb"
     },
     "capitulos/cap-23.md": {
-      "fichero": "ed29d09fc6c22d3bcc35343c6a0f7050fe6d6b88e88dc7cbf4f7795d6426408a",
+      "fichero": "3c19369b046cdf62a3da826b4af96e085aa65b1591034236e7d536499bd3701f",
       "cuerpo": "b50750ad881b240591333457862029aebafd2117e76e72625f633bd3efdc5e8b"
     },
     "capitulos/cap-41.md": {
-      "fichero": "d5f79f7e5ed1aa5a50e466bb47aaa7648a04b7695793ccd093c5b6fd97b243bb",
+      "fichero": "cc94b072a33cbc995241ebd2dfbaa8590de0e818000aa2306d5a82935700c0f5",
       "cuerpo": "5cbe8d072b328bb7aa2adfc9485c8085846cda953d9c2b7cc752cb6dd917a32d"
     },
-    "capitulos/00-aviso.md": null,
-    "capitulos/99-recursos.md": null
+    "capitulos/00-aviso.md": {
+      "fichero": "49a9f6747dbbd194d31dbcdb2c7564a6a9d3fb398a179a7496afed70ae759ca1",
+      "cuerpo": "3dee4c5967b5dfb604890353495d9addbb1c511747999b0952c82cd20165e7fc"
+    },
+    "capitulos/99-recursos.md": {
+      "fichero": "56a84b9d6d89df51cdda4a84ea89fe06393302935f72f1f489e031034e105bb9",
+      "cuerpo": "34981de13588e647ac4aa2a940b008bbd9b24edc9cf9a77ca3591e624b5bcbe3"
+    }
   },
   "spans": {
     "S06-llamada": {
@@ -682,5 +688,5 @@
       "longitud": 274
     }
   },
-  "generado": "2026-08-19T08:13:34"
+  "generado": "2026-08-19T09:47:16"
 }

@@ -1,5 +1,12 @@
 # B7 · Carta de sensibilidad — firmada sobre v0
 
+> **AVISO DE VIGENCIA (W7, 2026-08-19).** Este documento es la firma de A7 **sobre `v0`** y se conserva como registro histórico: dice qué era el libro en agosto de 2026 y con qué procedimiento se revisó. **No es la norma vigente.**
+>
+> La norma vigente —las 88 condiciones de las seis oleadas consolidadas en nueve reglas, cinco cuentas cerradas, ocho techos de oficio y una regla de sucesión para cuando no haya un revisor a quien preguntar— está en **`biblia/b7-perimetro.md`**. Empiece por ahí. Vuelva aquí solo para el razonamiento original o para la lista de patrones de `grep` (§3), que sigue siendo válida.
+>
+> Las citas de este fichero usan la numeración de capítulos **anterior** a la renumeración de W7. La tabla de correspondencia está en `b7-perimetro.md` §2.
+
+
 **Firma:** A7, revisor de sensibilidad (veto absoluto; §2.1 y Apéndice F del plan) · **Fecha:** 2026-08-16
 **Base de la firma:** lectura íntegra de `capitulos/cap-01.md` … `cap-41.md` en el tag `v0`, más los paratextos provisionales `capitulos/00-aviso.md` y `capitulos/99-recursos.md`; barrido `grep` con los patrones de §3 (listas máquina en `biblia/b7-patrones-A.txt` y `biblia/b7-patrones-B.txt`; hits de v0 congelados en `informes/a7-baseline-v0.tsv`).
 **Alcance:** vinculante para TODO texto que produzca el proyecto: capítulos, borradores (también los descartados), órdenes de trabajo, biblia B1–B8, resúmenes de lector frío, prompts a subagentes, informes. Un `VETO` de A7 no lo levanta A0 ni ningún objetivo de puntuación.
