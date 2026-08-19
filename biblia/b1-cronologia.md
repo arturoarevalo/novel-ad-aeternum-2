@@ -57,9 +57,9 @@ Regla de este documento (Carta F, Ap. F): la cronología registra lo que el text
 | 7.5 | cap-n5.md | Turno | Jean | `2060-12-03` | 1822 | Jornada del sistema; precisión 99,6 %; sin mecánica nueva | ✓ (roce < cap-08:89; A5 M7 = 0) |
 | 9.5 | cap-n1.md | La primera cita | Maja | `2060-12-04T15:00` | 2065 | Ranveig; las tres; cada quince días; funeral 31 personas | ✓ (coherente con 6:211-215, 9:65, 14:149) |
 | **14.5** | **cap-n7.md** | **El salero** | **Maja** | **`2059-03-04`** | **1096** | Cena del metrónomo (analepsis 2059, Jean viva); siembra dramatizada de CH-8 («está bien medido y miente», `cap-n7:61`); salero, táper SOPA (`:201`), taza reparada (`:181-185`); «para saber por qué no contesta» (`:171-173`) | ✓ (escisión W5 de `cap-n3`, diff 0; analepsis 2059 entre cap-14 y cap-15; A5 PASA, `informes/a5-w5b-escision.md`) |
-| 16.5 | cap-n2.md | Instituto | Nora/Jessie | `2060-12-16` | 1946 | Instituto único, aula 214, 1STA/1STC; cuenta suspendida | ✓ (jueves; no choca con 18:21) |
-| 22.5 | cap-n3.md | Inventario | Maja | `2060-12-29` | 3572 | Inventario del piso; cajas (§2.W3); trámite administrativo | ✓ (miércoles; concuerda con 23/4/33) |
-| 25.5 | cap-n4.md | Interferencias | Nora→Maja→Jessie→Jean→Maja | `2061-01-03` | 3156 | Cierre de accesos; aviso de exposición reputacional | ✓ (lunes; primer acto de Coro) |
+| 16.5 | cap-n2.md | Instituto | Nora/Jessie | `2060-12-16` | 1687 | Instituto único, aula 214, 1STA/1STC; cuenta suspendida | ✓ (jueves; no choca con 18:21) |
+| 22.5 | cap-n3.md | Inventario | Maja | `2060-12-29` | 1728 | Inventario del piso; cajas (§2.W3); trámite administrativo | ✓ (miércoles; concuerda con 23/4/33; la cena de 2059 salió a `cap-n7` en W5) |
+| 25.5 | cap-n4.md | Interferencias | Nora → Maja → Jessie → Maja | `2061-01-03` | 2170 | Cierre de accesos; aviso de exposición reputacional | ✓ (lunes; la familia sufre el cierre de accesos; **el espejo de Jean —escena 4— quedó excindido en W5**, por eso el POV ya no lleva a Jean; el acto negable de Coro se paga en `cap-32:93`) |
 | 40.5 | cap-n6.md | Acta | Aslak | `2061-05-11` | 1641 | Acta del kystbrukslag; servidumbre mantenida | ✓ (miércoles; posterior a la 2.ª sesión de marzo) |
 
 ## 2. Línea principal (nov-2060 → ene-2062)

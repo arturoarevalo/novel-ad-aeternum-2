@@ -32,8 +32,14 @@
       "fichero": "cc94b072a33cbc995241ebd2dfbaa8590de0e818000aa2306d5a82935700c0f5",
       "cuerpo": "5cbe8d072b328bb7aa2adfc9485c8085846cda953d9c2b7cc752cb6dd917a32d"
     },
-    "capitulos/00-aviso.md": null,
-    "capitulos/99-recursos.md": null
+    "capitulos/00-aviso.md": {
+      "fichero": "49a9f6747dbbd194d31dbcdb2c7564a6a9d3fb398a179a7496afed70ae759ca1",
+      "cuerpo": "3dee4c5967b5dfb604890353495d9addbb1c511747999b0952c82cd20165e7fc"
+    },
+    "capitulos/99-recursos.md": {
+      "fichero": "56a84b9d6d89df51cdda4a84ea89fe06393302935f72f1f489e031034e105bb9",
+      "cuerpo": "34981de13588e647ac4aa2a940b008bbd9b24edc9cf9a77ca3591e624b5bcbe3"
+    }
   },
   "spans": {
     "S06-llamada": {
@@ -682,5 +688,5 @@
       "longitud": 274
     }
   },
-  "generado": "2026-08-19T09:27:58"
+  "generado": "2026-08-19T09:47:16"
 }

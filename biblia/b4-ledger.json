@@ -24,10 +24,11 @@
    "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
-   "protegido_por": "S32-amenaza (nuevo)",
+   "protegido_por": "S32-resumen, S32-amenaza, S32-cierre",
    "correccion_plan": "El plan sitúa la actitud «desde 21»; el texto la siembra ya en 13:281 y 21:37.",
    "nota": "Sin pago en v0: la única «acción» exterior de Coro es negociar con Mats. Ninguna interferencia sobre el acceso de la familia ocurre en v0 (la crítica: «pistola de Chéjov descargada»).",
-   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3."
+   "nota_w3": "[W3 · A1 2026-08-17] PAGADO tras G-A2 (seis capítulos nuevos). Ver biblia/b4-ledger-chekhov.md §2.1.W3.",
+   "nota_w7": "[W7 · A1 2026-08-19] REANCLADO tras la excisión del espejo de N4 (W5): el acto negable ya NO se muestra en cap-n4 (escena excindida por la cláusula de reversión de G-A2). Se paga en cap-32.md:93 (span S32-resumen): «Tres actuaciones automáticas sobre los accesos de una familia. Ninguna contuvo nada. … El resumen no tenía autor.» — cuatro frases que hacen lo que hacía el espejo sin meter a Jean en la maquinaria que daña a sus hijas (verificado por A7, P-64); la reiteración/veto sigue en 32:93-105. CH-1 SIGUE PAGADO; solo cambia el locus. Reparar reanclando, jamás replantando (A7): ningún beat nuevo puede volver a pagar CH-1."
   },
   {
    "id": "CH-2",
@@ -43,12 +44,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "Línea única en 40, POV Jessie: «No preguntó por el cinturón.» (Ap. B; mantiene el silencio como arco). [D1 · A0 2026-08-16] Decisión A0 (D1): la línea se inserta FUERA de S40-locutorio (párrafo del jueves, 40:127, o inmediatamente tras la escena); sin rebaseline",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "cap-03/04/09/23 íntegros; S40-locutorio",
    "correccion_plan": "El plan cita 4, 10, 23, 33; el texto: 3 (aikido), 4, 9, 23. No aparece en 10 ni en 33.",
-   "nota": "Pago implícito por el silencio de 40, pero ninguna línea lo recoge. AVISO: la escena natural para la línea (40:107-123) está bajo el span S40-locutorio → insertar fuera del span (p. ej. junto a 40:127, «El jueves…») o rebaseline con gate. Ambigüedad a conservar: qué «sabe» Jean del cinturón (quién lo dejó en el pomo el 26-nov) es un test de presencia privado; no explicarlo."
+   "nota": "Pago implícito por el silencio de 40, pero ninguna línea lo recoge. AVISO: la escena natural para la línea (40:107-123) está bajo el span S40-locutorio → insertar fuera del span (p. ej. junto a 40:127, «El jueves…») o rebaseline con gate. Ambigüedad a conservar: qué «sabe» Jean del cinturón (quién lo dejó en el pomo el 26-nov) es un test de presencia privado; no explicarlo.",
+   "nota_w7": "[W7 · A1 2026-08-19] PAGADO — verificado por A5 en la verificación total de W7; cita del pago: cap-40.md:127 «El jueves, Jessie utilizó la misma tarjeta. No preguntó por el cinturón.»"
   },
   {
    "id": "CH-3",
@@ -64,12 +66,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "+2 frases de textura en 15 (la persona detrás del expediente); cierre implícito aceptable; NO convertir en subtrama (Ap. B / tabla 5.1)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S15-objecion, S17-71k (nuevos)",
    "correccion_plan": "",
-   "nota": "Pago parcial en v0: la culpa queda registrada; la persona nunca recupera rostro ni servicio."
+   "nota": "Pago parcial en v0: la culpa queda registrada; la persona nunca recupera rostro ni servicio.",
+   "nota_w7": "[W7 · A1 2026-08-19] PAGADO — verificado por A5 en la verificación total de W7; cita del pago: cap-15.md:143-145 «El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad lenta… Alguien fue afinando todo eso a lo largo de los años, un ajuste cada vez.» (+ 15:185 «Ningún canal permite preguntar a la persona qué necesitaba hoy»)"
   },
   {
    "id": "CH-4",
@@ -85,12 +88,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "1 línea en 35 (la caída en la barca/rellano), no un discurso (Ap. B / tabla 5.1)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "cap-03 íntegro (origen)",
    "correccion_plan": "",
-   "nota": "El tramo de 35 donde iría la línea (35:259-279) no tiene span salvo el cierre S35-cierre (277-279): libre."
+   "nota": "El tramo de 35 donde iría la línea (35:259-279) no tiene span salvo el cierre S35-cierre (277-279): libre.",
+   "nota_w7": "[W7 · A1 2026-08-19] PAGADO — verificado por A5 en la verificación total de W7; cita del pago: cap-35.md:273 «Maja agarró a Jessie por la parte posterior de la parka y la llevó al fondo de la barca. Jessie cayó de lado entre los bancos, con la barbilla baja. No se hizo daño.»"
   },
   {
    "id": "CH-5",
@@ -105,12 +109,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "Expandir en 22 (herida/motivo; 1 escena-recuerdo breve, sin discurso); la frase de 29 y «Las necesarias.» intactas (Ap. B / tabla 5.1)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S29-2054 (nuevo), S29-cierre",
    "correccion_plan": "",
-   "nota": "Enunciado, no sentido: una sola frase sostiene el motivo de Astrid."
+   "nota": "Enunciado, no sentido: una sola frase sostiene el motivo de Astrid.",
+   "nota_w7": "[W7 · A1 2026-08-19] PAGADO — verificado por A5 en la verificación total de W7; cita del pago: cap-22.md (POV Astrid): 22:57 «Una menor de dieciséis años aparecía allí como información deseada por procesos que decidían sobre anuncios, fotografías y reclamaciones» + 22:73 «Astrid anotó solo once.» (la herida/motivo dramatizada, sin discurso; la frase de 29:111 y «Las necesarias.» intactas)"
   },
   {
    "id": "CH-6",
@@ -126,12 +131,13 @@
    ],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "Pasado concreto en 24 (+300): una vez siguió el procedimiento y el procedimiento protegió a la empresa, no a la persona; sin heroísmo (Ap. B / tabla 5.1)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S24-cierre (nuevo)",
    "correccion_plan": "",
-   "nota": "Insinuado: el objeto paga como llave (ver CH-16), pero el porqué de los caducados —y de la meticulosidad— no se cuenta."
+   "nota": "Insinuado: el objeto paga como llave (ver CH-16), pero el porqué de los caducados —y de la meticulosidad— no se cuenta.",
+   "nota_w7": "[W7 · A1 2026-08-19] PAGADO — verificado por A5 en la verificación total de W7; cita del pago: cap-24.md:129-131 «Los otros plásticos eran acreditaciones de empleos anteriores. Una operaria reclamó cuatro turnos… Tomas preservó los registros… según fijaba el procedimiento… La empresa quedó cubierta.» (siguió el procedimiento y protegió a la empresa, no a la persona; sin heroísmo)"
   },
   {
    "id": "CH-7",
@@ -716,12 +722,13 @@
    "reapariciones": [],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "[D1 · A0 2026-08-16] Decisión A0 (D1): R2 del backlog activada provisionalmente (+900, escena breve en Parte III, etiqueta INTERIORIDAD/TENSIÓN, una sola vez, sin tocar S19-reflexiva); A2 fija la posición en F2 (candidatas: cola de 25 o escena propia 29.5); confirmación de autor en G-A1. [v0: R2 del backlog (§5.3) — A0 decide entre pagar (R2) o declarar SIN-PAGO-INTENCIONAL]",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S19-reflexiva (nuevo)",
    "correccion_plan": "",
-   "nota": "Una sola aparición en v0."
+   "nota": "Una sola aparición en v0.",
+   "nota_w7": "[W7 · A1 2026-08-19] PAGADO — verificado por A5 en la verificación total de W7; cita del pago: cap-25.md:225 `VENTANA REFLEXIVA · ABIERTA` … 25:241 «Nada de lo que queda delante pide una decisión. Es la primera vez desde que despertó.» … 25:315 `VENTANA REFLEXIVA · CERRADA` (R2 del backlog ejecutada: se abre por primera vez en Parte III, cola de 25)"
   },
   {
    "id": "CH-32",
@@ -1615,12 +1622,13 @@
    "reapariciones": [],
    "estado_v0": "PENDIENTE-ASIGNAR",
    "resolucion": "Tabla 5.1 cap-16: «+Inger (riesgo personal, 1 beat)»; el coste posterior queda sin escena (aceptable si el beat lo hace sentir)",
-   "estado_actual": "PENDIENTE-ASIGNAR",
+   "estado_actual": "PAGADO",
    "protegido": true,
    "tipo": "plantado",
    "protegido_por": "S16-inger (nuevo)",
    "correccion_plan": "",
-   "nota": "Inger no vuelve tras 16."
+   "nota": "Inger no vuelve tras 16.",
+   "nota_w7": "[W7 · A1 2026-08-19] PAGADO — verificado por A5 en la verificación total de W7; cita del pago: cap-16.md:51 «Siete veces el apellido de Inger, en letra más pequeña que el resto» (riesgo personal registrado) + 16:19/16:45 (rompe protocolo para exportar), que hacen sentir el coste del plantado de 16:63-65"
   },
   {
    "id": "CH-76",
@@ -1799,10 +1807,10 @@
   }
  ],
  "m10_actual": {
-  "pagadas_o_sin_pago": 76,
+  "pagadas_o_sin_pago": 83,
   "total": 83,
-  "porcentaje": 91.6,
-  "oleada": "W3",
-  "fecha": "2026-08-17"
+  "porcentaje": 100.0,
+  "oleada": "W7",
+  "fecha": "2026-08-19"
  }
 }
