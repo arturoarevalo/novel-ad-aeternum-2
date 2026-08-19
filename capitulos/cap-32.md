@@ -154,7 +154,7 @@ El técnico apartó la mano.
 
 —Podemos parar.
 
-Mats esperó hasta que la llamada desapareció. El resumen de la sesión seguía abierto. Bajo la toma aceptada, dos filas provisionales conservaban la cuenta atrás de borrado.
+Mats esperó hasta que la llamada desapareció. El aviso del estante exterior pasó a `NO ATENDIDA · CADUCIDAD 30 DÍAS`. El resumen de la sesión seguía abierto. Bajo la toma aceptada, dos filas provisionales conservaban la cuenta atrás de borrado.
 
 —¿Qué ocurre con esas tomas?
 

@@ -190,7 +190,7 @@ Desde el escenario pidieron repetir la entrada musical. Henrik respondió por el
 
 —Déjalo como está.
 
-Henrik sostuvo su mirada durante un segundo y marcó el bloque como aprobado. Tenía otros nueve minutos de vídeo que cerrar.
+Henrik sostuvo su mirada durante un segundo y marcó el bloque como aprobado. `CEDIDA POR LA FAMILIA` pasó al montaje definitivo.
 
 Alana comprobó la lista de participantes con la excusa de revisar el orden. Nora seguía después del vídeo y antes de la apertura técnica de la demo. El canal asignado continuaba habilitado.
 
