@@ -60,6 +60,50 @@ Cada iteración:
 
 `herramientas/lib/w10_estado.py` mantiene la memoria entre sesiones: hipótesis probadas, veredictos, mejor versión conocida. **Se consulta al arrancar, siempre.**
 
+## 4b. La iteración 0 es DIVERGENTE, y es obligatoria
+
+**Esta sección existe porque sin ella el plan estaba mal.** El bucle de §4 es excelente para no engañarse y no sirve para encontrar nada: ejecutaría el *backlog* de los críticos, que lleva seis oleadas sin mover los cuatro ejes estructurales. **Trabajar esa lista es lo más probable que falle**, porque son diagnósticos («el centro se hunde»), no recetas con garantía. Antes de tocar nada, hay que generar hipótesis que nadie ha tenido.
+
+**No se ejecuta ninguna intervención del backlog hasta cerrar la iteración 0.**
+
+### 4b.1 · Generación divergente: seis ángulos independientes
+
+Seis instancias de `a2-arquitecto` **en paralelo y sin verse entre sí**, cada una con un ángulo distinto y prohibido leer los informes de crítica anteriores (para que no reproduzcan el backlog):
+
+1. **El lector que abandona.** El punto de abandono está hoy en el 62 % y los tres son capítulos nuestros. ¿Qué hace falta para que no haya ninguno?
+2. **El libro que quiere ser.** ¿Qué promete esta novela en sus primeras cincuenta páginas y no cumple? La respuesta no es un defecto: es una promesa.
+3. **El corte.** Si hubiera que quitarle **quince mil palabras**, ¿cuáles? La restricción de banda está suspendida para esta pregunta. Se pregunta por el libro de 65.000 palabras que hay dentro de éste.
+4. **La forma.** ¿Es la estructura de cuatro partes con cuenta atrás la forma correcta para esta historia? ¿Qué otra forma la serviría mejor, y qué costaría?
+5. **El clímax.** Llega en el 85 % y se «gana». ¿Está en el sitio correcto? ¿Qué pasaría si llegara antes, o después, o dos veces?
+6. **El editor.** ¿Qué pediría un editor que compra este libro y no ha visto ninguna de las seis oleadas?
+
+Después, **panel de jueces**: cada propuesta se puntúa por otras instancias, se sintetiza la ganadora y **se injertan las mejores ideas de las descartadas**. Lo que sobreviva entra al bucle de §4 con su medición.
+
+### 4b.2 · La pregunta que nadie ha hecho a un lector frío
+
+**Las 48 lecturas frías fueron todas de rúbrica: preguntaban qué está mal.** Ninguna preguntó qué podría ser. Se lanza una campaña nueva con la pregunta abierta, en frío real y sin la rúbrica:
+
+> «Este libro puntúa 8,5. **¿Qué le falta para ser un 10?** No me digas qué está mal: dime qué le falta. Y si tu respuesta es que ya es lo que puede ser, dilo.»
+
+Y una segunda, dirigida al eje que nunca se ha movido:
+
+> «La nota global no es el promedio de los ejes: es un juicio ponderado. **¿Qué tendría que cambiar para que subieras la global, aunque no cambiara ningún eje?**»
+
+### 4b.3 · Probar si 8,5 es techo del libro o del instrumento
+
+**La global lleva 48 lecturas sin pasar de 8,5, en todas las versiones, incluida v0.** Nadie ha comprobado nunca si eso es una propiedad del libro o de la rúbrica y el jurado. Antes de reescribir un libro para mover un número, hay que saber si el número se puede mover:
+
+- Puntuar con la rúbrica **una novela publicada y reconocida** del mismo género, en frío y con el mismo jurado. Si también sale 8,5, el techo es del instrumento y **el objetivo de la fase hay que replantearlo, no perseguirlo**.
+- Puntuar v0 **con la rúbrica reformulada** (anclas explícitas de qué es un 9 y un 10). Si v0 sube sin cambiar una coma, el problema era la vara.
+
+**Este experimento es barato y puede ahorrar la fase entera.** Va primero.
+
+### 4b.4 · Apuestas grandes antes que pequeñas
+
+Revertir cuesta un `git revert`; iterar sobre cambios pequeños y seguros que **no pueden** mover un eje estructural cuesta la fase. **Cuando haya duda entre una intervención de 200 palabras y una de 5.000, se prueba la de 5.000**, se mide, y se revierte si no paga. El riesgo real de W10 no es romper el libro —eso es reversible— sino **gastarse en cambios demasiado tímidos para mover lo que hay que mover.**
+
+---
+
 ## 5. Reglas de método que sobreviven de las seis oleadas
 
 Estas no son burocracia: cada una nació de un error concreto y caro.
