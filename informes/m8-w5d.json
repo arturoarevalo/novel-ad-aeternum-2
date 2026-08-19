@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w5d",
+  "fecha": "2026-08-19T06:47:48",
+  "capitulos": 48,
+  "palabras": 79652,
+  "por_parte": {
+    "1": 19925,
+    "2": 20202,
+    "3": 20163,
+    "4": 19362
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w5d.md"
+}

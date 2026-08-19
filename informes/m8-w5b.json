@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w5b",
+  "fecha": "2026-08-18T15:14:09",
+  "capitulos": 48,
+  "palabras": 80275,
+  "por_parte": {
+    "1": 19925,
+    "2": 20117,
+    "3": 20871,
+    "4": 19362
+  },
+  "objetivo": 81000,
+  "banda": [
+    80000,
+    82000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w5b.md"
+}

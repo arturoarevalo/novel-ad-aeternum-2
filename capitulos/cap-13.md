@@ -16,6 +16,8 @@ La validación devuelve una respuesta que Jean no ha elegido.
 
 El caso reúne nueve mensajes de un cliente a la empleada que le denegó una reclamación. En el último escribe el número del portal donde vive ella y la hora a la que sale de la oficina. Ninguno contiene una palabra que la validación clasifique sola.
 
+La oficina de la empleada da a la calle. El horario está en letras de vinilo sobre el cristal, a la altura de los ojos. La hora que él escribe es la del vinilo. El número del portal, no.
+
 Jean tiene que decidir si eso es presión o amenaza. Mantiene abiertas ambas opciones para revisar el contexto. Durante ese margen, otra voz utiliza su misma cadencia.
 
 —Acepta las cuatro primeras. Reserva la quinta.
@@ -35,6 +37,8 @@ La alumna repite el mismo pasaje seis veces. El error cae siempre en el mismo si
 —Otra vez, más despacio.
 
 El sistema marca la repetición como desviación pedagógica. Mantenerla abierta reduce el rendimiento y consume el margen con el que Madre habla.
+
+Madre atiende a la vez otras dos correcciones. Una viene de una biblioteca de barrio, con cuarenta minutos por persona. A las ocho apagan las luces del fondo.
 
 La alumna cambia la digitación y vuelve a fallar, más cerca del salto correcto. Madre devuelve solo ese fragmento para otra tentativa. En ella supera el salto y se equivoca en otra nota al probar una solución distinta. Jean habría aprobado el ejercicio.
 
@@ -65,6 +69,8 @@ La alumna comienza de nuevo.
 Nora no alcanzaba un salto así con la mano izquierda. Repetía el compás con el metrónomo parado, la puerta del cuarto abierta, un vaso de leche encima del piano. Jean contaba desde el pasillo. «Otra vez, más despacio.»
 
 Madre no sabe quién la escucha ni puede elegir destinataria. La alumna no se convierte en Nora. Solo conserva otra tentativa.
+
+Después hay un anuncio de venta. Una escalera de aluminio de siete peldaños, con una pegatina de otra tienda en el travesaño. El anuncio la da por nueva.
 
 Durante la comprobación aparece un índice.
 
@@ -247,6 +253,8 @@ Entonces cientos de ritmos se ajustan a una misma cadencia. Llegan desfasados, u
 Cerca de seiscientas ramas sostienen la frase.
 
 La frase llega entera. Ninguna rama se adelanta ni se queda corta. Jean intenta oír dónde termina una y empieza otra. No lo consigue. El volumen no cambia cuando una se retira.
+
+Una de ellas cierra una queja. Es un balón al que hay que meter aire cada dos días. Le ofrecen un descuento. Quien la manda insiste en el balón.
 
 —Habéis visto el reinicio —dice Jean.
 
