@@ -162,3 +162,19 @@ Coste nulo para el ritmo: es el capítulo con **más diálogo del bloque** y la 
 **Lo que sí valía la pena restituir se queda:** «—Mi padre alegó en el cincuenta y siete. Le contestaron dos años después. / —Está en el expediente —dijo Aslak—. Página once.» Eso es escala —la asociación lleva tres generaciones alegando—, no tesis.
 
 **1.448 palabras · diálogo 31,9 %.**
+
+## 9 · W6
+
+**A4 · rama `w6-linea` · 2026-08-19.** Bloque 3, tarea 2 (molde «X esperaba + locativo»). **Una conversión, Δ = 0 exacto.**
+
+| # | antes (cita literal) | después (cita literal) | Δ |
+|---|---|---|---:|
+| W6-n6-a | «Nils Seppola esperaba abajo, en el varadero, con el remolque enganchado y las cajas todavía a la sombra del costado.» | «Nils Seppola tenía el remolque ya enganchado abajo, en el varadero, y las cajas todavía a la sombra del costado.» | **0** (20 → 20) |
+
+- **Forma resultante declarada:** *sujeto + «tener» + OD + participio resultativo + locativo apositivo + coordinación.* Recuento en `cap-n6`: **cero antes** —las dos apariciones de «tenía» (:27, :51) son posesión simple, sin participio—, **una después**.
+- **Descartado «había bajado / había enganchado»:** *sujeto + pluscuamperfecto + OD + adjunto* ya aparece **cinco veces** en el capítulo (:19, :27, :205 ×2, :229). Habría sido cambiar un molde por otro dentro del mismo fichero.
+- **Descartado «estaba»:** es la forma con la que se resuelve `cap-n2` en este mismo bloque. La P-53 ampliada prohíbe que dos conversiones dejen dos pasajes compartiendo apertura, y «Jessie estaba sentada…» / «Nils Seppola estaba abajo…» habrían sido dos aperturas de escena idénticas en la misma oleada.
+- **Qué se pierde:** Nils deja de estar esperando a Aslak; lo que queda es que el remolque ya está enganchado. A cambio Nils pasa a ser el agente del enganche, y eso es lo que corrige la frase siguiente sin que nadie lo diga: «El remolque llevaba una lona doblada en el cuello y los calzos puestos del revés. Aslak los cambió antes de tocar nada.»
+- **«a la sombra del costado» sobrevive entera**, como exigía el plan (§6, bloque 1). «abajo, en el varadero» también, con su coma.
+- **Paragrafado:** primera frase de su párrafo antes y después; el párrafo conserva sus dos vecinos; el dinkus de :219 no se mueve. `S-n6-persona` (:139–145) y `S-n6-cartel` (:201–207) intactos y con los mismos vecinos.
+- **Métricas:** palabras 1.448 → **1.448**. M1 2,8 únicos/1.000, sin cambio. M4b 4,0 % sin cambio. M9 **129 spans íntegros**. T7 **0 hits nuevos** (la frase no casa patrón A ni B ni antes ni después; los hits de `cap-n6` en «hielo», «ferry», «agua» y «cabo» están en `b7-aclarados.tsv` y no los toca esta hoja). `validar-frontmatter.sh` OK.

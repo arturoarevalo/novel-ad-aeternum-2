@@ -220,7 +220,7 @@ Aslak pagó justo. La cajera dobló el recibo y saludó por su nombre al hombre 
 
 Dejó el acta en el cajón del refugio, encima de las tres reproducciones que volvían con él. Las selladas llegarían en diez días.
 
-Nils Seppola esperaba abajo, en el varadero, con el remolque enganchado y las cajas todavía a la sombra del costado. El remolque llevaba una lona doblada en el cuello y los calzos puestos del revés. Aslak los cambió antes de tocar nada.
+Nils Seppola tenía el remolque ya enganchado abajo, en el varadero, y las cajas todavía a la sombra del costado. El remolque llevaba una lona doblada en el cuello y los calzos puestos del revés. Aslak los cambió antes de tocar nada.
 
 —El comprador viene a las seis —dijo Nils.
 

@@ -218,7 +218,7 @@ Nora no la corrigió. Salió antes de que su madre contestara.
 
 * * *
 
-Jessie esperaba sentada en el murete de la rampa, con el parte doblado en el bolsillo del abrigo.
+Jessie estaba sentada en el murete de la rampa, con el parte doblado en el bolsillo del abrigo.
 
 Lo sacó, lo abrió sobre la rodilla y volvió a doblarlo por la misma línea. Debajo de la casilla de aviso a la familia había un número de registro y una hora.
 

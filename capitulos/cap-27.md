@@ -140,7 +140,7 @@ Los protocolos de SPEIL ocupaban dos baldas y once años de revisiones. Alana bu
 
 Dentro había una copia de gobernanza del consentimiento inicial, las extensiones de uso y la cláusula de revocación. Al final, separada por una pestaña amarilla, aparecía una hoja que Alana no conocía.
 
-Era el paquete mensual del consejo. Se usaba cuando caía la red. En cada margen, el sello del gestor acompañaba al número de control mientras la firma aparecía convertida en una trama visible. Alana siguió el orden de las hojas.
+Era el paquete mensual del consejo. Se usaba cuando caía la red. El sello del gestor acompañaba al número de control en cada margen mientras la firma aparecía convertida en una trama visible. Alana siguió el orden de las hojas.
 
 `R-1189 — REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN`
 
