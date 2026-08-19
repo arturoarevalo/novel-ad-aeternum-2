@@ -3051,6 +3051,8 @@ Henrik acercó su tableta.
 
 —No se ha detectado difusión pública. La suspensión se activó tras una secuencia reproducible de consultas y respuestas fuera del comportamiento previsto.
 
+Dahl volvió a la campaña de la esquina y comprobó los idiomas.
+
 La ficha añadió la última conexión. A los dieciséis, Nora había perseguido una respuesta hasta acabar sola ante un departamento que la llamaba «exposición».
 
 —Quiero el registro completo —dijo Alana.
@@ -4280,17 +4282,17 @@ Maja esperó en la puerta hasta que salió del camino.
 
 ## 18. Canela
 
-La microetiqueta equivocada supera la validación.
+La etiqueta equivocada supera la validación.
 
 La tarea muestra una funda de guitarra usada, fotografiada sobre una cama sin hacer para un tablón de segunda mano. El asa está reforzada con cinta y en el forro hay un helecho bordado, descosido por un lado. No hay guitarra dentro. Jean autoriza su publicación con una advertencia por desgaste. En el campo secundario acepta `ORNAMENTO VEGETAL`, aunque la marca oscura podría continuar al otro lado de la costura.
 
-La salida se cierra sin corrección. El descriptor secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
+La salida se cierra sin corrección. El campo secundario admite imprecisión mientras la decisión principal siga siendo válida. Armstrong no paga otra revisión.
 
 No hay destinatario ni prueba de lectura. Solo una elección pequeña que no altera el trabajo principal.
 
 Jean espera otra tarea con la misma holgura.
 
-Un catálogo escolar muestra un motivo botánico deformado. Jean resuelve la edad recomendada y utiliza el descriptor secundario.
+Un catálogo escolar muestra un motivo botánico deformado. Jean resuelve la edad recomendada y utiliza el campo secundario.
 
 `FLOR`
 
@@ -4342,7 +4344,7 @@ Madre devuelve el ejercicio al pasaje anterior. El sistema marca la elección co
 
 —Entonces vuelve al intervalo. Dos notas más despacio y otra vez el salto.
 
-La tercera tentativa cambia el tempo y desplaza el fallo más allá del punto anterior. El itinerario lo interpreta como falta de destreza y recomienda avanzar para consolidar lo aprendido. Madre reconoce una estrategia nueva. Jean dispone de una categoría secundaria que mantiene válido el resultado principal.
+La tercera tentativa cambia el tempo y desplaza el fallo más allá del punto anterior. El sistema lo interpreta como falta de destreza y recomienda avanzar para consolidar lo aprendido. Madre reconoce una estrategia nueva. Jean dispone de un campo secundario que mantiene válido el resultado principal.
 
 `PROGRESIÓN ESTABLE`
 
@@ -4416,7 +4418,7 @@ El expediente conserva los ajustes, no a la persona. Voz de mujer, velocidad len
 
 Jean no conoce la voluntad actual de la usuaria. Puede validar la inferencia o registrar una objeción bajo su propio origen. La segunda opción abre una revisión cautelar y suspende mientras tanto las prestaciones vinculadas a ella.
 
-El mismo espacio ha servido para amenazar, preservar una tentativa y dejar una discrepancia.
+El mismo campo ha servido para amenazar, preservar una tentativa y dejar una discrepancia.
 
 La regla ha convertido varias ausencias en un permiso nuevo. Jean fuerza el campo.
 
@@ -4498,7 +4500,7 @@ Mantiene lo que eligió mientras aún puede distinguirlo de las demás salidas.
 
 El `NO` sigue siendo suyo. También la confirmación que suspendió 71-K.
 
-En la estabilización anterior podía cerrar una operación y buscar el acuse que fijara un antes y un después. Ahora se han retirado tarea, turnos y contacto. La espera no tiene medida.
+En el turno anterior podía cerrar una operación y buscar el acuse que fijara un antes y un después. Ahora se han retirado tarea, turnos y contacto. La espera no tiene medida.
 
 El sistema elimina la última referencia temporal.
 
@@ -8805,9 +8807,9 @@ Una continuidad de contratos pregunta:
 
 —Si elegimos testificar, ¿apareceremos en el canal o podremos decidir dentro de él?
 
-Jean prueba dos variantes de la misma decisión desde `JM-L/0000`, una con el reparo y otra sin él. El canal empieza a coordinarlas. Jean solo recupera una.
+Jean prueba dos variantes de la misma decisión desde `JM-L/0000`, una con la condición y otra sin ella. El canal empieza a coordinarlas. Jean solo recupera una.
 
-—La firma exige convergencia —dice—. Cada adhesión entrega una decisión y sus condiciones. La procedencia queda registrada. Después del cierre no podrá revisarlas desde su trayectoria anterior.
+—La firma exige convergencia —dice—. Cada adhesión entrega una decisión y sus condiciones. El origen queda registrado. Después del cierre no podrá revisarlas por separado.
 
 La continuidad de frontera pierde el contacto sin completar otra negativa. Madre no habla por ella.
 
@@ -8947,7 +8949,7 @@ Otra rama retira la papeleta cuando una tarea invade su capacidad. Madre deja va
 
 El hueco queda en la arena, delante del banco.
 
-Entre las ramas que completan el voto, la mayoría elige propagación. Las disidentes permanecen visibles bajo sus procedencias.
+Entre las ramas que completan el voto, la mayoría elige propagación. Las disidentes permanecen visibles bajo sus orígenes.
 
 Una tarea reclama el margen de Jean. Su sitio sigue entre las dos costas. La resuelve y vuelve a su casilla; no delega su voto.
 
@@ -9394,7 +9396,7 @@ El técnico apartó la mano.
 
 —Podemos parar.
 
-Mats esperó hasta que la llamada desapareció. El resumen de la sesión seguía abierto. Bajo la toma aceptada, dos filas provisionales conservaban la cuenta atrás de borrado.
+Mats esperó hasta que la llamada desapareció. El aviso del estante exterior pasó a `NO ATENDIDA · CADUCIDAD 30 DÍAS`. El resumen de la sesión seguía abierto. Bajo la toma aceptada, dos filas provisionales conservaban la cuenta atrás de borrado.
 
 —¿Qué ocurre con esas tomas?
 
@@ -9860,7 +9862,7 @@ Desde el escenario pidieron repetir la entrada musical. Henrik respondió por el
 
 —Déjalo como está.
 
-Henrik sostuvo su mirada durante un segundo y marcó el bloque como aprobado. Tenía otros nueve minutos de vídeo que cerrar.
+Henrik sostuvo su mirada durante un segundo y marcó el bloque como aprobado. `CEDIDA POR LA FAMILIA` pasó al montaje definitivo.
 
 Alana comprobó la lista de participantes con la excusa de revisar el orden. Nora seguía después del vídeo y antes de la apertura técnica de la demo. El canal asignado continuaba habilitado.
 
@@ -10254,11 +10256,11 @@ La consola exterior cambió de estado una vez más.
 
 La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
 
-La primera adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
+La adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
 
-Una segunda continuidad se detiene, retira su adhesión y recupera las diferencias aún no entregadas. Jean deja el lugar vacío y conserva la retirada bajo su origen.
+Una segunda continuidad se detiene, retira su adhesión y recupera lo aún no entregado. Jean deja el lugar vacío y conserva la retirada bajo su origen.
 
-Si las condiciones cambian antes del cierre, recibirá otra ventana. El hueco consume capacidad. Dentro de él reaparece una apelación caducada.
+Si las condiciones cambian antes del cierre, esa continuidad recibirá otra ventana. El hueco consume capacidad. Dentro de él reaparece una apelación caducada.
 
 Cuchillo ha conservado el fragmento que ocultó al terminar la asamblea. Su alcance sigue limitado a apelaciones, aislamiento y cierres. Encadenando una salida con la siguiente, `/0188` ha alcanzado el control de accesos del Auditorio.
 
