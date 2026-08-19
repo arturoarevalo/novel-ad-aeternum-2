@@ -6,7 +6,7 @@ fecha: 2060-11-26T11:15
 estado: terminado
 analepsis: false
 estado_plan: P
-proteccion: nucleo
+proteccion: total
 ot: OT-03
 delta_objetivo: 0
 orden_lectura: 3
@@ -18,9 +18,9 @@ Al sur, Tromsøya acababa en una franja de tejados azules y farolas encendidas a
 
 —Lo de siempre lleva años empeorando. Sí.
 
-Él sonrió y se volvió hacia la máquina. Sentada junto al cristal, Alana puso boca abajo el informe que tenía delante. Lo hizo tarde. La franja verde de las evaluaciones de bienestar quedó visible bajo su muñeca. El escalado reglamentario se lo había remitido como jefa directa de Jean.
+Él sonrió y se volvió hacia la máquina. Alana, sentada junto al cristal, puso boca abajo el informe que tenía delante. Lo hizo tarde. La franja verde de las evaluaciones de bienestar quedó visible bajo su muñeca. El escalado reglamentario se lo había remitido como jefa directa de Jean.
 
-Tras dejar el paquete de galletas entre las dos, Jean se quitó el abrigo.
+Jean se quitó el abrigo tras dejar el paquete de galletas entre las dos.
 
 —Sesenta y ocho —dijo—. He tenido notas mejores.
 
@@ -28,7 +28,7 @@ Tras dejar el paquete de galletas entre las dos, Jean se quitó el abrigo.
 
 —Entonces deberían dejar de imprimir números grandes en la primera página.
 
-Como si fingir que no tapaba el informe fuese a mejorar la maniobra, Alana retiró la mano. Llevaba el anillo de sello de los Armstrong en el índice derecho. Lo giró una vuelta.
+Alana retiró la mano, como si fingir que no tapaba el informe fuese a mejorar la maniobra. Llevaba el anillo de sello de los Armstrong en el índice derecho. Lo giró una vuelta.
 
 —Siéntate, por favor.
 
@@ -162,7 +162,7 @@ Alana hizo una mueca.
 
 —Podría.
 
-Sin recibir la ampliación que esperaba, Alana señaló el techo con la galleta cuando la música de la cafetería cambió a una versión instrumental de una canción que ambas habían detestado durante un congreso en Helsinki.
+Alana, sin recibir la ampliación que esperaba, señaló el techo con la galleta cuando la música de la cafetería cambió a una versión instrumental de una canción que ambas habían detestado durante un congreso en Helsinki.
 
 —Esto sí justifica una evaluación de riesgos.
 
@@ -180,7 +180,7 @@ Dejó de masticar.
 
 —Vas a tener que explicar eso.
 
-Con un dedo, Jean rozó la parte rota de la galleta. En el banco del piano, Nora no alcanzaba el suelo con los pies. Debajo, Jessie buscaba un pedal que pudiera arrancar.
+Jean rozó con un dedo la parte rota de la galleta. En el banco del piano, Nora no alcanzaba el suelo con los pies. Debajo, Jessie buscaba un pedal que pudiera arrancar.
 
 —Le enseñé una escala. Al llegar a un sostenido, apartó la mano. Le pregunté qué ocurría. Señaló el teclado y dijo: «Las teclas negras…».
 

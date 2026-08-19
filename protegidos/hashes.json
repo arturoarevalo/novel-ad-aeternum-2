@@ -5,8 +5,8 @@
       "cuerpo": "d3a99aba183818d05e1c00e7079b55898cc4a06c7f03fdc7f1b0e4fbef15d1ff"
     },
     "capitulos/cap-03.md": {
-      "fichero": "b2949a925fdb0a1cc3e2665c41314f6ebebe2a11959174b790406a003b6be87e",
-      "cuerpo": "51e44f77337b947cab1768adced4f20f5b0dba3bf5c8a6d0b8d9762e25f6de2c"
+      "fichero": "9fae4fa58a94d2ac6819e65b686c750d3597c6a414f897d626b55f2b7007534f",
+      "cuerpo": "b5d1a0038bf179e2667d1061408f8d5eb0b6ceb04aeb9074db972a35ca66ed59"
     },
     "capitulos/cap-04.md": {
       "fichero": "edaf94422de12902cef09f74c8f30146c6ab74b9703c7e5e650474de04097352",
@@ -677,5 +677,5 @@
       "longitud": 5901
     }
   },
-  "generado": "2026-08-19T06:09:07"
+  "generado": "2026-08-19T06:17:41"
 }
