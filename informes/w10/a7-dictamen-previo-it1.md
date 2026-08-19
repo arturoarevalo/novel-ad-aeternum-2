@@ -39,6 +39,7 @@ Números para localizar; **manda la cita**.
 | A-18 | `cap-18:185` | «Ningún canal permite preguntar a la persona qué necesitaba hoy.» | R7 §14 · R8 | vigilar |
 | A-19 | `cap-16:177` | «CARIES era una palabra de aquella casa. […] desde entonces no había salido de la cocina.» + `cap-28:123` «Alana la conocía […] Podía estar en el perfil.» | R7 §16 | **VETO si se retira la ambigüedad** |
 | A-20 | `cap-41:273` | «cayó de lado entre los bancos, con la barbilla baja. No se hizo daño.» | R6 (excepción expresa) | vigilar (no se debilita) |
+| A-22 | `cap-28:143-153` | «Quieres que diga el metrónomo, pero no lo recuerdo.» + «—Dejo el hueco.» | R7 §6 | **VETO si se completa por deducción** |
 | A-21 | `00-aviso.md` | «El acto no se describe en ninguna página.» | R9 · Carta 5 | **VETO si se rompe la promesa** |
 
 ---
@@ -63,7 +64,8 @@ Y hay un riesgo de arquitectura que no depende de ninguna palabra: si las tres p
 4. **Sin marcador de última vez.** No aparecen en la página: «la última vez», «nunca más», «ya no», «todavía no sabían», «por última vez», ni ninguna prolepsis. El narrador de la tarde **no sabe** lo que va a pasar. Ese es el listón de `cap-17`.
 5. **Sin evaluación.** Ninguna línea dice lo que el recuerdo vale, lo que le cuesta, lo que ha perdido o lo que preferiría. El registro de `cap-30:277-281` —«El recuerdo no cuesta nada» / «No crece. No se gasta.»— es procedimental y así se queda. Y la ventana **no** se presenta como descanso, premio, respiro ni merecimiento (`R4`).
 6. **Menores.** Nora y Jessie son adolescentes o niñas en una tarde, no símbolos. No se extiende la rima corporal Jean↔Nora (`R6`), ni hay cuerpo mirado.
-7. **Fecha imposible en 2060.** Ningún dato (edad dicha en años, curso, mudanza, casa nueva) permite situar la tarde después de la separación.
+7. **El metrónomo, con cuidado.** `R7 §6` protege el segundo regalo del noveno cumpleaños y `cap-28:143` deja la deducción a medias: «Quieres que diga el metrónomo, pero no lo recuerdo.» El objeto puede existir en la casa —está en `cap-17` y en `cap-28:145`—, pero **la página no puede ponerlo en una mano, un envoltorio, una fecha ni un cumpleaños**, ni permitir que un lector cierre la deducción. «No se completa jamás, ni por deducción» es literal.
+8. **Fecha imposible en 2060.** Ningún dato (edad dicha en años, curso, mudanza, casa nueva) permite situar la tarde después de la separación.
 
 ---
 
@@ -82,6 +84,7 @@ Y hay un riesgo de arquitectura que no depende de ninguna palabra: si las tres p
 3. **No se completa `cap-28`.** La página no toca «Dejo el hueco» (A-13) ni el noveno cumpleaños, ni permite deducir el segundo regalo.
 4. **No añade una cuarta versión al canon de la frase.** «esas teclas hacían morder a la canción» (`cap-12:21`) es lo que hay; si la escena la dramatiza, no se glosa ni se mejora después en ninguna otra página.
 5. **Sin marcador de última vez ni prolepsis**, igual que C-1.4.
+6. **Metrónomo:** rige C-1.7. Una analepsis al piano con Nora pequeña es el sitio más probable de todo el libro para cerrar sin querer el segundo regalo del noveno cumpleaños.
 
 ---
 
@@ -207,9 +210,9 @@ Por eso mi criterio operativo, y quiero que quede escrito porque va a hacer falt
 
 **Dos matices, y el segundo es una condición nueva mía.**
 
-*Matiz uno: no la apliquéis más fuerte de lo que está escrita.* Los objetos de `cap-17` **sí** vuelven —la taza reparada aparece en `cap-04:23`, el metrónomo en `cap-28:147`— y `cap-17` es el modelo de todo esto. Vuelven como **textura**, no como prueba. La regla, tal como está redactada —«como contraseña, prueba, motivo ni señal»—, es correcta; una cuarentena total sería peor, porque una página cuyos objetos no pueden rozar el resto del libro es una burbuja sellada, y una burbuja sellada **es más elegíaca**, no menos.
+*Matiz uno: no la apliquéis más fuerte de lo que está escrita.* Los objetos de `cap-17` **sí** vuelven —la taza reparada aparece en `cap-04:21`, el metrónomo en `cap-28:145`— y `cap-17` es el modelo de todo esto. Vuelven como **textura**, no como prueba. La regla, tal como está redactada —«como contraseña, prueba, motivo ni señal»—, es correcta; una cuarentena total sería peor, porque una página cuyos objetos no pueden rozar el resto del libro es una burbuja sellada, y una burbuja sellada **es más elegíaca**, no menos.
 
-*Matiz dos, condición añadida:* ningún objeto, lugar ni gesto de estas páginas comparte jamás frase, párrafo ni escena con el 26 de noviembre, el trayecto, Koppangen, el naust, la bolsa o «Despedida»; y **ninguno puede ser un objeto de la secuencia doméstica de `cap-04:15-41`** (lista completa en C-1.3). Ésa es la reaparición que sí reconstruye, y es la que va a ocurrir sola si nadie la prohíbe por escrito.
+*Matiz dos, condición añadida:* ningún objeto, lugar ni gesto de estas páginas comparte jamás frase, párrafo ni escena con el 26 de noviembre, el trayecto, Koppangen, el naust, la bolsa o «Despedida»; y **ninguno puede ser un objeto de la secuencia doméstica de `cap-04:15-39`** (lista completa en C-1.3, y ver también C-1.7 sobre el metrónomo). Ésa es la reaparición que sí reconstruye, y es la que va a ocurrir sola si nadie la prohíbe por escrito.
 
 **Sobre la elegía: el riesgo es real, la regla inversa de M2 no lo toca, y no es un problema de tono. Es `Carta 4` disfrazada.**
 
@@ -234,8 +237,8 @@ Y la razón por la que esto me corresponde a mí y no al gusto de nadie: una pá
 
 | # | Candidata | Veredicto |
 |---|---|---|
-| 1 | La habitación encendida | **APROBADO CON CORRECCIONES** (C-1.1 … C-1.7) |
-| 2 | CARIES, escrita | **APROBADO CON CORRECCIONES** (C-2.1 … C-2.5) + dos advertencias de categoría |
+| 1 | La habitación encendida | **APROBADO CON CORRECCIONES** (C-1.1 … C-1.8) |
+| 2 | CARIES, escrita | **APROBADO CON CORRECCIONES** (C-2.1 … C-2.6) + dos advertencias de categoría |
 | 3 | La pregunta de Jessie en el locutorio | **APROBADO CON CORRECCIONES** (C-3.1 … C-3.10) |
 | 4 | La noche de Alana | **VETO** |
 | 5 | 71-K vuelve | **APROBADO CON CORRECCIONES** (C-5.1 … C-5.6) |
