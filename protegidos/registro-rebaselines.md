@@ -17,3 +17,4 @@
 - 2026-08-20T11:10:30 · rebaseline · W10 it.4 · gate A7
 - 2026-08-20T14:19:06 · rebaseline · W11 · A7 nomenclatura
 - 2026-08-20T14:45:10 · rebaseline · W11 · promociones
+- 2026-08-20T15:04:36 · rebaseline · W11 · punteros
