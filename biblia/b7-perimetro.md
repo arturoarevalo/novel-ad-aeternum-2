@@ -57,7 +57,7 @@ Cada una dice **qué**, **por qué** y **dónde**. El «por qué» importa tanto
 
 - **El inventario del naust de `cap-04:99-121` no se amplía ni se glosa.** Es el suelo del libro. Ninguna vuelta al naust (`cap-39`, `cap-41`, `cap-46`, `cap-48`, `cap-47`) le añade un objeto, una mirada al agua desde el umbral, ni una imagen nueva de agua, hielo, oscuridad o reflejo.
 - **La bolsa de viaje tiene dos apariciones y no hay una tercera** (`cap-04:25`, `cap-27:121`). No se abre, no se inventaría por dentro, no se vuelve a mover. La hoja de efectos personales aparece una vez, como trámite.
-- **El trayecto es el que es.** El ferry, el gofre que nadie encontró mordido, la cajera de Svensby, la carretera que se acaba en Koppangen: `cap-23`, `cap-34`. No crece. «Por ahí no» (`cap-34:87`) es el techo.
+- **El trayecto es el que es.** El ferry, el gofre que nadie encontró mordido, la cajera de Svensby, la carretera que se acaba en Koppangen: `cap-23`, `cap-34`. No crece. «Por ahí no» (`cap-34:81`) es el techo.
 - **Ningún lugar de memoria familiar se pone junto al lugar de la muerte.** La playa de Telegrafbukta y la playa del jardín no comparten jamás frase, párrafo ni escena con Koppangen, el naust, la barca o el 26 de noviembre. Convertir una playa recordada en escenario es romper el punto 1 sin escribir una sola palabra prohibida.
 - **`cap-06` deja dos preguntas sin respuesta para siempre:** «¿Dónde exactamente?» y «¿Sufrió?». No se contestan ni en negativo.
 
