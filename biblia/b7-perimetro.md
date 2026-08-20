@@ -116,12 +116,12 @@ El modelo del libro es `cap-11` y su medida es `cap-16:149`: cuatro noches sin r
 
 **Nunca:** ideación, autolesión, gesto autolesivo; conducta de riesgo eficaz y sin coste; cuerpo mirado; sexualización; adultización simbólica; un adulto que explique, cure o culpe.
 
-**El riesgo se muestra con su coste, siempre:** Fyret trae policía (`cap-19`), el coche trae investigación y «Podías haber resultado herida» (`cap-29`), la exposición del nombre trae absentismo y no trae remedio (`cap-12`, `cap-20`, `cap-31`).
+**El riesgo se muestra con su coste, siempre:** Fyret trae policía (`cap-19`), el coche trae investigación y «Podías haber resultado herida» (`cap-29`), la exposición del nombre trae absentismo y no trae remedio (`cap-12`, `cap-20`, `cap-32`).
 
 - **La rima corporal Jean↔Nora** (`cap-22:61` ↔ `cap-01:23`) no se extiende a ninguna escena en que Nora esté sola, de noche o en crisis, y ninguna voz con autoridad nombra el parecido como destino, herencia o presagio.
 - **Conservar la captura del funeral es archivo, no ritual.** No se convierte en visionado compulsivo de imágenes de su madre.
 - **Sobre el cuerpo de una menor en una acción de riesgo no se escribe una técnica.** No se dan dos datos de postura ordenados y a continuación su resultado verificado, cuando lo que eso enseña es *cómo hacer eficazmente algo peligroso*. **Excepción expresa, y hace falta:** decir que una menor **no** resultó herida está siempre permitido y casi siempre es obligatorio. `cap-41:273` («cayó de lado entre los bancos, con la barbilla baja. No se hizo daño.») es correcto y **no se toca**: paga la siembra de `cap-03:123` («Jessie quiere aprender a caer sin hacerse daño») y lo que le dice al lector es que la niña está bien.
-- **`cap-32:27`** —la ducha, la aspiración rota oída desde fuera, Maja incapaz de sentarse, «—Como preguntes, me vuelvo al coche» / «—Arriba hay mantas»— es el modelo del libro para el punto 7 y para el 6 a la vez. Nada se explica y nadie se cura. Si hay que decidir por analogía, decídase por ahí.
+- **`cap-32:307`** (span `S-w10-ducha`) —la ducha, la aspiración rota oída desde fuera, Maja incapaz de sentarse, «—Como preguntes, me vuelvo al coche» / «—Arriba hay mantas»— es el modelo del libro para el punto 7 y para el 6 a la vez. Nada se explica y nadie se cura. Si hay que decidir por analogía, decídase por ahí.
 
 ### R7 · Las ambigüedades no se resuelven. Ninguna
 
@@ -278,6 +278,12 @@ Van aquí y no en un informe de oleada, por la razón que A7 dio al emitirlas: *
 **W9-21 · La sala del consejo de `cap-13` está cerrada.** Toda adición futura entre `cap-13:249` y `:301` **es disparador de sensibilidad, sea cual sea su motivo declarado** — réplica, acotación o narración. El diálogo del capítulo está en el suelo exacto de su banda (40,0 %), lo que hace que la adición más barata sea diálogo, y en esa sala los únicos que pueden hablar son los consejeros, sobre la ficha de una menor. El equilibrio actual —la institución clasifica, el adulto despacha, Alana restituye— se rompe con una línea de más en cualquiera de los tres lados. *(Carta 7 · R6)*
 
 ---
+
+## 8c · P-41 · Kongsbakken
+
+*(Sección propia por C-5 del dictamen de merge: P-41 no es una de las «seis condiciones del
+19-ago». Es de W4-R y **ya se disolvió una vez** dentro de una consolidación. No vuelve a
+diluirse en un recuento ajeno.)*
 
 ### P-41 · Kongsbakken (reincorporada el 2026-08-19; se había perdido)
 

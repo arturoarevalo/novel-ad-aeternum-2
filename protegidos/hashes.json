@@ -694,8 +694,8 @@
     },
     "S-w10-mananas-34": {
       "archivo": "capitulos/cap-34.md",
-      "hash": "28428eb267a709b869e4ae46ede2a2513b82f304f74782f685eb56d825f07132",
-      "longitud": 139
+      "hash": "935e44ed52da486499b241614c0b7eff3815ca0932c9e727a436dfbb116fb8b7",
+      "longitud": 163
     },
     "S-w10-costura-c3": {
       "archivo": "capitulos/cap-32.md",
@@ -704,9 +704,9 @@
     },
     "S-w10-ducha": {
       "archivo": "capitulos/cap-32.md",
-      "hash": "d7a0fc6e627288cf923821f7444b0e1035c0706afcc7831dc3f2abca4053957d",
-      "longitud": 663
+      "hash": "839b097f0f4266ba3c1b9a68bd4954b122518498e38b1aa77da4f6792110a0da",
+      "longitud": 831
     }
   },
-  "generado": "2026-08-19T18:18:53"
+  "generado": "2026-08-20T00:29:05"
 }
