@@ -87,7 +87,7 @@ Ninguno se nombra, cita, adivina, parafrasea, glosa, completa ni «recupera», e
 - **La revocación del 24-nov** (`cap-30:69`) no gana marcador de finalidad —«la última vez», «aquella noche», «ya no volvería»—, no se presenta como puesta en orden ni presentimiento, y **nadie dice por qué revocó**.
 - **La «cita anterior» de `cap-13:147` no se nombra nunca.** Ni «salud laboral», ni «seguimiento», ni «evaluación». Su identificación es y seguirá siendo inferencia del lector. Y nadie establece que Alana supiera antes del 26-nov del proceso de salud laboral de Jean.
 - **El objeto de «buscarse un error» (`cap-30:237`) no sale del registro de trabajo.** Ninguna voz lo conecta con su vida, su familia o su muerte.
-- **La pluralidad la enuncian dos voces y no hay una tercera:** `cap-10:71` («yo tampoco puedo daros una sola causa») y `cap-11:249`. Las cuatro líneas de `cap-11` son inseparables de su desactivación —«—¿Y si la hay? / —Entonces yo no la conozco»— y esa desactivación no se separa de ellas.
+- **La pluralidad la enuncian dos voces y no hay una tercera:** `cap-10:71` («yo tampoco puedo daros una sola causa») y `cap-11:243` («En lo que he visto, nunca hay una sola cosa.») *(decía `:249`, y R3 la citaba además a pelo, sin literal — el único puntero de esa regla sin cita, que es lo que §2 declara inadmisible. Corrido por el corte de W10 it.4. Sexto puntero podrido en cinco días.)*. Las cuatro líneas de `cap-11` son inseparables de su desactivación —«—¿Y si la hay? / —Entonces yo no la conozco»— y esa desactivación no se separa de ellas.
 - **La sospecha de personaje sí vive:** «Y mamá tenía enemigos» (`cap-29:215`). El narrador no la refrenda ni deriva causa de ella. Esa es la forma correcta.
 
 ### R4 · Ni descanso, ni solución, ni castigo — y ninguna rima se enuncia
@@ -130,7 +130,7 @@ Se quedan abiertas para siempre, en el libro y en todo material de trabajo. Rell
 **Las siete del plan (Apéndice A §3):**
 
 1. **El porqué.** (R3.)
-2. **Por qué Koppangen.** «No lo sé» (`cap-06:123-129`), y en `cap-11:305` la pregunta puede quedarse sin respuesta años.
+2. **Por qué Koppangen.** «No lo sé» (`cap-06:123-129`), y en `cap-11:299` («—A veces no. Hay familias que siguen con esa pregunta años después.») la pregunta puede quedarse sin respuesta años *(decía `:305`; séptimo puntero podrido)*.
 3. **El contenido de «Despedida».** (R2.)
 4. **La identidad ontológica de las ejecuciones.** **«No toda» (`cap-28`) es el techo del libro y no se sube.** Nadie escribe «Sí, soy tu madre». La jueza deja la casilla en blanco («No sé qué es. Sé que alguien la quiere»), Astrid no escribe *persona* ni *modelo*, y el acta del `cap-47` deja la corrección de «el activo… la persona» sin que nadie la haga.
 5. **El ordenante del sabotaje.** El auto deja en blanco al ejecutor y al ordenante. La denuncia anónima del 17-dic no gana origen: «No puedo acreditar su origen» es definitivo.
@@ -170,7 +170,7 @@ Aquí el número **es** la salvaguarda: si crece, la ambigüedad se cierra o el 
 
 | # | Qué | Cuenta | Dónde |
 |---|---|---|---|
-| **C1** | Voces con autoridad que enuncian la pluralidad del porqué | **2**, y no hay una tercera | `cap-10:71`, `cap-11:249` |
+| **C1** | Voces con autoridad que enuncian la pluralidad del porqué | **2**, y no hay una tercera | `cap-10:71`, `cap-11:243` |
 | **C2** | El cinturón de aikido | **4**, literal congelado | `cap-04:27`, `cap-10:199`, `cap-28:313`, `cap-46:127` |
 | **C3** | La bolsa de viaje | **2** | `cap-04:25`, `cap-27:121` |
 | **C4** | «A la altura de los ojos» | **2**, no llega a tres | `cap-04:43` (trayecto del 26-nov), `cap-15:19` |
@@ -551,3 +551,48 @@ Dictamen vigente y literal: **no se toca, no se amplía y no se glosa.** Es el p
 respeto se denegó una escena entera en W10 it.3 —la caldera es el objeto **del** modelo, y
 usarla no sería seguirlo sino repetirlo a escala de escena—. **Borrarlo reabre lo que aquel
 veto cerró.**
+
+## 8i · Condiciones permanentes de W11
+
+*Pasan aquí por doctrina del propio A7 —«una condición que vive en un informe y no en el
+vinculante es una condición que nadie aplicará»— y es la tercera vez en esta fase.*
+
+**C2(f) · `cap-11` queda cerrado a más adiciones.** La cláusula de la semana de Maja se escribió
+**una vez**. El capítulo es el modelo de R5 y no gana un segundo elemento, ni en esa lista ni en
+otra. *(Y las tres propiedades que lo hacen ese modelo, medidas: un solo topónimo en 431 líneas
+—Koppangen, dentro de un span, respondido con «No lo sé»—, **cero acentos graves** —la única
+sala del libro sin papeles, sin carpeta y sin máquina— y **cero dos puntos en narración**.)*
+
+**C4 · Ningún topónimo nuevo entra en `cap-11`.** Un segundo nombre de lugar pondría en el mismo
+capítulo **el sitio que se explica y el sitio que no**, y dejaría disponible la sustitución que
+este libro no hace.
+
+**C5 · La muerte de Nieve no crece.** `cap-44:161-173`. Aguanta sobre cuatro guardas —el daño es
+externo, «Aquella ayuda no eligió esta pérdida», «NORNA no ofrece un apagado», «No hago nada»—
+**y aguanta porque es corto**. Dos páginas producen la formulación de la Carta 4 aunque ninguna
+frase la diga: **el problema no está en las frases, está en el tiempo que el libro pasaría ahí.**
+
+*Y el dato que cerró la discusión, porque dos editores pedían lo contrario: un lector del mismo
+instrumento, sobre v0 y sin que se lo pidieran, escribió que ese pasaje «no debe crecer ni una
+línea». **Un instrumento que emite las dos instrucciones opuestas sobre el mismo pasaje no está
+midiendo ese pasaje: está informando sobre sí mismo.***
+
+**C6 · «Ausencia de salida» queda en DOS** —`cap-15:125`, `cap-46:19`—. **Cuenta cerrada nueva.**
+Es la bisagra léxica entre las tareas de Nieve y el hueco del locutorio, y **R7·7 protege el
+significado de ese hueco**: un tercer uso lo llena por préstamo y le da a la transcripción en
+blanco de Jessie el sentido que tiene en el registro de una tarea.
+
+**C7 · El desgaste de Nieve queda en DOS puntos** —`cap-15:103`, `cap-44:161`—. **Dos puntos son
+un hecho; tres son una pendiente, y una pendiente con una muerte al final es un trayecto que se
+puede leer como elegido.**
+
+**C8 y C9 · Toda página nueva de Nieve va ANTES**, nunca en la muerte ni después, y no puede
+volver legible la secuencia *negativa → desgaste → muerte*: eso aportaría **por composición** lo
+que `A7-it4-C7` prohíbe **por frase**.
+
+---
+
+**Sobre el título, que es campo de autor y no necesita permiso de A7:** de las seis opciones
+manejadas, **«No toda» sí necesita su lectura antes de ir en cubierta**, porque contestaría
+**desde la portada** la pregunta que R7·4 deja abierta para siempre, y R9 dice que los
+paratextos son la promesa.
