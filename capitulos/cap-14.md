@@ -248,6 +248,22 @@ Se levantó y caminó hacia los aseos, en lugar de hacia la puerta. Jessie cogi�
 
 Nora buscó en el ventanal la parka oscura. El hombre ya no estaba frente a la tienda.
 
+Jessie palpó el bolsillo donde guardaba la tarjeta.
+
+—Nos vamos a casa.
+
+—No podemos meterla en ningún lector.
+
+—Eso ha dicho él.
+
+—Y tú no le crees.
+
+—Le temblaban los dedos. La tarjeta se queda envuelta.
+
+Tomaron un desvío entre tiendas hasta una parada concurrida. El primer autobús de vuelta abrió las puertas, pero Jessie lo dejó marchar porque, una vez en marcha, solo ofrecía una salida. Esperaron cinco minutos entre la cola del siguiente, un hombre con una niña dormida sobre los hombros y dos estudiantes que compartían auriculares. Allí nadie podía acercarse sin ser visto.
+
+Un portal se abrió frente a la parada. Salió un hombre de unos cuarenta años, con una parka oscura y el cuello gris levantado. Antes de echar a andar se metió las manos en los bolsillos. Su cara no mostró reconocimiento al pasar junto a las gemelas.
+
 —Nos vamos —dijo Jessie.
 
 * * *
