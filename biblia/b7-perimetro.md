@@ -391,3 +391,50 @@ dos citas verbatim, y el verificador la rechazó en el hook de pre-commit. Es la
 acababa de fijar —dentro de este documento las comillas significan verbatim y toda glosa va
 fuera— aplicada contra quien la escribió, el mismo día, por una máquina. Así es como se
 supone que funciona.*
+
+## 8e · «La mosquitera» · condiciones permanentes M1–M8 (W10 it.3)
+
+A7 aprobó el capítulo **sin una sola corrección de texto** —la primera vez en toda la fase— y
+escribió estas ocho porque **lo frágil no es el texto: es su futuro**. El capítulo pasa por
+siete propiedades que un editor bienintencionado retiraría creyendo que lo mejora.
+
+**M1 · El desecho no se comenta.** Jean apila basura ajena en mesa ajena durante trabajo
+ajeno: eso retrata exclusión, no despedida. No hay un tercero que lo mire y **nadie lo comenta
+jamás**. En cuanto alguien lo nombra, se vuelve puesta en orden.
+
+**M2 · La exactitud de Maja no se conecta nunca con el hervidor.** El puente existe y es el
+patrón **contrario**: la mentira de «No lo había» queda como **desviación de su norma**, no
+como instancia de ella. Eso la hace más filosa, no más explicada. Enunciar la conexión la
+convierte en ejemplo, y R3 protege contra la explicación.
+
+**M3 · La dureza de Jean no se ablanda, y `cap-05:59` no se toca.** El capítulo son 46
+réplicas suyas. `cap-05:59` dice «Jean no recupera las palabras»: **si estas réplicas fueran
+recuerdo de Jean, contradirían lo que el libro estableció sobre ella.** No entra interioridad
+de Jean en la coda de `cap-21`.
+
+**M4 · Nora no entra nunca en esta escena** —es la condición más importante del gate—. El
+vecino derecho es el capítulo de Kongsbakken; si la escena midiera a Nora, la sutura sería un
+antes/después de la hija del conflicto. «—¿Y Nora? / —Detrás.» **no gana eco.**
+
+**M5 · El mosquito no vuelve.** «Ya estaba dentro antes de la barrera» es, en abstracto, un
+contrafáctico sobre la escalada interceptada. Hoy no lo es porque **no existe pareja de
+rima**. Ningún léxico de malla, barrera o filtro se aplica jamás a la ayuda, a la escalada ni
+a Jean.
+
+**M6 · La mosquitera no falla nunca.** El bucle «floja/puesta» pasa porque **el objeto no se
+comporta como el matrimonio**: la malla aguanta. Si alguna vez cede, la escena se vuelve
+alegoría.
+
+**M7 · Las tijeras se quedan, y sin usarse.** «Borrar una palabra de filo por si acaso es
+superstición, y la superstición dentro de un perímetro lo corroe.» El método del acto no
+existe en este libro en ninguna forma: no hay nada hacia lo que unas tijeras puedan acumular.
+Y la disputa donde aparecen es la que demuestra el oficio de Maja.
+
+**M8 · M9 no vuelve a informar «OK» sobre un conjunto que no ha enumerado.** El instrumento 21
+—`aa.chapter_paths()` veía 47 ficheros de 48 y todas las herramientas decían «OK»— demuestra
+que «íntegro» sobre cero ficheros y sobre el libro entero **son la misma frase**.
+
+*Dos aciertos que A7 hace constar como ajenos: la escena **sin umbral** —nadie llega, nadie se
+va— resuelve por forma, y no por vigilancia, dos condiciones que él había escrito, «y no se me
+había ocurrido»; y él aprobó esta sede por lo que **no** tenía, sin haber leído su vecino
+derecho: funciona por algo que **sí** tiene.*
