@@ -76,8 +76,17 @@ def verificar_doc(path, arreglar=False):
         # PRIMERA que lo tomó, venga por delante o por detrás. Declarar la segunda NO VERIFICABLE
         # es mejor que buscarle otro: darle el del vecino fue el fallo de las tres versiones
         # anteriores de este script, y produjo 49, 8 y 2 alarmas falsas.
+        # BUG LATENTE, hallado por A7 el 2026-08-20 y reproducido: en una enumeración escrita
+        # como `ref` («literal») · `ref` («literal»), la segunda referencia mira HACIA ATRÁS,
+        # encuentra el literal de la primera, lo ve consumido y se declaraba no verificable —
+        # cuando el suyo estaba justo detrás. Cada referencia robaba el literal de la anterior.
+        # Ahora, si el de atrás está tomado, se INTENTA el de delante antes de rendirse.
         if marca is not None and marca in usados:
-            out.append(("SIN-LITERAL", arch, num, 0, "comparte literal con otra referencia")); continue
+            izq = txt.find("«", m.end()); der = txt.find("»", izq+1) if izq != -1 else -1
+            if izq != -1 and der != -1 and (izq - m.end()) <= 14:
+                lit, marca = txt[izq+1:der].strip(), (izq, der)
+            if marca in usados:
+                out.append(("SIN-LITERAL", arch, num, 0, "comparte literal con otra referencia")); continue
         if marca is not None:
             usados.add(marca)
         if not lit or len(lit) < 6:
@@ -190,9 +199,15 @@ def main():
     for d in docs:
         out, cam = verificar_doc(d, arreglar)
         n = {k: sum(1 for r in out if r[0] == k) for k in ("OK","OK-DEBIL","MOVIDA","PERDIDA","SIN-LITERAL","TACHADA","TACHADA-FALSA")}
-        print("%s · %d citas · OK %d (+%d débiles) · MOVIDA %d · PERDIDA %d · sin literal %d"
-              % (os.path.basename(d), len(out), n["OK"], n["OK-DEBIL"], n["MOVIDA"], n["PERDIDA"],
-                 n["SIN-LITERAL"]+n["TACHADA"]))
+        verificadas = n["OK"] + n["OK-DEBIL"] + n["MOVIDA"] + n["PERDIDA"]
+        print("%s · %d citas · **VERIFICADAS %d de %d** · OK %d (+%d débiles) · MOVIDA %d · PERDIDA %d · sin literal %d"
+              % (os.path.basename(d), len(out), verificadas, len(out), n["OK"], n["OK-DEBIL"],
+                 n["MOVIDA"], n["PERDIDA"], n["SIN-LITERAL"]+n["TACHADA"]))
+        if n["SIN-LITERAL"] + n["TACHADA"] > verificadas:
+            # A7, 2026-08-20: «"0 perdidas y 0 movidas" es cierto y NO significa verificado.»
+            print("   AVISO: más citas SIN comprobar que comprobadas. Este resumen NO dice que")
+            print("   b7 esté verificado: dice que lo poco que se puede comprobar está bien.")
+            print("   Usa --deuda para la lista de las que no llevan literal.")
         for est, arch, num, real, lit in out:
             if est == "OK-DEBIL":
                 print("   débil    %s:%d  «%s» — %d caracteres: sobrevive a que le añadan palabras"

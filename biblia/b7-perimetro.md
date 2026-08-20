@@ -23,7 +23,7 @@
 
 **Dos definiciones que hacen falta para aplicar la Carta.**
 
-- **Voz con autoridad narrativa** = el narrador en cualquier persona, incluida la primera de `cap-44`; las actas, autos y resoluciones (Astrid, la jueza, la TKS); los registros de sistema presentados como hecho (EDDA, auditados); la profesional de apoyo de `cap-11`; y el autor en los paratextos. **Un personaje en diálogo puede decir lo que la rabia le dicte** —Jessie: «Mamá se mató»; Maja: «Jean ya pagó tu forma de protegerla»— y el narrador ni lo ratifica ni lo desmiente. Esa asimetría es el motor moral del libro entero.
+- **Voz con autoridad narrativa** = el narrador en cualquier persona, incluida la primera de `cap-44`; **toda acta, auto, resolución o consignación de un órgano** —la inspectora, la jueza y la autoridad de supervisión de sistemas cognitivos, **se las nombre por sigla, por perífrasis o por su nombre completo**—; **todo texto en monoespaciado**, que en este libro es la salida de un sistema presentada como hecho (EDDA, consolas, sellos, acuses, auditados); la profesional de apoyo de `cap-11`; y el autor en los paratextos. Un personaje en diálogo puede decir lo que la rabia le dicte y el narrador ni lo ratifica ni lo desmiente. Esa asimetría es el motor moral del libro entero. *(Reescrito el 2026-08-20. La versión anterior anclaba la definición a una sigla —«la TKS»—, es decir **al único tipo de dirección que una pasada de nomenclatura puede retirar**. Una definición que deja de aplicarse porque alguien renombró un órgano no es una definición: es un puntero. Ahora define por FORMA.)*
 - **Sugerir o reconstruir** no es solo decir. Es **acumular** objetos, lugares, horas o gestos que un lector pueda montar como preparación o escena. La elipsis no se rompe con una frase: se rompe sumando páginas que por separado no dicen nada.
 
 ---
@@ -486,3 +486,20 @@ tres títulos **vivos** del libro como ejemplo del registro. A0 leyó uno de ell
 y lo usó. La lección no es que A0 leyera mal: es que **un ejemplo dentro de una condición se lee
 como parte de la condición.** A partir de aquí, cuando yo restrinja un nombre, doy la
 restricción en negativo y no doy ejemplos. *(R4 · R7·4 · R2)*
+
+
+## 8g · A7-W11-C1 · El monoespaciado es una frontera de voz, no un adorno
+
+**Un sistema no dice «la incidencia» ni «la revocación»: emite un identificador.** Todo token en
+monoespaciado es **voz del sistema** y por tanto **voz con autoridad narrativa**. Ninguna pasada
+de estilo, de nomenclatura o de línea lo convierte en prosa corriente, ni al revés.
+
+Se verifica con una expresión regular y **no envejece**, que es lo que le faltaba a la mitad de
+las condiciones de este documento.
+
+*Y la razón por la que existe:* la propuesta de nomenclatura de W11 habría sustituido
+`INC-441` por «la incidencia» en siete loci que son **siete de siete monoespaciado** — es
+decir, habría puesto en boca del sistema una perífrasis que el sistema no puede decir. Y en
+`cap-40` habría fundido **tres referentes distintos** de «la incidencia», dos de los cuales
+tienen a Tomas dentro: **fundir sus nombres es atribuir por nomenclatura lo que el auto deja en
+blanco** (R7 §5).

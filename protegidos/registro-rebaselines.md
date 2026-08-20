@@ -15,3 +15,4 @@
 - 2026-08-20T08:48:16 · rebaseline · W10 it.3 · A7 M1-M8
 - 2026-08-20T10:44:50 · rebaseline · W10 it.4 · escisión
 - 2026-08-20T11:10:30 · rebaseline · W10 it.4 · gate A7
+- 2026-08-20T14:19:06 · rebaseline · W11 · A7 nomenclatura
