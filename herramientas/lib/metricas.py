@@ -386,7 +386,19 @@ def dashboard(et, R, B):
         if B:
             prev_first = B["M2"]["primera_aparicion"]
             idx = list(R["M1"]["por_capitulo"].keys())
-            movidas = [t for t in m2v["mecanicas_nuevas"] if prev_first.get(t) not in (None, arch) and idx.index(prev_first[t]) > idx.index(arch)] + [t for t in m2v["mecanicas_nuevas"] if prev_first.get(t) is None]
+            # W10: un capítulo de la baseline puede haber dejado de existir (fusión, supresión).
+            # Antes esto reventaba con ValueError; ahora la mecánica se marca como huérfana y
+            # SE INFORMA. Callarlo sería el modo de fallo que este proyecto lleva doce veces viendo.
+            def _pos(t):
+                f = prev_first.get(t)
+                return idx.index(f) if f in idx else None
+            movidas = [t for t in m2v["mecanicas_nuevas"]
+                       if prev_first.get(t) not in (None, arch) and _pos(t) is not None and _pos(t) > idx.index(arch)]
+            huerfanas = [t for t in m2v["mecanicas_nuevas"]
+                         if prev_first.get(t) not in (None, arch) and _pos(t) is None]
+            movidas += [t for t in m2v["mecanicas_nuevas"] if prev_first.get(t) is None]
+            if huerfanas:
+                movidas += ["%s(¿?)" % t for t in huerfanas]
             m2b = ("🔴 " if len(movidas) > 1 else "🟢 ") + (", ".join(movidas) if movidas else "0 nuevas")
         marca = " **(T1)**" if arch in DENSOS_T1 else ""
         pov = str(R["M5"][arch]["pov"])[:14]
