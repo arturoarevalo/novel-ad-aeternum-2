@@ -233,6 +233,16 @@
       "palabras_real": 929
     },
     {
+      "n": null,
+      "slug": "la-mosquitera",
+      "titulo": "La mosquitera",
+      "archivo": "cap-w1.md",
+      "palabras": 1000,
+      "palabras_real": 833,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 21.5
+    },
+    {
       "n": 22,
       "slug": "no-determinista",
       "titulo": "No determinista",
