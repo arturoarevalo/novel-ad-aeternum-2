@@ -53,7 +53,12 @@ def main():
     etq = sys.argv[1]
     d = os.path.join(aa.ROOT, "informes", "w10")
     pos = posiciones()
-    ficheros = sorted(glob.glob(os.path.join(d, "a6-%s-critico-*.md" % etq)))
+    # n=7: los tres críticos de rúbrica MÁS los cuatro lectores beta, que es el conjunto con
+    # que se midió vF. Contar solo los tres críticos y compararlo con vF mezcla dos
+    # instrumentos de potencia muy distinta: a n=3 el criterio pasa por azar entre el 69 % y
+    # el 94 % de las veces, y a n=7 baja al 3,8 %.
+    ficheros = sorted(glob.glob(os.path.join(d, "a6-%s-critico-*.md" % etq))
+                    + glob.glob(os.path.join(d, "a6b-beta-*-%s.md" % etq)))
     deriva = glob.glob(os.path.join(d, "a6-%s-deriva-v0.md" % etq))
     principal, cualquiera, detalle = collections.Counter(), collections.Counter(), []
     for f in ficheros:
