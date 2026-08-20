@@ -339,3 +339,27 @@ Para quien necesite el razonamiento original. Los informes están en `informes/a
 **Firmado, A7 · sobre el manuscrito renumerado de 48 capítulos y 79.772 palabras · 2026-08-19.**
 
 *Nota final para quien tenga que usar esto solo. Las nueve reglas no protegen un tema: protegen una decisión que el libro tomó antes de que yo llegara. Este libro elige no saber. No sabe por qué, no sabe qué decía el archivo, no sabe qué es lo que contesta al otro lado del locutorio y no sabe si sufrió. Cada vez que alguien intente ayudarlo a saber —con la mejor intención, para cerrar, para consolar, para responder a un crítico— estará quitándole lo único que lo hace decente. Si un día hay que elegir entre una de mis reglas y esa frase, quédese con la frase.*
+
+## 8d · Condiciones permanentes de W10 it.3
+
+**A7-it3-C5 · Los dos restaurantes.** `cap-03:313` —«—Para cenar. El indio de Storgata»,
+fichero `total`— y la fuga de `cap-14` por ese mismo restaurante formaban una rima que **nadie
+ha enunciado nunca**. La fuga se suprimió en W10 it.3. **Nadie enuncia jamás el parentesco de
+los dos restaurantes** —ni una línea de retorno, ni un reconocimiento, ni una nota, ni una
+faja—, porque enunciar un eco lo convierte en ecuación (R4) y **esta ecuación en concreto mete
+los cuerpos de las gemelas dentro del itinerario del 26 de noviembre**. Y la fuga suprimida
+**no se replanta en otro sitio «para compensar»**.
+
+*Razón por la que el corte no la orfanó:* `cap-03:313` no es una siembra. Es una cena de las
+siete y media del 26 de noviembre **que no llega a ocurrir**, y su función —ser el futuro
+ordinario que se interrumpe— **se completa dentro de `cap-03`, por elipsis. Su recogida es que
+no hay recogida.**
+
+**A7-it3-C6 · La sospecha que no se confirma.** La supresión se llevó ~~`cap-14:321`~~ —«Su cara no
+mostró reconocimiento al pasar junto a las gemelas.», **suprimida en W10 it.3 y por eso ya no
+localizable en el manuscrito**—, que era **una de las pocas veces que el
+libro monta una sospecha y se niega a confirmarla**, que es la gramática de la que depende R3.
+Su forma canónica registrada es «Y mamá tenía enemigos» (`cap-29:215`). Cortarla no rompió R3:
+**gastó una instancia**. Queda anotado, y con las palabras de A7: era contención de v0
+suprimida para ganar ritmo, «que es la inversión exacta de lo que se me encarga defender».
+**Ninguna resta posterior elimina otra sospecha-no-confirmada sin dictamen nuevo.**

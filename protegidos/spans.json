@@ -322,7 +322,7 @@
    "id": "S12-temblor",
    "archivo": "capitulos/cap-14.md",
    "inicio": "Gunnar dejó la taza donde estaba y escondió la mano debajo de la mesa. Nora tardó un instante en entender que le temblaban los dedos.",
-   "desc": "El temblor de dedos como dato central (tabla 5.1, cap. 12)"
+   "desc": "El temblor de dedos como dato central (tabla 5.1, cap. 12) · [W10 it.3, 2026-08-20 · HALLAZGO DE A7 EN EL GATE, y hay que leerlo antes de tocar este span: la excisión de cap-14:255-321 NO le da más peso relativo a este span, LE QUITA SU UNICO PAGO. «—Le temblaban los dedos. La tarjeta se queda envuelta.» (cap-14:317) estaba dentro del bloque cortado, y era el único lugar del libro donde el temblor se convierte en decisión. Un grep de residuo devolvía coincidencia porque la palabra sigue en el manuscrito; lo que desapareció fue la RECOGIDA. A7: «si ejecutas el corte creyendo que S12-temblor gana peso, ejecutas otra cosa distinta de la que has decidido». Se ejecutó con esto sabido y escrito.]"
   },
   {
    "id": "S12-nidhogg",
