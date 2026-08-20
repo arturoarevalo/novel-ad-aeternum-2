@@ -79,6 +79,16 @@ def main():
                                for n in ns) or "NO LOCALIZADO"
         print("  %-28s %s" % (nom.replace("a6-%s-" % etq, ""), etiquetas))
         if not ns: print("      frase: %s" % fr[:120])
+    # INSTRUMENTO Nº 24, encontrado por A2 al cerrar la fase: EL CENSO CUENTA NOMBRES DE
+    # CAPÍTULO Y LOS LECTORES NOMBRAN CLASES. Un lector aporta entre 0 y 5 nominaciones según
+    # lo específico que decida ser: uno escribió «la segunda mitad de la parte II» y aportó
+    # cero; otro dio cinco ejemplos. Consecuencia exacta y medida: si los dos lectores que
+    # nombraron «EDDA» hubieran escrito «en los capítulos-máquina» sin dar ejemplos, el
+    # criterio del autor PASARÍA. Misma lectura, mismo abandono, veredicto opuesto.
+    #
+    # Corrección de A2, que no rompe la comparabilidad con vF: resolver POR LECTOR y contar
+    # solo la nominación PRINCIPAL. Un lector, un voto. Las secundarias se registran pero no
+    # deciden, porque su número mide la locuacidad del lector y no el libro.
     def tabla(c, titulo):
         print("\n  %s" % titulo)
         fallan = []
@@ -88,11 +98,28 @@ def main():
             if k >= 2: fallan.append(n)
             print("    %-3d %-12s «%-22s» %5.1f %%  ×%d%s" % (n, a, t[:22], p, k, marca))
         return fallan
+    ilegibles = [n for n, ns, fr in detalle if not ns]
+    if ilegibles:
+        print("\n  *** SIN VEREDICTO: no se ha podido leer la respuesta de %d de %d lectores ***"
+              % (len(ilegibles), len(ficheros)))
+        for n in ilegibles: print("      ilegible: %s" % n)
+        print("  Un censo que no ha leído a todos los lectores NO PUEDE decir si el criterio")
+        print("  se cumple: la ausencia de una nominación y la incapacidad de leerla son")
+        print("  indistinguibles para este script, y la segunda siempre inclina hacia CUMPLE.")
+        print("  Cuéntalo a mano y no te fíes de un OK que no ha mirado. (Lección de W10: el")
+        print("  instrumento 21 informaba «OK» sobre un capítulo que no veía.)")
     f1 = tabla(principal, "por nominación PRINCIPAL:")
     f2 = tabla(cualquiera, "contando también las secundarias:")
+    if ilegibles:
+        print("\n  CRITERIO DEL AUTOR: **NO DETERMINADO** (%d lectores ilegibles)." % len(ilegibles))
+        sys.exit(2)
     print("\n  CRITERIO DEL AUTOR — ningún capítulo con dos o más nominaciones:")
-    print("    principales:  %s" % ("INCUMPLE en %s" % f1 if f1 else "CUMPLE"))
-    print("    con secundarias: %s" % ("INCUMPLE en %s" % f2 if f2 else "CUMPLE"))
+    print("    POR LECTOR, solo principales (la cuenta buena): %s"
+          % ("INCUMPLE en %s" % f1 if f1 else "CUMPLE"))
+    print("    con secundarias (informativa, NO decide — mide locuacidad, no el libro): %s"
+          % ("INCUMPLE en %s" % f2 if f2 else "CUMPLE"))
+    print("\n  Potencia: P(pasar por azar) = 0,94 a n=3 · 0,26 a n=5 · 0,038 a n=7 (pool empírico).")
+    print("  Una medición a n=3 NO es interpretable. Solo n=7 tiene potencia.")
     if deriva:
         t = io.open(deriva[0], encoding="utf-8").read()
         fr = frase_de_abandono(t); ns = numeros(fr)
