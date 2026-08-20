@@ -170,3 +170,30 @@ Aquí está el trabajo. Todas son buenas, y por eso las escribo con su cita.
 ---
 
 **A2 · arquitecto · 2026-08-20**
+
+---
+
+## DECISIÓN DEL AUTOR, 2026-08-20 · se queda «Ad aeternum», y su razón desmonta la objeción
+
+> «Me gustaba el título original, porque **es lo que pretendían hacer con Jean**.»
+
+**Eso responde el único cargo serio que tenía la propuesta nº 10.** A2 objetaba que «Ad aeternum»
+promete lo contrario que el último capítulo del libro —«NORNA registra la exclusión **sin
+prometer conservarme**»— y que en R9 eso es una promesa que el libro no paga.
+
+**La objeción se sostenía sobre una lectura equivocada de quién habla en la cubierta.** El
+título no es la promesa del libro al lector: **es la promesa de la empresa sobre Jean.** Es la
+frase de quienes la preservaron —«preservación funcional», 4.096 instancias ejecutables, once
+años de registros— y el libro entero consiste en **no cumplirla**: la muerta no dura para
+siempre, dura mientras rinde, y su último acto es negarse a que le prometan continuidad.
+
+Leído así, **el título no consuela: acusa.** Y es de la misma familia que las mejores frases del
+libro, que son todas administrativas y todas terribles por serlo: «fin de participación»,
+«preservación funcional, no reanimación, no persona», «las necesarias», «No consta responsable
+individual».
+
+**Queda una salvedad de oficio que no es de perímetro y que el autor conoce:** «Ad aeternum» es
+latín genérico y **no se puede certificar que no lo lleve ya otro libro**. Es lo único que
+recomendaría comprobar antes de enviar, y se comprueba en diez minutos con un catálogo.
+
+Las otras nueve propuestas quedan en esta hoja como material, no como pendiente.
