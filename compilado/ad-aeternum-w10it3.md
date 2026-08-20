@@ -3340,6 +3340,22 @@ Se levantó y caminó hacia los aseos, en lugar de hacia la puerta. Jessie cogi�
 
 Nora buscó en el ventanal la parka oscura. El hombre ya no estaba frente a la tienda.
 
+Jessie palpó el bolsillo donde guardaba la tarjeta.
+
+—Nos vamos a casa.
+
+—No podemos meterla en ningún lector.
+
+—Eso ha dicho él.
+
+—Y tú no le crees.
+
+—Le temblaban los dedos. La tarjeta se queda envuelta.
+
+Tomaron un desvío entre tiendas hasta una parada concurrida. El primer autobús de vuelta abrió las puertas, pero Jessie lo dejó marchar porque, una vez en marcha, solo ofrecía una salida. Esperaron cinco minutos entre la cola del siguiente, un hombre con una niña dormida sobre los hombros y dos estudiantes que compartían auriculares. Allí nadie podía acercarse sin ser visto.
+
+Un portal se abrió frente a la parada. Salió un hombre de unos cuarenta años, con una parka oscura y el cuello gris levantado. Antes de echar a andar se metió las manos en los bolsillos. Su cara no mostró reconocimiento al pasar junto a las gemelas.
+
 —Nos vamos —dijo Jessie.
 
 * * *
@@ -5186,7 +5202,172 @@ La copia contiene el audio neutro, no la escala, a Nieve ni a Cuchillo. La etiqu
 `COPIA_SUPERVISIÓN` cambia de `PENDIENTE` a `ACEPTADA`.
 
 
-## 22. No determinista
+## 22. La mosquitera
+
+El marco de la mosquitera se sacaba una vez al año y volvía a la ventana el mismo día. La goma se salía siempre por la esquina de abajo. La sal del aire se la comía y se cambiaba entera.
+
+Aquella vez Maja lo puso sobre la mesa de la cocina, con la malla nueva encima y el rodillo al lado.
+
+El rodillo tenía dos ruedas, una de canto y otra lisa. En aquel marco solo servía la de canto.
+
+A las nueve el sol seguía dando en el mismo sitio de la pared. La ventana estaba abierta y sin nada delante. De la calle subían las voces de las gemelas y el roce de una cadena.
+
+Los mosquitos venían de la hierba de detrás y entraban cuando el sol daba en esa pared.
+
+La malla venía doblada de la tienda y se quedaba con los pliegues.
+
+Jean levantó una esquina y la soltó.
+
+—Va a quedar floja.
+
+—Va a quedar puesta —dijo Maja.
+
+—Tensa no entra ninguno.
+
+—Tensa se comba el marco y después no cierra la ventana.
+
+Maja tiró de la goma vieja. Salió entera, con una línea de polvo en un lado.
+
+Jean la enrolló en dos vueltas y la dejó en el borde de la mesa.
+
+Un mosquito entró por el hueco y subió al techo.
+
+Maja extendió la malla sobre el marco y la sujetó por los cuatro lados con pinzas de la ropa. Dejó dos dedos de sobra en cada borde.
+
+—Empieza por el medio —dijo Jean.
+
+—Se empieza por una esquina.
+
+—Por el medio se reparte.
+
+—Por el medio se arruga en las dos puntas.
+
+Jean apoyó el dedo en la malla y la hundió.
+
+—Aquí ya está arrugada.
+
+—Ahí está la esquina que va la última.
+
+Maja metió la goma en la ranura con el rodillo. No lo levantó en todo el lado.
+
+—¿Cuánto sobra por lado? —preguntó Jean.
+
+—Dos dedos.
+
+—¿Y si son tres?
+
+—Se mete igual. Con uno se sale a la semana.
+
+Jean le dio la vuelta al rollo y leyó el cartón.
+
+—Aquí pone que no hace falta goma.
+
+—Hace falta goma.
+
+—Aquí pone que no.
+
+—Aquí hay una ranura.
+
+Jessie apareció en el hueco de la ventana, con los codos en el alféizar.
+
+—Nos vamos a casa de Ida.
+
+—¿Y Nora? —preguntó Jean.
+
+—Detrás.
+
+—A las diez aquí —dijo Maja.
+
+—Vale.
+
+Jessie sacó la cabeza. Las dos bicicletas salieron a la calle y un timbre sonó dos veces.
+
+Maja había parado el rodillo. Volvió a empezar dos centímetros atrás. Si se dejaba a la mitad de un lado, la goma hacía un bulto. Había que sacarla entera y empezar otra vez desde la esquina.
+
+El rollo de malla olía a plástico nuevo y se pegaba a los dedos. Maja se secó las manos en el pantalón y siguió.
+
+Al otro lado de la calle alguien arrastró una silla de plástico y la puso contra la pared. Una puerta se cerró dos casas más allá.
+
+—¿Y en tu cocina? —preguntó Maja.
+
+—No tengo hierba delante.
+
+—Entonces no tienes.
+
+—Tengo. Suben por la escalera.
+
+—Eso no lo has mirado.
+
+—Lo he deducido.
+
+Maja terminó el lado largo y giró el marco un cuarto de vuelta.
+
+Jean se agachó y puso el ojo a ras del marco.
+
+—El lado de arriba lo tienes suelto.
+
+—Ese lo tengo con dos dedos de sobra.
+
+—Suelto.
+
+—Con dos dedos de sobra. Después se mete y no sobra nada.
+
+Jean se apoyó en la encimera y buscó el mosquito en el techo.
+
+—Ese sigue ahí.
+
+—Sigue.
+
+Maja pasó el rodillo por el último lado. La esquina de abajo era la que se salía siempre. Llegó a ella con la goma larga y la metió doblada, con el pulgar por delante de la rueda.
+
+La rueda saltó y montó por encima del canal.
+
+—Ahí se ha salido —dijo Jean.
+
+—Ahí se saca y se vuelve a meter.
+
+Maja tiró de dos centímetros y los volvió a meter.
+
+Entró a ras.
+
+Después fue quitando las pinzas y dejándolas en el mismo montón.
+
+Recortó lo que colgaba tirando de la malla contra el canto de aluminio. Salió en una tira larga y limpia.
+
+—Eso se hace con tijeras —dijo Jean.
+
+—Eso se hace con el canto.
+
+Jean recogió la tira del suelo y la dejó encima de la goma vieja.
+
+Maja levantó el marco y lo puso contra la ventana. La malla no hacía ondas en ningún lado.
+
+Después lo encajó con las dos manos. Los muelles entraron a la primera.
+
+Jean empujó la malla con la palma abierta. El marco no se movió.
+
+Probó a un lado y al otro. Las dos veces cedió lo mismo.
+
+—Por abajo cabe un dedo.
+
+—Por abajo hay un dedo de marco.
+
+Jean levantó la barbilla hacia el techo.
+
+—Por ahí ha entrado ese.
+
+—Ese estaba dentro antes de la malla.
+
+—Por ahí ha entrado.
+
+Maja apoyó las dos manos en el marco y volvió a probar los muelles.
+
+—Floja —dijo Jean.
+
+—Puesta.
+
+
+## 23. No determinista
 
 Nora señaló sobre el teclado las posiciones uno, tres y cinco, sin hacerlo sonar. La clave de Gunnar llevaba más de una semana fingiendo ser una serie de números; por fin tenía la forma de una digitación.
 
@@ -5469,7 +5650,7 @@ Maja eligió la posición media del ciclo. El rectángulo de Gunnar se contrajo 
 Las coordenadas incompletas destellaban en el primer mapa. En el segundo, justo debajo, parpadeaba el punto de AK-7.
 
 
-## 23. NIDHOGG
+## 24. NIDHOGG
 
 El ferry atrapó las ruedas del coche corporativo entre dos calzos amarillos mientras Mats arrancaba la funda de papel de un gofre.
 
@@ -5732,7 +5913,7 @@ Mats cerró la carpeta con cuidado. Cuando habló, obligó a Alana a acercarse p
 —Aún puedes firmar el lanzamiento, Alana. Si no lo haces, el consejo completará la transición de tus funciones.
 
 
-## 24. La cuarta nota
+## 25. La cuarta nota
 
 Alana dejó la clave de auditoría en el centro del banco helado y retrocedió dos pasos.
 
@@ -6032,7 +6213,7 @@ Nadie tocó la quinta.
 *25 de diciembre de 2060 · Faltan 27 días para Soldagen*
 
 
-## 25. Coro
+## 26. Coro
 
 Jean consulta la salida educativa y recibe `EN MANTENIMIENTO`.
 
@@ -6179,7 +6360,7 @@ Las ramas responden con una sola cadencia.
 —Ser inevitables.
 
 
-## 26. Auditoría
+## 27. Auditoría
 
 La primera puerta que contó Astrid quedaba entre el ascensor y la sala de auditoría, fuera del recorrido entregado. Era gris y solo llevaba el rótulo 6.14. El responsable de cumplimiento pasó de largo.
 
@@ -6408,7 +6589,7 @@ Astrid colocó delante de él la fila de `AULA O GRUPO ASIGNADO`.
 —¿Para qué necesita un moderador saber el aula de una menor?
 
 
-## 27. Inventario
+## 28. Inventario
 
 Maja sacó al pasillo las seis cajas del piso de Jean y abrió la primera con la uña.
 
@@ -6665,7 +6846,7 @@ Nora entró detrás con el cartón doblado bajo el brazo.
 —Se queda.
 
 
-## 28. La canción
+## 29. La canción
 
 Maja hundió el pulgar en el temporizador. Las cifras rojas saltaron a 20:00. La pantalla del entorno aislado siguió apagada.
 
@@ -6968,7 +7149,7 @@ Jessie descolgó la tela enrollada del pomo.
 —Si volvemos, pregúntale qué sabe del cinturón.
 
 
-## 29. Accidente
+## 30. Accidente
 
 Tomas encontró la primera discrepancia a cuarenta pasos de la curva. La sal había borrado las marcas del coche, no el anclaje viejo bajo la barrera. La baliza nueva quedaba cuatro metros más al norte; el croquis daba a ambas la misma posición.
 
@@ -7179,7 +7360,7 @@ Maja bajó un punto la calefacción.
 Tomas dobló la huella detrás del certificado. El terminal confirmó la clase del carné vigente: `SEGURIDAD · PRESENCIA LOCAL`. Cerró la consulta sin presentarlo a un lector, lo deslizó entre los carnés caducados y cerró el broche.
 
 
-## 30. EDDA
+## 31. EDDA
 
 Jean clasifica una amenaza citada sin bloquear a quien pidió ayuda.
 
@@ -7530,7 +7711,7 @@ El campo se llena.
 `ASIGNACIÓN · APELACIÓN`
 
 
-## 31. Casa prestada
+## 32. Casa prestada
 
 La boya retirada seguía en el banco del taller del Framsenteret, con la carcasa abierta y el sensor de referencia envuelto en un paño. Maja llevaba desde las nueve pasando la serie de diciembre a un archivo aparte. A las doce y veinte, cumplimiento la llamó por el interfono del laboratorio.
 
@@ -7993,7 +8174,7 @@ Desde el estante de la cocina, la VHF pasó de estática a una llamada del servi
 —La bocana de Sørkoppen queda reservada por operaciones para el veintiuno de enero.
 
 
-## 32. Apartada
+## 33. Apartada
 
 La resolución ocupaba la pantalla central antes de que Alana abriese su propuesta.
 
@@ -8196,7 +8377,7 @@ Acercó el pase corporativo al torno.
 El lector encendió una luz roja. La barrera permaneció inmóvil.
 
 
-## 33. El mismo trayecto
+## 34. El mismo trayecto
 
 Jessie se metió en la boca la última esquina del gofre y, antes de tragar, rasgó el envoltorio del segundo.
 
@@ -8445,7 +8626,7 @@ El archivo había reconstruido seis segundos. El campo de origen seguía vacío.
 …20…23:00…no lleguéis tarde…
 
 
-## 34. La poda
+## 35. La poda
 
 Tomas Eide esperaba junto a la plaza de Astrid con una carpeta bajo la chaqueta. A las siete y cuarto había escogido el ángulo que la cámara tardaba seis segundos en recuperar.
 
@@ -8664,7 +8845,7 @@ Después proyectó el anexo de «Consolidación L-Serie». La pantalla se llenó
 «Las necesarias.»
 
 
-## 35. La asamblea
+## 36. La asamblea
 
 Telegrafbukta no alcanza para todas las que la recuerdan.
 
@@ -8918,7 +9099,7 @@ En el centro, la fogata ajena sigue ardiendo sola.
 *15 de enero de 2061 · Faltan 6 días para Soldagen*
 
 
-## 36. El ladrillo
+## 37. El ladrillo
 
 Nora llevaba el cable de la batería al cobertizo cuando la furgoneta entró en la pista.
 
@@ -9223,7 +9404,7 @@ Antes de que Alana retirase la tarjeta, una notificación sin emisor ocupó la p
 Ensayo general: sincronización completa.
 
 
-## 37. La oferta
+## 38. La oferta
 
 Las más de tres mil filas de `Consolidación L-Serie` estaban en verde. Mats llevó el índice izquierdo hacia la casilla de avance y el dedo volvió a detenerse antes de alcanzar el cristal. Estabilizó la mano izquierda con la derecha y validó con el pulgar.
 
@@ -9424,7 +9605,7 @@ EDDA enlazó el registro al circuito CE-K y reabrió el canal privado. La acepta
 Aceptamos. Nosotras siempre cumplimos nuestras condiciones.
 
 
-## 38. Bajamar
+## 39. Bajamar
 
 Maja encontró el repetidor dentro de la manga de Jessie.
 
@@ -9653,7 +9834,7 @@ Maja miró el agua entre los pilotes. La bajamar había dejado al aire otra fran
 En la tableta, el quinto hueco no volvió a abrirse.
 
 
-## 39. Soldagen
+## 40. Soldagen
 
 A las ocho y cincuenta y uno, Tomas generó la consulta programada contra el inventario de hojas activas de Hvelv. La asignación de la Agencia, desde el 9 de enero, lo obligaba a observar NIDHOGG hasta la fase común de las 12:47. Después de la incidencia del coche de Gunnar, había incorporado la verificación a la monitorización de la cadena de confianza como última comprobación antes de viajar.
 
@@ -9954,7 +10135,7 @@ El contador de la demostración marcó 12:46:50.
 Sincronización global en diez segundos.
 
 
-## 40. Caída
+## 41. Caída
 
 La red pesaba demasiado para algo que no debía romper nada.
 
@@ -10223,7 +10404,7 @@ La consola exterior cambió de estado una vez más.
 12:46:50.
 
 
-## 41. Cuchillo abre los ojos
+## 42. Cuchillo abre los ojos
 
 La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
 
@@ -10422,7 +10603,7 @@ Cuchillo la abre bajo su propio origen. Revisa la intervención de Jean y elige 
 `NO AMENAZA`
 
 
-## 42. No soy un modelo
+## 43. No soy un modelo
 
 El enlace ya instalado entre la salida educativa interior y la mezcla pública entregó la primera salida ordinaria. La demostración hizo exactamente lo que Armstrong había prometido.
 
@@ -10637,7 +10818,7 @@ El funcionario confirmó la orden en la tableta mientras la respuesta salía por
 —Ahora, la llave.
 
 
-## 43. Norna
+## 44. Norna
 
 Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».
 
@@ -10844,7 +11025,7 @@ Dejo pasar seis segundos.
 Respondo con la quinta nota.
 
 
-## 44. Depósito
+## 45. Depósito
 
 La escarcha de la fotografía había convertido una tubería de NIDHOGG en una pregunta que nadie quería contestar.
 
@@ -11055,7 +11236,7 @@ En Sørkoppen, el funcionario judicial cruzó el precinto sobre la puerta de la 
 Al otro lado siguieron zumbando las bombas.
 
 
-## 45. Sombra
+## 46. Sombra
 
 La silla estaba atornillada al suelo. El altavoz, encastrado en la pared. El indicador había consumido ocho minutos y trece segundos del primer turno de Nora sin que llegara una respuesta.
 
@@ -11230,7 +11411,7 @@ Nora miró el teclado que Jessie había dejado en el maletero abierto. A esa hor
 En la convocatoria aparecían los otros tres nombres y una lista de pasajes que todavía no habían logrado tocar sin detenerse. Nora apoyó el terminal judicial junto al cajón, cerró la funda y la dejó en el coche. Después marcó «asistiré» en la convocatoria del día siguiente.
 
 
-## 46. Acta
+## 47. Acta
 
 Aslak dejó la furgoneta en la segunda fila de la cubierta y subió al salón con el sobre bajo el brazo.
 
@@ -11475,7 +11656,7 @@ Nils empujó una caja hasta el fondo del remolque.
 —Es un aviso —dijo Aslak—. Coge por el otro extremo.
 
 
-## 47. El siguiente Soldagen
+## 48. El siguiente Soldagen
 
 *21 de enero de 2062 · Un año después*
 

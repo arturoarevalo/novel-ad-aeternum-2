@@ -69,8 +69,19 @@ def main():
                 dpar = "%+.2f" % dif
             else:
                 dif = med[e] - m0
-            if dif >= RUIDO:  marca = "  SUBE"; subidas.append(e)
-            elif dif <= -RUIDO: marca = "  BAJA"; bajadas.append(e)
+            # CUARTO DEFECTO, encontrado en it3 y es MÍO: emparejar cancela la deriva común
+            # pero DUPLICA el ruido independiente. Con n=1 en el control, una oscilación de
+            # ±0,5 en v0 —texto que nadie ha tocado— mete ±0,5 en la diferencia emparejada,
+            # encima del ruido del candidato. Medido: la estructura de v0, mismo instrumento
+            # y texto idéntico, dio 8 · 8 · 8,5 en tres campañas.
+            # Por eso el control solo puede VETAR un movimiento, nunca fabricarlo: se exige
+            # que la diferencia CRUDA también alcance el umbral, y se avisa cuando el
+            # movimiento es de medio punto, que es indistinguible de la varianza demostrada.
+            crudo = med[e] - float(m0)
+            if dif >= RUIDO and crudo >= RUIDO:   marca = "  SUBE"; subidas.append(e)
+            elif dif <= -RUIDO and crudo <= -RUIDO: marca = "  BAJA"; bajadas.append(e)
+            if marca and abs(crudo) <= 0.5:
+                marca += " (±0,5: dentro de la varianza del propio instrumento sobre texto idéntico)"
         print("%-12s %7.1f %9s %9s %8s%s" % (e, med[e], m0 if m0 is not None else "-", techo, dpar, marca))
     if not pareado:
         print("\n  AVISO: sin control de deriva emparejado — la comparación NO cancela la "
