@@ -706,7 +706,22 @@
       "archivo": "capitulos/cap-32.md",
       "hash": "839b097f0f4266ba3c1b9a68bd4954b122518498e38b1aa77da4f6792110a0da",
       "longitud": 831
+    },
+    "S-w10-hueco-34": {
+      "archivo": "capitulos/cap-34.md",
+      "hash": "ca7d8c9b63ac3fe3bb98aae69d0783e60cf587391a7456eb986eb06690862c45",
+      "longitud": 1443
+    },
+    "S-w10-tarde-30": {
+      "archivo": "capitulos/cap-30.md",
+      "hash": "8d46910c0c2d2b08786edd6753bba7bc8535607c47f3be4a4721aaa70e044cf8",
+      "longitud": 2629
+    },
+    "S-w10-precio-37": {
+      "archivo": "capitulos/cap-37.md",
+      "hash": "9ed68eae7d29cae881bc3128443b33e745e8fdb27c2208827b14be7de62255a8",
+      "longitud": 1609
     }
   },
-  "generado": "2026-08-20T00:29:05"
+  "generado": "2026-08-20T06:03:48"
 }

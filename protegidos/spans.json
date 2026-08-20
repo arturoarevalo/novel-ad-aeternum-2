@@ -892,6 +892,27 @@
    "inicio": "Nora subió con el cuaderno pautado bajo el brazo mientras Jessie se encerraba en el baño.",
    "fin": "Al cabo de pocos minutos, la muchacha se durmió por primera vez en una semana sin rondar por las habitaciones.",
    "desc": "F-2 de A7 (OT-W10-01). «El modelo del libro para el punto 7 y para el 6 a la vez», y hasta hoy sin protección alguna. El llanto ocurre detrás de una puerta y nadie pregunta. F-6, permanente: nada conecta jamás esta escena con los papeles del día. · C-1 de A7 en el merge: el `fin` llega hasta el sueño, que es la frase que lo apunta A LA SEMANA y no al día, y es el único desactivador de causa próxima que tiene la escena."
+  },
+  {
+   "id": "S-w10-hueco-34",
+   "archivo": "capitulos/cap-34.md",
+   "inicio": "Por el acceso no entró ni salió nada durante un tramo largo.",
+   "fin": "—Diecinueve cincuenta y ocho —dijo Aslak, con la muñeca vuelta hacia los focos.",
+   "desc": "A7, gate de merge de OT-W10-02. TODO I-2 DEPENDE DE DOS FRASES QUE PARECEN PRESCINDIBLES y este span las une. La primera abre el hueco sin marcador —el lapso se lee en el tramo sin tráfico, no en el acto, así que no hay lectura causal disponible en ninguna dirección (A7-02-04 + A7-02-12)—. La segunda, y sobre todo SU ATRIBUCIÓN, es el UNICO SITIO DEL LIBRO DONDE I-2 EXISTE: la hora la da Aslak porque el reloj de Nora se ha parado, y eso no se enuncia en ninguna parte. Quítese «dijo Aslak, con la muñeca vuelta hacia los focos» por redundante y la intervención entera desaparece SIN QUE NADIE SE DE CUENTA."
+  },
+  {
+   "id": "S-w10-tarde-30",
+   "archivo": "capitulos/cap-30.md",
+   "inicio": "Habían empezado después de comer.",
+   "fin": "Volvieron a cambiarse de sitio. Nora buscó otra vez el sitio de la mano izquierda. Jessie no soltó el pedal.",
+   "desc": "A7, gate de merge de OT-W10-02. La tarde SIN FUNCIÓN, muda por construcción: ni una réplica, que es como cumple C-1.9 sin excepción. M2 está suspendido para ella (ordenes/SUSPENSION-M2.md) y ningún objeto suyo puede volver como contraseña, prueba, motivo ni señal; como textura sí. Condiciones permanentes: las dos marcas del talón no vuelven nunca; el metrónomo no entra jamás en esta página, que es hoy el sitio más atractivo del libro para ponerlo y no existía antes de esta orden; P-6, la postura del suelo del pasillo no se repite; y el recuerdo NO se reanuda después de cap-30:287-315."
+  },
+  {
+   "id": "S-w10-precio-37",
+   "archivo": "capitulos/cap-37.md",
+   "inicio": "Nora llevaba el cable de la batería al cobertizo cuando la furgoneta entró en la pista.",
+   "fin": "—Antes venía otro —dijo Aslak.",
+   "desc": "A7, gate de merge de OT-W10-02. El precio, y llega como PERSONA y no como documento: cero documentos en toda la escena, verificado. El hombre viene a TRABAJAR — si diera miedo, el acto quedaría justificado hacia atrás. P-5: «—Antes venía otro» es lo único que hace legible la pérdida concreta y NUNCA SE AMPLIA. P-7: el hombre aparece una vez y NO VUELVE; no gana nombre, ni desenlace, ni mención posterior; que no lo cobre nadie. Y no hay una sola línea de Jessie en toda la escena, que no lo pedía ninguna condición: es de A3b."
   }
  ]
 }

@@ -302,7 +302,7 @@ Después Jessie hundió el pedal y lo dejó hundido, con las dos manos en las ro
 
 Las dos se rieron. Tardaron en parar.
 
-Nora empezó otra vez desde el compás de antes.
+Nora volvió a poner las manos donde las tenía.
 
 Jessie se cansó del pedal y probó las teclas del extremo derecho, que casi no suenan. Las apretó una a una hasta la última.
 
@@ -316,7 +316,7 @@ Más tarde, Jean se apoyó en el marco de la puerta. Estuvo allí lo que duró u
 
 El talón de Jessie dejó dos marcas en la madera, delante del pedal. Nora las pasó con la manga y quedaron igual.
 
-Volvieron a cambiarse de sitio. Nora empezó desde el mismo compás. Jessie no soltó el pedal.
+Volvieron a cambiarse de sitio. Nora buscó otra vez el sitio de la mano izquierda. Jessie no soltó el pedal.
 
 El recuerdo no cuesta nada: ninguna tarea lo recorta y ninguna salida lo toma.
 

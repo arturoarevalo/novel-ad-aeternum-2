@@ -22,7 +22,7 @@ Maja se puso de pie antes de que llegara.
 
 —Contra la pared —dijo Aslak.
 
-Apartó con el pie un rollo de manguera para dejarle paso.
+Aslak recogió la manguera enrollada y la colgó dentro del cobertizo.
 
 El hombre dejó la bombona contra la pared y volvió a la furgoneta. A la vuelta, con la segunda, se paró a dos pasos del portón.
 
