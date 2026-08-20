@@ -51,3 +51,36 @@ la queja es de tener dos, no de ninguna en particular. El sesgo no decide.
 un asunto cerrado: es una **decisión editorial abierta**, con su medida al lado, que
 corresponde a quien escribió el libro y no a una fase autónoma. Si el autor decide que sobra
 una, la que sale es `cap-w1` «La mosquitera», por la aritmética de A2 y no por deferencia.
+
+
+---
+
+## Resolución definitiva (2026-08-20, con decisión de autor detrás)
+
+**Se queda como está.** A7 lo dictamina y añade lo que faltaba, que es documental y decide:
+
+**Las lecturas que piden cortarla son de W10 it.3 e it.4. Las que dicen que no se toca bajo
+ningún concepto son de W11. Mismo día, mismo arnés, mismo modelo, y cuatro palabras de
+diferencia entre los dos manuscritos.** Nueve de nueve lecturas de W11 la defienden o piden más
+de lo mismo; **cero piden cortarla**. Y el instrumento **ni siquiera coincide en cuál sobra**:
+una de las lecturas pedía cortar **«El salero»**.
+
+Es la condición `C5` del propio A7 sin cambiarle una letra: *un instrumento que emite las dos
+instrucciones opuestas sobre el mismo pasaje está informando sobre sí mismo.*
+
+**Y la tercera salida que propuse yo —cambiar el cierre para romper la rima— queda VETADA, y la
+aritmética desmonta mi premisa:** la figura **no vive en el cierre**. Tiene **16 instancias en
+`cap-17` y 9 en `cap-w1`**; cambiar el cierre retiraría **1 de 25**, y **ninguna de las 16 del
+capítulo que la medición señala como el nº 1** — que es el del autor.
+
+Más la razón de voz, que es la que manda: las 175 líneas son diálogo e interioridad
+procedimental de Maja, y **el narrador no dice una palabra sobre ese matrimonio en ninguna**.
+Pasar la última palabra a narración pondría al libro a hablar **en la última línea de su única
+escena de matrimonio, justo donde el lector busca una causa**.
+
+> **«Cuando el instrumento se contradice, el libro no cambia.»**
+
+*(Y dos correcciones a mi encargo, que A7 llama el octavo y el noveno puntero podrido en cinco
+días: `cap-17` **no** cierra en dos palabras —cierra en «Maja esperó en la puerta hasta que salió
+del camino.»— y «la nota anti-elegíaca» A7 la dijo de otro capítulo, no de éste. **Los dos
+errores eran míos y los dos habrían servido de argumento a favor de tocar el texto.**)*

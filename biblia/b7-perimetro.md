@@ -596,3 +596,165 @@ que `A7-it4-C7` prohíbe **por frase**.
 manejadas, **«No toda» sí necesita su lectura antes de ir en cubierta**, porque contestaría
 **desde la portada** la pregunta que R7·4 deja abierta para siempre, y R9 dice que los
 paratextos son la promesa.
+
+## 8j · Kongsbakken y «La mosquitera» · condiciones permanentes de W11 (dos decisiones de autor)
+
+*Emitidas el 2026-08-20 sobre dos peticiones que el autor decidió que se resolvieran. Van aquí y
+no en `informes/w11/a7-kongsbakken.md` por la doctrina de siempre: una condición que vive en un
+informe y no en el vinculante es una condición que nadie aplicará. Es la cuarta vez en esta fase.*
+
+**Y una precisión de estatus que importa para quien lea esto dentro de un año:** `C10`–`C13` no
+son un techo de oficio. **El autor pidió que se resolviera lo de Kongsbakken y la respuesta fue
+que no se puede.** Un techo con una decisión de autor detrás no se vuelve a abrir preguntándole
+otra vez.
+
+### Primero, la distinción que casi nadie hace y que hay que hacer
+
+**`Koppangen` y `Kongsbakken` son dos sitios distintos y no comparten una sola línea del libro.**
+
+- **Koppangen** es donde la encontraron: «—Han encontrado a mamá en Koppangen. La han llevado a UNN.» (`cap-06:49`).
+- **Kongsbakken** es el conservatorio: «En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el teclado.» (`cap-46:167`).
+
+Quien confunda los dos protegerá el equivocado. **P-41 (§8c) protege el conservatorio, y ésa es
+la valla pequeña.** La valla que importa es `C10`.
+
+### A7-W11-C10 · La última discusión de Nora con Jean no se escribe. Régimen de R2
+
+**Es el segundo documento sellado de este libro.** Tres loci la nombran y ninguno la abre; dos
+están en fichero `total` y el tercero bajo span `S14-cita`:
+
+| dónde | qué dice | papel |
+|---|---|---|
+| `cap-10:33` | «Nora recordaba la última frase que le había dicho.» | el contenido, nombrado y no dado |
+| `cap-10:73` | «Nora había discutido con Jean por Kongsbakken.» | el objeto, sin glosa |
+| `cap-16:149` | «Desde la cita de apoyo, Nora llevaba cuatro noches sin reproducir la última discusión con Jean. El archivo seguía entero.» | **la medida de R5** |
+
+**No se escribe, no se dramatiza, no se cita, no se parafrasea, no se resume, no se imagina y no
+se redacta «para comparar»** — en el libro, en un borrador, en una nota de trabajo, en un
+resumen interno o en una respuesta a un periodista. Ni doce líneas, ni una página, ni en flashback,
+ni desde otro punto de vista, ni contada después por quien fuera.
+
+**Las tres razones, porque una regla sin su razón hace daño:**
+
+1. **`cap-16:149` mide a Nora por las noches en que NO la reproduce.** Es la única métrica de
+   recuperación de todo el libro y **es una ausencia contada**. Si el libro escribe la escena, el
+   narrador hace lo que el personaje se mide por no hacer, y la unidad muere con ella. *(R5)*
+2. **`cap-16:149` pone «la última discusión con Jean» y «El archivo» bajo el mismo verbo de no
+   abrirse, en dos oraciones seguidas.** El libro las trata como una sola clase; este documento,
+   hasta hoy, solo registraba una. *(R2)*
+3. **El resultado no se puede escribir en ninguna dirección.** Si Nora entra en el conservatorio,
+   el libro monta un arco de redención con un suicidio de bisagra; si no entra, monta un castigo, y
+   R4 nombra «castigo» expresamente. Y una voz con autoridad ya declaró esa culpa inadjudicable:
+   «En las casas la culpa se reparte sola. Que os toque una parte no prueba nada.» (`cap-11:263`).
+   **Un resultado es una prueba, en cualquier dirección.** *(R3 · R4 · C1)*
+
+**Nueve lecturas frías de seis oleadas han pedido esta escena, dos de ellas fechándola y una
+pidiéndola junto con las dieciséis llamadas del 26 de noviembre.** Queda denegada en el gate y no
+discutida en el mérito, igual que la petición de resolver «Despedida». **La objeción buena —que su
+ausencia protege al autor más que a los personajes— tiene contestación:** el libro no rodea el
+hueco, lo nombra tres veces con la culpa dentro y se niega tres veces, y en el mismo capítulo pone
+«nada de lo que dijisteis, hicisteis o dejasteis de hacer causó la muerte de Jean» (`cap-10:71`) y
+a continuación la línea que impide que esa frase aterrice.
+
+### A7-W11-C11 · Ninguno de los tres loci se borra
+
+**Un lector frío pidió suprimir `cap-10:73` por prometer, según él, una escena inexistente.** No se
+suprime, ni ése ni los otros dos. Es la aritmética de `8h.2`: **la elipsis se rompe sumando y una
+ambigüedad se rompe restando.** Si desaparece la línea, la exoneración de Maja se queda sin
+contrapeso narrativo y **el libro pasa a cerrar en positivo una culpa que decidió no adjudicar**.
+
+### A7-W11-C12 · El resultado de la repesca no se escribe. Tampoco por inferencia
+
+Ni en positivo, ni en negativo, ni por vía administrativa, ni diferido, ni deducible de un dato
+lateral —una matrícula, un carné, un horario de alumna, un uniforme, una profesora que pase a ser
+del centro—. **El libro llega a enero de 2062 sin decirlo y ése es el techo.**
+
+Lo último que se sabe de su música es esto (`cap-48:95`, fichero `total`):
+
+> «Desde el verano, Nora aceptaba ensayos sin mirar antes el horario del canal.»
+
+Y **lo que esa frase mide no es una plaza: es su relación con el canal**. No gana un complemento
+que la sitúe dentro ni fuera del centro.
+
+### A7-W11-C13 · Kongsbakken no gana escena. Ni la llegada, ni la audición, ni el pasillo
+
+**P-41 sigue vigente y éste es su alcance completo, por escrito.** El sitio se queda siendo un
+sitio con mostrador, horario e impreso.
+
+**Y la parte que P-41 no decía, y hacía falta:** existe una forma de la audición que no resuelve
+nada —Nora entra, y el libro no dice si entró— y **es admisible porque ya está escrita, en diez
+palabras** (`cap-46:167`), rematadas por un desvío de la atención (`cap-46:173`):
+
+> «La mujer de recepción llamó a la siguiente aspirante mientras las tres salían.»
+
+**Diez palabras es su tamaño máximo, no un tamaño provisional.**
+
+**La razón por la que no puede crecer** es la de `C5` y no la del contenido: «el problema no está
+en las frases, está en el tiempo que el libro pasaría ahí». Una escena que monta una ejecución
+musical ante un tribunal y después retiene el veredicto **no se lee como reticencia: se lee como
+suspense**, y el suspense sobre un veredicto es el libro prometiendo el veredicto. Una ambigüedad
+que el libro ha prometido resolver ya no es una ambigüedad: es un cabo suelto.
+
+**Y hay una prueba interna de que el libro ya lo sabía.** La pieza de la repesca **ya suena una
+vez, entera** —«—Es la pieza de la repesca.» (`cap-46:55`)— y suena delante de la ejecución de su
+madre, y su veredicto es un hueco: «Debajo quedó el hueco reservado para una salida.» (`cap-46:69`).
+**Ésa es la audición de este libro.** Escribir la otra no añadiría una escena: gastaría ésta.
+
+### A7-W11-C14 · El cierre de «La mosquitera» no se cambia, y su última palabra no pasa a narración
+
+Se propuso cambiar «—Puesta.» (`cap-w1:175`) para romper la rima que los lectores nombran. **No se
+cambia**, por dos razones mías y una aritmética.
+
+**`M6`.** El cierre es el estado terminal del bucle abierto en «—Va a quedar floja.» (`cap-w1:29`):
+Jean dice que está floja, Maja dice que está puesta, y **la malla aguanta**. Un cierre alternativo
+solo tiene tres formas: otro intercambio breve —misma figura, cero ganancia—; una línea de
+narración —ver abajo—; o un cierre en el que algo cede, que es exactamente lo que `M6` prohíbe.
+
+**Y la dura, que es de voz.** Las 175 líneas del capítulo son diálogo e interioridad procedimental
+de Maja: **el narrador no dice ni una palabra sobre este matrimonio en ninguna de ellas.** Mover la
+última palabra a narración pone al libro a hablar en la última línea de la única escena de
+matrimonio que tiene, en el sitio exacto donde el lector está buscando una causa. *(Carta 3 · R4)*
+**Hoy la última palabra la tiene Maja y es una palabra de trabajo. Eso es lo que impide que el
+capítulo sea una elegía**, y es más fuerte que cualquier remate que se pueda escribir en su lugar.
+
+**La aritmética, para que nadie repita el cálculo mal.** La figura compartida —réplica breve que
+repite un término de la línea anterior— **no vive en el cierre**: son 16 instancias en `cap-17` y 11
+en `cap-w1`. Cambiar el cierre retira 1 de 27 y 0 de las 16 del capítulo que la medición señala como
+nº 1. **Y `cap-17` no cierra en dos palabras**: cierra en narración (`cap-17:223`), «Maja esperó en la puerta hasta que salió del camino.». La rima que los lectores nombran es una gramática repartida por dos
+capítulos enteros, no un cierre repetido.
+
+### A7-W11-C15 · Si «La mosquitera» se suprime o se mueve
+
+**Suprimirla no es veto** —v0 no la tenía y v0 cumplía la Carta—, pero **se hace anotando dos
+costes, no como ahorro**:
+
+1. **Devuelve el matrimonio a existir solo como formulario**, y ésa es la configuración que este
+   documento nombra como peligrosa: un matrimonio que solo existe como formulario es un matrimonio
+   que se lee como causa. Sin ella queda solo el inventario de la mudanza (`cap-27:71`).
+2. **`cap-27:73` depende de ella.** «No lo había.» funciona por `M2` como **desviación** de la norma
+   de Maja, y esa norma —Maja exacta sosteniendo una tarea contra la contradicción **de Jean**— se
+   establece en este capítulo y en ningún otro; en `cap-17` la exactitud de Maja se juega contra
+   Alana, no contra Jean. Si el capítulo sale, la mentira deja de ser una desviación para ser una
+   cosa que Maja hizo una vez. *(La nota que decía que «no vuelve nada» de este capítulo es cierta e
+   insuficiente: no vuelve nada DE él, pero algo DEPENDE de él.)*
+
+**Moverla exige reverificar su sede entera**, porque la sede fue un gate y no viaja gratis:
+`S1`–`S6` completas —en especial `S5`, la coartada de estación, que es la que sostiene que la escena
+no se pueda fechar y la que menos gente comprobaría—; `M4`, cuya razón era **el vecino derecho** y
+que hay que volver a preguntar en la sede nueva; y `A7-it3-M3`, que prohíbe que quede detrás de un
+capítulo POV Jean que cierre en imagen doméstica. **Y si la sede nueva la acerca a `cap-27`, se
+vuelve a mirar `M2`:** la proximidad no enuncia, pero compone, y este proyecto tiene registrado tres
+veces que la composición hace lo que la frase no puede.
+
+*Advertencia de aritmética, porque la propuesta de mover viene de querer separarlas:* **mover no es
+separar.** Quien lo pide las quiere a las dos más pronto; si las dos se adelantan pueden acabar más
+cerca, no más lejos.
+
+---
+
+*Nota de método del mismo día. El encargo que motivó estas seis condiciones contenía dos punteros
+falsos —afirmaba que `cap-17` cierra en dos palabras, y atribuía a este capítulo la expresión «nota
+anti-elegíaca», que se dijo de otro—. Ninguno cambiaba el veredicto, y los dos habrían servido de
+argumento a favor de tocar el texto. **Son el octavo y el noveno de esta clase en cinco días, y
+ninguno lo encontró una herramienta.** La regla de §2 sigue siendo la que manda: los números
+localizan; solo la cita literal instruye.*
