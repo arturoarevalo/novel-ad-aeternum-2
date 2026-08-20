@@ -363,3 +363,31 @@ Su forma canónica registrada es «Y mamá tenía enemigos» (`cap-29:215`). Cor
 **gastó una instancia**. Queda anotado, y con las palabras de A7: era contención de v0
 suprimida para ganar ritmo, «que es la inversión exacta de lo que se me encarga defender».
 **Ninguna resta posterior elimina otra sospecha-no-confirmada sin dictamen nuevo.**
+
+**A7-it3-C9 · Los cuatro nombres: cinco loci, y este documento recogía uno.**
+
+`S-n5-coda` protege «cuatro nombres que **no son una despedida**», y W5-A7 llamó a ese sitio
+«el lugar exacto donde este libro se puede romper». La figura tiene **cinco** apariciones, y
+hasta hoy `b7-perimetro.md` solo registraba la derivada de `cap-30`. Faltaban **el origen** y
+**la más cargada**. Mismo modo de fallo que P-41: una condición que existe en un informe y no
+en el vinculante es una condición que nadie aplicará.
+
+| dónde | qué dice | papel |
+|---|---|---|
+| `cap-07:33` | «Nora. Jessie. Maja. Alana.» | **el origen**, sin glosa |
+| `cap-08:55` | «Al final de cada serie repite cuatro nombres en el mismo orden. Es lo único del turno que no clasifica nada.» | la regla, enunciada una vez |
+| `cap-08:281` | «—Nora. Jessie. Maja. Alana.» | la coda protegida por `S-n5-coda` |
+| `cap-30:247` | «Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas.» | el único registrado hasta hoy |
+| `cap-30:345` | «Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.» | **la más cargada, y no constaba** |
+
+**La regla:** los cuatro nombres **no son una despedida y nadie los lee como tal**. No se
+glosan, no se explican, no se cuentan, no se les añade un quinto ni se les quita uno, y
+**ninguna voz —narrador incluido— observa que Jean los repita**. `cap-30:345` es el locus que
+más cerca está de romperse, porque es el único que enuncia la ausencia de la serie: **no gana
+ni una palabra, ni delante ni detrás.**
+
+*Nota de método, del mismo día: la primera versión de esta tabla puso **negritas dentro** de
+dos citas verbatim, y el verificador la rechazó en el hook de pre-commit. Es la regla que A7
+acababa de fijar —dentro de este documento las comillas significan verbatim y toda glosa va
+fuera— aplicada contra quien la escribió, el mismo día, por una máquina. Así es como se
+supone que funciona.*

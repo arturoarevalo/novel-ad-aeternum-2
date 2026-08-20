@@ -117,6 +117,37 @@ def verificar_spans():
             malos.append((e["id"], "desc probablemente truncado: «…%s»" % d.strip()[-40:]))
     return len(items), malos
 
+def cotejar_descs():
+    """Coteja cada `desc` de spans.json contra el informe de A7 que lo originó.
+
+    A7, 2026-08-20: «la longitud exacta 300 caza ESTE corte, no la clase — los diez se
+    cortaron al escribir. La comprobación que hoy sí ha funcionado es otra: cotejar cada desc
+    contra el informe de A7 que lo originó. Que ésa vaya al hook y la de longitud quede de red
+    secundaria.» Tenía razón: el detector de longitud es una firma de un incidente; éste
+    compara con la fuente.
+    """
+    import glob
+    P = os.path.join(aa.PROTEGIDOS, "spans.json")
+    raw = json.load(open(P, encoding="utf-8"))
+    items = raw["spans"] if isinstance(raw, dict) and "spans" in raw else raw
+    fuentes = "\n".join(io.open(f, encoding="utf-8").read()
+                        for f in glob.glob(os.path.join(aa.INFORMES, "a7-*.md")))
+    malos = []
+    for e in items:
+        d = str(e.get("desc", ""))
+        if not d: continue
+        d_lim = d.split(" · [")[0].strip()          # quita las notas de restauración
+        if len(d_lim) < 40: continue
+        m = re.search(r"\|\s*`%s`\s*\|.*?\|.*?\|\s*(.*?)\s*\|\s*$" % re.escape(e["id"]),
+                      fuentes, re.M)
+        if not m: continue                           # sin informe de origen: no comparable
+        orig = m.group(1).strip()
+        if len(orig) > len(d_lim) + 20 and orig[:60] == d_lim[:60]:
+            malos.append((e["id"], "desc MÁS CORTO que su origen en informes/: %d frente a %d caracteres"
+                          % (len(d_lim), len(orig))))
+    return malos
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     if "--deuda" in sys.argv:
@@ -156,6 +187,7 @@ def main():
                 print("   PERDIDA  %s:%d  «%s»" % (arch, num, lit)); fallo = True
         if cam: print("   (%d números actualizados con --arreglar)" % cam)
     tot, malos = verificar_spans()
+    malos += cotejar_descs()
     print("spans.json · %d spans · %d con problema" % (tot, len(malos)))
     for i, m in malos:
         print("   %-22s %s" % (i, m)); fallo = True

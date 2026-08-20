@@ -451,3 +451,278 @@ otra cosa distinta de la que ha decidido.
 *El libro elige no saber. Cinco lectores piden ver el matrimonio y tienen razón, y la única forma
 de dárselo sin romper eso es dárselo **sin que nadie dentro de la escena sepa nada**. Si un día
 hay que elegir entre una escena que conmueva y una que no sepa, quédese con la que no sabe.*
+
+---
+---
+
+# ADENDA · 2026-08-20 · Los seis `desc` restaurados
+
+**A0 interrumpe la consulta con el `desc` restaurado de `S-n3-hervidor` y propone cerrar la
+consulta 1 como techo declarado, con mi propio argumento de W5 detrás.** He leído el texto
+restaurado, he leído `informes/a7-w5d-n4.md:200-245` entero y he verificado la aritmética de A2.
+
+**Mi respuesta: no lo cierro, y explico exactamente por qué — porque si lo cerrara, el cierre
+sería falso y llevaría mi firma.**
+
+Pero **sí cierro la mitad que A0 tenía delante**, la aritmética de A2 es correcta y la restauración
+**añade una condición dura que no estaba en mi dictamen de esta mañana**. Los tres puntos, por
+orden.
+
+---
+
+## A.1 · Lo que dice el texto restaurado, y lo que no dice
+
+Restaurado verbatim (`S-n3-hervidor`, verificado contra `informes/a7-w5d-n4.md`):
+
+> **Carta 3 · la separación contada por objetos.** «En 2059, Jean llenó el coche dos veces… Jean
+> preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.»
+> / «**No lo había.**» Dos líneas que no explican nada y que, **con una frase delante o detrás**,
+> se convertirían en juicio sobre el matrimonio —que es la explicación única que la Carta 3
+> prohíbe. El desmentido de dos palabras no puede quedarse solo ni ganar glosa.
+
+**El sujeto de esa condición son dos líneas de `cap-27`, y su prohibición es de adyacencia.** El
+span `S-n3-hervidor` tiene **tampones a los dos lados** —arranca en «Maja llevó el cuenco y la
+radio…» y termina en «El teléfono sonó con el papel de periódico…»— por esa razón y solo por esa:
+lo que impide es que entre algo **pegado**. Es la misma arquitectura, literalmente el span vecino,
+que `S-n3-bolsa`. Ninguno de los dos es una prohibición de existencia; los dos son cerraduras de
+adyacencia.
+
+**«Una frase delante o detrás» significa delante o detrás de esas dos líneas.** Una escena situada
+en otro punto del libro no está delante ni detrás de nada de `cap-27`.
+
+**Y hay tres pruebas independientes de que W5-yo no denegó la escena, sino su colocación:**
+
+1. **Misma oleada, misma mano, misma semana: `cap-17` «El salero» existe.** Es una escena de Jean
+   viva, con Maja dentro, sin fecha en la prosa, y la aprobé yo en W5. Si mi condición de W5
+   hubiera denegado el matrimonio dramatizado, `cap-17` no estaría en el libro. Está, y hoy es el
+   capítulo 17.
+2. **Misma oleada, segundo documento: prescribo la forma, no la prohíbo.**
+   `b7-carta-sensibilidad.md:123` sobre la caldera de 2059: «**Patrón** para N3: **deterioro
+   conyugal por objeto, sin explicar nada**». Y `:149`, guía de N3: «**Sí:** la separación por
+   logística y objeto (la caldera de 2059 […] es el patrón)». Eso es un molde, no un veto.
+3. **Y yo mismo retiré por escrito la versión amplia de esta misma prohibición**, por nombre, en
+   `b7-perimetro.md §7 punto 6`: «Mi razón nunca fue la existencia de la escena […] Tal como
+   estaba, mi regla habría impedido, por ejemplo, un recuerdo sin fecha de Jean en 2049 que no
+   rompe nada. **Eso es exactamente un perímetro que se acumula mal.**»
+
+**Por qué me niego a firmar el cierre fácil.** A0 me ofrece cerrar con mi propia autoridad, y sería
+cómodo: quedan pocas iteraciones y un «no se puede» argumentado vale más que un 8,5 sin explicar.
+Pero solo si es verdad. **Un techo falso es peor que ningún techo, porque nadie lo vuelve a
+levantar: lleva firma de A7 y nadie discute con A7.** Y sería la decimotercera vez que este
+proyecto registra un instrumento diciendo más de lo que dice — con el instrumento siendo **yo, por
+segunda vez** (la primera fue P-41, §8c, perdida y reincorporada). Mi propia regla, `§2` del
+perímetro: **los números localizan; solo la cita literal instruye.** La cita literal dice
+«adyacencia».
+
+---
+
+## A.2 · Lo que sí cierro, y queda cerrado: **el presente anterior a la muerte**
+
+**Aquí A2 tiene razón entera y lo firmo.** Verificado con recuento propio:
+
+| capítulo | palabras | protección |
+|---|---:|---|
+| `cap-01` Corona (24-nov 21:40) | 747 | **total** |
+| `cap-02` La pecera (26-nov 09:00) | 1.732 | núcleo |
+| `cap-03` Vacaciones muy largas (26-nov 11:15) | 2.102 | **total** |
+| `cap-04` El ferry (26-nov 14:00) | 1.501 | **total** |
+| **total** | **6.082** | tres de cuatro, `total` |
+
+**Todo el presente de Jean viva son 6.082 palabras y dos días y medio.** Cualquier escena del
+matrimonio *insertada ahí* es, por aritmética y sin remedio, **la última vez que se vieron** —lo
+que activa `§6` punto 4 sin margen— y además caería dentro de la elipsis o pegada a ella.
+
+> **TECHO DECLARADO (A7-it3-T1).** Una escena del matrimonio situada en el presente narrativo
+> anterior a la muerte —dentro de `cap-01`…`cap-04`, entre ellos, o en el hueco de reloj entre
+> `cap-03` y `cap-04`— es **VETO**, sin nueva deliberación, por `§6` punto 4 y R1. La petición de
+> A6-3 leída como *cronología* está denegada y no vuelve a discutirse en el mérito.
+
+**Y ése era el temor de A0, literalmente:** «A6-3 pide expresamente que sea "en presente"… que es
+la variante más difícil». Cerrado. Lo que queda abierto es la otra lectura de la misma palabra,
+que es la que sostengo desde §1.3 de este informe: **«en presente» como modo de representación
+—escena dramatizada, sin marco, sin recordante— y no como posición en el calendario.** De esa
+lectura el libro ya tiene dos instancias mías aprobadas: `cap-17` a escala de capítulo y
+`cap-27:137-149` a escala de párrafo. Ninguna de las dos es «una frase delante o detrás» del
+hervidor, y ninguna de las dos rompe nada.
+
+---
+
+## A.3 · Lo que la restauración **sí cambia** en mi dictamen: una condición nueva y dura
+
+Esto no lo tenía esta mañana y lo debo a la restauración. **Es el hallazgo real de A2, y es mejor
+que el que él creía tener.**
+
+Las dos líneas del hervidor funcionan **porque no explican nada**. Un hash protege los bytes de
+dentro del span; **no protege el entorno que les da sentido**. Es la lección de `plan-w10 §5.3`
+—«M9 ve dentro del ancla y es ciego fuera de sus extremos»— aplicada a escala de libro y no de
+párrafo: **una escena situada a treinta capítulos de distancia puede glosar esas dos líneas sin
+tocar un solo byte protegido.**
+
+Basta con que la escena nueva caracterice a Maja de un modo que convierta «No lo había» en un
+ejemplo. Si el lector puede volver a `cap-27:71-73` y decir *ah, eso es lo que ella hace*, las dos
+líneas han ganado glosa a distancia y el span ha sido derrotado sin que salte ninguna herramienta.
+
+> **A7-it3-C7 (dura, nueva).** La escena nueva **no puede contener nada que explique «No lo
+> había»**: ninguna negativa pequeña de Maja, ninguna retención, ningún patrón del que la mentira
+> del hervidor sea instancia, y ninguna asimetría de generosidad entre las dos. **Prueba:** léase
+> `cap-27:71-73` inmediatamente después de la escena nueva. Si las dos líneas se han vuelto
+> comprensibles, la escena está mal. Deben seguir siendo tan opacas como hoy.
+
+Esto se suma a S1–S6, E1–E15 y A7-it3-C1…C6. Y refuerza E1 desde el otro lado: **la escena no solo
+no puede tratar del matrimonio; tampoco puede caracterizar el matrimonio.**
+
+**Y de `S-n3-bolsa`, restaurado, extraigo la segunda condición operativa que faltaba:** su cola
+recuperada dice «la bolsa **no se abre, no se describe, no gana contenido y no gana escena**», y
+que `B7 §7.4` exige **autorización previa mía —no revisión—** para cualquier mención. Mi E6 hablaba
+de cuentas cerradas; **«no gana escena» es más fuerte que una cuenta** y lo incorporo como tal.
+
+---
+
+## A.4 · La petición nueva de A0 · **Cuatro de los diez siguen amputados, y sí se pueden reconstruir**
+
+A0 me pide que mire si alguno de los seis restaurados cambia algo dictaminado desde W5. Al hacerlo
+he encontrado otra cosa, y es más urgente que la pregunta.
+
+**Seis `desc` llevan hoy la nota «RESTAURADO». Otros cuatro llevan la nota contraria: «No se ha
+podido reconstruir qué decía; se deja constancia en vez de inventarlo». Los cuatro son
+reconstruibles verbatim, desde el mismo fichero del que se sacaron los otros seis.**
+
+Verificado por comparación de literal (el prefijo superviviente de cada uno aparece íntegro en
+`informes/a7-w5d-n4.md`, en la misma tabla):
+
+| span | fichero | continuación perdida, recuperada verbatim | ¿qué se perdió? |
+|---|---|---|---|
+| `S-n1-casitodos` | `cap-11` | «…Es el **techo que yo mismo cité en P-66 para cualquier escena de apoyo futura. Un techo que no está hasheado es un techo que se puede subir.** (`—De acuerdo.` aparece 2× en el fichero: por eso los extremos son los tampones, que sí son únicos.)» | **Una prohibición activa.** Es el puntero de este span a **R5** («Cualquier escena de acompañamiento nueva se mide contra ese techo antes de escribirse»). Sin la cola, el span protege un texto y ya no dice que es **la vara de medir de todas las escenas de apoyo futuras**. Y la nota de los tampones explica *por qué* los extremos son los que son: sin ella, una poda futura los llamará arbitrarios. |
+| `S-n2-hijadela` | `cap-20` | «…Es el **locus más frágil de los seis capítulos**.» | Una priorización mía. Es el ranking que dice por dónde se rompe antes el libro. |
+| `S-n4-escena3` | `cap-32` | «…esa pregunta es **la única figura viva del capítulo: nadie puede responderla ni ejecutarla una segunda vez.** Byte-idéntico desde W3; el span solo formaliza lo que A0 ya ha prometido dos veces.» | **Una prohibición activa**, y de las duras: «—¿Y les sale la misma frase?» **no se contesta y no se repite**. Hoy no consta en ninguna parte. |
+| `S-n6-persona` | `cap-47` | «…**Basta que alguien conteste —en cualquier dirección— para cerrarla.**» | **R7 punto 4**, «No toda» como techo, en su forma operativa: la simetría (*también* cerrarla en negativo). Es exactamente la distinción que R3 hace explícita para el porqué y que aquí se había perdido. |
+
+**Dos de los cuatro son prohibiciones vivas, no comentarios.** Y las cuatro notas actuales afirman
+algo falso: que no se pudo reconstruir. Estaba en el fichero de al lado.
+
+**Y el patrón que importa más que los cuatro casos.** El proyecto tiene registrados doce
+instrumentos que medían otra cosa. Éste es de una clase peor: **un instrumento que documenta su
+propio fallo, y lo documenta mal.** La nota «no se ha podido reconstruir» es más dañina que el
+truncamiento, porque **clausura la búsqueda**: quien la lea dentro de un año no irá a mirar. Un
+`desc` cortado invita a buscar; un `desc` cortado con certificado de defunción, no.
+
+> **A7-it3-C8 (obligatoria).** Restaurar los cuatro verbatim desde `informes/a7-w5d-n4.md`, con la
+> misma nota de procedencia que los seis. Y **corregir el texto de la nota**: donde dice «no se ha
+> podido reconstruir» debe decir dónde se buscó. Una constancia que no dice dónde se buscó no es
+> constancia: es una puerta cerrada.
+
+**Y una comprobación que pido antes de dar esto por cerrado:** el detector de longitud exacta 300
+caza el corte **de esta vez**. Los seis y los cuatro se cortaron al escribir, no al leer. **Nada
+garantiza que el próximo corte sea a 300.** La comprobación que no falla es la que ya funcionó
+aquí: **cotejar cada `desc` contra el informe de A7 que lo originó**. Recomiendo que
+`verificar_b7.py` añada esa comprobación —«¿existe el literal de este `desc` en algún
+`informes/a7-*.md`?»— y que la de longitud quede como red secundaria.
+
+---
+
+## A.5 · Lo que he encontrado al revisar los seis · **un locus que el perímetro consolidado no
+recoge**
+
+`S-n5-coda` (`cap-08`), restaurado, dice:
+
+> «**Carta 4 y Carta 2, y el sitio exacto donde este libro se puede romper.** […] Y protege la
+> última línea: **cuatro nombres que no son una despedida.**»
+
+Y su vecino `S-n5-nombres`: «La regla que impide que los cuatro nombres signifiquen otra cosa: “Al
+final de cada serie repite cuatro nombres en el mismo orden. **Es lo único del turno que no
+clasifica nada.**” Sin esa declaración, el final del capítulo queda disponible para leerse como
+mensaje. **Carta 2.**»
+
+**Censo hecho hoy. La figura de los cuatro nombres tiene cinco loci:**
+
+| dónde | cita |
+|---|---|
+| `cap-07:33` | «Nora. Jessie. Maja. Alana.» |
+| `cap-08:55` | «Al final de cada serie repite cuatro nombres en el mismo orden. Es lo único del turno que no clasifica nada.» |
+| `cap-08:281` | «—Nora. Jessie. Maja. Alana.» — **última línea del capítulo** |
+| `cap-30:247` | «Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas. Cuatro consultas, cuatro campos sin destinatario.» |
+| `cap-30:345` | «Al terminar cada serie Jean repite cuatro nombres. **Aquí no hay serie que terminar.**» |
+
+**`b7-perimetro.md` registra uno de los cinco**: la fila de R2 sobre `cap-30:247`/`:249` («Es
+literalmente lo que Jean diría a cuatro nombres»). **El origen —la coda de `cap-08`, que W5-yo
+llamó «el sitio exacto donde este libro se puede romper»— no aparece en el perímetro
+consolidado.** Ni el `cap-07:33`, ni el `cap-30:345`, que es el que dice que el rito se ha
+detenido y por eso es el más cargado de los cinco.
+
+Es el modo de fallo de P-41 otra vez: la consolidación se quedó con el derivado y perdió el
+original. Los spans siguen puestos y hasheados —el texto está a salvo—, pero **quien aplique el
+perímetro sin leer `spans.json` no sabe que esos cuatro nombres son materia de Carta 2.**
+
+> **A7-it3-C9.** Añadir a R2 de `b7-perimetro.md`, bajo la tabla de los cuatro huecos, una fila
+> quinta: **la coda de `cap-08` y la figura de los cuatro nombres** (cinco loci, censados arriba),
+> con su regla: *no ganan un quinto nombre, no ganan destinatario, no ganan contenido, la última
+> línea de `cap-08` no gana texto detrás, y `cap-08:55` —«Es lo único del turno que no clasifica
+> nada»— no se separa de ellos.* Redactada; **no la he escrito**: `b7-perimetro.md` es el
+> documento vinculante y no lo toco en una consulta previa sin que A0 lo pida.
+
+---
+
+## A.6 · Una discrepancia menor que conviene fijar antes de que crezca
+
+`S-n1-nocierra` restaurado dice de Ranveig: «**la única voz con autoridad que se pronuncia sobre el
+porqué**». La cuenta **C1** del perímetro dice «Voces con autoridad que enuncian la pluralidad del
+porqué: **2**, y no hay una tercera», y cita `cap-10:71` (Maja) y `cap-11:249` (Ranveig).
+
+No se contradicen: la definición de `§1` del perímetro incluye a «la profesional de apoyo de
+`cap-11`» entre las voces con autoridad y **no incluye a Maja**, que es personaje. **C1 cuenta
+enunciaciones, no voces con autoridad; de éstas hay una sola.** Lo dejo fijado porque cambia el
+listón para cualquier escena futura: **una enunciación nueva de la pluralidad sería la tercera y
+está prohibida; una enunciación nueva en voz con autoridad sería la segunda de su clase y es
+peor.** *(Gravedad: vigilar. Sin corrección de texto.)*
+
+---
+
+## A.7 · Tabla de hallazgos de la adenda
+
+| # | Locus | Cita literal | Punto | Gravedad | Propuesta mínima |
+|---|---|---|---|---|---|
+| 16 | `S-n3-hervidor` (restaurado) | «con una frase delante o detrás, se convertirían en juicio sobre el matrimonio» | R3 · Carta 3 | **vinculante, alcance corregido** | Es adyacencia, no existencia. No cierra la consulta 1; cierra una colocación. |
+| 17 | `cap-01`…`cap-04` | 6.082 palabras, tres ficheros `total`, dos días y medio | §6.4 · R1 | **VETO / techo declarado (T1)** | Ninguna escena del matrimonio en el presente anterior a la muerte. Sin nueva deliberación. |
+| 18 | `cap-27:71-73` | «Maja dijo que había otro en el altillo.» / «**No lo había.**» | R3 | **condición nueva (C7)** | La escena nueva no explica esas dos líneas ni a distancia. Prueba de relectura de `cap-27` después de la escena. |
+| 19 | `S-n3-bolsa` (restaurado) | «la bolsa no se abre, no se describe, no gana contenido y **no gana escena**» | C3 · C5 · R1 | **vinculante** | Sustituye a la cuenta en E6: no es un número, es una prohibición de escena. |
+| 20 | `S-n1-casitodos`, `S-n2-hijadela`, `S-n4-escena3`, `S-n6-persona` | «No se ha podido reconstruir qué decía» | R5 · R7·4 · Carta 6 | **corregir (C8)** | Son reconstruibles verbatim desde `informes/a7-w5d-n4.md`. Dos contienen prohibiciones activas. Corregir también el texto de la nota. |
+| 21 | `cap-08:55`, `cap-08:281`, `cap-07:33`, `cap-30:345` | «cuatro nombres que no son una despedida» | R2 · Carta 2 | **corregir (C9)** | El perímetro consolidado recoge uno de los cinco loci. Añadir fila a R2. |
+| 22 | `verificar_b7.py` | detector de longitud exacta 300 | — (instrumento) | **vigilar** | Caza este corte, no la clase. Añadir cotejo contra `informes/a7-*.md`, que es lo que sí ha funcionado hoy. |
+| 23 | C1 ↔ `S-n1-nocierra` | «2, y no hay una tercera» ↔ «la única voz con autoridad» | R3 · C1 | **vigilar** | C1 cuenta enunciaciones; voz con autoridad hay una. Fijarlo. |
+
+---
+
+# VEREDICTO REVISADO
+
+**Consulta 1 · `APROBADO CON CORRECCIONES`, con un techo declarado dentro.**
+
+- **Cerrado y no se vuelve a discutir (A7-it3-T1):** el matrimonio **en el presente narrativo
+  anterior a la muerte**. Seis mil ochenta y dos palabras, dos días y medio, tres ficheros `total`:
+  cualquier escena ahí es la última vez que se vieron. La petición de A6-3 leída como cronología
+  está denegada en el gate.
+- **Abierto, y es lo que contesta a los cinco lectores:** la escena **sin marco y sin fecha en la
+  prosa**, en la ventana 2059-2060, POV de Maja, sobre una tercera cosa. El libro ya la tiene dos
+  veces por esta misma mano (`cap-17`; `cap-27:137-149`). El `desc` restaurado **no la deniega**:
+  prohíbe pegarle una frase al hervidor, y en la misma oleada, en el documento de al lado, yo
+  **prescribo su forma** —«deterioro conyugal por objeto, sin explicar nada»—.
+- **Obligatorias:** S1–S6, E1–E15, A7-it3-C1…C4 y **la nueva C7** (no explicar «No lo había» ni a
+  distancia), más el refuerzo de E6 por `S-n3-bolsa` («no gana escena»). Dos pasadas de A7 sobre
+  el borrador.
+
+**Consulta 2 · `APROBADO`, sin cambios.** La restauración no toca `cap-14`. Siguen en pie
+A7-it3-C5 y C6, y la corrección factual de la fila 12: `cap-14:317` es el único pago de
+`S12-temblor` en el libro y está dentro del bloque que se corta.
+
+**Obligatorias fuera de las dos consultas:** **A7-it3-C8** (restaurar los cuatro y corregir la
+nota) y **A7-it3-C9** (los cuatro nombres de `cap-08` entran en R2). Ninguna de las dos bloquea la
+iteración 3; las dos bloquean el cierre de W10.
+
+---
+
+**Firmado, A7 · adenda tras la restauración de los seis `desc` · 2026-08-20.**
+
+*Se me ofreció cerrar una petición de cuatro nominaciones con mi propia firma y un texto que no
+decía eso. Lo que más se parece a este proyecto no es equivocarse: es equivocarse hacia abajo, con
+una nota tranquilizadora encima. Cuatro `desc` llevan hoy una nota que dice que su conclusión se
+perdió, y su conclusión está en el fichero de al lado. Prefiero cerrar una puerta menos y dejar
+escrito dónde se buscó.*
