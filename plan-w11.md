@@ -46,10 +46,20 @@ thriller de IA.»
 
 ## 3. Los dos conflictos que ya conocemos, escritos antes de empezar
 
-**Conflicto 1 · La aritmética del corte.** Los editores piden 70–90 páginas —unas 20.000
-palabras—. A2 midió en W10, a mano y por cita literal, que el corte defendible en Partes II–III
-es de **949 palabras**, y que el resto saldría de las siete salvaguardas del libro. **Una de las
-dos medidas está mal, o miden cosas distintas.** Averiguarlo es la primera tarea de la fase.
+**Conflicto 1 · La aritmética del corte.** *(Reescrito el 2026-08-20: la primera versión de
+este párrafo daba la cifra de «949 palabras» como medición de W10. **No existe en ningún
+artefacto del proyecto: la escribí yo.** Lo medido fue 4.697 en el libro, 1.877 en Partes II–III
+y 1.448 de capa probatoria. Poner una cifra inventada en el contrato de una fase es exactamente
+el fallo que llevo veinticuatro instrumentos catalogando, y lo cometí en el documento que menos
+lo admite. Lo encontró A2.)*
+
+**Y reconciliadas las dos aritméticas, resulta que no había conflicto: miden la misma lista.**
+El corte sin coste es 4.697 palabras; las siete salvaguardas suman 11.136; **4.697 + 11.136 =
+19,5 %, y el techo del editor 2 es 19,1 %.** No medimos cosas distintas: **ellos pagan el precio
+que yo declaré impagable.**
+
+**El reverso, que decide la fase:** cuatro de esas siete salvaguardas **las defienden por su
+nombre esos mismos editores**, en el mismo informe donde piden el 19 %.
 
 **Conflicto 2 · El editor pide lo que el perímetro prohíbe.** Editor 3: «"El salero" y "La
 mosquitera" llegan sin señal de que son pasado. **Basta con una fecha.**» El perímetro de A7

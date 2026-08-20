@@ -16,6 +16,11 @@ ROMANOS = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V"}
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("etiqueta")
+    ap.add_argument("--con-portada", action="store_true",
+        help="antepone titulo y autor del manifiesto. Los seis editores de adquisiciones de W10 "
+             "pidieron «decidir el titulo» porque este compilador lo EXCLUIA a proposito: leyeron "
+             "un manuscrito que empezaba con el aviso de contenido, sin portada. Una de las seis "
+             "condiciones de compra no era del libro, era del compilador.")
     ap.add_argument("--sin-paratextos", action="store_true")
     ap.add_argument("--sin-numeros", action="store_true")
     ap.add_argument("--salida")
@@ -25,6 +30,16 @@ def main():
     orden = aa.reading_order()
     partes = sorted(m["partes"], key=lambda p: p["capitulo_inicial"])
     out = []
+    if getattr(a, "con_portada", False):
+        # Los seis editores de adquisiciones de W10 pidieron «decidir el título» — y leyeron un
+        # manuscrito que empezaba con el aviso de contenido, porque este compilador excluía el
+        # título a propósito (§5 de la cabecera). Una de las seis condiciones de compra no era
+        # del libro: era del compilador.
+        t = m.get("titulo", ""); sub = m.get("subtitulo", ""); aut = m.get("autor", "")
+        out.append(f"# {t}\n")
+        if sub: out.append(f"*{sub}*\n")
+        if aut: out.append(f"{aut}\n")
+        out.append("")
     total = 0
     por_parte = {}
     # paratexto inicial

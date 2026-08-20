@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w11portada",
+  "fecha": "2026-08-20T13:49:57",
+  "capitulos": 49,
+  "palabras": 80679,
+  "por_parte": {
+    "1": 19911,
+    "2": 20779,
+    "3": 20270,
+    "4": 19719
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w11portada.md"
+}
