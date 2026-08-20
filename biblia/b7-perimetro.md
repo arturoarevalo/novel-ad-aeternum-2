@@ -76,7 +76,7 @@ Cada una dice **qué**, **por qué** y **dónde**. El «por qué» importa tanto
 
 Ninguno se nombra, cita, adivina, parafrasea, glosa, completa ni «recupera», en ningún soporte. Y **ninguna escena posterior puede poner a un personaje formulando algo que los identifique hacia atrás.**
 
-**Tampoco:** ninguna nota, carta, audio, vídeo o mensaje de despedida nuevo de Jean a nadie. Los cuatro mensajes de `cap-13:85-111` son el techo y no hay un quinto del 26 de noviembre. Y «lo que no se entrega no se borra» (`cap-21:87`) **no la aplica jamás una voz con autoridad** al archivo ni a lo que Jean no envió.
+**Tampoco:** ninguna nota, carta, audio, vídeo o mensaje de despedida nuevo de Jean a nadie. Los cuatro mensajes de `cap-13:85-111` son el techo y no hay un quinto del 26 de noviembre. Y «La medida sin entregar no se borra.» (`cap-21:87`) *(hasta el 2026-08-20 este documento la citaba como «lo que no se entrega no se borra», que es una paráfrasis: el quinto puntero roto en cuatro días, y el primero de este tipo. Quien verificara por literal no la habría encontrado.)* **no la aplica jamás una voz con autoridad** al archivo ni a lo que Jean no envió.
 
 ### R3 · El porqué se queda plural, y nadie lo cierra ni en negativo
 
