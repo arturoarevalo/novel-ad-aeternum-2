@@ -6,6 +6,15 @@ A0 lo lee íntegro al arrancar, junto con `informes/w10/publicabilidad.md`,
 
 ---
 
+> **OBJETIVO REDEFINIDO EL MISMO DÍA, ANTES DE TOCAR UNA PALABRA.** Nueve lecturas de control
+> demuestran que el veredicto `COMPRAR CON CONDICIONES` **lo producía mi propia rúbrica**, que
+> obligaba a listar «el trabajo editorial que exigirías» —que todo libro tiene— y luego ofrecía
+> «con condiciones» como opción. Con la rúbrica corregida, **tres de tres editores dan `COMPRAR`
+> sin condiciones y declaran vacía la lista de exigencias**. La novela ya es claramente
+> publicable. Segunda vez en dos fases que el objetivo resulta ser una propiedad de la vara.
+> **W11 continúa con el objetivo real: el trabajo de mesa en el que los tres editores
+> convergen.** Detalle en `informes/w11/m0m1m2-veredicto.md`.
+
 ## 1. El objetivo, y por primera vez es medible sin ambigüedad
 
 **Seis editores de adquisiciones, tres por versión y cada uno con un solo manuscrito, dieron
