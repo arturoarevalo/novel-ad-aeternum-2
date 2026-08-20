@@ -124,6 +124,32 @@ Un coche subió al mirador. Jessie cerró su lista y se apoyó en la barandilla.
 
 Nora añadió una marca al margen. Ellas también formaban parte del tráfico que alguien podía aprenderse.
 
+El tapón dio otra vuelta y volvió a medias. Aslak sacudió el termo y lo dejó de pie contra la pata de la mesa.
+
+—No da para cuatro —dijo—. La próxima vez traigo dos.
+
+Por el acceso no entró ni salió nada durante un tramo largo. Maja se cambió de sitio dos veces para quitarse el foco de la cara. Aslak bajó los prismáticos y los volvió a subir. El generador sonaba igual al otro lado.
+
+Jessie se sopló las manos y se las volvió a meter debajo. La sal seca se le pegaba al canto de la manga.
+
+—Los de dentro están cenando —dijo.
+
+—Los de dentro cobran por estar ahí —dijo Aslak.
+
+Después apagó la linterna, que llevaba las pilas viejas. De este lado solo quedó lo que llegaba de los focos de enfrente.
+
+Dos luces cruzaron por debajo del mirador y siguieron de largo.
+
+Jessie se levantó a mirar el acceso y volvió a sentarse.
+
+Sacó el teléfono, buscó el vídeo del domingo y lo puso entero en su cuenta. La barra se quedó a la mitad y volvió atrás. Jessie apoyó el teléfono contra la rodilla y esperó a que volviera la cobertura.
+
+Nora le vio la luz de la pantalla en la cara.
+
+La barra llegó al final. Jessie se guardó el teléfono en el bolsillo del abrigo, se levantó otra vez y se quedó de pie mirando el acceso.
+
+El vaho volvió a cerrarse sobre las lentes antes de que Aslak terminara de limpiarlas.
+
 Maja señaló la alineación de la toma.
 
 —El agua se ha alisado junto al hormigón. Ahora salen vetas blancas en el retorno.
@@ -132,7 +158,7 @@ Maja señaló la alineación de la toma.
 
 —Hora —pidió Maja.
 
-—Diecinueve cincuenta y ocho.
+—Diecinueve cincuenta y ocho —dijo Aslak, con la muñeca vuelta hacia los focos.
 
 Maja consultó el último perfil ADCP transmitido por AK-7. La dirección y la velocidad cabían dentro de uno de los intervalos, aunque por muy poco.
 
@@ -201,6 +227,8 @@ Maja no intentó ganarle minutos al hielo. Levantaba el pie antes de las curvas 
 —Y nos faltaría lo que ocurrió al final —respondió Maja.
 
 Jessie dejó de mirar la pantalla.
+
+Dentro del bolsillo del abrigo, el teléfono de Jessie empezó a vibrar y siguió vibrando hasta el embarcadero.
 
 A las 22:40 aún les faltaban dos kilómetros. La señal del embarcadero apareció entre los árboles. Después llegaron las luces y una explanada casi vacía.
 
