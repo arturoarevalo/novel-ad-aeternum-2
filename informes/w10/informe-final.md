@@ -85,11 +85,20 @@ Nora, escrito **por ausencia**; y el precio, que llega como persona y no como do
 **Resultado:** nadie nombra el capítulo tratado, que era el criterio preregistrado. Diálogo
 +0,5 y personajes +0,5 —exactamente lo que la intervención tocaba—; estructura y prosa −0,5.
 
-### Iteración 3 — declinada
+### Iteración 3 — declinada dos veces, y las dos veces con razón
 
 Se encargó cortar el hilo forense de Gunnar. **A2 declinó desmontando la premisa del encargo**,
-que era mía y era falsa. El argumento decisivo: *«el auto en blanco sólo está en blanco porque
-el mecanismo está probado; quitar la prueba no lo ablanda, lo hace desaparecer»*.
+que era mía y era falsa: los dos críticos que bajaron estructura no son los que nombran ese
+hilo, y las cifras que le atribuyen están mal por un factor de dos a cuatro. El argumento
+decisivo: *«el auto en blanco sólo está en blanco porque el mecanismo está probado; quitar la
+prueba no lo ablanda, lo hace desaparecer»*. Y el clímax de la novela es un hombre leyendo una
+cadena de certificados: no admite «menos precisión».
+
+Se reorientó entonces a la escena que cuatro nominaciones pedían —**Jean y Maja vivas y juntas
+en presente**— y A2 declinó otra vez, con el hallazgo que produjo el instrumento nº 20: **A7 ya
+la había denegado en W5**, y su denegación llevaba cinco oleadas cortada a mitad de palabra.
+La escena pedida es, literalmente, la «frase delante o detrás» que aquella denegación prohibía.
+No es que no hubiera anfitrión: **el anfitrión sería la causa.**
 
 ## 4. La trayectoria del criterio del autor
 
@@ -116,6 +125,22 @@ El proyecto llevaba once. W10 añadió estos:
 | 17 | `spans.json` · cuatro `desc` truncados | Cortados a media palabra desde W5. Uno lo encontró A7 a mano; los otros tres, el verificador nuevo. |
 | 18 | `b7-perimetro.md` | Cinco punteros a línea equivocada en cuatro días, y uno de un tipo nuevo: **una paráfrasis entrecomillada**. Regla añadida: dentro de ese documento las comillas significan verbatim. |
 | 19 | el extractor de abandonos | Devolvía cadena vacía en dos de tres campañas. El criterio de salida del autor llevaba tres campañas sin poder leerse. |
+| 20 | `spans.json` · seis `desc` **amputados en 300 caracteres exactos** | Y falla de una clase que no se había visto: **no a la baja ni al alza, sino por el final, que es donde va la conclusión**. Los 300 que sobreviven parecen una nota completa. Uno de ellos guardaba una **denegación de A7 cortada a mitad de palabra desde W5** — y decidía la iteración 3. |
+
+### El nº 20 merece su párrafo, porque cambia cómo hay que buscar
+
+Mi verificador encontró cuatro de los seis con una heurística: «el `desc` acaba en
+preposición». **Se le escaparon los dos que el corte dejó terminando en punto**, y uno de esos
+dos es el span que A7 llama «el más importante de todo el encargo».
+
+El detector correcto no es una heurística: es **la longitud exacta**. Un `desc` de 300
+caracteres clavados no es una coincidencia, es una amputación. Está en el hook, y se probó
+inyectando una amputación real para comprobar que la caza — porque en este proyecto ya hubo un
+parche que se ejecutó, no hizo nada, y casi hace concluir que un escritor se había equivocado.
+
+Y el truncador **no está en `herramientas/`**. No hay ningún `[:300]` que quitar: se produjo al
+escribir, puede repetirse, y por eso la comprobación vive en el hook y no en la memoria de
+nadie.
 
 **Y ninguno de estos lo detectó una métrica.** Todos salieron de que alguien leyera.
 
