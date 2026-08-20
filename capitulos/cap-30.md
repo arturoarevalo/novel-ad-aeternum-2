@@ -274,6 +274,50 @@ Entonces entra el piano de casa, sin recorte alrededor.
 
 Jessie sujetaba el pedal con el pie para que las notas se corrieran unas encima de otras. Nora tocaba más fuerte para taparla. Las dos esperaban a que alguien dijera algo desde la cocina. Ninguna se reía todavía.
 
+Habían empezado después de comer.
+
+La tapa de arriba estaba levantada. Con la tapa levantada el piano se oía en toda la casa.
+
+Jessie se sentó en el suelo, con la espalda contra la pata del piano y el talón en el pedal. Cada poco se levantaba a mirar dentro. Los fieltros subían todos a la vez y volvían a bajar cuando aflojaba el pie.
+
+Nora esperaba a que se vaciara el sonido para volver a empezar. Jessie pisaba antes de que se vaciara.
+
+Nora le apartó el pie con el suyo. Jessie lo puso donde estaba. Lo repitieron cuatro veces.
+
+Jessie probó el pedal de la izquierda y no se oyó nada distinto. Volvió al de la derecha.
+
+Nora estiraba la mano derecha y llegaba al borde. La izquierda se quedaba a una tecla. Volvía al mismo compás y volvía a quedarse a una tecla. El taburete crujía cuando cambiaba de mano.
+
+Repitió el compás hasta que salió entero. Volvió a empezar y no salió.
+
+Miraban las dos hacia la puerta de la cocina cada vez que subían el ruido. De la cocina llegó el sonido de un cajón y nada más.
+
+Lo subieron otra vez y no vino nadie.
+
+Jean cerró la puerta del pasillo. Al rato volvió a abrirla.
+
+Jessie subió a sentarse en el filo del taburete. Nora la echó con la cadera. Jessie se quedó de pie detrás, con las manos en los hombros de su hermana, hasta que Nora se las quitó.
+
+Después Jessie hundió el pedal y lo dejó hundido, con las dos manos en las rodillas. Nora tocó a la vez todo lo que le cabía en las manos abiertas. Sonó de golpe todo lo que quedaba dentro.
+
+Las dos se rieron. Tardaron en parar.
+
+Nora volvió a poner las manos donde las tenía.
+
+Jessie se cansó del pedal y probó las teclas del extremo derecho, que casi no suenan. Las apretó una a una hasta la última.
+
+Se cambiaron de sitio sin acordarlo. Jessie se puso delante del teclado y apretó lo que le vino, con la mano abierta y los dedos rectos. Nora se sentó en el suelo y le mantuvo el pedal. No lo soltó mientras su hermana siguió.
+
+Entre una vez y otra no había otro ruido en la casa.
+
+La ventana se quedó oscura y ninguna de las dos encendió nada. Jean pasó dos veces por delante de la puerta sin parar. A la tercera entró, encendió la lámpara del rincón y volvió a salir. Ninguna de las dos levantó la vista.
+
+Más tarde, Jean se apoyó en el marco de la puerta. Estuvo allí lo que duró una vuelta entera. Después se sentó en el suelo del pasillo, con la espalda en la pared, y desde allí no se veía el teclado.
+
+El talón de Jessie dejó dos marcas en la madera, delante del pedal. Nora las pasó con la manga y quedaron igual.
+
+Volvieron a cambiarse de sitio. Nora buscó otra vez el sitio de la mano izquierda. Jessie no soltó el pedal.
+
 El recuerdo no cuesta nada: ninguna tarea lo recorta y ninguna salida lo toma.
 
 Jean lo sostiene el tiempo que dure la banda.

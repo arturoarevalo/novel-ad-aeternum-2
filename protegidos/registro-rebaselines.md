@@ -6,3 +6,4 @@
 - 2026-08-19T16:01:17 · rebaseline · W10-prep: renumeracion de ficheros a 01-48 consecutivos. Cambia SOLO nombres de fichero y el campo ot del frontmatter; los cuerpos de los diez protegidos estan intactos y M9 lo confirmo antes del rebaseline (frontmatter alterado, cuerpo intacto).
 - 2026-08-19T18:18:53 · rebaseline · W10 OT-W10-01
 - 2026-08-20T00:29:05 · rebaseline · W10: A7 C-1/C-2 sobre OT-W10-01
+- 2026-08-20T06:03:48 · rebaseline · W10 OT-W10-02 · A7 merge

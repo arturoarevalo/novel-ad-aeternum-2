@@ -12,6 +12,52 @@ delta_objetivo: 0
 orden_lectura: 37
 ---
 
+Nora llevaba el cable de la batería al cobertizo cuando la furgoneta entró en la pista.
+
+Subió en primera, con las ruedas fuera de la rodada, y se paró delante del portón. El motor siguió en marcha un momento después de que se abriera la puerta. En el costado había un rótulo de un almacén de Storsteinnes, medio tapado por la nieve sucia del guardabarros.
+
+El hombre abrió las puertas traseras y sacó una bombona. La llevó con las dos manos y la cambió de lado a mitad de camino.
+
+Maja se puso de pie antes de que llegara.
+
+—Contra la pared —dijo Aslak.
+
+Aslak recogió la manguera enrollada y la colgó dentro del cobertizo.
+
+El hombre dejó la bombona contra la pared y volvió a la furgoneta. A la vuelta, con la segunda, se paró a dos pasos del portón.
+
+Jessie se levantó.
+
+—Quieta —dijo Maja.
+
+Jessie se quedó donde estaba, con las manos a los lados. El hombre tampoco se movió. Sostenía la bombona por el asa, con el brazo tenso, y no la dejó en el suelo.
+
+Nora miró a su hermana y no a él.
+
+Se oía el motor al ralentí y nada más.
+
+Después el hombre llevó la bombona hasta la pared, la puso junto a la primera y las dejó a plomo. Recogió las dos vacías, las cargó de una en una y cerró las puertas traseras.
+
+Tardó más de lo que hacía falta en pasar el cierre.
+
+Se limpió las manos en el pantalón.
+
+—¿Cuánto tiempo se queda eso ahí? —preguntó.
+
+Nadie contestó.
+
+No había sitio para dar la vuelta. Subió, puso el brazo en el respaldo y bajó marcha atrás por la pista, con la cabeza vuelta, hasta el ensanche del buzón. Allí giró.
+
+El motor se oyó un rato más allá del recodo.
+
+—Antes venía otro —dijo Aslak.
+
+Levantó una de las bombonas y la entró. Jessie le sujetó el portón mientras pasaba y volvió a sujetarlo para la segunda.
+
+Maja se sentó donde estaba. Nora terminó de pasar el cable hasta la mesa de trabajo.
+
+* * *
+
 Aslak sujetaba con pinzas la alimentación del ladrillo abierto. Alana mantenía la tarjeta negra en la ranura y Nora alumbraba la soldadura. Un cable llegaba desde la batería de la barca; la raíz seguía cerrada.
 
 —Ahora —dijo Aslak.
