@@ -453,7 +453,7 @@
       "longitud": 57
     },
     "S30-resultado": {
-      "archivo": "capitulos/cap-36.md",
+      "archivo": "capitulos/cap-w2.md",
       "hash": "67870b3ec353afc6e4d92025c1467194d140be136ac06952df4f863eb471bdfa",
       "longitud": 37
     },
@@ -723,5 +723,5 @@
       "longitud": 1609
     }
   },
-  "generado": "2026-08-20T08:48:16"
+  "generado": "2026-08-20T10:44:50"
 }

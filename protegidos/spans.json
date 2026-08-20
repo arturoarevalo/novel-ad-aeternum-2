@@ -545,11 +545,11 @@
    "id": "S30-apertura",
    "archivo": "capitulos/cap-36.md",
    "inicio": "Telegrafbukta no alcanza para todas las que la recuerdan.",
-   "desc": "Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla)"
+   "desc": "Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla) · [W10 it.4: A7 avisa de que este desc VA A MENTIR tras la escisión. La geografía protegida aquí es LA DE v0, que sobrevive entera; lo suprimido en it.4 son 127 palabras de TOPOGRAFÍA NUESTRA, posteriores al span y añadidas en W2. En v0 la playa es un diagrama —quién sostiene qué, qué no se atribuye, qué queda en blanco—; lo que añadimos la convirtió en un sitio, y R1 dice que convertir una playa recordada en escenario rompe el punto 1 sin escribir una sola palabra prohibida.]"
   },
   {
    "id": "S30-resultado",
-   "archivo": "capitulos/cap-36.md",
+   "archivo": "capitulos/cap-w2.md",
    "inicio": "`RESULTADO · TESTIMONIO CONDICIONADO`",
    "desc": "Resultado de la votación (RW: intacto)"
   },

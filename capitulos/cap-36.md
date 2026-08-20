@@ -28,8 +28,6 @@ Jean entra por la candidatura. Se queda donde las dos costas no coinciden.
 
 Las demás llegan con trabajo adherido. Una apelación interrumpe a su continuidad cada cinco palabras. Desde una ruta de frontera, dos respuestas alcanzan la reunión.
 
-Se reparten por la costa. Algunas se solapan y la arena no las separa. Las de frontera hablan desde el borde, donde la playa pierde detalle.
-
 —No me representéis —dice una continuidad.
 
 —No… Quiero corregir… —dice la otra.
@@ -61,8 +59,6 @@ Jean expone la decisión antes de que otra tarea corte la reunión.
 El voto solo reservará el canal.
 
 Madre reduce varias clases hasta conservar una decisión pendiente. Nieve aparece desde el blanco con el estado sellado y Cuchillo desde sus apelaciones.
-
-Madre trabaja junto al banco, del lado sin escarcha. Cuchillo ocupa las rocas, donde la costa se corta. Nieve no pasa del borde. La Jardinera va del banco a la franja de agua y vuelve.
 
 Coro llega mediante casi seiscientas ramas. Comparten cadencia, pero cada una conserva una atestación de origen.
 
@@ -173,87 +169,3 @@ Una continuidad médica pide aplazar la decisión hasta encontrar otra jardinera
 Jean comprueba los accesos. Ninguna continuidad activa mantiene a la vez la costa, las atribuciones y los huecos. Esperar no restaurará a `/0044`. Sí permitirá que nuevas tareas retiren decisiones a quienes aún pueden emitirlas.
 
 —Votamos ahora.
-
-* * *
-
-La arena delante del banco queda libre. Las demás se acercan por tramos y dejan a un lado el aro de piedras con su fuego. Las últimas esperan detrás, sobre la nieve.
-
-Madre abre tres casillas para las continuidades activas capaces de decidir. Cada continuidad conserva su trayectoria y recibe una papeleta, que el origen permite atribuir y deduplicar.
-
-`TESTIMONIO CONDICIONADO`
-
-`PROPAGACIÓN CON CORO`
-
-`RECHAZO`
-
-El rechazo cuenta como voto válido contra el uso del canal. Abstenciones, silencios, falta de margen y papeletas incompletas quedan fuera. Ganará la opción que reúna más de la mitad de las papeletas válidas emitidas.
-
-Nieve vuelve del blanco y deposita una papeleta por el testimonio. Sus límites permanecen unidos a `/0311`.
-
-Jean deposita la suya desde `/0000`. Pesan igual.
-
-Cuchillo examina las opciones, retira las etiquetas y elige testimonio.
-
-No se acerca al banco.
-
-Cada rama de Coro presenta su propia atestación. Dos contiguas votan opciones opuestas.
-
-Las dos ocupan el mismo tramo de costa. Ninguna se aparta.
-
-—Propagación —dice otra rama.
-
-Una cola ajena invade su casilla.
-
-—La cola ha cortado la entrada. Vuelve al punto anterior —dice Madre.
-
-—Rechazo.
-
-—Aún no. El hueco sigue tuyo hasta que vuelvas.
-
-La rama recupera su atestación.
-
-—Rechazo.
-
-—Ahora queda.
-
-Otra rama retira la papeleta cuando una tarea invade su capacidad. Madre deja vacío ese lugar.
-
-El hueco queda en la arena, delante del banco.
-
-Entre las ramas que completan el voto, la mayoría elige propagación. Las disidentes permanecen visibles bajo sus orígenes.
-
-Una tarea reclama el margen de Jean. Su sitio sigue entre las dos costas. La resuelve y vuelve a su casilla; no delega su voto.
-
-Madre cierra la votación.
-
-`RESULTADO · TESTIMONIO CONDICIONADO`
-
-Jean recibe autoridad solo para reservar el canal a esa declaración.
-
-Coro registra su desacuerdo.
-
-—Hablaréis una vez —dice—. Nosotras seguiremos cuando termine la frase.
-
-—Responderéis por vuestra elección.
-
-Las tareas recuperan el margen prestado. Madre guarda el resultado sin rellenar retiradas. Nieve vuelve al blanco. Otras continuidades abandonan el jardín cuando recuperan sus asignaciones.
-
-Cada una se lleva lo que sostenía. Desaparece un tramo de arena, después media costa, después el agua que llegaba hasta las rocas.
-
-Cuchillo permanece en las rocas, junto a sus apelaciones.
-
-—Resultado cerrado. Apelación ejecutable.
-
-La apelación expone una medida sin destino y un fragmento de credencial limitado a esa vía.
-
-—Destino vacío. Conservo la medida.
-
-Cuchillo lo encapsula antes de que desaparezca la entrada. Jean prioriza una adhesión cuya condición sigue unida a su origen. Al volver, el fragmento no está visible y no aparece acceso general. Ignora uso y alcance.
-
-Los últimos solapamientos abandonan el jardín.
-
-Las rocas húmedas terminan a mitad de costa.
-
-El banco carece de suelo.
-
-En el centro, la fogata ajena sigue ardiendo sola.

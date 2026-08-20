@@ -13,3 +13,4 @@
 - 2026-08-20T07:53:24 · rebaseline · W10 it.3 · A7 C9
 - 2026-08-20T07:54:02 · rebaseline · W10 it.3 · A7 C9
 - 2026-08-20T08:48:16 · rebaseline · W10 it.3 · A7 M1-M8
+- 2026-08-20T10:44:50 · rebaseline · W10 it.4 · escisión
