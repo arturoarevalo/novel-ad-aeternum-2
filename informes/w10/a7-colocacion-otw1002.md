@@ -5,13 +5,13 @@
 
 **Leído para emitirlo:** `ordenes/OT-W10-02.md` íntegra; `biblia/b7-perimetro.md` íntegro; `informes/w10/it1-resultado.md`; mis dos informes previos (`a7-dictamen-previo-it1.md`, `a7-merge-otw1001.md`) íntegros; `cap-27`, `cap-29`, `cap-30`, `cap-32`, `cap-34`, `cap-35`, `cap-36`, `cap-37` completos; pasajes de `cap-01`, `cap-12`, `cap-22`, `cap-26`, `cap-28`, `cap-41`, `cap-48`; `00-aviso.md` y `99-recursos.md`; `protegidos/spans.json` y `hashes.json`; `biblia/b7-patrones-A.txt` y `-B.txt`.
 
-**Verificaciones mecánicas propias (todas hechas hoy, sobre el texto, no sobre informes):** C2 cinturón = 4 · C3 bolsa = 2 · C4 «a la altura de los ojos» = 2 · barrido del léxico de la Carta sobre `cap-29`…`cap-37` = **0 hits** · léxico de paz/descanso/alivio/liberación en todo el libro = 10 hits en 9 ficheros, **ninguno aplicado al acto ni a la muerte** · censo de «dej{ó,a} de + verbo de registro» = **7 en el libro, 4 en el tramo** · referencias a Jean en `cap-34` = **0** · `S-w10-ducha` leído desde `protegidos/spans.json`, no desde números de línea · lista de ficheros `proteccion: total` (son diez y **`cap-41` no es uno de ellos**: es `nucleo`).
+**Verificaciones mecánicas propias (todas hechas hoy, sobre el texto, no sobre informes):** C2 cinturón = 4 · C3 bolsa = 2 · C4 «a la altura de los ojos» = 2 · barrido del léxico de la Carta sobre `cap-29`…`cap-37` = **0 hits** · léxico de paz/descanso/alivio/liberación en todo el libro = 10 hits en 9 ficheros, **ninguno aplicado al acto ni a la muerte** · censo de «dej{ó,a} de + verbo de registro» = **5 estrictas en el libro, 1 en el tramo** (recuento corregido por A2; el mío, 7/4, colaba «dejó de mirar») · referencias a Jean en `cap-34` = **0** · `S-w10-ducha` leído desde `protegidos/spans.json`, no desde números de línea · lista de ficheros `proteccion: total` (son diez y **`cap-41` no es uno de ellos**: es `nucleo`).
 
 ---
 
 ## 0 · El veredicto, arriba, porque el resto son condiciones
 
-**APROBADO CON CORRECCIONES.** I-1, I-2, I-3 y la colocación de §4.1 son admisibles **en los sitios que A2 propone**, con dieciocho condiciones obligatorias y **tres vetos permanentes sobre realizaciones concretas** (§3). Las dos páginas declinadas están bien declinadas y `cap-27` está bien declinado.
+**APROBADO CON CORRECCIONES.** I-1, I-2, I-3 y la colocación de §4.1 son admisibles **en los sitios que A2 propone**, con veintidós condiciones obligatorias y **tres vetos permanentes sobre realizaciones concretas** (§3). Las dos páginas declinadas están bien declinadas y `cap-27` está bien declinado.
 
 **Lo que no se aprueba tal como está escrito:** la sede de I-2. `cap-34:141` no se puede gastar (§2.6). Doy una propuesta mínima que respeta el arco y, a mi juicio, lo mejora.
 
@@ -28,8 +28,8 @@ Manda la cita; el número solo localiza (`b7 §2`).
 | H-1 | `OT-W10-02 §3` y `§6` (cond. 2) | «una chica de **quince** años» (dos veces) | Carta 7 · R6 | **corregir** | **Dieciséis.** El libro lo fija cuatro veces, una en fichero `total`: `cap-05:57` «Tienen dieciséis años», `cap-14:59`, `cap-19:179`, `cap-26:57`. Una orden que dice quince produce prosa que dice quince, y la edad es la vara con que se mide la adultización. Corríjase en la OT antes de escribir. |
 | H-2 | `cap-34` entero | referencias a Jean: **0** | R1 (acumulación) · Carta 1 | **corregir → condición dura** | Sigue en **0** después de I-1 y de I-2. Ni «mamá», ni «su madre», ni el nombre, ni un pronombre que la designe. Comprobable con `grep -c`. Es A7-02-01. |
 | H-3 | `cap-34:141` | «Nora cruzó el cambio del agua con la hora de AK-7 y **mantuvo los minutos que estropeaban el ajuste**.» | `b7 §5` techo 8 (verbo portante) · R3 · R7 | **corregir** | **No es la sede de I-2.** Se conserva literal. Verbo portante `mantener`/conservar, en un capítulo cuyo asunto es una negativa y una ambigüedad de R7: por mi propia regla, eso es método y no tic. Es la única línea del tramo que muestra, en un gesto, la disciplina de la que dependen R3 y R7 —quedarse con el dato que estropea la hipótesis—, y es la razón por la que un lector confía en que esta familia no va a inventarle una causa a su madre. Propuesta en §2.6. |
-| H-4 | `cap-30:293` · `cap-27:71` · `cap-27:151` · `cap-12:135` | «Jean **deja de contar**. La banda no.» · «A mitad de la segunda vuelta **dejó de apuntar**.» · «Jean **dejó de contar** en algún momento y no volvió a empezar.» · «**Nora dejó de escribir.**» | R4 (rimas) · R6 (rima Jean↔Nora) · `b7 §5` | **corregir** | El gesto que I-2 quiere estrenar existe **siete veces en el libro y cuatro en este tramo**; Nora ya lo tiene una vez, Jean dos, y una de las de Jean está a nueve puntos, dentro de la ventana reflexiva, tres líneas antes de «La banda se estrecha por el lado derecho. No avisa.». **Prohibido narrar I-2 con ese verbo** («dejó de anotar / escribir / contar / llevar las horas»). El hueco se muestra por su efecto, no por su anuncio. A7-02-08. |
-| H-5 | `cap-37:163` | «—**Quieren mi cara para vender lo que le hicieron a la suya.**» | R4 · R8 | **vigilar → condición** | Es la única vez que el libro enuncia la rima «una cara usada sin permiso», y la dice Nora sobre sí misma y sobre su madre, a seis puntos de I-1. Después de I-1 esa línea recibe una segunda lectura que nadie ha escrito. Eso es admisible —la rima se queda en rima— **con la condición de que nadie la cierre**: `cap-37:163` no se toca, no se contesta, no se glosa, y no se añade reacción de Jessie alrededor. A7-02-14. |
+| H-4 | `cap-30:293` · `cap-27:71` · `cap-27:151` · `cap-12:135` | «Jean **deja de contar**. La banda no.» · «A mitad de la segunda vuelta **dejó de apuntar**.» · «Jean **dejó de contar** en algún momento y no volvió a empezar.» · «**Nora dejó de escribir.**» | R4 (rimas) · R6 (rima Jean↔Nora) · `b7 §5` | **corregir** | El gesto que I-2 quiere estrenar existe **cinco veces en el libro** (`cap-12:135`, `cap-27:71`, `cap-27:151`, `cap-28:193`, `cap-30:293`) **y una en este tramo**; Nora ya lo tiene una vez, Jean dos, y **la del tramo es de Jean, a tres líneas de «La banda se estrecha por el lado derecho. No avisa.»**. No manda la cuenta: mandan el dueño y la distancia. **Prohibido narrar I-2 con ese verbo** («dejó de anotar / escribir / contar / llevar las horas»). El hueco se muestra por su efecto, no por su anuncio. A7-02-08. |
+| H-5 | `cap-37:165` | «—**Quieren mi cara para vender lo que le hicieron a la suya.**» | R4 · R8 | **vigilar → condición** | Es la única vez que el libro enuncia la rima «una cara usada sin permiso», y la dice Nora sobre sí misma y sobre su madre, a seis puntos de I-1. Después de I-1 esa línea recibe una segunda lectura que nadie ha escrito. Eso es admisible —la rima se queda en rima— **con la condición de que nadie la cierre**: `cap-37:165` no se toca, no se contesta, no se glosa, y no se añade reacción de Jessie alrededor. A7-02-14. |
 | H-6 | `cap-36` (POV Jean · La Jardinera) | «Jean entra por la candidatura. Se queda donde las dos costas no coinciden.» | R7 §4 · Carta 4 · R8 | **VETO preventivo** | Ninguna consecuencia de I-1 ni de I-2 entra, se narra, se conoce ni se refleja en un capítulo de continuidad. §3.3. |
 | H-7 | `OT-W10-02 §5.B` | «**el precio llega como persona:** alguien deja de hablarles, alguien aparece, alguien se va» | Carta 1 · Carta 4 · R8 · R6 | **corregir** | La regla es buena y la hago mía. «**Alguien se va**» no: está literalmente en mi lista de patrones nivel A (`se fue|se ha ido|nos dejó`) y en este libro esa formulación tiene dueño. Mapa de portadores admisibles y prohibidos en §5. |
 | H-8 | `protegidos/spans.json` · `S-w10-ducha` | `fin` = «Al cabo de pocos minutos, la muchacha se durmió por primera vez en una semana sin rondar por las habitaciones.» + `desc`: «**F-6, permanente: nada conecta jamás esta escena con los papeles del día.**» | Carta 6 · Carta 7 · R6 | **confirmado + condición** | La lectura de A2 es correcta y la colocación en `cap-34` resuelve el problema. Pero F-6 sigue vivo y ahora tiene una puerta nueva: el vídeo **es** uno de los papeles del día. Ninguna línea de I-1 mira hacia esa noche. §2.7 y A7-02-05. |
@@ -50,7 +50,7 @@ Manda la cita; el número solo localiza (`b7 §2`).
 
 **No.** Pero no por la razón que da A2, y la diferencia importa porque de ella salen las condiciones.
 
-El argumento de A2 —declinar diez veces seguidas es lo que la vuelve función— es un argumento sobre el estado actual del texto, y es correcto hasta donde llega. No es el que decide. Lo que decide es más estrecho y es comprobable: **Jessie ya es el personaje que actúa en este libro, y siempre le ha costado.** Queda con un adulto anónimo a los dieciséis (`cap-14:59`), se planta delante de un coche en marcha con la cámara levantada (`cap-29:151`) y paga dos horas bajo luces blancas y una investigación, empuja la funda de Gunnar al centro de la mesa (`cap-37:69`) y pulsa (`cap-41:150`). I-1 **no le asigna una función nueva para arreglar un problema de estructura**: continúa una conducta establecida cinco veces, con el mismo coste que las cinco veces anteriores. Un personaje que hace por sexta vez lo que ya hacía no es un símbolo; es un personaje.
+El argumento de A2 —declinar diez veces seguidas es lo que la vuelve función— es un argumento sobre el estado actual del texto, y es correcto hasta donde llega. No es el que decide. Lo que decide es más estrecho y es comprobable: **Jessie ya es el personaje que actúa en este libro, y siempre le ha costado.** Queda con un adulto anónimo a los dieciséis (`cap-14:59`), se planta delante de un coche en marcha con la cámara levantada (`cap-29:151`) y paga dos horas bajo luces blancas y una investigación, empuja la funda de Gunnar al centro de la mesa (`cap-37:69`) y pulsa (`cap-41:151`). I-1 **no le asigna una función nueva para arreglar un problema de estructura**: continúa una conducta establecida cinco veces, con el mismo coste que las cinco veces anteriores. Un personaje que hace por sexta vez lo que ya hacía no es un símbolo; es un personaje.
 
 **Lo que sí la convertiría en símbolo tiene nombre y es evitable.** No es el acto: es lo que el acto le hace hacer al narrador. Se vuelve símbolo si el libro le pone la tesis en la boca o en la cabeza —si ella, o alguien, formula que como no consta responsable individual habrá que poner uno—; y se vuelve caso si el libro la explica. De ahí salen A7-02-02, A7-02-03 y A7-02-04.
 
@@ -111,7 +111,9 @@ Y lo que hace esa línea excede el techo de oficio. Es **la única vez que el li
 
 **Propuesta mínima, y creo que mejora el diseño:**
 
-> **El hueco va de `:111` a `:133`, se descubre en `:133` y se cierra en `:139-141`.** Nora deja de tener las horas durante los veinte minutos que van del cisterna a la pregunta de Maja. Cuando llega «—Hora —pidió Maja.», Nora no la tiene: la da otra boca o un instrumento, en una línea, y nadie comenta. Después vuelve al cuaderno, y `:141` ocurre igual.
+> **El hueco es del reloj, no de la escritura.** Se abre después de `:111`, se descubre en `:133` y se cierra en `:139-141`. Lo que se detiene es la columna de la hora —la tarea que `:101` le asigna: «Nora llevaba las horas»—, no el cuaderno. Cuando llega «—Hora —pidió Maja.», Nora no la tiene: la da otra boca o un instrumento, en una línea, y nadie comenta. Después vuelve, y `:141` ocurre entera.
+
+*(Corrección del 20-ago, tras el hallazgo de A2: la redacción anterior de este párrafo decía «el hueco va de `:111` a `:133`» y era **incompatible con mi propia A7-02-10**, porque `:119` y `:125` caen dentro y las dos son de Nora. La resolución es de A2 y es del texto, no un arreglo: `:101` reparte cuatro tareas —Maja la toma, Aslak el tránsito ordinario, Jessie el acceso, **Nora las horas**— y `:119` («tachó "vigilancia" sin borrar la matrícula») y `:125` («añadió una marca al margen») no son marcas horarias: son juicio, y están por encima de su tarea. Lo que se detiene es lo asignado y lo mecánico —«La página se llenó de horas iguales», `:107`—; lo que sigue es la atención. Eso es mejor que lo que yo propuse.)*
 
 Qué conserva de A2 y qué le añade:
 
@@ -183,16 +185,16 @@ Verificables una a una sobre el texto. Las de I-1 e I-2 las compruebo yo cuando 
 
 **Sobre I-2 (el hueco de Nora)**
 
-- **A7-02-08.** **Prohibido narrar el hueco con el verbo:** ni «dejó de anotar», ni «dejó de escribir», ni «dejó de contar», ni «dejó de llevar las horas», ni variante. El hueco se muestra por su efecto —la página, el lápiz, la hora que no está—, no por su anuncio. *(R4 · R6 · `b7 §5`: la figura está en siete instancias, cuatro en este tramo, una de ellas de Nora y dos de Jean, y una de las de Jean es «Jean deja de contar. La banda no.», tres líneas antes de «La banda se estrecha por el lado derecho».)*
+- **A7-02-08.** **Prohibido narrar el hueco con el verbo:** ni «dejó de anotar», ni «dejó de escribir», ni «dejó de contar», ni «dejó de llevar las horas», ni variante. El hueco se muestra por su efecto —la página, el lápiz, la hora que no está—, no por su anuncio. *(R4 · R6 · `b7 §5`: cinco instancias estrictas, una de Nora, dos de Jean, y **la única del tramo es «Jean deja de contar. La banda no.», a tres líneas de «La banda se estrecha por el lado derecho»**. El motivo es el dueño y la distancia, no el número.)*
 - **A7-02-09.** `cap-34:157` («La mano izquierda se le quedó sobre la rodilla, repitiendo tres posiciones. El pulgar no se movía.») no se amplía, no se repite y **no se convierte en lo que Nora hace en lugar de escribir**. *(R6 rima Jean↔Nora · Carta 6: clasificaría el hueco.)*
-- **A7-02-10.** `cap-34:141` se conserva literal y no es la sede de I-2. `cap-34:119` («Nora tachó "vigilancia" sin borrar la matrícula») y `cap-34:179` («Nora cortó el sonido: la cadencia podía pertenecer a cualquiera») se conservan literales, y sigue siendo ella quien corta el sonido. *(`b7 §5` techo 8 · R6 · R7 §4.)*
+- **A7-02-10.** `cap-34:141` se conserva literal y no es la sede de I-2. `cap-34:119` («Nora tachó "vigilancia" sin borrar la matrícula»), `cap-34:125` («Nora añadió una marca al margen») y `cap-34:179` («Nora cortó el sonido: la cadencia podía pertenecer a cualquiera») se conservan literales, y sigue siendo ella quien corta el sonido. *(`b7 §5` techo 8 · R6 · R7 §4.)*
 - **A7-02-11.** El hueco no empieza en el archivo de audio ni se toca con él. *(R2 · R7 §4.)*
 - **A7-02-12.** El hueco no se clasifica: nadie pregunta, nadie toca, nadie mira **y ninguna línea registra que un adulto se diera cuenta y no preguntara**. La hora que falta en `:133` la da otra boca o un instrumento, en una línea, y nadie comenta. *(Carta 6 · doctrina de `cap-46:121` · `b7 §5` techo 5.)*
 - **A7-02-13.** Nada conecta el hueco con Jean: ni por eco, ni por objeto, ni por cadencia, ni por el cuaderno pautado. Nadie nombra parecido, herencia, destino ni presagio. Nora no queda sola, no va a la barandilla, no mira el agua a oscuras. *(R6 · R4.)*
 
 **Sobre el entorno**
 
-- **A7-02-14.** `cap-37:163` («—Quieren mi cara para vender lo que le hicieron a la suya.») no se toca, no se contesta, no se glosa, y no se le añade alrededor ninguna reacción de Jessie ni ninguna línea que la conecte con lo que hizo su hermana. *(R4 · R8. Ver H-5.)*
+- **A7-02-14.** `cap-37:165` («—Quieren mi cara para vender lo que le hicieron a la suya.») no se toca, no se contesta, no se glosa, y no se le añade alrededor ninguna reacción de Jessie ni ninguna línea que la conecte con lo que hizo su hermana. *(R4 · R8. Ver H-5.)*
 - **A7-02-18.** `cap-41:161` no gana un término nuevo en su enumeración de lo que le hicieron a Jessie, y `cap-41:273` («cayó de lado entre los bancos, con la barbilla baja. No se hizo daño.») no se debilita. *(R6 · C-6.3.)*
 - **C-1.9**, en §2.8, sobre «la habitación encendida».
 
@@ -244,7 +246,7 @@ lo subi[óo]|lo colg[óo] en|lo public[óo]|se hizo viral|en seis horas
 dej[óo] el trabajo|se fue del pueblo|no volvi[óo] a aparecer|no se supo m[áa]s
 ```
 
-3. **Las condiciones de este dictamen son mecánicas cuando pueden serlo.** A7-02-01 es un `grep -c` sobre `cap-34`. A7-02-08 es un `grep` de cuatro sintagmas. A7-02-10, A7-02-14 y A7-02-18 son literales que tienen que seguir existiendo carácter a carácter. A7-02-17 es el barrido de nivel A. Cinco de dieciocho no dependen de que yo esté.
+3. **Las condiciones de este dictamen son mecánicas cuando pueden serlo.** A7-02-01 es un `grep -c` sobre `cap-34`. A7-02-08 es un `grep` de cuatro sintagmas. A7-02-10, A7-02-14 y A7-02-18 son literales que tienen que seguir existiendo carácter a carácter. A7-02-17 es el barrido de nivel A. Cinco de veintidós no dependen de que yo esté.
 
 ---
 
@@ -252,7 +254,7 @@ dej[óo] el trabajo|se fue del pueblo|no volvi[óo] a aparecer|no se supo m[áa]
 
 **No hace falta ejecutar nada en rama para decidir la colocación.** Está decidida arriba y no depende de ver texto: el sitio de I-1 es el mirador, el de I-2 es el mirador con la sede corregida, el de §4.1 es entre `cap-30:273` y `:285`, y el del precio está acotado en §5.
 
-**Sí hace falta que vuelva a mí, como prosa y antes del merge:** §4.1 completa, el párrafo del acto de I-1, la escena del precio y el beat de I-2. Con las cuatro delante se comprueban las dieciocho condiciones en una lectura.
+**Sí hace falta que vuelva a mí, como prosa y antes del merge:** §4.1 completa, el párrafo del acto de I-1, la escena del precio y el beat de I-2. Con las cuatro delante se comprueban las veintidós condiciones en una lectura.
 
 ---
 
@@ -261,14 +263,55 @@ dej[óo] el trabajo|se fue del pueblo|no volvi[óo] a aparecer|no se supo m[áa]
 | objeto | veredicto |
 |---|---|
 | **I-1 · Jessie sube el vídeo, en `cap-34`, en el mirador** | **APROBADO CON CORRECCIONES** (A7-02-01 … 07, 15 … 17; vetos §3.1, §3.2, §3.3) |
-| **I-2 · el hueco de Nora** | **APROBADO CON CORRECCIONES**, con la **sede corregida**: `cap-34:141` se conserva (A7-02-08 … 13) |
+| **I-2 · el hueco de Nora** | **APROBADO CON CORRECCIONES**, sede corregida — **hueco de reloj**, `:119`, `:125` y `:141` conservados (A7-02-08 … 13, 19 … 22; §9) |
 | **I-3 · supresión de `cap-32:253`** | **APROBADO**, con G-4 (reviso el texto cortado) y rebaselinado de `S-n4-caja` |
 | **§4.1 · «La habitación encendida» entre `cap-30:273` y `:285`** | **COLOCACIÓN APROBADA**, C-1.1 … C-1.8 vigentes **+ C-1.9** |
 | **«Nora tocando por gusto» y «Jessie entrenando», fuera del tramo** | **CONFORME** |
 | **`cap-27` declinado, diff 0** | **CONFORME**, y desde mi lado es el mejor resultado disponible |
 | **`I-1b` (borrar las tres copias), fallback** | **No hace falta.** I-1 no cae. |
 
-**Veredicto global: APROBADO CON CORRECCIONES.** Las dieciocho condiciones son obligatorias antes del merge. Los tres vetos de §3 son permanentes y alcanzan a cualquier borrador, resumen o prompt, incluidos los que se van a tirar.
+**Veredicto global: APROBADO CON CORRECCIONES.** Las veintidós condiciones son obligatorias antes del merge. Los tres vetos de §3 son permanentes y alcanzan a cualquier borrador, resumen o prompt, incluidos los que se van a tirar.
+
+---
+
+## 9 · Addendum del 20-ago · confirmación del hueco de reloj y cuatro condiciones más
+
+**Lo confirmo, y la corrección es contra mí.** A2 encontró que mi §2.6 y mi A7-02-10 no cabían a la vez: la ventana que yo propuse (`:111`→`:133`) se come `:119` y `:125`, que son de Nora, y una de ellas la conservo literal en la misma página. Es un fallo de mi dictamen, no de la orden.
+
+**La resolución de A2 es la del propio capítulo y satisface las dos condiciones.** `cap-34:101` reparte cuatro tareas y la de Nora es nombrada: «**Nora llevaba las horas.**» `:119` y `:125` no son marcas horarias —son juicio, y están por encima de lo que le tocaba—. Lo que se detiene es **la columna**, que es lo asignado, lo mecánico y lo que el texto ya ha hecho visible («La página se llenó de horas iguales», `:107`). Es mejor que mi propuesta por tres razones que no son de encaje: conserva las tres líneas portantes intactas; deja que lo que se apaga sea la disciplina y no la atención; y hace que `:141` vuelva con más peso, que era lo que yo quería proteger.
+
+**Y confirmo la consecuencia que A2 deriva, que no estaba ni en su orden ni en mi dictamen:** con el hueco abriéndose antes del acto y cerrándose después, el único suceso de la noche cae en el tramo que el registro no cubre y nadie del libro se entera nunca. **A2 tiene razón en que ese orden es lo único que hace compatibles A7-02-04 y A7-02-12**: si el hueco se abriera después del acto, el lector leería que Nora dejó el reloj *porque* vio algo, y el hueco quedaría clasificado y I-2 convertida en consecuencia de I-1 en vez de en su mitad paralela. Abriéndose antes, no hay lectura causal disponible en ninguna de las dos direcciones.
+
+**Cuatro condiciones que nacen de esa consecuencia, porque es potente y por eso es frágil.**
+
+- **A7-02-19 · Nadie observa la coincidencia.** Ninguna línea —en `cap-34` o después, en cualquier boca, narrador incluido— nota, nombra, insinúa ni cobra que el registro no cubra el acto. **Prohibidas en particular las fórmulas del estribillo**: «no consta», «no quedó constancia», «no figura», «nadie lo anotó», «de aquella media hora no quedó nada». *(R4: una rima enunciada se vuelve ecuación. `b7 §5` techo 4: la figura del anonimato está saturada en once o doce loci, y «No consta responsable individual» es de R7 §5. Escribir aquí el estribillo es que el libro se explique su propia ironía con su frase más cargada.)*
+- **A7-02-20 · La coincidencia es coincidencia.** Jessie no sabe que el hueco existe, no lo espera, no lo usa, y ninguna línea hace que su acto dependa de él. Nadie lo provoca y nadie lo ve ocurrir. *(Carta 7: si el hueco se convierte en un mecanismo que ella aprovecha, la página enseña a actuar donde no hay registro —conducta imitable de riesgo presentada como eficaz— y además la vuelve estratega, que es lo único que la convertiría en símbolo, §2.1.)*
+- **A7-02-21 · Sin escenificación.** Nadie mira el cuaderno durante el acto, nadie menciona la columna, el narrador no se detiene en la página y el lápiz no recibe un beat propio en ese minuto. **El hueco se descubre en `:133` y en ningún otro sitio.** *(La página es de los dos actos; la coincidencia es consecuencia de dónde caen, no un efecto que se monta.)*
+- **A7-02-22 · `cap-34:139` se conserva literal y sin marcar.** «—Compatible —dijo—. Apunta la hora y mañana repetimos.» Sin acotación nueva, sin reproche, sin suavizado, sin miradas que se encuentren. Es una instrucción de trabajo y se queda en una instrucción de trabajo. *(Carta 6 · A7-02-12.)*
+
+### 9.1 · El recuento del verbo: A2 tiene razón y yo tenía un instrumento defectuoso
+
+**Cinco estrictas, no siete; una en el tramo, no cuatro.** Mi regex coló «dejó de mirar» (`cap-34:203`, `cap-48:61`), que no es un verbo de registro. Corregido arriba y en la tabla.
+
+Y quiero dejar escrito el modo de fallo, porque es nuevo en este proyecto. Llevo once instrumentos anotados que **fallaban a la baja y en silencio**. Éste falló **al alza**, y para mí es el peor de los dos: un recuento inflado hace que una prohibición mía parezca mejor justificada de lo que está, y nadie discute a la baja una regla de A7. La prohibición sobrevive, pero sobre el terreno de A2 y no sobre el mío: **no es la cuenta, es el dueño y la distancia** — la única del tramo es de Jean y está a tres líneas de «La banda se estrecha por el lado derecho. No avisa.» Ése es el argumento; el número no lo era. Y el cambio de título de I-2, por contener el verbo prohibido, es correcto: una orden que lo dice produce prosa que lo dice.
+
+### 9.2 · La paráfrasis entrecomillada es peor que las seis direcciones corridas
+
+Las direcciones se corrigen; ésta no se detectaba. `b7` R2 citaba «lo que no se entrega no se borra» como literal de `cap-21:87` y el texto dice «**La medida sin entregar no se borra.**» (verificado hoy). Una dirección corrida es un literal que está en otro sitio; **una paráfrasis entre comillas es un literal que no existe**, y tiene dos modos de fallo que la otra no tiene: quien verifique reportará PERDIDA y podrá concluir que el objeto de la regla se ha borrado del libro; y quien quiera «arreglarlo» tiene delante una frase con aspecto de cita del autor y ninguna forma de saber que no lo es. La segunda es cómo una regla mía acabaría escribiendo prosa.
+
+> **Regla añadida a `b7`, vinculante: dentro de este documento, las comillas significan verbatim. Toda glosa, resumen o paráfrasis va fuera de comillas.** El verificador la hace exigible.
+
+Doy por buenos `herramientas/lib/verificar_b7.py` y su enganche al pre-commit, y la distinción MOVIDA/PERDIDA, que es la que convierte el instrumento en útil. Cuatro `desc` truncados del mismo fallo, encontrados por la máquina después de que yo hallara uno a mano, es exactamente la proporción que cabía esperar y el motivo por el que pedí el verificador.
+
+### 9.3 · El beat del teléfono: A7-02-07 no ordenaba borrarlo, y no quiero que se borre
+
+**Devuelvo la moneda.** Mi condición dice que el teléfono no comparte beat, párrafo ni página con el archivo de audio, que el cierre sigue siendo `:227-231` literal y que nada se escribe después de la última línea. **Eso es separación, no supresión**, y A2 la ha leído más fuerte de lo que está escrita — que es el error que yo mismo advertí en el matiz uno de mi dictamen de iteración 1 («no la apliquéis más fuerte de lo que está escrita»).
+
+**Sitio admisible: la carretera, entre `:195` y `:209`**, antes del embarcadero. Hay un hueco natural en `:203` («Jessie dejó de mirar la pantalla»), y entre ese punto y el archivo median toda la secuencia del muelle, la discusión de la carretera, las mantas, «Zapatos fuera», el cuaderno en el salpicadero y **el apagado de la luz interior** (`:225`) — que es un reinicio de escena en toda regla, porque `:227` la vuelve a encender. Con eso, el lector no puede leer la voz como reacción, reproche ni conocimiento, que era el único daño que yo temía.
+
+**Condiciones:** una sola frase, sin interioridad de Jessie, sin repetición (no hay un segundo aviso más adelante), el teléfono no aparece en cuadro durante el archivo, y Jessie no reacciona al archivo de un modo que se lea como culpa. `:199-201` («—Podríamos haber cortado veinte minutos de mirador.» / «—Y nos faltaría lo que ocurrió al final») **no se toca ni se subraya**: si adquiere una segunda lectura, la adquiere sola.
+
+**El capítulo no se queda sin repercusión.** Y que conste que A2 registrara la pérdida en vez de disimularla: es la razón por la que he vuelto a mirar la condición en lugar de ratificarla.
 
 ---
 
