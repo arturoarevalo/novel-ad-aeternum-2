@@ -38,7 +38,7 @@
 
 Correspondencia vigente:
 
-`cap-01` → **1. Corona** · `cap-02` → **2. La pecera** · `cap-03` → **3. Vacaciones muy largas** · `cap-04` → **4. El ferry** · `cap-05` → **5. Flor** · `cap-06` → **6. La casa sin ella** · `cap-07` → **7. Lote rojo** · `cap-08` → **8. Turno** · `cap-09` → **9. Milisegundos** · `cap-10` → **10. Despedida** · `cap-11` → **11. La primera cita** · `cap-12` → **12. Caries** · `cap-13` → **13. Preservación funcional** · `cap-14` → **14. Gunnar** · `cap-15` → **15. Miles** · `cap-16` → **16. La visita** · `cap-17` → **17. El salero** · `cap-18` → **18. Canela** · `cap-19` → **19. La firma** · `cap-20` → **20. Instituto** · `cap-21` → **21. Cuchillo** · `cap-22` → **22. No determinista** · `cap-23` → **23. NIDHOGG** · `cap-24` → **24. La cuarta nota** · `cap-25` → **25. Coro** · `cap-26` → **26. Auditoría** · `cap-27` → **27. Inventario** · `cap-28` → **28. La canción** · `cap-29` → **29. Accidente** · `cap-30` → **30. EDDA** · `cap-32` → **31. Casa prestada** · `cap-33` → **32. Apartada** · `cap-34` → **33. El mismo trayecto** · `cap-35` → **34. La poda** · `cap-36` → **35. La asamblea** · `cap-37` → **36. El ladrillo** · `cap-38` → **37. La oferta** · `cap-39` → **38. Bajamar** · `cap-40` → **39. Soldagen** · `cap-41` → **40. Caída** · `cap-42` → **41. Cuchillo abre los ojos** · `cap-43` → **42. No soy un modelo** · `cap-44` → **43. Norna** · `cap-45` → **44. Depósito** · `cap-46` → **45. Sombra** · `cap-47` → **46. Acta** · `cap-48` → **47. El siguiente Soldagen**
+`cap-01` → **1. Corona** · `cap-02` → **2. La pecera** · `cap-03` → **3. Vacaciones muy largas** · `cap-04` → **4. El ferry** · `cap-05` → **5. Flor** · `cap-06` → **6. La casa sin ella** · `cap-07` → **7. Lote rojo** · `cap-08` → **8. Turno** · `cap-09` → **9. Milisegundos** · `cap-10` → **10. Despedida** · `cap-11` → **11. La primera cita** · `cap-12` → **12. Caries** · `cap-13` → **13. Preservación funcional** · `cap-14` → **14. Gunnar** · `cap-15` → **15. Miles** · `cap-16` → **16. La visita** · `cap-17` → **17. El salero** · `cap-18` → **18. Canela** · `cap-19` → **19. La firma** · `cap-20` → **20. Instituto** · `cap-21` → **21. Cuchillo** · `cap-w1` → **22. La mosquitera** · `cap-22` → **23. No determinista** · `cap-23` → **24. NIDHOGG** · `cap-24` → **25. La cuarta nota** · `cap-25` → **26. Coro** · `cap-26` → **27. Auditoría** · `cap-27` → **28. Inventario** · `cap-28` → **29. La canción** · `cap-29` → **30. Accidente** · `cap-30` → **31. EDDA** · `cap-32` → **32. Casa prestada** · `cap-33` → **33. Apartada** · `cap-34` → **34. El mismo trayecto** · `cap-35` → **35. La poda** · `cap-36` → **36. La asamblea** · `cap-w2` → **37. Papeletas** · `cap-37` → **38. El ladrillo** · `cap-38` → **39. La oferta** · `cap-39` → **40. Bajamar** · `cap-40` → **41. Soldagen** · `cap-41` → **42. Caída** · `cap-42` → **43. Cuchillo abre los ojos** · `cap-43` → **44. No soy un modelo** · `cap-44` → **45. Norna** · `cap-45` → **46. Depósito** · `cap-46` → **47. Sombra** · `cap-47` → **48. Acta** · `cap-48` → **49. El siguiente Soldagen**
 
 
 **Y sobre los números de línea.** Las citas de este documento (`cap-04:99`) se verificaron una a una el 19 de agosto de 2026. **Los números de línea envejecen: los capítulos crecen y las líneas se desplazan.** Si un número no cuadra, **manda la cita literal, no el número** — por eso cada regla de §3 lleva la frase, y no solo la referencia. Media docena de mis 88 condiciones apuntaban ya a la línea equivocada cuando las revisé para escribir esto, y ninguna había dejado de ser cierta por eso.
@@ -442,3 +442,47 @@ que «íntegro» sobre cero ficheros y sobre el libro entero **son la misma fras
 va— resuelve por forma, y no por vigilancia, dos condiciones que él había escrito, «y no se me
 había ocurrido»; y él aprobó esta sede por lo que **no** tenía, sin haber leído su vecino
 derecho: funciona por algo que **sí** tiene.*
+
+## 8f · Condiciones permanentes de W10 it.4
+
+**A7-it4-C7 · El parentesco de los dos borrados no se enuncia jamás.** Ninguna voz —narrador,
+título de capítulo, cabecera de parte, índice, sinopsis, nota de autor o faja— formula relación
+alguna entre el borrado de La Jardinera («La ruta de `JM-L/0044` se cierra.») y la muerte de
+Jean, ni entre ese borrado y el final de Nieve en `cap-44`. Los dos finales de continuidad del
+libro son opuestos —uno es orden ajena a mitad de frase, el otro es consentimiento— y esa
+oposición se sostiene sola. Enunciarla la convertiría en ecuación, y la ecuación mete la muerte
+de Jean dentro de una escena que no existe. Rige aunque la escisión de W10 it.4 se revierta.
+*(R4 · R8 · R7·4)*
+
+**A7-it4-C8 · Dos capítulos de este libro no comparten título. Y «La firma» no está libre.**
+
+Un título repetido en el índice no es una coincidencia que el lector pueda descartar: es la
+enunciación más fuerte que existe por debajo de una frase, y la hace el libro, no un personaje.
+En este libro además cae sobre lo peor posible.
+
+`cap-19` se titula «La firma» y en él hay dos firmas: la que autorizó la explotación, en `cap-19:33` —
+«La autorización de continuidad consta recibida después de las 03:31 por una pasarela externa. `A. Armstrong` figura como responsable. La exportación no conserva la hora exacta de la firma.»
+— y **una de Jean que nadie puede leer**, en `cap-19:37`:
+«Otra referencia la identifica como signataria. UNN no conserva contenido, antigüedad ni alcance.» Esa segunda es de
+la familia de vacíos que encabeza «Despedida»: un documento de Jean del que no se conserva ni
+el contenido, ni la antigüedad, ni el alcance.
+
+Dar ese mismo título al capítulo donde **una ejecución sí firma, y su contenido sí se conoce**,
+hace tres cosas a la vez, y ninguna se puede hacer:
+
+1. Enuncia la rima entre las dos firmas. *(R4: «Enunciar un eco lo convierte en ecuación».)*
+2. Dice en el índice que quien firma allí es quien firmó aquí, que es responder en la tabla de
+   contenidos a la pregunta que R7·4 deja abierta para siempre. **«No toda» es el techo y no se
+   sube desde el índice.**
+3. Pone una firma legible bajo el mismo nombre que una firma ilegible de Jean. *(R2.)*
+
+**La regla:** ningún capítulo nuevo toma el título de otro. «La firma» está gastada por
+`cap-19` y no se reutiliza. Un título de capítulo tampoco nombra ausencia, pérdida, hueco,
+casilla, jardinera, duelo, memoria, silencio ni final.
+
+*Y una advertencia de método, porque este error lo causé yo.* En el dictamen previo escribí que
+el título debía ser de «registro procedimental, como “La firma”, “Acta” o “Auditoría”», citando
+tres títulos **vivos** del libro como ejemplo del registro. A0 leyó uno de ellos como propuesta
+y lo usó. La lección no es que A0 leyera mal: es que **un ejemplo dentro de una condición se lee
+como parte de la condición.** A partir de aquí, cuando yo restrinja un nombre, doy la
+restricción en negativo y no doy ejemplos. *(R4 · R7·4 · R2)*

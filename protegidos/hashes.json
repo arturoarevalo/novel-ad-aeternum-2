@@ -453,7 +453,7 @@
       "longitud": 57
     },
     "S30-resultado": {
-      "archivo": "capitulos/cap-36.md",
+      "archivo": "capitulos/cap-w2.md",
       "hash": "67870b3ec353afc6e4d92025c1467194d140be136ac06952df4f863eb471bdfa",
       "longitud": 37
     },
@@ -721,7 +721,22 @@
       "archivo": "capitulos/cap-37.md",
       "hash": "9ed68eae7d29cae881bc3128443b33e745e8fdb27c2208827b14be7de62255a8",
       "longitud": 1609
+    },
+    "S-w10-silencio-voto": {
+      "archivo": "capitulos/cap-w2.md",
+      "hash": "fe2cc74458afa23f84cd2f72f14cae3c00c728786e12e2c136822631f8db9a51",
+      "longitud": 138
+    },
+    "S-w10-ausencias-36": {
+      "archivo": "capitulos/cap-36.md",
+      "hash": "5478cec9777af3bd7112cc170407f0bb7a1347509e75f86afb3385b8b6fbaa67",
+      "longitud": 63
+    },
+    "S-w10-fogata": {
+      "archivo": "capitulos/cap-w2.md",
+      "hash": "c59c49b333a72598c6249f0f4e92889a7166eda285f56a487b2cfe40b2efca91",
+      "longitud": 50
     }
   },
-  "generado": "2026-08-20T08:48:16"
+  "generado": "2026-08-20T11:10:30"
 }

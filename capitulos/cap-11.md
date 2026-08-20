@@ -198,12 +198,6 @@ La mujer llenó el vaso de Jessie y lo dejó en su sitio.
 
 —No llevo esa cuenta.
 
-—Alguien la llevará.
-
-—Sí. No os sirve de nada.
-
-—Yo decido si me sirve.
-
 La mujer apoyó las manos en las rodillas.
 
 —Los números que tengo no hablan de vosotras.

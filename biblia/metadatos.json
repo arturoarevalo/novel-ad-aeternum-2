@@ -136,7 +136,7 @@
       "titulo": "La primera cita",
       "archivo": "cap-11.md",
       "palabras": 2065,
-      "palabras_real": 2065,
+      "palabras_real": 2051,
       "origen": "REVISIÓN 10",
       "orden_lectura": 9.5
     },
@@ -367,7 +367,17 @@
       "archivo": "cap-36.md",
       "palabras": 1569,
       "origen": "CAP. 29",
-      "palabras_real": 1569
+      "palabras_real": 1053
+    },
+    {
+      "n": null,
+      "slug": "papeletas",
+      "titulo": "Papeletas",
+      "archivo": "cap-w2.md",
+      "palabras": 0,
+      "palabras_real": 389,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 36.5
     },
     {
       "n": 37,

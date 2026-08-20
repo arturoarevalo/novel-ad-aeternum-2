@@ -212,6 +212,26 @@ def cmd_fundir(args):
     print(f"  hueco documentado en n={hueco}; rangos de partes intactos; renumerar es operación aparte")
 
 
+def cmd_retitular(args):
+    """Sincroniza `titulo` y `slug` del manifiesto con el frontmatter del fichero.
+
+    Existe porque en W10 it.4 A7 vetó un título ya registrado y no había forma oficial de
+    cambiarlo: `registrar` rechaza lo ya registrado y `palabras-real` no toca títulos. El
+    compilado sale bien porque lee el frontmatter, así que el manifiesto se queda mintiendo
+    en silencio — que es el modo de fallo de la casa."""
+    m = aa.load_manifest(); antes = _autor_snapshot(m)
+    arch = os.path.basename(args.archivo)
+    c = next((c for c in m["capitulos"] if c["archivo"] == arch), None)
+    if c is None: sys.exit(f"{arch} no está registrado.")
+    fm, _, _, _ = aa.read_chapter(os.path.join(aa.CAPITULOS, arch))
+    viejo = c.get("titulo")
+    c["titulo"] = fm.get("titulo")
+    c["slug"] = re.sub(r"[^a-z0-9]+", "-", _sin_tildes(str(c["titulo"])).lower()).strip("-")
+    _registrar_gate(args.gate or "sincronización de título", f"retitular {arch}: «{viejo}» -> «{c['titulo']}»")
+    _guardar(m, antes)
+    print(f"{arch}: «{viejo}» -> «{c['titulo']}» (slug {c['slug']})")
+
+
 def cmd_verificar(args):
     m = aa.load_manifest()
     errores, avisos = [], []
@@ -299,13 +319,14 @@ def main():
     p = sub.add_parser("registrar"); p.add_argument("archivo"); p.add_argument("--gate")
     p = sub.add_parser("renumerar"); p.add_argument("--w7", action="store_true"); p.add_argument("--gate-autor")
     p = sub.add_parser("fundir"); p.add_argument("--origen", required=True); p.add_argument("--destino", required=True); p.add_argument("--gate")
+    p = sub.add_parser("retitular"); p.add_argument("archivo"); p.add_argument("--gate")
     p = sub.add_parser("verificar")
     p = sub.add_parser("paratexto"); p.add_argument("archivo")
     sub.add_parser("mostrar")
     args = ap.parse_args()
     {"palabras-real": cmd_palabras_real, "objetivo": cmd_objetivo, "presupuestos": cmd_presupuestos,
      "registrar": cmd_registrar, "renumerar": cmd_renumerar, "verificar": cmd_verificar,
-     "fundir": cmd_fundir,
+     "fundir": cmd_fundir, "retitular": cmd_retitular,
      "paratexto": cmd_paratexto, "mostrar": cmd_mostrar}[args.cmd](args)
 
 if __name__ == "__main__":

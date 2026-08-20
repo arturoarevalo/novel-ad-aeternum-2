@@ -22,3 +22,5 @@
 - 2026-08-19T09:25:41 · renumeración W7 de capitulos[].n y partes[] rangos · motivo: W7, renumeracion unica prevista por el plan (§2.4), ejecutada por A0 bajo la delegacion del autor de 2026-08-18. El libro tiene 48 capitulos tras la escision de cap-n7 en W5, asi que las partes pasan a 1-12, 13-24, 25-36 y 37-48 -- doce cada una -- en vez del 37-47 que preveia CLAUDE.md con 47. El orden de lectura encaja exactamente en los cuatro bloques sin mover un solo capitulo.
 - 2026-08-19T18:20:53 · fundir cap-31.md dentro de cap-32.md: 48 -> 47 capítulos, hueco en n=31 · motivo: OT-W10-01 · A7 2026-08-19
 - 2026-08-20T08:38:00 · registrar cap-w1.md (La mosquitera) orden_lectura 21.5 · motivo: OT-W10-03 · A7 2026-08-20
+- 2026-08-20T10:44:50 · registrar cap-w2.md (La firma) orden_lectura 36.5 · motivo: OT-W10-04 · A7 2026-08-20
+- 2026-08-20T11:10:51 · retitular cap-w2.md: «La firma» -> «Papeletas» · motivo: OT-W10-04 · veto de título de A7

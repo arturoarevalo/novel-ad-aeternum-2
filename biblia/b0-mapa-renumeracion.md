@@ -63,3 +63,30 @@ operación aparte y se hace **una vez y al final**, como en W7.
 **Consecuencia para cualquiera que trabaje con estos ficheros:** a partir de `cap-32`, el
 número de fichero va **uno por delante** del número impreso. `cap-48.md` es el capítulo 47.
 Los números localizan; solo la cita literal instruye y verifica.
+
+
+---
+
+## Segundo cambio de W10 · «La asamblea» se parte en dos (OT-W10-04, 2026-08-20)
+
+`cap-36` «La asamblea» se escinde **por un dinkus que ya estaba en v0** —no se abre una
+costura, se asciende la que puso el autor— en:
+
+| | fichero | orden | palabras |
+|---|---|---|---|
+| A | `cap-36.md` «La asamblea» | 36 | 1.053 |
+| B | **`cap-w2.md` «Papeletas»** | **36,5** | 389 |
+
+Y se suprimen **127 palabras de topografía de playa que añadimos en W2**, incluida la que iba
+a quedar en primera posición del capítulo nuevo: «La arena delante del banco queda libre. Las
+demás se acercan por tramos y dejan a un lado el aro de piedras con su fuego. Las últimas
+esperan detrás, sobre la nieve.» **A7 la vetó ahí** porque reúne el banco, el aro de piedras y
+la nieve —los objetos del duelo de las hijas— abriendo un capítulo justo después de un
+borrado: «un entierro compuesto, en énfasis máximo».
+
+`cap-w2.md` **abre y cierra en prosa del autor**: «Madre abre tres casillas…» y «En el centro,
+la fogata ajena sigue ardiendo sola.»
+
+**Estado de la numeración:** 49 capítulos. Ficheros `cap-01`…`cap-48` **sin `cap-31`**, más
+`cap-w1` (orden 21,5) y `cap-w2` (orden 36,5). Los números de fichero y los impresos ya no
+coinciden en ningún tramo. **Los números localizan; solo la cita literal instruye y verifica.**

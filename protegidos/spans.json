@@ -545,11 +545,11 @@
    "id": "S30-apertura",
    "archivo": "capitulos/cap-36.md",
    "inicio": "Telegrafbukta no alcanza para todas las que la recuerdan.",
-   "desc": "Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla)"
+   "desc": "Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla) · [W10 it.4: A7 avisa de que este desc VA A MENTIR tras la escisión. La geografía protegida aquí es LA DE v0, que sobrevive entera; lo suprimido en it.4 son 127 palabras de TOPOGRAFÍA NUESTRA, posteriores al span y añadidas en W2. En v0 la playa es un diagrama —quién sostiene qué, qué no se atribuye, qué queda en blanco—; lo que añadimos la convirtió en un sitio, y R1 dice que convertir una playa recordada en escenario rompe el punto 1 sin escribir una sola palabra prohibida.]"
   },
   {
    "id": "S30-resultado",
-   "archivo": "capitulos/cap-36.md",
+   "archivo": "capitulos/cap-w2.md",
    "inicio": "`RESULTADO · TESTIMONIO CONDICIONADO`",
    "desc": "Resultado de la votación (RW: intacto)"
   },
@@ -913,6 +913,27 @@
    "inicio": "Nora llevaba el cable de la batería al cobertizo cuando la furgoneta entró en la pista.",
    "fin": "—Antes venía otro —dijo Aslak.",
    "desc": "A7, gate de merge de OT-W10-02. El precio, y llega como PERSONA y no como documento: cero documentos en toda la escena, verificado. El hombre viene a TRABAJAR — si diera miedo, el acto quedaría justificado hacia atrás. P-5: «—Antes venía otro» es lo único que hace legible la pérdida concreta y NUNCA SE AMPLIA. P-7: el hombre aparece una vez y NO VUELVE; no gana nombre, ni desenlace, ni mención posterior; que no lo cobre nadie. Y no hay una sola línea de Jessie en toda la escena, que no lo pedía ninguna condición: es de A3b."
+  },
+  {
+   "id": "S-w10-silencio-voto",
+   "archivo": "capitulos/cap-w2.md",
+   "inicio": "El rechazo cuenta como voto válido contra el uso del canal.",
+   "fin": "Abstenciones, silencios, falta de margen y papeletas incompletas quedan fuera.",
+   "desc": "A7, gate de merge de OT-W10-04. Literal de v0. NO ES REGLAMENTO: ES LA REGLA DE QUE UN SILENCIO NO ES UNA RESPUESTA. Es la formulación, del lado del sistema, de la misma negativa que gobierna el locutorio (R7·7) y el archivo sin abrir. En un capítulo de 389 palabras y sin protección era lo más barato del libro de aclarar, y aclararla -- los silencios cuentan como rechazo -- llegaría hasta el locutorio sin que nadie note que ha llegado."
+  },
+  {
+   "id": "S-w10-ausencias-36",
+   "archivo": "capitulos/cap-36.md",
+   "inicio": "Jean no cuenta esas ausencias como abstención, apoyo ni muerte.",
+   "fin": "Jean no cuenta esas ausencias como abstención, apoyo ni muerte.",
+   "desc": "A7, gate de merge de OT-W10-04. La gemela de S-w10-silencio-voto, y estaba igual de desprotegida. UNA AUSENCIA NO SE CUENTA COMO MUERTE, UN SILENCIO NO SE CUENTA COMO VOTO. Las dos son la misma negativa dicha desde los dos lados de la escisión."
+  },
+  {
+   "id": "S-w10-fogata",
+   "archivo": "capitulos/cap-w2.md",
+   "inicio": "En el centro, la fogata ajena sigue ardiendo sola.",
+   "fin": "En el centro, la fogata ajena sigue ardiendo sola.",
+   "desc": "A7, recomendado en el gate de OT-W10-04. b5 la traía como sin span y tras la escisión es ULTIMA LINEA DE CAPITULO, sin un párrafo detrás que la sostenga. Es la hoguera de cap-28:239-241 -- esa hoguera no era nuestra / nunca lo fue --: un capítulo que termina en el fuego de otros, ardiendo solo, es la nota anti-elegíaca de todo el conjunto."
   }
  ]
 }
