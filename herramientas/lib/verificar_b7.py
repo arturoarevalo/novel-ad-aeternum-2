@@ -112,6 +112,23 @@ def verificar_spans():
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if "--deuda" in sys.argv:
+        # Lista las citas que NO se pueden verificar por literal. A7 se comprometió el
+        # 2026-08-20 a darle un literal a cada una o borrarla antes de la próxima orden que
+        # toque el perímetro. Sin esta lista, «49 sin literal» es un número y no una tarea.
+        d = os.path.join(aa.BIBLIA, "b7-perimetro.md")
+        txt = io.open(d, encoding="utf-8").read()
+        out, _ = verificar_doc(d)
+        sin = [(a, n, m) for est, a, n, r, m in out if est in ("SIN-LITERAL",)]
+        print("DEUDA DE LITERALES · %d citas de %s no verificables\n" % (len(sin), os.path.basename(d)))
+        lineas_doc = txt.split("\n")
+        for a, n, motivo in sin:
+            ctx = ""
+            for i, l in enumerate(lineas_doc, 1):
+                if "`%s:%d`" % (a, n) in l:
+                    ctx = "b7:%d · %s" % (i, l.strip()[:110]); break
+            print("  %-14s %-38s %s" % ("%s:%d" % (a, n), motivo, ctx))
+        sys.exit(0)
     arreglar = "--arreglar" in sys.argv
     docs = args or [os.path.join(aa.BIBLIA, "b7-perimetro.md")]
     fallo = False
