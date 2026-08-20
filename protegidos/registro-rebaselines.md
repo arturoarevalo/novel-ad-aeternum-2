@@ -7,3 +7,4 @@
 - 2026-08-19T18:18:53 · rebaseline · W10 OT-W10-01
 - 2026-08-20T00:29:05 · rebaseline · W10: A7 C-1/C-2 sobre OT-W10-01
 - 2026-08-20T06:03:48 · rebaseline · W10 OT-W10-02 · A7 merge
+- 2026-08-20T07:21:19 · rebaseline · W10: corrección desc S24-once
