@@ -4,12 +4,25 @@
 
 ## 1. El resultado que importa
 
-| | por nominación principal | con secundarias |
-|---|---|---|
-| vF | **INCUMPLE** (cuatro capítulos) | **INCUMPLE** |
-| it1 | CUMPLE | incumple en uno |
-| it2 | CUMPLE | incumple en uno |
-| **it3** | **CUMPLE** | **CUMPLE** |
+| | lectores | por nominación principal | con secundarias |
+|---|---:|---|---|
+| vF | **7** | **INCUMPLE** (cuatro capítulos) | **INCUMPLE** |
+| it1 | 3 | CUMPLE | incumple en uno |
+| it2 | 3 | CUMPLE | incumple en uno |
+| **it3** | **3** | **CUMPLE** | **CUMPLE** |
+
+> **ADVERTENCIA, añadida el mismo día por A2 y verificada: esta tabla no está sostenida.**
+> vF se midió con **siete** lectores y las tres iteraciones con **tres**. A n=3 el criterio
+> **pasa por puro azar** entre el 69 % y el 94 % de las veces —P(tres lectores nombren tres
+> capítulos distintos) = 0,938 sobre un pool uniforme de 48 y 0,691 sobre el pool empírico de
+> nueve capítulos que este jurado nombra de verdad—. A n=7 baja a 0,038, que es donde el
+> criterio tiene potencia y donde vF falló.
+>
+> **El titular «el criterio se cumple entero» no puede afirmarse al tamaño de muestra usado.**
+> Lo que sí queda en pie: el fallo de vF a n=7 es señal (p = 0,038); `cap-31`, `cap-27` y
+> `cap-20` llevan tres campañas sin ser nombrados, que es más información que el bit de
+> pasa/no pasa; y la A/B ciega 5 de 5, el punto de abandono del 40 % al 62 % y el beta que
+> llega al final son evidencia independiente que esto no toca. Medición a n=7 en curso.
 
 **Ningún capítulo del libro es hoy punto de abandono para dos o más lectores.** Es la primera
 vez en todo el proyecto, contando las 48 lecturas frías anteriores y la baseline. Los tres

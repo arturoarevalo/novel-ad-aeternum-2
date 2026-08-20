@@ -355,13 +355,17 @@ siete y media del 26 de noviembre **que no llega a ocurrir**, y su función —s
 ordinario que se interrumpe— **se completa dentro de `cap-03`, por elipsis. Su recogida es que
 no hay recogida.**
 
-**A7-it3-C6 · La sospecha que no se confirma.** La supresión se llevó ~~`cap-14:321`~~ —«Su cara no
-mostró reconocimiento al pasar junto a las gemelas.», **suprimida en W10 it.3 y por eso ya no
-localizable en el manuscrito**—, que era **una de las pocas veces que el
+**A7-it3-C6 · La sospecha que no se confirma.** La supresión de W10 it.3 **NO** se llevó esta línea. «Su cara no mostró reconocimiento al
+pasar junto a las gemelas.» **sobrevivió y hoy está en `cap-14:265`** — el corte se redujo de
+535 a 391 palabras y ésta quedó dentro de las 144 restauradas. *(Este párrafo afirmó lo
+contrario entre el 2026-08-20 y su corrección el mismo día: A0 escribió la condición cuando la
+línea estaba cortada y no volvió sobre ella al restaurarla. Lo encontró A2. Un documento
+vinculante con un hecho falso dentro es peor que uno incompleto.)*, que era **una de las pocas veces que el
 libro monta una sospecha y se niega a confirmarla**, que es la gramática de la que depende R3.
-Su forma canónica registrada es «Y mamá tenía enemigos» (`cap-29:215`). Cortarla no rompió R3:
-**gastó una instancia**. Queda anotado, y con las palabras de A7: era contención de v0
-suprimida para ganar ritmo, «que es la inversión exacta de lo que se me encarga defender».
+Su forma canónica registrada es «Y mamá tenía enemigos» (`cap-29:215`). **No gastó ninguna: la instancia sigue viva.** La condición se mantiene
+igualmente, y ahora como preventiva y no como registro de pérdida — las palabras de A7 sobre
+lo que habría costado siguen valiendo: era contención de v0 que se iba a suprimir para ganar
+ritmo, «que es la inversión exacta de lo que se me encarga defender».
 **Ninguna resta posterior elimina otra sospecha-no-confirmada sin dictamen nuevo.**
 
 **A7-it3-C9 · Los cuatro nombres: cinco loci, y este documento recogía uno.**

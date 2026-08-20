@@ -102,11 +102,20 @@ No es que no hubiera anfitrión: **el anfitrión sería la causa.**
 
 ## 4. La trayectoria del criterio del autor
 
-| campaña | por nominación principal | capítulos que incumplen |
-|---|---|---|
-| vF | **INCUMPLE** | **cuatro**: 31, 20, 27, 15 |
-| it1 | CUMPLE | uno: 15 |
-| it2 | CUMPLE | uno: 15 |
+| campaña | lectores | por nominación principal | capítulos que incumplen |
+|---|---:|---|---|
+| vF | **7** | **INCUMPLE** | **cuatro**: 31, 20, 27, 15 |
+| it1 | 3 | CUMPLE | uno: 15 |
+| it2 | 3 | CUMPLE | uno: 15 |
+| it3 | 3 | CUMPLE | **ninguno** |
+
+**Y la advertencia que hay que leer antes que la tabla.** Las tres iteraciones se midieron con
+**tres** lectores y vF con **siete**. A n=3 el criterio **pasa por azar** entre el 69 % y el
+94 % de las veces; a n=7 baja al 3,8 %. Poner las cuatro filas en la misma columna y leer la
+diferencia como progreso es **mezclar dos instrumentos de potencia distinta**, y lo encontró
+A2 revisando un titular mío. Lo que sobrevive: el fallo de vF a n=7 es señal; los tres
+capítulos nuestros que incumplían llevan tres campañas sin ser nombrados; y la evidencia
+independiente —A/B ciega 5 de 5, abandono del 40 % al 62 %— no depende de esto.
 
 **Los tres capítulos nuestros que incumplían han salido del censo.** El que queda, «Miles», es
 del autor, existe igual en v0 y ninguna oleada lo ha tocado nunca.

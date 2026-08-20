@@ -34,8 +34,25 @@ def verificar_doc(path, arreglar=False):
     out, cambios, usados = [], 0, set()
     for m in REF.finditer(txt):
         arch, num = m.group(1), int(m.group(2))
+        # Una cita TACHADA afirma la proposición CONTRARIA —«este literal ya no está»— y hasta
+        # el 2026-08-20 este script la saltaba sin comprobarla. Modo de fallo nº 23, y nuevo:
+        # no a la baja, ni al alza, ni por el final, sino POR AFIRMACIÓN DE AUSENCIA. Produjo un
+        # hecho falso dentro del único documento vinculante, y una condición de A7 apoyada en él.
+        # Ahora se verifica el reverso: si el literal SIGUE existiendo, la tachadura miente.
         if "~~" in txt[max(0, m.start()-90):m.end()+40]:
-            out.append(("TACHADA", arch, num, 0, "entrada tachada a propósito")); continue
+            ls_t = lineas(arch)
+            lit_t = None
+            izq_t, der_t = txt.rfind("«", 0, m.start()+300), txt.find("»", m.end())
+            ventana = txt[max(0, m.start()-40): m.end()+400]
+            mm = LIT.search(ventana)
+            if mm: lit_t = mm.group(1).strip().strip("…").strip()
+            if ls_t and lit_t and len(lit_t) >= 25:
+                vivos = [i+1 for i, l in enumerate(ls_t) if lit_t in l]
+                if vivos:
+                    out.append(("TACHADA-FALSA", arch, num, vivos[0],
+                                "la tachadura afirma que ya no existe, y existe en :%d" % vivos[0]))
+                    continue
+            out.append(("TACHADA", arch, num, 0, "ausencia declarada, verificada")); continue
         ls = lineas(arch)
         if ls is None:
             out.append(("PERDIDA", arch, num, 0, "el fichero no existe")); continue
@@ -172,7 +189,7 @@ def main():
     fallo = False
     for d in docs:
         out, cam = verificar_doc(d, arreglar)
-        n = {k: sum(1 for r in out if r[0] == k) for k in ("OK","OK-DEBIL","MOVIDA","PERDIDA","SIN-LITERAL","TACHADA")}
+        n = {k: sum(1 for r in out if r[0] == k) for k in ("OK","OK-DEBIL","MOVIDA","PERDIDA","SIN-LITERAL","TACHADA","TACHADA-FALSA")}
         print("%s · %d citas · OK %d (+%d débiles) · MOVIDA %d · PERDIDA %d · sin literal %d"
               % (os.path.basename(d), len(out), n["OK"], n["OK-DEBIL"], n["MOVIDA"], n["PERDIDA"],
                  n["SIN-LITERAL"]+n["TACHADA"]))
@@ -185,6 +202,8 @@ def main():
                 print("   MOVIDA   %s:%d → :%d  «%s»" % (arch, num, real, lit))
             elif est == "PERDIDA":
                 print("   PERDIDA  %s:%d  «%s»" % (arch, num, lit)); fallo = True
+            elif est == "TACHADA-FALSA":
+                print("   FALSA    %s:%d  %s" % (arch, num, lit)); fallo = True
         if cam: print("   (%d números actualizados con --arreglar)" % cam)
     tot, malos = verificar_spans()
     malos += cotejar_descs()
