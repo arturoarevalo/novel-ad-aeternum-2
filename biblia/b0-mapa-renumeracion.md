@@ -75,7 +75,7 @@ costura, se asciende la que puso el autor— en:
 | | fichero | orden | palabras |
 |---|---|---|---|
 | A | `cap-36.md` «La asamblea» | 36 | 1.053 |
-| B | **`cap-w2.md` «La firma»** | **36,5** | 389 |
+| B | **`cap-w2.md` «Papeletas»** | **36,5** | 389 |
 
 Y se suprimen **127 palabras de topografía de playa que añadimos en W2**, incluida la que iba
 a quedar en primera posición del capítulo nuevo: «La arena delante del banco queda libre. Las

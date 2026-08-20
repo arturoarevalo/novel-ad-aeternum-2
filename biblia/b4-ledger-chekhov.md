@@ -255,3 +255,14 @@ Si una oleada toca estas líneas sin querer, el plantado o el pago desaparecen. 
 9. **CH-49 / A5.** El montaje del homenaje usa dos fotos distintas «cedidas por la familia» (34:141-165 con destornillador; 37:23-27 cumpleaños). Coherente; que N-capítulos o expansiones no las fundan en una.
 10. **«Cripta»** (39:193, 40:27) es un nombre que aparece solo al final; no es plantado sino término tardío: B3 debe decidir si se siembra antes (p. ej. en 19 o 34) o se deja como hallazgo del depósito.
 11. **[D1 · A0 2026-08-16] Emisor del audio de 28 (CH-66).** El «campo de origen vacío» de 28:197-199 no es `/0000` (31:73 lo contradiría); candidata Madre/`PROGRESIÓN ESTABLE` (34:113). Canon fijado en B3 §21.3 (CERRADA); registrado en la entrada CH-66.
+
+---
+
+**[W10 it.4, 2026-08-20 · aviso de A5]** `cap-36` se partió en `cap-36.md` y `cap-w2.md`
+«Papeletas». **CH-20 y CH-60 cruzan el corte** y no se han reanclado; `b4-ledger.json` tampoco.
+Y el desfase de este fichero es **mayormente anterior** a esta oleada: CH-77 cita «Buenos días,
+Jean Marie» en `cap-36.md:25-31` y ese contenido no está en la actual «La asamblea», igual que
+CH-80 apuntaba a una línea que hoy dice otra cosa. **Pasada de mantenimiento pendiente,
+verificando por cita literal y no por número.** Queda escrito para que no se pierda, que es lo
+que le pasó a P-41.
+

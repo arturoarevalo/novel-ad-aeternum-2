@@ -378,3 +378,18 @@ Los cinco más graves para el eje Mundo/Trama: F1, F2, F3, F4, F5.
 **[D1 · A0 2026-08-16] Referencias cerradas** de este bloque, para el índice de A0: §21.1 (1.185), §21.2 (CARIES 5-dic ≠ `/0000`, autoría plural F5→C), §21.3 (emisor audio 28 ≠ `/0000`, registrado en B4), §21.4 (F4→C), §21.6 (CH-31/R2, salvo confirmación de autor), §21.7 (tasa AÑOS-JM), §21.8 (llave MIDI en OT-26), §21.9 (regla de capacidad). **Pendiente:** §21.5 (proteger 11:307 vía B5, al fijar spans en G-A1). §21.10 sin cambios.
 
 **[W3 · A1 2026-08-17] Tras G-A2.** Cerrado por la oleada: **F13/CH-1** ~~(N4 escenifica el acto exterior de Coro; §8 fija los tres rasgos)~~ **[W7 · A1 2026-08-19: corregido]** — el espejo de N4 quedó **excindido en W5** (cláusula de reversión de G-A2); **CH-1 se paga en `cap-38:93`** («El resumen no tenía autor.»); **los tres rasgos de §8 quedan RETIRADOS** (venían de la escena excindida). Canon nuevo del sistema: **MEC-25** (aviso de exposición reputacional por proceso, N4; única mecánica nueva; **sobrevive a la excisión**, reanclado a `cap-31:107` **[W10 · OT-W10-01: `cap-31` ya no existe; su material vive en `cap-32.md`]**); **ESCALAR sin cuota** (§3, advertencia dura; N5 lo tuvo que corregir); N5 = 0 mecánicas nuevas. **[W7]** §21.6 (CH-31/R2, ventana reflexiva): **PAGADO** en la cola de `cap-30` (25:225-241/315), ver B4/CH-31.
+
+---
+
+**[W10 it.4, 2026-08-20 · reanclaje obligatorio, lo detectó A5]** `cap-36` «La asamblea» se
+partió en dos por un dinkus de v0: `cap-36.md` (la asamblea, hasta «—Votamos ahora.») y
+**`cap-w2.md` «Papeletas»** (la votación, `orden_lectura` 36,5). **Todos los punteros de este
+documento a `cap-36:169` y posteriores —la regla del voto, «Pesan igual», el resultado, la
+autoridad, la réplica de Coro y el encapsulado de Cuchillo— apuntan hoy a `cap-w2.md`.** Los
+anteriores siguen en `cap-36.md` con un desfase de numeración de línea, porque se suprimieron
+127 palabras de topografía nuestra repartidas por el capítulo.
+
+**Verificar por cita literal y no por número**, que es la regla que este proyecto ha tenido que
+aprender veinticuatro veces. La regla del voto está además protegida por `S-w10-silencio-voto`,
+y su gemela de `cap-36` por `S-w10-ausencias-36`.
+

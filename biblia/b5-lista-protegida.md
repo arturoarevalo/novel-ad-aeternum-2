@@ -265,7 +265,7 @@ Añadidos al final del array `spans` de `protegidos/spans.json` sin alterar ning
 | `S29-2054` | cap-35.md:111 | 121 | plantado (CH-5) | El caso archivado de 2054 (CH-5; se expande en 22, no se altera aquí) |
 | `S29-durante` | cap-35.md:211 | 42 | plantado (CH-70) | Astrid prepara el acta del Soldagen (pagado en 34, 37) |
 | `S30-apertura` | cap-36.md:15 | 57 | geografía (RW del 30) | Apertura del cap. 30: la asamblea ocurre en la playa de La Jardinera (geografía; RW debe conservarla) |
-| `S30-resultado` | cap-36.md:211 | 37 | resultado de la votación (RW del 30) | Resultado de la votación (RW: intacto) |
+| `S30-resultado` | cap-w2.md:211 | 37 | resultado de la votación (RW del 30) | Resultado de la votación (RW: intacto) |
 | `S31-sacar` | cap-37.md:97 | 99 | plantado (CH-32) | Renuncia al «rescate» (pagado en 38: «Elijo quedarme») |
 | `S31-cancion` | cap-37.md:233 | 53 | plantado (CH-67) | Última frase de Jean en el ladrillo (pagado en 37, 40, 41) |
 | `S32-amenaza` | cap-38.md:97 | 42 | plantado (CH-1) | Amenaza de Coro a la familia (CH-1; N4 se construye alrededor, no encima) |
@@ -326,7 +326,7 @@ Cierres de escena o de capítulo sobre objeto inanimado que A1 considera de máx
 | 13 | «El terminal confirmó la clase del carné vigente: `SEGURIDAD · PRESENCIA LOCAL`. Cerró la consulta sin presentarlo a un lector, lo deslizó entre los carnés caducados y cerró el broche.» | cap-29.md:217 | `S24-cierre` (plantado CH-6/16; A4 lo cuenta como tic ya decidido) |
 | 14 | «La cubeta siguió a sus pies hasta que el frío del banco atravesó el pantalón.» | cap-32.md:185 | sin span |
 | 15 | «El lector encendió una luz roja. La barrera permaneció inmóvil.» | cap-33.md:201 | sin span |
-| 16 | «En el centro, la fogata ajena sigue ardiendo sola.» | cap-36.md:241 | sin span (RW del 30: recomendado conservar) |
+| 16 | «En el centro, la fogata ajena sigue ardiendo sola.» | cap-w2.md:241 | sin span (RW del 30: recomendado conservar) |
 | 17 | «La bajamar había dejado al aire otra franja de madera oscura.» / «En la tableta, el quinto hueco no volvió a abrirse.» | cap-39.md:231–233 | `S33-hueco` (233) |
 | 18 | «La cera endureció sobre el acero.» / «Al otro lado siguieron zumbando las bombas.» | cap-45.md:193–195 | sin span |
 | 19 | «En la cena, la tarjeta quedó junto al frutero hasta que Jessie la guardó en la mochila.» | cap-46.md:127 | sin span |
@@ -338,3 +338,14 @@ Recomendación de A1 para los 12 de T5: los siete de ficheros íntegros (1–7) 
 - Los ficheros con `proteccion: nucleo` deben seguir siendo los que contienen algún span; con los 74 nuevos, **cap-02, cap-07, cap-08, cap-12, cap-16, cap-17, cap-18, cap-22, cap-24, cap-34 y cap-35** pasan a tener spans y su frontmatter dice `proteccion: "no"`. Es un campo del plan (no del autor): A1 recomienda que A0 lo actualice a `nucleo` vía `herramientas/inyectar-frontmatter.sh` (o que el validador derive `proteccion` de `spans.json`), para que el hook PreToolUse y las OT lo reflejen.
 - Los hashes de los 74 spans nuevos están en `protegidos/hashes.json` (baseline del 2026-08-16). Retirar cualquiera exige gate de autor.
 - Ningún capítulo ha sido modificado (`git diff --stat` solo toca `protegidos/`).
+
+---
+
+**[W10 it.4, 2026-08-20]** `cap-36` «La asamblea» se partió en `cap-36.md` (A) y **`cap-w2.md`
+«Papeletas»** (B, `orden_lectura` 36,5), por un dinkus que ya estaba en v0. Todo lo que este
+documento sitúa en `cap-36` a partir de «Madre abre tres casillas…» **vive hoy en `cap-w2.md`**
+— reglas del voto, papeletas, resultado, encapsulado de Cuchillo y el cierre en la hoguera.
+`S30-borrado` y `S30-apertura` se quedan en A; **`S30-resultado` pasa a B**. Spans nuevos del
+gate: `S-w10-silencio-voto` y `S-w10-fogata` en B, `S-w10-ausencias-36` en A.
+**Los números localizan; solo la cita literal instruye y verifica.**
+
