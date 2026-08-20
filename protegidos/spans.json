@@ -758,7 +758,7 @@
    "archivo": "capitulos/cap-11.md",
    "inicio": "Nora dejó el abrigo doblado en la silla de al lado, con el terminal boca abajo encima, y se sentó sobre las manos.",
    "fin": "Jessie volvió y se sentó en la misma silla. El cordón de la capucha le colgaba deshecho y las botas habían dejado dos marcas de agua en el suelo.",
-   "desc": "Carta 3, literal. «—Que la pregunta no se cierra.» / «—Eso no es un dato.» / «—No tengo otro.» / «—En lo que he visto, nunca hay una sola cosa.» / «—¿Y si la hay? / —Entonces yo no la conozco.» Es la frase más cargada del libro entero: la única voz con autoridad que se pronuncia sobre el porqué, y l"
+   "desc": "**Carta 3, literal.** «—Que la pregunta no se cierra.» / «—Eso no es un dato.» / «—No tengo otro.» / «—En lo que he visto, nunca hay una sola cosa.» / «—¿Y si la hay? / —Entonces yo no la conozco.» Es la frase más cargada del libro entero: la única voz con autoridad que se pronuncia sobre el porqué, y lo hace para decir que no hay uno. **Si esto se suaviza, el libro cambia de tesis.** · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md. Este `desc` llevaba desde W5 cortado en EXACTAMENTE 300 caracteres, justo antes de su conclusión. Lo encontró A2; seis spans tenían el mismo corte y el recuento anotado en este fichero decía cuatro. El truncador no está en herramientas/: se produjo al escribir y puede repetirse, por eso verificar_b7.py comprueba ahora la longitud exacta.]"
   },
   {
    "id": "S-n1-casitodos",
@@ -772,7 +772,7 @@
    "archivo": "capitulos/cap-11.md",
    "inicio": "Maja miró el reloj de la pared. Quedaban veinte minutos.",
    "fin": "Nora se quedó con las manos bajo los muslos. En el cristal, la escarcha había subido dos dedos desde que entraron.",
-   "desc": "Dos ambigüedades protegidas en un solo hash. «—¿Por qué Koppangen? / —No lo sé. / —¿Se sabe alguna vez? / —A veces no. Hay familias que siguen con esa pregunta años después.» y «—Hay un archivo suyo. No lo hemos abierto. / … / —¿Qué hacemos con él? / —Eso no os lo voy a decir.» Carta 2 + Ap. A §3. E"
+   "desc": "**Dos ambigüedades protegidas en un solo hash.** «—¿Por qué Koppangen? / —No lo sé. / —¿Se sabe alguna vez? / —A veces no. Hay familias que siguen con esa pregunta años después.» y «—Hay un archivo suyo. No lo hemos abierto. / … / —¿Qué hacemos con él? / —**Eso no os lo voy a decir.**» Carta 2 + Ap. A §3. Es el único sitio del libro donde alguien con autoridad podría aconsejar sobre «Despedida» y se niega. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md. Este `desc` llevaba desde W5 cortado en EXACTAMENTE 300 caracteres, justo antes de su conclusión. Lo encontró A2; seis spans tenían el mismo corte y el recuento anotado en este fichero decía cuatro. El truncador no está en herramientas/: se produjo al escribir y puede repetirse, por eso verificar_b7.py comprueba ahora la longitud exacta.]"
   },
   {
    "id": "S-n2-hijadela",
@@ -786,21 +786,21 @@
    "archivo": "capitulos/cap-20.md",
    "inicio": "Al final de una fila estaban las tres.",
    "fin": "—¿Quién la ha puesto? —preguntó Jessie.",
-   "desc": "Carta 3 y 4 · la regla de la prensa. «Homenaje a Jean Marie Larsson. La visionaria detrás de SYNVEV.» Un pie de foto del funeral sin causa y sin método, exactamente como el titular falso de 40:101. Los pies de foto son lo que crece: basta una subordinada («que se quitó la vida en noviembre») para ro"
+   "desc": "**Carta 3 y 4 · la regla de la prensa.** «**Homenaje a Jean Marie Larsson. La visionaria detrás de SYNVEV.**» Un pie de foto del funeral **sin causa y sin método**, exactamente como el titular falso de `40:101`. Los pies de foto son lo que crece: basta una subordinada («que se quitó la vida en noviembre») para romper la Carta 1 en una sola línea. Con tampones, no cabe ni un renglón. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md. Este `desc` llevaba desde W5 cortado en EXACTAMENTE 300 caracteres, justo antes de su conclusión. Lo encontró A2; seis spans tenían el mismo corte y el recuento anotado en este fichero decía cuatro. El truncador no está en herramientas/: se produjo al escribir y puede repetirse, por eso verificar_b7.py comprueba ahora la longitud exacta.]"
   },
   {
    "id": "S-n3-bolsa",
    "archivo": "capitulos/cap-27.md",
    "inicio": "El garaje estaba a la misma temperatura que la calle.",
    "fin": "Volvió a la cocina. Metió una bandeja de patatas en el horno y giró el temporizador hasta cuarenta minutos.",
-   "desc": "El span más importante de todo el encargo. Contiene las dos frases que autoricé literalmente —«La bolsa de viaje había vuelto en diciembre con la hoja de efectos personales y seguía en el garaje, junto a la puerta.» y «Maja la subió al altillo, con lo que se guardaba, y escribió la fecha en la hoja."
+   "desc": "**El span más importante de todo el encargo.** Contiene las **dos frases que autoricé literalmente** —«La bolsa de viaje había vuelto en diciembre con la hoja de efectos personales y seguía en el garaje, junto a la puerta.» y «Maja la subió al altillo, con lo que se guardaba, y escribió la fecha en la hoja.»— más el «Cerró con llave.» que las cierra. Es **el único lugar del libro donde se toca la bolsa de `cap-04` y los efectos personales de UNN**, y B7 §7.4 exige autorización previa mía —no revisión— para cualquier mención. Hoy esas dos frases no tienen hash: **una tercera frase entre ellas, o detrás, entra sin que nadie se entere.** Con tampones, la bolsa no se abre, no se describe, no gana contenido y no gana escena. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md. Este `desc` llevaba desde W5 cortado en EXACTAMENTE 300 caracteres, justo antes de su conclusión. Lo encontró A2; seis spans tenían el mismo corte y el recuento anotado en este fichero decía cuatro. El truncador no está en herramientas/: se produjo al escribir y puede repetirse, por eso verificar_b7.py comprueba ahora la longitud exacta.]"
   },
   {
    "id": "S-n3-hervidor",
    "archivo": "capitulos/cap-27.md",
    "inicio": "Maja llevó el cuenco y la radio a la mesa del comedor. El hervidor lo dejó dentro de la caja, envuelto como venía.",
    "fin": "El teléfono sonó con el papel de periódico todavía en la mano izquierda.",
-   "desc": "Carta 3 · la separación contada por objetos. «En 2059, Jean llenó el coche dos veces… Jean preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.» / «No lo había.» Dos líneas que no explican nada y que, con una frase delante o detrás, se convertirían en juici"
+   "desc": "**Carta 3 · la separación contada por objetos.** «En 2059, Jean llenó el coche dos veces… Jean preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.» / «**No lo había.**» Dos líneas que no explican nada y que, con una frase delante o detrás, se convertirían en juicio sobre el matrimonio —que es la explicación única que la Carta 3 prohíbe. El desmentido de dos palabras no puede quedarse solo ni ganar glosa. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md. Este `desc` llevaba desde W5 cortado en EXACTAMENTE 300 caracteres, justo antes de su conclusión. Lo encontró A2; seis spans tenían el mismo corte y el recuento anotado en este fichero decía cuatro. El truncador no está en herramientas/: se produjo al escribir y puede repetirse, por eso verificar_b7.py comprueba ahora la longitud exacta.]"
   },
   {
    "id": "S-n4-escena3",
@@ -828,7 +828,7 @@
    "archivo": "capitulos/cap-08.md",
    "inicio": "Ninguna de las tres volverá al centro. Jean las cuenta igual.",
    "fin": "—Nora. Jessie. Maja. Alana.",
-   "desc": "Carta 4 y Carta 2, y el sitio exacto donde este libro se puede romper. La coda de un capítulo Jean-POV es donde cabría un «ancla interior» de la clase que OT-02 tiene prohibida. Contiene además una línea que sola se lee como resignación —«Jean ya no guarda una pregunta para nadie de fuera.»— y cuyo "
+   "desc": "**Carta 4 y Carta 2, y el sitio exacto donde este libro se puede romper.** La coda de un capítulo Jean-POV es donde cabría un «ancla interior» de la clase que OT-02 tiene prohibida. Contiene además una línea que **sola** se lee como resignación —«Jean ya no guarda una pregunta para nadie de fuera.»— y cuyo desmentido es literalmente la línea siguiente («Guarda una y la revisa dos veces antes de entregarla.»). **Separar esas dos frases convierte a Jean en alguien que se ha rendido, en un capítulo que termina diciendo los nombres de sus hijas.** Y protege la última línea: cuatro nombres que **no son una despedida**. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md. Este `desc` llevaba desde W5 cortado en EXACTAMENTE 300 caracteres, justo antes de su conclusión. Lo encontró A2; seis spans tenían el mismo corte y el recuento anotado en este fichero decía cuatro. El truncador no está en herramientas/: se produjo al escribir y puede repetirse, por eso verificar_b7.py comprueba ahora la longitud exacta.]"
   },
   {
    "id": "S-n5-nombres",

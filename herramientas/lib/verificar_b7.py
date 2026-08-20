@@ -106,8 +106,15 @@ def verificar_spans():
         elif fin and fin not in t: malos.append((e["id"], "FIN no localizable"))
         elif not ini:              malos.append((e["id"], "span sin campo `inicio`: no verificable por literal"))
         d = str(e.get("desc", ""))
-        if d and re.search(r"\b(de|del|la|el|en|con|por|tras|y)\s*$", d.strip()):
-            malos.append((e["id"], "desc TRUNCADO: «…%s»" % d.strip()[-40:]))
+        # DETECTOR DETERMINISTA. La heurística «acaba en preposición» encontró cuatro de seis:
+        # se le escaparon los dos que el corte dejó terminando en punto, y uno de ellos era el
+        # span que A7 llama «el más importante de todo el encargo». El corte real es de longitud
+        # EXACTA, así que se comprueba la longitud y no la forma. Un `desc` de 300 caracteres
+        # clavados no es una coincidencia: es una amputación.
+        if len(d) == 300:
+            malos.append((e["id"], "desc AMPUTADO en 300 caracteres exactos: «…%s»" % d[-40:]))
+        elif d and re.search(r"\b(de|del|la|el|en|con|por|tras|y)\s*$", d.strip()):
+            malos.append((e["id"], "desc probablemente truncado: «…%s»" % d.strip()[-40:]))
     return len(items), malos
 
 def main():
