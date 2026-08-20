@@ -97,7 +97,7 @@ Ninguno se nombra, cita, adivina, parafrasea, glosa, completa ni «recupera», e
 - **Ninguna voz presenta el final de una continuidad como descanso**, alivio, silencio merecido o resultado preferible. La muerte de Nieve (`cap-44:161-173`) se sostiene sobre «NORNA no ofrece un apagado» y «Echo de menos hasta sus pausas». No es un descanso y no se dice que lo sea.
 - **`cap-37:91-95` («—¿Quieres vivir?» / «—Quiero poder elegir. Es la primera vez.») no se glosa, no se contesta otra vez y no se matiza.** No es un juicio retroactivo sobre el acto.
 - **«Elijo quedarme» (`cap-44:179-193`) no es una enmienda moral del suicidio** y no se convierte en una. Y «No es libertad» se mantiene.
-- **Las rimas se quedan en rima, y esta es la regla más fácil de romper sin darse cuenta.** El libro está lleno de ecos —el blanco de Jean y los blancos fotográficos de `cap-39`; el balón al que hay que meter aire y la oferta `CEDER/CONSERVAR` de `cap-15`; la enfermedad de Mats y el borrado de Jean— y **ninguna voz enuncia el parentesco jamás**. Enunciar un eco lo convierte en ecuación y mete a Jean dentro de una escena que no existe. En particular: **nada pone la enfermedad de Mats y la muerte de Jean en la misma frase, párrafo, escena ni paralelismo**, ni le da a Mats una línea que suene a «yo también sé lo que es que te borren».
+- **Las rimas se quedan en rima, y esta es la regla más fácil de romper sin darse cuenta.** El libro está lleno de ecos —el blanco de Jean y los blancos fotográficos de `cap-15` («Entonces entra el blanco.» / «El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención.») *(decía `cap-39`, que tiene CERO apariciones de «blanc»; quien fuera allí a comprobar R4 habría concluido que no hay nada que proteger — y es justo el capítulo del que se pedían 513 palabras. Corregido el 2026-08-20, lo encontró A7)*; el balón al que hay que meter aire y la oferta `CEDER/CONSERVAR` de `cap-15`; la enfermedad de Mats y el borrado de Jean— y **ninguna voz enuncia el parentesco jamás**. Enunciar un eco lo convierte en ecuación y mete a Jean dentro de una escena que no existe. En particular: **nada pone la enfermedad de Mats y la muerte de Jean en la misma frase, párrafo, escena ni paralelismo**, ni le da a Mats una línea que suene a «yo también sé lo que es que te borren».
 - **La banda de cómputo de `cap-30` es una asignación de cómputo.** Nadie dice de Jean, de su muerte o de su tiempo que «se estrechó», «se acortó», «llegaba entera» o «terminó sin avisar».
 
 ### R5 · El apoyo ayuda poco, despacio, y no cura
@@ -503,3 +503,51 @@ decir, habría puesto en boca del sistema una perífrasis que el sistema no pued
 `cap-40` habría fundido **tres referentes distintos** de «la incidencia», dos de los cuales
 tienen a Tomas dentro: **fundir sus nombres es atribuir por nomenclatura lo que el auto deja en
 blanco** (R7 §5).
+
+
+## 8h · Cuatro promociones al vinculante (W11, exigidas por A7)
+
+**Las tres estaban en informes y no aquí, y por eso A2 no pudo verlas al proponer la poda del
+Nivel A.** Es el tercer caso del modo de fallo de P-41: *una condición que vive en un informe y
+no en el vinculante es una condición que nadie aplicará.*
+
+### 8h.1 · A7-02-10 · Las dos marcas de juicio de Nora
+
+**Se conservan literales, y sin números** porque los suyos ya se han corrido dos veces:
+
+> «Nora tachó «vigilancia» sin borrar la matrícula.»
+> «Nora añadió una marca al margen.»
+
+**No son marcas horarias: son juicio, y están por encima de lo que a Nora le tocaba.** La tarea
+que el capítulo le asigna es la columna de la hora. Que estas dos sobrevivan mientras el reloj
+se para es lo único que hace legible el hueco por contraste. Ninguna poda las toca.
+
+### 8h.2 · El censo de «Nora tachó X», y por qué una ambigüedad se rompe restando
+
+| dónde | qué | carga |
+|---|---|---|
+| `cap-19:97` | «Nora tachó `ORIGEN · UNN`.» | neutro |
+| `cap-34:119` | «Nora tachó «vigilancia» sin borrar la matrícula.» | neutro |
+| `cap-37:143` | «Nora tachó `SACAR A JEAN`…» | **cargado** |
+
+**Los dos neutros no se borran.** Si desaparecen, la proporción pasa de 2:1 a 0:1 y **tachar
+deja de ser el método de Nora para ser una cosa que hizo una vez con el nombre de su madre.**
+
+> *El perímetro sabía que la elipsis se rompe **sumando**. Esto demuestra que **una ambigüedad
+> se rompe restando**.* — A7, 2026-08-20.
+
+### 8h.3 · `CEDIDA POR LA FAMILIA` · una falsedad en voz con autoridad
+
+Va en **monoespaciado**, así que por `A7-W11-C1` **es voz del sistema y por tanto voz con
+autoridad narrativa**. El libro contiene **dos veces una afirmación falsa en voz con autoridad
+sobre la familia de una muerta**, y **su desmentido vive entero en las réplicas de alrededor**.
+Compárese con `cap-46:101`, donde falsedad y desmentido caben en la misma oración: aquí hay
+cincuenta líneas por medio y ni una palabra del narrador. **Ninguna poda reduce esas réplicas
+sin dictamen expreso.**
+
+### 8h.4 · La caldera de `cap-39:79`
+
+Dictamen vigente y literal: **no se toca, no se amplía y no se glosa.** Es el pasaje por cuyo
+respeto se denegó una escena entera en W10 it.3 —la caldera es el objeto **del** modelo, y
+usarla no sería seguirlo sino repetirlo a escala de escena—. **Borrarlo reabre lo que aquel
+veto cerró.**
