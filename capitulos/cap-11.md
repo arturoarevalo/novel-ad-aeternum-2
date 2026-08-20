@@ -328,7 +328,7 @@ Nora se quedó con las manos bajo los muslos. En el cristal, la escarcha había 
 
 —Ya.
 
-Maja repasó lo que quedaba de semana. El lunes trabajaba. Las clases empezaban a las ocho y media y el instituto quedaba a diez minutos a pie. Las dos salían a la misma hora. La compra podía hacerla el domingo por la mañana, mientras ellas dormían. El técnico de la caldera seguía sin venir desde octubre.
+Maja repasó lo que quedaba de semana. El lunes trabajaba. Aslak no firmaba ninguna lectura del corredor que borrase los usos costeros. Las clases empezaban a las ocho y media y el instituto quedaba a diez minutos a pie. Las dos salían a la misma hora. La compra podía hacerla el domingo por la mañana, mientras ellas dormían. El técnico de la caldera seguía sin venir desde octubre.
 
 —El lunes vuelvo al trabajo —dijo—. Ellas comen en casa y yo salgo a las cuatro.
 

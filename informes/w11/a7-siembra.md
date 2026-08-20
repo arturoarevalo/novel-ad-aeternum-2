@@ -284,3 +284,80 @@ fichero), `cap-15`, `cap-44` y `b7-perimetro.md` vigente.*
 *Nota de método, y va en negativo a propósito: en este dictamen no he escrito la oración que se
 va a añadir, ni un ejemplo de ella, porque un ejemplo dentro de una condición se lee como parte
 de la condición y ese error ya lo cometí una vez en esta misma fase.*
+
+---
+
+## 7 · Pase C10 · La cláusula escrita (rama `w11-siembra`, antes del merge)
+
+**Texto sometido, 12 palabras:** «Aslak no firmaba ninguna lectura del corredor que borrase los
+usos costeros.» · `cap-11:331`, colgada de «El lunes trabajaba.», delante de «Las clases
+empezaban…».
+
+**Verificado en fichero, no en el informe de nadie:**
+
+| condición | comprobación | estado |
+|---|---|---|
+| C2(a) dentro del párrafo | `git diff` de `capitulos/` = **una línea, un fichero** | ✔ |
+| C2(b) la caldera se queda última y literal | «El técnico de la caldera seguía sin venir desde octubre.» cierra el párrafo, sin tocar | ✔ |
+| C2(c) hecho, no apetito | sujeto **Aslak**; sin verbo de deseo, sin «mientras/aunque/en vez de», sin adjetivo evaluativo | ✔ |
+| C2(d) no se dice en voz alta | `:333` intacta; Ranveig no se entera; ninguna réplica nueva | ✔ |
+| C2(e) nadie vuelve sobre ello | ningún otro capítulo modificado | ✔ |
+| C2(f) una oración, una vez | 12 palabras, un locus | ✔ |
+| C3 sin `cap-03:125`, sin noviembre, sin código, sin monoespaciado | `grep -c '\`' cap-11.md` = **0** | ✔ |
+| C4 ningún topónimo | Koppangen sigue siendo **1**, `Framsenteret` no entra | ✔ |
+| punteros | `:131`, `:243`, `:299`, `:331`, `:333`, `:421` **en su sitio**; la adición no crea línea | ✔ |
+| spans | `protegidos/hashes.json` cambia **solo el sello de hora**: los 139 hashes recomputados son idénticos | ✔ |
+
+**Las dos cuestiones que A3b somete.**
+
+1. **El solapamiento con `cap-03:125`: se queda, y rechazo la alternativa.** Lo decisivo no es
+   cuántas palabras se repiten, sino que **la sintaxis cambió de evento a hábito**: allí «se
+   negaba a firmar **otra** lectura» apunta a un documento concreto en juego el 26 de noviembre;
+   aquí «no firmaba **ninguna**» es una constante sin fecha. El reconocimiento, si se produce, no
+   devuelve al lector el mensaje sin contestar: le devuelve **«Era la discusión de siempre»**,
+   que es lo que el propio `cap-03` dice. **Des-marca en vez de marcar**, que es lo contrario del
+   marcador de finalidad que C3 prohíbe. «que dejara fuera los usos costeros» pagaría continuidad
+   —dos formulaciones del mismo documento canónico, invitación a que alguien las lea como dos
+   documentos— sin comprar nada: el recuerdo se dispara con Aslak + firmar + usos costeros, y el
+   verbo no interviene.
+2. **`borrase`: sin objeción.** No es token escaso ni marcado: **34 loci en 24 capítulos**, en
+   todos los registros —el cristal que borra a Jean de su reflejo, la sal que borra las marcas,
+   Nora que limpia el borrador, el reinicio que borra la decisión—. No hay cuenta cerrada que
+   perturbar. Y el registro es de Maja: así se nombra este documento en `cap-03:125`, que también
+   es narración sobre un mensaje suyo. `A7-it4-C7` sigue intacta porque **nadie enuncia nada**.
+
+**Lectura de tono, que es la parte que me toca.** Los sujetos del párrafo son ahora: Maja, ella,
+**Aslak**, las clases, el instituto, las dos, la compra, **el técnico**. Dos hombres que no hacen
+algo, y en medio el horario de las hijas. Funciona, y funciona por la razón que A3b no da:
+**«no firmaba» no es un pendiente de Maja**, mientras que «seguía sin firmar» —el calco que
+descartó por oficio— lo habría convertido en uno y habría creado el inventario de cosas sin hacer
+que yo temía. Su razón fue de ritmo; el beneficio es de Carta. Y el largo cae en mitad de la
+lista (5·4·**12**·20·6·16·10), no en la punta.
+
+**Sus dos comprobaciones colaterales, verificadas por mí:** `cap-11` tiene **cero dos puntos** en
+narración y «porque» aparece **una vez, en boca de Nora** (`:197`).
+
+### Veredicto del pase C10 · `APROBADO` · conforme al merge
+
+**Dos correcciones documentales, obligatorias antes de cerrar la fase, que no bloquean este
+merge:**
+
+1. **El `_aviso_numeracion` nuevo de `b3-lexicon.json` es cierto en lo principal y engañoso en la
+   regla que sugiere.** Su ejemplo —`cap-11:33` es hoy `cap-13:33`— es verdadero **por
+   casualidad**, e induce a traducir el capítulo y conservar la línea. **Las líneas también han
+   corrido dentro del capítulo:** su `cap-13:33` («consume el margen con el que Madre habla») es
+   hoy **`cap-15:39`** (+6), y su `cap-13:69` («La tarea reclama toda la capacidad de Madre. El
+   contacto se corta.») es hoy **`cap-15:81`** (+12). Quien siga el aviso al pie de la letra
+   aterrizará mal. La nota debe decir que **ni el capítulo ni la línea son fiables** y que solo
+   la cita literal verifica.
+2. **`b0-mapa-renumeracion.md` afirma que se actualizó «toda `biblia/`».** `b3-lexicon.json` está
+   en `biblia/` y no se actualizó. Es un «OK» falso dentro del documento que existe para explicar
+   la renumeración — la misma especie que M8 de §8e.
+
+**Y lo que no puede quedarse en este informe.** C2(f), C4, C5, C6, C7, C8 y C9 son
+**permanentes**, y hoy viven solo aquí. Por mi propia doctrina —*una condición que vive en un
+informe y no en el vinculante es una condición que nadie aplicará*, tercera vez en esta fase—
+**pasan a `biblia/b7-perimetro.md` antes de cerrar W11**: C6 como cuenta cerrada nueva en §4, el
+resto en una sección §8i. C2(a-e), C3 y C10 se consumieron con este acto y no pasan.
+
+*A7 · pase C10 · 2026-08-20 · rama `w11-siembra`, verificado en fichero.*

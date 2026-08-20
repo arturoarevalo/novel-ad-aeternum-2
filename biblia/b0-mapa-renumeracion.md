@@ -2,7 +2,7 @@
 
 **Los ficheros de `capitulos/` y `ordenes/` pasan a numeración consecutiva `cap-01`…`cap-48` y `OT-01`…`OT-48`, coherente con el orden de lectura y con `capitulos[]` del manifiesto.** Antes convivían `cap-01…cap-41` con `cap-n1…cap-n7` intercalados por `orden_lectura` decimal.
 
-**Qué se actualizó:** `protegidos/spans.json` (los 129 spans), `biblia/metadatos.json` (campo `archivo`), toda `biblia/`, toda `ordenes/`, y el campo `ot` del frontmatter de los 41 capítulos afectados.
+**Qué se actualizó:** `protegidos/spans.json` (los 129 spans), `biblia/metadatos.json` (campo `archivo`), toda `biblia/` **salvo `b3-lexicon.json`, que NO se actualizó y cuyas 311 referencias siguen en la numeración anterior** *(corregido el 2026-08-20: la afirmación original era un «OK» falso dentro del documento que existe precisamente para explicar la renumeración — la misma especie de fallo que este proyecto lleva veinticuatro veces registrando. Lo encontró A7.)*, toda `ordenes/`, y el campo `ot` del frontmatter de los 41 capítulos afectados.
 
 **Qué NO se actualizó, a propósito: `informes/`.** Son el registro histórico del proceso, con fecha, y describen el estado del libro en el momento en que se escribieron. Reescribirlos falsearía el rastro. **Para leerlos, usar esta tabla.**
 
