@@ -23,15 +23,30 @@ La pregunta no era «cuál es mejor libro». Era: **¿lo compras, y qué le dice
 **Seis de seis idénticos.** Las dos versiones se compran, con condiciones, y las dos encuentran
 editor. En esta pregunta **no hay diferencia medible**.
 
-## Y donde sí difieren, no favorece a la actual
+## Y donde parecía que diferían, no difieren
 
-**La extensión.** A v0 le piden cortar 35–60 páginas. A la actual, **70–90**. El libro creció
-un 29 % y el reproche de longitud creció con él. *(Nota: los editores estiman el número de
+**La extensión.** *(Corregido el 2026-08-20 por A2, y era un artefacto mío.)* En páginas
+absolutas, a v0 le piden 35–60 y a la actual 70–90. **Pero en proporción le piden lo mismo:
+mediana 12,7 % a v0 y 11,3 % hoy** — es decir, **bajó 1,4 puntos, no subió**. Y la dispersión
+*entre los tres lectores de una misma versión* (de 9,1 % a 17,0 %) es **cinco veces y media
+mayor** que la diferencia entre versiones. Comparar páginas absolutas entre dos libros de
+distinto tamaño no mide nada. La frase original decía «el reproche de longitud creció con él»
+y **era falsa**. *(Nota: los editores estiman el número de
 páginas muy por encima del real —a v0 le calculan 105.000 palabras cuando tiene 63.000—, así
 que las cifras absolutas no valen; la comparación relativa dentro de cada lectura, sí.)*
 
 **La confianza en que se venda.** v0: *«Sí, encuentra editor sin nosotros, y bastante rápido»*.
-La actual, uno de los tres: *«Sí, encuentra editor. **Pero no el primero, ni el segundo.**»*
+La actual, uno de los tres: *«Sí, encuentra editor. Pero no el primero, ni el segundo.»* Es una
+sola voz de seis y no sostiene una diferencia.
+
+---
+
+> **NOTA POSTERIOR, DEL MISMO DÍA, Y CAMBIA EL VEREDICTO DE ESTE INFORME.** Los seis veredictos
+> de `COMPRAR CON CONDICIONES` **los producía la rúbrica, no los manuscritos**. Pedía «el trabajo
+> editorial que exigirías antes de publicar» —que todo libro tiene— y ofrecía «con condiciones»
+> como opción: quien acaba de escribir esa lista no puede marcar `COMPRAR` sin contradecirse.
+> Con la rúbrica corregida, **tres de tres dan `COMPRAR` sin condiciones y declaran vacía la
+> lista de exigencias**. Detalle y controles en `informes/w11/m0m1m2-veredicto.md`.
 
 ## Lo único que sí cambia, y es cualitativo
 
