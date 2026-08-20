@@ -56,13 +56,33 @@
 
 ## Estado
 
-- **Fase actual: W10, autónoma, autorizada por el autor el 2026-08-19. Contrato: `plan-w10.md` — A0 LO LEE ÍNTEGRO AL ARRANCAR, junto con `informes/w10/estado.json`.** Objetivo: 9,0 en los diez ejes y en la nota global. Se ejecuta **sin intervención humana**, iterando cuantas veces haga falta, y entrega `informes/w10/informe-final.md`.
-- **En W10 CAE la restricción estructural**: se pueden fundir, partir, mover, cortar y escribir capítulos, abrir los diez ficheros que eran `proteccion: total` y reescribir prosa del autor. Los hashes pasan de cerradura a **registro** (`proteger.sh baseline --rebaseline --gate "W10: …"` tras cada cambio consciente). Se pueden modificar herramientas y agentes.
-- **Lo único que NO cae: `biblia/b7-perimetro.md` y el veto de A7, que sigue siendo absoluto.** No es restricción de oficio: el libro le promete al lector en su primera página que el acto no se describe en ninguna página, y ese aviso está congelado por hash. «Despedida» no se abre; Kongsbakken no se escribe; la bolsa no reaparece.
-- **El dato que gobierna la fase.** En 48 lecturas frías de todas las versiones, v0 incluida: **estructura (máx. 8,5), trama (8,5), ritmo (8,0) y la nota global (8,5) NO han llegado a 9 ni una sola vez.** Los otros seis ejes sí. Los cuatro que faltan son los estructurales, y la estructura es lo que esta fase desbloquea por primera vez. Un «no se puede» documentado vale más que un 8,5 sin explicar.
-- **Bucle:** `herramientas/w10-campana.sh <etq>` (compila · sondas · tres críticos + **control de deriva sobre v0 el mismo día** · medianas · guardia de regresión de ±0,5 · estado) → diagnóstico con **`a2-arquitecto`** (agente nuevo, sin restricción estructural) → intervención → verificación (A5, **A7 si toca su perímetro**) → remedición. Si el eje objetivo no sube fuera del ruido, **se revierte** y se anota el callejón. `herramientas/lib/w10_estado.py` es la memoria entre sesiones.
-- **Se para** con los once ejes en 9,0; o con **tres iteraciones seguidas sin mejora fuera del ruido**; o ante una **regresión en `duelo` o `tema`**; o ante un veto de A7 sin arreglo mínimo.
-- **Estado del libro: 47 capítulos, 79.248 palabras, en banda.** (W10 it.1 fundió `cap-31` en `cap-32`; hay un hueco deliberado en la numeración, documentado en `biblia/b0-mapa-renumeracion.md`: a partir de `cap-32` el número de fichero va uno por delante del impreso.) Al entrar en W10 eran 48 capítulos y 79.794 palabras. Ficheros y órdenes renumerados a `cap-01`…`cap-48` y `OT-01`…`OT-48`, coherentes con el manifiesto; tabla de equivalencia en `biblia/b0-mapa-renumeracion.md` (los siete capítulos nuevos del plan son hoy el **8, 11, 17, 20, 27, 31 y 47**). M7 0 · M9 10 ficheros y 129 spans · M10 100 % · frontmatter 0 avisos · cuotas = recuento real.
-- **Resultados que W10 hereda y no debe repetir.** Global 8,5 y ritmo 7,5 en vF, igual que v0: **la rúbrica no distingue vF de v0**, y está medido que el mismo juez varía hasta un punto entero sobre texto idéntico. Lo que sí se movió: **la A/B ciega da 5 de 5 a vF**, el punto de abandono pasó del 40 % al 62 % del libro, y el lector beta que abandonaba en el capítulo 15 llega ahora al final. **Los tres puntos de abandono de vF son capítulos nuestros** (hoy el 27 y el 31). Y la prosa de los siete capítulos nuevos **no se distingue**: prueba ciega con 1,75 aciertos de 7 contra un azar de 3,5.
-- **Once instrumentos del proyecto resultaron medir algo distinto de lo que decía su nombre, y los once fallaban a la baja y en silencio.** Suponer que los que quedan están bien sería el duodécimo. Detalle en los gates de W4-R a W9.
-- Última versión aceptada: **vF** (`compilado/ad-aeternum-vF.md`). Baseline congelada: v0 (tag), 62.750 palabras, 41 capítulos.
+- **W10 CERRADA el 2026-08-20.** Entregable: `informes/w10/informe-final.md`. Cinco
+  iteraciones, once campañas de lectura fría, sesenta y cuatro commits.
+- **El objetivo original —9,0 en los once ejes— era una propiedad de la VARA y no del libro:**
+  con una rúbrica corregida cuyas reglas escribió el propio jurado, **v0 intacto saca 9,5 de
+  global**. El plan preveía este caso (§4b.3) y ordenaba replantear. Se replanteó al criterio
+  del autor del 18 de agosto: «ningún capítulo nombrado como punto de abandono por dos o más
+  lectores en el mismo hito».
+- **Resultado, medido a n=7 con los mismos siete roles que midieron vF:** en vF incumplían
+  `cap-31`, `cap-27` y `cap-20` —los tres nuestros— más `cap-15`; hoy incumple **solo `cap-09`
+  «Milisegundos», del autor y declarado techo con aritmética**. La formulación es de A2:
+  *«quitamos lo nuestro y debajo estaba lo que siempre hubo»*.
+- **Estado del libro: 49 capítulos, 80.679 palabras, en banda.** Amplitud de capítulo 1,36 →
+  **2,06**. M7 0 · M9 10 ficheros y 139 spans · M10 100 % · validador 0 avisos. Ficheros
+  `cap-01`…`cap-48` **sin `cap-31`**, más `cap-w1` (orden 21,5) y `cap-w2` (36,5).
+  **Renumeración pendiente: se hace una vez y al final.**
+- **La rúbrica está MUERTA como instrumento de decisión, y demostrado:** el control de deriva
+  sobre v0 —texto intacto— dio estructura 8/8/8,5/8, trama 8/8/8/8,5 y **duelo 9,5/9,5/9,5/9**
+  en cuatro campañas. `duelo` es condición de parada del plan, y bajó sobre texto que nadie
+  tocó. Ningún movimiento de ±0,5 es interpretable.
+- **El criterio de abandonos solo tiene potencia a n=7** (P de pasar por azar: 0,94 a n=3;
+  0,038 a n=7). Toda medición a n=3 queda marcada como no comparable.
+- **Veinticuatro instrumentos rotos, trece de esta fase.** Ninguno lo detectó una métrica.
+  Detalle en `informes/w10/informe-final.md` §4. El peor: `aa.chapter_paths()` veía 47 ficheros
+  de 48, así que un capítulo nuevo era invisible para toda la cadena **mientras todas las
+  herramientas informaban «OK»**.
+- **Decisiones abiertas para el autor** (§6 del informe): la duplicación «El salero» ↔ «La
+  mosquitera», medida y conservada; Kongsbakken, que es el techo real del libro y lo veta el
+  perímetro; la renumeración; y la deuda de literales de `b7`.
+- Última versión: **`compilado/ad-aeternum-w10it4.md`**. Baseline congelada: v0 (tag), 62.750
+  palabras, 41 capítulos.
