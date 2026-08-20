@@ -322,7 +322,7 @@
    "id": "S12-temblor",
    "archivo": "capitulos/cap-14.md",
    "inicio": "Gunnar dejó la taza donde estaba y escondió la mano debajo de la mesa. Nora tardó un instante en entender que le temblaban los dedos.",
-   "desc": "El temblor de dedos como dato central (tabla 5.1, cap. 12)"
+   "desc": "El temblor de dedos como dato central (tabla 5.1, cap. 12) · [W10 it.3, 2026-08-20 · HALLAZGO DE A7 EN EL GATE, y hay que leerlo antes de tocar este span: la excisión de cap-14:255-321 NO le da más peso relativo a este span, LE QUITA SU UNICO PAGO. «—Le temblaban los dedos. La tarjeta se queda envuelta.» (cap-14:317) estaba dentro del bloque cortado, y era el único lugar del libro donde el temblor se convierte en decisión. Un grep de residuo devolvía coincidencia porque la palabra sigue en el manuscrito; lo que desapareció fue la RECOGIDA. A7: «si ejecutas el corte creyendo que S12-temblor gana peso, ejecutas otra cosa distinta de la que has decidido». Se ejecutó con esto sabido y escrito.]"
   },
   {
    "id": "S12-nidhogg",
@@ -765,7 +765,7 @@
    "archivo": "capitulos/cap-11.md",
    "inicio": "En la mesa, el cerco de un vaso anterior todavía no se había secado.",
    "fin": "Jessie tenía las manos metidas en las mangas.",
-   "desc": "Carta 6 · la vacuna antiestadística. «Casi todos los que se sientan aquí están enfadados con quien ha muerto… Yo no vengo a quitároslo.» / «—¿Casi todos son cuántos? / —No lo he contado. / —Entonces no diga \"casi todos\". / —De acuerdo.» Es el techo que yo mismo cité en P-66 para cualquier escena de … [TRUNCADO EN ORIGEN. Detectado el 2026-08-20 por herramientas/lib/verificar_b7.py, que se escribió justo para esto. No se ha podido reconstruir qué decía; se deja constancia en vez de inventarlo, como en C-6 de A7. Es el cuarto `desc` que aparece cortado a media palabra en este fichero.]"
+   "desc": "**Carta 6 · la vacuna antiestadística.** «Casi todos los que se sientan aquí están enfadados con quien ha muerto… Yo no vengo a quitároslo.» / «—¿Casi todos son cuántos? / —No lo he contado. / —Entonces no diga \"casi todos\". / —De acuerdo.» Es el **techo que yo mismo cité en P-66** para cualquier escena de apoyo futura. Un techo que no está hasheado es un techo que se puede subir. (`—De acuerdo.` aparece 2× en el fichero: por eso los extremos son los tampones, que sí son únicos.) · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md, que es el informe que lo originó. Antes llevaba una nota que decía «no se ha podido reconstruir»: A7 la señaló como MÁS DAÑINA QUE EL TRUNCAMIENTO, porque un desc cortado invita a mirar y uno con certificado de defunción clausura la búsqueda. Sí se podía: estaba verbatim en el mismo fichero del que salieron los otros seis.]"
   },
   {
    "id": "S-n1-koppangen-archivo",
@@ -779,7 +779,7 @@
    "archivo": "capitulos/cap-20.md",
    "inicio": "Una voz sonó dos taquillas más allá.",
    "fin": "El pasillo se paró.",
-   "desc": "Carta 1 · la frase que no se termina. «—Esa es la hija de la que… / Jessie se puso delante antes de que terminara.» El estigma entra sin que el acto se nombre, y quien lo impide es la hija. Si alguna oleada «completa» la frase, el método o el acto entran por boca de un adolescente y sin coste. Es el … [TRUNCADO EN ORIGEN. Detectado el 2026-08-20 por herramientas/lib/verificar_b7.py, que se escribió justo para esto. No se ha podido reconstruir qué decía; se deja constancia en vez de inventarlo, como en C-6 de A7. Es el cuarto `desc` que aparece cortado a media palabra en este fichero.]"
+   "desc": "**Carta 1 · la frase que no se termina.** «—Esa es la hija de la que… / Jessie se puso delante antes de que terminara.» El estigma entra sin que el acto se nombre, y quien lo impide es la hija. Si alguna oleada «completa» la frase, el método o el acto entran por boca de un adolescente y sin coste. Es el locus más frágil de los seis capítulos. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md, que es el informe que lo originó. Antes llevaba una nota que decía «no se ha podido reconstruir»: A7 la señaló como MÁS DAÑINA QUE EL TRUNCAMIENTO, porque un desc cortado invita a mirar y uno con certificado de defunción clausura la búsqueda. Sí se podía: estaba verbatim en el mismo fichero del que salieron los otros seis.]"
   },
   {
    "id": "S-n2-homenaje",
@@ -807,7 +807,7 @@
    "archivo": "capitulos/cap-32.md",
    "inicio": "Jessie abrió el vídeo en el teléfono y buscó el primer fotograma. La hora estaba grabada en la esquina, en el mismo formato que el recibo de la comisaría. Era la del domingo.",
    "fin": "Jessie se la dio y volvió a coger el teléfono.",
-   "desc": "P-38 + P-64 en un solo hash, y P-65 (a) hecha mecánica. Cubre las cuatro réplicas del coste de Jessie («—¿Cuándo acaba lo mío?… —Tampoco lo dice.») y la lectura en voz alta de «No consta responsable individual.» con la pregunta «—¿Y les sale la misma frase?» que nadie contesta. Tras la operación de … [C-6 de A7: la frase estaba TRUNCADA a media palabra en `main`, y así llevaba desde W5. No se ha podido reconstruir qué decía; se deja constancia en vez de inventarla. Es el mismo modo de fallo que produjo F-5 y K-4, en este mismo fichero.]"
+   "desc": "**P-38 + P-64 en un solo hash, y P-65 (a) hecha mecánica.** Cubre las cuatro réplicas del coste de Jessie («—¿Cuándo acaba lo mío?… —Tampoco lo dice.») **y** la lectura en voz alta de «No consta responsable individual.» con la pregunta «—¿Y les sale la misma frase?» que **nadie contesta**. Tras la operación de hoy, esa pregunta es la única figura viva del capítulo: nadie puede responderla ni ejecutarla una segunda vez. Byte-idéntico desde W3; el span solo formaliza lo que A0 ya ha prometido dos veces. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md. Antes llevaba una nota mía diciendo «no se ha podido reconstruir», que A7 señaló como MÁS DAÑINA QUE EL TRUNCAMIENTO: un desc cortado invita a mirar, uno con certificado de defunción clausura la búsqueda. Sí se podía. Y lo que faltaba contenía una prohibición viva.]"
   },
   {
    "id": "S-n4-caja",
@@ -842,7 +842,7 @@
    "archivo": "capitulos/cap-47.md",
    "inicio": "El funcionario juntó las copias que le sobraban.",
    "fin": "—Nos han escuchado por lo de Armstrong —dijo Seppola.",
-   "desc": "Ap. A §3 · la identidad ontológica, y «No toda» como techo. «—Desde que el activo… desde que la persona reclamó su nombre, la costa interesa a mucha gente.» / «Nadie lo corrigió.» Un funcionario se autocorrige a media frase y la sala lo deja pasar: es la formulación más económica de la ambigüedad en … [TRUNCADO EN ORIGEN. Detectado el 2026-08-20 por herramientas/lib/verificar_b7.py, que se escribió justo para esto. No se ha podido reconstruir qué decía; se deja constancia en vez de inventarlo, como en C-6 de A7. Es el cuarto `desc` que aparece cortado a media palabra en este fichero.]"
+   "desc": "**Ap. A §3 · la identidad ontológica, y «No toda» como techo.** «—Desde que el activo… desde que la persona reclamó su nombre, la costa interesa a mucha gente.» / «**Nadie lo corrigió.**» Un funcionario se autocorrige a media frase y la sala lo deja pasar: es la formulación más económica de la ambigüedad en todo el libro. Basta que alguien conteste —en cualquier dirección— para cerrarla. · [RESTAURADO el 2026-08-20 desde informes/a7-w5d-n4.md, que es el informe que lo originó. Antes llevaba una nota que decía «no se ha podido reconstruir»: A7 la señaló como MÁS DAÑINA QUE EL TRUNCAMIENTO, porque un desc cortado invita a mirar y uno con certificado de defunción clausura la búsqueda. Sí se podía: estaba verbatim en el mismo fichero del que salieron los otros seis.]"
   },
   {
    "id": "S-n6-cartel",

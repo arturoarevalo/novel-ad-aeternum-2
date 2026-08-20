@@ -339,3 +339,102 @@ Para quien necesite el razonamiento original. Los informes están en `informes/a
 **Firmado, A7 · sobre el manuscrito renumerado de 48 capítulos y 79.772 palabras · 2026-08-19.**
 
 *Nota final para quien tenga que usar esto solo. Las nueve reglas no protegen un tema: protegen una decisión que el libro tomó antes de que yo llegara. Este libro elige no saber. No sabe por qué, no sabe qué decía el archivo, no sabe qué es lo que contesta al otro lado del locutorio y no sabe si sufrió. Cada vez que alguien intente ayudarlo a saber —con la mejor intención, para cerrar, para consolar, para responder a un crítico— estará quitándole lo único que lo hace decente. Si un día hay que elegir entre una de mis reglas y esa frase, quédese con la frase.*
+
+## 8d · Condiciones permanentes de W10 it.3
+
+**A7-it3-C5 · Los dos restaurantes.** `cap-03:313` —«—Para cenar. El indio de Storgata»,
+fichero `total`— y la fuga de `cap-14` por ese mismo restaurante formaban una rima que **nadie
+ha enunciado nunca**. La fuga se suprimió en W10 it.3. **Nadie enuncia jamás el parentesco de
+los dos restaurantes** —ni una línea de retorno, ni un reconocimiento, ni una nota, ni una
+faja—, porque enunciar un eco lo convierte en ecuación (R4) y **esta ecuación en concreto mete
+los cuerpos de las gemelas dentro del itinerario del 26 de noviembre**. Y la fuga suprimida
+**no se replanta en otro sitio «para compensar»**.
+
+*Razón por la que el corte no la orfanó:* `cap-03:313` no es una siembra. Es una cena de las
+siete y media del 26 de noviembre **que no llega a ocurrir**, y su función —ser el futuro
+ordinario que se interrumpe— **se completa dentro de `cap-03`, por elipsis. Su recogida es que
+no hay recogida.**
+
+**A7-it3-C6 · La sospecha que no se confirma.** La supresión se llevó ~~`cap-14:321`~~ —«Su cara no
+mostró reconocimiento al pasar junto a las gemelas.», **suprimida en W10 it.3 y por eso ya no
+localizable en el manuscrito**—, que era **una de las pocas veces que el
+libro monta una sospecha y se niega a confirmarla**, que es la gramática de la que depende R3.
+Su forma canónica registrada es «Y mamá tenía enemigos» (`cap-29:215`). Cortarla no rompió R3:
+**gastó una instancia**. Queda anotado, y con las palabras de A7: era contención de v0
+suprimida para ganar ritmo, «que es la inversión exacta de lo que se me encarga defender».
+**Ninguna resta posterior elimina otra sospecha-no-confirmada sin dictamen nuevo.**
+
+**A7-it3-C9 · Los cuatro nombres: cinco loci, y este documento recogía uno.**
+
+`S-n5-coda` protege «cuatro nombres que **no son una despedida**», y W5-A7 llamó a ese sitio
+«el lugar exacto donde este libro se puede romper». La figura tiene **cinco** apariciones, y
+hasta hoy `b7-perimetro.md` solo registraba la derivada de `cap-30`. Faltaban **el origen** y
+**la más cargada**. Mismo modo de fallo que P-41: una condición que existe en un informe y no
+en el vinculante es una condición que nadie aplicará.
+
+| dónde | qué dice | papel |
+|---|---|---|
+| `cap-07:33` | «Nora. Jessie. Maja. Alana.» | **el origen**, sin glosa |
+| `cap-08:55` | «Al final de cada serie repite cuatro nombres en el mismo orden. Es lo único del turno que no clasifica nada.» | la regla, enunciada una vez |
+| `cap-08:281` | «—Nora. Jessie. Maja. Alana.» | la coda protegida por `S-n5-coda` |
+| `cap-30:247` | «Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas.» | el único registrado hasta hoy |
+| `cap-30:345` | «Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.» | **la más cargada, y no constaba** |
+
+**La regla:** los cuatro nombres **no son una despedida y nadie los lee como tal**. No se
+glosan, no se explican, no se cuentan, no se les añade un quinto ni se les quita uno, y
+**ninguna voz —narrador incluido— observa que Jean los repita**. `cap-30:345` es el locus que
+más cerca está de romperse, porque es el único que enuncia la ausencia de la serie: **no gana
+ni una palabra, ni delante ni detrás.**
+
+*Nota de método, del mismo día: la primera versión de esta tabla puso **negritas dentro** de
+dos citas verbatim, y el verificador la rechazó en el hook de pre-commit. Es la regla que A7
+acababa de fijar —dentro de este documento las comillas significan verbatim y toda glosa va
+fuera— aplicada contra quien la escribió, el mismo día, por una máquina. Así es como se
+supone que funciona.*
+
+## 8e · «La mosquitera» · condiciones permanentes M1–M8 (W10 it.3)
+
+A7 aprobó el capítulo **sin una sola corrección de texto** —la primera vez en toda la fase— y
+escribió estas ocho porque **lo frágil no es el texto: es su futuro**. El capítulo pasa por
+siete propiedades que un editor bienintencionado retiraría creyendo que lo mejora.
+
+**M1 · El desecho no se comenta.** Jean apila basura ajena en mesa ajena durante trabajo
+ajeno: eso retrata exclusión, no despedida. No hay un tercero que lo mire y **nadie lo comenta
+jamás**. En cuanto alguien lo nombra, se vuelve puesta en orden.
+
+**M2 · La exactitud de Maja no se conecta nunca con el hervidor.** El puente existe y es el
+patrón **contrario**: la mentira de «No lo había» queda como **desviación de su norma**, no
+como instancia de ella. Eso la hace más filosa, no más explicada. Enunciar la conexión la
+convierte en ejemplo, y R3 protege contra la explicación.
+
+**M3 · La dureza de Jean no se ablanda, y `cap-05:59` no se toca.** El capítulo son 46
+réplicas suyas. `cap-05:59` dice «Jean no recupera las palabras»: **si estas réplicas fueran
+recuerdo de Jean, contradirían lo que el libro estableció sobre ella.** No entra interioridad
+de Jean en la coda de `cap-21`.
+
+**M4 · Nora no entra nunca en esta escena** —es la condición más importante del gate—. El
+vecino derecho es el capítulo de Kongsbakken; si la escena midiera a Nora, la sutura sería un
+antes/después de la hija del conflicto. «—¿Y Nora? / —Detrás.» **no gana eco.**
+
+**M5 · El mosquito no vuelve.** «Ya estaba dentro antes de la barrera» es, en abstracto, un
+contrafáctico sobre la escalada interceptada. Hoy no lo es porque **no existe pareja de
+rima**. Ningún léxico de malla, barrera o filtro se aplica jamás a la ayuda, a la escalada ni
+a Jean.
+
+**M6 · La mosquitera no falla nunca.** El bucle «floja/puesta» pasa porque **el objeto no se
+comporta como el matrimonio**: la malla aguanta. Si alguna vez cede, la escena se vuelve
+alegoría.
+
+**M7 · Las tijeras se quedan, y sin usarse.** «Borrar una palabra de filo por si acaso es
+superstición, y la superstición dentro de un perímetro lo corroe.» El método del acto no
+existe en este libro en ninguna forma: no hay nada hacia lo que unas tijeras puedan acumular.
+Y la disputa donde aparecen es la que demuestra el oficio de Maja.
+
+**M8 · M9 no vuelve a informar «OK» sobre un conjunto que no ha enumerado.** El instrumento 21
+—`aa.chapter_paths()` veía 47 ficheros de 48 y todas las herramientas decían «OK»— demuestra
+que «íntegro» sobre cero ficheros y sobre el libro entero **son la misma frase**.
+
+*Dos aciertos que A7 hace constar como ajenos: la escena **sin umbral** —nadie llega, nadie se
+va— resuelve por forma, y no por vigilancia, dos condiciones que él había escrito, «y no se me
+había ocurrido»; y él aprobó esta sede por lo que **no** tenía, sin haber leído su vecino
+derecho: funciona por algo que **sí** tiene.*

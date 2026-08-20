@@ -1,0 +1,19 @@
+{
+  "etiqueta": "w10it3",
+  "fecha": "2026-08-20T07:46:43",
+  "capitulos": 47,
+  "palabras": 79843,
+  "por_parte": {
+    "1": 19925,
+    "2": 19802,
+    "3": 20397,
+    "4": 19719
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-w10it3.md"
+}

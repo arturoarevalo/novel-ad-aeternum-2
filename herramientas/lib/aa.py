@@ -155,7 +155,12 @@ def dump_manifest(m, path=MANIFIESTO):
         f.write("\n")
 
 def chapter_paths():
-    files = sorted(f for f in os.listdir(CAPITULOS) if re.fullmatch(r"cap-(\d{2}|n\d)\.md", f))
+    # El glob antiguo era r"cap-(\d{2}|n\d)\.md" y NO VEÍA los capítulos nuevos de W10
+    # (`cap-w1.md`). Un capítulo invisible para esta función es invisible para el compilador,
+    # las métricas, M9, M8 y el validador — Y TODOS INFORMABAN «OK» —, porque todos preguntan
+    # aquí. Es el modo de fallo de la casa: silencioso y tranquilizador. Ahora se acepta
+    # cualquier `cap-<token>.md`; el orden lo gobierna `orden_lectura`, no el nombre.
+    files = sorted(f for f in os.listdir(CAPITULOS) if re.fullmatch(r"cap-[a-z0-9]+\.md", f))
     return [os.path.join(CAPITULOS, f) for f in files]
 
 def reading_order():

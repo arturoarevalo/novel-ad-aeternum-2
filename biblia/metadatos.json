@@ -165,7 +165,7 @@
       "archivo": "cap-14.md",
       "palabras": 2032,
       "origen": "CAP. 11",
-      "palabras_real": 2032
+      "palabras_real": 1641
     },
     {
       "n": 15,
@@ -231,6 +231,16 @@
       "palabras": 929,
       "origen": "CAP. 16",
       "palabras_real": 929
+    },
+    {
+      "n": null,
+      "slug": "la-mosquitera",
+      "titulo": "La mosquitera",
+      "archivo": "cap-w1.md",
+      "palabras": 1000,
+      "palabras_real": 833,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 21.5
     },
     {
       "n": 22,
