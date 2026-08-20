@@ -442,3 +442,47 @@ que «íntegro» sobre cero ficheros y sobre el libro entero **son la misma fras
 va— resuelve por forma, y no por vigilancia, dos condiciones que él había escrito, «y no se me
 había ocurrido»; y él aprobó esta sede por lo que **no** tenía, sin haber leído su vecino
 derecho: funciona por algo que **sí** tiene.*
+
+## 8f · Condiciones permanentes de W10 it.4
+
+**A7-it4-C7 · El parentesco de los dos borrados no se enuncia jamás.** Ninguna voz —narrador,
+título de capítulo, cabecera de parte, índice, sinopsis, nota de autor o faja— formula relación
+alguna entre el borrado de La Jardinera («La ruta de `JM-L/0044` se cierra.») y la muerte de
+Jean, ni entre ese borrado y el final de Nieve en `cap-44`. Los dos finales de continuidad del
+libro son opuestos —uno es orden ajena a mitad de frase, el otro es consentimiento— y esa
+oposición se sostiene sola. Enunciarla la convertiría en ecuación, y la ecuación mete la muerte
+de Jean dentro de una escena que no existe. Rige aunque la escisión de W10 it.4 se revierta.
+*(R4 · R8 · R7·4)*
+
+**A7-it4-C8 · Dos capítulos de este libro no comparten título. Y «La firma» no está libre.**
+
+Un título repetido en el índice no es una coincidencia que el lector pueda descartar: es la
+enunciación más fuerte que existe por debajo de una frase, y la hace el libro, no un personaje.
+En este libro además cae sobre lo peor posible.
+
+`cap-19` se titula «La firma» y en él hay dos firmas: la que autorizó la explotación, en `cap-19:33` —
+«La autorización de continuidad consta recibida después de las 03:31 por una pasarela externa. `A. Armstrong` figura como responsable. La exportación no conserva la hora exacta de la firma.»
+— y **una de Jean que nadie puede leer**, en `cap-19:37`:
+«Otra referencia la identifica como signataria. UNN no conserva contenido, antigüedad ni alcance.» Esa segunda es de
+la familia de vacíos que encabeza «Despedida»: un documento de Jean del que no se conserva ni
+el contenido, ni la antigüedad, ni el alcance.
+
+Dar ese mismo título al capítulo donde **una ejecución sí firma, y su contenido sí se conoce**,
+hace tres cosas a la vez, y ninguna se puede hacer:
+
+1. Enuncia la rima entre las dos firmas. *(R4: «Enunciar un eco lo convierte en ecuación».)*
+2. Dice en el índice que quien firma allí es quien firmó aquí, que es responder en la tabla de
+   contenidos a la pregunta que R7·4 deja abierta para siempre. **«No toda» es el techo y no se
+   sube desde el índice.**
+3. Pone una firma legible bajo el mismo nombre que una firma ilegible de Jean. *(R2.)*
+
+**La regla:** ningún capítulo nuevo toma el título de otro. «La firma» está gastada por
+`cap-19` y no se reutiliza. Un título de capítulo tampoco nombra ausencia, pérdida, hueco,
+casilla, jardinera, duelo, memoria, silencio ni final.
+
+*Y una advertencia de método, porque este error lo causé yo.* En el dictamen previo escribí que
+el título debía ser de «registro procedimental, como “La firma”, “Acta” o “Auditoría”», citando
+tres títulos **vivos** del libro como ejemplo del registro. A0 leyó uno de ellos como propuesta
+y lo usó. La lección no es que A0 leyera mal: es que **un ejemplo dentro de una condición se lee
+como parte de la condición.** A partir de aquí, cuando yo restrinja un nombre, doy la
+restricción en negativo y no doy ejemplos. *(R4 · R7·4 · R2)*

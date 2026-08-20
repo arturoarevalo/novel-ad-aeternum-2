@@ -9000,7 +9000,7 @@ Jean comprueba los accesos. Ninguna continuidad activa mantiene a la vez la cost
 —Votamos ahora.
 
 
-## 37. La firma
+## 37. Papeletas
 
 Madre abre tres casillas para las continuidades activas capaces de decidir. Cada continuidad conserva su trayectoria y recibe una papeleta, que el origen permite atribuir y deduplicar.
 

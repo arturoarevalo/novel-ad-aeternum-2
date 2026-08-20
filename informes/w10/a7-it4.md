@@ -299,3 +299,141 @@ direcciones de mi propio documento vinculante llevaba caduca desde una intervenc
 yo. Ninguna de las dos cosas la encontró una herramienta.
 
 **Firmado, A7 · W10 it.4 · 2026-08-20 · sobre 48 capítulos y `aa.chapter_paths() == 48`.**
+
+---
+
+# Adenda · gate de merge de la rama `w10-it4` (2026-08-20)
+
+He verificado lo ejecutado contra lo declarado. **Coincide en todo menos en una cosa, y esa
+cosa la causé yo.**
+
+*Nota de lectura: las citas de la parte de arriba de este informe llevan los números de línea
+previos a la escisión, porque describen el estado sobre el que dictaminé. `verificar_b7` marcará
+siete MOVIDA (desplazamiento de −4 y −6 líneas) y cuatro PERDIDA en `cap-36` que son las líneas
+suprimidas y las que hoy viven en `cap-w2.md`. Es correcto: este informe tiene fecha y no se
+reescribe. Los números localizan; el literal manda.*
+
+## Verificado y conforme
+
+- **C1 cumplida.** «La arena delante del banco queda libre…» no está. `cap-w2` abre en «Madre
+  abre tres casillas para las continuidades activas capaces de decidir.» y cierra en «En el
+  centro, la fogata ajena sigue ardiendo sola.» Abre y cierra en prosa del autor.
+- **C3 cumplida.** `cap-36:145` intacta, dentro del capítulo A, sin nada nuevo delante ni detrás.
+  Capítulo A sin coda: la última línea es «—Votamos ahora.»
+- **C4 cumplida.** Siete líneas, 127 palabras, todas nuestras. Contrastadas contra el diff de v0.
+- **C5 cumplida y verificada por diff.** El corte de `cap-11` es exactamente `:201-205`, las tres
+  que liberé. Las siete intocables siguen, incluidas «—El hospital.», «—Lo mismo.» y «—Cuatro
+  este año.»
+- **C6 cumplida.** `S30-resultado` en `cap-w2.md` anclado por literal; el `desc` de
+  `S30-apertura` lleva el aviso; `b7` §2 regenerada; CH-80 corregido.
+- **C7 escrita por mí**, en `biblia/b7-perimetro.md` §8f, redactada para regir aunque la
+  escisión se revierta.
+
+## VETO · el título «La firma»
+
+**No se mergea con ese título.** Motivo íntegro en `b7-perimetro.md` §8f, resumido aquí:
+
+`cap-19` ya se titula «La firma», y contiene dos: la que autorizó la explotación
+(`cap-19:33`) y **una de Jean que nadie puede leer**, en `cap-19:37`:
+«Otra referencia la identifica como signataria. UNN no conserva contenido, antigüedad ni alcance.»
+Pertenece a la familia de vacíos que encabeza «Despedida».
+
+Dos capítulos con el mismo título en el índice no son una coincidencia que el lector pueda
+descartar: son la enunciación más fuerte que existe por debajo de una frase, y la hace el libro.
+Aquí diría, en la tabla de contenidos, que quien firma en el capítulo nuevo es quien firmó en el
+19. Eso es responder desde el índice a la pregunta que R7·4 deja abierta —la identidad
+ontológica de las ejecuciones— y **«No toda» no se sube desde el índice**. Es además R4
+(enunciar un eco lo convierte en ecuación) y R2 (una firma legible bajo el mismo nombre que una
+firma ilegible de Jean).
+
+**Y el argumento que lo justificaba tampoco se sostiene por su cuenta.** En `cap-36:79`:
+«—La firma exige convergencia —dice—. Cada adhesión entrega una decisión y sus condiciones. El origen queda registrado. Después del cierre no podrá revisarlas por separado.»
+Es decir: **en el capítulo A**. El título de B está tomado de
+una regla que se enuncia en el otro capítulo.
+
+**Lo asumo.** En el dictamen previo puse «como “La firma”, “Acta” o “Auditoría”» para describir
+un registro, citando tres títulos vivos. Un ejemplo dentro de una condición se lee como parte de
+la condición. **No propongo sustituto y no voy a dar ejemplos**, por la misma razón: doy la
+restricción en negativo. Ningún capítulo toma el título de otro; y no nombra ausencia, pérdida,
+hueco, casilla, jardinera, duelo, memoria, silencio ni final.
+
+**Cambiado el campo `titulo`, el veto decae sin nueva deliberación.** Todo lo demás está
+aprobado. No hace falta que vuelva a pasar por mí.
+
+## Pregunta 1 · Leído el capítulo A entero. El final no es elegía
+
+Lo he leído de un tirón, sin buscar términos. Digo lo que veo.
+
+El último movimiento hace inventario, no duelo: «Coro conserva un patrón de la costa. Madre
+recuerda el banco. Los catálogos podrían reconstruir parte del trabajo de La Jardinera.» y
+después la única cosa que nadie conserva — «Ninguno conserva el punto desde el que `/0044`
+elegía qué añadir y qué retirar.» El libro define a la muerta como un punto de decisión y dice
+que eso es lo que no queda. No hay paz, no hay descanso, no hay silencio merecido, no hay
+resultado preferible: hay una capacidad perdida y una lista de lo que sobrevive sin ella.
+
+Y entonces alguien propone en la página la opción elegíaca —«Una continuidad médica pide aplazar
+la decisión hasta encontrar otra jardinera.»— y el capítulo la deniega con una razón que no
+consuela: esperar no la devuelve, y cuesta los votos de quienes todavía pueden emitirlos.
+«—Votamos ahora.»
+
+**Como final es mejor que como paso.** Antes, el dinkus dejaba que la playa se recompusiera
+cuatro líneas después de la negativa; el lector veía a Jean negarse y acto seguido veía formarse
+una cola. Ahora la negativa es lo último y el lector la cruza en blanco. La escisión no
+sentimentaliza el borrado: le quita la escena que lo consolaba.
+
+**Una vigilancia que sí me llevo del final, y es nueva.** La línea `cap-36:155`,
+«Durante una asignación completa nadie habla.», ha pasado de la mitad del capítulo viejo al 90 % del capítulo A. Es v0, y
+lo que la salva es que va seguida de inventario y no de sentimiento. **Condición: no gana
+compañía.** Nadie observa ese silencio, nadie lo nombra, nadie le atribuye intención, y ninguna
+línea posterior vuelve sobre él. Una frase del tipo «nadie lo llamó silencio» sería exactamente
+la enunciación que R4 prohíbe.
+
+## Pregunta 2 · Sí, `cap-w2` necesita span. Y no es el que se esperaría
+
+**Uno, y por una razón de Carta, no de trama:**
+
+> «El rechazo cuenta como voto válido contra el uso del canal. Abstenciones, silencios, falta de margen y papeletas incompletas quedan fuera.»
+
+Eso no es reglamento: es la regla de que **un silencio no es una respuesta**. Su gemela está en
+el capítulo A y es de Jean — «Jean no cuenta esas ausencias como abstención, apoyo ni muerte.»
+(`cap-36:71`) —, y las dos son la formulación, del lado del sistema, de la misma negativa que
+gobierna el locutorio (R7·7: la funcionaria cierra el registro sin añadir una clasificación al
+hueco) y el archivo sin abrir. Una ausencia no se cuenta como muerte; un silencio no se cuenta
+como voto.
+
+En un capítulo de 389 palabras y sin protección, esa frase es lo más barato del libro de
+«aclarar». Y aclararla —que los silencios cuenten como rechazo, que una abstención sea una
+respuesta— llegaría hasta el locutorio sin que nadie note que ha llegado.
+
+**Pido dos spans, los dos sobre literal de v0:**
+
+1. En `cap-w2`, el párrafo de las tres reglas del voto, por lo anterior.
+2. En `cap-36`, «Jean no cuenta esas ausencias como abstención, apoyo ni muerte.», que está hoy
+   igual de desprotegida y es la mitad del par.
+
+**Y uno recomendado, no exigido:** el cierre «En el centro, la fogata ajena sigue ardiendo
+sola.», que `b5` traía como «sin span (RW del 30: recomendado conservar)» y que ahora es la
+última línea de un capítulo. Es la hoguera de «—Esa hoguera no era nuestra —dijo Nora.»
+(`cap-28:239`) / «—Nunca lo fue» (`cap-28:241`). Un capítulo que termina en el fuego de otros,
+ardiendo solo, es la nota anti-elegíaca del capítulo entero, y ya no tiene un párrafo detrás que
+la sostenga.
+
+## Un defecto que no es mío pero que encontré, para A5
+
+La supresión de «Cuchillo permanece en las rocas, junto a sus apelaciones.» era cartografía y la
+aprobé como tal, pero **era también la única atribución cercana de las cuatro réplicas
+siguientes**. En `cap-w2` se pasa ahora de «Cada una se lleva lo que sostenía. Desaparece un
+tramo de arena…» directamente a «—Resultado cerrado. Apelación ejecutable.», sin que se sepa
+quién habla hasta cuatro líneas después. No es perímetro y no lo veto: «—Destino vacío. Conservo
+la medida.» sigue siendo diálogo y Cuchillo aparece nombrado en el párrafo siguiente, así que la
+figura de R2 no se desliza hacia el narrador. Pero es una atribución huérfana en un capítulo
+corto, y es exactamente lo que mi C4 existía para atrapar. Va a A5.
+
+## Veredicto de merge
+
+**VETO limitado al campo `titulo` de `cap-w2.md`.** Todo lo demás: **APROBADO**, con las dos
+condiciones nuevas de esta adenda —el span de los silencios y la no-compañía de `cap-36:155`— y
+con C7 ya escrita en `b7-perimetro.md` §8f. Cambiado el título por uno que no sea el de otro
+capítulo, mergea sin volver a consultarme.
+
+**Firmado, A7 · gate de merge W10 it.4 · 2026-08-20.**

@@ -23,3 +23,4 @@
 - 2026-08-19T18:20:53 · fundir cap-31.md dentro de cap-32.md: 48 -> 47 capítulos, hueco en n=31 · motivo: OT-W10-01 · A7 2026-08-19
 - 2026-08-20T08:38:00 · registrar cap-w1.md (La mosquitera) orden_lectura 21.5 · motivo: OT-W10-03 · A7 2026-08-20
 - 2026-08-20T10:44:50 · registrar cap-w2.md (La firma) orden_lectura 36.5 · motivo: OT-W10-04 · A7 2026-08-20
+- 2026-08-20T11:10:51 · retitular cap-w2.md: «La firma» -> «Papeletas» · motivo: OT-W10-04 · veto de título de A7

@@ -1,6 +1,6 @@
 ---
 capitulo: W2
-titulo: La firma
+titulo: Papeletas
 pov: Jean
 fecha: 2061-01-12
 estado: en_oleada
