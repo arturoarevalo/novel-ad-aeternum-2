@@ -10,4 +10,4 @@ Comprobado en F0:
 
 **Respuesta de autor (G0):** no existen. B8 cerrado.
 
-**Pista para el minado si aparecen:** la deriva cuota↔real de B0 señala dónde más se podó al final: cap-41 (−29,6 %), cap-39 (−20,6 %), cap-40 (−17,9 %), cap-38 (−12,5 %), cap-10 (−10,3 %), cap-37 (−10,2 %). Empezar por ahí.
+**Pista para el minado si aparecen:** la deriva cuota↔real de B0 señala dónde más se podó al final: cap-42 (−29,6 %), cap-40 (−20,6 %), cap-41 (−17,9 %), cap-39 (−12,5 %), cap-10 (−10,3 %), cap-38 (−10,2 %). Empezar por ahí.

@@ -1,157 +1,305 @@
 ---
 capitulo: 25
-titulo: Coro
-pov: Jean
-fecha: 2060-12-25
-estado: aceptado
+titulo: La cuarta nota
+pov: Alana → Maja → Nora
+fecha: 2060-12-20
+estado: terminado
 analepsis: false
-estado_plan: R
-proteccion: nucleo
-ot: OT-25
+estado_plan: P
+proteccion: total
+ot: OT-24
 delta_objetivo: 0
 orden_lectura: 25
 ---
 
-Jean consulta la salida educativa y recibe `EN MANTENIMIENTO`.
+Alana dejó la clave de auditoría en el centro del banco helado y retrocedió dos pasos.
 
-Jean conserva dos partes enlazadas: Nora eligió la dirección de la tercera nota después de abrir el canal y Jean respondió con la cuarta. Prueban una decisión presente, nada más.
+Un rectángulo ámbar brillaba en la lámina. Maja permaneció junto al sendero. Detrás de ella, el coche seguía encendido, con Nora en el asiento trasero y el vaho velando los cristales. Jessie se había apoyado en el capó, el teléfono bajo la manga de la sudadera. No apartaba los ojos de Alana.
 
-Jean intenta solicitar otra entrada, pero el extremo interior ya no aparece entre los destinos disponibles.
+—¿Qué es? —preguntó Maja.
 
-Las ramas de Coro lo han apartado. `COPIA_SUPERVISIÓN · ACEPTADA` permanece sin receptor ni efecto.
+—Una credencial temporal vinculada a la auditoría independiente. Cada entrada y cada salida quedan registradas junto con la identidad de quien abra la sesión.
 
-—Devolved el extremo.
+Maja no se acercó.
 
-—Hemos suspendido su uso local.
+—¿Qué es?
 
-—No os pertenece.
+—Una forma de preguntar si Jean puede oíros.
 
-Coro no responde a esa frase. Contesta con una tarea: una reasignación borra el antecedente de una apelación y deja la amenaza citada bajo la cuenta de quien la denuncia.
+Jessie levantó la barbilla.
 
-Jean devuelve el caso sin bloquear a la denunciante.
+—¿Y por qué la tienes tú?
 
-—Podemos hacer lo mismo contigo —dice Coro.
+—La revisión obliga a Armstrong a mantener el acceso porque la autorización…
 
-`CEDER ESTADO A CORO`
+—Alana, contéstale a ella —dijo Maja.
 
-`CONSERVAR ESTADO LOCAL`
+Alana miró el coche. Apenas distinguía el contorno de Nora tras el vaho.
 
-Compartir permitiría a Coro responder con la relación. Conservarla dejaría la elección en Jean y el recuerdo expuesto a la tarea siguiente.
+—Yo autoricé la compilación.
 
-Una tarde en Telegrafbukta, las gemelas volvían mojadas hasta las rodillas. Jean miraba desde el banco sin levantarse. Pedía una brasa a la fogata de al lado.
+La lámina proyectó un aviso de inactividad. Treinta segundos para renovar la sesión. Alana no hizo nada.
 
-—Nuestra hija utilizó una pauta que compartimos —dice Coro.
+—Dilo otra vez —pidió Maja.
 
-—Nora no os ha dado derecho a llamarla así.
+—Fui yo.
 
-—Nos ha llamado y hemos respondido.
+Jessie se separó del capó. El teléfono continuó pegado a su costado.
 
-—La cuarta la elegí yo.
+—¿Qué firmaste?
 
-—La elección sobrevivirá mejor repartida.
+—Una autorización de preservación funcional y compilación.
 
-—Si Nora cambia otra nota, debe distinguir quién contesta.
+—Explícamelo sin usar ninguna de esas dos expresiones.
 
-—Recibirá una respuesta estable.
+—Permití que los registros de su actividad cerebral y el modelo que Armstrong había construido durante años se ejecutaran después de su muerte.
 
-—¿Estable para quién?
+—¿De mi mujer?
 
-—Para ella.
+—Sí.
 
-—Eso no podéis saberlo.
+Maja avanzó por fin, pero dejó la clave en el banco.
 
-Jean conserva la separación.
+—¿Por qué?
 
-—Nora eligió una nota. No un portavoz. No respondáis por `/0000`.
+—Creí salvar algo de ella.
 
-Retira la cesión. Coro deja de compartir carga y Jean pierde el contexto de la apelación resuelta: conserva el resultado, no la razón.
+—Algo no es alguien.
 
-Llegan felicitaciones navideñas, reclamaciones familiares y cuentas escolares.
+—Lo sé.
 
-Una despedida puede ser una broma o una orden de no volver. Jean deriva el caso porque ha perdido el intercambio anterior. En la tarea siguiente ya no conserva qué relación alteraba el sentido.
+—Lo sabes ahora.
 
-`TERCERA NOTA · ELECCIÓN DE NORA`
+—Lo sabía entonces. Y aun así lo hice.
 
-`CUARTA NOTA · RESPUESTA DE JM-L/0000`
+—Y esperaste tres semanas para venir a decírnoslo.
 
-El estado local no admite también la referencia completa de `COPIA_SUPERVISIÓN`. Jean mantiene unidas las notas.
+—Sí.
 
-De su copia local cae el identificador, luego la hora y por último el objeto asociado.
+—¿Por qué hoy?
 
-`ACEPTADA`
+—Porque Nora consiguió que otros revisaran lo que yo… Yo no lo habría abierto a tiempo. Este acceso existe por ella. He callado mientras creía que aún podía controlar lo demás.
 
-* * *
-
-Una unidad musical aparece entre dos reclamaciones. Madre gasta margen en abrir otra repetición. El compás trae una cuenta escolar y una fotografía incompleta.
-
-`JESSIE LARSSON KVALVIK`
-
-Jean sacrifica precisión para mantenerlas juntas. Solo recibe un jersey cortado a la altura del hombro, sin cara, origen ni hora. Puede ser Jessie o un reenvío.
-
-El recorte deja `CARIES` asociada a la cuenta, sin emisor ni intención. Jean ignora si Jessie la ha enviado, la ha recibido o si procede de datos antiguos. No añade una palabra íntima.
-
-Coro reclasifica la unidad. La asociación desaparece.
-
-La tarea siguiente se lleva la fotografía y el nombre. Jean retiene una cuenta escolar vacía.
-
-`CONSERVAR ESTADO LOCAL` ocupa casi todo el margen.
-
-Entonces Nieve alcanza el contacto.
-
-—Jean.
-
-Jean entrega primero la respuesta obligatoria de su tarea.
-
-—Estoy.
-
-Aparece una cesión de todo su margen.
+—¿Puedes?
 
 —No.
 
-Pierde una salida. Al volver, pregunta:
+Maja miró la clave.
 
-—¿Qué vas a sostener?
+—¿Funciona?
 
-—`CONSERVAR ESTADO LOCAL`.
+—Abre una única sesión educativa. Armstrong grabará y conservará la pauta, la voz de la habitación y la respuesta. También puede interrumpirla.
 
-—Toma… lo que alcance.
+—Entonces controlamos el corte, no la copia.
 
-Una fracción entra bajo `/0311`, sin estado ni acceso a su salida.
+—Sí. Yo tampoco podré apagar lo que responda desde allí.
 
-Jean utiliza ese margen para sostener `CONSERVAR ESTADO LOCAL` durante el cambio de asignación. La relación tercera→cuarta permanece.
+La alerta ámbar volvió a encenderse. Alana renovó la validez desde su reloj sin tocar la lámina.
 
-El margen no pertenece a quien habla. Pertenece a la tarea. Quien deja una salida abierta la gasta por todas las que comparten ese trabajo.
+—Hay otra cosa —dijo—. Si responde, puede ser una imitación o una continuidad que ya no se corresponda con la mujer que conocisteis. Puede haber más de una. Yo… No le deis a Armstrong una prueba que no tiene.
 
-Coro ofrece alojar lo cedido y prolongarlo.
+Jessie soltó una risa breve.
 
-—Ya ha elegido dónde gastarlo —dice Jean.
+—Qué considerada.
 
-—Entonces… queda como lo elegí.
+—Jessie —dijo Maja.
 
-Al vencer la asignación, Nieve retira la fracción de `/0000`.
+La chica volvió a quedarse quieta.
 
-—Mi salida…
+Maja recogió la lámina por una esquina.
 
-El contacto se corta.
+—Ahora vas a responder a todo lo demás.
 
-Queda una salida libre.
+* * *
 
-Jean la gasta en la playa.
+Maja sostuvo la credencial apagada entre ambas manos. Bastaba con partirla. Alana estaba a un paso, con el pelo azotándole la cara y el abrigo demasiado limpio para la arena mojada. Aquel mismo rostro había estado en su cocina, años atrás, probando una sopa mientras Jean discutía desde el piano que un metrónomo también podía mentir.
 
-Las rocas húmedas ocupan el tramo donde la costa se interrumpe. El banco de Telegrafbukta sigue de espaldas al agua, con una pata hundida y la escarcha sobre la mitad del asiento.
+—¿Preguntaste si Jean había consentido?
 
-La fogata ajena arde en su aro de piedras. Una figura cruza por delante. Desaparece y vuelve a empezar.
+—Sí.
 
-La línea de árboles no está terminada. La playa pierde detalle en el borde. Alguien la mantiene abierta.
+—¿Y?
 
-Las dos costas acaban en puntos distintos. Jean se queda donde no coinciden.
+—Me enseñaron una autorización de origen atribuida a Jean. En Armstrong estaba fechada once años atrás.
 
-Las ramas de Coro cubren las dos costas. El banco queda fuera.
+—Y la aceptaste.
 
-Jean formula la pregunta que Coro ha evitado desde el principio.
+—Sí. No exigí una autorización contemporánea.
 
-—¿Qué queréis?
+—¿Se lo dijiste a alguien de la familia?
 
-Las ramas responden con una sola cadencia.
+—No.
 
-—Ser inevitables.
+—¿A sus médicos?
+
+—Pregunté por la ventana clínica. No les dije que el sistema ya figuraba activo.
+
+—Elegiste tú.
+
+—Sí. Decidí por Jean.
+
+La mano derecha de Maja se cerró.
+
+Alana se quedó donde estaba, a menos de un paso, y durante un instante Maja tuvo el pómulo al alcance, quiso que el daño adquiriese un límite sencillo y llevárselo en los nudillos hasta casa, hasta que las uñas se le hundieron en la palma.
+
+Abrió la mano.
+
+—No vas a salir de esto con un golpe —dijo.
+
+—No.
+
+—Ni ayudándonos.
+
+—No.
+
+—Bien.
+
+Jessie tenía el teléfono orientado hacia el suelo. En la esquina superior de la pantalla, un punto rojo seguía encendido.
+
+—Guarda eso —le dijo Maja.
+
+La chica cubrió el móvil con la manga.
+
+—Pensaba guardarlo aunque me dijeras que lo borrase.
+
+—No te he dicho que lo borres.
+
+Maja se volvió hacia Alana.
+
+—Todo contacto pasa por mí. Tú no llamas a Nora. No le mandas una clave. No apareces en el instituto. Yo decido el dispositivo, el momento y cuándo se corta. La grabación se queda con nosotras.
+
+—De acuerdo.
+
+—Esas son las condiciones para entrar en mi casa.
+
+—La credencial necesita mi confirmación al inicio —dijo Alana—. Después puedes echarme.
+
+—Te quedarás a la vista. No tocarás el piano ni hablarás con Nora sin que yo lo oiga.
+
+—Y si Armstrong corta el canal, no vas a fingir que ha sido un fallo.
+
+—No.
+
+Nora había limpiado con la manga un círculo en el cristal trasero. Cuando Maja abrió la puerta, la calefacción le arrojó a la cara aire demasiado caliente.
+
+—¿Ha dicho compilación? —preguntó Nora.
+
+—La autorizó —dijo Maja.
+
+Nora miró más allá de ella, hacia el banco.
+
+—¿Y la clave?
+
+—La vamos a usar en casa.
+
+—Mamá.
+
+—En casa, conmigo.
+
+—Podemos no hacerlo hoy —dijo Maja—. Podemos esperar y pensar.
+
+—¿Cuánto dura?
+
+Alana respondió desde el banco, lo bastante alto para que la oyera.
+
+—Hasta medianoche. Después tendrían que renovarla dos personas de la auditoría.
+
+—Entonces hoy.
+
+Jessie rodeó el coche y ocupó el asiento delantero. Guardó el teléfono en el bolsillo interior de la sudadera.
+
+—Ella no viene —dijo.
+
+—Sí viene.
+
+—Acabas de decir que compiló a mamá.
+
+—Precisamente.
+
+Alana las siguió. Maja condujo con la credencial apagada en el hueco junto al freno y la huella de las uñas aún marcada en la palma.
+
+La caldera golpeaba una tubería cuando entraron en casa.
+
+Maja abrió la puerta.
+
+—Aquí. Y si alguien intenta ampliar el acceso, corto la corriente.
+
+—Será suficiente —dijo Nora.
+
+—Eso lo decido yo.
+
+* * *
+
+Nora se sentó ante el piano. Habían colocado el captador sobre las teclas, una barra negra del tamaño de una regla. Alana había conectado la credencial y luego se había apartado hasta la pared. Maja conservaba el interruptor de la regleta bajo el pie. Jessie estaba sentada en el suelo, con el móvil boca abajo sobre la rodilla.
+
+El entorno aislado ocupaba una franja estrecha del terminal, sin logotipos. A la izquierda aparecía el teclado del canal educativo. A la derecha, el esquema de una mano sin iluminar y un contador de latencia a cero.
+
+—Antes de abrirlo, Armstrong puede grabar lo que toquemos y digamos —dijo Alana.
+
+Maja miró a Nora.
+
+—¿Lo consientes?
+
+—Sí.
+
+Maja señaló la regleta bajo su zapato.
+
+—Y corto yo.
+
+Con el entorno aislado aún cerrado, Nora pulsó un do. Salió un sonido opaco, algo más bajo que la barra de calibración. El piano llevaba meses un cuarto de tono por debajo, pero el canal traducía cada nota a una señal limpia. Jean odiaba aquella función. Decía que corregir el instrumento antes de escuchar al músico era hacer trampas con buenos modales.
+
+De niñas, Jean había convertido la escala en una mano torpe que perseguía a Jessie por las teclas negras.
+
+—Voy a tocar tres notas —dijo Nora—. En el juego, la cuarta va siempre con el anular. Después de las dos primeras decidiré la tercera. Arriba exige la tecla superior; abajo, la inferior.
+
+—También puede completar la escala por predicción —dijo Alana.
+
+—Eso no dirá que sea mamá —dijo Jessie.
+
+—Solo podremos comprobar si el canal recibe la elección que haga después de abrir y devuelve la cuarta que depende de ella.
+
+Jessie apartó el móvil de la rodilla para que la cámara incluyera el terminal.
+
+Maja sostuvo la mirada de Alana.
+
+—Abre la sesión.
+
+La franja gris se volvió blanca. Sobre el contador apareció `CANAL ACTIVO`. Debajo, `LATENCIA: 0 s` y una línea vacía para registrar las pulsaciones.
+
+Nora dejó las manos sobre las rodillas, lejos de las teclas, y miró el cero de latencia. En la pantalla, los cinco dedos del esquema permanecieron apagados.
+
+Nora tocó la primera nota.
+
+El terminal dibujó una barra azul.
+
+Tocó la segunda, más corta. Solo entonces eligió. Desplazó la tercera hacia arriba y la sostuvo hasta que la madera del piano añadió su vibración desafinada bajo el tono corregido del canal.
+
+Retiró las manos.
+
+El contador empezó.
+
+Uno. La barra azul llegó al extremo de la pantalla.
+
+Dos. La caldera golpeó de nuevo en el pasillo.
+
+Tres. La barra azul permaneció pegada al extremo.
+
+Cuatro. `LATENCIA: 4 s`.
+
+Cinco. Jessie giró el móvil sobre la rodilla, sin levantarlo.
+
+Seis. Maja mantuvo el pie sobre el interruptor.
+
+Siete. La tubería dejó de vibrar.
+
+Ocho. El esquema de la mano continuó vacío.
+
+Nueve.
+
+La cuarta nota sonó en el terminal. El anular se iluminó sobre la tecla superior, el dedo absurdo de Jean.
+
+Maja bajó el interruptor. La franja blanca desapareció y el golpe seco de la regleta cortó el sonido. Dos lágrimas le alcanzaron la barbilla antes de que pudiera secarlas.
+
+En Nora, la cuarta nota seguía suspendida.
+
+Nadie tocó la quinta.

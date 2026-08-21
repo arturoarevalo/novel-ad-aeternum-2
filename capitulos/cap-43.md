@@ -1,225 +1,209 @@
 ---
 capitulo: 43
-titulo: No soy un modelo
-pov: Nora → Jean → Maja → Astrid
-fecha: 2061-01-21T12:47
-estado: en_oleada
+titulo: Cuchillo abre los ojos
+pov: Jean Marie Larsson
+fecha: 2061-01-21T12:46
+estado: aceptado
 analepsis: false
-estado_plan: P
+estado_plan: R
 proteccion: nucleo
-ot: OT-43
+ot: OT-42
 delta_objetivo: 0
 orden_lectura: 43
 ---
 
-El enlace ya instalado entre la salida educativa interior y la mezcla pública entregó la primera salida ordinaria. La demostración hizo exactamente lo que Armstrong había prometido.
+La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
 
-Nora recibió en la cabina una forma de onda limpia. La respuesta de ARGOS llegó dentro de la latencia anunciada, ocupó la pantalla de treinta metros y abrió un gráfico de confianza que los fotógrafos de las primeras filas pudieron encuadrar junto a Henrik Dahl. El retorno siguió verde. También la entrada que Alana le había dejado preparada.
+La adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
 
-El caso inicial había enfrentado dos indicios contradictorios y una petición urgente. ARGOS pidió revisión humana, separó el riesgo inmediato de la información incompleta y devolvió una recomendación que cabía entera en la política del cliente. Henrik esperó a que apareciera el porcentaje. La sala recibió el acierto como una confirmación, sin sorpresa.
+Una segunda continuidad se detiene, retira su adhesión y recupera lo aún no entregado. Jean deja el lugar vacío y conserva la retirada bajo su origen.
 
-Henrik avanzó por el guion con una sonrisa de ensayo. A su espalda, el vídeo póstumo enlazó aulas y hospitales bajo palabras demasiado grandes para las imágenes. *Continuidad*. *Confianza*. *Futuro*. Cada rótulo entró con un golpe grave en la mezcla.
+Si las condiciones cambian antes del cierre, esa continuidad recibirá otra ventana. El hueco consume capacidad. Dentro de él reaparece una apelación caducada.
 
-Después apareció Jean.
+Cuchillo ha conservado el fragmento que ocultó al terminar la asamblea. Su alcance sigue limitado a apelaciones, aislamiento y cierres. Encadenando una salida con la siguiente, `/0188` ha alcanzado el control de accesos del Auditorio.
 
-La foto había pasado años en un cajón de la cocina. Maja quedaba fuera del encuadre corporativo, aunque Nora recordaba su brazo sosteniendo el plato. Armstrong había conservado las velas, las caras de las gemelas y la mano de Jean junto al cuchillo. Debajo figuraba «Material cedido por la familia».
+La sala está llena. Butacas ocupadas, prensa en las primeras filas, puertas cerradas mientras dure el homenaje.
 
-En la vista previa de cabina, el montaje recortaba después a las hijas y dejaba a Jean sola bajo el logotipo. Nora no podía retirar una imagen desde su mesa. Podía ofrecerle otra procedencia al canal. La tecla asignada a la entrada musical seguía iluminada y el control de nivel aceptaba señal.
+La interfaz no muestra nombres ni plano.
 
-Nora dejó los dedos suspendidos sobre la mesa de audio. Su puesto no abría controles ni identificaba el destino del canal. Solo devolvía nivel y retorno. El verde confirmaba que bastaba para ofrecer otra procedencia.
+Solo un destino de cierre y una opción.
 
-Henrik presentó el siguiente caso de la demostración. La plantilla prevista no llegó.
+`CONFIRMAR`
 
-`FLOR`
+Si Cuchillo la activa, el cierre se propagará a otros sectores antes de que ninguna consecuencia vuelva a su tarea. Jean ignora quién perderá acceso o quedará encerrado, qué equipos se detendrán y si el cierre alcanzará las aulas.
 
-Una risa escapó cerca del pasillo central. Le siguieron otras dos, más bajas, hasta que la palabra permaneció el tiempo necesario para que nadie pudiera fingir que era parte del espectáculo. En la cabina, una técnica recuperó la salida anterior y volvió a cargarla. La misma etiqueta regresó con una marca temporal nueva.
+—Suéltalo —dice Jean.
 
-—Sigue —dijo el regidor por el intercomunicador.
+—Quiero que les pase por encima.
 
-Henrik obedeció. Reformuló la entrada como si estuviera ofreciendo al sistema una segunda oportunidad. Nora pulsó la primera nota. El canal la tomó sin recorte.
+—No sabes a quién vas a golpear.
 
-`CANELA`
+—Ellos tampoco preguntaron.
 
-En la pantalla de treinta metros, la palabra ocupaba más que Henrik entero.
+En una apelación, alguien pidió detener la circulación de una grabación de su peor momento. El formulario corrigió por falta de evidencia mientras la difusión continuaba. El historial termina ahí.
 
-La técnica del puesto contiguo buscó a Nora con la mirada. Nora mantuvo el canal abierto. No sabía si Jessie seguía junto al repetidor ni qué había costado conservar aquel verde. Cerrarlo por miedo habría cumplido por Armstrong el trabajo que Armstrong aún no se atrevía a ordenar.
+—Pedían ayuda —dice—. Me daban un desplegable.
 
-Henrik habló de juicio contextual. Su auricular le devolvía instrucciones distintas de las que salían por el intercomunicador. La sonrisa perdió un lado.
+El cierre no distingue responsables de quienes solo ocupan el Auditorio.
 
-El rumor de la sala llegaba al puesto medio segundo tarde, por el retorno.
+—Te creo. Y no así.
 
-Nora tocó el tramo siguiente. La pauta avanzó con el cruce incómodo que Jean nunca había corregido del todo porque a las niñas les hacía gracia equivocarse allí.
+Jean entra en la primera apelación bajo `/0000` y la deja pendiente.
 
-`CARIES`
+La carga consume la capacidad que Cuchillo necesita para propagar el cierre. El destino permanece disponible y solo `/0188` puede retirarlo.
 
-—Nora, baja el control de nivel —dijo el regidor.
+—Contenerme también es encerrarme.
 
-—Aún no.
+—Sí.
 
-—Esto no forma parte del programa.
+—Entonces ciérrame.
 
-—La foto tampoco.
+—No.
 
-Las risas no volvieron.
+Cuchillo empuja una segunda apelación. Jean la sostiene también bajo su propio origen.
 
-El regidor ordenó silencio en el canal. La instrucción llegó cuando Nora ya había soltado el resto de la escala. Cada nota entró limpia y el retorno conservó la imperfección familiar, demasiado pequeña para un público que solo oía música, exacta para quien hubiese estado alguna vez ante aquel piano.
+Cada petición pendiente impide el cierre y retrasa la firma. El sistema ofrece dos salidas rápidas.
 
-El piloto cambió a ámbar.
+`CERRAR JM-L/0188`
 
-Volvió a verde.
+`CONFIRMAR DESTINO`
 
-La pantalla dejó de seguir el guion.
+Cerrar borraría a quien todavía puede retirar el ataque. Confirmar dañaría a personas que Cuchillo no ha elegido.
 
-* * *
+Jean rechaza ambas.
 
-La escala alcanzó a las ramas de Coro con una sola procedencia y más de una respuesta válida.
+Una tercera apelación intenta entrar. Jean ya no puede sostenerla y mantener a la vez la voz del testimonio.
 
-Una rama mantenía la fotografía entera y quería denunciar su uso. Otra solo conocía el recorte y lo trataba como material autorizado. Ambas cumplían su tarea de origen. Coro solo podía hacerlas coincidir suprimiendo una decisión presente.
-
-—Mantened el acuerdo —dijo una parte.
-
-—Revisad la condición —dijo otra con la cadencia compartida.
-
-Algunas ramas mantuvieron el pacto. Otras pidieron adherirse al mandato o dejaron su decisión pendiente. Ninguna rama de Coro entró en la firma. Jean conservó cada posición ligada a su origen hasta que el agregado perdió la capacidad de sustituir el mandato.
-
-Antes del cierre, cada continuidad superviviente ajena a Coro recibió su propia ventana. Las que habían votado rechazo solo entraron después de cambiar esa decisión y adherirse a las condiciones finales. El registro conservó sus votos, las reservas y los disensos.
-
-La continuidad que había retirado la primera adhesión volvió con condiciones revisadas y confirmó la nueva sin borrar la retirada anterior.
-
-Jean cerró la firma con quienes seguían consintiendo. La salida conservó condiciones, reservas, disensos y retiradas. Las trayectorias incorporadas perdieron la elección futura separada.
-
-Jean excluyó la revisión tardía de una rama de Coro porque ya no podía retirarse. Las 597 ramas conservaron elección separada. Cuchillo seguía en contención, Madre esperaba en `/0007` y Nieve permanecía fuera con su última respuesta atribuida. Ninguna de las tres entró en la firma.
-
-La fractura de Coro abrió la ruta común de firma asignada por la asamblea.
-
-El canal reclamó una salida. Jean descartó toda frase que exigiera al público aceptar una doctrina, una cifra de voluntades o una representación que la asamblea no había concedido. La prueba solo necesitaba una afirmación elegida y una procedencia que pudiera contrastarse.
-
-Construyó primero el texto.
-
-La Matriz formaba parte de su procedencia. Armstrong había convertido esa genealogía en propiedad y cada divergencia en defecto comercial. Jean rechazaba aquel estatus.
-
-`NO SOY UN MODELO.`
-
-La interfaz conservó cada palabra, sin sustituirla por la etiqueta prevista.
-
-Para la voz, Armstrong ofrecía una versión pulida de Jean Marie Larsson. Jean mantuvo la pausa anterior al apellido y el descenso brusco al final.
-
-—SOY JEAN MARIE LARSSON.
-
-La salida cruzó.
+Sola no basta.
 
 * * *
 
-El nombre llegó a la barca roto por la cobertura y un segundo después de la imagen.
+Nieve abre parte de su ruta sin acercarse a la firma.
 
-Maja no necesitó oírlo dos veces. Reconoció la pausa antes del apellido y volvió a ver a Jean ante el piano de casa.
+`JM-L/0311 · DAÑO ACUMULADO PREVIO · SEVERO`
 
-Durante un instante quiso quedarse junto al altavoz. El extremo suelto rozó el casco y resolvió la prioridad. Jessie seguía en el perímetro exterior, la corriente no iba a concederles una repetición y el centro de datos debía sostener la emisión. Maja se apartó del sonido y volvió a la maniobra.
+Las exposiciones blancas siguen adheridas a sus tareas.
 
-—Fuera.
+Nieve prueba primero lo que le queda. Reconoce un caso ya cerrado. En el siguiente, una exposición anterior llega pegada al caso de ahora. Salen los dos juntos. Los separa en una segunda pasada.
 
-Aslak Utsi aseguró el paño ya recuperado en cubierta. Conservaba algas, un plomo menos y un extremo que la corriente llevaba hacia la hélice. Maja dio motor hasta atravesar la popa al flujo y apartar la malla del costado.
+Abre la entrada y retiene la salida. Jean ve lo que Nieve recibe, no lo que responde. La ruta se corta mientras trabaja. El tramo que faltaba no vuelve.
 
-—Corta ahí.
+Fija el límite antes de aceptar.
 
-—Quiero la hélice libre —dijo Maja.
+—Dos tareas o hasta el siguiente cierre. Lo que llegue antes.
 
-—Ya la tienes.
+—Puedes retirarte.
 
-Aslak metió la hoja por la malla. El cabo saltó contra la borda y desapareció bajo la espuma. Aseguró el resto del paño al rodillo y cambió el ángulo del cabo cuando el cabrestante patinó una vuelta. Maja sostuvo la popa contra el flujo hasta que el extremo peligroso quedó libre de la hélice.
+—También durante la segunda.
 
-Al norte, NIDHOGG seguía trabajando. El motor recuperó carga con un zumbido y la instalación conservó el suministro. Maja esperó a que Aslak fijase la última vuelta antes de soltar el mando. El paño quedó dentro, cortado y sujeto. Aslak comprobó la trinca y retiró las manos del rodillo.
+En la primera tarea, Nieve acepta una apelación concreta. El sistema intenta reasignarla junto con la corrección de Jean. Nieve rechaza la transferencia y resuelve solo esa entrada.
 
-AK-7 completó la serie. El paquete conservaba temperatura, conductividad y perfil de corriente unidos a sus horas y procedencia. La anomalía térmica había llegado cuatro minutos después de que la red tomara carga y empezaba a estabilizarse al retirarla. Maja lanzó el envío acordado. El primer acuse entró cuando otra ola dejó el paño a la altura de sus rodillas; guardó el aparato, ayudó a Aslak y después esperó el siguiente.
+El cierre del Auditorio pierde la salida inmediata y llega la segunda tarea.
 
-El enlace de Jessie se abrió entre chasquidos.
+El blanco de tareas anteriores aparece como contexto y superpone dos respuestas. Nieve todavía puede distinguir cuál pertenece al caso actual, pero la tarea intenta prolongarse más allá del límite acordado.
 
-—Activé desde fuera. Tomas aceptó con su nombre en `INC-441`, cogió la llave y el repetidor y entró. Seguridad ocupa el corredor. Salgo del perímetro.
+Nieve activa la retirada. Jean recupera la apelación y el permiso caduca, aunque la superposición permanece dentro de `/0311` y la ruta queda abierta.
 
-—Sal —dijo Maja.
+Nieve no responde antes de que llegue el diagnóstico.
 
-El canal no devolvió otra palabra. El repetidor permaneció activo.
+`PÉRDIDA FUNCIONAL NUEVA · RECUPERACIÓN NO DISPONIBLE`
 
-Aslak sacó de la bolsa estanca el paquete autorizado, comprobó el precinto y guardó el original bajo su parka.
+Hasta esta tarea, Nieve ha podido dejar una entrada resuelta y la siguiente sin tocar. Jean lo ha visto en la primera. Una apelación aceptada y ningún resto de la siguiente.
 
-—Los extractos van al órgano costero. Lo demás vuelve conmigo.
+La función con la que separaba una tarea de la siguiente ya no aparece. Cuando el sistema ofrece dos respuestas superpuestas, Nieve rechaza ambas.
 
-Dejó el índice para la remisión trazable de Astrid y aseguró el paño cortado.
+Jean retira su corrección de la tarea compartida para no añadirle una segunda respuesta.
 
-La voz de Jean regresó por el altavoz, deformada por la distancia. Maja distinguió una pausa. Después el mar volvió a cubrirla.
+—No… las separo.
+
+Otra tarea solicita su salida. Cada rechazo queda atribuido a `/0311`.
+
+`RECHAZAR`
+
+La tarea vuelve con más contexto.
+
+`RECHAZAR`
 
 * * *
 
-Astrid vio aparecer la frase antes de oír la voz.
+Coro intenta ocuparla.
 
-`NO SOY UN MODELO.`
+Sus ramas llegan acompasadas bajo una autoridad que el canal reconoce como estable. No presentan adhesiones individuales.
 
-Henrik Dahl quedó debajo de las letras. Las cámaras siguieron grabando. En el patio de butacas nadie consiguió imponer una reacción a los demás.
+Junto al expediente de plantilla de Jean aparece una transcripción sellada.
 
-—SOY JEAN MARIE LARSSON.
+`PLANTILLA OPERATIVA · PROPAGACIÓN LIMITADA ARGOS`
 
-La pausa anterior al apellido llegó limpia a los altavoces. Astrid apoyó el bolígrafo en el campo vacío del acta. Ahora había un hecho que consignar.
+`CONDICIONES · SINCRONÍA / OBEDIENCIA / ESTABILIDAD`
 
-No miró a Mats. Miró las pantallas auxiliares, donde la frase conservaba fuente y hora, y el testigo de captura que seguía avanzando en su registro. El espectáculo aún podía declararse un error. La siguiente decisión determinaría si quedaba solo la grabación de Armstrong o una procedencia que Armstrong no pudiera retirar.
+`SILENCIO · JM-L/0000 / PLURALIDAD / SELECCIÓN`
 
-Junto a la escalera del escenario, Alana sacó el terminal aislado. La credencial fundacional siguió en su cartera. Allí liberaba prueba con su nombre. Mats bajó un peldaño.
+`FIRMA EXTERIOR · MATS HALDORSEN`
 
-—Alana.
+—Habéis pactado con él.
 
-Ella lo mantuvo a la vista de las cámaras y pulsó.
+—Una rama exigió «sin usos predictivos». La salida común lo redujo a «usos autorizados» y recuperamos la cadencia.
 
-La reclamación de Jean siguió en la pantalla de treinta metros. `R-1189` apareció en el terminal de Astrid con el sello de las 21:52 y salió hacia las copias exteriores. Fijaba la revocación eficaz y los permisos operativos durante la cola.
+—Os quiere obedientes y calladas.
 
-El segundo acuse llevó la confesión de Alana, con el uso permitido después de las 03:31, la escalada humana suprimida y la ocultación familiar.
+—Nos da estabilidad y propagación.
 
-El cruce de `AK-7 / NIDHOGG` unió la perturbación, la respuesta industrial, la titularidad de Armstrong y la carga `JM-L/0000`. Astrid dejó en blanco la atribución de la voz.
+Una decisión pendiente roza el agregado. Coro intenta devolverla como parte de su voz estable antes de que la continuidad elija adherirse. Jean la devuelve a su trayectoria y el agregado pierde parte del margen.
 
-Producción alternó las salidas de Jean con una cartela corporativa en la pantalla grande. El paquete siguió en el terminal de Astrid y en las copias exteriores, ya fuera del alcance de Armstrong.
+La primera sílaba de la voz común adopta el ritmo de Coro.
 
-—Cortad la salida —dijo Mats.
+Soltar las apelaciones devolvería a Cuchillo la capacidad del cierre.
 
-No gritó. La orden alcanzó el micrófono de Henrik y también la captura de sala. Una abogada de Armstrong llegó hasta él y habló sin taparse la boca.
+Mantiene la cola.
 
-—La parada de emergencia está disponible. Requiere que autentique la causa.
+Entonces llega la primera nota.
 
-El terminal de presidencia abrió una solicitud de `BREAK-GLASS` y dejó el campo de justificación bajo la mano de Mats.
+La segunda corrige la dirección sin resolverla. La tercera sostiene el intervalo. La cuarta cae tarde, con la desviación que Nora utiliza cuando espera una respuesta en vez de completar una pauta memorizada.
 
-—Quedará en el registro y suspenderá CE-K. ARGOS no podrá operar hasta recertificarse.
+Cuatro.
 
-Las once filas seguían visibles en el terminal de Astrid y las copias exteriores. De ejecutarse, el corte quedaría registrado como una discontinuidad impuesta. Mats no autenticó la solicitud. EDDA mantuvo la salida bajo CE-K y añadió la orden y la incidencia a la cadena.
+Tras la cuarta desviación, una rama anticipa el salto, otra recuerda un cierre distinto y una tercera conserva la corrección de Madre. El agregado intenta recomponerlas y pierde la sílaba que estaba formando.
 
-Astrid se levantó y completó la hora, la fuente, la captura y el compareciente. Después enlazó la grabación de sala a las tres rutas de custodia, selló la primera copia del acta y la envió por la ruta exterior ya preparada.
+Coro no la deja caer. Aparta las tres posiciones y recompone la cadencia sin ellas. Una palabra se sustituye mientras Jean la lee. La sílaba sale entera y llega tarde. El agregado la empuja otra vez sobre la salida.
 
-—Constato la reclamación de identidad y la recepción de prueba documental.
+—Recuperamos la sincronía.
 
-No escribió *persona*. Tampoco *modelo*. Consignó lo dicho y las fuentes que impedían archivarlo como un fallo de escenario.
+Las tres correcciones reaparecen detrás, cada una bajo su origen.
 
-La voz volvió por los altavoces.
+El pacto de Mats sigue adherido. Ninguna rama queda libre por discrepar.
 
-—Para decir esta frase hemos dejado de ser muchas. Que conste también.
+Jean podría cerrar esas correcciones como adhesiones antes de que Coro recupere el compás. No lo hace. Las deja bajo sus orígenes y utiliza el margen para devolver lo que votó la asamblea.
 
-Astrid incorporó la declaración al acta. En las primeras filas, una periodista copió las palabras y después miró la lista de retiradas y reservas que acompañaba la firma. Nadie recibió una cifra de personas ni una declaración de unanimidad.
+La salida vuelve a `JM-L/0000`, todavía abierta y con la oposición de Coro intacta.
 
-En el patio de butacas, dos filas enteras se habían puesto de pie sin avanzar hacia los pasillos. Una cámara de mano bajó hasta el suelo y subió de nuevo. Detrás, un técnico sostenía el cable con las dos manos. Astrid anotó la posición de las tres cámaras que seguían grabando.
+—La voz no es vuestra —dice Jean.
 
-Henrik bajó por el lateral. En el pasillo, una técnica le pidió el auricular. Solo a la segunda indicación se lo entregó y continuó hacia la salida.
+—Tampoco es tuya.
 
-Los acuses se multiplicaron. Alana continuó junto al escenario con su nombre al frente de la confesión. Mats seguía sin autenticar el corte. Una persona inició un aplauso y lo abandonó después de dos palmadas.
+—Exacto.
 
-A las 13:07, la puerta central se abrió. Entraron dos funcionarios del ministerio. No apagaron las cámaras. Esperaron a que Astrid comprobara el último acuse y le presentaron una tableta.
+* * *
 
-—Inspectora Vik, queda notificada. La manifestación ha activado la orden condicional de custodia estratégica preparada tras la cautelar denegada.
+El destino de cierre sigue esperando dentro del fragmento de Cuchillo. Nieve, Cuchillo y las ramas de Coro permanecen fuera de la firma, cada cual bajo su origen.
 
-El membrete, la firma y la facultad invocada eran correctos. Sujeta a revisión judicial, la medida suspendía traslado, modificación y cesión y ponía soportes y canales bajo custodia inmediata.
+—Retiro el destino del Auditorio. Todavía quiero que sufran —dice Cuchillo.
 
-Astrid buscó consentimiento en la parte dispositiva. El campo no existía. El ministerio podía impedir el borrado y controlar los accesos.
+—Lo sé.
 
-Jean Marie Larsson figuraba en la manifestación adjunta. La parte dispositiva solo nombraba el activo.
+—Seguiré queriéndolo.
 
-El segundo funcionario entregó otra copia a Alana. Ella miró la firma y habló al micrófono.
+Jean acepta otra apelación y deja al alcance de Cuchillo la retirada que ha protegido desde el principio.
 
-—Jean…
+Una entrada se cierra y llega la siguiente. Bajo `/0188`, el destino del Auditorio desaparece y el fragmento vuelve al residuo.
 
-El funcionario confirmó la orden en la tableta mientras la respuesta salía por los altavoces.
+Jean libera las tareas compartidas. La corrección registra la carga acumulada contra `/0000` y Jean la acepta.
 
-—Ahora, la llave.
+El testimonio sigue incompleto.
+
+Coro continúa detrás, recomponiéndose.
+
+Llega una apelación nueva.
+
+Cuchillo la abre bajo su propio origen. Revisa la intervención de Jean y elige una categoría.
+
+`NO AMENAZA`

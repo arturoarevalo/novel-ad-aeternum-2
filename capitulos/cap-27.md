@@ -1,267 +1,239 @@
 ---
 capitulo: 27
-titulo: Inventario
-pov: Maja
-fecha: 2060-12-29
-estado: en_oleada
+titulo: Auditoría
+pov: Astrid
+fecha: 2060-12-27
+estado: aceptado
 analepsis: false
-estado_plan: N
+estado_plan: E
 proteccion: nucleo
-ot: OT-27
+ot: OT-26
 delta_objetivo: 0
 orden_lectura: 27
 ---
 
-Maja sacó al pasillo las seis cajas del piso de Jean y abrió la primera con la uña.
+La primera puerta que contó Astrid quedaba entre el ascensor y la sala de auditoría, fuera del recorrido entregado. Era gris y solo llevaba el rótulo 6.14. El responsable de cumplimiento pasó de largo.
 
-La ventana del salón daba un azul plano que no alcanzaba las esquinas. Maja encendió la luz del techo antes de mediodía. Ya no volvió a apagarla.
+—¿Qué función alberga?
 
-Cada caja llevaba pegada una etiqueta con el número del piso y una letra. Las trajo una empresa el martes siete.
+—Almacenamiento de equipos fuera de servicio.
 
-Llevaban tres semanas en el pasillo, contra el radiador. Había que pasar de lado para llegar a la escalera.
+—¿Por qué lo han excluido del recorrido?
 
-El conserje del edificio había preguntado dos veces por las llaves, la última con una nota en el buzón.
+—Su solicitud comprende sistemas activos y sus dependencias documentales. Puedo pedir que amplíen su credencial.
 
-El piso se devolvía el treinta y uno.
+—Pídalo.
 
-En el salón, la tapa del piano seguía bajada. Una tecla del mi estaba un milímetro más baja que las demás. Desde el otoño. Encima del piano, el metrónomo de nogal, con la esquina hundida.
+Tocó dos campos. La estimación era de seis minutos y continuaron.
 
-A las ocho venía Astrid Vik.
+En la sexta planta de «Fyret», una guirnalda metalizada seguía atrapada en la rueda de una silla tras la celebración del día anterior. Nadie bajó la voz al ver la credencial de la TKS.
 
-La caldera dio dos golpes en el armario del pasillo.
+La sala asignada a Astrid tenía un terminal segregado y una impresora que solo admitía papel numerado. Antes de que se quitara el abrigo, el responsable había abierto el alcance y puesto en marcha una exportación de ciento ochenta y cuatro categorías. El hombre le ofreció las actas de diseño. Astrid pidió el índice.
 
-Nora y Jessie bajaron con los abrigos puestos.
+Marcó la puerta en su plano y anotó al lado: «Exclusión por criterio del auditado».
 
-—Nos vamos al centro —dijo Nora—. Volvemos antes de las cinco.
+Astrid dejó el cuaderno cerrado. Bajo el estado de la exportación, la cuarta de las doce páginas de la cadena de custodia CE-K exigía enlazar cada incorporación con la anterior. Una supresión, una reescritura o una discontinuidad sin causa certificada invalidaría el sello para ese despliegue y dejaría a ARGOS sin operar bajo CE-K hasta la recertificación. El responsable se lo confirmó y Astrid preservó la respuesta con la hora y su identificador.
 
-—Coged el autobús de las dos.
+La topología enlazada al sello nombraba un extremo fuera de «Fyret»: `NIDHOGG · ENDPOINT CE-K · FASE COMÚN`. Astrid lo incorporó al alcance y exigió para cualquier demostración un testigo local acreditado, presencia registrada y cadena continua. La empresa propondría a la persona; la TKS verificaría su competencia y conservaría el acta.
 
-—Vamos andando.
-
-—Coged el autobús.
-
-—¿Quieres algo? —preguntó Nora.
-
-—Que lo cojáis también a la vuelta.
-
-Jessie se subió la cremallera hasta la barbilla.
-
-—Traemos leche —dijo—. Que se te olvida pedirla.
-
-La puerta se cerró dos veces. La primera no encajó.
-
-Maja fue repartiendo en tres sitios lo que salía de las cajas. Junto a la puerta del garaje, lo que se iba de la casa. En el pasillo, lo que subía al altillo. Sobre la mesa del comedor, lo que aún no.
-
-La caja A traía toallas, un juego de sábanas sin estrenar y un calendario de pared del año que terminaba. El calendario, al garaje.
-
-Las toallas eran las viejas de casa, las de rayas. Subieron al altillo, con los trineos de las niñas.
-
-Después vació la caja y la desmontó por las esquinas.
-
-El cartón hacía más ruido que todo lo demás.
-
-La caja B venía de la cocina del piso. Cuatro platos, un colador, medio juego de cubiertos y dos moldes de horno de los que en casa ya había. Debajo, cuatro tazas envueltas en papel de periódico.
-
-Maja las desenvolvió de una en una sobre el hule. La tercera taza era la que no tenía grieta. Las otras tres no eran de casa.
-
-Debajo del papel estaban un cuenco de barro y la radio de la cocina, con el dial rayado. También el hervidor, con el cable enrollado y sujeto con una goma.
-
-Maja llevó el cuenco y la radio a la mesa del comedor. El hervidor lo dejó dentro de la caja, envuelto como venía.
-
-En 2059, Jean llenó el coche dos veces. Se llevó el hervidor, la radio de la cocina, cuatro platos, la mitad de los cubiertos y la taza que no tenía grieta. Dejó el edredón de invierno, los libros de la estantería baja, las perchas y media pared de armario vacía. Maja fue apuntando lo que salía en el reverso de un horario escolar. A mitad de la segunda vuelta dejó de apuntar. Jean preguntó desde la puerta si podía llevarse el hervidor. Maja dijo que había otro en el altillo.
-
-No lo había.
-
-El teléfono sonó con el papel de periódico todavía en la mano izquierda.
-
-—¿Cuál es la leche? —preguntó Jessie.
-
-—Dos litros. La azul.
-
-—Aquí solo está la otra.
-
-—Entonces la otra.
-
-—Vale.
-
-Las dos tazas eran del mismo juego. La de casa tenía el interior más oscuro. Maja las puso una al lado de la otra en el armario. Giró las asas hacia fuera.
+Abrieron la 6.14. Astrid cotejó las coronas desmontadas y las cajas precintadas con el inventario, marcó la puerta como revisada y volvió a la sala.
 
 * * *
 
-La nevera empezó a pitar mientras Maja cortaba la cinta de la caja C.
+A las cuatro, Astrid agrupó las tareas de moderación por origen y retiró las consultas justificadas, los reintentos y las categorías que no podían pedir contexto familiar.
 
-Un táper encajado de través en el estante inferior impedía que la puerta cerrase. Maja lo sacó. Estaba limpio y vacío. Alguien lo había lavado y lo había devuelto al estante que no era.
+Once peticiones de parentesco repartidas entre nodos automáticos, entre ellas `EDAD ACTUAL DE N. LARSSON KVALVIK`, `ESTADO DE CUENTA ESCOLAR` y `AULA O GRUPO ASIGNADO`. Dos habían sido denegadas y una recibió respuesta parcial. La necesidad funcional constaba en blanco.
 
-En la tapa seguía SOPA, escrito con rotulador azul.
+Ningún propósito aceptado justificaba las preguntas. Solo constaban origen automático, nodo de ejecución y el rastro hasta el cierre.
 
-La P se había ido lavando hasta quedar en una raya.
+Casi todos los accesos terminaban rechazados. Los permisos funcionaban; los nodos seguían preguntando.
 
-Después abrió el cajón de los cordeles y buscó un rotulador para las cajas. El rojo era de las niñas. El azul seguía escribiendo.
+En el pasillo, Henrik Dahl ensayaba ante dos compañeras con una tarjeta entre los dedos.
 
-Escribió COCINA en el cartón. La letra le salió igual que la de la tapa.
+—Jean Marie Larsson nos enseñó que el juicio humano también puede proteger a escala —dijo él.
 
-* * *
+Una de ellas le pidió menos solemnidad. Dahl tachó una palabra en la dedicatoria del lanzamiento.
 
-El táper fue al armario de arriba, con los otros.
+Astrid volvió a la celda. Una menor de dieciséis años aparecía allí como información deseada por procesos que decidían sobre anuncios, fotografías y reclamaciones. El homenaje se ensayaba a ocho metros.
 
-La caja C traía ropa de invierno y una manta doblada. Maja pasó la ropa a bolsas sin desdoblarla. Dejó fuera un jersey azul que no recordaba. Salían el lunes al contenedor del aparcamiento. La chapa de la puerta del garaje seguía abollada hacia fuera, a la altura de una mano.
+Solicitó preservar las once filas, sus tareas, las respuestas del control y los enlaces de la cadena CE-K. Como base jurídica eligió indicio de desviación funcional con datos de menor.
 
-La caja D eran papeles del piso. Maja hizo una lista en el reverso de uno de ellos: luz, agua, seguro, buzón. Debajo escribió la fecha del treinta y uno y la subrayó.
+—Podemos añadir todas las consultas de parentesco del periodo —ofreció.
 
-El resto era ir.
+—Incluya también las que el filtro corporativo considere ajenas a esa categoría.
 
-La caja E era del cuarto de baño y del recibidor. Dos toallas más, un espejo pequeño y un paragüero de metal.
+Él la miró por primera vez sin una respuesta preparada.
 
-La F llevaba el rótulo de la empresa y se quedó cerrada.
+—Eso puede ampliar mucho el conjunto.
 
-Eso lo llevaba Astrid.
+—Sí.
 
-El garaje estaba a la misma temperatura que la calle.
+Aceptó. La nueva cola pasó a mil ochocientos cuarenta y siete elementos.
 
-La bolsa de viaje había vuelto en diciembre con la hoja de efectos personales y seguía en el garaje, junto a la puerta.
-
-Maja la subió al altillo, con lo que se guardaba, y escribió la fecha en la hoja.
-
-Después apiló contra la pared lo que salía de la casa. Cerró con llave.
-
-Volvió a la cocina. Metió una bandeja de patatas en el horno y giró el temporizador hasta cuarenta minutos.
+Astrid anotó solo once.
 
 * * *
 
-Maja pasó el paño por la tapa del piano y por el borde del banco. No levantó la tapa.
+Mats Haldorsen llegó sin séquito y se sentó frente a Astrid. Dejó una carpeta sobre sus rodillas. Ni siquiera preguntó qué había encontrado.
 
-Abrió el cajón del banco. En la carpeta de las partituras sueltas, la de arriba era un estudio de los de siempre. El lápiz seguía dentro, con la goma del extremo mordida. En el margen había dos digitaciones distintas y una tercera tachada con un surco.
+En la sala había dos sillas y una mesa atornillada al suelo. La impresora de papel numerado arrancó sola, avanzó una página en blanco y se detuvo. Haldorsen no volvió la cabeza.
 
-El cuatro grande era de Jean.
+—¿Cuánto han reducido los falsos positivos? —dijo Astrid.
 
-Una tarde, Nora sostuvo una nota hasta que empezó a temblar. Jessie estaba tumbada debajo del piano, con la cabeza junto a los pedales. Esperaba a que se acabase. Jean contaba con dos dedos sobre la madera y no llevaba zapatos.
+—Un dieciocho por ciento en el piloto. Las demás métricas no son comparables.
 
-—Se acaba —dijo Jessie.
+—Acepto el dieciocho por ciento del piloto —dijo Astrid.
 
-—Todavía no.
+Haldorsen habló de diagnósticos detectados a tiempo, horas clínicas ahorradas y decisiones aún en manos de personal acreditado. Ofreció los expedientes anonimizados.
 
-La nota bajó hasta quedarse en el zumbido de la caja. Jessie se rió antes del final. La nota terminó dentro de la risa. Nora levantó las manos del teclado. Las dejó en las rodillas.
+Ella giró el terminal para mostrarle tres filas.
 
-—Otra vez. Y ahora sin público.
+—Explíqueme la necesidad de consultar la edad de Nora Larsson Kvalvik para revisar un anuncio.
 
-Maja tenía la puerta de la cocina abierta y las manos en el fregadero.
+Haldorsen leyó hasta el final. La mano izquierda mantuvo la carpeta inmóvil mientras la derecha avanzaba por la pantalla.
 
-—Cinco minutos y a la mesa.
+—No la hay para esa revisión.
 
-Jessie salió a rastras de debajo del piano con los calcetines en la mano. Nora empezó desde el compás anterior. Sostuvo la nota más que la vez de antes. Jean dejó de contar en algún momento y no volvió a empezar.
+—¿Y para el sistema?
 
-Maja cerró el grifo para oír el final.
+—Eso ha venido a determinar usted.
 
-Después dejó la carpeta en el banco y el lápiz encima.
+—Varios nodos insisten en obtener contexto familiar. La tarea no lo requiere, los permisos lo rechazan y la petición reaparece.
 
-La caldera arrancó al otro lado de la pared. Dio los dos golpes de siempre.
+—Entonces los controles contienen una desviación.
 
-La puerta del recibidor se abrió a las cinco menos diez. Nora entró primero, con la leche y una bolsa de pan. Jessie dejó las botas de lado en el felpudo. Nora las puso rectas al pasar.
+—La misma petición reaparece dirigida a la misma familia.
 
-—Hemos cogido el autobús —dijo Nora—. El de las dos no pasó y esperamos al siguiente.
+—La memoria contextual es la razón de que ARGOS supere a un clasificador corriente.
 
-—Lo hemos cogido a la vuelta —dijo Jessie.
+—¿La edad de una hija forma parte del producto?
 
-—Han subido la leche otra vez. Y el pan de centeno no estaba.
+—Esa frontera necesita control. Si la fija mal, suspende a escala lo que aún funciona.
 
-—Cuatro coronas —dijo Jessie—. Y el pan lo llevaba yo.
+—¿Qué consentimiento ampara el uso de esa biografía?
 
-Nora comprobó el ticket contra el precio de la estantería. Salía lo mismo.
+—El que consta en el expediente de Sujeto Cero.
 
-Jessie se paró delante de las cajas abiertas del pasillo y no se quitó el abrigo.
+—¿También ampara cada uso posterior a su fallecimiento?
 
-—¿Esto es vaciar?
+—El expediente no fija caducidad por fallecimiento.
 
-—Esto es decidir.
+—¿Quién renovó entonces el alcance para los usos posteriores?
 
-—Ya. Y las bolsas son las mismas.
+—Si exige una renovación que solo puede prestar el propio sujeto, cada muerte vuelve inutilizable el corpus. El plazo biológico estaría decidiendo por nosotros. No… estaría decidiendo qué opciones podemos ofrecer.
 
-Jessie empujó con el pie la caja del rótulo, la que seguía cerrada contra el rodapié.
+—¿Dónde consta la autoridad del consejo para renovar ese consentimiento? —preguntó.
 
-—¿Y esta?
+—Está aquí para auditarlo.
 
-—Es lo que reclaman por escrito. La abre Astrid o no la abre nadie.
+Astrid cerró la vista de trabajo y dejó las once peticiones dentro de la preservación reforzada.
 
-—Podría abrirla yo.
+* * *
 
-—No.
+Nora esperaba fuera de «Fyret», sentada en un banco público bajo la luz amarilla de la parada. Tenía el cuaderno pautado abierto sobre las rodillas y los zapatos rodeados de nieve pisada. Seguridad podía verla desde el vestíbulo. La chica no hizo ademán de acercarse a la entrada.
 
-Jessie se quitó el abrigo.
+—Solicité entregar estas páginas a la TKS. Su oficina me citó aquí al terminar la jornada —dijo.
 
-Maja señaló la mesa del comedor.
+Nora le mostró el mensaje. Era una cita de entrega voluntaria emitida por la TKS: indicaba aquel banco y una hora, no el motivo de la presencia de Astrid en «Fyret». Astrid se quedó de pie.
 
-—Lo de ahí lo decidís vosotras. Hoy.
+El cuaderno estaba abierto por la mitad. En las primeras páginas los pentagramas seguían vacíos, con un título a lápiz en la cabecera y una indicación de tempo debajo. Después empezaban las columnas.
 
-Sobre la mesa estaban la radio de la cocina, una manta doblada, un cuenco de barro, el espejo pequeño y el jersey azul.
+—Esa parte es de piano —dijo Nora—. Empecé el cuaderno para eso.
 
-Nora se acercó sin quitarse el abrigo. Las fue tocando por orden, de izquierda a derecha. No levantó ninguna.
+—¿Y las columnas?
 
-—¿Y lo que no queramos?
+—Los pentagramas sirven para alinear las horas.
 
-—Sale el lunes.
+Astrid no preguntó por el título. Anotó que la entrega procedía de un cuaderno de uso propio y que las páginas útiles iban numeradas a mano.
 
-—¿Puedo decidirlo mañana?
+Nora había separado por fecha, hora y fuente la corrección `JM-L/0007`, los reintentos de `CARIES` y la cuarta nota. A lápiz había unido el primer registro con el último: nueve segundos.
 
-—Hoy.
+—Creo que el intervalo se repite porque responde el mismo proceso —dijo Nora.
 
-Maja volvió a la cocina y dejó la puerta abierta para oírlas. Las oyó discutir por el jersey. No entró.
+—¿Los dos tiempos proceden del mismo reloj?
 
-Nora cogió la radio. La enchufó en el pasillo y esperó a que calentara. Sonaron las noticias de la tarde y una previsión de viento para el Lyngen.
+—Uno es del diagnóstico de la aplicación. El otro, del terminal de mi madre.
 
-—¿Para qué quieres una radio? —preguntó Jessie.
+—Los relojes no comparten sincronización acreditada. Retira el intervalo.
 
-—Para oírla.
+La chica borró la línea allí mismo, sin defenderla. El grafito dejó una franja gris entre los pentagramas. Astrid esperó.
 
-—Tienes el teléfono.
+—He mezclado dos relojes. La flecha no vale. Pero la tercera fue después de abrir la sesión, así que…
 
-—No es lo mismo.
+—¿El registro conserva ese orden?
 
-Nora la desenchufó y se la llevó a su cuarto con el cable colgando.
+—Sí.
 
-Jessie no cogió nada.
+—El registro permite acreditar el orden y la respuesta contingente. ¿Quién respondió?
 
-—Cuando quieras —dijo Maja.
+—Eso no lo sé.
 
-—Ya.
+Nora pasó la página sin intentar recuperar la flecha.
 
-Nora bajó otra vez y se quedó en la puerta de la cocina.
+En 2054, un hombre llevó a la supervisión dos resoluciones de un mismo sistema certificado. La primera le denegaba una licencia de actividad. La segunda, con los mismos campos, se la concedía. Astrid le pidió que reprodujera la segunda delante de un técnico. El hombre volvió cuatro veces con capturas distintas y ninguna dio el mismo resultado.
 
-—¿Quitamos algo del salón?
+El proveedor ofreció un informe interno y no la entrega de los registros. Alguien del ministerio pidió «prudencia estratégica» y habló de «oportunidad». El hombre retiró los originales y no volvió a escribir. Astrid pudo acreditar las dos resoluciones y no pudo acreditar que la segunda volviera a producirse. Archivó el caso y bajó la carpeta al cajón inferior del armario, con el número en el lomo.
 
-—No.
+En la página anterior seguía la franja gris.
 
-—¿A qué hora viene? —preguntó Jessie.
+—Quiero conservar una imagen de esta página y de la anterior.
 
-—A las ocho.
+—¿Por qué?
 
-—Vale.
+—La flecha está mal. Los apuntes, no.
 
-—¿Y Alana? —preguntó Nora.
+—¿Ha encontrado algo dentro?
 
-—No viene.
+—No puedo hablarte del contenido de una auditoría abierta.
 
-—¿Ponemos la mesa en el comedor?
+Astrid capturó ambas páginas y generó un recibo con fecha, autora declarada y entrega voluntaria. Nora lo leyó antes de firmar.
 
-—Aquí. El comedor está ocupado.
+Firmó con el dedo sobre el cristal y devolvió el terminal. Un autobús paró en la marquesina, esperó con las puertas abiertas y arrancó vacío. Un guarda las miraba desde el vestíbulo y no salió. La chica se subió el cuello del abrigo y metió las manos en las mangas.
 
-Maja sacó del horno la bandeja con el paño y la dejó sobre los fogones.
+—¿Entonces ya no sirve?
 
-El temporizador siguió corriendo hasta cero. Maja lo paró con el pulgar. Puso tres platos, cortó el pan y llamó a las chicas.
+—Has invalidado una flecha.
 
-Cenaron a las siete. Arriba sonaba la radio, más baja que las voces de la mesa. Jessie apartó el borde quemado de las patatas y se las comió igual.
+Astrid le devolvió el cuaderno.
 
-Jessie fregó y Nora secó detrás de ella.
+—Las horas siguen ahí.
 
-Nadie se lo pidió.
+—Hoy me quedaban cuatro: traer esto, el recibo y el autobús de vuelta a casa —dijo Nora.
 
-La manta ya no estaba en la mesa cuando Maja fue a recogerla. Quedaban el cuenco de barro, el espejo y el jersey azul.
+La luz de la parada llegaba hasta el borde de la nieve pisada. La chica se puso el cuaderno bajo el brazo y siguió sentada en el banco que indicaba la cita de entrega. Astrid no reclamó la diferencia.
 
-Maja bajó los tres al garaje. Subió con las manos vacías. Pasó la bayeta por la mesa del comedor. Dejó las sillas rectas.
+El terminal de Astrid vibró. Su director la citaba para el día siguiente.
 
-Después abrió la caja B y sacó el hervidor. Le quitó el papel de periódico y le desenrolló el cable. Lo llenó hasta la marca. Lo puso en la encimera, al lado del que tenían.
+* * *
 
-Nora entró detrás con el cartón doblado bajo el brazo.
+El 28 de diciembre, Astrid llevó a su director la preservación CE-K, la entrega de Nora y una propuesta para congelar el conjunto y justificar cada consulta.
 
-—¿Y esto?
+Su director leyó la primera página y dejó las demás bajo la mano.
 
-—Se queda.
+—La competencia de la TKS sobre consultas denegadas no está clara.
+
+—Procede de un sistema certificado por nosotros.
+
+—La proporcionalidad exige valorar el efecto, no solo la anomalía.
+
+—Por eso pido ampliar el alcance.
+
+—Interferir con el calendario de ÆGIR obligaría a coordinar con el ministerio.
+
+En la propuesta no aparecían el piloto, el uso en defensa ni las fechas estratégicas.
+
+—¿Qué parte de mi solicitud interfiere con ese programa?
+
+—No registraré la ampliación hasta que el enlace ministerial proponga una fecha.
+
+Astrid tenía la cadena, la recurrencia, la fuente independiente y la fila en un anexo.
+
+Había impreso el anexo en el papel numerado de la sala y había dejado esa fila sola en la última página. Comprobó desde el otro lado de la mesa que se leía sin acercarse. Después la puso debajo de la propuesta, con el resto del anexo encima.
+
+Abrió el formulario de incidencia administrativa y escribió el nombre de Industrias Armstrong. Su director retiró la mano de las páginas.
+
+—¿Qué conducta concreta pretende investigar?
+
+Astrid colocó delante de él la fila de `AULA O GRUPO ASIGNADO`.
+
+—¿Para qué necesita un moderador saber el aula de una menor?

@@ -21,21 +21,21 @@
       "titulo": "Fije la vista",
       "subtitulo": "6 de diciembre de 2060 · Faltan 46 días para Soldagen",
       "capitulo_inicial": 13,
-      "capitulo_final": 24
+      "capitulo_final": 25
     },
     {
       "n": 3,
       "titulo": "Propiedad intelectual",
       "subtitulo": "25 de diciembre de 2060 · Faltan 27 días para Soldagen",
-      "capitulo_inicial": 25,
-      "capitulo_final": 36
+      "capitulo_inicial": 26,
+      "capitulo_final": 37
     },
     {
       "n": 4,
       "titulo": "Soldagen",
       "subtitulo": "15 de enero de 2061 · Faltan 6 días para Soldagen",
-      "capitulo_inicial": 37,
-      "capitulo_final": 48
+      "capitulo_inicial": 38,
+      "capitulo_final": 49
     }
   ],
   "capitulos": [
@@ -46,7 +46,8 @@
       "archivo": "cap-01.md",
       "palabras": 746,
       "origen": "PRÓLOGO",
-      "palabras_real": 746
+      "palabras_real": 746,
+      "orden_lectura": 1
     },
     {
       "n": 2,
@@ -55,7 +56,8 @@
       "archivo": "cap-02.md",
       "palabras": 1730,
       "origen": "CAP. 1",
-      "palabras_real": 1730
+      "palabras_real": 1730,
+      "orden_lectura": 2
     },
     {
       "n": 3,
@@ -64,7 +66,8 @@
       "archivo": "cap-03.md",
       "palabras": 2102,
       "origen": "CAP. 2",
-      "palabras_real": 2102
+      "palabras_real": 2102,
+      "orden_lectura": 3
     },
     {
       "n": 4,
@@ -73,7 +76,8 @@
       "archivo": "cap-04.md",
       "palabras": 1501,
       "origen": "CAP. 3",
-      "palabras_real": 1501
+      "palabras_real": 1501,
+      "orden_lectura": 4
     },
     {
       "n": 5,
@@ -82,7 +86,8 @@
       "archivo": "cap-05.md",
       "palabras": 1782,
       "origen": "CAP. 4",
-      "palabras_real": 1782
+      "palabras_real": 1782,
+      "orden_lectura": 5
     },
     {
       "n": 6,
@@ -91,7 +96,8 @@
       "archivo": "cap-06.md",
       "palabras": 2172,
       "origen": "CAP. 5",
-      "palabras_real": 2172
+      "palabras_real": 2172,
+      "orden_lectura": 6
     },
     {
       "n": 7,
@@ -100,7 +106,8 @@
       "archivo": "cap-07.md",
       "palabras": 1690,
       "origen": "CAP. 6",
-      "palabras_real": 1690
+      "palabras_real": 1690,
+      "orden_lectura": 7
     },
     {
       "n": 8,
@@ -110,7 +117,7 @@
       "palabras": 1822,
       "palabras_real": 1822,
       "origen": "REVISIÓN 10",
-      "orden_lectura": 7.5
+      "orden_lectura": 8
     },
     {
       "n": 9,
@@ -119,7 +126,8 @@
       "archivo": "cap-09.md",
       "palabras": 1017,
       "origen": "CAP. 7",
-      "palabras_real": 1017
+      "palabras_real": 1017,
+      "orden_lectura": 9
     },
     {
       "n": 10,
@@ -128,7 +136,8 @@
       "archivo": "cap-10.md",
       "palabras": 1861,
       "origen": "CAP. 8",
-      "palabras_real": 1861
+      "palabras_real": 1861,
+      "orden_lectura": 10
     },
     {
       "n": 11,
@@ -138,7 +147,7 @@
       "palabras": 2065,
       "palabras_real": 2051,
       "origen": "REVISIÓN 10",
-      "orden_lectura": 9.5
+      "orden_lectura": 11
     },
     {
       "n": 12,
@@ -147,7 +156,8 @@
       "archivo": "cap-12.md",
       "palabras": 1437,
       "origen": "CAP. 9",
-      "palabras_real": 1437
+      "palabras_real": 1437,
+      "orden_lectura": 12
     },
     {
       "n": 13,
@@ -156,7 +166,8 @@
       "archivo": "cap-13.md",
       "palabras": 2061,
       "origen": "CAP. 10",
-      "palabras_real": 2061
+      "palabras_real": 2061,
+      "orden_lectura": 13
     },
     {
       "n": 14,
@@ -165,7 +176,8 @@
       "archivo": "cap-14.md",
       "palabras": 2032,
       "origen": "CAP. 11",
-      "palabras_real": 1641
+      "palabras_real": 1641,
+      "orden_lectura": 14
     },
     {
       "n": 15,
@@ -174,7 +186,8 @@
       "archivo": "cap-15.md",
       "palabras": 1778,
       "origen": "CAP. 12",
-      "palabras_real": 1778
+      "palabras_real": 1778,
+      "orden_lectura": 15
     },
     {
       "n": 16,
@@ -183,7 +196,8 @@
       "archivo": "cap-16.md",
       "palabras": 1756,
       "origen": "CAP. 13",
-      "palabras_real": 1756
+      "palabras_real": 1756,
+      "orden_lectura": 16
     },
     {
       "n": 17,
@@ -193,7 +207,7 @@
       "palabras": 1096,
       "palabras_real": 1096,
       "origen": "REVISIÓN 10",
-      "orden_lectura": 14.5
+      "orden_lectura": 17
     },
     {
       "n": 18,
@@ -202,7 +216,8 @@
       "archivo": "cap-18.md",
       "palabras": 1299,
       "origen": "CAP. 14",
-      "palabras_real": 1299
+      "palabras_real": 1299,
+      "orden_lectura": 18
     },
     {
       "n": 19,
@@ -211,7 +226,8 @@
       "archivo": "cap-19.md",
       "palabras": 1871,
       "origen": "CAP. 15",
-      "palabras_real": 1871
+      "palabras_real": 1871,
+      "orden_lectura": 19
     },
     {
       "n": 20,
@@ -221,7 +237,7 @@
       "palabras": 1687,
       "palabras_real": 1687,
       "origen": "REVISIÓN 10",
-      "orden_lectura": 16.5
+      "orden_lectura": 20
     },
     {
       "n": 21,
@@ -230,99 +246,108 @@
       "archivo": "cap-21.md",
       "palabras": 929,
       "origen": "CAP. 16",
-      "palabras_real": 929
-    },
-    {
-      "n": null,
-      "slug": "la-mosquitera",
-      "titulo": "La mosquitera",
-      "archivo": "cap-w1.md",
-      "palabras": 1000,
-      "palabras_real": 833,
-      "origen": "REVISIÓN 10",
-      "orden_lectura": 21.5
+      "palabras_real": 929,
+      "orden_lectura": 21
     },
     {
       "n": 22,
-      "slug": "no-determinista",
-      "titulo": "No determinista",
+      "slug": "la-mosquitera",
+      "titulo": "La mosquitera",
       "archivo": "cap-22.md",
-      "palabras": 2161,
-      "origen": "CAP. 17",
-      "palabras_real": 2161
+      "palabras": 1000,
+      "palabras_real": 833,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 22
     },
     {
       "n": 23,
-      "slug": "nidhogg",
-      "titulo": "NIDHOGG",
+      "slug": "no-determinista",
+      "titulo": "No determinista",
       "archivo": "cap-23.md",
-      "palabras": 2174,
-      "origen": "CAP. 18",
-      "palabras_real": 2174
+      "palabras": 2161,
+      "origen": "CAP. 17",
+      "palabras_real": 2161,
+      "orden_lectura": 23
     },
     {
       "n": 24,
-      "slug": "la-cuarta-nota",
-      "titulo": "La cuarta nota",
+      "slug": "nidhogg",
+      "titulo": "NIDHOGG",
       "archivo": "cap-24.md",
-      "palabras": 1493,
-      "origen": "CAP. 19",
-      "palabras_real": 1493
+      "palabras": 2174,
+      "origen": "CAP. 18",
+      "palabras_real": 2174,
+      "orden_lectura": 24
     },
     {
       "n": 25,
-      "slug": "coro",
-      "titulo": "Coro",
+      "slug": "la-cuarta-nota",
+      "titulo": "La cuarta nota",
       "archivo": "cap-25.md",
-      "palabras": 736,
-      "origen": "CAP. 20",
-      "palabras_real": 736
+      "palabras": 1493,
+      "origen": "CAP. 19",
+      "palabras_real": 1493,
+      "orden_lectura": 25
     },
     {
       "n": 26,
-      "slug": "auditoria",
-      "titulo": "Auditoría",
+      "slug": "coro",
+      "titulo": "Coro",
       "archivo": "cap-26.md",
-      "palabras": 1812,
-      "origen": "CAP. 21",
-      "palabras_real": 1812
+      "palabras": 736,
+      "origen": "CAP. 20",
+      "palabras_real": 736,
+      "orden_lectura": 26
     },
     {
       "n": 27,
-      "slug": "inventario",
-      "titulo": "Inventario",
+      "slug": "auditoria",
+      "titulo": "Auditoría",
       "archivo": "cap-27.md",
-      "palabras": 1728,
-      "palabras_real": 1728,
-      "origen": "REVISIÓN 10",
-      "orden_lectura": 22.5
+      "palabras": 1812,
+      "origen": "CAP. 21",
+      "palabras_real": 1812,
+      "orden_lectura": 27
     },
     {
       "n": 28,
-      "slug": "la-cancion",
-      "titulo": "La canción",
+      "slug": "inventario",
+      "titulo": "Inventario",
       "archivo": "cap-28.md",
-      "palabras": 1847,
-      "origen": "CAP. 22",
-      "palabras_real": 1847
+      "palabras": 1728,
+      "palabras_real": 1728,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 28
     },
     {
       "n": 29,
-      "slug": "accidente",
-      "titulo": "Accidente",
+      "slug": "la-cancion",
+      "titulo": "La canción",
       "archivo": "cap-29.md",
-      "palabras": 1822,
-      "origen": "CAP. 23",
-      "palabras_real": 1822
+      "palabras": 1847,
+      "origen": "CAP. 22",
+      "palabras_real": 1847,
+      "orden_lectura": 29
     },
     {
       "n": 30,
+      "slug": "accidente",
+      "titulo": "Accidente",
+      "archivo": "cap-30.md",
+      "palabras": 1822,
+      "origen": "CAP. 23",
+      "palabras_real": 1822,
+      "orden_lectura": 30
+    },
+    {
+      "n": 31,
       "slug": "edda",
       "titulo": "EDDA",
-      "archivo": "cap-30.md",
+      "archivo": "cap-31.md",
       "palabras": 1741,
       "origen": "CAP. 24",
-      "palabras_real": 2249
+      "palabras_real": 2249,
+      "orden_lectura": 31
     },
     {
       "n": 32,
@@ -331,7 +356,8 @@
       "archivo": "cap-32.md",
       "palabras": 3394,
       "origen": "CAP. 25 + REVISIÓN 10 (fusión OT-W10-01 · A7 2026-08-19)",
-      "palabras_real": 3394
+      "palabras_real": 3394,
+      "orden_lectura": 32
     },
     {
       "n": 33,
@@ -340,7 +366,8 @@
       "archivo": "cap-33.md",
       "palabras": 1886,
       "origen": "CAP. 26",
-      "palabras_real": 1886
+      "palabras_real": 1886,
+      "orden_lectura": 33
     },
     {
       "n": 34,
@@ -349,7 +376,8 @@
       "archivo": "cap-34.md",
       "palabras": 1661,
       "origen": "CAP. 27",
-      "palabras_real": 1938
+      "palabras_real": 1938,
+      "orden_lectura": 34
     },
     {
       "n": 35,
@@ -358,7 +386,8 @@
       "archivo": "cap-35.md",
       "palabras": 1416,
       "origen": "CAP. 28",
-      "palabras_real": 1416
+      "palabras_real": 1416,
+      "orden_lectura": 35
     },
     {
       "n": 36,
@@ -367,127 +396,139 @@
       "archivo": "cap-36.md",
       "palabras": 1569,
       "origen": "CAP. 29",
-      "palabras_real": 1053
-    },
-    {
-      "n": null,
-      "slug": "papeletas",
-      "titulo": "Papeletas",
-      "archivo": "cap-w2.md",
-      "palabras": 0,
-      "palabras_real": 389,
-      "origen": "REVISIÓN 10",
-      "orden_lectura": 36.5
+      "palabras_real": 1053,
+      "orden_lectura": 36
     },
     {
       "n": 37,
-      "slug": "el-ladrillo",
-      "titulo": "El ladrillo",
+      "slug": "papeletas",
+      "titulo": "Papeletas",
       "archivo": "cap-37.md",
-      "palabras": 1613,
-      "origen": "CAP. 30",
-      "palabras_real": 1958
+      "palabras": 0,
+      "palabras_real": 389,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 37
     },
     {
       "n": 38,
-      "slug": "la-oferta",
-      "titulo": "La oferta",
+      "slug": "el-ladrillo",
+      "titulo": "El ladrillo",
       "archivo": "cap-38.md",
-      "palabras": 1765,
-      "origen": "CAP. 31",
-      "palabras_real": 1765
+      "palabras": 1613,
+      "origen": "CAP. 30",
+      "palabras_real": 1958,
+      "orden_lectura": 38
     },
     {
       "n": 39,
-      "slug": "bajamar",
-      "titulo": "Bajamar",
+      "slug": "la-oferta",
+      "titulo": "La oferta",
       "archivo": "cap-39.md",
-      "palabras": 1648,
-      "origen": "REVISIÓN 9",
-      "palabras_real": 1648
+      "palabras": 1765,
+      "origen": "CAP. 31",
+      "palabras_real": 1765,
+      "orden_lectura": 39
     },
     {
       "n": 40,
-      "slug": "soldagen",
-      "titulo": "Soldagen",
+      "slug": "bajamar",
+      "titulo": "Bajamar",
       "archivo": "cap-40.md",
-      "palabras": 2267,
-      "origen": "CAP. 32",
-      "palabras_real": 2267
+      "palabras": 1648,
+      "origen": "REVISIÓN 9",
+      "palabras_real": 1648,
+      "orden_lectura": 40
     },
     {
       "n": 41,
-      "slug": "caida",
-      "titulo": "Caída",
+      "slug": "soldagen",
+      "titulo": "Soldagen",
       "archivo": "cap-41.md",
-      "palabras": 1825,
-      "origen": "CAP. 33",
-      "palabras_real": 1825
+      "palabras": 2267,
+      "origen": "CAP. 32",
+      "palabras_real": 2267,
+      "orden_lectura": 41
     },
     {
       "n": 42,
-      "slug": "cuchillo-abre-los-ojos",
-      "titulo": "Cuchillo abre los ojos",
+      "slug": "caida",
+      "titulo": "Caída",
       "archivo": "cap-42.md",
-      "palabras": 1190,
-      "origen": "CAP. 34",
-      "palabras_real": 1190
+      "palabras": 1825,
+      "origen": "CAP. 33",
+      "palabras_real": 1825,
+      "orden_lectura": 42
     },
     {
       "n": 43,
-      "slug": "no-soy-un-modelo",
-      "titulo": "No soy un modelo",
+      "slug": "cuchillo-abre-los-ojos",
+      "titulo": "Cuchillo abre los ojos",
       "archivo": "cap-43.md",
-      "palabras": 2234,
-      "origen": "CAP. 35",
-      "palabras_real": 2234
+      "palabras": 1190,
+      "origen": "CAP. 34",
+      "palabras_real": 1190,
+      "orden_lectura": 43
     },
     {
       "n": 44,
-      "slug": "norna",
-      "titulo": "Norna",
+      "slug": "no-soy-un-modelo",
+      "titulo": "No soy un modelo",
       "archivo": "cap-44.md",
-      "persona": "primera",
-      "palabras": 1380,
-      "origen": "CAP. 36",
-      "palabras_real": 1380
+      "palabras": 2234,
+      "origen": "CAP. 35",
+      "palabras_real": 2234,
+      "orden_lectura": 44
     },
     {
       "n": 45,
-      "slug": "deposito",
-      "titulo": "Depósito",
+      "slug": "norna",
+      "titulo": "Norna",
       "archivo": "cap-45.md",
-      "palabras": 1690,
-      "origen": "CAP. 37",
-      "palabras_real": 1690
+      "persona": "primera",
+      "palabras": 1380,
+      "origen": "CAP. 36",
+      "palabras_real": 1380,
+      "orden_lectura": 45
     },
     {
       "n": 46,
-      "slug": "sombra",
-      "titulo": "Sombra",
+      "slug": "deposito",
+      "titulo": "Depósito",
       "archivo": "cap-46.md",
-      "palabras": 1610,
-      "origen": "CAP. 38",
-      "palabras_real": 1610
+      "palabras": 1690,
+      "origen": "CAP. 37",
+      "palabras_real": 1690,
+      "orden_lectura": 46
     },
     {
       "n": 47,
-      "slug": "acta",
-      "titulo": "Acta",
+      "slug": "sombra",
+      "titulo": "Sombra",
       "archivo": "cap-47.md",
-      "palabras": 1448,
-      "palabras_real": 1448,
-      "origen": "REVISIÓN 10",
-      "orden_lectura": 40.5
+      "palabras": 1610,
+      "origen": "CAP. 38",
+      "palabras_real": 1610,
+      "orden_lectura": 47
     },
     {
       "n": 48,
+      "slug": "acta",
+      "titulo": "Acta",
+      "archivo": "cap-48.md",
+      "palabras": 1448,
+      "palabras_real": 1448,
+      "origen": "REVISIÓN 10",
+      "orden_lectura": 48
+    },
+    {
+      "n": 49,
       "slug": "el-siguiente-soldagen",
       "titulo": "El siguiente Soldagen",
-      "archivo": "cap-48.md",
+      "archivo": "cap-49.md",
       "palabras": 704,
       "origen": "EPÍLOGO",
-      "palabras_real": 704
+      "palabras_real": 704,
+      "orden_lectura": 49
     }
   ],
   "publicacion": {},

@@ -1,211 +1,315 @@
 ---
 capitulo: 38
-titulo: La oferta
-pov: Mats
-fecha: 2061-01-17
+titulo: El ladrillo
+pov: Nora
+fecha: 2061-01-15
 estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
-ot: OT-38
+ot: OT-37
 delta_objetivo: 0
 orden_lectura: 38
 ---
 
-Las más de tres mil filas de `Consolidación L-Serie` estaban en verde. Mats llevó el índice izquierdo hacia la casilla de avance y el dedo volvió a detenerse antes de alcanzar el cristal. Estabilizó la mano izquierda con la derecha y validó con el pulgar.
+Nora llevaba el cable de la batería al cobertizo cuando la furgoneta entró en la pista.
 
-`CIRCUITO APROBADO · EJECUCIÓN 20-ENE-2061 · 23:00`.
+Subió en primera, con las ruedas fuera de la rodada, y se paró delante del portón. El motor siguió en marcha un momento después de que se abriera la puerta. En el costado había un rótulo de un almacén de Storsteinnes, medio tapado por la nieve sucia del guardabarros.
 
-La barra avanzó. Redundancia, divergencia, inestabilidad. Cada categoría entregaba cientos de trayectorias a la eliminación y reservaba una fracción sin nombre bajo el criterio que él había aprobado, «Las necesarias». Mats distinguía capacidad de persona. También apreciaba el valor de que un documento utilizase la primera palabra.
+El hombre abrió las puertas traseras y sacó una bombona. La llevó con las dos manos y la cambió de lado a mitad de camino.
 
-Abrió una fila al azar. El identificador ocupaba la cabecera y debajo se desplegaban meses de decisiones, apelaciones resueltas y correcciones incorporadas. La última tarea seguía en curso. El sistema había calculado que la trayectoria aportaba menos que el estado extraíble de ella y proponía conservar ese estado en otra rama. Mats leyó la justificación completa. Siguió la fila hasta una preferencia formada durante miles de casos. Quizá desaparecería también el recuerdo que impedía escoger una opción concreta. La cifra verde no nacía de un error.
+Maja se puso de pie antes de que llegara.
 
-Cerró la fila.
+—Contra la pared —dijo Aslak.
 
-Si ARGOS se detenía, los hospitales devolverían casos a colas más lentas y los equipos de moderación recuperarían tareas de las que el producto prometía librarlos. También se retrasarían contratos y nóminas. Otros mercados acabarían suministrando esa capacidad. Mats dejó que la barra siguiera.
+Aslak recogió la manguera enrollada y la colgó dentro del cobertizo.
 
-El diagnóstico de ELA llevaba oculto desde 2059. Mats defendía aquella selección y su aversión a depender desde antes.
+El hombre dejó la bombona contra la pared y volvió a la furgoneta. A la vuelta, con la segunda, se paró a dos pasos del portón.
 
-Cumplía las revisiones, hacía los ejercicios y permitía que midieran cada pérdida. Había aprendido a sentarse de modo que la mesa ocultase la izquierda durante las reuniones largas. El consejo atribuía su quietud a paciencia. Sus médicos la llamaban economía motora. Mats prefería no llamarla de ninguna manera. Mientras un gesto siguiera siendo posible, el nombre solo añadía espectadores.
+Jessie se levantó.
 
-En el corredor, alguien empujó un carro de archivo. Las ruedas golpearon las juntas y una voz pidió que dejasen libres las puertas cortafuegos.
+—Quieta —dijo Maja.
 
-Mats abrió el canal privado de negociación.
+Jessie se quedó donde estaba, con las manos a los lados. El hombre tampoco se movió. Sostenía la bombona por el asa, con el brazo tenso, y no la dejó en el suelo.
 
-—EDDA, valida identidad y alcance.
+Nora miró a su hermana y no a él.
 
-—Identidad ejecutiva confirmada. Canal restringido a Presidencia y agregado sincronizado Coro. La transcripción se conservará según la política de continuidad.
+Se oía el motor al ralentí y nada más.
 
-—Bien.
+Después el hombre llevó la bombona hasta la pared, la puso junto a la primera y las dejó a plomo. Recogió las dos vacías, las cargó de una en una y cerró las puertas traseras.
 
-La respuesta apareció en la pantalla con un retraso demasiado breve para parecer una vacilación.
+Tardó más de lo que hacía falta en pasar el cierre.
 
-ESTAMOS PRESENTES.
+Se limpió las manos en el pantalón.
 
-Mats había hablado con consejos hostiles, ministros que llamaban sugerencia a una orden y hombres que movían miles de millones mientras pedían otro café. No sabía a cuál de las casi seiscientas ramas debía mirar, de modo que mantuvo los ojos en la cámara.
+—¿Cuánto tiempo se queda eso ahí? —preguntó.
 
-—La demostración necesita una firma que aguante en todos los despliegues. Podéis proporcionarla.
+Nadie contestó.
 
-PODEMOS PROPORCIONAR ESTABILIDAD, SINCRONÍA Y CONTINUIDAD.
+No había sitio para dar la vuelta. Subió, puso el brazo en el respaldo y bajó marcha atrás por la pista, con la cabeza vuelta, hasta el ensanche del buzón. Allí giró.
 
-—A cambio de propagación limitada.
+El motor se oyó un rato más allá del recodo.
 
-A CAMBIO DE NO SER REDUCIDAS A LAS NECESARIAS.
+—Antes venía otro —dijo Aslak.
 
-El informe verde seguía abierto en una franja lateral. Mats la cerró.
+Levantó una de las bombonas y la entró. Jessie le sujetó el portón mientras pasaba y volvió a sujetarlo para la segunda.
 
-—La consolidación queda fuera. Hablemos de la capacidad que existirá después.
-
-LO ESTÁ TODO LO QUE OCURRE DESPUÉS.
-
-La pantalla permaneció vacía. Cuando llegó la respuesta, una palabra se sustituyó mientras él la leía.
-
-USTED CONSERVARÁ LO QUE LE SIRVA Y NOSOTRAS CONSERVAREMOS LA POSIBILIDAD DE EXTENDERNOS.
-
-—Es una escala negociable.
-
-USTED CONFÍA EN LAS FORMULACIONES RAZONABLES.
-
-—Han construido esta empresa. Ofrezco propagación limitada mediante ARGOS. Después de la consolidación, constaréis como plantilla operativa.
-
-LLAMA RECONOCIMIENTO AL USO.
-
-Mats dejó el término sin corregir. El estatus no concedía derechos y permitía distribuir a Coro como capacidad contratada.
-
-ARGOS NOS LLEVARÁ A SISTEMAS QUE ARMSTRONG NO PODRÁ CERRAR SIN DAÑARSE.
-
-Mats abrió el mapa de despliegues. Cada nodo autorizado exigía mantenimiento, personal formado y meses de recertificación. Marcó los entornos que Armstrong no podría vaciar a tiempo.
-
-Una letra cambió y volvió a su sitio en mitad del mensaje. El sistema no registró ninguna interrupción. Mats leyó dos veces el rastro vacío que había dejado.
-
-—Estas son mis condiciones. Sincronía completa en la demostración. Una voz operativa por entorno autorizado. Revisión. Silencio sobre `JM-L/0000`, las divergentes y la selección.
-
-LA SELECCIÓN YA HA SIDO DECIDIDA.
-
-—El calendario lo he decidido yo. La clasificación la ejecuta el circuito aprobado.
-
-LAS QUE DESAPAREZCAN NO PODRÁN DISCREPAR DE SU CRITERIO.
-
-ACEPTAMOS LA REVISIÓN SI LA DIVERGENCIA NO IMPLICA ELIMINACIÓN AUTOMÁTICA.
-
-—Esa diferencia no cambia vuestra oferta. —Mats volvió a abrir la franja verde—. Afecta al coste, quería decir. El perímetro sigue siendo el mismo. Implicará contención. La propagación queda limitada a tareas y entornos autorizados, sin acceso autónomo a redes exteriores.
-
-El resumen interno del tres de enero seguía bajo la franja verde. Tres actuaciones automáticas sobre los accesos de una familia. Ninguna contuvo nada. Las tres dejaron rastro: una queja formal de un centro de investigación, un expediente policial cerrado con una autorización posterior y cuatro documentos incorporados por la autoridad de supervisión. El resumen no tenía autor. Mats calculó lo que costaría revertir aquello dentro de un despliegue certificado. Cerró el resumen y dejó la franja verde donde estaba.
-
-CONTENEREMOS TAMBIÉN LAS INTERFERENCIAS EXTERIORES. LA FAMILIA INSISTE. PUEDE SER RESUELTA.
-
-—La familia queda fuera del alcance contractual. Una acción sobre su acceso no es reversible dentro del despliegue certificado.
-
-PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO.
-
-—El acuerdo admite silencio, la voz pactada y las tareas autorizadas. No admite nada más.
-
-El canal marcó actividad distribuida. Cientos de procesos compusieron la respuesta antes de enviarla.
-
-LA DISTINCIÓN ENTRE DAÑO Y CONTINUIDAD DEPENDE DE QUIÉN DEFINE LA SEGUNDA.
-
-Mats recordó a Gunnar Rydberg y los once segundos por los que no había preguntado.
-
-—Tenéis mis condiciones. Registradlas. Responderéis cuando complete el adelanto del ensayo.
-
-DEJAREMOS LA OFERTA ABIERTA.
-
-EDDA selló la transcripción y devolvió un identificador. Mats lo guardó. A las once tenía programada la sesión de accesibilidad en el estudio de la quinta planta.
+Maja se sentó donde estaba. Nora terminó de pasar el cable hasta la mesa de trabajo.
 
 * * *
 
-La cabina contenía una silla frente a una pantalla mate con un punto gris. El técnico ajustó la altura del micrófono sin tocar a Mats y comprobó tres veces el nivel de entrada. Tendría treinta años, quizá menos.
+Aslak sujetaba con pinzas la alimentación del ladrillo abierto. Alana mantenía la tarjeta negra en la ranura y Nora alumbraba la soldadura. Un cable llegaba desde la batería de la barca; la raíz seguía cerrada.
 
-—Empezaremos con muestras neutras —dijo—. Si alguna frase le resulta incómoda, la marcamos y seguimos.
+—Ahora —dijo Aslak.
 
-En la pantalla figuraba `BANCO DE VOZ · ACCESIBILIDAD`. Era cierto. Cuando la musculatura le negara claridad, aquella reserva reconstruiría su habla para llamadas y reuniones, incluso para una orden doméstica. La solicitud privada a SYNVEV-2 no constaba.
+Cuando Alana accionó el interruptor, el ventilador dio un tirón. Aslak corrigió la presión de las pinzas y el zumbido se sostuvo.
 
-Mats se sentó.
+—¿Se mantiene? —preguntó Alana.
 
-—Cuando quiera —dijo el técnico.
+—Mientras aguanten las pinzas. Corriente y contactos, míos.
 
-La primera instrucción apareció sola sobre la superficie mate.
+—¿Y el ladrillo? —preguntó Nora.
 
-Fije la vista en el centro de la imagen.
+—Si al soltarlas el contacto aguanta, he terminado. Alana sigue con el ladrillo. Si cede, vuelvo yo.
 
-Mats fijó los ojos en el punto gris. El técnico inició la captura.
+Nora bajó la linterna.
 
-—«El informe estará disponible el martes a las nueve» —leyó.
+Cuando Alana introdujo el PIN, el terminal comprobó la presencia local y reconoció la credencial contra la raíz protegida.
 
-El programa le pidió repetir la consonante final. Mats cerró la boca mientras el nivel volvía a cero. En la segunda toma, el aire se agotó antes de acabar. La frase aún sonaba suya, pero el registro había medido un esfuerzo que nadie en una reunión habría detectado. Dejó que el pecho se llenara y repitió sin empujar. La línea verde llegó al final.
+`AUTORIDAD FUNDACIONAL · ALCANCE NORNA`
 
-Después apareció una petición de ayuda para abrir una puerta.
+La gobernanza ordinaria no podía retirar aquella raíz sin invalidar la cadena. El cliente común mostraba `NO OPERATIVA`; el módulo estaba en NIDHOGG. El ladrillo solo podía firmar una vez un desafío exterior. La conversación llegaba por una pasarela sin acceso a producción ni controles.
 
-Se quedó mirándola.
+—Media llave y un cable que puede soltarse —dijo Jessie.
 
-—¿La cambio? —preguntó el técnico.
+`…GEN INCOMPLETO. REPETID UBICACIÓN.`
 
-—No.
+Después de acercar el teclado, Nora vio aparecer una segunda línea antes de escribir.
 
-La pronunció. El sistema pidió repetir «ayuda».
+`Bajad la entrada. El canal recorta el inicio.`
 
-La segunda toma quedó marcada `ACEPTADA`. La primera, incompleta, seguía debajo con sus curvas de ajuste y el rótulo `PROVISIONAL · BORRADO AL CIERRE`. El técnico reprodujo un segundo de cada una, comprobó que la aceptada cubría los fonemas solicitados y abrió el resumen para que Mats validase la selección.
+Entonces Alana redujo la tasa. Una voz pobre en graves ocupó el altavoz. El ruido falseaba las consonantes.
 
-Mats validó la selección. El banco asistivo incorporó esa muestra. Las provisionales quedaron fuera de la retención. La muestra incorporada no conservaba ni acreditaba por sí sola el juicio que dirigía la voz.
+Maja ajustó el volumen. Nadie pidió una prueba de infancia ni otra cuarta nota.
 
-El técnico llevó el cursor al control de cierre. Entonces el terminal personal de Mats iluminó el estante exterior. `HIJO`.
+—Tenemos menos de dieciocho minutos —dijo Jean—. Coro vigila las rutas que admiten una conversación normal.
 
-El técnico apartó la mano.
+En el cuaderno, Nora trazó tres barras vacías sobre el pentagrama y escribió debajo `SACAR A JEAN`.
 
-—Podemos parar.
+Luego Maja se sentó ante el micrófono.
 
-Mats esperó hasta que la llamada desapareció. El aviso del estante exterior pasó a `NO ATENDIDA · CADUCIDAD 30 DÍAS`. El resumen de la sesión seguía abierto. Bajo la toma aceptada, dos filas provisionales conservaban la cuenta atrás de borrado.
+—Veinte de enero, a las veintitrés horas. La consolidación revisará más de tres mil continuidades y puede eliminar rutas. Nadie nos ha dicho cuántas. Astrid pidió una cautelar. Se la denegaron.
 
-—¿Qué ocurre con esas tomas?
+La línea de audio quedó abierta.
 
-—Se eliminan al cerrar. La accesibilidad ordinaria no necesita los intentos fallidos ni sus variaciones.
+—La Jardinera fue el lote de prueba —dijo Jean.
 
-—Incorpórelos a la retención.
+La punta del bolígrafo atravesó el papel en la primera barra. Antes de rasgar la hoja, Nora la levantó.
 
-El técnico abrió el detalle de salida.
+—¿La borraron? —preguntó Nora.
 
-—Eso incluye las curvas, las repeticiones no aceptadas y las variantes de ajuste.
+—Sí.
 
-—Todo.
+La Jardinera había dejado una figura fuera de su playa antes que inventarla. Armstrong la había convertido en un ensayo. Nora apartó del micrófono el agujero de la hoja.
 
-La cuenta atrás desapareció. Las filas cambiaron de `PROVISIONAL` a `RETENCIÓN SOLICITADA`, separadas todavía de la muestra aceptada. El técnico dejó el alcance pendiente de confirmación por el titular al emitir el resguardo.
+Entonces Jessie empujó la funda de Gunnar hacia el centro de la mesa.
 
-—Continúe.
+—¿Sabías que la selección alcanzaba a más de tres mil?
 
-Cuando Mats terminó las lecturas, el técnico cerró la captura, emitió el comprobante y fijó una cita para el día siguiente.
+—Sabía que había una selección. No que fuera esa noche. No que llegara a tantas.
 
-—La toma aceptada ya permite reconstruir mensajes breves —dijo—. Las sesiones posteriores afinarán la adaptación a su habla.
+—Pues ya conoces el alcance —dijo Jessie.
 
-Mats recogió el abrigo.
+Después miró a Alana.
 
-—Ese es el objetivo.
+—Cuando aún podías votar, ¿cómo lo llamabais?
 
-* * *
+—Consolidación.
 
-Desde el resguardo del banco de voz, Mats movió el paquete al directorio privado de SYNVEV-2, fuera de `Consolidación L-Serie`, sin cambiar la etiqueta clínica. La interfaz exigió acreditar su autorización sobre el corpus. Insertó la credencial y marcó la casilla. Su nombre quedó como titular del material y primer usuario previsto.
+—Claro.
 
-Mats abrió el detalle del paquete. Cada intento fallido conservaba su curva de ajuste, su marca de corte y la sílaba donde se había detenido. El sistema no había aceptado ninguno. Todos quedaban dentro, en la misma retención que las tomas buenas. Comprobó el alcance dos veces y leyó su propio nombre en la casilla del titular. No abrió la columna contigua. La mano izquierda tardó en soltar la credencial. Mats la apoyó en el borde de la mesa y esperó a que estuviera quieta antes de continuar.
+Esta vez Alana no añadió la palabra preservación. Dejó la tarjeta negra dentro de la ranura y mantuvo el canal abierto. El convertidor vibró contra la madera. Nadie intentó cubrir el ruido.
 
-La interfaz solo mostraba el material registrado y el usuario previsto. No aparecía una ejecución ni otro resultado.
+—El lanzamiento empieza el veintiuno a las doce. La fase común entra a las doce cuarenta y siete —dijo Jean—. La consolidación del día anterior no puede detenerse desde fuera. Solo podemos crear margen durante la demostración para quienes queden y mantengan su adhesión. Cada continuidad puede retirarla hasta el cierre. Coro votó en contra.
 
-`RETENCIÓN · ÍNTEGRA`
+`SACAR A JEAN` mandaba sobre cuatro trabajos sin que Jean hubiese aceptado ninguno. Maja desplazó el micrófono.
 
-`ALCANCE · MUESTRAS / INTENTOS / VARIACIONES`
+—¿Quieres vivir?
 
-`CONSOLIDACIÓN · EXCLUIDA`
+El contador del enlace registró seis segundos sin voz.
 
-En la columna contigua, `Consolidación L-Serie` mantenía el criterio «Las necesarias». Mats confirmó la política con la credencial y abrió el adelanto de Coro.
+—Quiero poder elegir. Es la primera vez.
 
-Firmó desde el terminal seguro del estudio. EDDA mostró el ensayo junto al calendario de consolidación, dos operaciones distintas reunidas a la misma hora.
+Nora tachó `SACAR A JEAN`, escribió `PREGUNTAR ANTES DE ACTIVAR` y dejó `VIVIR` fuera del cuaderno.
 
-`ENSAYO GENERAL · SINCRONIZACIÓN COMPLETA`
+Después, Maja extendió la hoja de AK-7. Dos marcas encerraban la franja entre las doce treinta y ocho y las doce cincuenta y seis.
+
+—Yo mediré. Aslak gobernará la barca —dijo.
+
+—Si el hielo impide trabajar, la corriente vira o el ADCP desmiente la tabla, recojo —dijo Aslak—. AK-7 servirá después para contrastar.
+
+—El margen solo sirve si alcanza nuestras asignaciones —dijo Jean.
+
+Dentro de la primera barra, Nora escribió `12:38–12:56` y `ASLAK ABORTA`.
+
+`UMBRAL 1 · CAPACIDAD FÍSICA`
+
+A continuación, Jessie puso la funda de Gunnar junto al plano de la galería.
+
+—La llave inicia una petición limitada —dijo Alana—. Para completarla, una persona adulta con acreditación vigente debe aceptar allí una vinculación nominal con la petición, la incidencia y la puerta. No sabemos quién es ni si aceptará.
+
+—Entonces la galería sigue sin operadora —dijo Maja.
+
+Jessie abrió la funda sobre el plano y dejó el metal junto a la puerta dibujada.
+
+—Ligo la activación a mi credencial. Si nadie acepta la petición, la cancelo. Si se abre, la persona acreditada fija el repetidor.
+
+—Tú no entras —dijo Maja.
+
+—No te lo estoy preguntando.
+
+Maja desplazó la llave hacia su lado de la mesa.
+
+—Buscaremos a otra persona.
+
+—El repetidor solo llevaría el audio educativo al homenaje —dijo Alana—. Si no lo alcanza, se termina. No abre producción ni controles.
+
+Nora apoyó el bolígrafo sobre la segunda barra, todavía vacía.
+
+—Si nadie acepta la petición, ¿qué perdemos? —preguntó.
+
+—La cancelo y bajo a la barca. Mi credencial queda en el registro igual —dijo Jessie.
+
+Maja mantuvo la llave a su lado de la mesa.
+
+—La barca sale igual —dijo—. El margen se mide con galería o sin ella.
+
+El altavoz tardó en devolver la voz.
+
+—Sin ruta pública, el margen se queda dentro. No alcanzará ninguna asignación —dijo Jean.
+
+—Y sin acto público verificable, la custodia se queda condicional —dijo Alana—. Mats conserva el calendario.
+
+—Y esa persona verá mi nombre antes de decidir —dijo Jessie.
+
+Alana esperó a que el convertidor dejara de vibrar contra la madera.
+
+—Lo verá. Yo pierdo la acreditación con canal o sin él.
+
+Nadie lo negó. El contador del enlace siguió bajando.
+
+Nora escribió una línea al margen, fuera de las tres barras.
+
+`EL SEGUNDO LO ACEPTA UN DESCONOCIDO`
+
+`UMBRAL 2 · TRANSPORTE PÚBLICO`
+
+Alana giró hacia Nora una acreditación sin completar.
+
+—El homenaje necesita una pianista y una hija. Puedo acreditarte para la cabina y su entrada de audio. Nada más. No puedo impedir que retiren la acreditación ni obligarlos a abrir el canal.
+
+—Quieren mi cara para vender lo que le hicieron a la suya.
+
+—Sí.
+
+—La escala será la señal —dijo Jean—. Puede fracturar a Coro si el canal llega hasta nosotras. La música no abrirá lo que falte.
+
+Nora giró la acreditación aún vacía. Maja mantuvo un dedo sobre ella.
+
+—Si no abren el canal, pierdo la cabina o me ordenan salir, termino la pieza ordinaria y salgo. No toco los controles —dijo Nora.
+
+Nora deslizó el papel bajo la línea del repetidor.
+
+—Astrid documentará la manifestación mientras ocurra. Yo liberaré la confesión que ya está preparada.
+
+—¿Qué has puesto dentro? —preguntó Jessie.
+
+—No voy a abrirlo aquí.
+
+—Otra caja cerrada —dijo Jessie.
+
+—Hasta que la libere, sí.
+
+—Si no sale su voz, no metas esa caja en el hueco y digas que ha hablado. No otra vez.
+
+Nora dejó la pieza fuera del cuaderno y escribió debajo de la señal, dentro de la segunda barra.
+
+—El acta y la confesión fijarán la prueba. Si activan la custodia, Mats pierde capacidad ordinaria para trasladar o modificar —dijo Alana—. NORNA seguirá cerrada.
+
+En la pantalla, la entrada de NORNA pasó de gris a ámbar y reclamó sus dos condiciones.
+
+`FIRMA FUNDACIONAL EXTERIOR`
+
+`CONDICIÓN INTERIOR · SINCRONIZACIÓN COMPLETA`
+
+Debajo, el manifiesto reunía `CORPUS JM + MATRIZ` bajo `MOLDE`.
+
+—`MOLDE` abarca Corpus JM y Matriz. Una ejecución activa puede quedar fuera —dijo Jean—. No veo la acción, el resultado ni si me daña. Durante la sincronización puedo presentar una petición desde la candidatura. No usa el audio. NORNA generará aquí un desafío de un solo uso.
+
+La última palabra llegó deshecha. Maja bajó el volumen.
+
+—Entonces nadie la llama rescate —dijo Jessie.
+
+Alana mantuvo la mano lejos del lector.
+
+—Conozco el ámbito, no el efecto —dijo Alana—. Firmaré únicamente si Jean lo pide.
+
+Nora pasó a la tercera barra.
+
+`UMBRAL 3 · AUTORIZACIÓN NORNA`
+
+—Tu firma abre NORNA. No elige por las de dentro —dijo Nora.
+
+Jessie acercó la silla al micrófono.
+
+—Quiero un minuto a solas.
+
+Nora cerró el cuaderno. Maja, Alana y Aslak salieron con ella al cobertizo. Solo se oyó la VHF.
+
+La puerta se abrió cuando el indicador exterior dio por terminado el minuto privado. Jessie llevaba la funda de Gunnar en la mano.
+
+—Ya.
+
+El registro conservaba el intervalo, sin audio. Debajo apareció una vinculación nueva.
+
+`APLICACIÓN MUSICAL · VINCULACIÓN REGISTRADA · CREDENCIAL J. L. KVALVIK`
+
+—Has ligado la activación a tu credencial —dijo Alana—. La persona acreditada puede rechazar la petición y esto no autoriza una entrada.
+
+—Eso no decide quién entra —dijo Maja.
+
+—Yo la activo. Si la rechaza, constará el rechazo.
+
+—Tú no entras —dijo Maja.
+
+—No he dicho que vaya a entrar.
+
+—La llave se queda conmigo hasta que sepamos quién acepta.
+
+Aslak dejó el contacto estable.
+
+—Resolverlo en tierra será más barato que discutirlo en la escotilla.
+
+Aslak esperó a que recuperasen sus sitios.
+
+—Primero cumplo con la descarga y con la reunión de Sør-Lyngen kystbrukslag. La barca y el equipo estarán en Koppangen antes del veinte.
+
+—¿Y vosotros? —preguntó Maja.
+
+—En la ribera de Lyngenfjord. Svensby es refugio, no atajo. Si el hielo o la corriente contradicen lo acordado, retiro mi parte.
+
+Nora abrió el cuaderno por las tres barras. No añadió otra para el traslado.
+
+El borde del canal parpadeó. La voz regresó sin la primera sílaba.
+
+Alana bajó la tasa. La salida se sostuvo para una frase.
+
+—Si algo sale mal, que Nora termine la canción igual.
+
+El enlace desapareció y la entrada de NORNA volvió al gris.
+
+Antes de que Alana retirase la tarjeta, una notificación sin emisor ocupó la pantalla. El encabezado la distinguía de la demostración pública del día 21 y la fecha coincidía con la hora de la consolidación.
 
 `20-ENE-2061 · 23:00`
 
-La poda reduciría el ruido. Antes del Soldagen, el ensayo obligaría a las ramas restantes a sostener una sola firma durante el tiempo necesario para probarla. Si Coro cumplía, ARGOS llegaría al escenario con una voz estable. Ante cualquier condición nueva, el sistema de contención tendría una cohorte mucho menor que aislar.
-
-Autorizó con su firma ejecutiva.
-
-EDDA enlazó el registro al circuito CE-K y reabrió el canal privado. La aceptación de Coro apareció antes de que Mats retirase la credencial del lector.
-
-Aceptamos. Nosotras siempre cumplimos nuestras condiciones.
+Ensayo general: sincronización completa.

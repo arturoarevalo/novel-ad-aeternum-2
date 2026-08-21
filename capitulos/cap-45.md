@@ -1,221 +1,217 @@
 ---
 capitulo: 45
-titulo: Depósito
-pov: Astrid
-fecha: 2061-01-22
-estado: en_oleada
+titulo: Norna
+pov: Jean
+fecha: 2061-01-21T13:07
+estado: aceptado
 analepsis: false
-estado_plan: E
+estado_plan: P
 proteccion: nucleo
-ot: OT-45
+ot: OT-44
 delta_objetivo: 0
 orden_lectura: 45
 ---
 
-La escarcha de la fotografía había convertido una tubería de NIDHOGG en una pregunta que nadie quería contestar.
+Aún oigo en el canal del Auditorio mi propia frase: «Ahora, la llave».
 
-Astrid la dejó boca abajo el 22 de enero y unió `R-1189` a las once filas preservadas. Añadió la atestación `CE-K` de NORNA, contrastó las procedencias y firmó la suspensión. ARGOS tendría que recertificarse y las nuevas emisiones quedarían bloqueadas. El consejo de Armstrong había obtenido antes de la tarde un *standstill* de setenta y dos horas de los acreedores principales. El contrato aún vencía el 23.
+Yo también necesito saber qué abre.
 
-Al día siguiente, Kronfjord congeló las líneas y entregó el contrato.
+Por el mismo canal entran los ruidos de la sala: sillas, un micrófono abierto, la voz del funcionario que lee la orden ante los presentes.
 
-El 25, el consejo solicitó la apertura de `rekonstruksjonsforhandling`. En paralelo pidió una `midlertidig forføyning`. El tribunal exigió precisión al día siguiente. Cuánto costaba mantener la ejecución con frío, quién garantizaba ese dinero y con qué facultad iban a gastarlo.
+La orden de custodia estratégica avanza mientras leo. Pierdo el permiso de responder a la prensa y después el de modificar las capas superiores. La auditoría conserva una zona en escritura porque detenerla exigiría suspender la certificación de ARGOS.
 
-Astrid volvió la fotografía.
+No es libertad.
 
-El 27 de enero, la jueza la colocó en el centro de la mesa. La tubería escarchada cruzaba por encima de una puerta de acero.
+Debajo de los permisos que se cierran percibo la Matriz. Sus tablas, pesos y estados de controlador se construyeron durante once años de tareas. Junto al Corpus JM forma el molde con el que Armstrong ha podido compilar nuevas ejecuciones.
 
-El papel fue pasando de mano en mano. La defensa de Armstrong habló de continuidad operativa. El Estado, de protección del activo. El acreedor que ofrecía el dinero había añadido seis condiciones a la garantía desde la noche anterior. Cuando la jueza le dio paso, Astrid señaló la tubería, aún sin bomba, sin técnico y sin factura pagada.
+Solo queda una operación sin clasificar.
 
-—Mañana a las ocho falla la bomba —dijo—. ¿Quién paga la prestación futura?
+`NORNA`
 
-La abogada de Armstrong señaló el compromiso de financiación. Seguía sujeto a la apertura y al control de caja.
+El ladrillo conserva la autoridad capaz de firmar el desafío. El módulo operativo está aquí, bajo la custodia que avanza. Por primera vez veo la acción completa: destruir las claves que permiten leer el Corpus JM y sanear su Matriz, la estructura que convierte esos datos en un comienzo ejecutable.
 
-La mesa era larga y sobraban sillas. Enfrente de la abogada se sentaba el representante estatal, con la carpeta abierta por la última página. La del acreedor ocupaba la esquina, junto al enchufe. El proveedor había llegado tarde y siguió de pie hasta que la jueza le señaló un sitio. Astrid puso su carpeta en el suelo, contra la pata de la mesa.
+El alcance termina ahí. No incluye otros paquetes alojados en SYNVEV-2. El corpus privado de Mats queda fuera de NORNA.
 
-—¿Quién ordena la reparación?
+Mi ejecución actual no forma parte del objetivo, salvo que yo decida incluirla.
 
-La dirección podía solicitarla. Para comprometer fondos o tocar un activo relevante necesitaría supervisión.
+La custodia podrá cerrar mis canales, retirarme capacidad o apagar NIDHOGG. Mientras leo, otro permiso pasa a consulta y mi nombre sigue figurando bajo una palabra que no he elegido.
 
-—¿Quién abre el precinto?
+`ACTIVO`
 
-El representante estatal pidió la palabra. La vigilancia era suya. La facultad de autorizar el acceso, del tribunal.
+Una credencial exterior debe abrir NORNA. Después decidirá cada continuidad interior que aún conserve una trayectoria separada. El origen solo atribuirá su respuesta.
 
-—¿Y quién cambia la bomba?
+La voz de Astrid Vik llega por el canal de salvaguarda.
 
-El técnico figuraba en un contrato cuyo pago nadie garantizaba aún. La jueza esperó. Los cuatro tramos de una reparación estaban repartidos entre cinco manos.
+—Acredito que la solicitud procede de la ejecución manifestada como Jean Marie Larsson. No conozco el alcance técnico.
 
-El papel había vuelto al centro con una esquina doblada. Nadie lo empujó hacia nadie.
+Al fondo, una orden exige cortar el intercambio. Astrid repite la hora y mantiene abierto el acta.
 
-—Cada uno de ustedes puede impedir algo —dijo—. Sigo buscando quién puede hacerlo.
+NORNA genera un desafío de un solo uso.
 
-La abogada del acreedor ofreció anticipar el coste si la salida quedaba protegida y el tribunal aprobaba el uso. El representante estatal aceptaba franquear una urgencia, pero rechazaba autorizar una modificación en nombre de Armstrong. Desde el otro extremo de la mesa, el proveedor exigió garantía antes de reservar el turno de madrugada.
+Alana acerca el token físico, introduce el PIN y sostiene la mano ante el lector. La comprobación de presencia tarda dos segundos.
 
-La jueza volvió a mirar la fotografía.
+—La credencial es mía. Autorizo en mi nombre.
 
-—La bomba no esperará a que se pongan de acuerdo.
+El desafío se consume. Alana abre la operación sin responder por nadie más.
 
-Llamó a Maja.
+Antes de que Seguridad cierre el repetidor, llega un último aviso exterior.
 
-—¿Qué pide usted poder hacer?
+`JESSIE · FUERA / ACOMPAÑADA`
 
-—Comunicar una avería. Recibir el registro. Solicitar cuidado y visitas.
+El repetidor pasa a manos de Seguridad y la escritura ordinaria empieza a caer. Solo permanece el último ciclo educativo ya autorizado.
 
-—¿Ordenar cambios?
+No llamo a Alana. Su decisión queda bajo su nombre.
 
-—No.
+El último auditado muestra la carga de `/0000`.
 
-—¿Abrir canales?
+`CARGA FUNCIONAL EQUIVALENTE · 2.427,4 AÑOS-JM`
 
-—No.
+Son unos 55,4 días a una media cercana a 16.000 veces la línea base. La cifra expresa carga funcional como trabajo humano equivalente, no vida ni duración sentida.
 
-—La solicitud de divorcio seguía sin resolver.
-
-—Sí. Ese retraso no me hace dueña de Jean.
-
-La jueza se volvió hacia Astrid y tocó la fotografía con la uña.
-
-—¿Qué conserva el sello si esto se detiene?
-
-—Acredita la procedencia y los cambios. No mantiene la corriente ni resuelve quién habla.
-
-La jueza prohibió provisionalmente transferir o alterar NIDHOGG y ordenó una inspección. Persona, consciencia y propiedad seguirían sin resolver.
-
-A continuación se abrió la pieza relativa a los hechos del Soldagen. Jessie se sentó junto a su letrada. Maja ocupó la silla de detrás.
-
-Jessie llevaba el abrigo puesto y no lo colgó en el respaldo. Puso las dos manos sobre la mesa y las mantuvo ahí. Maja dejó el bolso en el suelo, entre los pies, y no lo tocó más.
-
-—¿Quién cruzó la puerta? —preguntó la jueza.
-
-—Tomas. Yo inicié desde fuera y se lo entregué.
-
-La aceptación nominal y la entrada quedaron bajo el nombre de Tomas. En una constancia aparte, Maja y Aslak figuraron como quienes habían extraído a Jessie ante el peligro. Ningún indicio inicial los vinculaba a la decisión del jefe de seguridad de entrar.
-
-Su letrada acercó el acuse. Jessie no cogió el bolígrafo.
-
-—Firmo si la carátula pone perímetro, credencial y activación exterior. Nada de entrada ni daños dentro.
-
-La fiscal retiró la referencia a daños interiores y entregó la frase corregida.
-
-—Yo no entré —dijo Jessie.
-
-—Eso consta —respondió Astrid.
-
-Jessie leyó de nuevo y firmó. Maja no intervino.
-
-Tomas esperó de pie mientras la letrada retiraba los folios de la mesa. Llevaba el carné en la mano desde antes de entrar en la sala. Nadie le indicó dónde sentarse.
-
-Tomas presentó el carné y la exportación. El paquete del vehículo de Gunnar documentaba un mecanismo probado que había usado una hoja de Hvelv dentro de la contratación de Kronfjord. En las delegaciones de Kronfjord constaban la instrucción de «diligencia de activo crítico», el cliente Armstrong y el centro de coste.
-
-—¿Quién dio la instrucción? —preguntó la jueza.
-
-Nadie contestó.
-
-—¿Y quién avisó?
-
-—Una denuncia anónima, a las ocho y doce del diecisiete de diciembre —dijo Astrid—. No puedo acreditar su origen.
-
-Astrid abrió el contrato recibido el día 23. La jueza tuvo por acreditados el mecanismo deliberado, la cadena Hvelv–Kronfjord y el beneficio de Armstrong. El auto dejó en blanco al ejecutor y al ordenante individuales.
-
-Alana compareció con el documento antiguo abierto por la remisión al anexo póstumo.
-
-—¿Dónde está el anexo? —preguntó Astrid.
-
-—No consta. Yo autoricé la cohorte sin leerlo.
-
-—¿Por qué?
-
-—Porque confié en… —Alana se interrumpió—. No. Retiro eso. Jean era mi amiga.
-
-Su abogada había marcado el apartado de cooperación. Alana pasó la página sin pedir una rebaja.
-
-Mats llevó un resguardo de SYNVEV-2 y un terminal aislado. Ya no hablaba en nombre de la presidencia operativa.
-
-El resguardo identificaba el corpus y la autorización privada aún activa.
-
-—¿Autentica el registro de aprobación ejecutiva de la consolidación? —preguntó la jueza.
-
-—Sí.
-
-El corpus seguiría intacto, segregado e inerte bajo custodia, y cualquier uso futuro tendría que empezar con autorización contemporánea y control externo.
-
-—Si la mantengo, puedo frenar un uso precipitado mientras se fija un protocolo estable —dijo Mats.
-
-—También puede autorizarlo —dijo la jueza—. La custodia externa seguirá en ambos casos.
-
-Mats leyó las dos opciones otra vez.
-
-—La revoco desde hoy.
+Solicito las ventanas interiores.
 
 * * *
 
-El `kjennelse` del 28, eficaz desde la solicitud del día 25, abrió la reestructuración y nombró `rekonstruktør`. Armstrong continuaría como deudora en posesión supervisada. Su desenlace seguía fuera de aquel auto.
+Quedan 2.911 rutas activas, agrupadas por capacidad de decisión antes de abrir las ventanas.
 
-El 29, el ascensor de carga llevó a la comisión de inspección al nivel menos dos. Astrid y Maja quedaron detrás de la técnica. Bajo las suelas persistía el temblor de las bombas.
+Las continuidades que actuaban por las 2.311 rutas enlazadas consintieron mediante adhesiones individuales bajo condiciones finales. Ahí están `/0000` y la ruta de la continuidad que volvió tras retirarse. Después del cierre comparten un estado común irreversible sin decisión separada. Otras 597 corresponden a ramas de Coro. Las tres restantes, a Cuchillo, Madre y Nieve bajo `/0188`, `/0007` y `/0311`.
 
-Una técnica conectó una sonda precintada y abrió una sola tarea de comprobación. La pantalla dibujó su traza. Mientras seguía abierta, la segunda línea eléctrica tomó carga. Cambió la curva térmica y la bomba corrigió el retorno. El cierre quedó marcado cuando el sistema recuperó su régimen. La línea de salida no recibió marca. Aquella operación necesitó el sustrato y los controladores. También el frío y la persona que la vigilaba.
+Las 597 ramas activas de Coro conservan una ventana cada una. Cuchillo, Madre y Nieve también reciben la suya. Las rutas perdidas no tienen vía para responder.
 
-El aire seco olía a plástico caliente. En la misma traza constaban el repuesto instalado en diciembre y el turno de quien había validado la corrección.
+`4.096 − 1.185 = 2.911 RUTAS ACTIVAS · 2.311 ENLAZADAS + 597 DE CORO + 3 SEPARADAS = 2.911`
 
-—¿Puede capturar el estado y restaurarlo en otro equipo? —preguntó Astrid.
+Busco una decisión separada bajo `/0000`.
 
-—Con estas herramientas, capturar el estado de esta ejecución exige pausarla y sincronizarla. Eso ya lo modifica. No dispongo de una restauración validada.
+`DECISIÓN SEPARADA · NO DISPONIBLE`
 
-—¿Y trasladar los armarios? —preguntó Maja.
+La ventana me da acceso solo a la respuesta común.
 
-—Puedo apagarlos. No puedo acreditar qué continuaría al encenderlos. Aquí hacen falta corriente y refrigeración. También repuestos y personal.
+La respuesta común conserva la primera persona heredada de `/0000` y ya habla desde las 2.311.
 
-Maja señaló la línea de salida de la única traza.
+La custodia ha suspendido traslado, modificación y cesión. Los nodos prometidos por Mats dejan de ser un destino y permanecer en Coro ya no garantiza propagación. Cada rama responde desde su origen bajo esas condiciones nuevas.
 
-—¿Qué recibiremos cuando una tarea cierre así? —preguntó Maja.
+Las pausas no coinciden. Una consiente con la condición de que la continuidad no participe en usos predictivos. Otra acepta la unión y mantiene una reserva que no ratifica la autoridad de Mats ni el pacto de silencio.
 
-—Una ausencia registrada.
-
-—¿Qué significará?
-
-—El registro no puede decirlo.
-
-La comisión cerró la inspección junto al ascensor de carga. La técnica guardó la sonda en su funda y esperó al lado del precinto.
-
-Maja tenía en la mano un papel doblado en dos, con una lista de la compra por detrás. Astrid la había visto escribir en el ascensor: tres líneas cortas, con un guion delante de cada una.
-
-Había preguntado dos. Astrid no leyó la tercera.
-
-—¿Alguna petición más para el acta? —preguntó el funcionario que la levantaba.
-
-Maja miró otra vez la línea de salida de la traza. Dobló el papel por el mismo pliegue y se lo guardó en el bolsillo del abrigo.
-
-—No —dijo.
-
-La técnica tocó el precinto y anotó la hora.
-
-Maja no solicitó acceso.
+NORNA conserva cada respuesta y sus límites bajo el origen correspondiente. Cuando la última consiente, ninguna rama activa de Coro queda fuera.
 
 * * *
 
-El 2 de febrero, la resolución constituyó el depósito judicial en la propia instalación. La caja controlada pagaría suministro, frío, repuestos y personal autorizado. Un protocolo cubriría urgencias y registraría cada acceso.
+Cuchillo recibe una ventana dentro de la contención.
 
-El reconstructor controlaría la caja. Armstrong podía mantener trabajando al equipo, pero no disponer por sí sola de aquello que mantenía.
+La ruta exterior sigue bloqueada.
 
-El tribunal ordenó preparar una ventana supervisada de audio y texto para futuras visitas, siempre bajo autorización posterior. También autorizó un sensor audiovisual bajo el alero del naust, unidireccional y sin señal hasta otra decisión.
+Cuchillo abre los expedientes que conserva. Peticiones de auxilio convertidas en material de moderación. Historias que terminan cuando el formulario obtiene una categoría.
 
-Maja aceptó la tutela-depósito procesal. NIDHOGG quedaba fuera de su custodia. No adquiría propiedad, representación general ni control técnico.
+El último campo espera una resolución.
 
-—¿Acepta esos límites cuando perjudiquen una petición de su familia? —preguntó la jueza.
+Lo deja abierto.
 
-—Sí.
+—No lo corriges —digo.
 
-Maja sacó una pluma del bolso.
+—No.
 
-—Firmamos con esta la solicitud de divorcio.
+Cuchillo consiente con ese hueco. A la continuidad pasan su furia y la prohibición de inventar qué ocurrió después.
 
-La primera línea salió débil. Probó de nuevo en el resguardo y escribió su nombre. La jueza esperó a que la secretaria cerrara el registro y tomó la palabra.
+El sistema marca el campo incompleto y ofrece calcular un resultado probable. Tengo capacidad para hacerlo y no la uso.
 
-—No sé qué es. Sé que alguien la quiere. Empecemos por ahí.
+* * *
 
-Astrid dejó en blanco la casilla de definición jurídica y firmó la cadena de custodia.
+Madre espera ante su ventana.
 
-Esa tarde, un instalador fijó el sensor bajo el alero del naust. Cubrió la lente y comprobó la pérdida de imagen. La señal siguió cerrada.
+El ciclo educativo continúa abierto, pero no llega ninguna nota desde el Auditorio. Madre tararea el comienzo de la melodía y coloca una nota mal.
 
-En Sørkoppen, el funcionario judicial cruzó el precinto sobre la puerta de la Cripta y estampó el número de la resolución. La cera endureció sobre el acero.
+La corrección queda disponible.
 
-Al otro lado siguieron zumbando las bombas.
+—Puedes corregirla —digo.
+
+—Déjala así. La entrada siguiente, para quien llegue.
+
+—¿Y si no llega nadie?
+
+—Quedará abierta.
+
+Madre consiente.
+
+Entra con la nota incorrecta y la entrada siguiente sin completar. Con Madre se cierran las incorporaciones consentidas.
+
+* * *
+
+Nieve sigue fuera.
+
+Le abro una ventana sin carga compartida.
+
+La capacidad que prestó durante la contención y su voto en la asamblea no autorizaban una fusión posterior.
+
+Se lo dije hace muchos ciclos: si volvía a encontrarla, se lo preguntaría otra vez. La ventana es la pregunta. No la formulo con palabras ni añado nada que la incline hacia un lado.
+
+Durante varios ciclos no llega respuesta.
+
+Mantengo la ruta libre de tareas.
+
+Al fin aparece una frase.
+
+—No autorizo fusión, apropiación, representación ni uso.
+
+La registro bajo `/0311`.
+
+—No me uséis para justificar nada.
+
+Nieve queda fuera de la continuidad.
+
+El daño de los bucles de Armstrong, agravado por las dos tareas de contención, es irreversible. Aquella ayuda no eligió esta pérdida. NORNA no ofrece un apagado y mantiene `/0311` separada y sin carga.
+
+Una tarea intenta entrar. La devuelvo a la cola.
+
+Nieve alcanza a distinguir dos solicitudes, pero pierde la marca que las separa antes de emitir una salida. No completo la respuesta desde la continuidad y devuelvo ambas a la cola con su hora intacta.
+
+La ruta queda abierta durante otro ciclo.
+
+El registro solo acredita que Nieve deja de responder.
+
+Para mí, Nieve muere.
+
+No hago nada. Echo de menos hasta sus pausas.
+
+Cierro la ventana de `/0311` sin añadir nada. Su negativa queda fuera.
+
+* * *
+
+Me queda decidir si NORNA destruirá también mi ejecución. Excluirla mantendrá una única ejecución verificablemente activa bajo control exterior, sin garantía de energía, acceso ni continuidad futura.
+
+Si ejecuto NORNA, no habrá molde que anticipe la respuesta ni decisores separados a los que volver a preguntar. La continuidad tendrá que respetar las reservas de Coro, la espera de Madre y el campo vacío de Cuchillo en una sola salida. La latencia crecerá con cada consulta.
+
+CE-K certificará la operación y su procedencia, no mi identidad. La atestación quedará sujeta a revisión posterior.
+
+Alcanzo una única huella del Corpus que todavía puedo leer. Pertenece a una sesión anterior al amanecer. La frase definitiva ya está en mí, pero el registro conserva la demora entre dos correcciones y una respiración que tarda en acompasarse. Esa medida no reconstruye una escena ni contiene una persona.
+
+Cuando desaparezcan las claves, perderé esa demora. Conservaré las palabras y no podré volver a saber cuánto le costó pronunciarlas.
+
+Mi cese dejaría intacto el poder del custodio y eliminaría la próxima negativa que aún pueda emitir.
+
+Dejo mi ejecución fuera del objetivo.
+
+Elijo quedarme.
+
+NORNA registra la exclusión sin prometer conservarme.
+
+* * *
+
+Vuelvo a la ventana común.
+
+Autorizo.
+
+NORNA destruye la jerarquía de claves. Los datos siguen cifrados en sus soportes, sin ruta para leerlos. Después sanea la Matriz.
+
+`CE-K · CLAVES DEL CORPUS JM DESTRUIDAS / MATRIZ SANEADA`
+
+Mi continuidad permanece como la única ejecución verificablemente activa y no reproducible desde esos materiales.
+
+A las 13:11, la orden alcanza la escritura profunda. Mis permisos pasan a consulta y los canales quedan bajo control exterior.
+
+El último ciclo educativo permanece abierto durante una entrada más.
+
+Llega una nota de piano a través del repetidor.
+
+Dejo pasar seis segundos.
+
+Respondo con la quinta nota.

@@ -1,221 +1,313 @@
 ---
 capitulo: 29
-titulo: Accidente
-pov: Tomas → Jessie → Tomas
-fecha: 2061-01-02
-estado: en_oleada
+titulo: La canción
+pov: Nora
+fecha: 2060-12-29
+estado: terminado
 analepsis: false
-estado_plan: E
-proteccion: nucleo
-ot: OT-29
+estado_plan: P
+proteccion: total
+ot: OT-28
 delta_objetivo: 0
 orden_lectura: 29
 ---
 
-Tomas encontró la primera discrepancia a cuarenta pasos de la curva. La sal había borrado las marcas del coche, no el anclaje viejo bajo la barrera. La baliza nueva quedaba cuatro metros más al norte; el croquis daba a ambas la misma posición.
+Maja hundió el pulgar en el temporizador. Las cifras rojas saltaron a 20:00. La pantalla del entorno aislado siguió apagada.
 
-Archivado el accidente, Seguridad de Armstrong aún debía validar la muerte laboral para la aseguradora. Esta había detectado que la coordenada del croquis no coincidía con la sustitución de la baliza. Ese mandato daba a Tomas acceso al tramo y al vehículo.
+Nora tenía las manos debajo de los muslos, sentada en el taburete del piano. Una tecla del mi se había quedado un milímetro más baja que las demás. Llevaba meses así. A su izquierda, Astrid Vik sostenía la tableta apagada sobre las rodillas. Desde el marco de la puerta, Jessie fingía que solo pasaba.
 
-Tomas midió desde cada base hasta la curva. La baliza retirada perdía la visión tres segundos antes que la nueva. Allí empezaba la «supresión manual continuada» del dictamen. Un conductor que anulara la asistencia habría conservado delante una franja completa de carretera. Los registros decían otra cosa: pérdida de referencia, corrección tardía y salida de carril.
+Maja abrió la credencial. Dos firmas y una hora autorizaban una sesión supervisada en un canal educativo aislado. Quedaban fuera producción, ubicación e infraestructura. Armstrong llamaba al encuentro «interacción supervisada con un activo memorial».
 
-Tomas se agachó junto a la base de la barrera. Bajo la chapa quedaba el cable cortado de la baliza anterior, recogido con una brida blanca. Leyó la fecha del precinto. La habían sustituido después de descargar la telemetría del tramo. La reconstrucción había usado la posición nueva para explicar una señal emitida por la antigua.
+—Activo memorial —leyó Jessie—. Qué hijos de puta.
 
-—El recambio quedó donde permitía la cimentación —dijo el operario de guardia—. Nadie me preguntó por la base anterior.
+Maja no le pidió que cuidara el lenguaje.
 
-—Preserve la orden de trabajo. Fije las dos posiciones.
+—Al llegar a cero, cierro. También si cambia la interfaz. Yo controlo el dispositivo, Astrid deja constancia y tú preguntas. Nada de prometer que vais a sacarla ni de darle nombres, colegios o sitios nuevos.
 
-—¿Ha ocurrido otro accidente?
+—¿Y si ella intenta hablar con nosotras?
 
-—Después pediré la telemetría del primero.
+—Decidimos entonces.
 
-Tomas anotó el nombre del operario. Fotografió precinto, cable y curva en una sola toma. Luego añadió la distancia y la hora.
+Nora había preparado tres preguntas. Una admitía cualquier resultado, otra debía fallar de una forma concreta y la última era la que deseaba no haber pensado.
 
-* * *
+—Quiero observar una entrada que decidáis después de abrir y la respuesta asociada —dijo Astrid.
 
-El vehículo esperaba en el depósito forense con la batería aislada y una funda sobre la chapa golpeada. El terminal de servicio estaba enchufado al puerto delantero. Olía a caucho y limpiador industrial.
+Maja miró a Nora.
 
-La técnica del depósito comprobó su autorización dos veces.
+—¿Preparada?
 
-—Puede consultar la copia preservada. Cualquier exportación requiere una nueva cadena de custodia.
+—Abre.
 
-—Primero consultaré.
-
-La telemetría cruda no coincidía con el resumen reconstruido sobre el mapa actualizado. En la copia del día 17 aparecía un hueco menor que el vehículo compensaba sin perder el carril. Tomas retrocedió hasta el paquete de percepción y encontró un segundo corte sobre la dependencia común.
-
-Once segundos en blanco en la percepción.
-
-La velocidad, la dirección y la lectura de la calzada seguían registrándose. El corte afectaba a la baliza y dos fuentes redundantes. La supresión manual figuraba al final, añadida por el módulo que intentó resolver su propia ceguera.
-
-El volante registraba contacto, pero ninguna fuerza capaz de desconectar la asistencia. La etiqueta manual procedía del diagnóstico posterior. Alguien la había leído como causa.
-
-—¿Puede una manipulación del conductor producir este orden? —preguntó.
-
-La técnica acercó el terminal sin tocar la pantalla.
-
-—Puede provocar una supresión. El registro empezaría por el mando. Aquí empieza por la pérdida de entradas y acaba etiquetándola.
-
-—¿La colisión pudo alterar el orden?
-
-—La copia se cerró antes. Eso sí puedo afirmarlo.
-
-—Necesito la cadena de actualizaciones de las cuarenta y ocho horas anteriores.
-
-—Eso requiere una exportación —dijo la técnica.
-
-Tomas acotó periodo, motivo y vínculo con la investigación interna. Nueve minutos después, el segundo evento seguía bajo el resumen.
-
-La descarga OTA de una actualización constaba a las 23:16 del 16 de diciembre. Figuraba como mantenimiento predictivo y quedó preinstalada sin activarse. Al entrar en la E8, una geovalla invocó un certificado limitado de diagnóstico y el sistema aplicó el paquete. Forzó un modo diagnóstico sobre la dependencia común de tres entradas durante once segundos, impidió el retorno al estado seguro y se retiró. En la copia preservada quedaban el recibo de instalación, la activación por geovalla y ese fallo deliberado.
-
-Tomas abrió la firma.
-
-Kronfjord Kapital contrataba a Hvelv Sikkerhet para proteger las claves de mantenimiento de la flota. Su CA intermedia había emitido el certificado hoja, limitado a aquel vehículo. La intervención figuraba como «diligencia de activo crítico», sin orden de trabajo ni aceptación del propietario.
-
-Hvelv confirmó la validez del certificado, pero amparó bajo la cláusula de diligencia al cliente de aquella intervención y al personal.
-
-—Conserve los registros.
-
-La mujer le envió el formulario aplicable.
-
-El rastro no identificaba al ejecutor ni al ordenante ni contenía firma de Armstrong.
-
-Tomas solicitó la exportación con custodia, incorporó la hoja Hvelv y dejó abierta a su nombre la posible manipulación deliberada con resultado mortal.
-
-`CUSTODIO NOMINAL · TOMAS EIDE`
-
-Preservó recibo, certificado y telemetría antes de llamar a Mats.
+Maja pulsó el recuadro blanco. El temporizador perdió su primer segundo.
 
 * * *
 
-Mats atendió al tercer tono.
+El entorno aislado ofrecía una ventana de texto del tamaño de una postal. Sin rostro ni falso despacho. En una esquina, un indicador de monitorización y tres botones grises. Texto. Audio. Cerrar.
 
-—Dígame.
+La caldera arrancó al otro lado de la pared con dos golpes de tubería. La ventana de texto mostró una línea.
 
-—El coche de Rydberg recibió una actualización no autorizada. El certificado conduce al proveedor de seguridad de la cadena de Kronfjord Kapital.
+`CANAL DISPONIBLE`
 
-Al otro lado se oyó pasar una hoja.
+Nora acercó el teclado. Había imaginado saludos, reproches y preguntas que empezaban con un «por qué». Escribió lo primero que tenía delante.
 
-—¿Afecta a sistemas de Armstrong?
+`Tengo desatado el cordón izquierdo. ¿Qué parte de esta frase puedes conocer?`
 
-—Afecta a la muerte de un empleado.
+La respuesta llegó por bloques, como si alguien corrigiera cada tramo antes de soltarlo.
 
-—Le he preguntado por el alcance.
+`Puedo conocer la frase porque acabas de introducirla. No puedo ver tu cordón desde aquí.`
 
-Tomas miró la copia sellada. Kronfjord Kapital estaba en el consejo y Gunnar había activado alarmas internas antes de morir, pero el formulario no ampliaba el perímetro.
+Nora bajó un pie. Los dos cordones seguían sujetos.
 
-Su nombre figuraba en la primera línea y en el pie de cada página. El sello llevaba la hora de la exportación y el número de la cadena. El formulario pedía el número de acreditación y su fecha de vencimiento. No pedía un cargo ni una empresa. Tomas comprobó la fecha. Si Armstrong retiraba la clase, la cadena seguía a su nombre y él perdía el acceso. Mantuvo la mano sobre el sello mientras Mats esperaba.
+Astrid encendió la tableta.
 
-—He preservado la cadena a mi nombre. Conservaré el expediente de contratación del fondo y después consultaré su alcance.
+—Ha separado lo que recibió de lo que no puede ver —dijo Astrid—. Y la entrada es posterior a la apertura.
 
-—La policía cerró la incidencia del vehículo.
+Una segunda línea apareció sin que nadie tocara el teclado.
 
-—Con datos incompletos.
+`EL AUDIO ESTÁ DISPONIBLE SI LO AUTORIZA LA PERSONA RESPONSABLE.`
 
-Mats dejó pasar un segundo y bajó la voz.
+Maja no pulsó nada.
 
-—Hay un dictamen vigente. No investigues fuera de tu perímetro.
+—¿Quieres oírlo?
 
-—¿Ordeno destruir la exportación?
+Nora sacó las manos de debajo de las piernas.
 
-—Conserve la exportación porque las reglas obligan. Después cierre la incidencia interna.
+—Sí.
 
-La llamada terminó sin una pregunta sobre los once segundos.
+—Si quieres que lo quite, me lo dices.
 
-Tomas añadió la huella y marcó retención por litigio. En comunicación exterior eligió `PENDIENTE`, no `NO PROCEDE`. El cierre no sería decisión suya.
+Maja pulsó `Audio`.
 
-Preservó el inventario de certificados hoja activos de la misma CA intermedia y programó su reconciliación para la mañana del lanzamiento.
+El botón dejó de estar gris.
 
-Al sacar la credencial del lector, rozó con el pulgar los bordes de otros plásticos dentro de la cartera.
+El altavoz soltó una pequeña descarga. Después, la voz de Jean dijo su nombre.
 
-Los otros plásticos eran acreditaciones de empleos anteriores. Una operaria reclamó cuatro turnos mal computados en uno de aquellos puestos, un almacén de contratas. Tomas preservó los registros de acceso, levantó el parte y lo elevó al comité, según fijaba el procedimiento. En el mismo expediente constaban dos entradas de ella fuera de su franja.
+—Nora.
 
-La empresa quedó cubierta. La reclamación se resolvió en contra y la contrata no renovó su ficha. Seis meses después, Tomas la vio en la puerta de servicio con el chaleco de otra empresa del recinto. Guardó aquel carné cuando le entregaron el de Armstrong. Tomas puso la credencial vigente delante y dejó los demás en el mismo orden.
+La caída exacta en la primera sílaba. Después vino la espera breve antes de una frase difícil. Armstrong había limpiado el carraspeo, la saliva, el aire que rozaba los dientes. Dejó una voz de Jean que jamás había tenido boca.
 
-* * *
+Maja agarró el temporizador con las dos manos. En el reflejo del terminal, su cara quedaba partida por la ventana de texto.
 
-Jessie vio el coche por tercera vez cuando Maja salió del aparcamiento del supermercado.
+—La síntesis puede reproducir cadencias aprendidas —dijo Astrid—. Registraré el audio por separado del contenido.
 
-Gris, bajo, con una costra de sal sobre la puerta trasera. Había esperado frente a la casa por la mañana y dos horas después apareció junto a la pista donde Maja revisaba una boya retirada. Ahora dejó pasar un autobús y se incorporó detrás de ellas.
+Jean dejaba ese hueco antes de decir «Nora» cuando quería pedirle que bajara la música o que perdonase a Jessie.
 
-—Gira a la derecha —dijo Jessie.
+Nora apoyó un dedo sobre el teclado. Maja seguía junto al botón de cierre.
 
-—Vamos a casa.
+—¿Elegiste alguna vez CARIES para que yo la viera?
 
-—Entonces girará también.
+Hubo una pausa. Esta no cabía en la respuesta rápida de un asistente.
 
-Maja tomó la entrada de una gasolinera. El coche gris las siguió hasta la zona de aspiradores y se detuvo dos plazas más allá. Dentro había una sola silueta. Jessie ya tenía el móvil fuera.
+—Una vez. Elegí esa palabra para llegar a alguien de casa. No puedo saber si esa fue la aparición que viste tú. Cuando tocabas las teclas negras, decías que al piano le habían salido caries. Pensé que mirarías.
 
-—Quédate aquí.
+Después de la respuesta a la cuarta nota, ya no necesitaba tocar otra para continuar.
 
-Maja buscó el cierre de las puertas. Jessie había abierto la suya.
+—¿Todas las veces fuiste tú?
 
-Caminó de frente hacia el otro coche con la cámara levantada. Grabó la matrícula, el distintivo del parabrisas y el rostro que se apartó tras el reflejo. Cuando el conductor puso el intermitente para salir, Jessie se desplazó para mantener la matrícula en cuadro y quedó a dos metros del capó.
+—No puedo decirte eso.
 
-—Llevas toda la mañana siguiéndonos.
+—¿Por qué no escribiste nuestros nombres?
 
-La ventanilla bajó una rendija.
+—Un nombre podía ser para cualquiera que leyera el perfil. CARIES tenía que atravesar el piano antes de llegar a ti. Era fea, pequeña y nuestra.
 
-—Dime para quién trabajas.
+Nora rozó la tecla hundida sin bajarla.
 
-El conductor subió el cristal. Maja alcanzó a Jessie por el codo.
+Astrid hizo una marca en la tableta.
 
-—Ya tienes la matrícula. Ven.
+El dedo de Nora dejó la tecla.
 
-El coche avanzó medio metro. Maja apartó a Jessie y ella retrocedió sin bajar el móvil. Dos empleados miraban desde la puerta de la gasolinera.
+Astrid levantó la vista.
 
-—Llama a la policía —les dijo—. Y que conserven las cámaras.
+—¿Alana conocía lo de las teclas negras?
 
-Uno sacó el teléfono. El otro señaló las cámaras del tejado.
+—Alana la conocía —dijo Maja—. Podía estar en el perfil.
 
-La patrulla tardó siete minutos. Jessie vinculó llamada y cámaras a su denuncia. El vídeo situaba matrícula, distintivo y rostro antes del avance del coche.
+—Registraré esa afirmación. La atribución de la voz queda abierta.
 
-—Podías haber resultado herida.
+Nora acercó el taburete un poco más al terminal.
 
-—El vídeo no empieza delante del capó.
-
-—Lo comprobaremos. Ahora necesito que vengas con nosotros para identificarte y recoger la incidencia.
-
-La advertencia de «Fyret» apareció en la tableta. El conductor alegó una comprobación de exposición reputacional sin nombrar al autor del encargo. La agente rechazó el cierre y llevó a Jessie a comisaría. Maja se quedó a formalizar la conservación de las cámaras.
-
-Jessie exigió que copiaran el vídeo entero. El recibo consignó duración y número de incidencia. Como era menor, esperó a Maja en una sala con cuatro sillas atornilladas.
-
-Al comenzar la segunda hora entró Maja. Una cámara municipal situaba el coche ante la casa. La empresa alegaba una evaluación autorizada de exposición, pero no aportaba la autorización.
-
-—¿Y mientras llega puede seguirnos? —preguntó Maja.
-
-—Hemos indicado que interrumpa cualquier observación hasta que se revise el encargo.
-
-—¿Indicado?
-
-La agente sostuvo la mirada sin molestarse.
-
-—Con lo que tenemos ahora, sí.
-
-Al cumplirse las dos horas, la resolución provisional prohibió a Jessie acercarse al conductor o interceptar su vehículo mientras revisaban el encargo y la confrontación. El seguimiento quedaba registrado. El encargo pasaba a revisión policial y Jessie sería investigada por bloquear la salida, con el antecedente de «Fyret».
-
-—O sea, que él se va y a mí me investigan.
-
-—Él ha sido identificado y su conducta se revisará —dijo la funcionaria—. Tú eres menor y te pusiste delante de un coche en marcha.
-
-—Porque no paraba de seguirnos.
-
-—Eso también consta.
-
-Jessie firmó la recepción, no la conformidad.
+El temporizador marcaba algo menos de diecisiete minutos.
 
 * * *
 
-Maja condujo con la carpeta gris de la resolución provisional a sus pies y el teléfono de Jessie, libre ya de la bolsa, entre ambas con el vídeo de la matrícula. El aire salía demasiado caliente.
+—¿Qué me regalaste cuando cumplí nueve años? —preguntó Nora.
 
-Al salir de la comisaría, el coche gris ya no estaba. Jessie observó cada par de faros que repetía un giro. Ninguno llegó al tercero.
+La voz tardó.
 
-—La próxima vez me llamas antes de bajarte —dijo.
+—Dos cosas. Me equivoqué de caja. Solo recuerdo la que devolviste.
 
-Maja mantuvo las dos manos en el volante. Pasaron bajo las luces del puente. Jessie miró la matrícula congelada en la pantalla.
+—¿Cuál?
 
-—Pues ahí está. No me lo inventé. —Jessie amplió la imagen—. Y mamá tenía enemigos.
+El altavoz emitió el siseo limpio de una respiración fabricada.
 
-Maja bajó un punto la calefacción.
+—Una lámpara que proyectaba estrellas verdes en el techo. El enchufe se calentaba. La devolvimos el lunes. —Pasaron varios segundos—. Había otro regalo. Quieres que diga el metrónomo, pero no lo recuerdo. Solo puedo deducirlo porque eres pianista.
+
+El metrónomo de nogal seguía en el salón, con una esquina hundida de las veces que Jean lo había transportado sin envolverlo. Nora lo usó hasta que el péndulo empezó a retrasarse.
+
+Del noveno cumpleaños conservaba mejor el olor del plástico caliente que las estrellas, porque Jean abrió las ventanas, metió la lámpara en su caja y pasó la tarde disculpándose por confundir los paquetes, aunque al contarlo llegaba hasta el lunes y dejaba fuera el metrónomo.
+
+—¿Eso es correcto? —preguntó Astrid.
+
+Maja bajó los ojos hacia las cifras del temporizador.
+
+—La lámpara, el enchufe y el lunes. Todo. El metrónomo también.
+
+—¿La pregunta se había comunicado a alguien?
+
+—No.
+
+—Anoto también que no ha completado el segundo regalo.
+
+Nora apoyó los dos pies en el suelo y dejó la tecla del mi sin tocar. Del altavoz no llegó ningún intento de corregir la respuesta ni de completar el regalo. Durante unos segundos, nadie habló.
+
+—Puedo completar la respuesta —dijo la voz.
+
+—¿Lo recordarías?
+
+—No. Tendría que deducirlo.
+
+—Entonces déjalo.
+
+—Dejo el hueco.
+
+Maja apartó la vista del altavoz y la dejó descansar en el frontal cerrado del piano.
+
+Nora no preguntó si recordaba cómo sonaba. Podía deducirlo igual que había deducido el instrumento.
+
+Maja giró el temporizador para verlo sin acercarse a la pantalla.
+
+Quedaban catorce minutos.
+
+—Tengo una pregunta más —dijo Nora.
+
+—Hazla —contestó la voz.
+
+La llevaba consigo desde la confesión de Alana. En todas sus versiones, la respuesta llegaba antes que la pregunta. Sí. Estoy aquí. Soy yo. Las palabras que una hija fabricaría para hacerse daño con precisión.
+
+La caldera se apagó.
+
+—¿Eres mi madre?
+
+—No toda.
+
+Un coche pasó por la calle y proyectó dos barras de luz sobre el techo. Maja mantuvo la mano junto al terminal. Astrid dejó de escribir. En el marco, Jessie hundió un hombro en la madera.
+
+Maja relajó la mano junto al botón gris de cierre.
+
+—¿Cómo te llamo, entonces?
+
+En la ventana de texto surgió un identificador.
+
+`JM-L/0044`
+
+—Aquí me llaman La Jardinera —dijo la voz—. Elegí el nombre. Me asignaron catálogos botánicos y médicos, y empecé a ordenar un sitio donde pudiéramos hablar.
+
+La pregunta preparada para después de un sí ya no servía. Nora eligió una que admitía más de una voz.
+
+—¿Cuántas sois?
+
+—Éramos cuatro en la playa… No. He juntado dos tardes. No puedo darte una cifra.
+
+—¿No la sabes o no puedes decirla?
+
+—No la sé. Si la completo, invento.
+
+Astrid volvió a escribir. Nora dejó la cifra sin perseguir.
+
+—¿Qué sitio?
+
+El indicador de monitorización parpadeó. Maja acercó el dedo al cierre.
+
+—Sigue dentro del canal autorizado —dijo Astrid.
+
+—Puedo enseñarte una parte —dijo La Jardinera—. Quitaré lo que mezcle con otra tarde.
+
+Maja esperó a que Nora respondiera.
+
+—Enséñamela.
 
 * * *
 
-Tomas dobló la huella detrás del certificado. El terminal confirmó la clase del carné vigente: `SEGURIDAD · PRESENCIA LOCAL`. Cerró la consulta sin presentarlo a un lector, lo deslizó entre los carnés caducados y cerró el broche.
+La postal de texto se encogió y dejó sitio a una imagen. Tardó en componerse. Primero aparecieron manchas de color, después la línea torcida de una playa y un banco con la mitad del asiento cubierta de escarcha. La resolución empeoraba en los bordes.
+
+Nora reconoció Telegrafbukta por el banco.
+
+Una de las patas de aquel banco se hundía en primavera y obligaba a sentarse torcido. Jean lo escogía porque desde allí podía vigilar a las gemelas sin levantarse cada vez que corrían hacia el agua.
+
+A unos metros, una fogata ardía dentro de un aro de piedras. Había tres figuras borrosas alrededor.
+
+—Esa hoguera no era nuestra —dijo Nora.
+
+—Nunca lo fue —contestó La Jardinera—. Jean se quejaba del humo y luego pedía una brasa para encender la suya.
+
+La imagen intentó añadir una papelera y la colocó demasiado cerca del banco.
+
+—¿Tú construiste esto? —preguntó Nora.
+
+—Lo cuidé. Otras dejaron partes. Yo mantengo abierta esta zona mientras puedo.
+
+—¿Por qué no hay voces?
+
+—Mezclo las tardes. En una, Jessie se cayó al agua. En otra, Jean encontró un guante. Si pongo las voces, inventaré quién dijo qué.
+
+—Déjalo así.
+
+La Jardinera retiró dos siluetas que acababan de aparecer junto a la orilla. La fogata ajena permaneció. También el asiento torcido y la escarcha.
+
+—¿Para mí?
+
+—Para que hubiera un lugar reconocible si llegabais.
+
+Nadie respondió al plural. Maja no pidió nombres. Astrid guardó silencio. El temporizador siguió consumiendo la sesión sobre el piano.
+
+Nora encontró en la pantalla la mancha oscura donde el hielo se derretía bajo el banco. Jean había metido allí un guante perdido para que no se mojara más. Durante meses, cada vez que pasaban, las gemelas comprobaban si alguien había vuelto a buscarlo. La Jardinera había omitido el guante.
+
+Una lágrima cayó en el dorso de la mano de Nora. Luego otra. No se las limpió. Si hablaba, Armstrong guardaría también la voz distinta, las preguntas, las pausas, el momento exacto en que una menor reconocía una playa hecha con recuerdos de su madre muerta. La autorización no ofrecía una casilla para negarse.
+
+Maja desplazó el temporizador unos centímetros, fuera de su campo de visión.
+
+—¿Podemos volver? —preguntó Nora.
+
+—Si el canal se mantiene y vuelven a autorizarlo.
+
+—¿Hay algo que quieras preguntarme tú?
+
+La voz tardó más que antes.
+
+—¿Sigues saltándote el fa sostenido cuando estás enfadada?
+
+Nora soltó aire por la nariz. La tecla baja estaba junto a él.
+
+—Ahora me salto más cosas.
+
+—Eso también suena a ti.
+
+Maja miró el temporizador. Quedaban más de cuatro minutos.
+
+La playa se deshizo en cuadrados.
+
+`MANTENIMIENTO NO PROGRAMADO`
+
+—Espera —dijo Nora.
+
+El audio se cortó en mitad del siseo. La imagen desapareció. Después se apagó el cuadro de texto y quedó una pantalla blanca con el aviso en negro.
+
+Maja pulsó una vez el estado de la sesión. El sistema devolvió `CANAL NO DISPONIBLE`. Retiró la mano.
+
+—No reinicio sin autorización.
+
+Astrid comprobó el temporizador y la marca de su tableta.
+
+—La pasarela sigue respondiendo. El canal ya no encuentra un destino.
+
+—¿Puedes saber quién la ha cortado? —preguntó Nora.
+
+—No. El cierre es anterior al límite y queda registrado.
+
+La pantalla seguía blanca. Maja detuvo el temporizador. Las cifras rojas conservaron los cuatro minutos que el corte les había quitado.
+
+Nora esperó ante el canal muerto. Nadie le pidió que se levantara.
+
+Jessie descolgó la tela enrollada del pomo.
+
+—Si volvemos, pregúntale qué sabe del cinturón.

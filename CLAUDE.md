@@ -10,8 +10,8 @@
 
 ## Estructura del repositorio
 
-- `capitulos/cap-01.md … cap-41.md` — un capítulo por fichero, frontmatter YAML del autor (`capitulo`, `titulo`, `pov`, `fecha`, `estado`, `analepsis`).
-- `capitulos/cap-n1.md … cap-n6.md` — capítulos nuevos del plan (tabla 5.1), con `orden_lectura` decimal (§2.4).
+- `capitulos/cap-01.md … cap-42.md` — un capítulo por fichero, frontmatter YAML del autor (`capitulo`, `titulo`, `pov`, `fecha`, `estado`, `analepsis`).
+- **Renumeración final (2026-08-21): los 49 capítulos van del 01 al 49 en `capitulos/`, sin saltos, con `capitulo` y `orden_lectura` correlativos y coincidentes con el número impreso.** Ya no existen los nombres del plan (`cap-n1`…`cap-n6`) ni los de W10 (`cap-w1`, `cap-w2`). Mapa completo en `biblia/b0-mapa-renumeracion.md`. **`informes/` y `ordenes/` conservan la numeración de su fecha, a propósito: son el registro de lo que se decidió y cuándo.**
 - `biblia/metadatos.json` — MANIFIESTO del proyecto: partes (títulos y subtítulos con cuenta atrás), registro de capítulos (n, slug, archivo, origen, palabras), campos editoriales del autor. Fuente de verdad editorial.
 - `biblia/` (resto) — B0–B8 generados por A1 en Fase 0.
 - `ordenes/`, `informes/`, `protegidos/`, `herramientas/`, `compilado/` — según §2.2.
@@ -23,11 +23,11 @@
 - En F0: `palabras_objetivo` 65.000 → 85.000; añade `palabras_real` por capítulo (recuento real, sin frontmatter); reescribe `palabras` como presupuesto vF = palabras_real(v0) + `delta_objetivo` (tabla 5.1). M8 lee la banda del manifiesto (objetivo ± 1.000).
 - Capítulos nuevos: se registran en `capitulos[]` SOLO tras superar G-A2, con `origen: "REVISIÓN 10"` (convención del autor: cap-33 consta como "REVISIÓN 9").
 - Rangos de `partes[]`: NO se tocan durante el trabajo (los `orden_lectura` decimales caen dentro de los rangos vigentes). Renumeración de `capitulo` y rangos: una sola vez, en W7 (pasan a 1–12, 13–24, 25–36, 37–47).
-- `persona` por capítulo (p. ej. `"primera"` en cap-38) es contrato estilístico: el validador falla si la prosa no coincide. El cambio de persona del 38 está protegido (Apéndice A).
+- `persona` por capítulo (p. ej. `"primera"` en cap-39) es contrato estilístico: el validador falla si la prosa no coincide. El cambio de persona del 38 está protegido (Apéndice A).
 
 ## Reglas duras (siempre)
 
-- Ficheros con `proteccion: total` — **cap-01, cap-03, cap-04, cap-05, cap-10, cap-24, cap-28, cap-48, 00-aviso, 99-recursos** (numeración vigente tras W7; los números viejos que figuraban aquí —09, 20, 23, 41— llevaban desactualizados desde la renumeración, y lo detectó A7 en W10) — son INTOCABLES: diff = 0 salvo ortotipografía aprobada en gate. Verificación por hash (M9) en pre-commit; hook PreToolUse bloquea Write/Edit sobre ellos.
+- Ficheros con `proteccion: total` — **cap-01, cap-03, cap-04, cap-05, cap-10, cap-25, cap-29, cap-49, 00-aviso, 99-recursos** (numeración vigente tras W7; los números viejos que figuraban aquí —09, 20, 23, 41— llevaban desactualizados desde la renumeración, y lo detectó A7 en W10) — son INTOCABLES: diff = 0 salvo ortotipografía aprobada en gate. Verificación por hash (M9) en pre-commit; hook PreToolUse bloquea Write/Edit sobre ellos.
 - Los núcleos con `proteccion: nucleo` (Apéndice A del plan) se verifican por hash de span.
 - El tag git `v0` es la baseline congelada: prohibido reescribir historia anterior al tag.
 - Carta de sensibilidad (Apéndice F del plan): vinculante en TODO borrador, incluso descartado. Veto de A7 no negociable.
@@ -64,12 +64,12 @@
   del autor del 18 de agosto: «ningún capítulo nombrado como punto de abandono por dos o más
   lectores en el mismo hito».
 - **Resultado, medido a n=7 con los mismos siete roles que midieron vF:** en vF incumplían
-  `cap-31`, `cap-27` y `cap-20` —los tres nuestros— más `cap-15`; hoy incumple **solo `cap-09`
+  `cap-31`, `cap-28` y `cap-20` —los tres nuestros— más `cap-15`; hoy incumple **solo `cap-09`
   «Milisegundos», del autor y declarado techo con aritmética**. La formulación es de A2:
   *«quitamos lo nuestro y debajo estaba lo que siempre hubo»*.
 - **Estado del libro: 49 capítulos, 80.679 palabras, en banda.** Amplitud de capítulo 1,36 →
   **2,06**. M7 0 · M9 10 ficheros y 139 spans · M10 100 % · validador 0 avisos. Ficheros
-  `cap-01`…`cap-48` **sin `cap-31`**, más `cap-w1` (orden 21,5) y `cap-w2` (36,5).
+  `cap-01`…`cap-49` **sin `cap-31`**, más `cap-22` (orden 21,5) y `cap-37` (36,5).
   **Renumeración pendiente: se hace una vez y al final.**
 - **La rúbrica está MUERTA como instrumento de decisión, y demostrado:** el control de deriva
   sobre v0 —texto intacto— dio estructura 8/8/8,5/8, trama 8/8/8/8,5 y **duelo 9,5/9,5/9,5/9**

@@ -90,3 +90,76 @@ la fogata ajena sigue ardiendo sola.»
 **Estado de la numeración:** 49 capítulos. Ficheros `cap-01`…`cap-48` **sin `cap-31`**, más
 `cap-w1` (orden 21,5) y `cap-w2` (orden 36,5). Los números de fichero y los impresos ya no
 coinciden en ningún tramo. **Los números localizan; solo la cita literal instruye y verifica.**
+
+
+---
+
+## RENUMERACIÓN FINAL · 2026-08-21 · decisión de autor
+
+**Se acabaron los huecos y los decimales.** El libro tiene **49 capítulos** y los
+ficheros van del 01 al 49 **sin saltos**, con `n` y `orden_lectura` correlativos y
+coincidentes con el número impreso. Es la operación que W10 aplazó dos veces —«se hace
+una vez y al final, como en W7»— y ésta es esa vez.
+
+**Estado del que se venía:** ficheros del 01 al 48 **con un hueco en el 31** (fundido en
+W10 it.1), más `cap-w1` (orden 21,5) y `cap-w2` (orden 36,5), los dos capítulos escritos
+en W10.
+
+| antes | ahora | título |
+|---|---|---|
+| `cap-w1` | **`cap-22`** | La mosquitera |
+| `cap-22` | **`cap-23`** | No determinista |
+| `cap-23` | **`cap-24`** | NIDHOGG |
+| `cap-24` | **`cap-25`** | La cuarta nota |
+| `cap-25` | **`cap-26`** | Coro |
+| `cap-26` | **`cap-27`** | Auditoría |
+| `cap-27` | **`cap-28`** | Inventario |
+| `cap-28` | **`cap-29`** | La canción |
+| `cap-29` | **`cap-30`** | Accidente |
+| `cap-30` | **`cap-31`** | EDDA |
+| `cap-w2` | **`cap-37`** | Papeletas |
+| `cap-37` | **`cap-38`** | El ladrillo |
+| `cap-38` | **`cap-39`** | La oferta |
+| `cap-39` | **`cap-40`** | Bajamar |
+| `cap-40` | **`cap-41`** | Soldagen |
+| `cap-41` | **`cap-42`** | Caída |
+| `cap-42` | **`cap-43`** | Cuchillo abre los ojos |
+| `cap-43` | **`cap-44`** | No soy un modelo |
+| `cap-44` | **`cap-45`** | Norna |
+| `cap-45` | **`cap-46`** | Depósito |
+| `cap-46` | **`cap-47`** | Sombra |
+| `cap-47` | **`cap-48`** | Acta |
+| `cap-48` | **`cap-49`** | El siguiente Soldagen |
+
+*(Los 26 restantes conservan su nombre. El 31 vuelve a existir: lo ocupa el que era el
+30, «EDDA».)*
+
+### Qué se reescribió y qué NO
+
+**Reescrito:** el manifiesto (`n`, `archivo`, `orden_lectura`), el frontmatter de los 49
+capítulos, `spans.json` (71 spans re-apuntados), los hashes (regenerados) y las
+referencias de `b1`, `b2`, `b3-canon`, `b4-chekhov`, `b5`, `b6`, `b7-carta`,
+`b7-perimetro`, `b8` y `CLAUDE.md`. Todo **en una sola pasada por fichero**, que es la
+lección de W7: la primera vez se hizo en pasadas sucesivas y un capítulo quedó ambiguo
+entre dos distintos.
+
+**NO reescrito, a propósito:**
+
+- **Este documento por encima de esta línea.** Su tabla es el registro de la
+  renumeración de W7 y reescribirla la destruiría. *(Se reescribió por error durante
+  esta operación y se restauró de inmediato.)*
+- **`informes/` y `ordenes/`** — 6.646 referencias. Son el registro histórico de lo que
+  se decidió y cuándo, y cada informe habla del libro **tal como era el día que se
+  escribió**. Mismo criterio que en W7.
+- **`b3-lexicon.json` y `b4-ledger.json`.** No por criterio: **porque sus referencias ya
+  estaban ancladas a la numeración anterior a W7**, como descubrió A7 en W11. Aplicarles
+  el mapa de hoy sobre una base ya falsa produciría **un error nuevo con aspecto de
+  corrección**. Necesitan reconstrucción completa por cita literal, no traducción.
+
+### Y la advertencia que vale para todo lo reescrito
+
+**Se ha traducido el número de capítulo, no el número de línea.** Donde una referencia
+decía `30:247` ahora dice `31:247`, y la línea 247 sigue siendo la que era **solo si
+nadie tocó ese capítulo después de escribirse la referencia**. Varios se tocaron.
+
+**Los números localizan; solo la cita literal instruye y verifica.**

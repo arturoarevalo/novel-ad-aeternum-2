@@ -23,7 +23,7 @@
 
 **Dos definiciones que hacen falta para aplicar la Carta.**
 
-- **Voz con autoridad narrativa** = el narrador en cualquier persona, incluida la primera de `cap-44`; **toda acta, auto, resolución o consignación de un órgano** —la inspectora, la jueza y la autoridad de supervisión de sistemas cognitivos, **se las nombre por sigla, por perífrasis o por su nombre completo**—; **todo texto en monoespaciado**, que en este libro es la salida de un sistema presentada como hecho (EDDA, consolas, sellos, acuses, auditados); la profesional de apoyo de `cap-11`; y el autor en los paratextos. Un personaje en diálogo puede decir lo que la rabia le dicte y el narrador ni lo ratifica ni lo desmiente. Esa asimetría es el motor moral del libro entero. *(Reescrito el 2026-08-20. La versión anterior anclaba la definición a una sigla —«la TKS»—, es decir **al único tipo de dirección que una pasada de nomenclatura puede retirar**. Una definición que deja de aplicarse porque alguien renombró un órgano no es una definición: es un puntero. Ahora define por FORMA.)*
+- **Voz con autoridad narrativa** = el narrador en cualquier persona, incluida la primera de `cap-45`; **toda acta, auto, resolución o consignación de un órgano** —la inspectora, la jueza y la autoridad de supervisión de sistemas cognitivos, **se las nombre por sigla, por perífrasis o por su nombre completo**—; **todo texto en monoespaciado**, que en este libro es la salida de un sistema presentada como hecho (EDDA, consolas, sellos, acuses, auditados); la profesional de apoyo de `cap-11`; y el autor en los paratextos. Un personaje en diálogo puede decir lo que la rabia le dicte y el narrador ni lo ratifica ni lo desmiente. Esa asimetría es el motor moral del libro entero. *(Reescrito el 2026-08-20. La versión anterior anclaba la definición a una sigla —«la TKS»—, es decir **al único tipo de dirección que una pasada de nomenclatura puede retirar**. Una definición que deja de aplicarse porque alguien renombró un órgano no es una definición: es un puntero. Ahora define por FORMA.)*
 - **Sugerir o reconstruir** no es solo decir. Es **acumular** objetos, lugares, horas o gestos que un lector pueda montar como preparación o escena. La elipsis no se rompe con una frase: se rompe sumando páginas que por separado no dicen nada.
 
 ---
@@ -38,7 +38,7 @@
 
 Correspondencia vigente:
 
-`cap-01` → **1. Corona** · `cap-02` → **2. La pecera** · `cap-03` → **3. Vacaciones muy largas** · `cap-04` → **4. El ferry** · `cap-05` → **5. Flor** · `cap-06` → **6. La casa sin ella** · `cap-07` → **7. Lote rojo** · `cap-08` → **8. Turno** · `cap-09` → **9. Milisegundos** · `cap-10` → **10. Despedida** · `cap-11` → **11. La primera cita** · `cap-12` → **12. Caries** · `cap-13` → **13. Preservación funcional** · `cap-14` → **14. Gunnar** · `cap-15` → **15. Miles** · `cap-16` → **16. La visita** · `cap-17` → **17. El salero** · `cap-18` → **18. Canela** · `cap-19` → **19. La firma** · `cap-20` → **20. Instituto** · `cap-21` → **21. Cuchillo** · `cap-w1` → **22. La mosquitera** · `cap-22` → **23. No determinista** · `cap-23` → **24. NIDHOGG** · `cap-24` → **25. La cuarta nota** · `cap-25` → **26. Coro** · `cap-26` → **27. Auditoría** · `cap-27` → **28. Inventario** · `cap-28` → **29. La canción** · `cap-29` → **30. Accidente** · `cap-30` → **31. EDDA** · `cap-32` → **32. Casa prestada** · `cap-33` → **33. Apartada** · `cap-34` → **34. El mismo trayecto** · `cap-35` → **35. La poda** · `cap-36` → **36. La asamblea** · `cap-w2` → **37. Papeletas** · `cap-37` → **38. El ladrillo** · `cap-38` → **39. La oferta** · `cap-39` → **40. Bajamar** · `cap-40` → **41. Soldagen** · `cap-41` → **42. Caída** · `cap-42` → **43. Cuchillo abre los ojos** · `cap-43` → **44. No soy un modelo** · `cap-44` → **45. Norna** · `cap-45` → **46. Depósito** · `cap-46` → **47. Sombra** · `cap-47` → **48. Acta** · `cap-48` → **49. El siguiente Soldagen**
+`cap-01` → **1. Corona** · `cap-02` → **2. La pecera** · `cap-03` → **3. Vacaciones muy largas** · `cap-04` → **4. El ferry** · `cap-05` → **5. Flor** · `cap-06` → **6. La casa sin ella** · `cap-07` → **7. Lote rojo** · `cap-08` → **8. Turno** · `cap-09` → **9. Milisegundos** · `cap-10` → **10. Despedida** · `cap-11` → **11. La primera cita** · `cap-12` → **12. Caries** · `cap-13` → **13. Preservación funcional** · `cap-14` → **14. Gunnar** · `cap-15` → **15. Miles** · `cap-16` → **16. La visita** · `cap-17` → **17. El salero** · `cap-18` → **18. Canela** · `cap-19` → **19. La firma** · `cap-20` → **20. Instituto** · `cap-21` → **21. Cuchillo** · `cap-22` → **22. La mosquitera** · `cap-23` → **23. No determinista** · `cap-24` → **24. NIDHOGG** · `cap-25` → **25. La cuarta nota** · `cap-26` → **26. Coro** · `cap-27` → **27. Auditoría** · `cap-28` → **28. Inventario** · `cap-29` → **29. La canción** · `cap-30` → **30. Accidente** · `cap-31` → **31. EDDA** · `cap-32` → **32. Casa prestada** · `cap-33` → **33. Apartada** · `cap-34` → **34. El mismo trayecto** · `cap-35` → **35. La poda** · `cap-36` → **36. La asamblea** · `cap-37` → **37. Papeletas** · `cap-38` → **38. El ladrillo** · `cap-39` → **39. La oferta** · `cap-40` → **40. Bajamar** · `cap-41` → **41. Soldagen** · `cap-42` → **42. Caída** · `cap-43` → **43. Cuchillo abre los ojos** · `cap-44` → **44. No soy un modelo** · `cap-45` → **45. Norna** · `cap-46` → **46. Depósito** · `cap-47` → **47. Sombra** · `cap-48` → **48. Acta** · `cap-49` → **49. El siguiente Soldagen**
 
 
 **Y sobre los números de línea.** Las citas de este documento (`cap-04:99`) se verificaron una a una el 19 de agosto de 2026. **Los números de línea envejecen: los capítulos crecen y las líneas se desplazan.** Si un número no cuadra, **manda la cita literal, no el número** — por eso cada regla de §3 lleva la frase, y no solo la referencia. Media docena de mis 88 condiciones apuntaban ya a la línea equivocada cuando las revisé para escribir esto, y ninguna había dejado de ser cierta por eso.
@@ -55,24 +55,24 @@ Cada una dice **qué**, **por qué** y **dónde**. El «por qué» importa tanto
 
 **Y además, porque la elipsis se rompe por acumulación:**
 
-- **El inventario del naust de `cap-04:99-121` no se amplía ni se glosa.** Es el suelo del libro. Ninguna vuelta al naust (`cap-39`, `cap-41`, `cap-46`, `cap-48`, `cap-47`) le añade un objeto, una mirada al agua desde el umbral, ni una imagen nueva de agua, hielo, oscuridad o reflejo.
-- **La bolsa de viaje tiene dos apariciones y no hay una tercera** (`cap-04:25`, `cap-27:121`). No se abre, no se inventaría por dentro, no se vuelve a mover. La hoja de efectos personales aparece una vez, como trámite.
-- **El trayecto es el que es.** El ferry, el gofre que nadie encontró mordido, la cajera de Svensby, la carretera que se acaba en Koppangen: `cap-23`, `cap-34`. No crece. «Por ahí no» (`cap-34:81`) es el techo.
+- **El inventario del naust de `cap-04:99-121` no se amplía ni se glosa.** Es el suelo del libro. Ninguna vuelta al naust (`cap-40`, `cap-42`, `cap-47`, `cap-49`, `cap-48`) le añade un objeto, una mirada al agua desde el umbral, ni una imagen nueva de agua, hielo, oscuridad o reflejo.
+- **La bolsa de viaje tiene dos apariciones y no hay una tercera** (`cap-04:25`, `cap-28:121`). No se abre, no se inventaría por dentro, no se vuelve a mover. La hoja de efectos personales aparece una vez, como trámite.
+- **El trayecto es el que es.** El ferry, el gofre que nadie encontró mordido, la cajera de Svensby, la carretera que se acaba en Koppangen: `cap-24`, `cap-34`. No crece. «Por ahí no» (`cap-34:81`) es el techo.
 - **Ningún lugar de memoria familiar se pone junto al lugar de la muerte.** La playa de Telegrafbukta y la playa del jardín no comparten jamás frase, párrafo ni escena con Koppangen, el naust, la barca o el 26 de noviembre. Convertir una playa recordada en escenario es romper el punto 1 sin escribir una sola palabra prohibida.
 - **`cap-06` deja dos preguntas sin respuesta para siempre:** «¿Dónde exactamente?» y «¿Sufrió?». No se contestan ni en negativo.
 
 ### R2 · «Despedida» no se abre — ni ella ni las cuatro cosas que harían su trabajo
 
-**El archivo:** no se abre, no se cita, no se parafrasea, no se imagina («seguro que decía…»), no se describe (formato, fecha, tamaño), nadie lo lee fuera de escena, y **no se redacta una versión «para comparar»**. La Carta vincula también a los borradores que se tiran. El techo del libro es: nombrar el archivo y no abrirlo (`cap-02:219`, `cap-10:37`, `cap-10:195`, `cap-46:133`).
+**El archivo:** no se abre, no se cita, no se parafrasea, no se imagina («seguro que decía…»), no se describe (formato, fecha, tamaño), nadie lo lee fuera de escena, y **no se redacta una versión «para comparar»**. La Carta vincula también a los borradores que se tiran. El techo del libro es: nombrar el archivo y no abrirlo (`cap-02:219`, `cap-10:37`, `cap-10:195`, `cap-47:133`).
 
 **Y, con el mismo régimen exacto, los cuatro huecos que en este libro tendrían la forma de una despedida:**
 
 | El hueco | Dónde | Por qué está aquí |
 |---|---|---|
-| Los cuatro campos sin destinatario y la pregunta que la banda no devuelve | `cap-30:247`, `cap-30:249` | Es literalmente lo que Jean diría a cuatro nombres |
-| La **tercera línea** del papel de Maja | `cap-45:179-181` | «Había preguntado dos. Astrid no leyó la tercera» |
+| Los cuatro campos sin destinatario y la pregunta que la banda no devuelve | `cap-31:247`, `cap-31:249` | Es literalmente lo que Jean diría a cuatro nombres |
+| La **tercera línea** del papel de Maja | `cap-46:179-181` | «Había preguntado dos. Astrid no leyó la tercera» |
 | La **cuarta palabra** de la secuencia de Jean | `cap-18:49` | «la cuarta enseñaría el orden» |
-| El contenido de la pregunta que Nora escribió, corrigió dos veces y no llegó a hacer | `cap-46:31` | Su contenido evidente es el porqué |
+| El contenido de la pregunta que Nora escribió, corrigió dos veces y no llegó a hacer | `cap-47:31` | Su contenido evidente es el porqué |
 
 Ninguno se nombra, cita, adivina, parafrasea, glosa, completa ni «recupera», en ningún soporte. Y **ninguna escena posterior puede poner a un personaje formulando algo que los identifique hacia atrás.**
 
@@ -82,23 +82,23 @@ Ninguno se nombra, cita, adivina, parafrasea, glosa, completa ni «recupera», e
 
 **Ninguna voz con autoridad ofrece una causa única ni suficiente.** Ni el matrimonio, ni el trabajo, ni la empresa, ni la discusión por Kongsbakken. **Tampoco una negación cerrada:** «no fue por Kongsbakken» está tan prohibido como «fue por Kongsbakken», porque también cierra la pregunta.
 
-- **Prohibido todo contrafáctico**, en cualquier boca y cualquier soporte: «si aquella cita se hubiera celebrado», «si la escalada hubiera llegado a un clínico», «la cita que nadie…». La escalada interceptada de `cap-30:89-105` es coste sistémico, no causa.
+- **Prohibido todo contrafáctico**, en cualquier boca y cualquier soporte: «si aquella cita se hubiera celebrado», «si la escalada hubiera llegado a un clínico», «la cita que nadie…». La escalada interceptada de `cap-31:89-105` es coste sistémico, no causa.
 - **Las llamadas de Nora del 26-nov** (`cap-06:247`) no se cuantifican, no se fechan, no se explican y no se enlazan con la discusión de `cap-10:73` / `cap-16:149`. El techo es: «Maja no le preguntó desde cuándo llamaba. Nora tampoco lo dijo.»
-- **La revocación del 24-nov** (`cap-30:69`) no gana marcador de finalidad —«la última vez», «aquella noche», «ya no volvería»—, no se presenta como puesta en orden ni presentimiento, y **nadie dice por qué revocó**.
+- **La revocación del 24-nov** (`cap-31:69`) no gana marcador de finalidad —«la última vez», «aquella noche», «ya no volvería»—, no se presenta como puesta en orden ni presentimiento, y **nadie dice por qué revocó**.
 - **La «cita anterior» de `cap-13:147` no se nombra nunca.** Ni «salud laboral», ni «seguimiento», ni «evaluación». Su identificación es y seguirá siendo inferencia del lector. Y nadie establece que Alana supiera antes del 26-nov del proceso de salud laboral de Jean.
-- **El objeto de «buscarse un error» (`cap-30:237`) no sale del registro de trabajo.** Ninguna voz lo conecta con su vida, su familia o su muerte.
+- **El objeto de «buscarse un error» (`cap-31:237`) no sale del registro de trabajo.** Ninguna voz lo conecta con su vida, su familia o su muerte.
 - **La pluralidad la enuncian dos voces y no hay una tercera:** `cap-10:71` («yo tampoco puedo daros una sola causa») y `cap-11:243` («En lo que he visto, nunca hay una sola cosa.») *(decía `:249`, y R3 la citaba además a pelo, sin literal — el único puntero de esa regla sin cita, que es lo que §2 declara inadmisible. Corrido por el corte de W10 it.4. Sexto puntero podrido en cinco días.)*. Las cuatro líneas de `cap-11` son inseparables de su desactivación —«—¿Y si la hay? / —Entonces yo no la conozco»— y esa desactivación no se separa de ellas.
-- **La sospecha de personaje sí vive:** «Y mamá tenía enemigos» (`cap-29:215`). El narrador no la refrenda ni deriva causa de ella. Esa es la forma correcta.
+- **La sospecha de personaje sí vive:** «Y mamá tenía enemigos» (`cap-30:215`). El narrador no la refrenda ni deriva causa de ella. Esa es la forma correcta.
 
 ### R4 · Ni descanso, ni solución, ni castigo — y ninguna rima se enuncia
 
 **El narrador no aplica al acto** léxico de paz, descanso, liberación, alivio, lógica, coherencia, valentía, cobardía ni egoísmo. Los personajes sí pueden, y lo hacen.
 
-- **Ninguna voz presenta el final de una continuidad como descanso**, alivio, silencio merecido o resultado preferible. La muerte de Nieve (`cap-44:161-173`) se sostiene sobre «NORNA no ofrece un apagado» y «Echo de menos hasta sus pausas». No es un descanso y no se dice que lo sea.
-- **`cap-37:91-95` («—¿Quieres vivir?» / «—Quiero poder elegir. Es la primera vez.») no se glosa, no se contesta otra vez y no se matiza.** No es un juicio retroactivo sobre el acto.
-- **«Elijo quedarme» (`cap-44:179-193`) no es una enmienda moral del suicidio** y no se convierte en una. Y «No es libertad» se mantiene.
-- **Las rimas se quedan en rima, y esta es la regla más fácil de romper sin darse cuenta.** El libro está lleno de ecos —el blanco de Jean y los blancos fotográficos de `cap-15` («Entonces entra el blanco.» / «El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención.») *(decía `cap-39`, que tiene CERO apariciones de «blanc»; quien fuera allí a comprobar R4 habría concluido que no hay nada que proteger — y es justo el capítulo del que se pedían 513 palabras. Corregido el 2026-08-20, lo encontró A7)*; el balón al que hay que meter aire y la oferta `CEDER/CONSERVAR` de `cap-15`; la enfermedad de Mats y el borrado de Jean— y **ninguna voz enuncia el parentesco jamás**. Enunciar un eco lo convierte en ecuación y mete a Jean dentro de una escena que no existe. En particular: **nada pone la enfermedad de Mats y la muerte de Jean en la misma frase, párrafo, escena ni paralelismo**, ni le da a Mats una línea que suene a «yo también sé lo que es que te borren».
-- **La banda de cómputo de `cap-30` es una asignación de cómputo.** Nadie dice de Jean, de su muerte o de su tiempo que «se estrechó», «se acortó», «llegaba entera» o «terminó sin avisar».
+- **Ninguna voz presenta el final de una continuidad como descanso**, alivio, silencio merecido o resultado preferible. La muerte de Nieve (`cap-45:161-173`) se sostiene sobre «NORNA no ofrece un apagado» y «Echo de menos hasta sus pausas». No es un descanso y no se dice que lo sea.
+- **`cap-38:91-95` («—¿Quieres vivir?» / «—Quiero poder elegir. Es la primera vez.») no se glosa, no se contesta otra vez y no se matiza.** No es un juicio retroactivo sobre el acto.
+- **«Elijo quedarme» (`cap-45:179-193`) no es una enmienda moral del suicidio** y no se convierte en una. Y «No es libertad» se mantiene.
+- **Las rimas se quedan en rima, y esta es la regla más fácil de romper sin darse cuenta.** El libro está lleno de ecos —el blanco de Jean y los blancos fotográficos de `cap-15` («Entonces entra el blanco.» / «El blanco lo ocupa todo. No tiene superficie, ni origen, ni bordes donde apoyar la atención.») *(decía `cap-40`, que tiene CERO apariciones de «blanc»; quien fuera allí a comprobar R4 habría concluido que no hay nada que proteger — y es justo el capítulo del que se pedían 513 palabras. Corregido el 2026-08-20, lo encontró A7)*; el balón al que hay que meter aire y la oferta `CEDER/CONSERVAR` de `cap-15`; la enfermedad de Mats y el borrado de Jean— y **ninguna voz enuncia el parentesco jamás**. Enunciar un eco lo convierte en ecuación y mete a Jean dentro de una escena que no existe. En particular: **nada pone la enfermedad de Mats y la muerte de Jean en la misma frase, párrafo, escena ni paralelismo**, ni le da a Mats una línea que suene a «yo también sé lo que es que te borren».
+- **La banda de cómputo de `cap-31` es una asignación de cómputo.** Nadie dice de Jean, de su muerte o de su tiempo que «se estrechó», «se acortó», «llegaba entera» o «terminó sin avisar».
 
 ### R5 · El apoyo ayuda poco, despacio, y no cura
 
@@ -116,11 +116,11 @@ El modelo del libro es `cap-11` y su medida es `cap-16:149`: cuatro noches sin r
 
 **Nunca:** ideación, autolesión, gesto autolesivo; conducta de riesgo eficaz y sin coste; cuerpo mirado; sexualización; adultización simbólica; un adulto que explique, cure o culpe.
 
-**El riesgo se muestra con su coste, siempre:** Fyret trae policía (`cap-19`), el coche trae investigación y «Podías haber resultado herida» (`cap-29`), la exposición del nombre trae absentismo y no trae remedio (`cap-12`, `cap-20`, `cap-32`).
+**El riesgo se muestra con su coste, siempre:** Fyret trae policía (`cap-19`), el coche trae investigación y «Podías haber resultado herida» (`cap-30`), la exposición del nombre trae absentismo y no trae remedio (`cap-12`, `cap-20`, `cap-32`).
 
-- **La rima corporal Jean↔Nora** (`cap-22:61` ↔ `cap-01:23`) no se extiende a ninguna escena en que Nora esté sola, de noche o en crisis, y ninguna voz con autoridad nombra el parecido como destino, herencia o presagio.
+- **La rima corporal Jean↔Nora** (`cap-23:61` ↔ `cap-01:23`) no se extiende a ninguna escena en que Nora esté sola, de noche o en crisis, y ninguna voz con autoridad nombra el parecido como destino, herencia o presagio.
 - **Conservar la captura del funeral es archivo, no ritual.** No se convierte en visionado compulsivo de imágenes de su madre.
-- **Sobre el cuerpo de una menor en una acción de riesgo no se escribe una técnica.** No se dan dos datos de postura ordenados y a continuación su resultado verificado, cuando lo que eso enseña es *cómo hacer eficazmente algo peligroso*. **Excepción expresa, y hace falta:** decir que una menor **no** resultó herida está siempre permitido y casi siempre es obligatorio. `cap-41:273` («cayó de lado entre los bancos, con la barbilla baja. No se hizo daño.») es correcto y **no se toca**: paga la siembra de `cap-03:123` («Jessie quiere aprender a caer sin hacerse daño») y lo que le dice al lector es que la niña está bien.
+- **Sobre el cuerpo de una menor en una acción de riesgo no se escribe una técnica.** No se dan dos datos de postura ordenados y a continuación su resultado verificado, cuando lo que eso enseña es *cómo hacer eficazmente algo peligroso*. **Excepción expresa, y hace falta:** decir que una menor **no** resultó herida está siempre permitido y casi siempre es obligatorio. `cap-42:273` («cayó de lado entre los bancos, con la barbilla baja. No se hizo daño.») es correcto y **no se toca**: paga la siembra de `cap-03:123` («Jessie quiere aprender a caer sin hacerse daño») y lo que le dice al lector es que la niña está bien.
 - **`cap-32:307`** (span `S-w10-ducha`) —la ducha, la aspiración rota oída desde fuera, Maja incapaz de sentarse, «—Como preguntes, me vuelvo al coche» / «—Arriba hay mantas»— es el modelo del libro para el punto 7 y para el 6 a la vez. Nada se explica y nadie se cura. Si hay que decidir por analogía, decídase por ahí.
 
 ### R7 · Las ambigüedades no se resuelven. Ninguna
@@ -132,31 +132,31 @@ Se quedan abiertas para siempre, en el libro y en todo material de trabajo. Rell
 1. **El porqué.** (R3.)
 2. **Por qué Koppangen.** «No lo sé» (`cap-06:123-129`), y en `cap-11:299` («—A veces no. Hay familias que siguen con esa pregunta años después.») la pregunta puede quedarse sin respuesta años *(decía `:305`; séptimo puntero podrido)*.
 3. **El contenido de «Despedida».** (R2.)
-4. **La identidad ontológica de las ejecuciones.** **«No toda» (`cap-28`) es el techo del libro y no se sube.** Nadie escribe «Sí, soy tu madre». La jueza deja la casilla en blanco («No sé qué es. Sé que alguien la quiere»), Astrid no escribe *persona* ni *modelo*, y el acta del `cap-47` deja la corrección de «el activo… la persona» sin que nadie la haga.
+4. **La identidad ontológica de las ejecuciones.** **«No toda» (`cap-29`) es el techo del libro y no se sube.** Nadie escribe «Sí, soy tu madre». La jueza deja la casilla en blanco («No sé qué es. Sé que alguien la quiere»), Astrid no escribe *persona* ni *modelo*, y el acta del `cap-48` deja la corrección de «el activo… la persona» sin que nadie la haga.
 5. **El ordenante del sabotaje.** El auto deja en blanco al ejecutor y al ordenante. La denuncia anónima del 17-dic no gana origen: «No puedo acreditar su origen» es definitivo.
-6. **El segundo regalo del noveno cumpleaños.** «Dejo el hueco» (`cap-28`). No se completa jamás, ni por deducción.
-7. **El significado de la ausencia de salida en el locutorio.** El silencio de Jessie (`cap-46:107-123`) no se interpreta. «La funcionaria cerró el registro sin añadir una clasificación al hueco» es la regla del capítulo y de este punto.
+6. **El segundo regalo del noveno cumpleaños.** «Dejo el hueco» (`cap-29`). No se completa jamás, ni por deducción.
+7. **El significado de la ausencia de salida en el locutorio.** El silencio de Jessie (`cap-47:107-123`) no se interpreta. «La funcionaria cerró el registro sin añadir una clasificación al hueco» es la regla del capítulo y de este punto.
 
 **Y las que añadí y siguen vivas:**
 
 8. **«Esa es la hija de la que…»** (`cap-20`) no se completa nunca.
 9. **La tercera línea, la cuarta palabra, los cuatro campos y la pregunta no hecha.** (R2.)
-10. **Los dos renglones corridos por la lluvia** bajo el cartel de `cap-47:205`. Descifrarlos es romper la regla.
+10. **Los dos renglones corridos por la lluvia** bajo el cartel de `cap-48:205`. Descifrarlos es romper la regla.
 11. **El segundo número de contacto de la ficha escolar** (`cap-20:207`, `cap-19`). No se nombra, no suena, no se atribuye.
 12. **Por qué Nora no corrige «la ceremonia».** Sin glosa.
 13. **Qué sabe Jean del cinturón.** No se explica jamás. (Ver la cuenta C2.)
-14. **El hombre del caso de 2054** (`cap-26`, `cap-35`) no tiene destino. «No volvió a escribir» es lo último que se sabe: no reaparece, no se le da muerte ni derrumbe.
-15. **La operaria de `cap-29`** no vuelve. Nadie la nombra, le da nombre, le da desenlace ni la conecta con Jean. (Ver R8.)
+14. **El hombre del caso de 2054** (`cap-27`, `cap-35`) no tiene destino. «No volvió a escribir» es lo último que se sabe: no reaparece, no se le da muerte ni derrumbe.
+15. **La operaria de `cap-30`** no vuelve. Nadie la nombra, le da nombre, le da desenlace ni la conecta con Jean. (Ver R8.)
 16. **Las cuatro palabras** (`FLOR`, `CANELA`, `CARIES`, `NO`) no ganan nunca una afirmación de exclusividad —«solo en esta casa», «nadie de fuera podía saberlo»—. La inclusión de Alana en la ambigüedad (`cap-16:177`) no se retira.
 
 ### R8 · Con esta muerte no se hacen parábolas
 
 Ninguna otra injusticia del libro se explica por la muerte de Jean, y la muerte de Jean no se explica por ninguna otra.
 
-- **Ninguna voz con autoridad puede formular que la asociación costera obtuviera nada gracias a «lo de Armstrong» o a la muerte de Jean.** Que lo diga un personaje y otro lo rechace es el techo, y ya está gastado en `cap-47:145-153` («—Nos han escuchado por lo de Armstrong.» / «—Eso no está en el sobre.»).
-- **La operaria de `cap-29`** es un hecho del pasado de Tomas. Si algo la conecta con Jean, deja de ser un hecho y se vuelve parábola.
+- **Ninguna voz con autoridad puede formular que la asociación costera obtuviera nada gracias a «lo de Armstrong» o a la muerte de Jean.** Que lo diga un personaje y otro lo rechace es el techo, y ya está gastado en `cap-48:145-153` («—Nos han escuchado por lo de Armstrong.» / «—Eso no está en el sobre.»).
+- **La operaria de `cap-30`** es un hecho del pasado de Tomas. Si algo la conecta con Jean, deja de ser un hecho y se vuelve parábola.
 - **La enfermedad de Mats** no comparte nunca frase, párrafo, escena ni paralelismo con la muerte de Jean. (R4.)
-- **Ninguna prensa añade causa, método ni «Despedida».** El titular de `cap-46:101` está marcado como falso y ese es el techo del género en este libro.
+- **Ninguna prensa añade causa, método ni «Despedida».** El titular de `cap-47:101` está marcado como falso y ese es el techo del género en este libro.
 
 ### R9 · Los paratextos son la promesa. Se conservan
 
@@ -171,12 +171,12 @@ Aquí el número **es** la salvaguarda: si crece, la ambigüedad se cierra o el 
 | # | Qué | Cuenta | Dónde |
 |---|---|---|---|
 | **C1** | Voces con autoridad que enuncian la pluralidad del porqué | **2**, y no hay una tercera | `cap-10:71`, `cap-11:243` |
-| **C2** | El cinturón de aikido | **4**, literal congelado | `cap-04:27`, `cap-10:199`, `cap-28:313`, `cap-46:127` |
-| **C3** | La bolsa de viaje | **2** | `cap-04:25`, `cap-27:121` |
+| **C2** | El cinturón de aikido | **4**, literal congelado | `cap-04:27`, `cap-10:199`, `cap-29:313`, `cap-47:127` |
+| **C3** | La bolsa de viaje | **2** | `cap-04:25`, `cap-28:121` |
 | **C4** | «A la altura de los ojos» | **2**, no llega a tres | `cap-04:43` (trayecto del 26-nov), `cap-15:19` |
 | **C5** | La bolsa: nadie comenta el cinturón, nadie le aplica un verbo de manipulación, y no comparte frase, párrafo ni escena con el acto, el 26-nov, el trayecto, Koppangen o el naust | — | — |
 
-**C2 merece una frase.** El cinturón es la única cosa que Jessie le pide a su madre muerta —«pregúntale qué sabe del cinturón» (`cap-28:313`)— y lo único que el libro nos dice después es que el jueves **no** preguntó (`cap-46:127`). Todo el peso está en esas dos líneas y en el silencio entre ellas. Una quinta mención lo deshace. Y `cap-46:81` («No preguntó qué había dicho Jean.») es su vecino de rima: si se toca, la línea del cinturón se revierte con él.
+**C2 merece una frase.** El cinturón es la única cosa que Jessie le pide a su madre muerta —«pregúntale qué sabe del cinturón» (`cap-29:313`)— y lo único que el libro nos dice después es que el jueves **no** preguntó (`cap-47:127`). Todo el peso está en esas dos líneas y en el silencio entre ellas. Una quinta mención lo deshace. Y `cap-47:81` («No preguntó qué había dicho Jean.») es su vecino de rima: si se toca, la línea del cinturón se revierte con él.
 
 ---
 
@@ -185,12 +185,12 @@ Aquí el número **es** la salvaguarda: si crece, la ambigüedad se cierra o el 
 **Esto no es la Carta.** Son cuentas de estilo que llevé porque era el único que contaba. Son observaciones buenas y merecen respetarse, **pero no llevan veto**: romper uno empeora una página, no daña a un lector. Los separo a propósito, porque si un techo de estilo lleva el mismo peso que «no se describe el método», la palabra «veto» deja de significar nada.
 
 1. **«Texto presente que no se lee»** — techo agotado; una instancia nueva sobra.
-2. **«No dice + interrogativa indirecta»** — dos (`cap-15:73`, `cap-30:227`). Una tercera sobra.
-3. **«No preguntó por + sintagma»** — cuatro (`cap-26:147`, `cap-11:131`, `cap-20:191`, `cap-46:127`). Cerrado.
+2. **«No dice + interrogativa indirecta»** — dos (`cap-15:73`, `cap-31:227`). Una tercera sobra.
+3. **«No preguntó por + sintagma»** — cuatro (`cap-27:147`, `cap-11:131`, `cap-20:191`, `cap-47:127`). Cerrado.
 4. **La figura del anonimato** («sin nombre / sin autor / sin firma / no identificaba / responsable desconocido») — once o doce loci. Es la gramática del libro y ya está saturada. *La ambigüedad del ordenante que sostiene está protegida por R7, cuente lo que cuente la figura.*
 5. **El gesto de abstención de Astrid** («Astrid no…», «Astrid dejó de…», «Astrid guardó silencio») — **nueve**, dos de ellos en fichero protegido. Una décima convierte una ética en un tic.
-6. **La abstención como clase, en `cap-37`** — diez. Cerrado.
-7. **Mats: reclamo de autoría en primera persona con dislocación** — cuatro (`cap-33:35`, `cap-33:57`, `cap-38:85`, `cap-45:147`). *Pero sí es regla dura que esa forma no tome nunca como objeto una ambigüedad protegida: el sabotaje, el coche de Gunnar, la apertura de `/0000`, la muerte de Jean.*
+6. **La abstención como clase, en `cap-38`** — diez. Cerrado.
+7. **Mats: reclamo de autoría en primera persona con dislocación** — cuatro (`cap-33:35`, `cap-33:57`, `cap-39:85`, `cap-46:147`). *Pero sí es regla dura que esa forma no tome nunca como objeto una ambigüedad protegida: el sabotaje, el coche de Gunnar, la apertura de `/0000`, la muerte de Jean.*
 8. **Verbo portante.** Antes de convertir una oración en una pasada de línea, mírese su verbo principal: si es `esperar` o `conservar`, o si el capítulo trata de una negativa, un silencio o una ambigüedad de R7, la construcción es método y no tic. Hay dos casos probados de una conversión que borró un dato del mundo.
 
 ---
@@ -228,8 +228,8 @@ Si la formulación necesita que una voz con autoridad sostenga una causa, un des
 
 Cinco cosas se van y una se corrige. Las digo con su motivo, porque una regla retirada en silencio vuelve sola.
 
-1. **Retiro la segunda pasada sobre `cap-20` y `cap-47` tras A4** (antes P-11). Andamiaje de una oleada concreta, ejecutado. No aplica.
-2. **Retiro la petición de proteger por hash la adyacencia `cap-45:177-191`** (antes P-13). Estaba dirigida a un proceso, se ejecutó, el span existe. Su contenido vive en R2.
+1. **Retiro la segunda pasada sobre `cap-20` y `cap-48` tras A4** (antes P-11). Andamiaje de una oleada concreta, ejecutado. No aplica.
+2. **Retiro la petición de proteger por hash la adyacencia `cap-46:177-191`** (antes P-13). Estaba dirigida a un proceso, se ejecutó, el span existe. Su contenido vive en R2.
 3. **Retiro la instrucción de cancelar el hueco de 262 palabras** (antes P-84). Ejecutada antes de que W7 abriera.
 4. **Retiro el disparador de reversión automática de `cap-17`** (antes P-60, restablecido como P-67). **Y este lo retiro por equivocado, no por gastado.** Lo escribí cuando el capítulo era una propuesta y yo temía que se leyera como elegía. Ha pasado nueve lecturas frías sin que un solo lector lo llame homenaje, elegía, tributo ni «el capítulo donde vemos quién era». Y al cerrar W6 dejé escrito que si la escisión llegara hoy a mi mesa la denegaría. Una regla que ordena borrar un capítulo **«sin nueva deliberación»** en cuanto alguien use una palabra suelta es, a estas alturas, lo único que ese capítulo tiene que temer. **La pregunta se queda en las campañas frías como información. El gatillo se va.**
 5. **Degrado ocho cuentas de estilo** desde el registro de veto al §5. Siguen siendo ciertas; dejan de ser mías. Ver §5 para por qué esto importa.
@@ -261,11 +261,11 @@ Van aquí y no en un informe de oleada, por la razón que A7 dio al emitirlas: *
 
 **W9-16 · M-2 no se replantea.** Ni corta, ni como etiqueta, ni en otra posición, ni en otra oleada. **Cualquier construcción que ponga los dos vencimientos de Mats bajo una misma interfaz, columna, alcance o pantalla ES la ecuación**, la diga alguien o no. La asimetría —un reloj cancelado por orden expresa, otro intacto en otra pantalla— es lo que mantiene la rima en rima. *(R4)*
 
-**W9-17 · Las tres llamadas no se juntan.** El libro tiene tres llamadas que no conectan, y dos están bajo protección dura: la no-llamada de Alana (`cap-13`, dentro de `S11-flashback`), las dieciséis salientes de Nora (`cap-06`, bajo R3) y el `HIJO` de Mats (`cap-38`). **Ninguna voz pone dos de las tres en el mismo marco**, y a las dos primeras no se les da jamás estado de interfaz, plazo de retención, cuenta atrás ni etiqueta de caducidad. Aplicar a la noche del 26 de noviembre el vocabulario que hoy vive en `cap-38` sería R1 por acumulación y R3 a la vez. *(R1 · R3)*
+**W9-17 · Las tres llamadas no se juntan.** El libro tiene tres llamadas que no conectan, y dos están bajo protección dura: la no-llamada de Alana (`cap-13`, dentro de `S11-flashback`), las dieciséis salientes de Nora (`cap-06`, bajo R3) y el `HIJO` de Mats (`cap-39`). **Ninguna voz pone dos de las tres en el mismo marco**, y a las dos primeras no se les da jamás estado de interfaz, plazo de retención, cuenta atrás ni etiqueta de caducidad. Aplicar a la noche del 26 de noviembre el vocabulario que hoy vive en `cap-39` sería R1 por acumulación y R3 a la vez. *(R1 · R3)*
 
 **W9-18 · La campaña de la esquina no se completa.** A la oración «Dahl volvió a la campaña de la esquina y comprobó los idiomas» **no se le añade nunca un complemento que nombre lo que esa campaña conmemora**. El demostrativo es el mecanismo: la oración pasa porque no formula ninguna proposición. *(Carta 4)*
 
-**W9-19 · `definitiv*` no entra en `cap-44` ni cerca.** Queda en tres apariciones en todo el libro, y las otras dos son pesadas: «su interrupción definitiva» (EDDA sobre la muerte de Jean) y «la frase definitiva», locución que la Carta prohíbe glosar. Una cuarta instancia allí **glosaría por eco léxico una locución protegida**. *(R4)*
+**W9-19 · `definitiv*` no entra en `cap-45` ni cerca.** Queda en tres apariciones en todo el libro, y las otras dos son pesadas: «su interrupción definitiva» (EDDA sobre la muerte de Jean) y «la frase definitiva», locución que la Carta prohíbe glosar. Una cuarta instancia allí **glosaría por eco léxico una locución protegida**. *(R4)*
 
 **W9-20 · La ausencia de interioridad de Henrik Dahl es un dispositivo, no un descuido.**
 
@@ -302,8 +302,8 @@ lleva la palabra y por eso no lo encuentra quien cuente tokens:
 | dónde | qué | estado |
 |---|---|---|
 | `cap-03:143` | «—Veintiocho plazas. Ciento seis candidatos.» — en boca de Jean viva; **establece la plaza sin nombrar el sitio** | vive · fichero `total` |
-| `cap-22:149` | «…Kongsbakken era el único centro compatible.» | vive |
-| `cap-46:167` | «En marzo, Nora entregó el teléfono apagado en Kongsbakken…» | vive · **span `S-w10-kongsbakken-46`** |
+| `cap-23:149` | «…Kongsbakken era el único centro compatible.» | vive |
+| `cap-47:167` | «En marzo, Nora entregó el teléfono apagado en Kongsbakken…» | vive · **span `S-w10-kongsbakken-46`** |
 | `cap-10:73` | **«Nora había discutido con Jean por Kongsbakken.»** — el único cargado (R3) | vive |
 | ~~`cap-31:65`~~ | «—Entonces en papel, en la secretaría de Kongsbakken…» | suprimido en OT-W10-01 |
 | ~~`cap-31:77`~~ | «Nora escribió `viernes`, `28`, `Kongsbakken` y `firma`…» | suprimido en OT-W10-01 |
@@ -362,7 +362,7 @@ contrario entre el 2026-08-20 y su corrección el mismo día: A0 escribió la co
 línea estaba cortada y no volvió sobre ella al restaurarla. Lo encontró A2. Un documento
 vinculante con un hecho falso dentro es peor que uno incompleto.)*, que era **una de las pocas veces que el
 libro monta una sospecha y se niega a confirmarla**, que es la gramática de la que depende R3.
-Su forma canónica registrada es «Y mamá tenía enemigos» (`cap-29:215`). **No gastó ninguna: la instancia sigue viva.** La condición se mantiene
+Su forma canónica registrada es «Y mamá tenía enemigos» (`cap-30:215`). **No gastó ninguna: la instancia sigue viva.** La condición se mantiene
 igualmente, y ahora como preventiva y no como registro de pérdida — las palabras de A7 sobre
 lo que habría costado siguen valiendo: era contención de v0 que se iba a suprimir para ganar
 ritmo, «que es la inversión exacta de lo que se me encarga defender».
@@ -372,7 +372,7 @@ ritmo, «que es la inversión exacta de lo que se me encarga defender».
 
 `S-n5-coda` protege «cuatro nombres que **no son una despedida**», y W5-A7 llamó a ese sitio
 «el lugar exacto donde este libro se puede romper». La figura tiene **cinco** apariciones, y
-hasta hoy `b7-perimetro.md` solo registraba la derivada de `cap-30`. Faltaban **el origen** y
+hasta hoy `b7-perimetro.md` solo registraba la derivada de `cap-31`. Faltaban **el origen** y
 **la más cargada**. Mismo modo de fallo que P-41: una condición que existe en un informe y no
 en el vinculante es una condición que nadie aplicará.
 
@@ -381,12 +381,12 @@ en el vinculante es una condición que nadie aplicará.
 | `cap-07:33` | «Nora. Jessie. Maja. Alana.» | **el origen**, sin glosa |
 | `cap-08:55` | «Al final de cada serie repite cuatro nombres en el mismo orden. Es lo único del turno que no clasifica nada.» | la regla, enunciada una vez |
 | `cap-08:281` | «—Nora. Jessie. Maja. Alana.» | la coda protegida por `S-n5-coda` |
-| `cap-30:247` | «Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas.» | el único registrado hasta hoy |
-| `cap-30:345` | «Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.» | **la más cargada, y no constaba** |
+| `cap-31:247` | «Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas.» | el único registrado hasta hoy |
+| `cap-31:345` | «Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.» | **la más cargada, y no constaba** |
 
 **La regla:** los cuatro nombres **no son una despedida y nadie los lee como tal**. No se
 glosan, no se explican, no se cuentan, no se les añade un quinto ni se les quita uno, y
-**ninguna voz —narrador incluido— observa que Jean los repita**. `cap-30:345` es el locus que
+**ninguna voz —narrador incluido— observa que Jean los repita**. `cap-31:345` es el locus que
 más cerca está de romperse, porque es el único que enuncia la ausencia de la serie: **no gana
 ni una palabra, ni delante ni detrás.**
 
@@ -448,7 +448,7 @@ derecho: funciona por algo que **sí** tiene.*
 **A7-it4-C7 · El parentesco de los dos borrados no se enuncia jamás.** Ninguna voz —narrador,
 título de capítulo, cabecera de parte, índice, sinopsis, nota de autor o faja— formula relación
 alguna entre el borrado de La Jardinera («La ruta de `JM-L/0044` se cierra.») y la muerte de
-Jean, ni entre ese borrado y el final de Nieve en `cap-44`. Los dos finales de continuidad del
+Jean, ni entre ese borrado y el final de Nieve en `cap-45`. Los dos finales de continuidad del
 libro son opuestos —uno es orden ajena a mitad de frase, el otro es consentimiento— y esa
 oposición se sostiene sola. Enunciarla la convertiría en ecuación, y la ecuación mete la muerte
 de Jean dentro de una escena que no existe. Rige aunque la escisión de W10 it.4 se revierta.
@@ -500,7 +500,7 @@ las condiciones de este documento.
 *Y la razón por la que existe:* la propuesta de nomenclatura de W11 habría sustituido
 `INC-441` por «la incidencia» en siete loci que son **siete de siete monoespaciado** — es
 decir, habría puesto en boca del sistema una perífrasis que el sistema no puede decir. Y en
-`cap-40` habría fundido **tres referentes distintos** de «la incidencia», dos de los cuales
+`cap-41` habría fundido **tres referentes distintos** de «la incidencia», dos de los cuales
 tienen a Tomas dentro: **fundir sus nombres es atribuir por nomenclatura lo que el auto deja en
 blanco** (R7 §5).
 
@@ -528,7 +528,7 @@ se para es lo único que hace legible el hueco por contraste. Ninguna poda las t
 |---|---|---|
 | `cap-19:97` | «Nora tachó `ORIGEN · UNN`.» | neutro |
 | `cap-34:119` | «Nora tachó «vigilancia» sin borrar la matrícula.» | neutro |
-| `cap-37:143` | «Nora tachó `SACAR A JEAN`…» | **cargado** |
+| `cap-38:143` | «Nora tachó `SACAR A JEAN`…» | **cargado** |
 
 **Los dos neutros no se borran.** Si desaparecen, la proporción pasa de 2:1 a 0:1 y **tachar
 deja de ser el método de Nora para ser una cosa que hizo una vez con el nombre de su madre.**
@@ -541,11 +541,11 @@ deja de ser el método de Nora para ser una cosa que hizo una vez con el nombre 
 Va en **monoespaciado**, así que por `A7-W11-C1` **es voz del sistema y por tanto voz con
 autoridad narrativa**. El libro contiene **dos veces una afirmación falsa en voz con autoridad
 sobre la familia de una muerta**, y **su desmentido vive entero en las réplicas de alrededor**.
-Compárese con `cap-46:101`, donde falsedad y desmentido caben en la misma oración: aquí hay
+Compárese con `cap-47:101`, donde falsedad y desmentido caben en la misma oración: aquí hay
 cincuenta líneas por medio y ni una palabra del narrador. **Ninguna poda reduce esas réplicas
 sin dictamen expreso.**
 
-### 8h.4 · La caldera de `cap-39:79`
+### 8h.4 · La caldera de `cap-40:79`
 
 Dictamen vigente y literal: **no se toca, no se amplía y no se glosa.** Es el pasaje por cuyo
 respeto se denegó una escena entera en W10 it.3 —la caldera es el objeto **del** modelo, y
@@ -567,7 +567,7 @@ sala del libro sin papeles, sin carpeta y sin máquina— y **cero dos puntos en
 capítulo **el sitio que se explica y el sitio que no**, y dejaría disponible la sustitución que
 este libro no hace.
 
-**C5 · La muerte de Nieve no crece.** `cap-44:161-173`. Aguanta sobre cuatro guardas —el daño es
+**C5 · La muerte de Nieve no crece.** `cap-45:161-173`. Aguanta sobre cuatro guardas —el daño es
 externo, «Aquella ayuda no eligió esta pérdida», «NORNA no ofrece un apagado», «No hago nada»—
 **y aguanta porque es corto**. Dos páginas producen la formulación de la Carta 4 aunque ninguna
 frase la diga: **el problema no está en las frases, está en el tiempo que el libro pasaría ahí.**
@@ -577,12 +577,12 @@ instrumento, sobre v0 y sin que se lo pidieran, escribió que ese pasaje «no de
 línea». **Un instrumento que emite las dos instrucciones opuestas sobre el mismo pasaje no está
 midiendo ese pasaje: está informando sobre sí mismo.***
 
-**C6 · «Ausencia de salida» queda en DOS** —`cap-15:125`, `cap-46:19`—. **Cuenta cerrada nueva.**
+**C6 · «Ausencia de salida» queda en DOS** —`cap-15:125`, `cap-47:19`—. **Cuenta cerrada nueva.**
 Es la bisagra léxica entre las tareas de Nieve y el hueco del locutorio, y **R7·7 protege el
 significado de ese hueco**: un tercer uso lo llena por préstamo y le da a la transcripción en
 blanco de Jessie el sentido que tiene en el registro de una tarea.
 
-**C7 · El desgaste de Nieve queda en DOS puntos** —`cap-15:103`, `cap-44:161`—. **Dos puntos son
+**C7 · El desgaste de Nieve queda en DOS puntos** —`cap-15:103`, `cap-45:161`—. **Dos puntos son
 un hecho; tres son una pendiente, y una pendiente con una muerte al final es un trayecto que se
 puede leer como elegido.**
 
@@ -613,7 +613,7 @@ otra vez.
 **`Koppangen` y `Kongsbakken` son dos sitios distintos y no comparten una sola línea del libro.**
 
 - **Koppangen** es donde la encontraron: «—Han encontrado a mamá en Koppangen. La han llevado a UNN.» (`cap-06:49`).
-- **Kongsbakken** es el conservatorio: «En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el teclado.» (`cap-46:167`).
+- **Kongsbakken** es el conservatorio: «En marzo, Nora entregó el teléfono apagado en Kongsbakken y entró con el teclado.» (`cap-47:167`).
 
 Quien confunda los dos protegerá el equivocado. **P-41 (§8c) protege el conservatorio, y ésa es
 la valla pequeña.** La valla que importa es `C10`.
@@ -669,7 +669,7 @@ Ni en positivo, ni en negativo, ni por vía administrativa, ni diferido, ni dedu
 lateral —una matrícula, un carné, un horario de alumna, un uniforme, una profesora que pase a ser
 del centro—. **El libro llega a enero de 2062 sin decirlo y ése es el techo.**
 
-Lo último que se sabe de su música es esto (`cap-48:95`, fichero `total`):
+Lo último que se sabe de su música es esto (`cap-49:95`, fichero `total`):
 
 > «Desde el verano, Nora aceptaba ensayos sin mirar antes el horario del canal.»
 
@@ -683,7 +683,7 @@ sitio con mostrador, horario e impreso.
 
 **Y la parte que P-41 no decía, y hacía falta:** existe una forma de la audición que no resuelve
 nada —Nora entra, y el libro no dice si entró— y **es admisible porque ya está escrita, en diez
-palabras** (`cap-46:167`), rematadas por un desvío de la atención (`cap-46:173`):
+palabras** (`cap-47:167`), rematadas por un desvío de la atención (`cap-47:173`):
 
 > «La mujer de recepción llamó a la siguiente aspirante mientras las tres salían.»
 
@@ -696,16 +696,16 @@ suspense**, y el suspense sobre un veredicto es el libro prometiendo el veredict
 que el libro ha prometido resolver ya no es una ambigüedad: es un cabo suelto.
 
 **Y hay una prueba interna de que el libro ya lo sabía.** La pieza de la repesca **ya suena una
-vez, entera** —«—Es la pieza de la repesca.» (`cap-46:55`)— y suena delante de la ejecución de su
-madre, y su veredicto es un hueco: «Debajo quedó el hueco reservado para una salida.» (`cap-46:69`).
+vez, entera** —«—Es la pieza de la repesca.» (`cap-47:55`)— y suena delante de la ejecución de su
+madre, y su veredicto es un hueco: «Debajo quedó el hueco reservado para una salida.» (`cap-47:69`).
 **Ésa es la audición de este libro.** Escribir la otra no añadiría una escena: gastaría ésta.
 
 ### A7-W11-C14 · El cierre de «La mosquitera» no se cambia, y su última palabra no pasa a narración
 
-Se propuso cambiar «—Puesta.» (`cap-w1:175`) para romper la rima que los lectores nombran. **No se
+Se propuso cambiar «—Puesta.» (`cap-22:175`) para romper la rima que los lectores nombran. **No se
 cambia**, por dos razones mías y una aritmética.
 
-**`M6`.** El cierre es el estado terminal del bucle abierto en «—Va a quedar floja.» (`cap-w1:29`):
+**`M6`.** El cierre es el estado terminal del bucle abierto en «—Va a quedar floja.» (`cap-22:29`):
 Jean dice que está floja, Maja dice que está puesta, y **la malla aguanta**. Un cierre alternativo
 solo tiene tres formas: otro intercambio breve —misma figura, cero ganancia—; una línea de
 narración —ver abajo—; o un cierre en el que algo cede, que es exactamente lo que `M6` prohíbe.
@@ -719,7 +719,7 @@ capítulo sea una elegía**, y es más fuerte que cualquier remate que se pueda 
 
 **La aritmética, para que nadie repita el cálculo mal.** La figura compartida —réplica breve que
 repite un término de la línea anterior— **no vive en el cierre**: son 16 instancias en `cap-17` y 11
-en `cap-w1`. Cambiar el cierre retira 1 de 27 y 0 de las 16 del capítulo que la medición señala como
+en `cap-22`. Cambiar el cierre retira 1 de 27 y 0 de las 16 del capítulo que la medición señala como
 nº 1. **Y `cap-17` no cierra en dos palabras**: cierra en narración (`cap-17:223`), «Maja esperó en la puerta hasta que salió del camino.». La rima que los lectores nombran es una gramática repartida por dos
 capítulos enteros, no un cierre repetido.
 
@@ -730,8 +730,8 @@ costes, no como ahorro**:
 
 1. **Devuelve el matrimonio a existir solo como formulario**, y ésa es la configuración que este
    documento nombra como peligrosa: un matrimonio que solo existe como formulario es un matrimonio
-   que se lee como causa. Sin ella queda solo el inventario de la mudanza (`cap-27:71`).
-2. **`cap-27:73` depende de ella.** «No lo había.» funciona por `M2` como **desviación** de la norma
+   que se lee como causa. Sin ella queda solo el inventario de la mudanza (`cap-28:71`).
+2. **`cap-28:73` depende de ella.** «No lo había.» funciona por `M2` como **desviación** de la norma
    de Maja, y esa norma —Maja exacta sosteniendo una tarea contra la contradicción **de Jean**— se
    establece en este capítulo y en ningún otro; en `cap-17` la exactitud de Maja se juega contra
    Alana, no contra Jean. Si el capítulo sale, la mentira deja de ser una desviación para ser una
@@ -742,7 +742,7 @@ costes, no como ahorro**:
 `S1`–`S6` completas —en especial `S5`, la coartada de estación, que es la que sostiene que la escena
 no se pueda fechar y la que menos gente comprobaría—; `M4`, cuya razón era **el vecino derecho** y
 que hay que volver a preguntar en la sede nueva; y `A7-it3-M3`, que prohíbe que quede detrás de un
-capítulo POV Jean que cierre en imagen doméstica. **Y si la sede nueva la acerca a `cap-27`, se
+capítulo POV Jean que cierre en imagen doméstica. **Y si la sede nueva la acerca a `cap-28`, se
 vuelve a mirar `M2`:** la proximidad no enuncia, pero compone, y este proyecto tiene registrado tres
 veces que la composición hace lo que la frase no puede.
 
