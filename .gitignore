@@ -2,9 +2,6 @@
 node_modules/
 
 # Salidas de build/deploy (se regeneran)
-builds/*.md
-builds/*.html
-builds/*.epub
 !builds/.gitkeep
 
 # Estado del runner autónomo
