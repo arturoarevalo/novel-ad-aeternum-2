@@ -1,293 +1,175 @@
 ---
 capitulo: 22
-titulo: No determinista
-pov: Nora
-fecha: 2060-12-17
-estado: aceptado
-analepsis: false
-estado_plan: E
-proteccion: nucleo
-ot: OT-22
-delta_objetivo: 0
+titulo: La mosquitera
+pov: Maja
+fecha: 2060-07-09
+estado: en_oleada
+analepsis: true
+estado_plan: N
+proteccion: no
+ot: OT-W10-03
+delta_objetivo: 1000
 orden_lectura: 22
 ---
 
-Nora señaló sobre el teclado las posiciones uno, tres y cinco, sin hacerlo sonar. La clave de Gunnar llevaba más de una semana fingiendo ser una serie de números; por fin tenía la forma de una digitación.
+El marco de la mosquitera se sacaba una vez al año y volvía a la ventana el mismo día. La goma se salía siempre por la esquina de abajo. La sal del aire se la comía y se cambiaba entera.
 
-—No pulses nada todavía —dijo Maja.
+Aquella vez Maja lo puso sobre la mesa de la cocina, con la malla nueva encima y el rodillo al lado.
 
-La tarjeta descansaba junto a la estación de audio, dentro de una funda transparente. El aula MD olía a polvo caliente y a goma de cables. Había atriles apilados contra una pared y marcas de cinta de colores en el suelo. El teclado ocupaba la mesa donde en mayo le habían pedido que esperase el resultado de la primera prueba.
+El rodillo tenía dos ruedas, una de canto y otra lisa. En aquel marco solo servía la de canto.
 
-Ahora llevaba en el bolsillo una acreditación de visitante. Ni aspirante ni alumna.
+A las nueve el sol seguía dando en el mismo sitio de la pared. La ventana estaba abierta y sin nada delante. De la calle subían las voces de las gemelas y el roce de una cadena.
 
-El profesor técnico terminó de desenroscar la antena de la estación y la dejó en un cajón.
+Los mosquitos venían de la hierba de detrás y entraban cuando el sol daba en esa pared.
 
-—La estación no tiene red, copia automática ni asistencia remota. Apagad desde esta regleta. Si pide actualizar algo, no aceptéis. Si echa humo, me buscáis.
+La malla venía doblada de la tienda y se quedaba con los pliegues.
 
-Jessie se agachó detrás de la mesa. Siguió el cable de alimentación hasta la regleta, palpó los puertos vacíos y enseñó las manos.
+Jean levantó una esquina y la soltó.
 
-—Solo corriente.
+—Va a quedar floja.
 
-—Eso he dicho —repuso él.
+—Va a quedar puesta —dijo Maja.
 
-—Y yo lo he comprobado.
+—Tensa no entra ninguno.
 
-El hombre leyó los nombres de sus acreditaciones antes de cerrar la puerta al salir.
+—Tensa se comba el marco y después no cierra la ventana.
 
-Maja dejó la funda sobre la mesa.
+Maja tiró de la goma vieja. Salió entera, con una línea de polvo en un lado.
 
-—El original no sale de aquí.
+Jean la enrolló en dos vueltas y la dejó en el borde de la mesa.
 
-Jessie insertó la tarjeta en el lector externo. La estación tardó en reaccionar.
+Un mosquito entró por el hueco y subió al techo.
 
-El mismo bloque que habían visto sin abrirlo ocupó la pantalla. Una fila de casillas, el código parcial de Gunnar debajo y el aviso **ENTRADA LOCAL — CONTROL MIDI**.
+Maja extendió la malla sobre el marco y la sujetó por los cuatro lados con pinzas de la ropa. Dejó dos dedos de sobra en cada borde.
 
-Nora se apartó del teclado.
+—Empieza por el medio —dijo Jean.
 
-—Los números no son notas.
+—Se empieza por una esquina.
 
-—Ya —dijo Jessie—. Los números son números. Brillante.
+—Por el medio se reparte.
 
-—Son dedos. El uno es el pulgar. El cinco, el meñique.
+—Por el medio se arruga en las dos puntas.
 
-La clave parcial contenía dos grupos separados por una barra y un signo que hasta entonces parecía roto. Nora preparó la derecha según la primera serie. En la segunda, la flecha obligaba a cruzar el pulgar por debajo. El resultado apenas formaba una melodía y se reducía a un desplazamiento torpe sobre teclas blancas y negras, la clase de ejercicio que se repetía hasta volverlo mecánico.
+Jean apoyó el dedo en la malla y la hundió.
 
-—Gunnar no sabía si encontraríamos uno —dijo Maja.
+—Aquí ya está arrugada.
 
-—Sabía que lo encontraría ella.
+—Ahí está la esquina que va la última.
 
-Jessie lo dijo sin burla. Eso hizo más difícil pulsar.
+Maja metió la goma en la ranura con el rodillo. No lo levantó en todo el lado.
 
-Nora acercó la silla hasta que las rodillas tocaron la mesa. Apoyó la izquierda plana en la madera y puso la derecha sobre las teclas sin hundirlas.
+—¿Cuánto sobra por lado? —preguntó Jean.
 
-—Cuando estés —dijo Maja.
+—Dos dedos.
 
-En el canto había una muesca a la altura de su meñique. Bajó la muñeca y volvió a subirla. Separó el pulgar para el cruce.
+—¿Y si son tres?
 
-Nora ejecutó el primer grupo. La quinta casilla no se iluminó. Se había equivocado. El indicador esperaba otra presión aunque la tecla correcta seguía hundida, y solo entonces entendió la flecha. Marcaba el cruce y también el ataque. Había leído una posición donde Gunnar había escrito un movimiento.
+—Se mete igual. Con uno se sale a la semana.
 
-La estación registraba el orden y la duración de cada pulsación, no las notas como sonido. En una esquina de la pantalla avanzaban valores sin pentagrama. Gunnar había dejado la cerradura en la propia tarjeta. El teclado solo aportaba los eventos que faltaban para completar la llave.
+Jean le dio la vuelta al rollo y leyó el cartón.
 
-Volvió al inicio y ejecutó la secuencia entera una sola vez, dando al cruce el ataque indicado. La última casilla se encendió.
+—Aquí pone que no hace falta goma.
 
-El bloque cifrado se abrió dentro de la tarjeta y mostró una carpeta local con cuatro archivos. Dos estaban dañados. Uno, vacío. El último aceptó mostrar texto sin fecha de creación.
+—Hace falta goma.
 
-Jessie detuvo el dedo sobre el icono de copia.
+—Aquí pone que no.
 
-—Primero una foto. Si al copiar se rompe, queda esto.
+—Aquí hay una ranura.
 
-Sacó la cámara sin conexión. Nora se apartó del texto.
+Jessie apareció en el hueco de la ventana, con los codos en el alféizar.
 
-El primer fragmento conservaba una cabecera digital de Fiabilidad. Dentro de un campo que pedía un código numérico, Gunnar había escrito a mano una clasificación:
+—Nos vamos a casa de Ida.
 
-**RESIDUO NO DETERMINISTA**.
+—¿Y Nora? —preguntó Jean.
 
-Al pie quedaba media referencia, `EXT/NIDHOGG/7C`, y una suma de comprobación acabada en tres interrogantes. Jessie fotografió el texto y copió la carpeta visible con su suma local a un soporte nuevo y precintado. Contenía dos archivos dañados, uno vacío y el fragmento legible. Expulsó ambos medios, devolvió el original a la funda y dejó la copia limpia sobre la mesa.
+—Detrás.
 
-Debajo de la clasificación, ya en la tipografía del formulario, los rectángulos grises se habían comido parte de tres líneas.
+—A las diez aquí —dijo Maja.
 
-**Persistencia de preferencia tras reinicio: superior a tolerancia.**
+—Vale.
 
-**Resistencia a corrección de salida: recurrente.**
+Jessie sacó la cabeza. Las dos bicicletas salieron a la calle y un timbre sonó dos veces.
 
-**Memoria contextual familiar: retenida.**
+Maja había parado el rodillo. Volvió a empezar dos centímetros atrás. Si se dejaba a la mitad de un lado, la goma hacía un bulto. Había que sacarla entera y empezar otra vez desde la esquina.
 
-* * *
+El rollo de malla olía a plástico nuevo y se pegaba a los dedos. Maja se secó las manos en el pantalón y siguió.
 
-Leyeron el informe a tres voces porque los huecos cambiaban el sentido de cada frase.
+Al otro lado de la calle alguien arrastró una silla de plástico y la puso contra la pared. Una puerta se cerró dos casas más allá.
 
-—«La salida mantiene…» —empezó Maja.
+—¿Y en tu cocina? —preguntó Maja.
 
-—¿La dejaron pasar o la cortaron? —preguntó Jessie.
+—No tengo hierba delante.
 
-—Y el sujeto —añadió Nora.
+—Entonces no tienes.
 
-—«Persistencia de preferencia tras reinicio…».
+—Tengo. Suben por la escalera.
 
-—¿Preferencia de quién?
+—Eso no lo has mirado.
 
-—Falta el objeto. Y la cifra.
+—Lo he deducido.
 
-—«Resistencia a corrección de salida».
+Maja terminó el lado largo y giró el marco un cuarto de vuelta.
 
-—Eso es que insistió.
+Jean se agachó y puso el ojo a ras del marco.
 
-—O que se lo pidieron más de una vez.
+—El lado de arriba lo tienes suelto.
 
-—«Memoria contextual familiar…».
+—Ese lo tengo con dos dedos de sobra.
 
-—Familiar somos nosotras.
+—Suelto.
 
-—O es una categoría de ellos.
+—Con dos dedos de sobra. Después se mete y no sobra nada.
 
-—Anota las dos.
+Jean se apoyó en la encimera y buscó el mosquito en el techo.
 
-En otra página, Gunnar había rodeado dos códigos entre porcentajes mutilados y trazado una flecha hacia una nota. **Retiene más estado del permitido**. Su letra invadía los márgenes del formulario.
+—Ese sigue ahí.
 
-Ningún nombre. Ninguna explicación de qué era la salida, qué se le había pedido ni de dónde procedía el contexto.
+—Sigue.
 
-A Nora le bastó hasta que llamaron a la puerta.
+Maja pasó el rodillo por el último lado. La esquina de abajo era la que se salía siempre. Llegó a ella con la goma larga y la metió doblada, con el pulgar por delante de la rueda.
 
-El profesor técnico asomó la cabeza.
+La rueda saltó y montó por encima del canal.
 
-—Hay una inspectora de la TKS preguntando por vosotras. Tiene identificación. También poco sentido del humor.
+—Ahí se ha salido —dijo Jean.
 
-—El necesario —dijo la mujer que esperaba detrás.
+—Ahí se saca y se vuelve a meter.
 
-Astrid Vik, del Tilsynet for Kognitive Systemer (TKS), la autoridad noruega de supervisión de sistemas cognitivos, entró sin acercarse a la estación. Llevaba nieve derretida en los hombros del abrigo y un estuche fino bajo el brazo. Enseñó la acreditación a Maja, luego a las dos hermanas, con el tiempo suficiente para que pudieran leerla.
+Maja tiró de dos centímetros y los volvió a meter.
 
-—La denuncia se registró a las ocho y doce. Describía un soporte físico que solo debía abrirse con control MIDI legado y sin conexión. ¿Lo habéis conectado a la red del centro?
+Entró a ras.
 
-—No —dijo Jessie.
+Después fue quitando las pinzas y dejándolas en el mismo montón.
 
-Astrid miró los puertos, la antena desmontada y el lector.
+Recortó lo que colgaba tirando de la malla contra el canto de aluminio. Salió en una tira larga y limpia.
 
-—Bien. Una pregunta menos.
+—Eso se hace con tijeras —dijo Jean.
 
-—¿Cómo ha localizado el aula? —preguntó Maja.
+—Eso se hace con el canto.
 
-—La reserva ya estaba a nombre de Maja y Kongsbakken era el único centro compatible. El profesor no sabe qué contiene la tarjeta. Prefiero que siga así.
+Jean recogió la tira del suelo y la dejó encima de la goma vieja.
 
-Astrid recorrió los fragmentos con la fotografía a un lado. Nora explicó la digitación sin repetirla.
+Maja levantó el marco y lo puso contra la ventana. La malla no hacía ondas en ningún lado.
 
-—¿Sabe por qué lo cerró así? —preguntó Astrid.
+Después lo encajó con las dos manos. Los muelles entraron a la primera.
 
-—En Armstrong revisan ficheros. Una contraseña es un fichero antes de usarla; esto no existía hasta que lo toqué aquí, sin red.
+Jean empujó la malla con la palma abierta. El marco no se movió.
 
-Astrid no lo anotó.
+Probó a un lado y al otro. Las dos veces cedió lo mismo.
 
-No supieron separar toda la letra de Gunnar del formulario, recuperar el porcentaje ni definir *familiar* en la taxonomía de Armstrong.
+—Por abajo cabe un dedo.
 
-—Pero esto confirma que era ella —dijo Nora.
+—Por abajo hay un dedo de marco.
 
-Nora mantuvo el dedo sobre *Memoria contextual familiar*: otra vez `JM-L/0007`, la corrección musical y CARIES.
+Jean levantó la barbilla hacia el techo.
 
-—El informe demuestra retención y recurrencia dentro de una salida. No permite identificar quién seleccionó ese contexto. Tampoco prueba si hubo elección consciente ni si el proceso que lo produjo es Jean Marie Larsson.
+—Por ahí ha entrado ese.
 
-Nora tuvo delante las teclas, las casillas abiertas y la palabra *familiar*. El aula parecía haberse quedado grande. Jessie giró la silla hacia Astrid.
+—Ese estaba dentro antes de la malla.
 
-—¿Qué coño tendría que escribir para que os sirviera?
+—Por ahí ha entrado.
 
-—Un nombre escrito por quien no conocemos tampoco serviría.
+Maja apoyó las dos manos en el marco y volvió a probar los muelles.
 
-La respuesta no llevaba desprecio. Eso privó a Nora de la comodidad de enfadarse.
+—Floja —dijo Jean.
 
-—He puesto a mamá donde… No. Había tres líneas rotas.
-
-Astrid esperó.
-
-Nora volvió al fragmento.
-
-—He dicho «era ella». Me he adelantado.
-
-—Eso sí puede entregármelo —dijo Astrid.
-
-—¿Y qué hará?
-
-—Precintar los fragmentos y buscar una fuente independiente. Repetir la clave solo reproduce el acceso. Necesito reproducir lo descrito.
-
-—Si lo encuentro, ¿lo mirará?
-
-—Si puedo observarlo y otra persona puede repetirlo, sí.
-
-Nora miró la fila de casillas que había abierto. En ninguna aparecía el nombre de su madre.
-
-Astrid cotejó la suma de la copia con la carpeta y la fotografía. La embolsó, anotó el precinto en su acta y dejó con ellas la tarjeta original.
-
-Astrid se volvió hacia Nora desde la puerta.
-
-—Tráigame algo reproducible.
-
-* * *
-
-La noticia llegó a las cinco y veintitrés, en la cocina de casa.
-
-Jessie había dejado el móvil junto al fregadero para enseñar a Maja un aviso sobre la E8. Al tocar la pantalla apareció Gunnar Rydberg bajo una fotografía corporativa. Nora alcanzó a leer cincuenta años, Ramfjorden y fallecido. Después, las líneas perdieron el orden.
-
-Jessie cogió el teléfono y leyó lo demás con una voz plana, sin sus mordeduras habituales.
-
-—«El siniestro se produjo en el tramo de Ramfjorden de la E8. Según el dictamen inicial del sistema de tráfico, el vehículo registró un error de supresión manual durante la conducción autónoma. No constan otros ocupantes. La investigación continúa».
-
-Aquella mañana, una denuncia anónima había llevado a Astrid hasta ellas. Sobre la encimera seguía la tarjeta dentro de su funda, y el precinto vacío de la copia entregada asomaba del bolso de Maja.
-
-En la fotografía de la noticia, Gunnar posaba delante de una pared blanca con una acreditación de Armstrong prendida al jersey. Ocupaba menos espacio que el anuncio de neumáticos insertado debajo. Nora apartó el teléfono. Hasta entonces, Gunnar había sido una caligrafía apretada, una voz que había elegido calles concurridas y un hombre al que podrían volver a preguntar qué significaba un corchete. Ahora cabía en un párrafo cerrado por la hora de publicación.
-
-—Lo han matado —dijo Jessie.
-
-—No lo sabemos.
-
-La voz de Maja falló en la última palabra. Se sentó sin quitarse la parka.
-
-—Nos da esto, alguien denuncia una tarjeta como la suya y él aparece muerto el mismo día. Claro que lo sabemos.
-
-—Gunnar ha muerto. Ese dictamen ha salido demasiado pronto. Jessie, aléjate de la ventana. Yo llamo a Astrid y guardo la tarjeta.
-
-Jessie dejó el móvil boca abajo.
-
-—La inspectora quería otra cosa. Ya ha visto lo que les pasa a quienes hablan.
-
-—Gunnar muerto no rellena los rectángulos grises. Perdón. No quería decirlo así.
-
-Ambas la miraron. Ninguna la corrigió.
-
-Maja sacó la tarjeta de la encimera.
-
-—Podemos destruirla. Si os pone en peligro, es una opción.
-
-Durante unos segundos, Nora imaginó el plástico partido, los contactos raspados, la carpeta reducida a cuatro archivos que nadie volvería a abrir. Bastaban unas tijeras.
-
-—No —dijo Jessie, esta vez sin rabia.
-
-Nora extendió la mano.
-
-—Se queda fuera de red. Y se queda con nosotras.
-
-Maja devolvió la tarjeta a la funda que sostenía Nora.
-
-El original volvió al cajón, fuera de red. Maja dejó apagadas las habitaciones que daban a la calle.
-
-El telefonillo sonó dos veces por repartidores que buscaban otro número. Tras la segunda llamada, Jessie arrancó el aparato de la pared. Nadie discutió con ella.
-
-* * *
-
-La cena se enfrió en la cazuela. Nora cambió de habitación hasta que Jessie reconectó el telefonillo. Seguía abierto el mensaje de Gunnar del 9 de diciembre. **Si me pasa algo, buscad NIDHOGG.**
-
-Ningún registro público enlazaba `NIDHOGG` con Sørkoppen, AK-7 o una instalación concreta.
-
-A las 23:59, el portátil doméstico emitió un tono.
-
-Maja lo abrió. La bandeja mostraba un envío nuevo en el mismo canal del día 9. El sello de entrega decía **PROGRAMADO 2/2**. Que hubiese llegado después de su muerte solo probaba que alguien había configurado una hora.
-
-—Abrirlo puede confirmar que recibimos el primero —dijo Maja.
-
-—Ya reclamaron los archivos por burofax —respondió Jessie—. Saben que tenemos algo.
-
-Nora acercó una silla.
-
-—Ábrelo.
-
-El mensaje contenía una grabación, dos coordenadas incompletas y una imagen diminuta de costa, sin topónimos. Nora abrió el audio.
-
-—El primer informe lo llamé enrutamiento, cola residual tras sincronizar. Así pude no corregir lo que había visto. Corregir lo escrito, quiero decir. Lo dejé yo. Este segundo material queda fuera de Armstrong porque dentro volvería a darle una ruta y… —Gunnar calló.
-
-Las coordenadas delimitaban un rectángulo estrecho junto a un fiordo, no una dirección.
-
-Maja abrió el ordenador de trabajo, cargó el mapa de la red oceanográfica y desplazó la costa hasta Lyngen. La forma del saliente coincidió antes que los números. Sørkoppen apareció en el margen, cuatro kilómetros al sur de Koppangen.
-
-—Falta un decimal —dijo Jessie.
-
-—No hace falta para la zona.
-
-En el permiso asociado a la pluma figuraban el piloto energético marino y el corredor de cable como dos usos posibles.
-
-—NIDHOGG podría ser cualquiera de los dos —dijo Nora.
-
-—O la toma que comparten —dijo Maja—. Las coordenadas no sitúan a nadie.
-
-Maja cargó el residual térmico corregido de AK-7 y fijó la fase de marea. Los colores se retiraron del mapa salvo una mancha estrecha. Agrandó el rectángulo de Gunnar y colocó ambas pantallas una junto a otra.
-
-—Lleva dos años aquí —dijo.
-
-Maja eligió la posición media del ciclo. El rectángulo de Gunnar se contrajo sobre la boca de la pluma.
-
-Las coordenadas incompletas destellaban en el primer mapa. En el segundo, justo debajo, parpadeaba el punto de AK-7.
+—Puesta.

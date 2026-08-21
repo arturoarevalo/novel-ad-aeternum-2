@@ -19,3 +19,4 @@
 - 2026-08-20T14:45:10 · rebaseline · W11 · promociones
 - 2026-08-20T15:04:36 · rebaseline · W11 · punteros
 - 2026-08-20T15:21:46 · rebaseline · W11 · §8i
+- 2026-08-21T09:03:44 · rebaseline · Renumeracion final 2026-08-21

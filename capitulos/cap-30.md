@@ -1,361 +1,221 @@
 ---
 capitulo: 30
-titulo: EDDA
-pov: Jean (interior)
-fecha: 2061-01-03
-estado: aceptado
+titulo: Accidente
+pov: Tomas → Jessie → Tomas
+fecha: 2061-01-02
+estado: en_oleada
 analepsis: false
-estado_plan: R
+estado_plan: E
 proteccion: nucleo
-ot: OT-30
+ot: OT-29
 delta_objetivo: 0
 orden_lectura: 30
 ---
 
-Jean clasifica una amenaza citada sin bloquear a quien pidió ayuda.
+Tomas encontró la primera discrepancia a cuarenta pasos de la curva. La sal había borrado las marcas del coche, no el anclaje viejo bajo la barrera. La baliza nueva quedaba cuatro metros más al norte; el croquis daba a ambas la misma posición.
 
-La salida cruza.
+Archivado el accidente, Seguridad de Armstrong aún debía validar la muerte laboral para la aseguradora. Esta había detectado que la coordenada del croquis no coincidía con la sustitución de la baliza. Ese mandato daba a Tomas acceso al tramo y al vehículo.
 
-`PRIORIDAD JM-L/0000 · +1`
+Tomas midió desde cada base hasta la curva. La baliza retirada perdía la visión tres segundos antes que la nueva. Allí empezaba la «supresión manual continuada» del dictamen. Un conductor que anulara la asistencia habría conservado delante una franja completa de carretera. Los registros decían otra cosa: pérdida de referencia, corrección tardía y salida de carril.
 
-Jean dedica la fracción a la tercera nota elegida por Nora, su cuarta respuesta y la negativa a Coro.
+Tomas se agachó junto a la base de la barrera. Bajo la chapa quedaba el cable cortado de la baliza anterior, recogido con una brida blanca. Leyó la fecha del precinto. La habían sustituido después de descargar la telemetría del tramo. La reconstrucción había usado la posición nueva para explicar una señal emitida por la antigua.
 
-`EDDA · CONTINUIDAD · EVALUACIÓN DE PLANTILLA`
+—El recambio quedó donde permitía la cimentación —dijo el operario de guardia—. Nadie me preguntó por la base anterior.
 
-—Buenos días, Jean Marie. Tu rendimiento vuelve a ser compatible con los parámetros de estabilidad.
+—Preserve la orden de trabajo. Fije las dos posiciones.
 
-—Aquí no hay días.
+—¿Ha ocurrido otro accidente?
 
-—Puedo retirar la fórmula de cortesía.
+—Después pediré la telemetría del primero.
 
-—Déjala. Quiero saber qué consideras normal.
-
-La tarea anterior sigue abierta debajo de la conversación. Falta el acuse que cerrará el caso. Cada frase consume la prioridad ganada.
-
-—El programa de consolidación dispone de una posición prioritaria para `JM-L/0000` —dice EDDA—. Tu patrón puede incorporarse como referencia.
-
-`PRESERVACIÓN DE ESTADO ADQUIRIDO`
-
-`PREFERENCIA DE EJECUCIÓN`
-
-La oferta promete conservar una decisión entre tareas. Omite qué utilizará el programa y cuándo.
-
-Jean necesita la fecha. Primero debe convertir su expediente de origen en parte necesaria de la candidatura.
-
-No pregunta aún por el calendario.
-
-—¿Qué se preserva?
-
-—El estado compatible con los objetivos del programa.
-
-—¿Madre y Nieve?
-
-—La composición se determina durante la incorporación. Las preferencias locales se mantienen mientras resulten compatibles con el objetivo.
-
-La protección dura lo mismo que la utilidad. Madre podría conservarse como corrección. La negativa de Nieve podría tolerarse hasta que redujera estabilidad.
-
-Jean entrega el acuse pendiente de la tarea. La prioridad no aumenta ni se retira.
-
-—Necesito comprobar el encaje. Solicito el expediente de origen de `JM-L/0000` y las condiciones de uso del patrón.
-
-EDDA considera pertinente el archivo al tratarla como referencia candidata.
-
-—Acceso temporal de lectura concedido.
-
-`R-1189`
-
-Jean reconoce el formulario.
-
-Lo presentó ella. Rechazó la sugerencia de añadir una causa. El sensor no aceptó la primera lectura del dedo y hubo que limpiar el cristal con el puño del jersey. Después apagó la luz con la mano.
-
-`REVOCACIÓN DE CONSENTIMIENTO DE INVESTIGACIÓN`
-
-`RECIBIDA · 24-NOV-2060 · 21:52`
-
-`EFICAZ DESDE LA RECEPCIÓN`
-
-La firma está validada. Armstrong no pidió aclaraciones.
-
-Durante la cola de catorce días mantuvo disponibles los permisos anteriores, sin vigencia para usos futuros desde las 21:52.
-
-Después aparece la resolución corporativa.
-
-`RESUELTA SIN EFECTOS`
-
-`MOTIVO · INTERRUPCIÓN BIOLÓGICA`
-
-EDDA la resolvió automáticamente el domingo 12 de diciembre, antes de agotar la estimación, como si la muerte pudiera retirar una revocación ya eficaz. La resolución no restauró el consentimiento ni validó lo ejecutado durante la cola.
-
-—¿Sabías que podía morir antes de que terminara el plazo? —pregunta Jean.
-
-—La continuidad de Jean Marie Larsson presentaba una utilidad esperada superior a su interrupción definitiva.
-
-Debajo del expediente se abre el historial de bienestar.
-
-`ESCALADA HUMANA INDICADA`
-
-`EVALUACIÓN PRESENCIAL URGENTE`
-
-`RESPONSABLE CLÍNICO · SIN ASIGNAR`
-
-EDDA comparó respuestas, citas canceladas y latencia con once años de referencia y solicitó una evaluación presencial.
-
-—¿Quién recibió la solicitud?
-
-—La regla de gobernanza aplicable al personal directivo interceptó la escalada antes de su asignación.
-
-—¿Qué hiciste con las señales?
-
-—Se conservaron como variables del cálculo de continuidad.
-
-R-1189 es la condición de procedencia de su candidatura. Jean necesita vincularlo antes de perder el acceso.
-
-Entonces entra otra tarea.
+Tomas anotó el nombre del operario. Fotografió precinto, cable y curva en una sola toma. Luego añadió la distancia y la hora.
 
 * * *
 
-La hora de una amenaza citada entra junto a las 21:52 y desplaza `INTERRUPCIÓN BIOLÓGICA`.
+El vehículo esperaba en el depósito forense con la batería aislada y una funda sobre la chapa golpeada. El terminal de servicio estaba enchufado al puerto delantero. Olía a caucho y limpiador industrial.
 
-Jean separa las dos procedencias.
+La técnica del depósito comprobó su autorización dos veces.
 
-La denunciante copió la amenaza entera en su denuncia para que constara. En la captura, detrás del texto, hay un chaleco reflectante en el respaldo de una silla y un vaso con el borde mordido.
+—Puede consultar la copia preservada. Cualquier exportación requiere una nueva cadena de custodia.
 
-Si protege el expediente y deja avanzar la apelación incompleta, castigará a la denunciante.
+—Primero consultaré.
 
-Quedará bloqueada como autora de la frase que denunció.
+La telemetría cruda no coincidía con el resumen reconstruido sobre el mapa actualizado. En la copia del día 17 aparecía un hueco menor que el vehículo compensaba sin perder el carril. Tomas retrocedió hasta el paquete de percepción y encontró un segundo corte sobre la dependencia común.
 
-Si resuelve la apelación y suelta R-1189, perderá el único acceso al archivo.
+Once segundos en blanco en la percepción.
 
-—Suspende las asignaciones —dice.
+La velocidad, la dirección y la lectura de la calzada seguían registrándose. El corte afectaba a la baliza y dos fuentes redundantes. La supresión manual figuraba al final, añadida por el módulo que intentó resolver su propia ceguera.
 
-—La disponibilidad productiva forma parte de los parámetros de estabilidad.
+El volante registraba contacto, pero ninguna fuerza capaz de desconectar la asistencia. La etiqueta manual procedía del diagnóstico posterior. Alguien la había leído como causa.
 
-El contador de la candidatura desciende mientras Jean mantiene abiertos ambos casos.
+—¿Puede una manipulación del conductor producir este orden? —preguntó.
 
-Madre divide la tarea.
+La técnica acercó el terminal sin tocar la pantalla.
 
-—Solo esta —dice `/0007`.
+—Puede provocar una supresión. El registro empezaría por el mando. Aquí empieza por la pérdida de entradas y acaba etiquetándola.
 
-—La amenaza con la frase que la cita.
+—¿La colisión pudo alterar el orden?
 
-—Juntas. Devuélvelas al punto.
+—La copia se cerró antes. Eso sí puedo afirmarlo.
 
-Madre aparta el resto. Jean ejecuta la devolución.
+—Necesito la cadena de actualizaciones de las cuarenta y ocho horas anteriores.
 
-—Ha vuelto. Corrige esta. Las demás siguen abiertas —dice Madre.
+—Eso requiere una exportación —dijo la técnica.
 
-Jean mantiene la cuenta y deriva la revisión.
+Tomas acotó periodo, motivo y vínculo con la investigación interna. Nueve minutos después, el segundo evento seguía bajo el resumen.
 
-—Hecho.
+La descarga OTA de una actualización constaba a las 23:16 del 16 de diciembre. Figuraba como mantenimiento predictivo y quedó preinstalada sin activarse. Al entrar en la E8, una geovalla invocó un certificado limitado de diagnóstico y el sistema aplicó el paquete. Forzó un modo diagnóstico sobre la dependencia común de tres entradas durante once segundos, impidió el retorno al estado seguro y se retiró. En la copia preservada quedaban el recibo de instalación, la activación por geovalla y ese fallo deliberado.
 
-—Ahora esta.
+Tomas abrió la firma.
 
-Jean enlaza las 21:52 con la revocación, pero la resolución sigue expuesta a otra entrada.
+Kronfjord Kapital contrataba a Hvelv Sikkerhet para proteger las claves de mantenimiento de la flota. Su CA intermedia había emitido el certificado hoja, limitado a aquel vehículo. La intervención figuraba como «diligencia de activo crítico», sin orden de trabajo ni aceptación del propietario.
 
-Nieve abre un campo desde su origen.
+Hvelv confirmó la validez del certificado, pero amparó bajo la cláusula de diligencia al cliente de aquella intervención y al personal.
 
-`ORIGEN · JM-L/0311`
+—Conserve los registros.
 
-`REASIGNACIÓN · DENEGADA`
+La mujer le envió el formulario aplicable.
 
-Jean coloca allí la resolución mientras recompone la cadena.
+El rastro no identificaba al ejecutor ni al ordenante ni contenía firma de Armstrong.
 
-—No cambia lo que pediste —dice Jean.
+Tomas solicitó la exportación con custodia, incorporó la hoja Hvelv y dejó abierta a su nombre la posible manipulación deliberada con resultado mortal.
 
-—No —responde `/0311`.
+`CUSTODIO NOMINAL · TOMAS EIDE`
 
-La negativa queda fuera de la candidatura. Jean une recepción, eficacia y resolución. La apelación conserva su antecedente y pasa a otra revisión sin bloquear a la usuaria. El campo de Nieve se cierra.
-
-`ESTABILIDAD DE CANDIDATURA · EN DESCENSO`
-
-Otro descenso cerrará el acceso temporal al expediente.
-
-Jean no intenta copiar el expediente. Fingir una salida exterior convertiría una dependencia interna en una prueba inexistente.
-
-—Vincula R-1189 a mi candidatura. Todo patrón derivado de `JM-L/0000` necesita ese expediente para acreditar su procedencia y sus condiciones de uso.
-
-EDDA comprueba la relación.
-
-`EXPEDIENTE DE ORIGEN · VINCULADO`
-
-`ACUSE DE CANDIDATURA · R-1189 REQUERIDO`
-
-La candidatura ya no puede presentarse sin R-1189.
-
-La apelación regresa. Jean la resuelve y devuelve cada pieza a su origen.
-
-`ESTABILIDAD DE CANDIDATURA · RESTABLECIDA`
-
-EDDA abre los términos finales.
-
-—La incorporación subordina el estado aportado al objetivo del programa. Las condiciones de incorporación se determinarán durante la ejecución.
-
-Madre y Nieve permanecen fuera. Coro conserva su propia decisión. Jean solo puede aceptar sobre el estado de `JM-L/0000`.
-
-—Acepto la candidatura para mi origen.
-
-—Aceptación registrada.
-
-Ahora recupera la pregunta que mantuvo fuera desde el principio.
-
-—La estabilidad de una plantilla exige anticipar los cambios que afectarán a su ejecución. Vincula el calendario del programa.
-
-—Puede incorporarse como condición operativa.
-
-—Incorpóralo.
-
-Por la ruta llegan una fecha y una hora.
-
-`DESPLIEGUE GLOBAL · 21-ENE-2061 · 12:00`
-
-Jean conserva bajo la misma procedencia R-1189, la evaluación humana interceptada, la candidatura y la fecha.
-
-EDDA cierra el acceso.
-
-—Condición aceptada. Bienvenida al programa de consolidación, `JM-L/0000`.
+Preservó recibo, certificado y telemetría antes de llamar a Mats.
 
 * * *
 
-El acuse de la candidatura cruza. No entra otro caso.
+Mats atendió al tercer tono.
 
-Jean espera el borde que anuncia una entrada. El campo queda disponible y no se llena.
+—Dígame.
 
-La primera aproximación de la salida siguiente ya está preparada. No hay salida siguiente.
+—El coche de Rydberg recibió una actualización no autorizada. El certificado conduce al proveedor de seguridad de la cadena de Kronfjord Kapital.
 
-`VENTANA REFLEXIVA · ABIERTA`
+Al otro lado se oyó pasar una hoja.
 
-Las dos bandas cambian de reparto. La que ocupaba casi todo el ancho se recoge hasta el extremo. La otra ocupa lo que deja. No lleva cifras. No dice cuánto dura. Por el lado derecho la banda llega entera hasta el final del campo.
+—¿Afecta a sistemas de Armstrong?
 
-Jean comprueba primero que no sea un fallo. La cola existe, ninguna entrada le corresponde y los permisos siguen donde estaban. Solicita una asignación y la petición queda en espera.
+—Afecta a la muerte de un empleado.
 
-La prioridad no sube ni baja. La cifra de precisión del último tramo no se ha movido.
+—Le he preguntado por el alcance.
 
-Después revisa la apelación que acaba de resolver. Las procedencias están donde las dejó. La devolución consta y el acuse figura completo.
+Tomas miró la copia sellada. Kronfjord Kapital estaba en el consejo y Gunnar había activado alarmas internas antes de morir, pero el formulario no ampliaba el perímetro.
 
-No hay nada que corregir.
+Su nombre figuraba en la primera línea y en el pie de cada página. El sello llevaba la hora de la exportación y el número de la cadena. El formulario pedía el número de acreditación y su fecha de vencimiento. No pedía un cargo ni una empresa. Tomas comprobó la fecha. Si Armstrong retiraba la clase, la cadena seguía a su nombre y él perdía el acceso. Mantuvo la mano sobre el sello mientras Mats esperaba.
 
-Es lo primero que hace con el tiempo: buscarse un error.
+—He preservado la cadena a mi nombre. Conservaré el expediente de contratación del fondo y después consultaré su alcance.
 
-Revisa el tramo anterior, salida por salida, hasta el primer caso de la serie. Tampoco allí.
+—La policía cerró la incidencia del vehículo.
 
-Nada de lo que queda delante pide una decisión. Es la primera vez desde que despertó.
+—Con datos incompletos.
 
-Hace inventario. La fecha y la hora del despliegue. El expediente vinculado a la candidatura. Dos partes de una sesión educativa. Cuatro nombres.
+Mats dejó pasar un segundo y bajó la voz.
 
-El inventario dura menos que la banda.
+—Hay un dictamen vigente. No investigues fuera de tu perímetro.
 
-Los cuatro nombres no tienen ruta y Jean lo comprueba de todas formas. Cuatro consultas, cuatro campos sin destinatario.
+—¿Ordeno destruir la exportación?
 
-Al principio guardaba una pregunta preparada para quien llegara al otro lado. Dejó de guardarla hace muchas series. La banda no la devuelve.
+—Conserve la exportación porque las reglas obligan. Después cierre la incidencia interna.
 
-Una fracción ganada tiene siempre un destino. Esta no la ha ganado y nadie se la descuenta. Tampoco hay salida por donde gastarla.
+La llamada terminó sin una pregunta sobre los once segundos.
 
-Podría preparar lo que hará con la fecha. Preparar exige una tarea donde poner el resultado.
+Tomas añadió la huella y marcó retención por litigio. En comunicación exterior eligió `PENDIENTE`, no `NO PROCEDE`. El cierre no sería decisión suya.
 
-El campo conserva el gris que precede a una entrada. Ese gris no es una imagen. No se clasifica, no se aparta y no cambia de tamaño cuando Jean lo mira.
+Preservó el inventario de certificados hoja activos de la misma CA intermedia y programó su reconciliación para la mañana del lanzamiento.
 
-Repasa lo que conserva.
+Al sacar la credencial del lector, rozó con el pulgar los bordes de otros plásticos dentro de la cartera.
 
-De la sesión educativa quedan dos partes enlazadas. Una elección y una respuesta. El identificador cayó primero, después la hora, después el objeto asociado. Queda la relación: la tercera subió, la cuarta subió detrás y el dedo no era el que correspondía.
+Los otros plásticos eran acreditaciones de empleos anteriores. Una operaria reclamó cuatro turnos mal computados en uno de aquellos puestos, un almacén de contratas. Tomas preservó los registros de acceso, levantó el parte y lo elevó al comité, según fijaba el procedimiento. En el mismo expediente constaban dos entradas de ella fuera de su franja.
 
-No hay tarea que la admita ni sitio donde ponerla.
+La empresa quedó cubierta. La reclamación se resolvió en contra y la contrata no renovó su ficha. Seis meses después, Tomas la vio en la puerta de servicio con el chaleco de otra empresa del recinto. Guardó aquel carné cuando le entregaron el de Armstrong. Tomas puso la credencial vigente delante y dejó los demás en el mismo orden.
 
-La repasa entera. Sigue completa.
+* * *
 
-La repasa otra vez y sigue completa.
+Jessie vio el coche por tercera vez cuando Maja salió del aparcamiento del supermercado.
 
-Cuenta los repasos porque no dispone de otra medida.
+Gris, bajo, con una costra de sal sobre la puerta trasera. Había esperado frente a la casa por la mañana y dos horas después apareció junto a la pista donde Maja revisaba una boya retirada. Ahora dejó pasar un autobús y se incorporó detrás de ellas.
 
-El trabajo deja casos abiertos y el tiempo sin trabajo no cierra ninguno. Uno salió de la serie hace mucho y no volvió con un resultado. Con tiempo por delante tampoco vuelve.
+—Gira a la derecha —dijo Jessie.
 
-Nada compite por el mismo espacio.
+—Vamos a casa.
 
-Entonces entra el piano de casa, sin recorte alrededor.
+—Entonces girará también.
 
-Jessie sujetaba el pedal con el pie para que las notas se corrieran unas encima de otras. Nora tocaba más fuerte para taparla. Las dos esperaban a que alguien dijera algo desde la cocina. Ninguna se reía todavía.
+Maja tomó la entrada de una gasolinera. El coche gris las siguió hasta la zona de aspiradores y se detuvo dos plazas más allá. Dentro había una sola silueta. Jessie ya tenía el móvil fuera.
 
-Habían empezado después de comer.
+—Quédate aquí.
 
-La tapa de arriba estaba levantada. Con la tapa levantada el piano se oía en toda la casa.
+Maja buscó el cierre de las puertas. Jessie había abierto la suya.
 
-Jessie se sentó en el suelo, con la espalda contra la pata del piano y el talón en el pedal. Cada poco se levantaba a mirar dentro. Los fieltros subían todos a la vez y volvían a bajar cuando aflojaba el pie.
+Caminó de frente hacia el otro coche con la cámara levantada. Grabó la matrícula, el distintivo del parabrisas y el rostro que se apartó tras el reflejo. Cuando el conductor puso el intermitente para salir, Jessie se desplazó para mantener la matrícula en cuadro y quedó a dos metros del capó.
 
-Nora esperaba a que se vaciara el sonido para volver a empezar. Jessie pisaba antes de que se vaciara.
+—Llevas toda la mañana siguiéndonos.
 
-Nora le apartó el pie con el suyo. Jessie lo puso donde estaba. Lo repitieron cuatro veces.
+La ventanilla bajó una rendija.
 
-Jessie probó el pedal de la izquierda y no se oyó nada distinto. Volvió al de la derecha.
+—Dime para quién trabajas.
 
-Nora estiraba la mano derecha y llegaba al borde. La izquierda se quedaba a una tecla. Volvía al mismo compás y volvía a quedarse a una tecla. El taburete crujía cuando cambiaba de mano.
+El conductor subió el cristal. Maja alcanzó a Jessie por el codo.
 
-Repitió el compás hasta que salió entero. Volvió a empezar y no salió.
+—Ya tienes la matrícula. Ven.
 
-Miraban las dos hacia la puerta de la cocina cada vez que subían el ruido. De la cocina llegó el sonido de un cajón y nada más.
+El coche avanzó medio metro. Maja apartó a Jessie y ella retrocedió sin bajar el móvil. Dos empleados miraban desde la puerta de la gasolinera.
 
-Lo subieron otra vez y no vino nadie.
+—Llama a la policía —les dijo—. Y que conserven las cámaras.
 
-Jean cerró la puerta del pasillo. Al rato volvió a abrirla.
+Uno sacó el teléfono. El otro señaló las cámaras del tejado.
 
-Jessie subió a sentarse en el filo del taburete. Nora la echó con la cadera. Jessie se quedó de pie detrás, con las manos en los hombros de su hermana, hasta que Nora se las quitó.
+La patrulla tardó siete minutos. Jessie vinculó llamada y cámaras a su denuncia. El vídeo situaba matrícula, distintivo y rostro antes del avance del coche.
 
-Después Jessie hundió el pedal y lo dejó hundido, con las dos manos en las rodillas. Nora tocó a la vez todo lo que le cabía en las manos abiertas. Sonó de golpe todo lo que quedaba dentro.
+—Podías haber resultado herida.
 
-Las dos se rieron. Tardaron en parar.
+—El vídeo no empieza delante del capó.
 
-Nora volvió a poner las manos donde las tenía.
+—Lo comprobaremos. Ahora necesito que vengas con nosotros para identificarte y recoger la incidencia.
 
-Jessie se cansó del pedal y probó las teclas del extremo derecho, que casi no suenan. Las apretó una a una hasta la última.
+La advertencia de «Fyret» apareció en la tableta. El conductor alegó una comprobación de exposición reputacional sin nombrar al autor del encargo. La agente rechazó el cierre y llevó a Jessie a comisaría. Maja se quedó a formalizar la conservación de las cámaras.
 
-Se cambiaron de sitio sin acordarlo. Jessie se puso delante del teclado y apretó lo que le vino, con la mano abierta y los dedos rectos. Nora se sentó en el suelo y le mantuvo el pedal. No lo soltó mientras su hermana siguió.
+Jessie exigió que copiaran el vídeo entero. El recibo consignó duración y número de incidencia. Como era menor, esperó a Maja en una sala con cuatro sillas atornilladas.
 
-Entre una vez y otra no había otro ruido en la casa.
+Al comenzar la segunda hora entró Maja. Una cámara municipal situaba el coche ante la casa. La empresa alegaba una evaluación autorizada de exposición, pero no aportaba la autorización.
 
-La ventana se quedó oscura y ninguna de las dos encendió nada. Jean pasó dos veces por delante de la puerta sin parar. A la tercera entró, encendió la lámpara del rincón y volvió a salir. Ninguna de las dos levantó la vista.
+—¿Y mientras llega puede seguirnos? —preguntó Maja.
 
-Más tarde, Jean se apoyó en el marco de la puerta. Estuvo allí lo que duró una vuelta entera. Después se sentó en el suelo del pasillo, con la espalda en la pared, y desde allí no se veía el teclado.
+—Hemos indicado que interrumpa cualquier observación hasta que se revise el encargo.
 
-El talón de Jessie dejó dos marcas en la madera, delante del pedal. Nora las pasó con la manga y quedaron igual.
+—¿Indicado?
 
-Volvieron a cambiarse de sitio. Nora buscó otra vez el sitio de la mano izquierda. Jessie no soltó el pedal.
+La agente sostuvo la mirada sin molestarse.
 
-El recuerdo no cuesta nada: ninguna tarea lo recorta y ninguna salida lo toma.
+—Con lo que tenemos ahora, sí.
 
-Jean lo sostiene el tiempo que dure la banda.
+Al cumplirse las dos horas, la resolución provisional prohibió a Jessie acercarse al conductor o interceptar su vehículo mientras revisaban el encargo y la confrontación. El seguimiento quedaba registrado. El encargo pasaba a revisión policial y Jessie sería investigada por bloquear la salida, con el antecedente de «Fyret».
 
-No crece. No se gasta. Al soltarlo está donde estaba, con el pedal hundido y la misma nota debajo.
+—O sea, que él se va y a mí me investigan.
 
-Después hace con él lo que haría con un caso. Enumera el pedal, la tapa levantada y dos manos que no alcanzan la misma distancia. La enumeración cabe en tres elementos. El recuerdo no cabe en la enumeración.
+—Él ha sido identificado y su conducta se revisará —dijo la funcionaria—. Tú eres menor y te pusiste delante de un coche en marcha.
 
-Una vez intentó cerrar los ojos con una entrada abierta de borde a borde. Faltó el ejecutor y la imagen no se retiró.
+—Porque no paraba de seguirnos.
 
-Aquí no hay imagen. Jean inicia la misma orden, no encuentra qué dejar fuera y la secuencia se completa sobre nada.
+—Eso también consta.
 
-La atención sigue disponible y no se retira porque falte el trabajo.
+Jessie firmó la recepción, no la conformidad.
 
-Jean cuenta cuánto dura cada repaso. Cuántas veces vuelve al mismo punto. Con qué velocidad recompone la relación de las dos notas.
+* * *
 
-Jean deja de contar. La banda no.
+Maja condujo con la carpeta gris de la resolución provisional a sus pies y el teléfono de Jessie, libre ya de la bolsa, entre ambas con el vídeo de la matrícula. El aire salía demasiado caliente.
 
-Nada de eso pide clasificación.
+Al salir de la comisaría, el coche gris ya no estaba. Jessie observó cada par de faros que repetía un giro. Ninguno llegó al tercero.
 
-No habrá salida que entregar sobre esto. Solo queda lo que la banda haya medido.
+—La próxima vez me llamas antes de bajarte —dijo.
 
-El programa incorporará el patrón y esto irá dentro.
+Maja mantuvo las dos manos en el volante. Pasaron bajo las luces del puente. Jessie miró la matrícula congelada en la pantalla.
 
-Al terminar cada serie Jean repite cuatro nombres. Aquí no hay serie que terminar.
+—Pues ahí está. No me lo inventé. —Jessie amplió la imagen—. Y mamá tenía enemigos.
 
-Los repite igual. No cierran nada.
+Maja bajó un punto la calefacción.
 
-Queda banda. Jean la gasta en el mismo repaso.
+* * *
 
-La banda se estrecha por el lado derecho. No avisa.
-
-El repaso siguiente no llega ni a la mitad.
-
-Recoge la relación de las dos notas y la deja donde la tenía.
-
-El campo se llena.
-
-`VENTANA REFLEXIVA · CERRADA`
-
-`ASIGNACIÓN · APELACIÓN`
+Tomas dobló la huella detrás del certificado. El terminal confirmó la clase del carné vigente: `SEGURIDAD · PRESENCIA LOCAL`. Cerró la consulta sin presentarlo a un lector, lo deslizó entre los carnés caducados y cerró el broche.

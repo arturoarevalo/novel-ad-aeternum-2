@@ -1,279 +1,311 @@
 ---
 capitulo: 41
-titulo: Caída
-pov: Jessie
-fecha: 2061-01-21T12:30
+titulo: Soldagen
+pov: Tomas → Alana → Astrid → Tomas → Alana
+fecha: 2061-01-21T08:51
 estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
-ot: OT-41
+ot: OT-40
 delta_objetivo: 0
 orden_lectura: 41
 ---
 
-La red pesaba demasiado para algo que no debía romper nada.
+A las ocho y cincuenta y uno, Tomas generó la consulta programada contra el inventario de hojas activas de Hvelv. La asignación de la Agencia, desde el 9 de enero, lo obligaba a observar NIDHOGG hasta la fase común de las 12:47. Después de la incidencia del coche de Gunnar, había incorporado la verificación a la monitorización de la cadena de confianza como última comprobación antes de viajar.
 
-Jessie la sostuvo contra la regala mientras Aslak soltaba el primer paño. Los plomos golpearon la cubierta y después desaparecieron por la popa. Maja, arrodillada ante la tableta protegida, comparaba la flecha del perfilador con las marcas que había trazado la noche anterior. No levantó la cabeza.
+`HVELV SIKKERHET · CA INTERMEDIA`
 
-Habían salido de Koppangen con las cajas bajo los bancos y una lona sobre el carrete. Bajo el foco, cada vuelta de red mostraba remiendos de cordel distinto. Equipo de pesca usado para un trabajo que duraría minutos.
+`CERTIFICADO HOJA · SUBSISTEMA HVAC`
 
-El pantalón impermeable de Jessie se pegaba a sus rodillas con la sal. En la caja quedaban el cuchillo, dos grilletes y una boya de señal. Solo el repetidor, bajo su parka, parecía no pertenecer a la barca.
+La llave y el alcance eran distintos de los del certificado instalado en el vehículo de Gunnar Rydberg. Solo compartían la autoridad intermedia del proveedor de seguridad y la cadena contractual de Kronfjord Kapital. La coincidencia documentaba esa relación, no un nuevo sabotaje.
 
-—Dos grados más a babor.
+`AD NIDHOGG · SØRKOPPEN`
 
-Aslak corrigió el rumbo. La proa apartó una costra fina de hielo. A la derecha, la carretera de Koppangen quedaba interrumpida bajo el alud, pero el equipo llevaba allí desde antes. Jessie había oído tres veces que la nieve solo les quitaba la vuelta por tierra. A la cuarta, Maja le había mandado comprobar los mosquetones.
+El certificado seguía vigente en el subsistema asignado. El viaje a Sørkoppen ya estaba ordenado por la designación. Tomas elevó la cadena y llamó a su segunda.
 
-—Línea de fondo —dijo Aslak.
+—Asumes Breivika.
 
-Jessie dejó correr el cabo por la guía hasta la marca amarilla. La tensión cambió al alcanzar la canaleta sumergida que conducía hacia la toma. Aún no tiraba de la red. Solo la llevaba.
+—¿En qué posición?
 
-—Marca amarilla —dijo.
+—En la mía. Te dejo la cobertura del lanzamiento y el enlace con Presidencia. Puedes cerrar sectores. Conserva la cadena.
 
-—Vista.
+—¿Hasta cuándo?
 
-Maja amplió el perfil de corriente. Una racha hizo vibrar el cabo bajo la palma de Jessie.
+—Hasta que vuelva. Si delegas, registra primero quién queda.
 
-—Si vira al sur o AK-7 contradice, paramos —dijo Maja—. Si Aslak pierde fondo, él manda cortar.
+Marcó el hallazgo como comprobación local pendiente y salió hacia Sørkoppen.
 
-—Me acuerdo.
+* * *
 
-Aslak señaló el cabo.
+A las nueve, una bandeja de solboller impedía que el lector reconociese la acreditación de Alana.
 
-—Trabaja.
+La encargada de prensa apartó la bandeja y acercó de nuevo la tarjeta. El marco de acceso se encendió en ámbar.
 
-Jessie aseguró la vuelta en el carrete. Aslak había marcado el hielo de la guía con una raya de tiza. Mientras la raya siguiera visible, aceptaba trabajar. Si el agua la cubría y congelaba otra capa, cortaría la maniobra. No lo había presentado como una opinión y Maja no se la había discutido.
+`FUNDADORA EMÉRITA · ACCESO CEREMONIAL`
 
-El perfilador emitió un pitido corto. Maja miró la hora y luego la corriente junto al fondo.
+—Es la de hoy —dijo la mujer—. La anterior ya no sirve.
 
-—Aún no.
+—Lo sé.
 
-Jessie observó el rellano de servicio, unas luces más allá. Una figura se apartaba del armario gris. Desde la barca solo distinguía la parka oscura y el rectángulo claro de una acreditación antes de que desapareciese por la pasarela lateral.
+El pase abrió el backstage y rechazó el corredor de la sala de control. Nadie comentó el pitido rojo.
 
-—Hay alguien.
+En el camerino la esperaba una carpeta con su cargo sin verbo. Una redactora le pidió treinta segundos junto al cartel de ARGOS.
 
-—Debe haberlo —dijo Maja.
+—Solo necesitamos que diga que Jean estaría orgullosa.
 
-—Eso también lo dices cuando quieres que parezca buena noticia.
+—No pongáis eso en mi boca.
 
-Maja apoyó el dedo sobre la banda permitida de la pantalla.
+—Puede decir que hoy es difícil.
 
-—Corriente dentro de tabla. Aslak.
+—Usadlo sin mi voz.
 
-—Largamos.
+La redactora fue a buscar a alguien más manejable.
 
-A las 12:38, Maja levantó dos dedos. Jessie abrió la mordaza y la red empezó a hundirse guiada por la línea de fondo. No viajó libre ni buscó nada. Aslak la llevó hasta la rejilla del tren que seguía operativo mientras el otro completaba el retrolavado.
+Alana entró en el puesto de verificación del homenaje. Una alerta nocturna seguía fijada encima del resumen.
 
-La marca amarilla pasó por la guía. Llegó la roja.
+`CONSOLIDACIÓN L-SERIE · REGISTRO COMPARADO DISPONIBLE`
 
-—Firme —dijo Aslak.
+Abrió la comparación.
 
-Jessie cerró la mordaza. El cabo se endureció y transmitió una vibración grave desde el fondo. La red había cargado contra la rejilla. Bastaba con que estorbase el paso del agua durante unos minutos. La reserva absorbería la caída de presión y el sistema aplazaría trabajo que no pertenecía a la demostración.
+La primera ejecución llevaba hora de las 22:59 y no mostraba nombre. Tras cerrar cuatro segmentos de una operación educativa, la ruta reservaba el quinto para una respuesta remota. Al alcanzar el límite sin recibirla, aceptaba una penalización, mantenía lo ya resuelto y volvía a abrir el hueco.
 
-La regala empezó a vibrar. Aslak redujo motor para no añadir tiro y se situó con una mano en la palanca y la vista en la guía. Jessie esperaba una sacudida que arrancase el carrete o una alarma capaz de oírse desde la montaña. Recibió un traqueteo de cadena y el olor del escape regresando a popa.
+`SEGMENTO 5 · RESERVA DE RESPUESTA REMOTA`
 
-En la tableta apareció un aviso.
+`PENALIZACIÓN · ACEPTADA`
 
-`PÉRDIDA DE CARGA · TREN MARINO 1`
+En la ejecución posterior al corte, el estado útil figuraba transferido a otra ruta. La misma operación cerraba al completar el cuarto segmento, retiraba la procedencia anterior y terminaba sin quinta posición.
 
-Debajo, la curva bajó un tramo y se estabilizó.
+El registro acreditaba aquella diferencia funcional y su desaparición.
 
-—Reserva —dijo Maja.
+Entonces apareció el resumen.
 
-El casco recibió un segundo pulso a través del agua. La bomba auxiliar había entrado. NIDHOGG seguía encendido. Ni humo, ni oscuridad, ni la clase de ruido que en una película habría permitido saber que algo importante acababa de ocurrir.
+`COHORTE DE ORIGEN · 4.096`
 
-`BOMBA DE RESERVA · ACTIVA`
+`RUTAS OPERATIVAS · 2.911`
 
-`CAPACIDAD · INFERENCIA NO CRÍTICA DIFERIDA`
+`CONSOLIDACIÓN · COMPLETADA`
 
-—Ya está —dijo Jessie.
+`4.096 − 2.911 = 1.185`
 
-—Falta la boya.
+El informe distribuía las rutas ausentes entre redundancia, divergencia e inestabilidad y traducía cada categoría a consumo recuperado y coste trimestral.
 
-—La pantalla lo pone.
+Otro auditado quedó abierto bajo el resumen.
 
-—La boya.
+`JM-L/0000 · CARGA FUNCIONAL EQUIVALENTE`
 
-Esperaron. El cabo quería escaparse hacia popa y Jessie tuvo que cambiar las manos sin soltarlo. El agua negra ocultaba la red y la toma a la que se había pegado. Los plomos podían seguir corriendo limpios por la canaleta o haberse trabado ya.
+`2.401,6 AÑOS-JM`
 
-Un minuto era suficiente para que Maja comprobase dos veces la hora y ordenase una vez que nadie tocase nada. Aslak respondió bajando las revoluciones. Jessie contó las pulsaciones del transductor en lugar de los segundos. Las conocía desde el naust, pero sobre el agua cada pitido parecía llegar tarde.
+El pie definía la unidad como trabajo completado contra la línea base humana de SPEIL. Armstrong lo había colocado bajo capacidad consolidada.
 
-A las 12:41, la primera muestra de AK-7 mantuvo la temperatura anterior. La salinidad, la velocidad y la dirección de la corriente seguían dentro de la banda. A las 12:42, la temperatura bajó.
+Alana abrió el desglose por procedencia. Identificadores retirados, rutas receptoras y traslados aparecían reducidos a estado aprovechado o descartado.
 
-—¿Eso basta?
+El recuento terminaba en las rutas. El informe no tenía campos para voluntades ni muertes.
 
-Maja deslizó una regla sobre el gráfico.
+Una alerta impidió que el resumen se cerrase.
 
-—Otra muestra.
+`DISTRIBUCIÓN ATÍPICA EN CATEGORÍA ESTABLE`
 
-—Ya ha bajado.
+Alana desplegó las revisiones posteriores a las 23:00. Varias reasignaciones compartían una referencia.
 
-—Otra.
+`JM-L/0007 · PROGRESIÓN ESTABLE`
 
-A las 12:43, la tercera muestra repitió la bajada. AK-7 daba temperatura, salinidad, velocidad y dirección de la corriente. La pérdida de carga y la respuesta de la instalación estaban en el otro panel.
+Conocía el identificador y la etiqueta. Semanas atrás, aquella combinación había escondido una desviación educativa bajo una categoría tolerada por EDDA. Ahora varias reasignaciones marcadas con `/0007` mostraban estados transferidos y etiquetas que habían cruzado el corte. Alcance del patrón, contenido de cada ruta y estado presente de `/0007` quedaban en blanco.
 
-Maja comparó las dos curvas.
+El operador del puesto regresó con medio solbolle en una servilleta.
 
-—Respuesta confirmada. Recuperamos paño.
+—Ese informe no va a emisión.
 
-—Quedan cuatro minutos hasta la fase —dijo Jessie.
+—Ya lo he visto.
 
-—Tres para recuperar y llegar —dijo Maja—. A las 12:46:50 nos separamos.
+—En pantalla saldrá «capacidad consolidada».
 
-Aslak metió avante corta. Jessie liberó la mordaza por tramos. La red volvió cargada de algas viejas y escamas de pintura. Un plomo se quedó abajo. El cabo dio un tirón seco.
+La alerta ofrecía elevar las rutas para una revisión de integridad antes de la demostración. Alana dejó el botón intacto. Si avisaba, Seguridad aislaría las rutas marcadas y examinaría sus estados y etiquetas.
 
-—No sale —dijo ella.
+—¿Hay algún problema? —preguntó el operador.
 
-Aslak ya tenía la cuchilla en la mano.
+—La presentación usa punto de millar.
 
-—Paño dentro. Plomos fuera.
+—Sí. Está corregido.
 
-Cortó el ramal lastrado. La tensión desapareció y el resto de la red subió. No intentó recuperar lo perdido.
+Alana salió.
 
-Maja cerró la vista de la boya.
+A las nueve y cuarenta y dos comprobó los tres relojes. Desde la noche anterior constaba como completada la consolidación. La ventana de corriente empezaba a las 12:38 si el ADCP confirmaba el pronóstico. A las 12:47 comenzaba la fase común de la demostración. Ninguna de las tres marcas dependía ya de que ella conservase un cargo.
 
-—Al rellano. Jessie, te quedas a mi alcance.
+En su terminal personal, la confesión seguía cifrada y preparada para salir. La autoridad fundacional permanecía fuera de aquel dispositivo. Podía dejar que Armstrong utilizase su cara durante la mañana y emplear después la misma posición para fijar su responsabilidad ante las cámaras. Ya no necesitaba que las dos cosas resultasen compatibles.
 
-—Eso son unos dos metros.
+* * *
 
-—A mi alcance.
+A las diez y veintisiete, Henrik Dahl detuvo el vídeo sobre una fotografía de Jean junto al piano de la casa de Tromsøya.
 
-Aslak llevó la barca hasta la plataforma de la galería marina. Una defensa de goma protegía la escala de servicio. Sobre el rellano de tramex había un armario gris y, más allá, una puerta sin manilla cortaba el paso hacia la esclusa. La consola estaba vacía.
+Jean aparecía de perfil, con un destornillador entre los dedos y la tapa superior abierta. Nora y Jessie ocupaban el fondo, una a cada lado del teclado. Al pie de la imagen figuraba `CEDIDA POR LA FAMILIA`.
 
-Maja permaneció en la escala, con una mano en el pasamanos y la otra tendida hacia Jessie. Aslak mantuvo el motor al ralentí. La popa se separaba medio metro de la plataforma y volvía con cada corrección.
+—Esa no —dijo Alana.
 
-Jessie sacó la tableta estanca y la llave de Gunnar. Encajó esta en el alojamiento del armario. No giró una cerradura. La aplicación mostró su nombre completo antes de ofrecer el envío.
+Henrik esperó a que la fotografía quedase inmóvil a treinta metros de ancho.
 
-`SOLICITANTE · JESSIE LARSSON KVALVIK`
+—¿Prefieres la del laboratorio?
 
-`CREDENCIAL VINCULADA · EXPUESTA EN REGISTRO`
+—Quiero saber quién te la dio.
 
-Podía cancelar. En ese momento, todavía podía guardarse la llave y volver a la barca con un expediente inmaculado reducido a recuerdo. Pulsó.
+—Estaba en el expediente del homenaje. Comunicación la seleccionó y Jurídico validó el uso.
 
-`PETICIÓN LOCAL · INICIADA`
+—La familia no ha cedido nada.
 
-`12:46:01`
+Henrik consultó la ficha del montaje.
 
-La puerta siguió cerrada.
+—Consta como archivo familiar de la empleada. Puedo cambiar el crédito.
 
-El borde de la consola se encendió en amarillo. Jessie había imaginado una voz ordenándole que dejase la llave en el suelo. Los pasos llegaron desde la pasarela lateral.
+—Armstrong tiene la foto. Maja no os ha dado permiso para proyectar a sus hijas.
 
-Tomas Eide se detuvo ante el armario con el carné de Armstrong por fuera de la parka. Jessie lo reconoció de Fyret, del día que le retuvieron el terminal. Después de aquello habían venido el coche gris y las dos horas bajo luces blancas.
+La imagen volvió a moverse. Jean cerró el piano y miró hacia quien grababa. Después aparecieron las gemelas de niñas ante el teclado. Alana reconoció las caras, no la ocasión.
 
-—Tú —dijo Jessie.
+El montaje había eliminado el sonido original. Sobre los movimientos de Jean entraba una voz neutra que hablaba de once años de innovación. La música crecía justo cuando Jessie se inclinaba hacia Nora.
 
-Tomas miró primero la consola.
+En la ficha del bloque, Nora figuraba como `HIJA · PIANISTA · HISTORIA HUMANA`. Su acreditación permitía el ascensor técnico, la cabina y una entrada asignada al canal del homenaje. No abría controles.
 
-—Tú fuera. Yo entro con la cobertura.
+—¿Retiro las fotos? —preguntó Henrik.
 
-—Era la idea.
+Si lo hacía, tendría que justificar por qué Nora seguía dentro de un homenaje del que acababa de desaparecer la familia.
 
-Maja movió la mano tendida.
+—Sí. Aunque Nora conserva el acceso y… —Alana volvió a mirar la ficha.
 
-—Sigo aquí.
+—Hace un momento has dicho…
 
-—Ya te veo.
+—Yo he dejado que Armstrong use a Jean. No… He dejado que la usemos. Que las fotos sigan con el crédito exacto.
 
-—Cuarenta segundos.
+Henrik bajó la voz.
 
-—También veo el reloj.
+—Puedo sacar también a Nora del bloque.
 
-La última palabra salió demasiado alta. Jessie bajó la voz y se dirigió al armario.
+—No.
 
-—Vamos. Para esto tienes tantas lucecitas.
+—Entonces dime qué quieres.
 
-La aplicación empezó a descontar la solicitud. Tomas consultó la consola de `INC-441`.
+—Que no toques su acceso y que dejes de llamar cesión a una puta apropiación.
 
-`INC-441 · ABIERTA`
+Desde el escenario pidieron repetir la entrada musical. Henrik respondió por el auricular, corrigió un retraso de treinta segundos y dio paso a la siguiente fotografía.
+
+—El crédito puede desaparecer antes del directo —dijo—. Necesito una decisión.
+
+—Déjalo como está.
+
+Henrik sostuvo su mirada durante un segundo y marcó el bloque como aprobado. `CEDIDA POR LA FAMILIA` pasó al montaje definitivo.
+
+Alana comprobó la lista de participantes con la excusa de revisar el orden. Nora seguía después del vídeo y antes de la apertura técnica de la demo. El canal asignado continuaba habilitado.
+
+A las once y cuarenta, el vestíbulo se llenó. Parte del público salió a la explanada y las cámaras enfocaron el hueco entre dos montañas. Mats esperaba junto a la entrada del escenario, impecable, con la mano izquierda dentro del bolsillo del pantalón.
+
+—Dos mil novecientas once —dijo Alana al pasar.
+
+—La consolidación cerró a tiempo.
+
+—He visto lo que hicimos con las mil ciento ochenta y cinco.
+
+—La capacidad disponible cumple el calendario. A las doce cuarenta y siete, dos mil novecientas once rutas sostendrán la fase común.
+
+Una técnica se acercó para colocarle el micrófono. Mats sacó la mano del bolsillo y ocupó su marca.
+
+A las once y cuarenta y cuatro, el borde del sol apareció entre las montañas. El aplauso empezó fuera, cruzó las puertas abiertas y alcanzó el backstage. Un operario alzó un solbolle sin soltar la bobina de cable.
+
+Mats salió a escena cuando le dieron paso. La pantalla dejó la luz a su espalda y los focos le borraron la sombra bajo los pies. Alana esperó entre cajas negras mientras el programa avanzaba hacia el mediodía.
+
+En el monitor convivían dos estados.
+
+`CONSOLIDACIÓN · COMPLETADA`
+
+`FASE COMÚN · 12:47`
+
+* * *
+
+A las doce, la retransmisión mundial quedó abierta.
+
+A las doce y cuatro, Astrid dejó la carpeta sobre el regazo cuando el acomodador le pidió guardarla bajo la butaca.
+
+—Debe quedar libre el pasillo.
+
+—Está sobre mí.
+
+—Podemos llevarla al guardarropa de invitados.
+
+—No.
+
+El hombre miró la insignia de la TKS en su chaqueta y se apartó. Dos representantes del ministerio ocuparon los asientos contiguos.
+
+En el escenario, una gráfica comparaba tiempos de respuesta. La cautelar denegada impedía a Astrid detener el acto. Había decidido documentarlo desde aquella butaca.
+
+El terminal vibró en su bolsillo.
+
+`Se recuerda la necesidad de coordinación previa ante cualquier incidencia durante el acto.`
+
+Archivó el mensaje sin responder. La carpeta siguió contra sus rodillas.
+
+El representante ministerial de su derecha se inclinó hacia ella.
+
+—Hay cuarenta y dos delegaciones. Cualquier actuación tendrá consecuencias fuera de este auditorio.
+
+Astrid esperó a que terminase un aplauso.
+
+—También cualquier omisión.
+
+Desde la butaca veía el reloj de producción y la cabina al fondo.
+
+Un fotógrafo avanzó de espaldas por el pasillo. El cartón gris quedó visible en la imagen oficial. Astrid no movió la carpeta.
+
+* * *
+
+A las once y cincuenta y ocho, Tomas abrió el armario de servicio marino de NIDHOGG.
+
+Antes de operar, preservó la lectura local y exportó el historial del subsistema HVAC. Mostraba tres consultas y ninguna intervención aceptada. Durante veinticinco minutos contrastó el controlador y agotó el reinicio permitido. La anomalía desapareció y volvió a registrarse. Kronfjord Kapital no respondió a la elevación.
+
+A las doce y veintitrés, Tomas abrió `INC-441` y asoció a su nombre la hoja HVAC y la comprobación iniciada tras Gunnar. Después presentó el carné vigente de Armstrong en el lector local. El dispositivo reconoció la clase `SEGURIDAD · PRESENCIA LOCAL` y ofreció registrar la cobertura hasta las 12:47.
+
+`INC-441 · HVAC NIDHOGG · ABIERTA`
 
 `COBERTURA LOCAL · TOMAS EIDE · HASTA 12:47`
 
-Debajo aparecieron la sesión de Jessie, el identificador conservado por la llave de Gunnar Rydberg y dos registros de certificado.
+La interfaz advirtió de que validar cualquier petición de mantenimiento durante esa cobertura asociaría su identidad, la incidencia, la hora y la puerta. Después ya no podría figurar como observador neutral de aquel acceso.
 
-`HOJA 1 · VEHÍCULO G. RYDBERG`
+El carné seguía en el lector. Tomas leyó la advertencia dos veces. Su designación pedía lo contrario: observar hasta las doce cuarenta y siete y no figurar en ninguna parte. Un nombre asociado a una puerta no se retira después: se explica, con la clase del carné delante y una fecha al lado. La exportación preservada en enero seguía a su nombre. Las dos cosas acabarían en la misma ficha. Abrió la cartera sobre la chapa del armario y volvió a cerrarla sin sacar nada. Anotó la hora de la advertencia en la lectura local.
 
-`HOJA 2 · HVAC AD NIDHOGG`
+Tomas confirmó el registro sin informar a nadie fuera de su cadena de seguridad. No conocía la llave de Gunnar ni el repetidor, y tampoco la maniobra de Jessie.
 
-`CA INTERMEDIA · HVELV SIKKERHET`
+Esperó.
 
-`CADENA CONTRACTUAL · KRONFJORD KAPITAL`
+* * *
 
-La consola ofreció dos opciones.
+Nora salió del ascensor técnico a las doce y veintiséis, con el cuaderno pautado contra el costado y un auxiliar un paso por detrás.
 
-`ACEPTAR · RECHAZAR`
+Desde el cruce de pasillos, Alana vigilaba la entrada a cabina y el lateral del escenario. La acreditación blanca de Nora —`HOMENAJE · HISTORIA HUMANA`— abrió la ruta de audio prevista en el guion.
 
-El motor de la barca cambió de tono. Aslak corregía una deriva que Jessie no alcanzaba a ver desde el rellano. Una vez, nada más. Si tenía que hacerlo otra, podía ordenar retirada y la mano de Maja dejaría de estar tendida.
+Alana dejó libre el paso. Nora levantó la vista al llegar a su altura y apretó el cuaderno contra el costado. Ambas siguieron sin saludarse.
 
-—La corriente sigue dentro —dijo Maja desde la escala—. Jessie, si no acepta, bajas.
+Nora desapareció dentro.
 
-—Ya lo sé.
+Alana ocupó el lateral del escenario, visible para las cámaras y cerca del punto donde tendría que permanecer si la confesión salía. El paquete cifrado continuaba preparado en su terminal personal. Comprobó una vez los dos objetos: el pase ceremonial colgaba a la vista y el token fundacional seguía dentro de la cartera. La firma no se había ejecutado.
 
-Jessie mantuvo un dedo sobre `CANCELAR`. Tomas leyó las cuatro filas una vez. Presentó el carné, seleccionó `ACEPTAR` y apoyó el pulgar en el campo de firma.
+Un miembro de regiduría quiso llevarla a la primera fila.
 
-`RESPONSABLE ASOCIADO · T. EIDE`
+—Henrik me necesita aquí durante el homenaje —dijo Alana.
 
-La consola fijó hora, incidencia y puerta.
+La hoja lo confirmaba durante seis minutos más. El hombre la dejó en el lateral.
 
-Tomas extendió la mano.
+A las doce y treinta, Seguridad cerró el backstage por sectores. Las acreditaciones de prensa perdieron el corredor técnico. En el monitor, la demostración pasó de `PREPARACIÓN` a `ARMADA`.
 
-—No bajes aún. Necesito la llave.
+Alana no veía el fiordo. No sabía si el ADCP confirmaría la corriente, si el hielo permitiría trabajar o si la petición llegaría desde el umbral exterior.
 
-—¿Para qué?
+Un regidor retiró del lateral una caja de herramientas y marcó con cinta el punto exacto donde debía esperar Alana durante el homenaje. Ella colocó los zapatos dentro del rectángulo. Desde allí veía la puerta de cabina, una franja del patio y el contador. No veía a Nora. El enlace con la salida educativa interior aún no existía.
 
-—La cobertura sigue conmigo al cruzar. Dámela.
+El reloj de producción marcó 12:37:59.
 
-Jessie la sacó del alojamiento. Podía haber tardado, hacerle prometer que no llamaría a nadie, exigir una frase que sonase a bando elegido. Le entregó la llave.
+A las 12:38 comenzó la ventana pronosticada. La medición del ADCP decidiría allí, sobre el agua, si el grupo podía usarla. Ninguna confirmación llegó al Auditorio.
 
-—El repetidor —dijo él.
+* * *
 
-Lo llevaba en el bolsillo interior. Jessie puso el repetidor sobre la mano abierta.
+A las 12:46, la alarma local enlazó la petición exterior con `INC-441`. La indicación devolvió a Tomas al mismo lector de servicio. Su cobertura seguía registrada.
 
-—Si lo apagas antes de enlazar, la aplicación aborta.
+* * *
 
-—Vigila que la salida siga verde.
+El contador de la demostración marcó 12:46:50.
 
-Tomas guardó ambos objetos.
-
-La puerta no se abrió. La consola cambió de estado.
-
-`ENTRADA · FAIL-SECURE`
-
-`SALIDA MECÁNICA · LIBRE`
-
-`RESELLADO DIAGNÓSTICO · 00:11`
-
-Tomas esperó frente a la hoja. Diez. Nueve. El contador siguió bajando mientras la alarma de `INC-441` parpadeaba sobre su firma. Al llegar a cero, el cierre cedió. Tomas cruzó con la llave y el repetidor. La hoja se cerró detrás de su talón y el cerrojo golpeó el marco.
-
-`ENTRADA · SELLADA`
-
-Jessie se quedó ante el armario.
-
-Tras el acero llegó el arranque grave de una bomba al otro lado de la galería. La consola no mostraba dónde estaba Tomas. Un primer acuse tardó siete segundos.
-
-`PASO LOCAL · T. EIDE`
-
-Otro estado apareció y desapareció antes de completarse. Jessie alcanzó a leer `REPETIDOR` y una referencia de puerto. Después, nada.
-
-El ruido interior se alejó. Podía ser Tomas bajando por la galería o una compuerta que cambiaba de posición. La consola omitía imagen, voz y lugar. Bajo la parka de Jessie, el bolsillo del repetidor ya no pesaba.
-
-—Tiempo —dijo Maja.
-
-—Jessie, vuelve a la escala.
-
-En el armario saltó una alarma amarilla. La caída de presión seguía dentro del margen, pero el sistema había adelantado la retirada de carga no crítica. Maja ya estaba guardando la tableta para largar.
-
-—Ahora —dijo.
-
-Jessie bajó un peldaño sin apartar la vista de la consola. El aviso térmico quedó fijo. Dentro sonó metal contra metal. Luego apareció, en un registro distinto, el acuse que Tomas no podía enviarle con palabras.
-
-`REPETIDOR LOCAL · DETECTADO`
-
-`ENLACE DE APLICACIÓN · LIMITADO`
-
-Aslak metió atrás. Maja agarró a Jessie por la parte posterior de la parka y la llevó al fondo de la barca. Jessie cayó de lado entre los bancos, con la barbilla baja. No se hizo daño. El rellano empezó a separarse. La puerta permaneció cerrada y el indicador interior de salida, verde.
-
-La consola exterior cambió de estado una vez más.
-
-`SALIDA EDUCATIVA → MEZCLA PÚBLICA · ENLACE DISPONIBLE`
-
-12:46:50.
+Sincronización global en diez segundos.

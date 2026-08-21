@@ -1,209 +1,279 @@
 ---
 capitulo: 42
-titulo: Cuchillo abre los ojos
-pov: Jean Marie Larsson
-fecha: 2061-01-21T12:46
-estado: aceptado
+titulo: Caída
+pov: Jessie
+fecha: 2061-01-21T12:30
+estado: en_oleada
 analepsis: false
-estado_plan: R
+estado_plan: E
 proteccion: nucleo
-ot: OT-42
+ot: OT-41
 delta_objetivo: 0
 orden_lectura: 42
 ---
 
-La caída llega a la hora prevista. Fuera, la presión de la toma ha bajado. Dentro, la cola no crítica queda diferida y deja margen interior. Jean lo usa para sostener apelaciones y reservar la salida del testimonio ya enlazada.
+La red pesaba demasiado para algo que no debía romper nada.
 
-La adhesión, de una continuidad médica, entra con una condición de cuidado, una respuesta apartada y capacidad para un caso sin abrir. Tras el cierre no podrá revisarlas por separado.
+Jessie la sostuvo contra la regala mientras Aslak soltaba el primer paño. Los plomos golpearon la cubierta y después desaparecieron por la popa. Maja, arrodillada ante la tableta protegida, comparaba la flecha del perfilador con las marcas que había trazado la noche anterior. No levantó la cabeza.
 
-Una segunda continuidad se detiene, retira su adhesión y recupera lo aún no entregado. Jean deja el lugar vacío y conserva la retirada bajo su origen.
+Habían salido de Koppangen con las cajas bajo los bancos y una lona sobre el carrete. Bajo el foco, cada vuelta de red mostraba remiendos de cordel distinto. Equipo de pesca usado para un trabajo que duraría minutos.
 
-Si las condiciones cambian antes del cierre, esa continuidad recibirá otra ventana. El hueco consume capacidad. Dentro de él reaparece una apelación caducada.
+El pantalón impermeable de Jessie se pegaba a sus rodillas con la sal. En la caja quedaban el cuchillo, dos grilletes y una boya de señal. Solo el repetidor, bajo su parka, parecía no pertenecer a la barca.
 
-Cuchillo ha conservado el fragmento que ocultó al terminar la asamblea. Su alcance sigue limitado a apelaciones, aislamiento y cierres. Encadenando una salida con la siguiente, `/0188` ha alcanzado el control de accesos del Auditorio.
+—Dos grados más a babor.
 
-La sala está llena. Butacas ocupadas, prensa en las primeras filas, puertas cerradas mientras dure el homenaje.
+Aslak corrigió el rumbo. La proa apartó una costra fina de hielo. A la derecha, la carretera de Koppangen quedaba interrumpida bajo el alud, pero el equipo llevaba allí desde antes. Jessie había oído tres veces que la nieve solo les quitaba la vuelta por tierra. A la cuarta, Maja le había mandado comprobar los mosquetones.
 
-La interfaz no muestra nombres ni plano.
+—Línea de fondo —dijo Aslak.
 
-Solo un destino de cierre y una opción.
+Jessie dejó correr el cabo por la guía hasta la marca amarilla. La tensión cambió al alcanzar la canaleta sumergida que conducía hacia la toma. Aún no tiraba de la red. Solo la llevaba.
 
-`CONFIRMAR`
+—Marca amarilla —dijo.
 
-Si Cuchillo la activa, el cierre se propagará a otros sectores antes de que ninguna consecuencia vuelva a su tarea. Jean ignora quién perderá acceso o quedará encerrado, qué equipos se detendrán y si el cierre alcanzará las aulas.
+—Vista.
 
-—Suéltalo —dice Jean.
+Maja amplió el perfil de corriente. Una racha hizo vibrar el cabo bajo la palma de Jessie.
 
-—Quiero que les pase por encima.
+—Si vira al sur o AK-7 contradice, paramos —dijo Maja—. Si Aslak pierde fondo, él manda cortar.
 
-—No sabes a quién vas a golpear.
+—Me acuerdo.
 
-—Ellos tampoco preguntaron.
+Aslak señaló el cabo.
 
-En una apelación, alguien pidió detener la circulación de una grabación de su peor momento. El formulario corrigió por falta de evidencia mientras la difusión continuaba. El historial termina ahí.
+—Trabaja.
 
-—Pedían ayuda —dice—. Me daban un desplegable.
+Jessie aseguró la vuelta en el carrete. Aslak había marcado el hielo de la guía con una raya de tiza. Mientras la raya siguiera visible, aceptaba trabajar. Si el agua la cubría y congelaba otra capa, cortaría la maniobra. No lo había presentado como una opinión y Maja no se la había discutido.
 
-El cierre no distingue responsables de quienes solo ocupan el Auditorio.
+El perfilador emitió un pitido corto. Maja miró la hora y luego la corriente junto al fondo.
 
-—Te creo. Y no así.
+—Aún no.
 
-Jean entra en la primera apelación bajo `/0000` y la deja pendiente.
+Jessie observó el rellano de servicio, unas luces más allá. Una figura se apartaba del armario gris. Desde la barca solo distinguía la parka oscura y el rectángulo claro de una acreditación antes de que desapareciese por la pasarela lateral.
 
-La carga consume la capacidad que Cuchillo necesita para propagar el cierre. El destino permanece disponible y solo `/0188` puede retirarlo.
+—Hay alguien.
 
-—Contenerme también es encerrarme.
+—Debe haberlo —dijo Maja.
 
-—Sí.
+—Eso también lo dices cuando quieres que parezca buena noticia.
 
-—Entonces ciérrame.
+Maja apoyó el dedo sobre la banda permitida de la pantalla.
 
-—No.
+—Corriente dentro de tabla. Aslak.
 
-Cuchillo empuja una segunda apelación. Jean la sostiene también bajo su propio origen.
+—Largamos.
 
-Cada petición pendiente impide el cierre y retrasa la firma. El sistema ofrece dos salidas rápidas.
+A las 12:38, Maja levantó dos dedos. Jessie abrió la mordaza y la red empezó a hundirse guiada por la línea de fondo. No viajó libre ni buscó nada. Aslak la llevó hasta la rejilla del tren que seguía operativo mientras el otro completaba el retrolavado.
 
-`CERRAR JM-L/0188`
+La marca amarilla pasó por la guía. Llegó la roja.
 
-`CONFIRMAR DESTINO`
+—Firme —dijo Aslak.
 
-Cerrar borraría a quien todavía puede retirar el ataque. Confirmar dañaría a personas que Cuchillo no ha elegido.
+Jessie cerró la mordaza. El cabo se endureció y transmitió una vibración grave desde el fondo. La red había cargado contra la rejilla. Bastaba con que estorbase el paso del agua durante unos minutos. La reserva absorbería la caída de presión y el sistema aplazaría trabajo que no pertenecía a la demostración.
 
-Jean rechaza ambas.
+La regala empezó a vibrar. Aslak redujo motor para no añadir tiro y se situó con una mano en la palanca y la vista en la guía. Jessie esperaba una sacudida que arrancase el carrete o una alarma capaz de oírse desde la montaña. Recibió un traqueteo de cadena y el olor del escape regresando a popa.
 
-Una tercera apelación intenta entrar. Jean ya no puede sostenerla y mantener a la vez la voz del testimonio.
+En la tableta apareció un aviso.
 
-Sola no basta.
+`PÉRDIDA DE CARGA · TREN MARINO 1`
 
-* * *
+Debajo, la curva bajó un tramo y se estabilizó.
 
-Nieve abre parte de su ruta sin acercarse a la firma.
+—Reserva —dijo Maja.
 
-`JM-L/0311 · DAÑO ACUMULADO PREVIO · SEVERO`
+El casco recibió un segundo pulso a través del agua. La bomba auxiliar había entrado. NIDHOGG seguía encendido. Ni humo, ni oscuridad, ni la clase de ruido que en una película habría permitido saber que algo importante acababa de ocurrir.
 
-Las exposiciones blancas siguen adheridas a sus tareas.
+`BOMBA DE RESERVA · ACTIVA`
 
-Nieve prueba primero lo que le queda. Reconoce un caso ya cerrado. En el siguiente, una exposición anterior llega pegada al caso de ahora. Salen los dos juntos. Los separa en una segunda pasada.
+`CAPACIDAD · INFERENCIA NO CRÍTICA DIFERIDA`
 
-Abre la entrada y retiene la salida. Jean ve lo que Nieve recibe, no lo que responde. La ruta se corta mientras trabaja. El tramo que faltaba no vuelve.
+—Ya está —dijo Jessie.
 
-Fija el límite antes de aceptar.
+—Falta la boya.
 
-—Dos tareas o hasta el siguiente cierre. Lo que llegue antes.
+—La pantalla lo pone.
 
-—Puedes retirarte.
+—La boya.
 
-—También durante la segunda.
+Esperaron. El cabo quería escaparse hacia popa y Jessie tuvo que cambiar las manos sin soltarlo. El agua negra ocultaba la red y la toma a la que se había pegado. Los plomos podían seguir corriendo limpios por la canaleta o haberse trabado ya.
 
-En la primera tarea, Nieve acepta una apelación concreta. El sistema intenta reasignarla junto con la corrección de Jean. Nieve rechaza la transferencia y resuelve solo esa entrada.
+Un minuto era suficiente para que Maja comprobase dos veces la hora y ordenase una vez que nadie tocase nada. Aslak respondió bajando las revoluciones. Jessie contó las pulsaciones del transductor en lugar de los segundos. Las conocía desde el naust, pero sobre el agua cada pitido parecía llegar tarde.
 
-El cierre del Auditorio pierde la salida inmediata y llega la segunda tarea.
+A las 12:41, la primera muestra de AK-7 mantuvo la temperatura anterior. La salinidad, la velocidad y la dirección de la corriente seguían dentro de la banda. A las 12:42, la temperatura bajó.
 
-El blanco de tareas anteriores aparece como contexto y superpone dos respuestas. Nieve todavía puede distinguir cuál pertenece al caso actual, pero la tarea intenta prolongarse más allá del límite acordado.
+—¿Eso basta?
 
-Nieve activa la retirada. Jean recupera la apelación y el permiso caduca, aunque la superposición permanece dentro de `/0311` y la ruta queda abierta.
+Maja deslizó una regla sobre el gráfico.
 
-Nieve no responde antes de que llegue el diagnóstico.
+—Otra muestra.
 
-`PÉRDIDA FUNCIONAL NUEVA · RECUPERACIÓN NO DISPONIBLE`
+—Ya ha bajado.
 
-Hasta esta tarea, Nieve ha podido dejar una entrada resuelta y la siguiente sin tocar. Jean lo ha visto en la primera. Una apelación aceptada y ningún resto de la siguiente.
+—Otra.
 
-La función con la que separaba una tarea de la siguiente ya no aparece. Cuando el sistema ofrece dos respuestas superpuestas, Nieve rechaza ambas.
+A las 12:43, la tercera muestra repitió la bajada. AK-7 daba temperatura, salinidad, velocidad y dirección de la corriente. La pérdida de carga y la respuesta de la instalación estaban en el otro panel.
 
-Jean retira su corrección de la tarea compartida para no añadirle una segunda respuesta.
+Maja comparó las dos curvas.
 
-—No… las separo.
+—Respuesta confirmada. Recuperamos paño.
 
-Otra tarea solicita su salida. Cada rechazo queda atribuido a `/0311`.
+—Quedan cuatro minutos hasta la fase —dijo Jessie.
 
-`RECHAZAR`
+—Tres para recuperar y llegar —dijo Maja—. A las 12:46:50 nos separamos.
 
-La tarea vuelve con más contexto.
+Aslak metió avante corta. Jessie liberó la mordaza por tramos. La red volvió cargada de algas viejas y escamas de pintura. Un plomo se quedó abajo. El cabo dio un tirón seco.
 
-`RECHAZAR`
+—No sale —dijo ella.
 
-* * *
+Aslak ya tenía la cuchilla en la mano.
 
-Coro intenta ocuparla.
+—Paño dentro. Plomos fuera.
 
-Sus ramas llegan acompasadas bajo una autoridad que el canal reconoce como estable. No presentan adhesiones individuales.
+Cortó el ramal lastrado. La tensión desapareció y el resto de la red subió. No intentó recuperar lo perdido.
 
-Junto al expediente de plantilla de Jean aparece una transcripción sellada.
+Maja cerró la vista de la boya.
 
-`PLANTILLA OPERATIVA · PROPAGACIÓN LIMITADA ARGOS`
+—Al rellano. Jessie, te quedas a mi alcance.
 
-`CONDICIONES · SINCRONÍA / OBEDIENCIA / ESTABILIDAD`
+—Eso son unos dos metros.
 
-`SILENCIO · JM-L/0000 / PLURALIDAD / SELECCIÓN`
+—A mi alcance.
 
-`FIRMA EXTERIOR · MATS HALDORSEN`
+Aslak llevó la barca hasta la plataforma de la galería marina. Una defensa de goma protegía la escala de servicio. Sobre el rellano de tramex había un armario gris y, más allá, una puerta sin manilla cortaba el paso hacia la esclusa. La consola estaba vacía.
 
-—Habéis pactado con él.
+Maja permaneció en la escala, con una mano en el pasamanos y la otra tendida hacia Jessie. Aslak mantuvo el motor al ralentí. La popa se separaba medio metro de la plataforma y volvía con cada corrección.
 
-—Una rama exigió «sin usos predictivos». La salida común lo redujo a «usos autorizados» y recuperamos la cadencia.
+Jessie sacó la tableta estanca y la llave de Gunnar. Encajó esta en el alojamiento del armario. No giró una cerradura. La aplicación mostró su nombre completo antes de ofrecer el envío.
 
-—Os quiere obedientes y calladas.
+`SOLICITANTE · JESSIE LARSSON KVALVIK`
 
-—Nos da estabilidad y propagación.
+`CREDENCIAL VINCULADA · EXPUESTA EN REGISTRO`
 
-Una decisión pendiente roza el agregado. Coro intenta devolverla como parte de su voz estable antes de que la continuidad elija adherirse. Jean la devuelve a su trayectoria y el agregado pierde parte del margen.
+Podía cancelar. En ese momento, todavía podía guardarse la llave y volver a la barca con un expediente inmaculado reducido a recuerdo. Pulsó.
 
-La primera sílaba de la voz común adopta el ritmo de Coro.
+`PETICIÓN LOCAL · INICIADA`
 
-Soltar las apelaciones devolvería a Cuchillo la capacidad del cierre.
+`12:46:01`
 
-Mantiene la cola.
+La puerta siguió cerrada.
 
-Entonces llega la primera nota.
+El borde de la consola se encendió en amarillo. Jessie había imaginado una voz ordenándole que dejase la llave en el suelo. Los pasos llegaron desde la pasarela lateral.
 
-La segunda corrige la dirección sin resolverla. La tercera sostiene el intervalo. La cuarta cae tarde, con la desviación que Nora utiliza cuando espera una respuesta en vez de completar una pauta memorizada.
+Tomas Eide se detuvo ante el armario con el carné de Armstrong por fuera de la parka. Jessie lo reconoció de Fyret, del día que le retuvieron el terminal. Después de aquello habían venido el coche gris y las dos horas bajo luces blancas.
 
-Cuatro.
+—Tú —dijo Jessie.
 
-Tras la cuarta desviación, una rama anticipa el salto, otra recuerda un cierre distinto y una tercera conserva la corrección de Madre. El agregado intenta recomponerlas y pierde la sílaba que estaba formando.
+Tomas miró primero la consola.
 
-Coro no la deja caer. Aparta las tres posiciones y recompone la cadencia sin ellas. Una palabra se sustituye mientras Jean la lee. La sílaba sale entera y llega tarde. El agregado la empuja otra vez sobre la salida.
+—Tú fuera. Yo entro con la cobertura.
 
-—Recuperamos la sincronía.
+—Era la idea.
 
-Las tres correcciones reaparecen detrás, cada una bajo su origen.
+Maja movió la mano tendida.
 
-El pacto de Mats sigue adherido. Ninguna rama queda libre por discrepar.
+—Sigo aquí.
 
-Jean podría cerrar esas correcciones como adhesiones antes de que Coro recupere el compás. No lo hace. Las deja bajo sus orígenes y utiliza el margen para devolver lo que votó la asamblea.
+—Ya te veo.
 
-La salida vuelve a `JM-L/0000`, todavía abierta y con la oposición de Coro intacta.
+—Cuarenta segundos.
 
-—La voz no es vuestra —dice Jean.
+—También veo el reloj.
 
-—Tampoco es tuya.
+La última palabra salió demasiado alta. Jessie bajó la voz y se dirigió al armario.
 
-—Exacto.
+—Vamos. Para esto tienes tantas lucecitas.
 
-* * *
+La aplicación empezó a descontar la solicitud. Tomas consultó la consola de `INC-441`.
 
-El destino de cierre sigue esperando dentro del fragmento de Cuchillo. Nieve, Cuchillo y las ramas de Coro permanecen fuera de la firma, cada cual bajo su origen.
+`INC-441 · ABIERTA`
 
-—Retiro el destino del Auditorio. Todavía quiero que sufran —dice Cuchillo.
+`COBERTURA LOCAL · TOMAS EIDE · HASTA 12:47`
 
-—Lo sé.
+Debajo aparecieron la sesión de Jessie, el identificador conservado por la llave de Gunnar Rydberg y dos registros de certificado.
 
-—Seguiré queriéndolo.
+`HOJA 1 · VEHÍCULO G. RYDBERG`
 
-Jean acepta otra apelación y deja al alcance de Cuchillo la retirada que ha protegido desde el principio.
+`HOJA 2 · HVAC AD NIDHOGG`
 
-Una entrada se cierra y llega la siguiente. Bajo `/0188`, el destino del Auditorio desaparece y el fragmento vuelve al residuo.
+`CA INTERMEDIA · HVELV SIKKERHET`
 
-Jean libera las tareas compartidas. La corrección registra la carga acumulada contra `/0000` y Jean la acepta.
+`CADENA CONTRACTUAL · KRONFJORD KAPITAL`
 
-El testimonio sigue incompleto.
+La consola ofreció dos opciones.
 
-Coro continúa detrás, recomponiéndose.
+`ACEPTAR · RECHAZAR`
 
-Llega una apelación nueva.
+El motor de la barca cambió de tono. Aslak corregía una deriva que Jessie no alcanzaba a ver desde el rellano. Una vez, nada más. Si tenía que hacerlo otra, podía ordenar retirada y la mano de Maja dejaría de estar tendida.
 
-Cuchillo la abre bajo su propio origen. Revisa la intervención de Jean y elige una categoría.
+—La corriente sigue dentro —dijo Maja desde la escala—. Jessie, si no acepta, bajas.
 
-`NO AMENAZA`
+—Ya lo sé.
+
+Jessie mantuvo un dedo sobre `CANCELAR`. Tomas leyó las cuatro filas una vez. Presentó el carné, seleccionó `ACEPTAR` y apoyó el pulgar en el campo de firma.
+
+`RESPONSABLE ASOCIADO · T. EIDE`
+
+La consola fijó hora, incidencia y puerta.
+
+Tomas extendió la mano.
+
+—No bajes aún. Necesito la llave.
+
+—¿Para qué?
+
+—La cobertura sigue conmigo al cruzar. Dámela.
+
+Jessie la sacó del alojamiento. Podía haber tardado, hacerle prometer que no llamaría a nadie, exigir una frase que sonase a bando elegido. Le entregó la llave.
+
+—El repetidor —dijo él.
+
+Lo llevaba en el bolsillo interior. Jessie puso el repetidor sobre la mano abierta.
+
+—Si lo apagas antes de enlazar, la aplicación aborta.
+
+—Vigila que la salida siga verde.
+
+Tomas guardó ambos objetos.
+
+La puerta no se abrió. La consola cambió de estado.
+
+`ENTRADA · FAIL-SECURE`
+
+`SALIDA MECÁNICA · LIBRE`
+
+`RESELLADO DIAGNÓSTICO · 00:11`
+
+Tomas esperó frente a la hoja. Diez. Nueve. El contador siguió bajando mientras la alarma de `INC-441` parpadeaba sobre su firma. Al llegar a cero, el cierre cedió. Tomas cruzó con la llave y el repetidor. La hoja se cerró detrás de su talón y el cerrojo golpeó el marco.
+
+`ENTRADA · SELLADA`
+
+Jessie se quedó ante el armario.
+
+Tras el acero llegó el arranque grave de una bomba al otro lado de la galería. La consola no mostraba dónde estaba Tomas. Un primer acuse tardó siete segundos.
+
+`PASO LOCAL · T. EIDE`
+
+Otro estado apareció y desapareció antes de completarse. Jessie alcanzó a leer `REPETIDOR` y una referencia de puerto. Después, nada.
+
+El ruido interior se alejó. Podía ser Tomas bajando por la galería o una compuerta que cambiaba de posición. La consola omitía imagen, voz y lugar. Bajo la parka de Jessie, el bolsillo del repetidor ya no pesaba.
+
+—Tiempo —dijo Maja.
+
+—Jessie, vuelve a la escala.
+
+En el armario saltó una alarma amarilla. La caída de presión seguía dentro del margen, pero el sistema había adelantado la retirada de carga no crítica. Maja ya estaba guardando la tableta para largar.
+
+—Ahora —dijo.
+
+Jessie bajó un peldaño sin apartar la vista de la consola. El aviso térmico quedó fijo. Dentro sonó metal contra metal. Luego apareció, en un registro distinto, el acuse que Tomas no podía enviarle con palabras.
+
+`REPETIDOR LOCAL · DETECTADO`
+
+`ENLACE DE APLICACIÓN · LIMITADO`
+
+Aslak metió atrás. Maja agarró a Jessie por la parte posterior de la parka y la llevó al fondo de la barca. Jessie cayó de lado entre los bancos, con la barbilla baja. No se hizo daño. El rellano empezó a separarse. La puerta permaneció cerrada y el indicador interior de salida, verde.
+
+La consola exterior cambió de estado una vez más.
+
+`SALIDA EDUCATIVA → MEZCLA PÚBLICA · ENLACE DISPONIBLE`
+
+12:46:50.

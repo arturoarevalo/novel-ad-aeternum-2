@@ -1,0 +1,19 @@
+{
+  "etiqueta": "final",
+  "fecha": "2026-08-21T09:05:16",
+  "capitulos": 49,
+  "palabras": 80691,
+  "por_parte": {
+    "1": 19923,
+    "2": 20779,
+    "3": 20270,
+    "4": 19719
+  },
+  "objetivo": 80000,
+  "banda": [
+    79000,
+    81000
+  ],
+  "en_banda": true,
+  "salida": "compilado/ad-aeternum-final.md"
+}

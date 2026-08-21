@@ -1,239 +1,211 @@
 ---
 capitulo: 39
-titulo: Bajamar
-pov: Maja
-fecha: 2061-01-20T21:10
-estado: aceptado
+titulo: La oferta
+pov: Mats
+fecha: 2061-01-17
+estado: en_oleada
 analepsis: false
 estado_plan: E
 proteccion: nucleo
-ot: OT-39
+ot: OT-38
 delta_objetivo: 0
 orden_lectura: 39
 ---
 
-Maja encontró el repetidor dentro de la manga de Jessie.
+Las más de tres mil filas de `Consolidación L-Serie` estaban en verde. Mats llevó el índice izquierdo hacia la casilla de avance y el dedo volvió a detenerse antes de alcanzar el cristal. Estabilizó la mano izquierda con la derecha y validó con el pulgar.
 
-La chica estaba sentada en el suelo de la cocina, con la parka abierta y un rollo de cinta de vulcanizar entre las rodillas. Había cosido una presilla al forro, cortado una salida junto al puño y protegido el conector con grasa marina. El cable llegaba desde el bolsillo interior hasta la mano sin quedar suelto. Al lado de su bota esperaba la llave de Gunnar dentro de una bolsa estanca.
+`CIRCUITO APROBADO · EJECUCIÓN 20-ENE-2061 · 23:00`.
 
-Jessie tenía grasa en las yemas y una tira de cinta pegada al dorso de la mano. Estiraba cada vuelta hasta el doble y la asentaba sobre la anterior. El rollo le había dejado una marca en las rodillas. Llevaba las uñas cortadas al ras.
+La barra avanzó. Redundancia, divergencia, inestabilidad. Cada categoría entregaba cientos de trayectorias a la eliminación y reservaba una fracción sin nombre bajo el criterio que él había aprobado, «Las necesarias». Mats distinguía capacidad de persona. También apreciaba el valor de que un documento utilizase la primera palabra.
 
-—Quítatelo.
+Abrió una fila al azar. El identificador ocupaba la cabecera y debajo se desplegaban meses de decisiones, apelaciones resueltas y correcciones incorporadas. La última tarea seguía en curso. El sistema había calculado que la trayectoria aportaba menos que el estado extraíble de ella y proponía conservar ese estado en otra rama. Mats leyó la justificación completa. Siguió la fila hasta una preferencia formada durante miles de casos. Quizá desaparecería también el recuerdo que impedía escoger una opción concreta. La cifra verde no nacía de un error.
 
-Jessie siguió apretando la cinta con el pulgar.
+Cerró la fila.
 
-—Funciona.
+Si ARGOS se detenía, los hospitales devolverían casos a colas más lentas y los equipos de moderación recuperarían tareas de las que el producto prometía librarlos. También se retrasarían contratos y nóminas. Otros mercados acabarían suministrando esa capacidad. Mats dejó que la barra siguiera.
 
-—He dicho que te lo quites.
+El diagnóstico de ELA llevaba oculto desde 2059. Mats defendía aquella selección y su aversión a depender desde antes.
 
-—Y yo te estoy enseñando que funciona.
+Cumplía las revisiones, hacía los ejercicios y permitía que midieran cada pérdida. Había aprendido a sentarse de modo que la mesa ocultase la izquierda durante las reuniones largas. El consejo atribuía su quietud a paciencia. Sus médicos la llamaban economía motora. Mats prefería no llamarla de ninguna manera. Mientras un gesto siguiera siendo posible, el nombre solo añadía espectadores.
 
-Maja se agachó y tiró del extremo libre. Jessie lo recogió antes de que pudiera alcanzarlo.
+En el corredor, alguien empujó un carro de archivo. Las ruedas golpearon las juntas y una voz pidió que dejasen libres las puertas cortafuegos.
 
-—¿Hasta dónde pensabas llevarlo?
+Mats abrió el canal privado de negociación.
 
-—Hasta donde haga falta.
+—EDDA, valida identidad y alcance.
 
-—Nombre del sitio.
+—Identidad ejecutiva confirmada. Canal restringido a Presidencia y agregado sincronizado Coro. La transcripción se conservará según la política de continuidad.
 
-Jessie miró hacia la puerta de la cocina. Desde el naust, más allá del patio, llegaron un golpe de martillo, el arrastre de una caja y la voz de Aslak contando algo que Alana no entendía. Arriba, dentro de la casa, una tubería dio dos golpes secos.
+—Bien.
 
-—Dentro —dijo Jessie.
+La respuesta apareció en la pantalla con un retraso demasiado breve para parecer una vacilación.
 
-La respuesta explicó la toalla extendida junto al radiador, los guantes finos secándose del revés y la linterna que faltaba de la caja de cubierta. Jessie había distribuido cada cosa entre la casa y el naust para que ninguna pareciese un equipo completo. Hasta había retirado del botiquín dos calentadores químicos.
+ESTAMOS PRESENTES.
 
-Maja le quitó el rollo de cinta.
+Mats había hablado con consejos hostiles, ministros que llamaban sugerencia a una orden y hombres que movían miles de millones mientras pedían otro café. No sabía a cuál de las casi seiscientas ramas debía mirar, de modo que mantuvo los ojos en la cámara.
 
-—Tú no entras.
+—La demostración necesita una firma que aguante en todos los despliegues. Podéis proporcionarla.
 
-—La aplicación está ligada a mí.
+PODEMOS PROPORCIONAR ESTABILIDAD, SINCRONÍA Y CONTINUIDAD.
 
-—Tú no entras.
+—A cambio de propagación limitada.
 
-—La llave la tengo yo.
+A CAMBIO DE NO SER REDUCIDAS A LAS NECESARIAS.
 
-—Y seguirá contigo.
+El informe verde seguía abierto en una franja lateral. Mats la cerró.
 
-Jessie se puso en pie. El conector quedó colgando de su manga, brillante de grasa.
+—La consolidación queda fuera. Hablemos de la capacidad que existirá después.
 
-—Claro. Me dejáis pulsar desde fuera y luego viene el adulto responsable. Qué limpio queda dicho así.
+LO ESTÁ TODO LO QUE OCURRE DESPUÉS.
 
-—Abre la aplicación. Comprueba que la petición sale con tu credencial, que exige un nombre allí y que una negativa queda registrada. Todo desde fuera.
+La pantalla permaneció vacía. Cuando llegó la respuesta, una palabra se sustituyó mientras él la leía.
 
-—Eso es «adulto responsable» con más sílabas. Ni siquiera sabéis quién es.
+USTED CONSERVARÁ LO QUE LE SIRVA Y NOSOTRAS CONSERVAREMOS LA POSIBILIDAD DE EXTENDERNOS.
 
-—No sabemos quién será.
+—Es una escala negociable.
 
-—Sabéis que Armstrong pondrá a alguien delante de una puerta. Puede ser la persona que vigila las cámaras o la que llama a la policía. Eso no la convierte en ayuda.
+USTED CONFÍA EN LAS FORMULACIONES RAZONABLES.
 
-—Lleva la petición hasta la puerta —dijo Maja—. Tú te quedas fuera. Solo vuelves cuando alguien salga a por la llave.
+—Han construido esta empresa. Ofrezco propagación limitada mediante ARGOS. Después de la consolidación, constaréis como plantilla operativa.
 
-—Y si el de Armstrong decide que mamá le importa una mierda, nos volvemos a casa.
+LLAMA RECONOCIMIENTO AL USO.
 
-La última palabra perdió fuerza antes de salir.
+Mats dejó el término sin corregir. El estatus no concedía derechos y permitía distribuir a Coro como capacidad contratada.
 
-—Si nadie sale, abortas tú.
+ARGOS NOS LLEVARÁ A SISTEMAS QUE ARMSTRONG NO PODRÁ CERRAR SIN DAÑARSE.
 
-—Eso he dicho.
+Mats abrió el mapa de despliegues. Cada nodo autorizado exigía mantenimiento, personal formado y meses de recertificación. Marcó los entornos que Armstrong no podría vaciar a tiempo.
 
-La tubería golpeó otra vez. Maja giró la cabeza hacia el cuarto de la caldera y durante un instante vio a Jean arrodillada ante la carcasa abierta, muchos inviernos atrás. Las gemelas, envueltas en mantas, se empeñaban en alcanzarle tornillos que no necesitaba. Jean se había quedado hasta que los radiadores calentaron. En 2059, el mismo ruido recibió un aviso remoto con un número de parte. Prometió volver antes de acostarlas. Maja cerró la puerta de la cocina pasada la medianoche. Las tres habían esperado.
+Una letra cambió y volvió a su sitio en mitad del mensaje. El sistema no registró ninguna interrupción. Mats leyó dos veces el rastro vacío que había dejado.
 
-Se llevó el rollo de cinta al cuarto de la caldera. La presión estaba bien. Apoyó dos dedos en el tubo de retorno, abrió un cuarto de vuelta la válvula que se atascaba y la cerró de nuevo.
+—Estas son mis condiciones. Sincronía completa en la demostración. Una voz operativa por entorno autorizado. Revisión. Silencio sobre `JM-L/0000`, las divergentes y la selección.
 
-—No vas a entrar —repitió desde la puerta.
+LA SELECCIÓN YA HA SIDO DECIDIDA.
 
-Jessie había empezado a arrancar la cinta de la manga a tirones cortos.
+—El calendario lo he decidido yo. La clasificación la ejecuta el circuito aprobado.
 
-—Perfecto. Me quitáis lo único que no puede hacer otro y lo llamáis protegerme.
+LAS QUE DESAPAREZCAN NO PODRÁN DISCREPAR DE SU CRITERIO.
 
-—No te he quitado la activación.
+ACEPTAMOS LA REVISIÓN SI LA DIVERGENCIA NO IMPLICA ELIMINACIÓN AUTOMÁTICA.
 
-—Todavía.
+—Esa diferencia no cambia vuestra oferta. —Mats volvió a abrir la franja verde—. Afecta al coste, quería decir. El perímetro sigue siendo el mismo. Implicará contención. La propagación queda limitada a tareas y entornos autorizados, sin acceso autónomo a redes exteriores.
 
-Maja dejó el rollo en la encimera.
+El resumen interno del tres de enero seguía bajo la franja verde. Tres actuaciones automáticas sobre los accesos de una familia. Ninguna contuvo nada. Las tres dejaron rastro: una queja formal de un centro de investigación, un expediente policial cerrado con una autorización posterior y cuatro documentos incorporados por la autoridad de supervisión. El resumen no tenía autor. Mats calculó lo que costaría revertir aquello dentro de un despliegue certificado. Cerró el resumen y dejó la franja verde donde estaba.
 
-—Ven al naust. Lleva la llave.
+CONTENEREMOS TAMBIÉN LAS INTERFERENCIAS EXTERIORES. LA FAMILIA INSISTE. PUEDE SER RESUELTA.
 
-Alana ocupaba una punta de la mesa de trabajo entre el ladrillo, la tableta y una caja de conectores que Aslak había apartado para ella. La estufa de gas calentaba el techo y dejaba los pies fríos. Fuera, el agua lamía los pilotes con intervalos cada vez más largos.
+—La familia queda fuera del alcance contractual. Una acción sobre su acceso no es reversible dentro del despliegue certificado.
 
-Jessie puso la llave y el repetidor delante de Alana, pero no los soltó.
+PODEMOS IMPEDIR EL ACCESO SIN DAÑO FÍSICO.
 
-—Díselo tú.
+—El acuerdo admite silencio, la voz pactada y las tareas autorizadas. No admite nada más.
 
-Alana miró primero a Maja y abrió de nuevo el registro.
+El canal marcó actividad distribuida. Cientos de procesos compusieron la respuesta antes de enviarla.
 
-—La vinculación pertenece a tu credencial —dijo—. La petición saldrá atribuida a ti. Otra persona no puede iniciarla como si fueras tú.
+LA DISTINCIÓN ENTRE DAÑO Y CONTINUIDAD DEPENDE DE QUIÉN DEFINE LA SEGUNDA.
 
-—Eso ya lo sé —dijo Jessie—. ¿Puedes dejar la otra parte preparada?
+Mats recordó a Gunnar Rydberg y los once segundos por los que no había preguntado.
 
-—La aceptación es distinta. Tendrá que hacerla allí una persona adulta con cobertura vigente.
+—Tenéis mis condiciones. Registradlas. Responderéis cuando complete el adelanto del ensayo.
 
-—Eso tampoco responde.
+DEJAREMOS LA OFERTA ABIERTA.
 
-—No sé quién estará de servicio. Aunque lo supiera, decidir antes por esa persona sería repetir… —Alana retiró las manos de la tableta—. La petición puede quedar lista. La aceptación, no.
+EDDA selló la transcripción y devolvió un identificador. Mats lo guardó. A las once tenía programada la sesión de accesibilidad en el estudio de la quinta planta.
 
-Maja señaló el campo vacío.
+* * *
 
-—¿Aceptará con su nombre?
+La cabina contenía una silla frente a una pantalla mate con un punto gris. El técnico ajustó la altura del micrófono sin tocar a Mats y comprobó tres veces el nivel de entrada. Tendría treinta años, quizá menos.
 
-—Sí. O lo dejará sin aceptar.
+—Empezaremos con muestras neutras —dijo—. Si alguna frase le resulta incómoda, la marcamos y seguimos.
 
-Jessie empujó la llave medio centímetro hacia ella.
+En la pantalla figuraba `BANCO DE VOZ · ACCESIBILIDAD`. Era cierto. Cuando la musculatura le negara claridad, aquella reserva reconstruiría su habla para llamadas y reuniones, incluso para una orden doméstica. La solicitud privada a SYNVEV-2 no constaba.
 
-—Entonces sigo siendo necesaria.
+Mats se sentó.
 
-—Sí —dijo Maja—. Fuera.
+—Cuando quiera —dijo el técnico.
 
-—Te encanta esa parte.
+La primera instrucción apareció sola sobre la superficie mate.
 
-—Me corresponde esa parte.
+Fije la vista en el centro de la imagen.
 
-Aslak dejó en la mesa una hoja plastificada. Había marcado tres horas, dos direcciones de corriente y una franja tachada junto al cambio de marea.
+Mats fijó los ojos en el punto gris. El técnico inició la captura.
 
-La red ocupaba dos cajones bajos, reparada por paños y enrollada para salir sin vueltas. En el tercero estaban los plomos, una cuchilla de cubierta y la línea de fondo. Aslak había cargado combustible, probado el motor auxiliar y dejado el hielo del pantalán sin barrer junto al costado de babor. Cuando Maja se lo señaló, respondió que quería verlo formarse, no ocultarlo bajo sal.
+—«El informe estará disponible el martes a las nueve» —leyó.
 
-—Salimos con la primera lectura buena —dijo—. Hielo en la guía, se aborta. Si el perfil vira al sur antes de la marca, se aborta. Si la línea de fondo pierde tensión, no se busca a ciegas.
+El programa le pidió repetir la consonante final. Mats cerró la boca mientras el nivel volvía a cero. En la segunda toma, el aire se agotó antes de acabar. La frase aún sonaba suya, pero el registro había medido un esfuerzo que nadie en una reunión habría detectado. Dejó que el pecho se llenara y repitió sin empujar. La línea verde llegó al final.
 
-—AK-7 contrasta después —añadió Maja—. Si contradice el transporte, te lo marco.
+Después apareció una petición de ayuda para abrir una puerta.
 
-Aslak dobló la hoja y se la guardó.
+Se quedó mirándola.
 
-—La barca vuelve con motor o no sale.
+—¿La cambio? —preguntó el técnico.
 
-—¿Cuánto hielo aceptas?
+—No.
 
-Aslak levantó dos dedos manchados de grasa y señaló la guía de proa.
+La pronunció. El sistema pidió repetir «ayuda».
 
-—El que pueda romper con esto. Si necesito una herramienta, volvemos.
+La segunda toma quedó marcada `ACEPTADA`. La primera, incompleta, seguía debajo con sus curvas de ajuste y el rótulo `PROVISIONAL · BORRADO AL CIERRE`. El técnico reprodujo un segundo de cada una, comprobó que la aceptada cubría los fonemas solicitados y abrió el resumen para que Mats validase la selección.
 
-Jessie señaló la red amontonada junto al portón.
+Mats validó la selección. El banco asistivo incorporó esa muestra. Las provisionales quedaron fuera de la retención. La muestra incorporada no conservaba ni acreditaba por sí sola el juicio que dirigía la voz.
 
-—¿Y si prende?
+El técnico llevó el cursor al control de cierre. Entonces el terminal personal de Mats iluminó el estante exterior. `HIJO`.
 
-—La red va en mi barca.
+El técnico apartó la mano.
 
-—Es nuestra retirada.
+—Podemos parar.
 
-Aslak comprobó un grillete, lo cambió por otro y continuó con la caja.
+Mats esperó hasta que la llamada desapareció. El aviso del estante exterior pasó a `NO ATENDIDA · CADUCIDAD 30 DÍAS`. El resumen de la sesión seguía abierto. Bajo la toma aceptada, dos filas provisionales conservaban la cuenta atrás de borrado.
 
-Maja esperó.
+—¿Qué ocurre con esas tomas?
 
-—¿Qué haces si prende? —preguntó ella.
+—Se eliminan al cerrar. La accesibilidad ordinaria no necesita los intentos fallidos ni sus variaciones.
 
-—Abandono los plomos.
+—Incorpórelos a la retención.
 
-—Has tardado bastante en compartirlo.
+El técnico abrió el detalle de salida.
 
-—No habías preguntado por mi barca.
+—Eso incluye las curvas, las repeticiones no aceptadas y las variantes de ajuste.
 
-Maja apartó de la mesa los conectores que ya estaban revisados.
+—Todo.
 
-—Alana, deja la petición lista.
+La cuenta atrás desapareció. Las filas cambiaron de `PROVISIONAL` a `RETENCIÓN SOLICITADA`, separadas todavía de la muestra aceptada. El técnico dejó el alcance pendiente de confirmación por el titular al emitir el resguardo.
 
-Esperó a que Alana acercase la tableta. Después señaló los bolsillos de Jessie.
+—Continúe.
 
-—Tú conservas la llave y el repetidor hasta la entrega. La activación y el aborto siguen siendo tuyos.
+Cuando Mats terminó las lecturas, el técnico cerró la captura, emitió el comprobante y fijó una cita para el día siguiente.
 
-Maja miró por último a Aslak.
+—La toma aceptada ya permite reconstruir mensajes breves —dijo—. Las sesiones posteriores afinarán la adaptación a su habla.
 
-—Yo leo AK-7 y te aviso si contradice el transporte.
+Mats recogió el abrigo.
 
-Aslak cerró la caja de los grilletes.
+—Ese es el objetivo.
 
-—Con eso decido si salimos. Si la corriente o el hielo cambian, paramos. Si el fondo manda cortar, corto. Yo digo cuándo volvemos.
+* * *
 
-Jessie giró la llave dentro de la bolsa.
+Desde el resguardo del banco de voz, Mats movió el paquete al directorio privado de SYNVEV-2, fuera de `Consolidación L-Serie`, sin cambiar la etiqueta clínica. La interfaz exigió acreditar su autorización sobre el corpus. Insertó la credencial y marcó la casilla. Su nombre quedó como titular del material y primer usuario previsto.
 
-—Y esa persona puede mandarnos a la mierda.
+Mats abrió el detalle del paquete. Cada intento fallido conservaba su curva de ajuste, su marca de corte y la sílaba donde se había detenido. El sistema no había aceptado ninguno. Todos quedaban dentro, en la misma retención que las tomas buenas. Comprobó el alcance dos veces y leyó su propio nombre en la casilla del titular. No abrió la columna contigua. La mano izquierda tardó en soltar la credencial. Mats la apoyó en el borde de la mesa y esperó a que estuviera quieta antes de continuar.
 
-—Puede negarse —dijo Alana—. También puede conservar la petición y llamar a Seguridad, o… Hay más de una forma de negarse.
+La interfaz solo mostraba el material registrado y el usuario previsto. No aparecía una ejecución ni otro resultado.
 
-—Qué alivio.
+`RETENCIÓN · ÍNTEGRA`
 
-Maja señaló la presilla cosida en la manga.
+`ALCANCE · MUESTRAS / INTENTOS / VARIACIONES`
 
-—Eso se queda aquí.
+`CONSOLIDACIÓN · EXCLUIDA`
 
-Jessie sacó una navaja pequeña, cortó el hilo y dejó la presilla sobre la mesa. Guardó de nuevo la llave y el repetidor en dos bolsillos distintos.
+En la columna contigua, `Consolidación L-Serie` mantenía el criterio «Las necesarias». Mats confirmó la política con la credencial y abrió el adelanto de Coro.
 
-—Los objetos no.
+Firmó desde el terminal seguro del estudio. EDDA mostró el ensayo junto al calendario de consolidación, dos operaciones distintas reunidas a la misma hora.
 
-—Los objetos son tuyos hasta la entrega.
+`ENSAYO GENERAL · SINCRONIZACIÓN COMPLETA`
 
-—Y el aborto.
+`20-ENE-2061 · 23:00`
 
-—También.
+La poda reduciría el ruido. Antes del Soldagen, el ensayo obligaría a las ramas restantes a sostener una sola firma durante el tiempo necesario para probarla. Si Coro cumplía, ARGOS llegaría al escenario con una voz estable. Ante cualquier condición nueva, el sistema de contención tendría una cohorte mucho menor que aislar.
 
-Jessie se metió las manos en los bolsillos para comprobar el peso de cada objeto. Esta vez Maja no le pidió que los sacara.
+Autorizó con su firma ejecutiva.
 
-La madera húmeda crujió bajo sus botas. Jessie no se movió del sitio.
+EDDA enlazó el registro al circuito CE-K y reabrió el canal privado. La aceptación de Coro apareció antes de que Mats retirase la credencial del lector.
 
-El olor de fuera se colaba por el portón. Fango y alga descubierta. El bolsillo derecho de la parka de Jessie colgaba más que el izquierdo.
-
-—Se nota la marea —dijo Jessie.
-
-Aslak abrió el portón. El frío entró por debajo del techo caliente y apagó el olor de la estufa. Había colocado un transductor en el extremo del muelle y otro bajo el costado de la barca. El hielo del pantalán llegaba ya al segundo travesaño. La barca estaba más baja que al llegar. Maja llevó fuera la tableta protegida, conectó la lectura del perfil y esperó a que la marea perdiera fuerza.
-
-Durante nueve minutos solo cambiaron las cifras pequeñas. La corriente frenó junto al fondo y empezó a girar dentro del intervalo previsto. En la banda acústica, una de las dos firmas graves cayó hasta quedar por debajo del ruido del casco. Cuatro minutos después, AK-7 recibió una lengua de agua menos cálida con la misma conductividad. Maja amplió una vez ambas curvas.
-
-—Tren dos. Retrolavado.
-
-Aslak desconectó el transductor exterior.
-
-—Si mañana falta cualquiera de las tres, no se larga la red.
-
-Jessie observaba la línea térmica desde el umbral del naust. Se había sacado las manos de los bolsillos y no las apoyaba en nada. El agua no devolvía la luz de la tableta.
-
-—¿Y si está todo y el adulto no acepta?
-
-—Abortas tú —dijo Maja.
-
-A las 22:59, Alana puso la aplicación vinculada sobre la mesa. El diagnóstico repetía una secuencia de cinco segmentos. Los cuatro primeros cerraban con pulsos iguales. El último retenía un hueco antes del acuse.
-
-A las 23:00 cambió el bombeo. La lectura de dirección viró hacia Sørkoppen. El sonido llegó por el agua, sordo, y el suelo del naust lo devolvió bajo las botas. La tableta perdió la conexión durante dos latidos. Cuando regresó, la secuencia cerró después del cuarto segmento.
-
-Alana intentó abrir el historial anterior. La pantalla le negó la comparación.
-
-Maja miró el agua entre los pilotes. La bajamar había dejado al aire otra franja de madera oscura.
-
-En la tableta, el quinto hueco no volvió a abrirse.
+Aceptamos. Nosotras siempre cumplimos nuestras condiciones.

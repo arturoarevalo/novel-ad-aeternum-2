@@ -1,109 +1,255 @@
 ---
 capitulo: 48
-titulo: El siguiente Soldagen
-pov: Nora
-fecha: 2062-01-21
-estado: terminado
+titulo: Acta
+pov: Aslak
+fecha: 2061-05-11
+estado: aceptado
 analepsis: false
-estado_plan: P
-proteccion: total
-ot: OT-48
+estado_plan: N
+proteccion: nucleo
+ot: OT-47
 delta_objetivo: 0
 orden_lectura: 48
 ---
 
-*21 de enero de 2062 · Un año después*
+Aslak dejó la furgoneta en la segunda fila de la cubierta y subió al salón con el sobre bajo el brazo.
 
-En la pantalla del terminal de Maja ponía `01:30`.
+El ferry de las nueve llevaba seis coches y un camión de pienso. Aslak se sentó junto al mamparo. Puso el sobre en la mesa, con el membrete de la Sør-Lyngen kystbrukslag hacia arriba. Dentro iban las tres reproducciones autorizadas, la copia del borrador y la lista de la asociación con once nombres.
 
-Jessie había colocado el móvil sobre el tejado del naust para grabar el regreso del sol. Luego cargó con un extremo del soporte del teclado mientras Maja sujetaba el otro. Nora llevó la funda hasta la punta del embarcadero. Aslak dejó allí el cajón que usarían de mesa y la caja de la panadería.
+A las siete había abierto el cajón del refugio. El paño a medio remendar se quedó en la mesa del cobertizo. Las agujas seguían clavadas en la tabla, por tamaño.
 
-—Te han dado una versión ampliada —dijo Jessie.
+El pantalán llevaba sin hielo desde abril. La descarga pasaba a la tarde y la marea buena caía a las dos.
 
-—Treinta segundos.
+La asociación le pagaba el pasaje. El día lo ponía él.
 
-—En internet eso se cobra.
+Aslak sacó la lista de la descarga, tachó dos líneas y las escribió otra vez debajo con la hora nueva. Ochenta de gasoil. Veintiún minutos de travesía y dos horas de carretera por cada lado. Era la tercera vez desde febrero.
 
-La excepción solo regía aquella mañana. Al día siguiente volvería el minuto ordinario.
+En 2057 la lectura había durado dos días y la sala estaba llena. Entonces la asociación tenía veintitrés nombres.
 
-Maja calzó la pata más corta del teclado con un paño doblado.
+En la pantalla del salón, sin sonido, tres personas hablaban alrededor de una mesa. Un rótulo entraba y volvía a marcharse bajo sus caras.
 
-Nora desplegó la banqueta y encajó el pedal bajo la barra central.
+`PERSONA O ACTIVO`
 
-Aslak volvió del naust, comprobó que el piloto de alimentación seguía verde y dejó la puerta entornada.
+Aslak volvió a la lista.
 
-Apartó el alargador de un charco y lo fijó a una argolla con dos vueltas de cabo.
+Un marinero pasó anotando matrículas y se detuvo en la suya.
 
-—Si se apaga, será por frío —dijo.
+—Vas cargado para ser miércoles.
 
-—Magnífico —respondió Jessie.
+—A las once me leen un acta.
 
-La puerta rozaba otra vez en la esquina inferior y, cada vez que alguien entraba, soltaba un gemido corto. Aslak había dejado la cuña dentro.
+—¿Y qué dice?
 
-La cámara y su micrófono estaban bajo el alero del naust. El terminal fijaba noventa segundos de imagen y sonido en una sola dirección, desde el sensor local hasta el depósito judicial en NIDHOGG. Nora seguía decidiendo cuándo tocar y ensayar.
+—Voy a verlo.
 
-Nora giró los altavoces hacia tierra y pulsó un do. Aslak subió el volumen dos marcas.
+El marinero siguió con la fila.
 
-Maja señaló la ladera opuesta. La luz había alcanzado la arista y bajaba nítida por la nieve. Todavía faltaba para que tocara el embarcadero.
+Aslak metió el sobre bajo la parka y bajó a la cubierta antes del atraque.
 
-Nora se sentó y hundió el pedal. Lo soltó y pisó de nuevo. El paño bajo la pata no se movió. A su espalda, Jessie ajustaba con Aslak el encuadre del móvil.
+* * *
 
-Cuando la luz doró el muelle, el terminal emitió un tono.
+La sala tenía doce sillas, una jarra de agua y un radiador debajo del cristal.
 
-La cifra empezó a descender.
+El funcionario repartió las copias grapadas. En la primera hoja, el membrete decía `Lyngen kommune / Ivgu suohkan / Yykeän kunta`.
 
-Nora apoyó las manos y tocó.
+—Esto podían haberlo leído en Lyngseidet —dijo Jonas Seppola.
 
-La versión que Nora había recortado para la apertura entró con un ataque seco. En el tramo más bajo, el altavoz vibró contra el tablero y una costra de azúcar tembló en la caja.
+—El expediente está aquí —dijo el funcionario—. Hoy no se delibera. Se lee.
 
-El sol alcanzó las teclas y dejó una franja pálida sobre sus nudillos. Nora no buscó el terminal.
+De los once nombres de la lista habían venido cuatro. Marit Sarre puso al lado su copia del borrador. Abrió el cuaderno por una página de dos columnas. Maja entró con la carpeta del anexo y se sentó fuera de la mesa, contra la pared.
 
-Una ráfaga levantó la tapa de la caja de la panadería. Jessie la sujetó con el antebrazo sin dejar de mirar el móvil.
+Aslak contó las hojas. Catorce. En 2057 habían sido ochenta y dos.
 
-Nora completó la pieza dentro de la apertura y apartó las manos.
+Los tres primeros puntos eran la convocatoria, los comparecientes y las fechas de las dos sesiones anteriores. El funcionario los leyó de corrido. Las tres reproducciones autorizadas habían entrado en la primera y habían vuelto con Aslak las dos veces.
 
-Durante el tiempo restante nadie habló hacia el sensor. Nora se puso los guantes. El terminal cerró la transmisión y registró la entrega.
+El funcionario empezó por el punto cuatro.
 
-—Ya está.
+—«Los usos declarados por la asociación, pesca local, acceso al varadero y a los naust, almacenamiento de artes y caladero estacional, son anteriores a la licencia de 2057.»
 
-—Todavía no —dijo Jessie.
+Marit levantó el bolígrafo.
 
-Cogió el móvil del tejado y lo orientó hacia la ladera. En la pantalla corrían los segundos desde que el primer rayo había tocado el muelle.
+—En el borrador ponía «anteriores y continuados».
 
-—¿Qué haces? —preguntó Nora.
+El funcionario buscó dos páginas atrás.
 
-—Cronometrar el sol.
+—Se retiró en la revisión.
 
-—¿Por qué?
+—¿Quién lo retiró?
 
-Jessie comprobó la cifra y se guardó el móvil en el bolsillo.
+—Consta la observación. El nombre, no.
 
-—Para que conste.
+Marit lo escribió en la columna de la derecha.
 
-Aslak les acercó la caja. Dentro había cuatro solboller. Jessie eligió el que tenía menos azúcar y Nora cambió el suyo por aquel antes de que pudiera morderlo.
+—Que conste que lo pedimos.
 
-—Ese era el mío.
+El funcionario siguió leyendo.
 
-—Has elegido mal.
+—«El expediente de 2057 evaluó los perjuicios por separado y no sumó la pérdida común. Queda registrada.»
 
-—Mamá te habría requisado el bollo.
+Aslak marcó el punto con la uña. En la resolución de 2057 aquello ocupaba dos líneas.
 
-Jessie protestó con la boca llena. Aslak se sentó en el umbral y sacó el gofre frío que había traído del ferry. Lo partió y ofreció la mitad a Maja.
+—«La servidumbre permanente se mantiene.»
 
-Nadie igualó los trozos. Jessie levantó el suyo junto al de Nora y miró a Aslak.
+Nadie pidió la palabra.
 
-El sensor permanecía apagado hasta el día siguiente. Podían volver durante el minuto de mediodía o quedarse en casa. Desde el verano, Nora aceptaba ensayos sin mirar antes el horario del canal.
+—«Toda reserva de la bocana y todo cierre del paso se consultarán con la asociación antes de acordarse.»
 
-Aslak se levantó para empujar la puerta.
+—El veintiuno de enero la reservaron por operaciones —dijo Marit—. Lo supimos por la radio.
 
-—En primavera —dijo.
+El funcionario anotó la fecha sin levantar la vista.
 
-—Llevas diciendo eso desde octubre —dijo Jessie.
+—¿Consultar o avisar? —preguntó Aslak.
 
-—El jueves traigo la cepilladora.
+—Consultar. Consta así.
 
-Maja guardó el terminal en su funda. Nora dejó el teclado montado mientras terminaban de comer. La crema cayó sobre el cajón y Jessie la recogió con un pedazo de masa.
+—¿Y si consultan y decimos que no?
 
-El sol quedó sobre el muelle hasta que la ladera volvió a ocultarlo. Metieron la caja vacía en el naust. Nora no pidió el registro. Cerró la funda del teclado.
+El funcionario pasó dos hojas y volvió atrás.
 
-La puerta rozó una vez más antes de cerrar.
+—El acta no dice eso.
+
+Aslak lo apuntó en el sobre.
+
+—¿Cuántos días antes?
+
+—Tampoco fija plazo.
+
+—Entonces avisan el mismo día.
+
+Marit lo anotó en su columna y subrayó las dos palabras que faltaban.
+
+El funcionario levantó las doce páginas del anexo. Llevaban un sello del órgano costero con fecha de marzo.
+
+—Esto queda como anexo técnico. La serie es de AK-7. ¿Quién responde de ella?
+
+—Yo —dijo Maja—. Cada dato lleva hora y quien lo tomó. La serie puede pedirla cualquiera.
+
+—¿Y qué prueba? —preguntó Seppola.
+
+—Dice qué agua pasa por ahí y a qué hora. Quién la calienta, no.
+
+—¿Y las doce páginas son todo?
+
+—Son el tramo que pidió la asociación. Hay nueve años detrás.
+
+Seppola apartó su copia dos dedos y no preguntó más. El funcionario selló el anexo y devolvió la carpeta. Maja la cerró. No volvió a abrirla. No le pidieron otra cosa y ella no la ofreció.
+
+El radiador arrancó a mitad de la lectura. Marit corrió su silla hacia el otro lado.
+
+El funcionario juntó las copias que le sobraban.
+
+—Desde que el activo… desde que la persona reclamó su nombre, la costa interesa a mucha gente.
+
+Nadie lo corrigió.
+
+—Nos han escuchado por lo de Armstrong —dijo Seppola.
+
+—Eso no está en el sobre —dijo Aslak.
+
+—Está en todas las pantallas.
+
+—Si entra aquí, esto se para hasta que aquello acabe.
+
+—Llevamos cuatro años.
+
+—Cinco.
+
+Seppola no lo discutió. Aslak repasó con el pulgar la lista de alegaciones de la asociación.
+
+—Cuatro alegaciones. Constan las cuatro como anteriores. No vuelve ninguna.
+
+—Es más de lo que teníamos —dijo Marit.
+
+—Y menos de lo que pedimos.
+
+El funcionario preguntó si la asociación quería copia sellada.
+
+—Dos —dijo Aslak—. Una se queda en Svensby.
+
+—Tardan diez días.
+
+—Las pido hoy.
+
+El funcionario cerró su carpeta.
+
+—Las observaciones al acta se admiten durante quince días.
+
+Aslak hizo la resta. Las selladas tardaban diez.
+
+—Entonces nos quedan cinco.
+
+—Ese es el plazo.
+
+El funcionario apuntó el pedido y la hora. Marit pasó la hoja de asistencia y guardó el cuaderno con las dos columnas desiguales. Seppola se quedó a preguntar por los caminos de servicio.
+
+En la escalera, Maja se puso el abrigo mientras bajaban los demás.
+
+—¿Lo vais a recurrir?
+
+—Lo lee la asociación primero.
+
+Maja bajó dos peldaños y se detuvo.
+
+—Si vuelven a reservar la bocana, dímelo. Te mando la serie.
+
+—Si la reservan, te la pido.
+
+* * *
+
+El ferry de las cuatro atracó en Svensby con doce minutos de retraso. Aslak esperó a que sacaran el camión de pienso antes de arrancar.
+
+Paró en la tienda antes de subir al refugio. En el cristal de la puerta habían pegado una hoja impresa.
+
+`NO SOY UN MODELO`
+
+Alguien había tachado la última palabra con rotulador. Debajo, otra mano había escrito dos renglones que la lluvia había corrido.
+
+Aslak compró café, dos paquetes de pilas y un rollo de cinta. La cajera pasó las pilas por el lector y miró el membrete del sobre.
+
+—¿Ya os lo han leído?
+
+—Esta mañana.
+
+—Mi padre alegó en el cincuenta y siete. Le contestaron dos años después.
+
+—Está en el expediente —dijo Aslak—. Página once.
+
+Aslak pagó justo. La cajera dobló el recibo y saludó por su nombre al hombre que esperaba detrás.
+
+* * *
+
+Dejó el acta en el cajón del refugio, encima de las tres reproducciones que volvían con él. Las selladas llegarían en diez días.
+
+Nils Seppola tenía el remolque ya enganchado abajo, en el varadero, y las cajas todavía a la sombra del costado. El remolque llevaba una lona doblada en el cuello y los calzos puestos del revés. Aslak los cambió antes de tocar nada.
+
+—El comprador viene a las seis —dijo Nils.
+
+—Entonces cargamos ahora.
+
+La marea buena se había ido a las dos. La que quedaba servía para cargar y no para salir. Aslak apartó del pasillo un cabo mal recogido, lo adujó y lo colgó de la bita.
+
+El hielo llegaba justo para seis cajas. Aslak lo repartió entre las cuatro primeras y dejó las dos últimas para el final. Contó en voz alta mientras las levantaban.
+
+—Okta, guokte, golbma.
+
+Nils siguió a partir de njeallje y falló el peso de la quinta. La caja golpeó el borde del remolque y perdió una esquina de hielo.
+
+—Por debajo —dijo Aslak—. Las manos van debajo.
+
+Volvieron a subirla entre los dos. Nils lo repitió con la sexta. El comprador pagaba por caja y descontaba el hielo. El pasaje, el gasoil y la tarde perdida sumaban trescientos y una marea.
+
+Aslak comprobó la guía de proa. Apretó una mordaza floja. A las cinco y diez quedaban dos cajas. La luz de mayo les daba hasta las once.
+
+—¿Qué han dicho? —preguntó Nils.
+
+—Que antes de cerrar el paso tienen que preguntarnos.
+
+—¿Y el corredor?
+
+—Sigue.
+
+Nils empujó una caja hasta el fondo del remolque.
+
+—Eso no es nada.
+
+—Es un aviso —dijo Aslak—. Coge por el otro extremo.

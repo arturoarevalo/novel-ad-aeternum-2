@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@alenvace/book-builder": "github:alenvace/book-builder"
+  }
+}
