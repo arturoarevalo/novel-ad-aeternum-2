@@ -108,7 +108,7 @@ Era la primera precisión que Alana ofrecía. Había venido preparada para discu
 
 —¿De qué?
 
-—De material sujeto a custodia. No, sé cómo suena. El marco lo trataba como una obligación que sobrevivía a Jean.
+—De material sujeto a custodia. No… Sé cómo suena. El marco lo trataba como una obligación que sobrevivía a Jean.
 
 —A ti no parece costarte.
 
